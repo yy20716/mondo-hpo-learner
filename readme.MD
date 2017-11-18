@@ -1,4 +1,4 @@
-# MondoHPOMapper
+# Mondo-HPO-Learner
 
 ## Goal
 Our goal is to learn classifications in [MonDO disease ontology](https://github.com/monarch-initiative/monarch-disease-ontology), i.e. given existing MonDO classifications, learn fuzzy equivalence axioms. For example, we would like to know what would be a good class expression to define 'late onset Parkinson disease' using terms defined in [HPO ontology](http://human-phenotype-ontology.github.io).
