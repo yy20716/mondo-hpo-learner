@@ -1,0 +1,16 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX oboInOwl: <http://www.geneontology.org/formats/oboInOwl#>
+
+# Putting "DISTINCT" literally kills jena somehow.
+# SELECT DISTINCT ?class ?subclass ?source WHERE {
+
+SELECT ?class ?subclass ?source WHERE {
+	?subclass rdfs:subClassOf+ ?class .
+	?subclass oboInOwl:hasDbXref ?source .
+	?ssubclass rdfs:subClassOf ?subclass .
+	
+	FILTER(?class NOT IN (owl:Thing))
+	FILTER(!isBlank(?class))
+	FILTER(contains(?source,"OMIM") || contains(?source,"Orphanet"))
+}
