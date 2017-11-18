@@ -1,7 +1,7 @@
 # Mondo-HPO-Learner
 
 ## Goal
-Our goal is to learn classifications in [MonDO disease ontology](https://github.com/monarch-initiative/monarch-disease-ontology), i.e. given existing MonDO classifications, learn fuzzy equivalence axioms. For example, we would like to know what would be a good class expression to define 'late onset Parkinson disease' using terms defined in [HPO ontology](http://human-phenotype-ontology.github.io).
+Our goal is to learn classifications in [MonDO disease ontology](https://github.com/monarch-initiative/monarch-disease-ontology), i.e. given existing MonDO classifications, learn fuzzy equivalence axioms. For example, we would like to know what would be a good class expression to define 'late onset Parkinson disease' using terms defined in [HPO ontology](http://human-phenotype-ontology.github.io), e.g., MONDO:0018466 (late onset Parkinson disease) can be defined as a an expression that consists of HP:0002322 (Resting tremor) and HP:0001300 (Parkinsonism) and ..., etc.
 
 ## Approach
 We leveraged [DL-Learner](http://dl-learner.org) for inductive learning. DL-Learner is an OWL-based inductive learning framework. It allows the learning of class expressions to be used in an equivalent class expression, e.g., given data about people and their relationships, it can learn “Uncle = brother-of o has-child some Male”. Using the DL-Learner, our goal is to ‘learn’ all non-root classes in MonDO. Interested readers can also check [these slides](https://docs.google.com/presentation/d/1Huhj_PeasO9Gb9_8ebaQ4OFh4GadKGRFN-ZAJwRjyfI/edit?usp=sharing).
@@ -21,7 +21,7 @@ Note that we do not use hp.owl released from the official HPO page because it co
 ~~~~
 
 ### Installation and Usage
-Once we have all three files, please run the following commands for building and running the executable jar file.
+Once all three files are ready, run the following commands for building and running the executable jar file.
 
 ~~~~
     mvn clean compile assembly:single
