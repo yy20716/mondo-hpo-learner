@@ -111,13 +111,16 @@ public class MarkdownReportGenerator {
 			Pattern pattern = Pattern.compile("[.\\d]+%");
 			for (String classCurie : classKeyList) {
 				String classLabel = entityLabelMap.get(curieUtil.getIri(classCurie).get());
-
+				if (classLabel == null) continue;
+				
 				File reportFile = new File("report/markdown/" + classCurie.replace(":", "_") + ".md");
+				if (reportFile.exists() != true) continue;
+				
 				String reportString = FileUtils.readFileToString(reportFile, Charset.defaultCharset());
 				Matcher matcher = pattern.matcher(reportString);
 
 				if (reportFile.length() > 0 && classLabel != null && matcher.find()) {
-					Link classLink =  new Link(classCurie, "html/" + classCurie.replace(":","_") + ".html");
+					Link classLink =  new Link(classCurie, "markdown/" + classCurie.replace(":","_") + ".md");
 					sb.append("1. " + classLink + " (" + classLabel  +") [" + classSubclassMap.get(classCurie).size() + "][" + matcher.group(0) + "]").append(newLineChar);
 				}
 			}
@@ -128,10 +131,12 @@ public class MarkdownReportGenerator {
 			out.flush();
 			out.close();
 
+			/*
 			String exepath = "pandoc";
 			String exeargs = indexFilename + " -f markdown -t html -s -o report/index.html";
 			Runtime r = Runtime.getRuntime();
 			r.exec(exepath + " " + exeargs);
+			*/
 		} catch (Exception e) {
 			logger.error(e.getMessage() + e.getStackTrace());
 		}

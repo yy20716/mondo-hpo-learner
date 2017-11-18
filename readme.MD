@@ -29,8 +29,8 @@ Once we have all three files, we can run the following commands to pre-process d
 The execution of this program generates the HTML files that shows mappings between (i) MonDO classes and equivalent classes from OMIM and Orphanet and (ii) HP classes with accuracy/precision. These files are available in the 'report' directory.
 
 ## Contributors
-- [Chris Mungall](cjmungall@lbl.gov) (Overall design and idea)
-- [HyeongSik Kim](HyeongSikKim@lbl.gov) (Implementation and testing)
+- [Chris Mungall](https://github.com/cmungall) (Overall design and idea)
+- [HyeongSik Kim](https://github.com/yy20716) (Implementation and testing)
 
 
 

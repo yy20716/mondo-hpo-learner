@@ -41,6 +41,7 @@ public class Main {
 		MarkdownReportGenerator reportGenerator = new MarkdownReportGenerator(classSubClassMap, classEqEntityMap);
 		reportGenerator.setCurieUtil(curieUtil);
 		reportGenerator.precomputeLabels();
+		reportGenerator.generateIndexFile();
 		
 		int classParamSize = classParamMap.keySet().size();
 		DLLearnerWrapper wrapper = new DLLearnerWrapper();
