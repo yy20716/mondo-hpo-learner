@@ -41,7 +41,6 @@ public class Main {
 		MarkdownReportGenerator reportGenerator = new MarkdownReportGenerator(classSubClassMap, classEqEntityMap);
 		reportGenerator.setCurieUtil(curieUtil);
 		reportGenerator.precomputeLabels();
-		reportGenerator.generateIndexFile();
 		
 		int classParamSize = classParamMap.keySet().size();
 		DLLearnerWrapper wrapper = new DLLearnerWrapper();
@@ -59,6 +58,9 @@ public class Main {
 			int eqEntitySize = classEqEntityMap.get(classCurie).size();
 			if (eqEntitySize < 1) continue;
 
+			int paramSize = classParamMap.get(classCurie).size();
+			if (paramSize < 2) continue;
+			
 			Set<OWLIndividual> paramSet = new HashSet<>(classParamMap.get(classCurie));
 			classResultMap.put(classCurie, wrapper.run(paramSet));
 

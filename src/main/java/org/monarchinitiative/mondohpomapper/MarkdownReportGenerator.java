@@ -177,7 +177,7 @@ public class MarkdownReportGenerator {
 
 			for (String classCurie : classResultMap.keySet()) {
 				String reportFilenameBody = classCurie.replace(":", "_");
-				FileWriter fw = new FileWriter("report/markdown/" + reportFilenameBody + ".md", true);
+				FileWriter fw = new FileWriter("report/markdown/" + reportFilenameBody + ".md", false);
 				BufferedWriter bw = new BufferedWriter(fw);
 				PrintWriter out = new PrintWriter(bw);
 
