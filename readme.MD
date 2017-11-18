@@ -32,6 +32,7 @@ The execution of this program will generate the HTML files that show mappings be
 
 ## Contributors
 - [Chris Mungall](https://github.com/cmungall) (Overall design and idea)
+- [Jim Balhoff](https://github.com/balhoff) (Additional suggestion and feedback on design and idea)
 - [HyeongSik Kim](https://github.com/yy20716) (Implementation and testing)
 
 
