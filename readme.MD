@@ -25,15 +25,15 @@ Once all three files are ready, run the following commands for building and runn
 
 ~~~~
     mvn clean compile assembly:single
-    java -jar target/mondohpomapper-0.0.1-SNAPSHOT-jar-with-dependencies.jar 
+    java -jar target/mondohpolearner-0.0.1-SNAPSHOT-jar-with-dependencies.jar 
 ~~~~
 
 The execution of this program will generate the HTML files that show mappings between (i) MonDO classes and (ii) HPO classes with accuracy/precision in the 'report' directory. We upload the report directory in this repository as well.
 
 ## Contributors
-- [Chris Mungall](https://github.com/cmungall) (Overall design and idea)
-- [Jim Balhoff](https://github.com/balhoff) (Additional suggestion and feedback on design and idea)
-- [HyeongSik Kim](https://github.com/yy20716) (Implementation and testing)
+- [Chris Mungall](https://github.com/cmungall)
+- [Jim Balhoff](https://github.com/balhoff)
+- [HyeongSik Kim](https://github.com/yy20716)
 
 
 
