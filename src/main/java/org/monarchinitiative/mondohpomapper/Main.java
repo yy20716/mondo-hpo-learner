@@ -58,8 +58,8 @@ public class Main {
 			int eqEntitySize = classEqEntityMap.get(classCurie).size();
 			if (eqEntitySize < 1) continue;
 
-			int paramSize = classParamMap.get(classCurie).size();
-			if (paramSize < 2) continue;
+			int subClassSize = classSubClassMap.get(classCurie).size();
+			if (subClassSize < 2) continue;
 			
 			Set<OWLIndividual> paramSet = new HashSet<>(classParamMap.get(classCurie));
 			classResultMap.put(classCurie, wrapper.run(paramSet));
