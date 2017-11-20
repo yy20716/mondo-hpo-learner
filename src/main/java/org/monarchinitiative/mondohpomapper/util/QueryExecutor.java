@@ -15,8 +15,27 @@ import org.apache.log4j.Logger;
 
 public class QueryExecutor {
 	private static final Logger logger = Logger.getLogger(QueryExecutor.class.getName());
+	private Model commonModel;
 
-	public ResultSet executeOnce(String dataFileName, String queryFileName) {
+	public void loadModel(String dataFileName) {
+		commonModel = FileManager.get().loadModel(dataFileName);
+	}
+
+	public ResultSet execute(String queryFileName) {
+		try {
+			File queryFile = new File(queryFileName);
+			String queryString = FileUtils.readFileToString(queryFile, StandardCharsets.UTF_8);
+			Query query = QueryFactory.create(queryString);
+			QueryExecution qexec = QueryExecutionFactory.create(query, commonModel);
+			return qexec.execSelect();
+		} catch (Exception e) {
+			logger.error(e.getMessage());
+		}
+
+		return null;
+	}
+
+	public static ResultSet executeOnce(String dataFileName, String queryFileName) {
 		try {
 			Model onetimeModel = FileManager.get().loadModel(dataFileName);
 			File queryFile = new File(queryFileName);

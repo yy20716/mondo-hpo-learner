@@ -1,7 +1,9 @@
 package org.monarchinitiative.mondohpomapper;
 
+import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.PrintWriter;
 import java.nio.charset.Charset;
@@ -48,10 +50,11 @@ public class MarkdownReportGenerator {
 	private Multimap<String, String> classEqEntityMap;
 	private Map<String, Set<? extends EvaluatedDescription>> classResultMap;
 	private OWLObjectRenderer renderer = StringRenderer.getRenderer();
-	private DecimalFormat dfPercent = new DecimalFormat("0.00%");
-	private QueryExecutor queryExecutor = new QueryExecutor();
+	private DecimalFormat dfPercent = new DecimalFormat("0.00%");	
+	private QueryExecutor mondoQueryExecutor = new QueryExecutor();
 	private String newLineChar = System.getProperty("line.separator");
 	private Map<String, String> entityLabelMap = Maps.newHashMap();
+	private String mondoVersion;
 	private CurieUtil curieUtil;
 
 	public MarkdownReportGenerator(Multimap<String, String> classSubclassMap, Multimap<String, String> classEqEntityMap) {
@@ -77,15 +80,25 @@ public class MarkdownReportGenerator {
 	}
 
 	public void precomputeLabels() {
-		ResultSet mondoResultSet = queryExecutor.executeOnce("mondo.owl", "src/main/resources/computeEntityLabel.sparql");
-		while (mondoResultSet.hasNext()) {
-			QuerySolution binding = mondoResultSet.nextSolution();
+		mondoQueryExecutor.loadModel("mondo.owl");
+		/* 1. extract versionIRIs from mondo ontology, e.g., <http://purl.obolibrary.org/obo/mondo/releases/2017-11-10/mondo.owl> */
+		ResultSet mondoVersionResultSet = mondoQueryExecutor.execute("src/main/resources/extractVersion.sparql");
+		while (mondoVersionResultSet.hasNext()) {
+			QuerySolution binding = mondoVersionResultSet.nextSolution();
+			Resource versionRsrc = (Resource)binding.get("version");
+			mondoVersion = versionRsrc.getURI().split("/")[6];
+		}
+		
+		/* 2. extract class labels from mondo.owl */
+		ResultSet mondoLabelResultSet = mondoQueryExecutor.execute("src/main/resources/computeEntityLabel.sparql");
+		while (mondoLabelResultSet.hasNext()) {
+			QuerySolution binding = mondoLabelResultSet.nextSolution();
 			Resource classRsrc = (Resource)binding.get("class");
 			Literal label = (Literal) binding.get("label");
 			entityLabelMap.put(classRsrc.toString(), label.toString());
-		}		
+		}
 
-		ResultSet hpResultSet = queryExecutor.executeOnce("hp.owl", "src/main/resources/computeEntityLabel.sparql");
+		ResultSet hpResultSet = QueryExecutor.executeOnce("hp.owl", "src/main/resources/computeEntityLabel.sparql");
 		while (hpResultSet.hasNext()) {
 			QuerySolution binding = hpResultSet.nextSolution();
 			Resource classRsrc = (Resource)binding.get("class");
@@ -106,16 +119,17 @@ public class MarkdownReportGenerator {
 			Collections.sort(classKeyList);
 
 			StringBuilder sb = new StringBuilder();
-			sb.append("1. MONDO classname (Label) [#subclasses][accuracy]").append(newLineChar).append(newLineChar);
+			sb.append("Version: " + mondoVersion).append(newLineChar);
+			sb.append("Format: MONDO classname (Label) [#subclasses][accuracy]").append(newLineChar).append(newLineChar);
 
 			Pattern pattern = Pattern.compile("[.\\d]+%");
 			for (String classCurie : classKeyList) {
 				String classLabel = entityLabelMap.get(curieUtil.getIri(classCurie).get());
 				if (classLabel == null) continue;
-				
+
 				File reportFile = new File("report/markdown/" + classCurie.replace(":", "_") + ".md");
 				if (reportFile.exists() != true) continue;
-				
+
 				String reportString = FileUtils.readFileToString(reportFile, Charset.defaultCharset());
 				Matcher matcher = pattern.matcher(reportString);
 
@@ -136,7 +150,7 @@ public class MarkdownReportGenerator {
 			String exeargs = indexFilename + " -f markdown -t html -s -o report/index.html";
 			Runtime r = Runtime.getRuntime();
 			r.exec(exepath + " " + exeargs);
-			*/
+			 */
 		} catch (Exception e) {
 			logger.error(e.getMessage() + e.getStackTrace());
 		}
