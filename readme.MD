@@ -1,12 +1,13 @@
-# MondoHPOMapper
+# Mondo-HPO-Learner
 
 ## Goal
-Our goal is to learn classifications in [MonDO disease ontology](https://github.com/monarch-initiative/monarch-disease-ontology), i.e. given existing MonDO classifications, learn fuzzy equivalence axioms. For example, we would like to know what would be a good class expression to define 'late onset Parkinson disease' using terms in [HPO ontology](http://human-phenotype-ontology.github.io).
+Our goal is to learn classifications in [MonDO disease ontology](https://github.com/monarch-initiative/monarch-disease-ontology), i.e. given existing MonDO classifications, learn fuzzy equivalence axioms. For example, we would like to know what would be a good class expression to define 'late onset Parkinson disease' using terms defined in [HPO ontology](http://human-phenotype-ontology.github.io), e.g., MONDO:0018466 (late onset Parkinson disease) can be defined as a an expression that consists of HP:0002322 (Resting tremor) and HP:0001300 (Parkinsonism) and ..., etc.
 
 ## Approach
-We leveraged [DL-Learner](http://dl-learner.org) for inductive learning. DL-Learner is an OWL-based inductive learning framework. It allows the learning of class expressions to be used in an equivalent class expression, e.g., given data about people and their relationships, it can learn “Uncle = brother-of o has-child some Male”. Using the DL-Learner, our goal is to ‘learn’ all non-root classes in MonDO.
+We leveraged [DL-Learner](http://dl-learner.org) for inductive learning. DL-Learner is an OWL-based inductive learning framework. It allows the learning of class expressions to be used in an equivalent class expression, e.g., given data about people and their relationships, it can learn “Uncle = brother-of o has-child some Male”. Using the DL-Learner, our goal is to ‘learn’ all non-root classes in MonDO. Interested readers can also check [these slides](https://docs.google.com/presentation/d/1Huhj_PeasO9Gb9_8ebaQ4OFh4GadKGRFN-ZAJwRjyfI/edit?usp=sharing).
 
-## Quick setup and test
+## Getting Started
+### Prerequisites
 Please download these files in the root of the cloned directory.
 
 - [MONDO decease ontology](http://purl.obolibrary.org/obo/mondo/pre/mondo.owl)
@@ -19,22 +20,20 @@ Note that we did not use hp.owl released from the official HPO page because it c
     target/owltools hp.obo --no-reasoner --merge-support-ontologies -o hp.owl
 ~~~~
 
-Once we have all three files, we can run the following commands to pre-process data and run DL-Learner for generating mappings.
+### Installation and Usage
+Once all three files are ready, run the following commands for building and running the executable jar file.
 
 ~~~~
     mvn clean compile assembly:single
     java -jar target/mondohpomapper-0.0.1-SNAPSHOT-jar-with-dependencies.jar 
 ~~~~
 
-The execution of this program generates the HTML files that shows mappings between (i) MonDO classes and equivalent classes from OMIM and Orphanet and (ii) HP classes with accuracy/precision. These files are available in the 'report' directory.
+The execution of this program will generate the HTML files that show mappings between (i) MonDO classes and (ii) HPO classes with accuracy/precision in the 'report' directory. We upload the report directory in this repository as well.
 
 ## Contributors
 - [Chris Mungall](https://github.com/cmungall) (Overall design and idea)
+- [Jim Balhoff](https://github.com/balhoff) (Additional suggestion and feedback on design and idea)
 - [HyeongSik Kim](https://github.com/yy20716) (Implementation and testing)
-
-
-
-
 
 
 
