@@ -24,20 +24,27 @@ import com.google.common.collect.Multimaps;
 public class Main {
 	private static final Logger logger = Logger.getLogger(Main.class.getName());
 
+	/* key: mondo class (curie), value: a list of equivalent classes that will be fed as parameters for running DL-Learner */
 	private Multimap<String, OWLIndividual> classParamMap = Multimaps.newSetMultimap(new LinkedHashMap<>(), HashSet::new);
+	/* key: mondo class (curie), value: a list of equivalent classes in mondo, e.g., Orphanet, OMIM */
 	private Multimap<String, String> classEqEntityMap = Multimaps.newSetMultimap(new LinkedHashMap<>(), HashSet::new);
+	/* key: mondo class (curie), value: a list of mondo subclasses in mondo */
 	private Multimap<String, String> classSubClassMap = Multimaps.newSetMultimap(new LinkedHashMap<>(), HashSet::new);
+	/* key: mondo class (curie), value: a result of running DL-learner, i.e., a list of class expressions that define the key mondo class */
 	private Map<String, Set<? extends EvaluatedDescription>> classResultMap = Maps.newHashMap();
 
 	public void run() {
+		/* Initialize curieUtil which converts Curie to IRI and vice versa */
 		CurieMapGenerator generator = new CurieMapGenerator();
 		Map<String, String> curieMap = generator.generate();
 		CurieUtil curieUtil = new CurieUtil(curieMap);
 
+		/* preprocess the data */
 		Preprocessor pp = new Preprocessor(classParamMap, classEqEntityMap, classSubClassMap);
 		pp.setCurieUtil(curieUtil);
 		pp.run();
 
+		/* Initialize MarkDownReportGenerator */
 		MarkdownReportGenerator reportGenerator = new MarkdownReportGenerator(classSubClassMap, classEqEntityMap);
 		reportGenerator.setCurieUtil(curieUtil);
 		reportGenerator.precomputeLabels();
@@ -46,6 +53,7 @@ public class Main {
 		DLLearnerWrapper wrapper = new DLLearnerWrapper();
 		logger.info("the number of classes: " + classParamSize);
 
+		/* Run DL-Learner over each mondo class using the parameters stored in classParamMap */
 		int classIndex = 0;
 		List<String> classKeyList = new ArrayList<>(classParamMap.asMap().keySet());
 		Collections.sort(classKeyList);
@@ -60,7 +68,7 @@ public class Main {
 
 			int subClassSize = classSubClassMap.get(classCurie).size();
 			if (subClassSize < 2) continue;
-			
+
 			Set<OWLIndividual> paramSet = new HashSet<>(classParamMap.get(classCurie));
 			classResultMap.put(classCurie, wrapper.run(paramSet));
 
@@ -69,7 +77,7 @@ public class Main {
 
 			classResultMap.clear();
 		}
-		
+
 		reportGenerator.generateIndexFile();
 	}
 

@@ -9,6 +9,7 @@ import org.apache.log4j.Logger;
 import org.monarchinitiative.mondohpomapper.Preprocessor;
 import org.yaml.snakeyaml.Yaml;
 
+/* read curie_map.yaml and pur the k-v entries into curieMap, which will be used as a parameter of */
 public class CurieMapGenerator {
 	private static final Logger logger = Logger.getLogger(Preprocessor.class.getName());
 	

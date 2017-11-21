@@ -1,6 +1,7 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX obo: <http://purl.obolibrary.org/obo/>
 
+# extract versionIRI from mondo ontology.
 SELECT DISTINCT ?version WHERE {
 	obo:mondo.owl owl:versionIRI ?version .	
 }

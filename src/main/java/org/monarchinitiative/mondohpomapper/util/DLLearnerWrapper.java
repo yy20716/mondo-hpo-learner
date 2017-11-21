@@ -13,7 +13,6 @@ import org.dllearner.learningproblems.PosOnlyLP;
 import org.dllearner.reasoning.ClosedWorldReasoner;
 import org.semanticweb.owlapi.model.OWLIndividual;
 
-
 public class DLLearnerWrapper{
 	private static final Logger logger = Logger.getLogger(DLLearnerWrapper.class.getName());
 	private OWLFile ks;

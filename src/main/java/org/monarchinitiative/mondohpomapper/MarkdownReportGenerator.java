@@ -3,7 +3,6 @@ package org.monarchinitiative.mondohpomapper;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.PrintWriter;
 import java.nio.charset.Charset;
@@ -53,6 +52,7 @@ public class MarkdownReportGenerator {
 	private DecimalFormat dfPercent = new DecimalFormat("0.00%");	
 	private QueryExecutor mondoQueryExecutor = new QueryExecutor();
 	private String newLineChar = System.getProperty("line.separator");
+	/* key: mondo class, value: rdfs:labels of mondo class */
 	private Map<String, String> entityLabelMap = Maps.newHashMap();
 	private String mondoVersion;
 	private CurieUtil curieUtil;
@@ -62,10 +62,11 @@ public class MarkdownReportGenerator {
 		this.classSubclassMap = classSubclassMap;
 		this.classEqEntityMap = classEqEntityMap;
 
+		/* Generates directories that will store report files */
 		try {
 			FileUtils.forceMkdir(new File("report"));
 			FileUtils.forceMkdir(new File("report/markdown"));
-			FileUtils.forceMkdir(new File("report/html"));
+			/* FileUtils.forceMkdir(new File("report/html")); */
 		} catch (Exception e) {
 			logger.error(e.getMessage());		
 		}
@@ -79,6 +80,7 @@ public class MarkdownReportGenerator {
 		this.curieUtil = curieUtil;
 	}
 
+	/* pre-compute all labels (rdfs:label)for mondo classes */ 
 	public void precomputeLabels() {
 		mondoQueryExecutor.loadModel("mondo.owl");
 		/* 1. extract versionIRIs from mondo ontology, e.g., <http://purl.obolibrary.org/obo/mondo/releases/2017-11-10/mondo.owl> */
@@ -98,6 +100,7 @@ public class MarkdownReportGenerator {
 			entityLabelMap.put(classRsrc.toString(), label.toString());
 		}
 
+		/* 3. extract class labels from hp.owl */
 		ResultSet hpResultSet = QueryExecutor.executeOnce("hp.owl", "src/main/resources/computeEntityLabel.sparql");
 		while (hpResultSet.hasNext()) {
 			QuerySolution binding = hpResultSet.nextSolution();
@@ -107,6 +110,10 @@ public class MarkdownReportGenerator {
 		}
 	}
 
+	/* 
+	 * Generates an index file so that users can easily navigate report files
+	 * Each entry is connected to the report file. Each report file is for a single mondo class.
+	 */
 	public void generateIndexFile() {
 		try {
 			String indexFilename = "report/index.md";
@@ -130,6 +137,7 @@ public class MarkdownReportGenerator {
 				File reportFile = new File("report/markdown/" + classCurie.replace(":", "_") + ".md");
 				if (reportFile.exists() != true) continue;
 
+				/* We open each report file and read the top entry's percentage so that we can show it with the link in the index file. */
 				String reportString = FileUtils.readFileToString(reportFile, Charset.defaultCharset());
 				Matcher matcher = pattern.matcher(reportString);
 
@@ -145,6 +153,7 @@ public class MarkdownReportGenerator {
 			out.flush();
 			out.close();
 
+			/* Uncomment these if we want to use pandoc to convert markdown into html */
 			/*
 			String exepath = "pandoc";
 			String exeargs = indexFilename + " -f markdown -t html -s -o report/index.html";
@@ -183,12 +192,14 @@ public class MarkdownReportGenerator {
 		}
 	}
 
+	/* render and write a report file for a mondo class */
 	@SuppressWarnings("unchecked")
 	public void render() {
 		StringBuilder sb = new StringBuilder();
 		logger.info("Rendering a report file...");
 		try{
 
+			/* This loop is a kind of legacy; in ClassResultMap, there will be only one entry when this render method is called */
 			for (String classCurie : classResultMap.keySet()) {
 				String reportFilenameBody = classCurie.replace(":", "_");
 				FileWriter fw = new FileWriter("report/markdown/" + reportFilenameBody + ".md", false);
