@@ -63,8 +63,9 @@ public class Main {
 			File f = new File("target/markdown/" + classCurie.replace(":", "_") + ".md");
 			if(f.exists() && f.length() > 0) continue;
 
+			/* we skip processing classes if the # of subclasses or equivalent classes is less than 2. */ 
 			int eqEntitySize = classEqEntityMap.get(classCurie).size();
-			if (eqEntitySize < 1) continue;
+			if (eqEntitySize < 2) continue;
 
 			int subClassSize = classSubClassMap.get(classCurie).size();
 			if (subClassSize < 2) continue;
