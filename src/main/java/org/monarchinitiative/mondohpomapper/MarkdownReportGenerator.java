@@ -1,6 +1,5 @@
 package org.monarchinitiative.mondohpomapper;
 
-import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
@@ -90,7 +89,7 @@ public class MarkdownReportGenerator {
 			Resource versionRsrc = (Resource)binding.get("version");
 			mondoVersion = versionRsrc.getURI().split("/")[6];
 		}
-		
+
 		/* 2. extract class labels from mondo.owl */
 		ResultSet mondoLabelResultSet = mondoQueryExecutor.execute("src/main/resources/computeEntityLabel.sparql");
 		while (mondoLabelResultSet.hasNext()) {
@@ -137,13 +136,18 @@ public class MarkdownReportGenerator {
 				File reportFile = new File("report/markdown/" + classCurie.replace(":", "_") + ".md");
 				if (reportFile.exists() != true) continue;
 
-				/* We open each report file and read the top entry's percentage so that we can show it with the link in the index file. */
-				String reportString = FileUtils.readFileToString(reportFile, Charset.defaultCharset());
-				Matcher matcher = pattern.matcher(reportString);
+				if (reportFile.length() > 0) {
+					/* We open each report file and read the top entry's percentage so that we can show it with the link in the index file. */
+					String reportString = FileUtils.readFileToString(reportFile, Charset.defaultCharset());
+					Matcher matcher = pattern.matcher(reportString);
 
-				if (reportFile.length() > 0 && classLabel != null && matcher.find()) {
-					Link classLink =  new Link(classCurie, "markdown/" + classCurie.replace(":","_") + ".md");
-					sb.append("1. " + classLink + " (" + classLabel  +") [" + classSubclassMap.get(classCurie).size() + "][" + matcher.group(0) + "]").append(newLineChar);
+					if (matcher.find()) {
+						Link classLink =  new Link(classCurie, "markdown/" + classCurie.replace(":","_") + ".md");
+						sb.append("1. " + classLink + " (" + classLabel  +") [" + classSubclassMap.get(classCurie).size() + "][" + matcher.group(0) + "]").append(newLineChar);
+					} else {
+						Link classLink =  new Link(classCurie, "markdown/" + classCurie.replace(":","_") + ".md");
+						sb.append("1. " + classLink + " (" + classLabel  +") [" + classSubclassMap.get(classCurie).size() + "][no results]").append(newLineChar);
+					}
 				}
 			}
 
@@ -194,34 +198,29 @@ public class MarkdownReportGenerator {
 
 	/* render and write a report file for a mondo class */
 	@SuppressWarnings("unchecked")
-	public void render() {
+	public void render(String classCurie) {
 		StringBuilder sb = new StringBuilder();
 		logger.info("Rendering a report file...");
 		try{
+			String reportFilenameBody = classCurie.replace(":", "_");
+			FileWriter fw = new FileWriter("report/markdown/" + reportFilenameBody + ".md", false);
+			BufferedWriter bw = new BufferedWriter(fw);
+			PrintWriter out = new PrintWriter(bw);
 
-			/* This loop is a kind of legacy; in ClassResultMap, there will be only one entry when this render method is called */
-			for (String classCurie : classResultMap.keySet()) {
-				String reportFilenameBody = classCurie.replace(":", "_");
-				FileWriter fw = new FileWriter("report/markdown/" + reportFilenameBody + ".md", false);
-				BufferedWriter bw = new BufferedWriter(fw);
-				PrintWriter out = new PrintWriter(bw);
+			sb.append(newLineChar).append(new Heading(annoIRIwithLink(classCurie), 3)).append(newLineChar);
 
-				sb.append(newLineChar).append(new Heading(annoIRIwithLink(classCurie), 3)).append(newLineChar);
+			String classIRI = curieUtil.getIri(classCurie).get();
+			String mondoClassLabel = entityLabelMap.get(classIRI);
+			sb.append(new BoldText("Label:") + " " + mondoClassLabel).append(newLineChar).append(newLineChar);
+			sb.append(new BoldText("Subclasses:") + " " + generateAnnoClassListStr(classSubclassMap.get(classCurie))).append(newLineChar).append(newLineChar);
+			sb.append(new BoldText("Corr. equiv. classes:") + " " + generateAnnoClassListStr(classEqEntityMap.get(classCurie))).append(newLineChar).append(newLineChar);
+			sb.append(new BoldText("Class expressions from DL-Learner:")).append(newLineChar).append(newLineChar);
 
-				String classIRI = curieUtil.getIri(classCurie).get();
-				String mondoClassLabel = entityLabelMap.get(classIRI);
-				sb.append(new BoldText("Label:") + " " + mondoClassLabel).append(newLineChar).append(newLineChar);
-				sb.append(new BoldText("Subclasses:") + " " + generateAnnoClassListStr(classSubclassMap.get(classCurie))).append(newLineChar).append(newLineChar);
-				sb.append(new BoldText("Corr. equiv. classes:") + " " + generateAnnoClassListStr(classEqEntityMap.get(classCurie))).append(newLineChar).append(newLineChar);
-				sb.append(new BoldText("Class expressions from DL-Learner:")).append(newLineChar).append(newLineChar);
-
-				List<String> resultList = Lists.newArrayList();
-				Set<? extends EvaluatedDescription> resultSet = classResultMap.get(classCurie);
-				if (resultSet == null ) {
-					sb.append("No results from DL-Learner...").append(newLineChar);
-					continue;
-				}
-
+			List<String> resultList = Lists.newArrayList();
+			Set<? extends EvaluatedDescription> resultSet = classResultMap.get(classCurie);
+			if (resultSet == null ) {
+				sb.append("No results from DL-Learner...").append(newLineChar);
+			} else {
 				for(EvaluatedDescription<? extends Score> ed : resultSet) {
 					OWLClassExpression description = ed.getDescription();
 					Set<OWLClass> hpClasses = description.getClassesInSignature();
@@ -242,24 +241,24 @@ public class MarkdownReportGenerator {
 
 					hpClassExprStr = hpClassExprStr + " " + dfPercent.format(ed.getAccuracy());
 					resultList.add(hpClassExprStr);
-				}
-
-				sb.append(new UnorderedList<>(resultList));
-				sb.append(newLineChar).append(newLineChar);
-
-				out.println(sb.toString());
-				sb.setLength(0);
-
-				out.flush();
-				out.close();
-
-				/*
-				String exepath = "pandoc";
-				String exeargs = "report/markdown/" + reportFilenameBody + ".md -f markdown -t html -s -o " + "report/html/" + reportFilenameBody + ".html";
-				Runtime r = Runtime.getRuntime();
-				r.exec(exepath + " " + exeargs);
-				 */
+				}	
 			}
+
+			sb.append(new UnorderedList<>(resultList));
+			sb.append(newLineChar).append(newLineChar);
+
+			out.println(sb.toString());
+			sb.setLength(0);
+
+			out.flush();
+			out.close();
+
+			/*
+			String exepath = "pandoc";
+			String exeargs = "report/markdown/" + reportFilenameBody + ".md -f markdown -t html -s -o " + "report/html/" + reportFilenameBody + ".html";
+			Runtime r = Runtime.getRuntime();
+			r.exec(exepath + " " + exeargs);
+			 */
 		} catch (Exception e) {
 			logger.error(e.getMessage());
 		}

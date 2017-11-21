@@ -73,7 +73,7 @@ public class Main {
 			classResultMap.put(classCurie, wrapper.run(paramSet));
 
 			reportGenerator.setClassResultMap(classResultMap);
-			reportGenerator.render();
+			reportGenerator.render(classCurie);
 
 			classResultMap.clear();
 		}

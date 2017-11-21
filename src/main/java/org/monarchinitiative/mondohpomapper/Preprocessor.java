@@ -118,8 +118,7 @@ public class Preprocessor {
 		logger.info("Computing all subclasses and equivalent entities from mondo.owl...");
 		String queryFileName = "src/main/resources/extractSubclasses.sparql";
 		String dataFileName = "mondo.owl";
-		QueryExecutor queryExecutor = new QueryExecutor();
-		ResultSet resultSet = queryExecutor.executeOnce(dataFileName, queryFileName);
+		ResultSet resultSet = QueryExecutor.executeOnce(dataFileName, queryFileName);
 
 		while (resultSet.hasNext()) {
 			QuerySolution binding = resultSet.nextSolution();
