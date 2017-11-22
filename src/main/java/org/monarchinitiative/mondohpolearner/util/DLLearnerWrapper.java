@@ -1,4 +1,4 @@
-package org.monarchinitiative.mondohpomapper.util;
+package org.monarchinitiative.mondohpolearner.util;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -18,10 +18,10 @@ public class DLLearnerWrapper{
 	private OWLFile ks;
 	private ClosedWorldReasoner reasoner;
 
-	public DLLearnerWrapper() {
+	public DLLearnerWrapper(String inputFilename) {
 		try {
 			ks = new OWLFile();
-			ks.setFileName("hpwithabox.owl");
+			ks.setFileName(inputFilename);
 			ks.init();
 
 			reasoner = new ClosedWorldReasoner();

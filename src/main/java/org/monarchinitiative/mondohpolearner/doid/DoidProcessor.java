@@ -1,4 +1,4 @@
-package org.monarchinitiative.mondohpomapper;
+package org.monarchinitiative.mondohpolearner.doid;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -11,8 +11,8 @@ import java.util.Set;
 
 import org.apache.log4j.Logger;
 import org.dllearner.core.EvaluatedDescription;
-import org.monarchinitiative.mondohpomapper.util.CurieMapGenerator;
-import org.monarchinitiative.mondohpomapper.util.DLLearnerWrapper;
+import org.monarchinitiative.mondohpolearner.util.CurieMapGenerator;
+import org.monarchinitiative.mondohpolearner.util.DLLearnerWrapper;
 import org.prefixcommons.CurieUtil;
 import org.semanticweb.owlapi.model.OWLIndividual;
 
@@ -20,10 +20,15 @@ import com.google.common.collect.Maps;
 import com.google.common.collect.Multimap;
 import com.google.common.collect.Multimaps;
 
-@SuppressWarnings("rawtypes")
-public class Main {
-	private static final Logger logger = Logger.getLogger(Main.class.getName());
-
+public class DoidProcessor {
+	private static final Logger logger = Logger.getLogger(DoidProcessor.class.getName()); 
+	
+	public static final String inputOWLFile = "doid.owl";
+	public static final String reportHomeDir = "doid_report";
+	public static final String markdownDir = reportHomeDir + File.separator + "markdown";
+	public static final String hpofilewithAbox = "hpwithdoidabox.owl";
+	public static final String queryExtractSubclasses = "src/main/resources/org/monarchinitiative/mondohpolearner/doid/extractSubclasses.sparql";
+	
 	/* key: mondo class (curie), value: a list of equivalent classes that will be fed as parameters for running DL-Learner */
 	private Multimap<String, OWLIndividual> classParamMap = Multimaps.newSetMultimap(new LinkedHashMap<>(), HashSet::new);
 	/* key: mondo class (curie), value: a list of equivalent classes in mondo, e.g., Orphanet, OMIM */
@@ -40,27 +45,27 @@ public class Main {
 		CurieUtil curieUtil = new CurieUtil(curieMap);
 
 		/* preprocess the data */
-		Preprocessor pp = new Preprocessor(classParamMap, classEqEntityMap, classSubClassMap);
+		DoidPreprocessor pp = new DoidPreprocessor(classParamMap, classEqEntityMap, classSubClassMap);
 		pp.setCurieUtil(curieUtil);
 		pp.run();
-
+		
 		/* Initialize MarkDownReportGenerator */
-		MarkdownReportGenerator reportGenerator = new MarkdownReportGenerator(classSubClassMap, classEqEntityMap);
+		DoidReportGenerator reportGenerator = new DoidReportGenerator(classSubClassMap, classEqEntityMap);
 		reportGenerator.setCurieUtil(curieUtil);
 		reportGenerator.precomputeLabels();
-		
+
 		int classParamSize = classParamMap.keySet().size();
-		DLLearnerWrapper wrapper = new DLLearnerWrapper();
+		DLLearnerWrapper wrapper = new DLLearnerWrapper(hpofilewithAbox);
 		logger.info("the number of classes: " + classParamSize);
 
-		/* Run DL-Learner over each mondo class using the parameters stored in classParamMap */
+		/* Run DL-Learner over each doid class using the parameters stored in classParamMap */
 		int classIndex = 0;
 		List<String> classKeyList = new ArrayList<>(classParamMap.asMap().keySet());
 		Collections.sort(classKeyList);
 		for (String classCurie : classKeyList) {
 			logger.info("Processing " + classCurie + " (" + ++classIndex + "/" + classParamSize + ")");
 
-			File f = new File("target/markdown/" + classCurie.replace(":", "_") + ".md");
+			File f = new File(markdownDir + File.separator + classCurie.replace(":", "_") + ".md");
 			if(f.exists() && f.length() > 0) continue;
 
 			/* we skip processing classes if the # of subclasses or equivalent classes is less than 2. */ 
@@ -80,10 +85,5 @@ public class Main {
 		}
 
 		reportGenerator.generateIndexFile();
-	}
-
-	public static void main( String[] args ) {
-		Main mainInst = new Main();
-		mainInst.run();
 	}
 }

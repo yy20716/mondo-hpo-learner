@@ -1,4 +1,4 @@
-package org.monarchinitiative.mondohpomapper;
+package org.monarchinitiative.mondohpolearner.doid;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -21,7 +21,7 @@ import org.apache.jena.rdf.model.ResourceFactory;
 import org.apache.jena.util.FileManager;
 import org.apache.jena.vocabulary.RDF;
 import org.apache.log4j.Logger;
-import org.monarchinitiative.mondohpomapper.util.QueryExecutor;
+import org.monarchinitiative.mondohpolearner.util.QueryExecutor;
 import org.prefixcommons.CurieUtil;
 import org.semanticweb.owlapi.model.IRI;
 import org.semanticweb.owlapi.model.OWLIndividual;
@@ -32,15 +32,15 @@ import com.univocity.parsers.tsv.TsvParserSettings;
 
 import uk.ac.manchester.cs.owl.owlapi.OWLNamedIndividualImpl;
 
-public class Preprocessor {
-	private static final Logger logger = Logger.getLogger(Preprocessor.class.getName());
+public class DoidPreprocessor {
+	private static final Logger logger = Logger.getLogger(DoidPreprocessor.class.getName());
 
 	private Multimap<String, OWLIndividual> classParamMap;
 	private Multimap<String, String> classEqEntityMap;	
 	private Multimap<String, String> classSubClassMap;
 	private CurieUtil curieUtil;
 
-	public Preprocessor(Multimap<String, OWLIndividual> classParamMap, Multimap<String, String> classEqEntityMap,
+	public DoidPreprocessor(Multimap<String, OWLIndividual> classParamMap, Multimap<String, String> classEqEntityMap,
 			Multimap<String, String> classSubClassMap) {
 		super();
 		this.classParamMap = classParamMap;
@@ -57,25 +57,11 @@ public class Preprocessor {
 		generateConfParam();
 		generateAbox();
 	}
-
-	private void generateConfParam() {
-		logger.info("Generating parameters for DL-learners...");
-		for (String eachClass : classEqEntityMap.keySet()) {
-			Collection<String> eqEntitySet = classEqEntityMap.get(eachClass);
-
-			for (String eqEntity: eqEntitySet) {
-				if (eqEntity.contains("ORPHA"))
-					eqEntity = eqEntity.replace("ORPHA", "Orphanet");
-				String eqEntityIRI = curieUtil.getIri(eqEntity).get();
-				classParamMap.put(eachClass, new OWLNamedIndividualImpl(IRI.create(eqEntityIRI)));
-			}
-		}
-	}
-
+	
 	private void generateAbox() {
 		try {
 			logger.info("Generating aboxes for hp.owl...");
-			File file = new File("hpwithabox.owl");
+			File file = new File(DoidProcessor.hpofilewithAbox);
 			if(file.exists() && !file.isDirectory()) {
 				logger.info("The combined file already exists, so we skip generating the abox..");
 				return;
@@ -114,14 +100,27 @@ public class Preprocessor {
 		}
 	}
 
+	private void generateConfParam() {
+		logger.info("Generating parameters for DL-learners...");
+		for (String eachClass : classEqEntityMap.keySet()) {
+			Collection<String> eqEntitySet = classEqEntityMap.get(eachClass);
+
+			for (String eqEntity: eqEntitySet) {
+				if (eqEntity.contains("ORPHA"))
+					eqEntity = eqEntity.replace("ORPHA", "Orphanet");
+				String eqEntityIRI = curieUtil.getIri(eqEntity).get();
+				classParamMap.put(eachClass, new OWLNamedIndividualImpl(IRI.create(eqEntityIRI)));
+			}
+		}
+	}
+
 	private void computeClassMappings() {
-		logger.info("Computing all subclasses and equivalent entities from mondo.owl...");
-		String queryFileName = "src/main/resources/extractSubclasses.sparql";
-		String dataFileName = "mondo.owl";
-		ResultSet resultSet = QueryExecutor.executeOnce(dataFileName, queryFileName);
+		logger.info("Computing all subclasses and equivalent entities from " + DoidProcessor.inputOWLFile + "...");
+		ResultSet resultSet = QueryExecutor.executeOnce (DoidProcessor.inputOWLFile, DoidProcessor.queryExtractSubclasses);
 
 		while (resultSet.hasNext()) {
 			QuerySolution binding = resultSet.nextSolution();
+
 			Resource classRsrc = (Resource)binding.get("class");
 			Resource subClassRsrc = (Resource)binding.get("subclass");
 			Literal source = (Literal) binding.get("source");
@@ -130,12 +129,10 @@ public class Preprocessor {
 			String subClassRsrcIRI = curieUtil.getCurie(subClassRsrc.getURI()).get();
 			String sourceIRI = source.getString();
 
-			if (curieUtil.getIri(sourceIRI).isPresent()) {
-				classSubClassMap.put(classRsrcIRI, subClassRsrcIRI);
-				if (sourceIRI.contains("Orphanet"))
-					sourceIRI = 	sourceIRI.replace("Orphanet", "ORPHA");
-				classEqEntityMap.put(classRsrcIRI, sourceIRI);
-			}
+			classSubClassMap.put(classRsrcIRI, subClassRsrcIRI);
+			if (sourceIRI.contains("ORDO"))
+				sourceIRI = 	sourceIRI.replace("ORDO", "ORPHA");
+			classEqEntityMap.put(classRsrcIRI, sourceIRI);
 		}
 	}
 }

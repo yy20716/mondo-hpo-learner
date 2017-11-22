@@ -1,4 +1,4 @@
-package org.monarchinitiative.mondohpomapper.util;
+package org.monarchinitiative.mondohpolearner.util;
 
 import java.io.File;
 import java.nio.charset.StandardCharsets;

@@ -1,4 +1,4 @@
-package org.monarchinitiative.mondohpomapper;
+package org.monarchinitiative.mondohpolearner.doid;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -26,7 +26,8 @@ import org.apache.log4j.Logger;
 import org.dllearner.core.EvaluatedDescription;
 import org.dllearner.core.Score;
 import org.dllearner.core.StringRenderer;
-import org.monarchinitiative.mondohpomapper.util.QueryExecutor;
+import org.monarchinitiative.mondohpolearner.Main;
+import org.monarchinitiative.mondohpolearner.util.QueryExecutor;
 import org.prefixcommons.CurieUtil;
 import org.semanticweb.owlapi.io.OWLObjectRenderer;
 import org.semanticweb.owlapi.model.OWLClass;
@@ -41,9 +42,9 @@ import net.steppschuh.markdowngenerator.text.emphasis.BoldText;
 import net.steppschuh.markdowngenerator.text.heading.Heading;
 
 @SuppressWarnings("rawtypes")
-public class MarkdownReportGenerator {
-	private static final Logger logger = Logger.getLogger(MarkdownReportGenerator.class.getName());
-
+public class DoidReportGenerator {
+	private static final Logger logger = Logger.getLogger(DoidReportGenerator.class.getName());
+	
 	private Multimap<String, String> classSubclassMap;
 	private Multimap<String, String> classEqEntityMap;
 	private Map<String, Set<? extends EvaluatedDescription>> classResultMap;
@@ -51,23 +52,22 @@ public class MarkdownReportGenerator {
 	private DecimalFormat dfPercent = new DecimalFormat("0.00%");	
 	private QueryExecutor mondoQueryExecutor = new QueryExecutor();
 	private String newLineChar = System.getProperty("line.separator");
-	/* key: mondo class, value: rdfs:labels of mondo class */
+	/* key: doid class, value: rdfs:labels of doid classes */
 	private Map<String, String> entityLabelMap = Maps.newHashMap();
 	private String mondoVersion;
 	private CurieUtil curieUtil;
 
-	public MarkdownReportGenerator(Multimap<String, String> classSubclassMap, Multimap<String, String> classEqEntityMap) {
+	public DoidReportGenerator(Multimap<String, String> classSubclassMap, Multimap<String, String> classEqEntityMap) {
 		super();
 		this.classSubclassMap = classSubclassMap;
 		this.classEqEntityMap = classEqEntityMap;
 
 		/* Generates directories that will store report files */
 		try {
-			FileUtils.forceMkdir(new File("report"));
-			FileUtils.forceMkdir(new File("report/markdown"));
-			/* FileUtils.forceMkdir(new File("report/html")); */
+			FileUtils.forceMkdir(new File(DoidProcessor.reportHomeDir));
+			FileUtils.forceMkdir(new File(DoidProcessor.markdownDir));
 		} catch (Exception e) {
-			logger.error(e.getMessage());		
+			logger.error(e.getMessage());
 		}
 	}
 
@@ -79,19 +79,12 @@ public class MarkdownReportGenerator {
 		this.curieUtil = curieUtil;
 	}
 
-	/* pre-compute all labels (rdfs:label)for mondo classes */ 
+	/* pre-compute all labels (rdfs:label)for doid classes */ 
 	public void precomputeLabels() {
-		mondoQueryExecutor.loadModel("mondo.owl");
-		/* 1. extract versionIRIs from mondo ontology, e.g., <http://purl.obolibrary.org/obo/mondo/releases/2017-11-10/mondo.owl> */
-		ResultSet mondoVersionResultSet = mondoQueryExecutor.execute("src/main/resources/extractVersion.sparql");
-		while (mondoVersionResultSet.hasNext()) {
-			QuerySolution binding = mondoVersionResultSet.nextSolution();
-			Resource versionRsrc = (Resource)binding.get("version");
-			mondoVersion = versionRsrc.getURI().split("/")[6];
-		}
+		mondoQueryExecutor.loadModel("doid.owl");
 
-		/* 2. extract class labels from mondo.owl */
-		ResultSet mondoLabelResultSet = mondoQueryExecutor.execute("src/main/resources/computeEntityLabel.sparql");
+		/* 2. extract class labels from doid.owl */
+		ResultSet mondoLabelResultSet = mondoQueryExecutor.execute(Main.queryComputeEntityLabel);
 		while (mondoLabelResultSet.hasNext()) {
 			QuerySolution binding = mondoLabelResultSet.nextSolution();
 			Resource classRsrc = (Resource)binding.get("class");
@@ -100,7 +93,7 @@ public class MarkdownReportGenerator {
 		}
 
 		/* 3. extract class labels from hp.owl */
-		ResultSet hpResultSet = QueryExecutor.executeOnce("hp.owl", "src/main/resources/computeEntityLabel.sparql");
+		ResultSet hpResultSet = QueryExecutor.executeOnce("hp.owl", Main.queryComputeEntityLabel);
 		while (hpResultSet.hasNext()) {
 			QuerySolution binding = hpResultSet.nextSolution();
 			Resource classRsrc = (Resource)binding.get("class");
@@ -111,11 +104,11 @@ public class MarkdownReportGenerator {
 
 	/* 
 	 * Generates an index file so that users can easily navigate report files
-	 * Each entry is connected to the report file. Each report file is for a single mondo class.
+	 * Each entry is connected to the report file. Each report file is for a single doid class.
 	 */
 	public void generateIndexFile() {
 		try {
-			String indexFilename = "report/index.md";
+			String indexFilename = DoidProcessor.reportHomeDir + File.separator + "index.md";
 			FileUtils.deleteQuietly(new File(indexFilename));
 			FileWriter fw = new FileWriter(indexFilename,  false);
 			BufferedWriter bw = new BufferedWriter(fw);
@@ -126,14 +119,14 @@ public class MarkdownReportGenerator {
 
 			StringBuilder sb = new StringBuilder();
 			sb.append("Version: " + mondoVersion).append(newLineChar);
-			sb.append("Format: MONDO classname (Label) [#subclasses][accuracy]").append(newLineChar).append(newLineChar);
+			sb.append("Format: DO classname (Label) [#subclasses][accuracy]").append(newLineChar).append(newLineChar);
 
 			Pattern pattern = Pattern.compile("[.\\d]+%");
 			for (String classCurie : classKeyList) {
 				String classLabel = entityLabelMap.get(curieUtil.getIri(classCurie).get());
 				if (classLabel == null) continue;
 
-				File reportFile = new File("report/markdown/" + classCurie.replace(":", "_") + ".md");
+				File reportFile = new File(DoidProcessor.markdownDir + File.separator + classCurie.replace(":", "_") + ".md");
 				if (reportFile.exists() != true) continue;
 
 				if (reportFile.length() > 0) {
@@ -203,7 +196,7 @@ public class MarkdownReportGenerator {
 		logger.info("Rendering a report file...");
 		try{
 			String reportFilenameBody = classCurie.replace(":", "_");
-			FileWriter fw = new FileWriter("report/markdown/" + reportFilenameBody + ".md", false);
+			FileWriter fw = new FileWriter(DoidProcessor.markdownDir + File.separator + reportFilenameBody + ".md", false);
 			BufferedWriter bw = new BufferedWriter(fw);
 			PrintWriter out = new PrintWriter(bw);
 
