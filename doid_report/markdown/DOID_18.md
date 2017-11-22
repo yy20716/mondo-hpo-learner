@@ -1,0 +1,27 @@
+
+### [DOID:18](http://purl.obolibrary.org/obo/DOID_18)
+**Label:** urinary system disease
+
+**Subclasses:** [DOID:2154](http://purl.obolibrary.org/obo/DOID_2154) (nephroblastoma), [DOID:1184](http://purl.obolibrary.org/obo/DOID_1184) (nephrotic syndrome), [DOID:6245](http://purl.obolibrary.org/obo/DOID_6245) (renal oncocytoma), [DOID:898](http://purl.obolibrary.org/obo/DOID_898) (autosomal dominant polycystic kidney disease), [DOID:1312](http://purl.obolibrary.org/obo/DOID_1312) (focal segmental glomerulosclerosis), [DOID:445](http://purl.obolibrary.org/obo/DOID_445) (Bartter disease), [DOID:11054](http://purl.obolibrary.org/obo/DOID_11054) (urinary bladder cancer), [DOID:4450](http://purl.obolibrary.org/obo/DOID_4450) (renal cell carcinoma), [DOID:11819](http://purl.obolibrary.org/obo/DOID_11819) (ureter cancer), [DOID:11353](http://purl.obolibrary.org/obo/DOID_11353) (bladder diverticulum), 
+
+**Corr. equiv. classes:** [OMIM:600995](http://purl.obolibrary.org/obo/OMIM_600995), [OMIM:PS603278](http://purl.obolibrary.org/obo/OMIM_PS603278), [OMIM:PS601678](http://purl.obolibrary.org/obo/OMIM_PS601678), [OMIM:PS173900](http://purl.obolibrary.org/obo/OMIM_PS173900), [OMIM:191600](http://purl.obolibrary.org/obo/OMIM_191600), [OMIM:615573](http://purl.obolibrary.org/obo/OMIM_615573), [OMIM:614196](http://purl.obolibrary.org/obo/OMIM_614196), [OMIM:300854](http://purl.obolibrary.org/obo/OMIM_300854), [OMIM:256300](http://purl.obolibrary.org/obo/OMIM_256300), [OMIM:553000](http://purl.obolibrary.org/obo/OMIM_553000), [OMIM:614199](http://purl.obolibrary.org/obo/OMIM_614199), [OMIM:615244](http://purl.obolibrary.org/obo/OMIM_615244), [OMIM:615861](http://purl.obolibrary.org/obo/OMIM_615861), [OMIM:615008](http://purl.obolibrary.org/obo/OMIM_615008), [OMIM:109800](http://purl.obolibrary.org/obo/OMIM_109800), [OMIM:256370](http://purl.obolibrary.org/obo/OMIM_256370), [OMIM:109820](http://purl.obolibrary.org/obo/OMIM_109820), [OMIM:610725](http://purl.obolibrary.org/obo/OMIM_610725), [Orphanet:730](http://www.orpha.net/ORDO/Orphanet_730), [OMIM:194070](http://purl.obolibrary.org/obo/OMIM_194070), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0010786](http://purl.obolibrary.org/obo/HP_0010786) (Urinary tract neoplasm) and (not ([HP:0025031](http://purl.obolibrary.org/obo/HP_0025031) (Abnormality of the digestive system))) 62.50%
+- [HP:0000005](http://purl.obolibrary.org/obo/HP_0000005) (Mode of inheritance) and [HP:0010786](http://purl.obolibrary.org/obo/HP_0010786) (Urinary tract neoplasm) and (not ([HP:0025031](http://purl.obolibrary.org/obo/HP_0025031) (Abnormality of the digestive system))) 62.50%
+- [HP:0000005](http://purl.obolibrary.org/obo/HP_0000005) (Mode of inheritance) and [HP:0010786](http://purl.obolibrary.org/obo/HP_0010786) (Urinary tract neoplasm) and (not ([HP:0011772](http://purl.obolibrary.org/obo/HP_0011772) (Abnormality of thyroid morphology))) 62.50%
+- [HP:0000005](http://purl.obolibrary.org/obo/HP_0000005) (Mode of inheritance) and [HP:0010786](http://purl.obolibrary.org/obo/HP_0010786) (Urinary tract neoplasm) and (not ([HP:0000820](http://purl.obolibrary.org/obo/HP_0000820) (Abnormality of the thyroid gland))) 62.50%
+- [HP:0000005](http://purl.obolibrary.org/obo/HP_0000005) (Mode of inheritance) and [HP:0010786](http://purl.obolibrary.org/obo/HP_0010786) (Urinary tract neoplasm) and (not ([HP:0000818](http://purl.obolibrary.org/obo/HP_0000818) (Abnormality of the endocrine system))) 62.50%
+- [HP:0000005](http://purl.obolibrary.org/obo/HP_0000005) (Mode of inheritance) and [HP:0010786](http://purl.obolibrary.org/obo/HP_0010786) (Urinary tract neoplasm) 58.14%
+- [HP:0010786](http://purl.obolibrary.org/obo/HP_0010786) (Urinary tract neoplasm) and (not ([HP:0100834](http://purl.obolibrary.org/obo/HP_0100834) (Neoplasm of the large intestine))) 58.14%
+- [HP:0010786](http://purl.obolibrary.org/obo/HP_0010786) (Urinary tract neoplasm) and (not ([HP:0100568](http://purl.obolibrary.org/obo/HP_0100568) (Neoplasm of the endocrine system))) 58.14%
+- [HP:0010786](http://purl.obolibrary.org/obo/HP_0010786) (Urinary tract neoplasm) and (not ([HP:0100031](http://purl.obolibrary.org/obo/HP_0100031) (Neoplasm of the thyroid gland))) 58.14%
+- [HP:0010786](http://purl.obolibrary.org/obo/HP_0010786) (Urinary tract neoplasm) and (not ([HP:0025033](http://purl.obolibrary.org/obo/HP_0025033) (Abnormality of digestive system morphology))) 58.14%
+- [HP:0010786](http://purl.obolibrary.org/obo/HP_0010786) (Urinary tract neoplasm) and (not ([HP:0012718](http://purl.obolibrary.org/obo/HP_0012718) (Morphological abnormality of the gastrointestinal tract))) 58.14%
+- [HP:0010786](http://purl.obolibrary.org/obo/HP_0010786) (Urinary tract neoplasm) and (not ([HP:0012243](http://purl.obolibrary.org/obo/HP_0012243) (Abnormal reproductive system morphology))) 58.14%
+- [HP:0010786](http://purl.obolibrary.org/obo/HP_0010786) (Urinary tract neoplasm) and (not ([HP:0011772](http://purl.obolibrary.org/obo/HP_0011772) (Abnormality of thyroid morphology))) 58.14%
+- [HP:0010786](http://purl.obolibrary.org/obo/HP_0010786) (Urinary tract neoplasm) and (not ([HP:0011024](http://purl.obolibrary.org/obo/HP_0011024) (Abnormality of the gastrointestinal tract))) 58.14%
+- [HP:0010786](http://purl.obolibrary.org/obo/HP_0010786) (Urinary tract neoplasm) and (not ([HP:0010787](http://purl.obolibrary.org/obo/HP_0010787) (Genital neoplasm))) 58.14%
+
+

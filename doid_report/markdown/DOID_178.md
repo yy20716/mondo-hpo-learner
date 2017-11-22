@@ -1,0 +1,27 @@
+
+### [DOID:178](http://purl.obolibrary.org/obo/DOID_178)
+**Label:** vascular disease
+
+**Subclasses:** [DOID:6713](http://purl.obolibrary.org/obo/DOID_6713) (cerebrovascular disease), [DOID:5844](http://purl.obolibrary.org/obo/DOID_5844) (myocardial infarction), [DOID:799](http://purl.obolibrary.org/obo/DOID_799) (varicose veins), [DOID:10825](http://purl.obolibrary.org/obo/DOID_10825) (essential hypertension), [DOID:3393](http://purl.obolibrary.org/obo/DOID_3393) (coronary artery disease), [DOID:10591](http://purl.obolibrary.org/obo/DOID_10591) (pre-eclampsia), 
+
+**Corr. equiv. classes:** [OMIM:610948](http://purl.obolibrary.org/obo/OMIM_610948), [OMIM:607339](http://purl.obolibrary.org/obo/OMIM_607339), [OMIM:300464](http://purl.obolibrary.org/obo/OMIM_300464), [OMIM:192200](http://purl.obolibrary.org/obo/OMIM_192200), [OMIM:614293](http://purl.obolibrary.org/obo/OMIM_614293), [OMIM:604329](http://purl.obolibrary.org/obo/OMIM_604329), [OMIM:603918](http://purl.obolibrary.org/obo/OMIM_603918), [OMIM:612030](http://purl.obolibrary.org/obo/OMIM_612030), [OMIM:614592](http://purl.obolibrary.org/obo/OMIM_614592), [OMIM:608742](http://purl.obolibrary.org/obo/OMIM_608742), [OMIM:608320](http://purl.obolibrary.org/obo/OMIM_608320), [OMIM:145500](http://purl.obolibrary.org/obo/OMIM_145500), [OMIM:607329](http://purl.obolibrary.org/obo/OMIM_607329), [OMIM:189800](http://purl.obolibrary.org/obo/OMIM_189800), [OMIM:608318](http://purl.obolibrary.org/obo/OMIM_608318), [OMIM:608316](http://purl.obolibrary.org/obo/OMIM_608316), [OMIM:609403](http://purl.obolibrary.org/obo/OMIM_609403), [OMIM:601367](http://purl.obolibrary.org/obo/OMIM_601367), [OMIM:609404](http://purl.obolibrary.org/obo/OMIM_609404), [OMIM:608557](http://purl.obolibrary.org/obo/OMIM_608557), [OMIM:610261](http://purl.obolibrary.org/obo/OMIM_610261), [OMIM:610262](http://purl.obolibrary.org/obo/OMIM_610262), [Orphanet:275555](http://www.orpha.net/ORDO/Orphanet_275555), [OMIM:611014](http://purl.obolibrary.org/obo/OMIM_611014), [Orphanet:243761](http://www.orpha.net/ORDO/Orphanet_243761), [OMIM:611139](http://purl.obolibrary.org/obo/OMIM_611139), [OMIM:609402](http://purl.obolibrary.org/obo/OMIM_609402), [OMIM:610947](http://purl.obolibrary.org/obo/OMIM_610947), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0000001](http://purl.obolibrary.org/obo/HP_0000001) (All) and (not ([HP:0000023](http://purl.obolibrary.org/obo/HP_0000023) (Inguinal hernia))) 23.41%
+- [HP:0000001](http://purl.obolibrary.org/obo/HP_0000001) (All) and (not ([HP:0000013](http://purl.obolibrary.org/obo/HP_0000013) (Hypoplasia of the uterus))) 23.39%
+- [HP:0000001](http://purl.obolibrary.org/obo/HP_0000001) (All) and (not ([HP:0000019](http://purl.obolibrary.org/obo/HP_0000019) (Urinary hesitancy))) 23.37%
+- [HP:0000001](http://purl.obolibrary.org/obo/HP_0000001) (All) and (not ([HP:0000012](http://purl.obolibrary.org/obo/HP_0000012) (Urinary urgency))) 23.37%
+- [HP:0000001](http://purl.obolibrary.org/obo/HP_0000001) (All) and (not ([HP:0000003](http://purl.obolibrary.org/obo/HP_0000003) (Multicystic kidney dysplasia))) 23.37%
+- Thing 23.36%
+- [HP:0000001](http://purl.obolibrary.org/obo/HP_0000001) (All) 23.36%
+- [HP:0000001](http://purl.obolibrary.org/obo/HP_0000001) (All) and (not ([HP:0000024](http://purl.obolibrary.org/obo/HP_0000024) (Prostatitis))) 23.36%
+- [HP:0000001](http://purl.obolibrary.org/obo/HP_0000001) (All) and (not ([HP:0000021](http://purl.obolibrary.org/obo/HP_0000021) (Megacystis))) 23.36%
+- [HP:0000001](http://purl.obolibrary.org/obo/HP_0000001) (All) and (not ([HP:0000018](http://purl.obolibrary.org/obo/HP_0000018) (null))) 23.36%
+- [HP:0000001](http://purl.obolibrary.org/obo/HP_0000001) (All) and (not ([HP:0000017](http://purl.obolibrary.org/obo/HP_0000017) (Nocturia))) 23.36%
+- [HP:0000001](http://purl.obolibrary.org/obo/HP_0000001) (All) and (not ([HP:0000016](http://purl.obolibrary.org/obo/HP_0000016) (Urinary retention))) 23.36%
+- [HP:0000001](http://purl.obolibrary.org/obo/HP_0000001) (All) and (not ([HP:0000011](http://purl.obolibrary.org/obo/HP_0000011) (Neurogenic bladder))) 23.36%
+- [HP:0000001](http://purl.obolibrary.org/obo/HP_0000001) (All) and (not ([HP:0000004](http://purl.obolibrary.org/obo/HP_0000004) (null))) 23.36%
+- [HP:0000118](http://purl.obolibrary.org/obo/HP_0000118) (Phenotypic abnormality) 21.19%
+
+

@@ -1,0 +1,27 @@
+
+### [DOID:150](http://purl.obolibrary.org/obo/DOID_150)
+**Label:** disease of mental health
+
+**Subclasses:** [DOID:0050889](http://purl.obolibrary.org/obo/DOID_0050889) (non-syndromic intellectual disability), [DOID:0050888](http://purl.obolibrary.org/obo/DOID_0050888) (syndromic intellectual disability), [DOID:1470](http://purl.obolibrary.org/obo/DOID_1470) (major depressive disorder), [DOID:0050628](http://purl.obolibrary.org/obo/DOID_0050628) (advanced sleep phase syndrome), [DOID:599](http://purl.obolibrary.org/obo/DOID_599) (specific phobia), [DOID:1595](http://purl.obolibrary.org/obo/DOID_1595) (endogenous depression), [DOID:0060309](http://purl.obolibrary.org/obo/DOID_0060309) (syndromic X-linked intellectual disability), [DOID:9255](http://purl.obolibrary.org/obo/DOID_9255) (frontotemporal dementia), [DOID:2030](http://purl.obolibrary.org/obo/DOID_2030) (anxiety disorder), [DOID:5419](http://purl.obolibrary.org/obo/DOID_5419) (schizophrenia), 
+
+**Corr. equiv. classes:** [OMIM:607834](http://purl.obolibrary.org/obo/OMIM_607834), [OMIM:603013](http://purl.obolibrary.org/obo/OMIM_603013), [OMIM:300860](http://purl.obolibrary.org/obo/OMIM_300860), [OMIM:300486](http://purl.obolibrary.org/obo/OMIM_300486), [Orphanet:282](http://www.orpha.net/ORDO/Orphanet_282), [OMIM:604906](http://purl.obolibrary.org/obo/OMIM_604906), [OMIM:605419](http://purl.obolibrary.org/obo/OMIM_605419), [OMIM:613025](http://purl.obolibrary.org/obo/OMIM_613025), [OMIM:181500](http://purl.obolibrary.org/obo/OMIM_181500), [OMIM:608543](http://purl.obolibrary.org/obo/OMIM_608543), [OMIM:608520](http://purl.obolibrary.org/obo/OMIM_608520), [OMIM:603176](http://purl.obolibrary.org/obo/OMIM_603176), [OMIM:603175](http://purl.obolibrary.org/obo/OMIM_603175), [OMIM:608516](http://purl.obolibrary.org/obo/OMIM_608516), [OMIM:600274](http://purl.obolibrary.org/obo/OMIM_600274), [OMIM:603342](http://purl.obolibrary.org/obo/OMIM_603342), [OMIM:603206](http://purl.obolibrary.org/obo/OMIM_603206), [OMIM:PS309510](http://purl.obolibrary.org/obo/OMIM_PS309510), [OMIM:600511](http://purl.obolibrary.org/obo/OMIM_600511), [OMIM:600795](http://purl.obolibrary.org/obo/OMIM_600795), [OMIM:600850](http://purl.obolibrary.org/obo/OMIM_600850), [OMIM:PS604348](http://purl.obolibrary.org/obo/OMIM_PS604348), [OMIM:613192](http://purl.obolibrary.org/obo/OMIM_613192), [OMIM:615232](http://purl.obolibrary.org/obo/OMIM_615232), [OMIM:612361](http://purl.obolibrary.org/obo/OMIM_612361), [OMIM:614202](http://purl.obolibrary.org/obo/OMIM_614202), [OMIM:309583](http://purl.obolibrary.org/obo/OMIM_309583), [Orphanet:164736](http://www.orpha.net/ORDO/Orphanet_164736), [OMIM:613950](http://purl.obolibrary.org/obo/OMIM_613950), [OMIM:181510](http://purl.obolibrary.org/obo/OMIM_181510), [OMIM:613959](http://purl.obolibrary.org/obo/OMIM_613959), [OMIM:608078](http://purl.obolibrary.org/obo/OMIM_608078), [OMIM:608251](http://purl.obolibrary.org/obo/OMIM_608251), [OMIM:608691](http://purl.obolibrary.org/obo/OMIM_608691), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0000708](http://purl.obolibrary.org/obo/HP_0000708) (Behavioral abnormality) and (not ([HP:0012373](http://purl.obolibrary.org/obo/HP_0012373) (Abnormal eye physiology))) 46.98%
+- [HP:0000005](http://purl.obolibrary.org/obo/HP_0000005) (Mode of inheritance) and [HP:0000708](http://purl.obolibrary.org/obo/HP_0000708) (Behavioral abnormality) 43.85%
+- [HP:0000708](http://purl.obolibrary.org/obo/HP_0000708) (Behavioral abnormality) and (not ([HP:0000504](http://purl.obolibrary.org/obo/HP_0000504) (Abnormality of vision))) 43.57%
+- [HP:0000708](http://purl.obolibrary.org/obo/HP_0000708) (Behavioral abnormality) and (not ([HP:0011458](http://purl.obolibrary.org/obo/HP_0011458) (Abdominal symptom))) 41.43%
+- [HP:0000708](http://purl.obolibrary.org/obo/HP_0000708) (Behavioral abnormality) and (not ([HP:0001939](http://purl.obolibrary.org/obo/HP_0001939) (Abnormality of metabolism/homeostasis))) 40.18%
+- [HP:0000708](http://purl.obolibrary.org/obo/HP_0000708) (Behavioral abnormality) and (not ([HP:0000013](http://purl.obolibrary.org/obo/HP_0000013) (Hypoplasia of the uterus))) 37.29%
+- [HP:0000708](http://purl.obolibrary.org/obo/HP_0000708) (Behavioral abnormality) and (not ([HP:0000012](http://purl.obolibrary.org/obo/HP_0000012) (Urinary urgency))) 37.29%
+- [HP:0000708](http://purl.obolibrary.org/obo/HP_0000708) (Behavioral abnormality) 37.07%
+- [HP:0000708](http://purl.obolibrary.org/obo/HP_0000708) (Behavioral abnormality) and (not ([HP:0000016](http://purl.obolibrary.org/obo/HP_0000016) (Urinary retention))) 37.07%
+- [HP:0000708](http://purl.obolibrary.org/obo/HP_0000708) (Behavioral abnormality) and (not ([HP:0000011](http://purl.obolibrary.org/obo/HP_0000011) (Neurogenic bladder))) 37.07%
+- [HP:0000708](http://purl.obolibrary.org/obo/HP_0000708) (Behavioral abnormality) and (not ([HP:0000004](http://purl.obolibrary.org/obo/HP_0000004) (null))) 37.07%
+- [HP:0000708](http://purl.obolibrary.org/obo/HP_0000708) (Behavioral abnormality) and (not ([HP:0000003](http://purl.obolibrary.org/obo/HP_0000003) (Multicystic kidney dysplasia))) 37.07%
+- [HP:0000005](http://purl.obolibrary.org/obo/HP_0000005) (Mode of inheritance) and [HP:0012638](http://purl.obolibrary.org/obo/HP_0012638) (Abnormality of nervous system physiology) 35.51%
+- [HP:0012638](http://purl.obolibrary.org/obo/HP_0012638) (Abnormality of nervous system physiology) 33.79%
+- [HP:0000707](http://purl.obolibrary.org/obo/HP_0000707) (Abnormality of the nervous system) 32.44%
+
+
