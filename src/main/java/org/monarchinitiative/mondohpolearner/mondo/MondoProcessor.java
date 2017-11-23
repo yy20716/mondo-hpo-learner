@@ -27,7 +27,6 @@ public class MondoProcessor {
 	public static final String reportHomeDir = "mondo_report";
 	public static final String markdownDir = reportHomeDir + File.separator + "markdown";
 	public static final String hpofilewithAbox = "hpwithmondoabox.owl";
-	public static final String queryExtractVersion = "src/main/resources/org/monarchinitiative/mondohpolearner/mondo/extractVersion.sparql";
 	public static final String queryExtractSubclasses = "src/main/resources/org/monarchinitiative/mondohpolearner/mondo/extractSubclasses.sparql";
 	
 	/* key: mondo class (curie), value: a list of equivalent classes that will be fed as parameters for running DL-Learner */

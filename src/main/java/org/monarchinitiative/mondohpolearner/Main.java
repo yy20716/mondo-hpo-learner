@@ -13,7 +13,8 @@ import org.monarchinitiative.mondohpolearner.mondo.MondoProcessor;
 public class Main {
 	private static final Logger logger = Logger.getLogger(Main.class.getName());
 	public static final String queryComputeEntityLabel = "src/main/resources/org/monarchinitiative/mondohpolearner/computeEntityLabel.sparql";
-	
+	public static final String queryExtractVersion = "src/main/resources/org/monarchinitiative/mondohpolearner/extractVersion.sparql";
+
 	public static void main( String[] args ) {
 		Option mondoOption = Option.builder("m")
 				.longOpt("mondo")

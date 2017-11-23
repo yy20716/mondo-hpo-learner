@@ -1,4 +1,4 @@
-Version: null
+Version: 2017-09-29
 Format: DO classname (Label) [#subclasses][accuracy]
 
 1. [DOID:4](markdown/DOID_4.md) (disease) [280][no results]

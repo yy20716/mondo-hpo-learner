@@ -3,5 +3,5 @@ PREFIX obo: <http://purl.obolibrary.org/obo/>
 
 # extract versionIRI from mondo ontology.
 SELECT DISTINCT ?version WHERE {
-	obo:mondo.owl owl:versionIRI ?version .	
+	?s owl:versionIRI ?version .	
 }

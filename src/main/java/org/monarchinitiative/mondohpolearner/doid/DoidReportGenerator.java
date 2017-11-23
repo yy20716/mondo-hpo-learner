@@ -28,6 +28,7 @@ import org.dllearner.core.EvaluatedDescription;
 import org.dllearner.core.Score;
 import org.dllearner.core.StringRenderer;
 import org.monarchinitiative.mondohpolearner.Main;
+import org.monarchinitiative.mondohpolearner.mondo.MondoProcessor;
 import org.monarchinitiative.mondohpolearner.util.QueryExecutor;
 import org.prefixcommons.CurieUtil;
 import org.semanticweb.owlapi.io.OWLObjectRenderer;
@@ -45,17 +46,17 @@ import net.steppschuh.markdowngenerator.text.heading.Heading;
 @SuppressWarnings("rawtypes")
 public class DoidReportGenerator {
 	private static final Logger logger = Logger.getLogger(DoidReportGenerator.class.getName());
-	
+
 	private Multimap<String, String> classSubclassMap;
 	private Multimap<String, String> classEqEntityMap;
 	private Map<String, Set<? extends EvaluatedDescription>> classResultMap;
 	private OWLObjectRenderer renderer = StringRenderer.getRenderer();
 	private DecimalFormat dfPercent = new DecimalFormat("0.00%");	
-	private QueryExecutor mondoQueryExecutor = new QueryExecutor();
+	private QueryExecutor doidQueryExecutor = new QueryExecutor();
 	private String newLineChar = System.getProperty("line.separator");
 	/* key: doid class, value: rdfs:labels of doid classes */
 	private Map<String, String> entityLabelMap = Maps.newHashMap();
-	private String mondoVersion;
+	private String version;
 	private CurieUtil curieUtil;
 
 	public DoidReportGenerator(Multimap<String, String> classSubclassMap, Multimap<String, String> classEqEntityMap) {
@@ -82,12 +83,22 @@ public class DoidReportGenerator {
 
 	/* pre-compute all labels (rdfs:label)for doid classes */ 
 	public void precomputeLabels() {
-		mondoQueryExecutor.loadModel("doid.owl");
+		doidQueryExecutor.loadModel("doid.owl");
+
+		/* 1. extract versionIRIs from doid ontology, 
+		 * e.g., <http://purl.obolibrary.org/obo/doid/releases/2017-11-10/doid.owl> 
+		 * We assume that there will be only one version URI in datasets.*/
+		ResultSet versionResultSet = doidQueryExecutor.execute(Main.queryExtractVersion);
+		while (versionResultSet.hasNext()) {
+			QuerySolution binding = versionResultSet.nextSolution();
+			Resource versionRsrc = (Resource)binding.get("version");
+			version = versionRsrc.getURI().split("/")[6];
+		}
 
 		/* 2. extract class labels from doid.owl */
-		ResultSet mondoLabelResultSet = mondoQueryExecutor.execute(Main.queryComputeEntityLabel);
-		while (mondoLabelResultSet.hasNext()) {
-			QuerySolution binding = mondoLabelResultSet.nextSolution();
+		ResultSet labelResultSet = doidQueryExecutor.execute(Main.queryComputeEntityLabel);
+		while (labelResultSet.hasNext()) {
+			QuerySolution binding = labelResultSet.nextSolution();
 			Resource classRsrc = (Resource)binding.get("class");
 			Literal label = (Literal) binding.get("label");
 			entityLabelMap.put(classRsrc.toString(), label.toString());
@@ -126,7 +137,7 @@ public class DoidReportGenerator {
 			});
 
 			StringBuilder sb = new StringBuilder();
-			sb.append("Version: " + mondoVersion).append(newLineChar);
+			sb.append("Version: " + version).append(newLineChar);
 			sb.append("Format: DO classname (Label) [#subclasses][accuracy]").append(newLineChar).append(newLineChar);
 
 			Pattern pattern = Pattern.compile("[.\\d]+%");

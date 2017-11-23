@@ -56,7 +56,7 @@ public class MondoReportGenerator {
 	private String newLineChar = System.getProperty("line.separator");
 	/* key: mondo class, value: rdfs:labels of mondo class */
 	private Map<String, String> entityLabelMap = Maps.newHashMap();
-	private String mondoVersion;
+	private String version;
 	private CurieUtil curieUtil;
 
 	public MondoReportGenerator(Multimap<String, String> classSubclassMap, Multimap<String, String> classEqEntityMap) {
@@ -84,18 +84,21 @@ public class MondoReportGenerator {
 	/* pre-compute all labels (rdfs:label)for mondo classes */ 
 	public void precomputeLabels() {
 		mondoQueryExecutor.loadModel("mondo.owl");
-		/* 1. extract versionIRIs from mondo ontology, e.g., <http://purl.obolibrary.org/obo/mondo/releases/2017-11-10/mondo.owl> */
-		ResultSet mondoVersionResultSet = mondoQueryExecutor.execute(MondoProcessor.queryExtractVersion);
-		while (mondoVersionResultSet.hasNext()) {
-			QuerySolution binding = mondoVersionResultSet.nextSolution();
+		
+		/* 1. extract versionIRIs from mondo ontology, 
+		 * e.g., <http://purl.obolibrary.org/obo/mondo/releases/2017-11-10/mondo.owl> 
+		 * We assume that there will be only one version URI in datasets.*/
+		ResultSet versionResultSet = mondoQueryExecutor.execute(Main.queryExtractVersion);
+		while (versionResultSet.hasNext()) {
+			QuerySolution binding = versionResultSet.nextSolution();
 			Resource versionRsrc = (Resource)binding.get("version");
-			mondoVersion = versionRsrc.getURI().split("/")[6];
+			version = versionRsrc.getURI().split("/")[6];
 		}
 
 		/* 2. extract class labels from mondo.owl */
-		ResultSet mondoLabelResultSet = mondoQueryExecutor.execute(Main.queryComputeEntityLabel);
-		while (mondoLabelResultSet.hasNext()) {
-			QuerySolution binding = mondoLabelResultSet.nextSolution();
+		ResultSet labelResultSet = mondoQueryExecutor.execute(Main.queryComputeEntityLabel);
+		while (labelResultSet.hasNext()) {
+			QuerySolution binding = labelResultSet.nextSolution();
 			Resource classRsrc = (Resource)binding.get("class");
 			Literal label = (Literal) binding.get("label");
 			entityLabelMap.put(classRsrc.toString(), label.toString());
@@ -134,7 +137,7 @@ public class MondoReportGenerator {
 			});
 
 			StringBuilder sb = new StringBuilder();
-			sb.append("Version: " + mondoVersion).append(newLineChar);
+			sb.append("Version: " + version).append(newLineChar);
 			sb.append("Format: MONDO classname (Label) [#subclasses][accuracy]").append(newLineChar).append(newLineChar);
 
 			Pattern pattern = Pattern.compile("[.\\d]+%");
