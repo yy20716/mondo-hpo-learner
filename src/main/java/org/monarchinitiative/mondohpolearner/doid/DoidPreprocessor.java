@@ -120,7 +120,7 @@ public class DoidPreprocessor {
 
 		while (resultSet.hasNext()) {
 			QuerySolution binding = resultSet.nextSolution();
-
+			
 			Resource classRsrc = (Resource)binding.get("class");
 			Resource subClassRsrc = (Resource)binding.get("subclass");
 			Literal source = (Literal) binding.get("source");

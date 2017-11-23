@@ -6,11 +6,11 @@ PREFIX oboInOwl: <http://www.geneontology.org/formats/oboInOwl#>
 SELECT ?class ?subclass ?source WHERE {
 	?subclass rdfs:subClassOf+ ?class .
 	?subclass oboInOwl:hasDbXref ?source .
-	?ssubclass rdfs:subClassOf ?subclass .
-	
+
 	# filter out root-level classes 
 	FILTER(?class NOT IN (owl:Thing))
 	FILTER(!isBlank(?class))
 	# for now we only consider/extract OMIM or Orphanet classes from doid.
 	FILTER(contains(?source,"OMIM") || contains(?source,"ORDO"))
+	# FILTER(contains(str(?class), "DOID_10595"))
 }
