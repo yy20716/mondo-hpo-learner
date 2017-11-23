@@ -3,6 +3,7 @@ package org.monarchinitiative.mondohpolearner.doid;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.HashSet;
 import java.util.LinkedHashMap;
 import java.util.List;
@@ -61,7 +62,6 @@ public class DoidProcessor {
 		/* Run DL-Learner over each doid class using the parameters stored in classParamMap */
 		int classIndex = 0;
 		List<String> classKeyList = new ArrayList<>(classParamMap.asMap().keySet());
-		Collections.sort(classKeyList);
 		for (String classCurie : classKeyList) {
 			logger.info("Processing " + classCurie + " (" + ++classIndex + "/" + classParamSize + ")");
 

@@ -9,6 +9,7 @@ import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 import java.util.Map;
 import java.util.Optional;
@@ -123,7 +124,14 @@ public class MondoReportGenerator {
 			PrintWriter out = new PrintWriter(bw);
 
 			List<String> classKeyList = new ArrayList<>(classSubclassMap.asMap().keySet());
-			Collections.sort(classKeyList);
+			Collections.sort(classKeyList, new Comparator<String>() {
+				@Override
+				public int compare(String o1, String o2) {
+					Integer o1Int = Integer.valueOf(o1.split(":")[1].trim());
+					Integer o2Int = Integer.valueOf(o2.split(":")[1].trim());
+					return o1Int.compareTo(o2Int);
+				}
+			});
 
 			StringBuilder sb = new StringBuilder();
 			sb.append("Version: " + mondoVersion).append(newLineChar);
