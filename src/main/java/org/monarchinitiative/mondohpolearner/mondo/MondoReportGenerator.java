@@ -28,7 +28,6 @@ import org.dllearner.core.EvaluatedDescription;
 import org.dllearner.core.Score;
 import org.dllearner.core.StringRenderer;
 import org.monarchinitiative.mondohpolearner.Main;
-import org.monarchinitiative.mondohpolearner.doid.DoidProcessor;
 import org.monarchinitiative.mondohpolearner.util.QueryExecutor;
 import org.prefixcommons.CurieUtil;
 import org.semanticweb.owlapi.io.OWLObjectRenderer;
@@ -66,8 +65,8 @@ public class MondoReportGenerator {
 
 		/* Generates directories that will store report files */
 		try {
-			FileUtils.forceMkdir(new File(DoidProcessor.reportHomeDir));
-			FileUtils.forceMkdir(new File(DoidProcessor.markdownDir));
+			FileUtils.forceMkdir(new File(MondoProcessor.reportHomeDir));
+			FileUtils.forceMkdir(new File(MondoProcessor.markdownDir));
 		} catch (Exception e) {
 			logger.error(e.getMessage());		
 		}
