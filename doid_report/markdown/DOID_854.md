@@ -2,26 +2,13 @@
 ### [DOID:854](http://purl.obolibrary.org/obo/DOID_854)
 **Label:** collagen disease
 
-**Subclasses:** [DOID:418](http://purl.obolibrary.org/obo/DOID_418) (systemic scleroderma), [DOID:13359](http://purl.obolibrary.org/obo/DOID_13359) (Ehlers-Danlos syndrome), 
+**Subclasses:** [DOID:418](http://purl.obolibrary.org/obo/DOID_418) (systemic scleroderma), [DOID:13359](http://purl.obolibrary.org/obo/DOID_13359) (Ehlers-Danlos syndrome), [DOID:14756](http://purl.obolibrary.org/obo/DOID_14756) (autosomal dominant type IV Ehlers-Danlos syndrome), [DOID:0050802](http://purl.obolibrary.org/obo/DOID_0050802) (Ehlers-Danlos syndrome progeroid type), [DOID:14757](http://purl.obolibrary.org/obo/DOID_14757) (type III Ehlers-Danlos syndrome), [DOID:14775](http://purl.obolibrary.org/obo/DOID_14775) (brittle cornea syndrome), [DOID:14720](http://purl.obolibrary.org/obo/DOID_14720) (type I Ehlers-Danlos syndrome), 
 
-**Corr. equiv. classes:** [OMIM:225400](http://purl.obolibrary.org/obo/OMIM_225400), [OMIM:181750](http://purl.obolibrary.org/obo/OMIM_181750), 
+**Corr. equiv. classes:** [OMIM:130050](http://purl.obolibrary.org/obo/OMIM_130050), [Orphanet:75496](http://www.orpha.net/ORDO/Orphanet_75496), [OMIM:615349](http://purl.obolibrary.org/obo/OMIM_615349), [OMIM:130070](http://purl.obolibrary.org/obo/OMIM_130070), [OMIM:225400](http://purl.obolibrary.org/obo/OMIM_225400), [OMIM:181750](http://purl.obolibrary.org/obo/OMIM_181750), [OMIM:614170](http://purl.obolibrary.org/obo/OMIM_614170), [OMIM:130020](http://purl.obolibrary.org/obo/OMIM_130020), [OMIM:229200](http://purl.obolibrary.org/obo/OMIM_229200), [OMIM:130000](http://purl.obolibrary.org/obo/OMIM_130000), 
 
 **Class expressions from DL-Learner:**
 
-- [HP:0025323](http://purl.obolibrary.org/obo/HP_0025323) (Abnormal arterial physiology) 75.00%
-- [HP:0025019](http://purl.obolibrary.org/obo/HP_0025019) (Arterial rupture) 75.00%
-- [HP:0007605](http://purl.obolibrary.org/obo/HP_0007605) (Excessive wrinkling of palmar skin) 75.00%
-- [HP:0007517](http://purl.obolibrary.org/obo/HP_0007517) (Palmoplantar cutis laxa) 75.00%
-- [HP:0007392](http://purl.obolibrary.org/obo/HP_0007392) (Excessive wrinkled skin) 75.00%
-- [HP:0005952](http://purl.obolibrary.org/obo/HP_0005952) (Decreased pulmonary function) 75.00%
-- [HP:0001788](http://purl.obolibrary.org/obo/HP_0001788) (Premature rupture of membranes) 75.00%
-- [HP:0001787](http://purl.obolibrary.org/obo/HP_0001787) (Abnormal delivery) 75.00%
-- [HP:0001558](http://purl.obolibrary.org/obo/HP_0001558) (Decreased fetal movement) 75.00%
-- [HP:0001557](http://purl.obolibrary.org/obo/HP_0001557) (Prenatal movement abnormality) 75.00%
-- [HP:0000977](http://purl.obolibrary.org/obo/HP_0000977) (Soft skin) 75.00%
-- [HP:0007517](http://purl.obolibrary.org/obo/HP_0007517) (Palmoplantar cutis laxa) and [HP:0100807](http://purl.obolibrary.org/obo/HP_0100807) (Long fingers) 75.00%
-- [HP:0007517](http://purl.obolibrary.org/obo/HP_0007517) (Palmoplantar cutis laxa) and [HP:0100790](http://purl.obolibrary.org/obo/HP_0100790) (Hernia) 75.00%
-- [HP:0007517](http://purl.obolibrary.org/obo/HP_0007517) (Palmoplantar cutis laxa) and [HP:0100692](http://purl.obolibrary.org/obo/HP_0100692) (Increased corneal curvature) 75.00%
-- [HP:0007517](http://purl.obolibrary.org/obo/HP_0007517) (Palmoplantar cutis laxa) and [HP:0100691](http://purl.obolibrary.org/obo/HP_0100691) (Abnormality of the curvature of the cornea) 75.00%
+No results from DL-Learner...
+
 
 

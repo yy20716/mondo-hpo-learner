@@ -2,26 +2,13 @@
 ### [DOID:374](http://purl.obolibrary.org/obo/DOID_374)
 **Label:** nutrition disease
 
-**Subclasses:** [DOID:0060611](http://purl.obolibrary.org/obo/DOID_0060611) (abdominal obesity-metabolic syndrome@en), [DOID:9970](http://purl.obolibrary.org/obo/DOID_9970) (obesity), 
+**Subclasses:** [DOID:0060612](http://purl.obolibrary.org/obo/DOID_0060612) (abdominal obesity-metabolic syndrome 3), [DOID:0060611](http://purl.obolibrary.org/obo/DOID_0060611) (abdominal obesity-metabolic syndrome@en), [DOID:13724](http://purl.obolibrary.org/obo/DOID_13724) (scurvy), [DOID:13381](http://purl.obolibrary.org/obo/DOID_13381) (pernicious anemia), [DOID:10915](http://purl.obolibrary.org/obo/DOID_10915) (Wernicke-Korsakoff syndrome), [DOID:14221](http://purl.obolibrary.org/obo/DOID_14221) (metabolic syndrome X), [DOID:9970](http://purl.obolibrary.org/obo/DOID_9970) (obesity), 
 
-**Corr. equiv. classes:** [OMIM:PS605552](http://purl.obolibrary.org/obo/OMIM_PS605552), [OMIM:601665](http://purl.obolibrary.org/obo/OMIM_601665), 
+**Corr. equiv. classes:** [OMIM:PS605552](http://purl.obolibrary.org/obo/OMIM_PS605552), [OMIM:601665](http://purl.obolibrary.org/obo/OMIM_601665), [OMIM:615812](http://purl.obolibrary.org/obo/OMIM_615812), [OMIM:240400](http://purl.obolibrary.org/obo/OMIM_240400), [OMIM:170900](http://purl.obolibrary.org/obo/OMIM_170900), [OMIM:605552](http://purl.obolibrary.org/obo/OMIM_605552), [OMIM:277730](http://purl.obolibrary.org/obo/OMIM_277730), 
 
 **Class expressions from DL-Learner:**
 
-- [HP:0012340](http://purl.obolibrary.org/obo/HP_0012340) (Decreased resting energy expenditure) 75.00%
-- [HP:0012338](http://purl.obolibrary.org/obo/HP_0012338) (Abnormal energy expenditure) 75.00%
-- [HP:0012337](http://purl.obolibrary.org/obo/HP_0012337) (Abnormal homeostasis) 75.00%
-- [HP:0010982](http://purl.obolibrary.org/obo/HP_0010982) (Polygenic inheritance) and [HP:0012340](http://purl.obolibrary.org/obo/HP_0012340) (Decreased resting energy expenditure) 75.00%
-- [HP:0010982](http://purl.obolibrary.org/obo/HP_0010982) (Polygenic inheritance) and [HP:0012338](http://purl.obolibrary.org/obo/HP_0012338) (Abnormal energy expenditure) 75.00%
-- [HP:0010982](http://purl.obolibrary.org/obo/HP_0010982) (Polygenic inheritance) and [HP:0012337](http://purl.obolibrary.org/obo/HP_0012337) (Abnormal homeostasis) 75.00%
-- [HP:0004324](http://purl.obolibrary.org/obo/HP_0004324) (Increased body weight) and [HP:0010982](http://purl.obolibrary.org/obo/HP_0010982) (Polygenic inheritance) 75.00%
-- [HP:0004323](http://purl.obolibrary.org/obo/HP_0004323) (Abnormality of body weight) and [HP:0010982](http://purl.obolibrary.org/obo/HP_0010982) (Polygenic inheritance) 75.00%
-- [HP:0001939](http://purl.obolibrary.org/obo/HP_0001939) (Abnormality of metabolism/homeostasis) and [HP:0010982](http://purl.obolibrary.org/obo/HP_0010982) (Polygenic inheritance) 75.00%
-- [HP:0001513](http://purl.obolibrary.org/obo/HP_0001513) (Obesity) and [HP:0012340](http://purl.obolibrary.org/obo/HP_0012340) (Decreased resting energy expenditure) 75.00%
-- [HP:0001513](http://purl.obolibrary.org/obo/HP_0001513) (Obesity) and [HP:0012338](http://purl.obolibrary.org/obo/HP_0012338) (Abnormal energy expenditure) 75.00%
-- [HP:0001513](http://purl.obolibrary.org/obo/HP_0001513) (Obesity) and [HP:0012337](http://purl.obolibrary.org/obo/HP_0012337) (Abnormal homeostasis) 75.00%
-- [HP:0001513](http://purl.obolibrary.org/obo/HP_0001513) (Obesity) and [HP:0010982](http://purl.obolibrary.org/obo/HP_0010982) (Polygenic inheritance) 75.00%
-- [HP:0001507](http://purl.obolibrary.org/obo/HP_0001507) (Growth abnormality) and [HP:0010982](http://purl.obolibrary.org/obo/HP_0010982) (Polygenic inheritance) 75.00%
-- [HP:0001426](http://purl.obolibrary.org/obo/HP_0001426) (Multifactorial inheritance) and [HP:0001513](http://purl.obolibrary.org/obo/HP_0001513) (Obesity) 75.00%
+No results from DL-Learner...
+
 
 

@@ -2,26 +2,13 @@
 ### [DOID:589](http://purl.obolibrary.org/obo/DOID_589)
 **Label:** congenital hemolytic anemia
 
-**Subclasses:** [DOID:2861](http://purl.obolibrary.org/obo/DOID_2861) (congenital nonspherocytic hemolytic anemia), [DOID:12971](http://purl.obolibrary.org/obo/DOID_12971) (hereditary spherocytosis), 
+**Subclasses:** [DOID:0111077](http://purl.obolibrary.org/obo/DOID_0111077) (pyruvate kinase deficiency of red cells), [DOID:0110920](http://purl.obolibrary.org/obo/DOID_0110920) (hereditary spherocytosis type 5), [DOID:2861](http://purl.obolibrary.org/obo/DOID_2861) (congenital nonspherocytic hemolytic anemia), [DOID:1338](http://purl.obolibrary.org/obo/DOID_1338) (congenital dyserythropoietic anemia), [DOID:0110919](http://purl.obolibrary.org/obo/DOID_0110919) (hereditary spherocytosis type 4), [DOID:0110918](http://purl.obolibrary.org/obo/DOID_0110918) (hereditary spherocytosis type 3), [DOID:0110917](http://purl.obolibrary.org/obo/DOID_0110917) (hereditary spherocytosis type 2), [DOID:0110916](http://purl.obolibrary.org/obo/DOID_0110916) (hereditary spherocytosis type 1), [DOID:12971](http://purl.obolibrary.org/obo/DOID_12971) (hereditary spherocytosis), 
 
-**Corr. equiv. classes:** [OMIM:300908](http://purl.obolibrary.org/obo/OMIM_300908), [OMIM:206300](http://purl.obolibrary.org/obo/OMIM_206300), [OMIM:206400](http://purl.obolibrary.org/obo/OMIM_206400), [Orphanet:822](http://www.orpha.net/ORDO/Orphanet_822), [Orphanet:712](http://www.orpha.net/ORDO/Orphanet_712), [OMIM:613470](http://purl.obolibrary.org/obo/OMIM_613470), 
+**Corr. equiv. classes:** [Orphanet:85](http://www.orpha.net/ORDO/Orphanet_85), [OMIM:224100](http://purl.obolibrary.org/obo/OMIM_224100), [OMIM:613470](http://purl.obolibrary.org/obo/OMIM_613470), [OMIM:266200](http://purl.obolibrary.org/obo/OMIM_266200), [OMIM:224120](http://purl.obolibrary.org/obo/OMIM_224120), [OMIM:612690](http://purl.obolibrary.org/obo/OMIM_612690), [OMIM:615631](http://purl.obolibrary.org/obo/OMIM_615631), [OMIM:300908](http://purl.obolibrary.org/obo/OMIM_300908), [OMIM:206300](http://purl.obolibrary.org/obo/OMIM_206300), [OMIM:613673](http://purl.obolibrary.org/obo/OMIM_613673), [OMIM:612653](http://purl.obolibrary.org/obo/OMIM_612653), [OMIM:105600](http://purl.obolibrary.org/obo/OMIM_105600), [OMIM:206400](http://purl.obolibrary.org/obo/OMIM_206400), [Orphanet:822](http://www.orpha.net/ORDO/Orphanet_822), [Orphanet:712](http://www.orpha.net/ORDO/Orphanet_712), [OMIM:616649](http://purl.obolibrary.org/obo/OMIM_616649), [OMIM:182900](http://purl.obolibrary.org/obo/OMIM_182900), [Orphanet:766](http://www.orpha.net/ORDO/Orphanet_766), [OMIM:270970](http://purl.obolibrary.org/obo/OMIM_270970), 
 
 **Class expressions from DL-Learner:**
 
-- [HP:0001930](http://purl.obolibrary.org/obo/HP_0001930) (Nonspherocytic hemolytic anemia) 75.00%
-- [HP:0001930](http://purl.obolibrary.org/obo/HP_0001930) (Nonspherocytic hemolytic anemia) and [HP:0001939](http://purl.obolibrary.org/obo/HP_0001939) (Abnormality of metabolism/homeostasis) 75.00%
-- [HP:0000007](http://purl.obolibrary.org/obo/HP_0000007) (Autosomal recessive inheritance) and [HP:0001930](http://purl.obolibrary.org/obo/HP_0001930) (Nonspherocytic hemolytic anemia) 75.00%
-- [HP:0000005](http://purl.obolibrary.org/obo/HP_0000005) (Mode of inheritance) and [HP:0001930](http://purl.obolibrary.org/obo/HP_0001930) (Nonspherocytic hemolytic anemia) 75.00%
-- [HP:0001930](http://purl.obolibrary.org/obo/HP_0001930) (Nonspherocytic hemolytic anemia) and [HP:0100763](http://purl.obolibrary.org/obo/HP_0100763) (Abnormality of the lymphatic system) 66.67%
-- [HP:0001930](http://purl.obolibrary.org/obo/HP_0001930) (Nonspherocytic hemolytic anemia) and [HP:0025408](http://purl.obolibrary.org/obo/HP_0025408) (Abnormal spleen morphology) 66.67%
-- [HP:0001930](http://purl.obolibrary.org/obo/HP_0001930) (Nonspherocytic hemolytic anemia) and [HP:0025031](http://purl.obolibrary.org/obo/HP_0025031) (Abnormality of the digestive system) 66.67%
-- [HP:0001930](http://purl.obolibrary.org/obo/HP_0001930) (Nonspherocytic hemolytic anemia) and [HP:0011354](http://purl.obolibrary.org/obo/HP_0011354) (Generalized abnormality of skin) 66.67%
-- [HP:0001930](http://purl.obolibrary.org/obo/HP_0001930) (Nonspherocytic hemolytic anemia) and [HP:0011121](http://purl.obolibrary.org/obo/HP_0011121) (Abnormality of skin morphology) 66.67%
-- [HP:0001930](http://purl.obolibrary.org/obo/HP_0001930) (Nonspherocytic hemolytic anemia) and [HP:0004297](http://purl.obolibrary.org/obo/HP_0004297) (Abnormality of the biliary system) 66.67%
-- [HP:0001930](http://purl.obolibrary.org/obo/HP_0001930) (Nonspherocytic hemolytic anemia) and [HP:0003271](http://purl.obolibrary.org/obo/HP_0003271) (Visceromegaly) 66.67%
-- [HP:0001930](http://purl.obolibrary.org/obo/HP_0001930) (Nonspherocytic hemolytic anemia) and [HP:0002715](http://purl.obolibrary.org/obo/HP_0002715) (Abnormality of the immune system) 66.67%
-- [HP:0001930](http://purl.obolibrary.org/obo/HP_0001930) (Nonspherocytic hemolytic anemia) and [HP:0002012](http://purl.obolibrary.org/obo/HP_0002012) (Abnormality of the abdominal organs) 66.67%
-- [HP:0001878](http://purl.obolibrary.org/obo/HP_0001878) (Hemolytic anemia) and [HP:0004297](http://purl.obolibrary.org/obo/HP_0004297) (Abnormality of the biliary system) 66.67%
-- [HP:0001744](http://purl.obolibrary.org/obo/HP_0001744) (Splenomegaly) and [HP:0001930](http://purl.obolibrary.org/obo/HP_0001930) (Nonspherocytic hemolytic anemia) 66.67%
+No results from DL-Learner...
+
 
 

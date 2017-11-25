@@ -1,0 +1,14 @@
+
+### [DOID:75](http://purl.obolibrary.org/obo/DOID_75)
+**Label:** lymphatic system disease
+
+**Subclasses:** [DOID:14504](http://purl.obolibrary.org/obo/DOID_14504) (Niemann-Pick disease), [DOID:0050580](http://purl.obolibrary.org/obo/DOID_0050580) (hereditary lymphedema), [DOID:0060366](http://purl.obolibrary.org/obo/DOID_0060366) (Hennekam syndrome), [DOID:0110924](http://purl.obolibrary.org/obo/DOID_0110924) (familial hemophagocytic lymphohistiocytosis 4), [DOID:8538](http://purl.obolibrary.org/obo/DOID_8538) (reticulosarcoma), [DOID:0110923](http://purl.obolibrary.org/obo/DOID_0110923) (familial hemophagocytic lymphohistiocytosis 3), [DOID:4423](http://purl.obolibrary.org/obo/DOID_4423) (sea-blue histiocyte syndrome), [DOID:0110922](http://purl.obolibrary.org/obo/DOID_0110922) (familial hemophagocytic lymphohistiocytosis 2), [DOID:2571](http://purl.obolibrary.org/obo/DOID_2571) (Langerhans-cell histiocytosis), [DOID:0110921](http://purl.obolibrary.org/obo/DOID_0110921) (familial hemophagocytic lymphohistiocytosis 1), [DOID:0050120](http://purl.obolibrary.org/obo/DOID_0050120) (hemophagocytic lymphohistiocytosis), [DOID:0110925](http://purl.obolibrary.org/obo/DOID_0110925) (familial hemophagocytic lymphohistiocytosis 5), [DOID:13378](http://purl.obolibrary.org/obo/DOID_13378) (Kawasaki disease), 
+
+**Corr. equiv. classes:** [Orphanet:540](http://www.orpha.net/ORDO/Orphanet_540), [OMIM:603553](http://purl.obolibrary.org/obo/OMIM_603553), [OMIM:603552](http://purl.obolibrary.org/obo/OMIM_603552), [OMIM:607616](http://purl.obolibrary.org/obo/OMIM_607616), [OMIM:153100](http://purl.obolibrary.org/obo/OMIM_153100), [OMIM:247440](http://purl.obolibrary.org/obo/OMIM_247440), [OMIM:153200](http://purl.obolibrary.org/obo/OMIM_153200), [OMIM:613480](http://purl.obolibrary.org/obo/OMIM_613480), [OMIM:267730](http://purl.obolibrary.org/obo/OMIM_267730), [OMIM:613101](http://purl.obolibrary.org/obo/OMIM_613101), [OMIM:611944](http://purl.obolibrary.org/obo/OMIM_611944), [Orphanet:79452](http://www.orpha.net/ORDO/Orphanet_79452), [OMIM:615907](http://purl.obolibrary.org/obo/OMIM_615907), [OMIM:607625](http://purl.obolibrary.org/obo/OMIM_607625), [OMIM:246400](http://purl.obolibrary.org/obo/OMIM_246400), [OMIM:604856](http://purl.obolibrary.org/obo/OMIM_604856), [OMIM:608898](http://purl.obolibrary.org/obo/OMIM_608898), [OMIM:267700](http://purl.obolibrary.org/obo/OMIM_267700), [OMIM:269600](http://purl.obolibrary.org/obo/OMIM_269600), [OMIM:616006](http://purl.obolibrary.org/obo/OMIM_616006), [Orphanet:2136](http://www.orpha.net/ORDO/Orphanet_2136), [OMIM:235510](http://purl.obolibrary.org/obo/OMIM_235510), [OMIM:611775](http://purl.obolibrary.org/obo/OMIM_611775), [OMIM:257220](http://purl.obolibrary.org/obo/OMIM_257220), [OMIM:257200](http://purl.obolibrary.org/obo/OMIM_257200), 
+
+**Class expressions from DL-Learner:**
+
+No results from DL-Learner...
+
+
+

@@ -1,0 +1,14 @@
+
+### [DOID:48](http://purl.obolibrary.org/obo/DOID_48)
+**Label:** male reproductive system disease
+
+**Subclasses:** [DOID:14227](http://purl.obolibrary.org/obo/DOID_14227) (azoospermia), [DOID:8616](http://purl.obolibrary.org/obo/DOID_8616) (Peyronie's disease), [DOID:11996](http://purl.obolibrary.org/obo/DOID_11996) (spermatic cord torsion), [DOID:10283](http://purl.obolibrary.org/obo/DOID_10283) (prostate cancer), [DOID:0050457](http://purl.obolibrary.org/obo/DOID_0050457) (Sertoli cell-only syndrome), 
+
+**Corr. equiv. classes:** [OMIM:270960](http://purl.obolibrary.org/obo/OMIM_270960), [OMIM:615081](http://purl.obolibrary.org/obo/OMIM_615081), [OMIM:606766](http://purl.obolibrary.org/obo/OMIM_606766), [OMIM:609558](http://purl.obolibrary.org/obo/OMIM_609558), [OMIM:243060](http://purl.obolibrary.org/obo/OMIM_243060), [OMIM:415000](http://purl.obolibrary.org/obo/OMIM_415000), [OMIM:300147](http://purl.obolibrary.org/obo/OMIM_300147), [OMIM:601518](http://purl.obolibrary.org/obo/OMIM_601518), [OMIM:615841](http://purl.obolibrary.org/obo/OMIM_615841), [OMIM:611100](http://purl.obolibrary.org/obo/OMIM_611100), [Orphanet:1331](http://www.orpha.net/ORDO/Orphanet_1331), [OMIM:615842](http://purl.obolibrary.org/obo/OMIM_615842), [Orphanet:217034](http://www.orpha.net/ORDO/Orphanet_217034), [OMIM:612997](http://purl.obolibrary.org/obo/OMIM_612997), [OMIM:610997](http://purl.obolibrary.org/obo/OMIM_610997), [OMIM:102530](http://purl.obolibrary.org/obo/OMIM_102530), [OMIM:611868](http://purl.obolibrary.org/obo/OMIM_611868), [OMIM:609299](http://purl.obolibrary.org/obo/OMIM_609299), [OMIM:611928](http://purl.obolibrary.org/obo/OMIM_611928), [OMIM:305700](http://purl.obolibrary.org/obo/OMIM_305700), [OMIM:187400](http://purl.obolibrary.org/obo/OMIM_187400), [OMIM:608658](http://purl.obolibrary.org/obo/OMIM_608658), [OMIM:258150](http://purl.obolibrary.org/obo/OMIM_258150), [OMIM:608656](http://purl.obolibrary.org/obo/OMIM_608656), [OMIM:602759](http://purl.obolibrary.org/obo/OMIM_602759), [OMIM:176807](http://purl.obolibrary.org/obo/OMIM_176807), [OMIM:171000](http://purl.obolibrary.org/obo/OMIM_171000), [OMIM:300704](http://purl.obolibrary.org/obo/OMIM_300704), [OMIM:610321](http://purl.obolibrary.org/obo/OMIM_610321), [OMIM:614822](http://purl.obolibrary.org/obo/OMIM_614822), [OMIM:615413](http://purl.obolibrary.org/obo/OMIM_615413), [OMIM:611955](http://purl.obolibrary.org/obo/OMIM_611955), [OMIM:613957](http://purl.obolibrary.org/obo/OMIM_613957), [OMIM:400042](http://purl.obolibrary.org/obo/OMIM_400042), [OMIM:309120](http://purl.obolibrary.org/obo/OMIM_309120), [OMIM:108420](http://purl.obolibrary.org/obo/OMIM_108420), [OMIM:613958](http://purl.obolibrary.org/obo/OMIM_613958), [OMIM:611959](http://purl.obolibrary.org/obo/OMIM_611959), [OMIM:611958](http://purl.obolibrary.org/obo/OMIM_611958), 
+
+**Class expressions from DL-Learner:**
+
+No results from DL-Learner...
+
+
+
