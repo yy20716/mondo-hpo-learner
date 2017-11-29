@@ -55,8 +55,8 @@ public class Main {
 				DoidProcessor mpr = new DoidProcessor();
 				mpr.run();
 			} else if (cmdLine.hasOption("c")) {
-				// ScatterChartGenerator scg = new ScatterChartGenerator();
-				// scg.run();
+				ScatterChartGenerator scg = new ScatterChartGenerator();
+				scg.run();
 				
 				BarChartGenerator bcg = new BarChartGenerator();
 				bcg.run();

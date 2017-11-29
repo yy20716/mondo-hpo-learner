@@ -40,9 +40,9 @@ public class BarChartGenerator {
 			doidDataset.addValue(doidAccCountList.get(i), "Acc", beginIndex + "-" + endIndex + "%");
 		}
 
-		JFreeChart mondoChart = ChartFactory.createBarChart("MonDO", "Acc. Range", "#Desease group", 
+		JFreeChart mondoChart = ChartFactory.createBarChart("MonDO", "Acc. Range", "#Disease group", 
 				mondoDataset, PlotOrientation.VERTICAL, true, true, false);
-		JFreeChart doidChart = ChartFactory.createBarChart("Do", "Acc. Range", "#Desease group", 
+		JFreeChart doidChart = ChartFactory.createBarChart("Do", "Acc. Range", "#Disease group", 
 				doidDataset, PlotOrientation.VERTICAL, true, true, false);
 		
 		mondoChart.removeLegend();
