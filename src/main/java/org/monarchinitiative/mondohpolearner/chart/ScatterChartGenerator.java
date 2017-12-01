@@ -1,7 +1,10 @@
 package org.monarchinitiative.mondohpolearner.chart;
 
 import java.awt.Color;
+import java.awt.Shape;
+import java.awt.geom.Ellipse2D;
 import java.io.File;
+import java.io.IOException;
 import java.nio.charset.Charset;
 import java.util.Collection;
 import java.util.HashSet;
@@ -19,10 +22,13 @@ import org.apache.log4j.Logger;
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartUtils;
 import org.jfree.chart.JFreeChart;
+import org.jfree.chart.labels.BubbleXYItemLabelGenerator;
 import org.jfree.chart.plot.XYPlot;
+import org.jfree.chart.renderer.xy.XYItemRenderer;
 import org.jfree.data.xy.XYSeries;
 import org.jfree.data.xy.XYSeriesCollection;
 import org.monarchinitiative.mondohpolearner.Main;
+import org.monarchinitiative.mondohpolearner.common.Processor;
 import org.monarchinitiative.mondohpolearner.doid.DoidProcessor;
 import org.monarchinitiative.mondohpolearner.mondo.MondoProcessor;
 import org.monarchinitiative.mondohpolearner.util.CurieMapGenerator;
@@ -43,20 +49,26 @@ public class ScatterChartGenerator {
 		CurieMapGenerator generator = new CurieMapGenerator();
 		Map<String, String> curieMap = generator.generate();
 		curieUtil = new CurieUtil(curieMap);
+		
+		try {
+			FileUtils.forceMkdir(new File("chart"));
+		} catch (IOException e) {
+			logger.error(e.getMessage());
+		}
 	}
 
 	public void run() {
 		computeClassMappings();
-		
+
 		XYSeriesCollection dataset = new XYSeriesCollection();
 		XYSeries series = new XYSeries("Mondo, Do");
-		
+
 		for (String mondoClassCurie : classEqEntityMap.asMap().keySet()) {
 			String mondoClassAcc = retrieveAccuracy(MondoProcessor.markdownDir, mondoClassCurie);
 			if (mondoClassAcc == null) continue;
 			mondoClassAcc = mondoClassAcc.replace("%", "");
 			Double mondoClassAccVal = Double.valueOf(mondoClassAcc);
-			
+
 			Collection<String> doidClassCurieList = classEqEntityMap.get(mondoClassCurie);
 			/* logger.info(mondoClassCurie + " : " + doidClassCurieList); */
 
@@ -70,18 +82,21 @@ public class ScatterChartGenerator {
 					Double doidClassAccVal = Double.valueOf(doidClassAcc);
 					series.add(mondoClassAccVal, doidClassAccVal);
 				}
-
-				/* logger.info(mondoClassAccVal + "," + doidClassAccVal); */
 			}
 		}
 
 		dataset.addSeries(series);
-		
+
 		try {
 			JFreeChart chart = ChartFactory.createScatterPlot("Accuracy comparison chart", "Accuracy in MonDO, %", "Accuracy in Do, %", dataset);
 			XYPlot plot = (XYPlot)chart.getPlot();
-			plot.setBackgroundPaint(new Color(255,228,196));
-			ChartUtils.saveChartAsPNG(new File("mondodoidaccscatter.png"), chart, 500, 500);	
+			plot.setBackgroundPaint(new Color(255,228,196));			
+			plot.setForegroundAlpha(0.75f);
+			plot.setDomainPannable(true);
+			plot.setRangePannable(true);
+			chart.removeLegend();
+			
+			ChartUtils.saveChartAsPNG(new File("chart/mondodoidaccscatter.png"), chart, 500, 500);	
 		} catch (Exception e) {
 			logger.error(e.getMessage());
 		}

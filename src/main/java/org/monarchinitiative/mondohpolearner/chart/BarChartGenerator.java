@@ -1,6 +1,7 @@
 package org.monarchinitiative.mondohpolearner.chart;
 
 import java.io.File;
+import java.io.IOException;
 import java.nio.charset.Charset;
 import java.util.Arrays;
 import java.util.List;
@@ -24,6 +25,11 @@ public class BarChartGenerator {
 	private List<Integer> doidAccCountList = Arrays.asList(0, 0, 0, 0, 0, 0, 0, 0, 0, 0);
 
 	public BarChartGenerator() {
+		try {
+			FileUtils.forceMkdir(new File("chart"));
+		} catch (IOException e) {
+			logger.error(e.getMessage());
+		}
 	}
 
 	public void run() {
@@ -49,8 +55,8 @@ public class BarChartGenerator {
 		doidChart.removeLegend();
 		
 		try {
-			ChartUtils.saveChartAsPNG(new File("mondoaccbar.png"), mondoChart, 1000, 500);
-			ChartUtils.saveChartAsPNG(new File("doidaccbar.png"), doidChart, 1000, 500);
+			ChartUtils.saveChartAsPNG(new File("chart/mondoaccbar.png"), mondoChart, 1000, 500);
+			ChartUtils.saveChartAsPNG(new File("chart/doidaccbar.png"), doidChart, 1000, 500);
 		}  catch (Exception e) {
 			logger.error(e.getMessage());
 		}

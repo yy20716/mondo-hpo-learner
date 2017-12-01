@@ -1,0 +1,31 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX obo: <http://purl.obolibrary.org/obo/> 
+PREFIX oboInOwl: <http://www.geneontology.org/formats/oboInOwl#>
+
+# extract mondo class with i) its subclasses in mondo and ii) corresponding equivalent classes from other ontologies such as OMIM.
+SELECT ?class ?subclass ?source WHERE {
+	{
+		SELECT ?class ?subclass ?source WHERE {
+			?subclass rdfs:subClassOf+ ?class .
+			?subclass oboInOwl:hasDbXref ?source .
+
+			# filter out root-level classes 
+			FILTER(?class NOT IN (owl:Thing))
+			FILTER(!isBlank(?class))
+			# for now we only consider/extract OMIM or Orphanet classes from mondo.
+			FILTER(contains(?source,"OMIM") || contains(?source,"Orphanet"))
+		}
+	} UNION {
+		SELECT ?class ?subclass ?source WHERE {
+			?subclass oboInOwl:hasDbXref ?source .
+			?subclass rdfs:subClassOf+ ?intclass .
+			?intclass owl:onProperty obo:BFO_0000050 .
+			?intclass owl:someValuesFrom ?class .
+			
+			FILTER(?class NOT IN (owl:Thing))
+			FILTER(!isBlank(?class))
+			FILTER(contains(?source,"OMIM"))
+		}
+	}
+}

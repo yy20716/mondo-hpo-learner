@@ -11,6 +11,7 @@ import org.monarchinitiative.mondohpolearner.chart.BarChartGenerator;
 import org.monarchinitiative.mondohpolearner.chart.ScatterChartGenerator;
 import org.monarchinitiative.mondohpolearner.doid.DoidProcessor;
 import org.monarchinitiative.mondohpolearner.mondo.MondoProcessor;
+import org.monarchinitiative.mondohpolearner.orpha.OrphanetProcessor;
 
 public class Main {
 	private static final Logger logger = Logger.getLogger(Main.class.getName());
@@ -31,6 +32,12 @@ public class Main {
 				.desc("learn class expressions over doid.owl")
 				.build();
 
+		Option orphaOption = Option.builder("o")
+				.longOpt("orphanet")
+				.required(false)
+				.desc("learn class expressions over ordo_orphanet.owl")
+				.build();
+		
 		Option chartOption = Option.builder("c")
 				.longOpt("chart")
 				.required(false)
@@ -40,6 +47,7 @@ public class Main {
 		Options options = new Options();
 		options.addOption(mondoOption);
 		options.addOption(doidOption);
+		options.addOption(orphaOption);
 		options.addOption(chartOption);
 
 		try {
@@ -54,7 +62,12 @@ public class Main {
 			else if (cmdLine.hasOption("d")) {
 				DoidProcessor mpr = new DoidProcessor();
 				mpr.run();
-			} else if (cmdLine.hasOption("c")) {
+			}
+			else if (cmdLine.hasOption("o")) {
+				OrphanetProcessor opr = new OrphanetProcessor();
+				opr.run();
+			}
+			else if (cmdLine.hasOption("c")) {
 				ScatterChartGenerator scg = new ScatterChartGenerator();
 				scg.run();
 				
