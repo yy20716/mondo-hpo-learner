@@ -1,0 +1,27 @@
+
+### [Orphanet:93420](http://www.orpha.net/ORDO/Orphanet_93420)
+**Label:** FGFR3-related chondrodysplasia
+
+**Subclasses:** [Orphanet:429](http://www.orpha.net/ORDO/Orphanet_429) (Hypochondroplasia), [Orphanet:85165](http://www.orpha.net/ORDO/Orphanet_85165) (Severe achondroplasia-developmental delay-acanthosis nigricans syndrome), [Orphanet:85164](http://www.orpha.net/ORDO/Orphanet_85164) (Camptodactyly-tall stature-scoliosis-hearing loss syndrome), [Orphanet:2655](http://www.orpha.net/ORDO/Orphanet_2655) (Thanatophoric dysplasia), [Orphanet:15](http://www.orpha.net/ORDO/Orphanet_15) (Achondroplasia), 
+
+**Corr. equiv. classes:** [OMIM:146000](http://purl.obolibrary.org/obo/OMIM_146000), [Orphanet:2655](http://www.orpha.net/ORDO/Orphanet_2655), [OMIM:187600](http://purl.obolibrary.org/obo/OMIM_187600), [OMIM:187601](http://purl.obolibrary.org/obo/OMIM_187601), [Orphanet:85164](http://www.orpha.net/ORDO/Orphanet_85164), [Orphanet:85165](http://www.orpha.net/ORDO/Orphanet_85165), [OMIM:610474](http://purl.obolibrary.org/obo/OMIM_610474), [OMIM:100800](http://purl.obolibrary.org/obo/OMIM_100800), [OMIM:616482](http://purl.obolibrary.org/obo/OMIM_616482), [OMIM:156830](http://purl.obolibrary.org/obo/OMIM_156830), [Orphanet:429](http://www.orpha.net/ORDO/Orphanet_429), [Orphanet:15](http://www.orpha.net/ORDO/Orphanet_15), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0008873](http://purl.obolibrary.org/obo/HP_0008873) (Disproportionate short-limb short stature) and [HP:0030266](http://purl.obolibrary.org/obo/HP_0030266) (Abnormality of the sacroiliac notch) and [HP:0040006](http://purl.obolibrary.org/obo/HP_0040006) (Mortality/Aging) 62.50%
+- [HP:0008873](http://purl.obolibrary.org/obo/HP_0008873) (Disproportionate short-limb short stature) and [HP:0011420](http://purl.obolibrary.org/obo/HP_0011420) (Age of death) and [HP:0030266](http://purl.obolibrary.org/obo/HP_0030266) (Abnormality of the sacroiliac notch) 62.50%
+- [HP:0004322](http://purl.obolibrary.org/obo/HP_0004322) (Short stature) and [HP:0030266](http://purl.obolibrary.org/obo/HP_0030266) (Abnormality of the sacroiliac notch) and [HP:0040006](http://purl.obolibrary.org/obo/HP_0040006) (Mortality/Aging) 62.50%
+- [HP:0004322](http://purl.obolibrary.org/obo/HP_0004322) (Short stature) and [HP:0011420](http://purl.obolibrary.org/obo/HP_0011420) (Age of death) and [HP:0030266](http://purl.obolibrary.org/obo/HP_0030266) (Abnormality of the sacroiliac notch) 62.50%
+- [HP:0003498](http://purl.obolibrary.org/obo/HP_0003498) (Disproportionate short stature) and [HP:0030266](http://purl.obolibrary.org/obo/HP_0030266) (Abnormality of the sacroiliac notch) and [HP:0040006](http://purl.obolibrary.org/obo/HP_0040006) (Mortality/Aging) 62.50%
+- [HP:0003498](http://purl.obolibrary.org/obo/HP_0003498) (Disproportionate short stature) and [HP:0011420](http://purl.obolibrary.org/obo/HP_0011420) (Age of death) and [HP:0030266](http://purl.obolibrary.org/obo/HP_0030266) (Abnormality of the sacroiliac notch) 62.50%
+- [HP:0002683](http://purl.obolibrary.org/obo/HP_0002683) (Abnormality of the calvaria) and [HP:0030266](http://purl.obolibrary.org/obo/HP_0030266) (Abnormality of the sacroiliac notch) and [HP:0040006](http://purl.obolibrary.org/obo/HP_0040006) (Mortality/Aging) 62.50%
+- [HP:0002683](http://purl.obolibrary.org/obo/HP_0002683) (Abnormality of the calvaria) and [HP:0011420](http://purl.obolibrary.org/obo/HP_0011420) (Age of death) and [HP:0030266](http://purl.obolibrary.org/obo/HP_0030266) (Abnormality of the sacroiliac notch) 62.50%
+- [HP:0002648](http://purl.obolibrary.org/obo/HP_0002648) (Abnormality of calvarial morphology) and [HP:0030266](http://purl.obolibrary.org/obo/HP_0030266) (Abnormality of the sacroiliac notch) and [HP:0040006](http://purl.obolibrary.org/obo/HP_0040006) (Mortality/Aging) 62.50%
+- [HP:0002648](http://purl.obolibrary.org/obo/HP_0002648) (Abnormality of calvarial morphology) and [HP:0011420](http://purl.obolibrary.org/obo/HP_0011420) (Age of death) and [HP:0030266](http://purl.obolibrary.org/obo/HP_0030266) (Abnormality of the sacroiliac notch) 62.50%
+- [HP:0001547](http://purl.obolibrary.org/obo/HP_0001547) (Abnormality of the rib cage) and [HP:0030266](http://purl.obolibrary.org/obo/HP_0030266) (Abnormality of the sacroiliac notch) and [HP:0040006](http://purl.obolibrary.org/obo/HP_0040006) (Mortality/Aging) 62.50%
+- [HP:0001547](http://purl.obolibrary.org/obo/HP_0001547) (Abnormality of the rib cage) and [HP:0011420](http://purl.obolibrary.org/obo/HP_0011420) (Age of death) and [HP:0030266](http://purl.obolibrary.org/obo/HP_0030266) (Abnormality of the sacroiliac notch) 62.50%
+- [HP:0001510](http://purl.obolibrary.org/obo/HP_0001510) (Growth delay) and [HP:0030266](http://purl.obolibrary.org/obo/HP_0030266) (Abnormality of the sacroiliac notch) and [HP:0040006](http://purl.obolibrary.org/obo/HP_0040006) (Mortality/Aging) 62.50%
+- [HP:0001510](http://purl.obolibrary.org/obo/HP_0001510) (Growth delay) and [HP:0011420](http://purl.obolibrary.org/obo/HP_0011420) (Age of death) and [HP:0030266](http://purl.obolibrary.org/obo/HP_0030266) (Abnormality of the sacroiliac notch) 62.50%
+- [HP:0001507](http://purl.obolibrary.org/obo/HP_0001507) (Growth abnormality) and [HP:0030266](http://purl.obolibrary.org/obo/HP_0030266) (Abnormality of the sacroiliac notch) and [HP:0040006](http://purl.obolibrary.org/obo/HP_0040006) (Mortality/Aging) 62.50%
+
+

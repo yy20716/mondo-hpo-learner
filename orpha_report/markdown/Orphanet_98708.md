@@ -1,0 +1,27 @@
+
+### [Orphanet:98708](http://www.orpha.net/ORDO/Orphanet_98708)
+**Label:** Pigmentation disorder with eye involvement, excluding albinism
+
+**Subclasses:** [Orphanet:464](http://www.orpha.net/ORDO/Orphanet_464) (Incontinentia pigmenti), [Orphanet:163746](http://www.orpha.net/ORDO/Orphanet_163746) (Neurologic Waardenburg-Shah syndrome), [Orphanet:42665](http://www.orpha.net/ORDO/Orphanet_42665) (Tietz syndrome), [Orphanet:2884](http://www.orpha.net/ORDO/Orphanet_2884) (Piebaldism), [Orphanet:897](http://www.orpha.net/ORDO/Orphanet_897) (Waardenburg-Shah syndrome), [Orphanet:435](http://www.orpha.net/ORDO/Orphanet_435) (Ito hypomelanosis), [Orphanet:33445](http://www.orpha.net/ORDO/Orphanet_33445) (Neuroectodermal melanolysosomal disease), [Orphanet:3440](http://www.orpha.net/ORDO/Orphanet_3440) (Waardenburg syndrome), 
+
+**Corr. equiv. classes:** [Orphanet:464](http://www.orpha.net/ORDO/Orphanet_464), [Orphanet:33445](http://www.orpha.net/ORDO/Orphanet_33445), [OMIM:308300](http://purl.obolibrary.org/obo/OMIM_308300), [OMIM:193500](http://purl.obolibrary.org/obo/OMIM_193500), [OMIM:172800](http://purl.obolibrary.org/obo/OMIM_172800), [OMIM:193510](http://purl.obolibrary.org/obo/OMIM_193510), [OMIM:300337](http://purl.obolibrary.org/obo/OMIM_300337), [Orphanet:42665](http://www.orpha.net/ORDO/Orphanet_42665), [OMIM:613265](http://purl.obolibrary.org/obo/OMIM_613265), [OMIM:103500](http://purl.obolibrary.org/obo/OMIM_103500), [OMIM:611584](http://purl.obolibrary.org/obo/OMIM_611584), [OMIM:613266](http://purl.obolibrary.org/obo/OMIM_613266), [OMIM:256710](http://purl.obolibrary.org/obo/OMIM_256710), [Orphanet:163746](http://www.orpha.net/ORDO/Orphanet_163746), [OMIM:277580](http://purl.obolibrary.org/obo/OMIM_277580), [Orphanet:3440](http://www.orpha.net/ORDO/Orphanet_3440), [OMIM:609136](http://purl.obolibrary.org/obo/OMIM_609136), [OMIM:606662](http://purl.obolibrary.org/obo/OMIM_606662), [Orphanet:2884](http://www.orpha.net/ORDO/Orphanet_2884), [OMIM:148820](http://purl.obolibrary.org/obo/OMIM_148820), [OMIM:608890](http://purl.obolibrary.org/obo/OMIM_608890), [Orphanet:897](http://www.orpha.net/ORDO/Orphanet_897), [OMIM:600193](http://purl.obolibrary.org/obo/OMIM_600193), [Orphanet:435](http://www.orpha.net/ORDO/Orphanet_435), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0002226](http://purl.obolibrary.org/obo/HP_0002226) (White eyebrow) 66.18%
+- [HP:0002226](http://purl.obolibrary.org/obo/HP_0002226) (White eyebrow) and [HP:0011121](http://purl.obolibrary.org/obo/HP_0011121) (Abnormality of skin morphology) 66.18%
+- [HP:0002226](http://purl.obolibrary.org/obo/HP_0002226) (White eyebrow) and [HP:0002227](http://purl.obolibrary.org/obo/HP_0002227) (White eyelashes) 66.18%
+- [HP:0000951](http://purl.obolibrary.org/obo/HP_0000951) (Abnormality of the skin) and [HP:0002226](http://purl.obolibrary.org/obo/HP_0002226) (White eyebrow) 66.18%
+- [HP:0000499](http://purl.obolibrary.org/obo/HP_0000499) (Abnormality of the eyelashes) and [HP:0002226](http://purl.obolibrary.org/obo/HP_0002226) (White eyebrow) 66.18%
+- [HP:0000492](http://purl.obolibrary.org/obo/HP_0000492) (Abnormality of the eyelid) and [HP:0002226](http://purl.obolibrary.org/obo/HP_0002226) (White eyebrow) 66.18%
+- [HP:0002226](http://purl.obolibrary.org/obo/HP_0002226) (White eyebrow) and [HP:0002227](http://purl.obolibrary.org/obo/HP_0002227) (White eyelashes) and [HP:0011121](http://purl.obolibrary.org/obo/HP_0011121) (Abnormality of skin morphology) 66.18%
+- [HP:0000951](http://purl.obolibrary.org/obo/HP_0000951) (Abnormality of the skin) and [HP:0002226](http://purl.obolibrary.org/obo/HP_0002226) (White eyebrow) and [HP:0002227](http://purl.obolibrary.org/obo/HP_0002227) (White eyelashes) 66.18%
+- [HP:0000499](http://purl.obolibrary.org/obo/HP_0000499) (Abnormality of the eyelashes) and [HP:0002226](http://purl.obolibrary.org/obo/HP_0002226) (White eyebrow) and [HP:0011121](http://purl.obolibrary.org/obo/HP_0011121) (Abnormality of skin morphology) 66.18%
+- [HP:0000499](http://purl.obolibrary.org/obo/HP_0000499) (Abnormality of the eyelashes) and [HP:0000951](http://purl.obolibrary.org/obo/HP_0000951) (Abnormality of the skin) and [HP:0002226](http://purl.obolibrary.org/obo/HP_0002226) (White eyebrow) 66.18%
+- [HP:0000492](http://purl.obolibrary.org/obo/HP_0000492) (Abnormality of the eyelid) and [HP:0002226](http://purl.obolibrary.org/obo/HP_0002226) (White eyebrow) and [HP:0011121](http://purl.obolibrary.org/obo/HP_0011121) (Abnormality of skin morphology) 66.18%
+- [HP:0000492](http://purl.obolibrary.org/obo/HP_0000492) (Abnormality of the eyelid) and [HP:0000951](http://purl.obolibrary.org/obo/HP_0000951) (Abnormality of the skin) and [HP:0002226](http://purl.obolibrary.org/obo/HP_0002226) (White eyebrow) 66.18%
+- [HP:0000005](http://purl.obolibrary.org/obo/HP_0000005) (Mode of inheritance) and [HP:0002226](http://purl.obolibrary.org/obo/HP_0002226) (White eyebrow) 64.58%
+- [HP:0000005](http://purl.obolibrary.org/obo/HP_0000005) (Mode of inheritance) and [HP:0002226](http://purl.obolibrary.org/obo/HP_0002226) (White eyebrow) and [HP:0011121](http://purl.obolibrary.org/obo/HP_0011121) (Abnormality of skin morphology) 64.58%
+- [HP:0000005](http://purl.obolibrary.org/obo/HP_0000005) (Mode of inheritance) and [HP:0002226](http://purl.obolibrary.org/obo/HP_0002226) (White eyebrow) and [HP:0002227](http://purl.obolibrary.org/obo/HP_0002227) (White eyelashes) 64.58%
+
+

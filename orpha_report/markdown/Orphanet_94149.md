@@ -1,0 +1,27 @@
+
+### [Orphanet:94149](http://www.orpha.net/ORDO/Orphanet_94149)
+**Label:** Autosomal dominant cerebellar ataxia type IV
+
+**Subclasses:** [Orphanet:101](http://www.orpha.net/ORDO/Orphanet_101) (Dentatorubral pallidoluysian atrophy), [Orphanet:98761](http://www.orpha.net/ORDO/Orphanet_98761) (Spinocerebellar ataxia type 10), 
+
+**Corr. equiv. classes:** [Orphanet:98761](http://www.orpha.net/ORDO/Orphanet_98761), [Orphanet:101](http://www.orpha.net/ORDO/Orphanet_101), [OMIM:125370](http://purl.obolibrary.org/obo/OMIM_125370), [OMIM:603516](http://purl.obolibrary.org/obo/OMIM_603516), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0003743](http://purl.obolibrary.org/obo/HP_0003743) (Genetic anticipation) and [HP:0045010](http://purl.obolibrary.org/obo/HP_0045010) (Abnormality of peripheral nerves) 62.50%
+- [HP:0003743](http://purl.obolibrary.org/obo/HP_0003743) (Genetic anticipation) and [HP:0040129](http://purl.obolibrary.org/obo/HP_0040129) (Abnormal nerve conduction velocity) 62.50%
+- [HP:0003743](http://purl.obolibrary.org/obo/HP_0003743) (Genetic anticipation) and [HP:0030177](http://purl.obolibrary.org/obo/HP_0030177) (Abnormality of peripheral nervous system electrophysiology) 62.50%
+- [HP:0003743](http://purl.obolibrary.org/obo/HP_0003743) (Genetic anticipation) and [HP:0003829](http://purl.obolibrary.org/obo/HP_0003829) (Incomplete penetrance) 62.50%
+- [HP:0003134](http://purl.obolibrary.org/obo/HP_0003134) (Abnormality of peripheral nerve conduction) and [HP:0003743](http://purl.obolibrary.org/obo/HP_0003743) (Genetic anticipation) 62.50%
+- [HP:0002311](http://purl.obolibrary.org/obo/HP_0002311) (Incoordination) and [HP:0003743](http://purl.obolibrary.org/obo/HP_0003743) (Genetic anticipation) 62.50%
+- [HP:0002168](http://purl.obolibrary.org/obo/HP_0002168) (Scanning speech) and [HP:0003743](http://purl.obolibrary.org/obo/HP_0003743) (Genetic anticipation) 62.50%
+- [HP:0002075](http://purl.obolibrary.org/obo/HP_0002075) (Dysdiadochokinesis) and [HP:0003743](http://purl.obolibrary.org/obo/HP_0003743) (Genetic anticipation) 62.50%
+- [HP:0002066](http://purl.obolibrary.org/obo/HP_0002066) (Gait ataxia) and [HP:0003743](http://purl.obolibrary.org/obo/HP_0003743) (Genetic anticipation) 62.50%
+- [HP:0001311](http://purl.obolibrary.org/obo/HP_0001311) (Abnormal nervous system electrophysiology) and [HP:0003743](http://purl.obolibrary.org/obo/HP_0003743) (Genetic anticipation) 62.50%
+- [HP:0001266](http://purl.obolibrary.org/obo/HP_0001266) (Choreoathetosis) and [HP:0003743](http://purl.obolibrary.org/obo/HP_0003743) (Genetic anticipation) 62.50%
+- [HP:0001250](http://purl.obolibrary.org/obo/HP_0001250) (Seizures) and [HP:0003743](http://purl.obolibrary.org/obo/HP_0003743) (Genetic anticipation) 62.50%
+- [HP:0000762](http://purl.obolibrary.org/obo/HP_0000762) (Decreased nerve conduction velocity) and [HP:0003743](http://purl.obolibrary.org/obo/HP_0003743) (Genetic anticipation) 62.50%
+- [HP:0003743](http://purl.obolibrary.org/obo/HP_0003743) (Genetic anticipation) and [HP:0031466](http://purl.obolibrary.org/obo/HP_0031466) (Impairment in personality functioning) and [HP:0100022](http://purl.obolibrary.org/obo/HP_0100022) (Abnormality of movement) 62.50%
+- [HP:0003743](http://purl.obolibrary.org/obo/HP_0003743) (Genetic anticipation) and [HP:0031466](http://purl.obolibrary.org/obo/HP_0031466) (Impairment in personality functioning) and [HP:0045010](http://purl.obolibrary.org/obo/HP_0045010) (Abnormality of peripheral nerves) 62.50%
+
+

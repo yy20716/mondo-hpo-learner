@@ -1,0 +1,27 @@
+
+### [Orphanet:289902](http://www.orpha.net/ORDO/Orphanet_289902)
+**Label:** 3-methylglutaconic aciduria
+
+**Subclasses:** [Orphanet:111](http://www.orpha.net/ORDO/Orphanet_111) (Barth syndrome), [Orphanet:445038](http://www.orpha.net/ORDO/Orphanet_445038) (3-methylglutaconic aciduria type 7), [Orphanet:67047](http://www.orpha.net/ORDO/Orphanet_67047) (3-methylglutaconic aciduria type 3), [Orphanet:67046](http://www.orpha.net/ORDO/Orphanet_67046) (3-methylglutaconic aciduria type 1), [Orphanet:352328](http://www.orpha.net/ORDO/Orphanet_352328) (MEGDEL syndrome), [Orphanet:67048](http://www.orpha.net/ORDO/Orphanet_67048) (3-methylglutaconic aciduria type 4), [Orphanet:66634](http://www.orpha.net/ORDO/Orphanet_66634) (Dilated cardiomyopathy with ataxia), 
+
+**Corr. equiv. classes:** [Orphanet:111](http://www.orpha.net/ORDO/Orphanet_111), [OMIM:250951](http://purl.obolibrary.org/obo/OMIM_250951), [OMIM:616271](http://purl.obolibrary.org/obo/OMIM_616271), [Orphanet:67046](http://www.orpha.net/ORDO/Orphanet_67046), [Orphanet:67048](http://www.orpha.net/ORDO/Orphanet_67048), [Orphanet:67047](http://www.orpha.net/ORDO/Orphanet_67047), [OMIM:258501](http://purl.obolibrary.org/obo/OMIM_258501), [Orphanet:66634](http://www.orpha.net/ORDO/Orphanet_66634), [OMIM:610198](http://purl.obolibrary.org/obo/OMIM_610198), [Orphanet:352328](http://www.orpha.net/ORDO/Orphanet_352328), [OMIM:302060](http://purl.obolibrary.org/obo/OMIM_302060), [Orphanet:445038](http://www.orpha.net/ORDO/Orphanet_445038), [OMIM:250950](http://purl.obolibrary.org/obo/OMIM_250950), [OMIM:614739](http://purl.obolibrary.org/obo/OMIM_614739), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0002493](http://purl.obolibrary.org/obo/HP_0002493) (Upper motor neuron dysfunction) and [HP:0003535](http://purl.obolibrary.org/obo/HP_0003535) (3-Methylglutaconic aciduria) 71.43%
+- [HP:0001276](http://purl.obolibrary.org/obo/HP_0001276) (Hypertonia) and [HP:0003535](http://purl.obolibrary.org/obo/HP_0003535) (3-Methylglutaconic aciduria) 71.43%
+- [HP:0001257](http://purl.obolibrary.org/obo/HP_0001257) (Spasticity) and [HP:0003535](http://purl.obolibrary.org/obo/HP_0003535) (3-Methylglutaconic aciduria) 71.43%
+- [HP:0002493](http://purl.obolibrary.org/obo/HP_0002493) (Upper motor neuron dysfunction) and [HP:0003535](http://purl.obolibrary.org/obo/HP_0003535) (3-Methylglutaconic aciduria) and [HP:0012639](http://purl.obolibrary.org/obo/HP_0012639) (Abnormality of nervous system morphology) 71.43%
+- [HP:0002493](http://purl.obolibrary.org/obo/HP_0002493) (Upper motor neuron dysfunction) and [HP:0003535](http://purl.obolibrary.org/obo/HP_0003535) (3-Methylglutaconic aciduria) and [HP:0012443](http://purl.obolibrary.org/obo/HP_0012443) (Abnormality of brain morphology) 71.43%
+- [HP:0002493](http://purl.obolibrary.org/obo/HP_0002493) (Upper motor neuron dysfunction) and [HP:0003535](http://purl.obolibrary.org/obo/HP_0003535) (3-Methylglutaconic aciduria) and [HP:0011804](http://purl.obolibrary.org/obo/HP_0011804) (Abnormality of muscle physiology) 71.43%
+- [HP:0002493](http://purl.obolibrary.org/obo/HP_0002493) (Upper motor neuron dysfunction) and [HP:0003535](http://purl.obolibrary.org/obo/HP_0003535) (3-Methylglutaconic aciduria) and [HP:0011283](http://purl.obolibrary.org/obo/HP_0011283) (Abnormality of the metencephalon) 71.43%
+- [HP:0002493](http://purl.obolibrary.org/obo/HP_0002493) (Upper motor neuron dysfunction) and [HP:0003535](http://purl.obolibrary.org/obo/HP_0003535) (3-Methylglutaconic aciduria) and [HP:0011282](http://purl.obolibrary.org/obo/HP_0011282) (Abnormality of hindbrain morphology) 71.43%
+- [HP:0002493](http://purl.obolibrary.org/obo/HP_0002493) (Upper motor neuron dysfunction) and [HP:0003535](http://purl.obolibrary.org/obo/HP_0003535) (3-Methylglutaconic aciduria) and [HP:0003808](http://purl.obolibrary.org/obo/HP_0003808) (Abnormal muscle tone) 71.43%
+- [HP:0002493](http://purl.obolibrary.org/obo/HP_0002493) (Upper motor neuron dysfunction) and [HP:0003011](http://purl.obolibrary.org/obo/HP_0003011) (Abnormality of the musculature) and [HP:0003535](http://purl.obolibrary.org/obo/HP_0003535) (3-Methylglutaconic aciduria) 71.43%
+- [HP:0002011](http://purl.obolibrary.org/obo/HP_0002011) (Morphological abnormality of the central nervous system) and [HP:0002493](http://purl.obolibrary.org/obo/HP_0002493) (Upper motor neuron dysfunction) and [HP:0003535](http://purl.obolibrary.org/obo/HP_0003535) (3-Methylglutaconic aciduria) 71.43%
+- [HP:0001317](http://purl.obolibrary.org/obo/HP_0001317) (Abnormality of the cerebellum) and [HP:0002493](http://purl.obolibrary.org/obo/HP_0002493) (Upper motor neuron dysfunction) and [HP:0003535](http://purl.obolibrary.org/obo/HP_0003535) (3-Methylglutaconic aciduria) 71.43%
+- [HP:0001276](http://purl.obolibrary.org/obo/HP_0001276) (Hypertonia) and [HP:0003535](http://purl.obolibrary.org/obo/HP_0003535) (3-Methylglutaconic aciduria) and [HP:0012639](http://purl.obolibrary.org/obo/HP_0012639) (Abnormality of nervous system morphology) 71.43%
+- [HP:0001276](http://purl.obolibrary.org/obo/HP_0001276) (Hypertonia) and [HP:0003535](http://purl.obolibrary.org/obo/HP_0003535) (3-Methylglutaconic aciduria) and [HP:0012443](http://purl.obolibrary.org/obo/HP_0012443) (Abnormality of brain morphology) 71.43%
+- [HP:0001276](http://purl.obolibrary.org/obo/HP_0001276) (Hypertonia) and [HP:0003535](http://purl.obolibrary.org/obo/HP_0003535) (3-Methylglutaconic aciduria) and [HP:0011283](http://purl.obolibrary.org/obo/HP_0011283) (Abnormality of the metencephalon) 71.43%
+
+

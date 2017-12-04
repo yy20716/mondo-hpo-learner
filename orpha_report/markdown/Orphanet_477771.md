@@ -1,0 +1,27 @@
+
+### [Orphanet:477771](http://www.orpha.net/ORDO/Orphanet_477771)
+**Label:** Moyamoya syndrome
+
+**Subclasses:** [Orphanet:232](http://www.orpha.net/ORDO/Orphanet_232) (Sickle cell anemia), [Orphanet:870](http://www.orpha.net/ORDO/Orphanet_870) (Down syndrome), [Orphanet:3071](http://www.orpha.net/ORDO/Orphanet_3071) (Costello syndrome), [Orphanet:2637](http://www.orpha.net/ORDO/Orphanet_2637) (Microcephalic osteodysplastic primordial dwarfism type II), [Orphanet:51](http://www.orpha.net/ORDO/Orphanet_51) (Aicardi-Goutières syndrome), [Orphanet:636](http://www.orpha.net/ORDO/Orphanet_636) (Neurofibromatosis type 1), [Orphanet:42775](http://www.orpha.net/ORDO/Orphanet_42775) (PHACE syndrome), [Orphanet:648](http://www.orpha.net/ORDO/Orphanet_648) (Noonan syndrome), [Orphanet:280679](http://www.orpha.net/ORDO/Orphanet_280679) (Moyamoya angiopathy-short stature-facial dysmorphism-hypergonadotropic hypogonadism syndrome), [Orphanet:401945](http://www.orpha.net/ORDO/Orphanet_401945) (Moyamoya disease with early-onset achalasia), 
+
+**Corr. equiv. classes:** [Orphanet:3071](http://www.orpha.net/ORDO/Orphanet_3071), [OMIM:162210](http://purl.obolibrary.org/obo/OMIM_162210), [Orphanet:51](http://www.orpha.net/ORDO/Orphanet_51), [OMIM:225750](http://purl.obolibrary.org/obo/OMIM_225750), [Orphanet:401945](http://www.orpha.net/ORDO/Orphanet_401945), [OMIM:190685](http://purl.obolibrary.org/obo/OMIM_190685), [OMIM:300845](http://purl.obolibrary.org/obo/OMIM_300845), [Orphanet:42775](http://www.orpha.net/ORDO/Orphanet_42775), [OMIM:210720](http://purl.obolibrary.org/obo/OMIM_210720), [OMIM:616559](http://purl.obolibrary.org/obo/OMIM_616559), [OMIM:613224](http://purl.obolibrary.org/obo/OMIM_613224), [OMIM:612952](http://purl.obolibrary.org/obo/OMIM_612952), [OMIM:610333](http://purl.obolibrary.org/obo/OMIM_610333), [Orphanet:636](http://www.orpha.net/ORDO/Orphanet_636), [OMIM:605275](http://purl.obolibrary.org/obo/OMIM_605275), [OMIM:615846](http://purl.obolibrary.org/obo/OMIM_615846), [OMIM:610733](http://purl.obolibrary.org/obo/OMIM_610733), [OMIM:218040](http://purl.obolibrary.org/obo/OMIM_218040), [OMIM:613706](http://purl.obolibrary.org/obo/OMIM_613706), [OMIM:163950](http://purl.obolibrary.org/obo/OMIM_163950), [Orphanet:870](http://www.orpha.net/ORDO/Orphanet_870), [Orphanet:232](http://www.orpha.net/ORDO/Orphanet_232), [OMIM:162200](http://purl.obolibrary.org/obo/OMIM_162200), [OMIM:609942](http://purl.obolibrary.org/obo/OMIM_609942), [OMIM:603903](http://purl.obolibrary.org/obo/OMIM_603903), [OMIM:606519](http://purl.obolibrary.org/obo/OMIM_606519), [OMIM:610181](http://purl.obolibrary.org/obo/OMIM_610181), [OMIM:114100](http://purl.obolibrary.org/obo/OMIM_114100), [OMIM:615010](http://purl.obolibrary.org/obo/OMIM_615010), [OMIM:615750](http://purl.obolibrary.org/obo/OMIM_615750), [OMIM:615355](http://purl.obolibrary.org/obo/OMIM_615355), [OMIM:616564](http://purl.obolibrary.org/obo/OMIM_616564), [OMIM:611553](http://purl.obolibrary.org/obo/OMIM_611553), [Orphanet:2637](http://www.orpha.net/ORDO/Orphanet_2637), [OMIM:613675](http://purl.obolibrary.org/obo/OMIM_613675), [Orphanet:648](http://www.orpha.net/ORDO/Orphanet_648), [Orphanet:280679](http://www.orpha.net/ORDO/Orphanet_280679), [OMIM:610329](http://purl.obolibrary.org/obo/OMIM_610329), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0000118](http://purl.obolibrary.org/obo/HP_0000118) (Phenotypic abnormality) 49.49%
+- Thing 49.47%
+- [HP:0000001](http://purl.obolibrary.org/obo/HP_0000001) (All) 49.47%
+- [HP:0000707](http://purl.obolibrary.org/obo/HP_0000707) (Abnormality of the nervous system) 46.42%
+- [HP:0000152](http://purl.obolibrary.org/obo/HP_0000152) (Abnormality of head or neck) 42.62%
+- [HP:0001626](http://purl.obolibrary.org/obo/HP_0001626) (Abnormality of the cardiovascular system) 42.55%
+- [HP:0000464](http://purl.obolibrary.org/obo/HP_0000464) (Abnormality of the neck) and [HP:0001641](http://purl.obolibrary.org/obo/HP_0001641) (Abnormal pulmonary valve morphology) and [HP:0012372](http://purl.obolibrary.org/obo/HP_0012372) (Abnormal eye morphology) 41.11%
+- [HP:0000924](http://purl.obolibrary.org/obo/HP_0000924) (Abnormality of the skeletal system) 41.11%
+- [HP:0000464](http://purl.obolibrary.org/obo/HP_0000464) (Abnormality of the neck) and [HP:0000478](http://purl.obolibrary.org/obo/HP_0000478) (Abnormality of the eye) and [HP:0001641](http://purl.obolibrary.org/obo/HP_0001641) (Abnormal pulmonary valve morphology) 40.27%
+- [HP:0000464](http://purl.obolibrary.org/obo/HP_0000464) (Abnormality of the neck) and [HP:0001641](http://purl.obolibrary.org/obo/HP_0001641) (Abnormal pulmonary valve morphology) 39.51%
+- [HP:0000464](http://purl.obolibrary.org/obo/HP_0000464) (Abnormality of the neck) and [HP:0000924](http://purl.obolibrary.org/obo/HP_0000924) (Abnormality of the skeletal system) and [HP:0001641](http://purl.obolibrary.org/obo/HP_0001641) (Abnormal pulmonary valve morphology) 39.51%
+- [HP:0000478](http://purl.obolibrary.org/obo/HP_0000478) (Abnormality of the eye) 38.76%
+- [HP:0001574](http://purl.obolibrary.org/obo/HP_0001574) (Abnormality of the integument) 37.76%
+- [HP:0001641](http://purl.obolibrary.org/obo/HP_0001641) (Abnormal pulmonary valve morphology) and [HP:0100886](http://purl.obolibrary.org/obo/HP_0100886) (Abnormality of globe location) 36.22%
+- [HP:0001507](http://purl.obolibrary.org/obo/HP_0001507) (Growth abnormality) 33.78%
+
+

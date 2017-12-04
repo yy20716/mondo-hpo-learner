@@ -1,0 +1,27 @@
+
+### [Orphanet:325638](http://www.orpha.net/ORDO/Orphanet_325638)
+**Label:** Syndrome with disorder of sex development of gynecological interest
+
+**Subclasses:** [Orphanet:893](http://www.orpha.net/ORDO/Orphanet_893) (WAGR syndrome), [Orphanet:991](http://www.orpha.net/ORDO/Orphanet_991) (PAGOD syndrome), [Orphanet:220](http://www.orpha.net/ORDO/Orphanet_220) (Denys-Drash syndrome), [Orphanet:140](http://www.orpha.net/ORDO/Orphanet_140) (Campomelic dysplasia), [Orphanet:85112](http://www.orpha.net/ORDO/Orphanet_85112) (Palmoplantar keratoderma-XX sex reversal-predisposition to squamous cell carcinoma syndrome), [Orphanet:2975](http://www.orpha.net/ORDO/Orphanet_2975) (46,XX disorder of sex development-skeletal anomalies syndrome), [Orphanet:2855](http://www.orpha.net/ORDO/Orphanet_2855) (Perrault syndrome), [Orphanet:137631](http://www.orpha.net/ORDO/Orphanet_137631) (Lung fibrosis-immunodeficiency-46,XX gonadal dysgenesis syndrome), [Orphanet:1422](http://www.orpha.net/ORDO/Orphanet_1422) (Chondrodysplasia-disorder of sex development syndrome), [Orphanet:2983](http://www.orpha.net/ORDO/Orphanet_2983) (Disorder of sex development-intellectual disability syndrome), [Orphanet:1770](http://www.orpha.net/ORDO/Orphanet_1770) (XY type gonadal dysgenesis-associated anomalies syndrome), [Orphanet:247768](http://www.orpha.net/ORDO/Orphanet_247768) (Müllerian aplasia and hyperandrogenism), [Orphanet:3097](http://www.orpha.net/ORDO/Orphanet_3097) (Meacham syndrome), [Orphanet:168563](http://www.orpha.net/ORDO/Orphanet_168563) (46,XY gonadal dysgenesis-motor and sensory neuropathy syndrome), [Orphanet:847](http://www.orpha.net/ORDO/Orphanet_847) (Alpha-thalassemia-X-linked intellectual disability syndrome), [Orphanet:347](http://www.orpha.net/ORDO/Orphanet_347) (Frasier syndrome), 
+
+**Corr. equiv. classes:** [OMIM:158330](http://purl.obolibrary.org/obo/OMIM_158330), [OMIM:600122](http://purl.obolibrary.org/obo/OMIM_600122), [Orphanet:220](http://www.orpha.net/ORDO/Orphanet_220), [Orphanet:140](http://www.orpha.net/ORDO/Orphanet_140), [OMIM:136680](http://purl.obolibrary.org/obo/OMIM_136680), [Orphanet:3097](http://www.orpha.net/ORDO/Orphanet_3097), [OMIM:616138](http://purl.obolibrary.org/obo/OMIM_616138), [OMIM:233400](http://purl.obolibrary.org/obo/OMIM_233400), [OMIM:615300](http://purl.obolibrary.org/obo/OMIM_615300), [OMIM:202660](http://purl.obolibrary.org/obo/OMIM_202660), [Orphanet:1770](http://www.orpha.net/ORDO/Orphanet_1770), [OMIM:114290](http://purl.obolibrary.org/obo/OMIM_114290), [OMIM:211990](http://purl.obolibrary.org/obo/OMIM_211990), [OMIM:194072](http://purl.obolibrary.org/obo/OMIM_194072), [Orphanet:2983](http://www.orpha.net/ORDO/Orphanet_2983), [OMIM:611926](http://purl.obolibrary.org/obo/OMIM_611926), [Orphanet:168563](http://www.orpha.net/ORDO/Orphanet_168563), [Orphanet:991](http://www.orpha.net/ORDO/Orphanet_991), [OMIM:608978](http://purl.obolibrary.org/obo/OMIM_608978), [Orphanet:893](http://www.orpha.net/ORDO/Orphanet_893), [OMIM:301040](http://purl.obolibrary.org/obo/OMIM_301040), [OMIM:264270](http://purl.obolibrary.org/obo/OMIM_264270), [Orphanet:85112](http://www.orpha.net/ORDO/Orphanet_85112), [Orphanet:1422](http://www.orpha.net/ORDO/Orphanet_1422), [Orphanet:2975](http://www.orpha.net/ORDO/Orphanet_2975), [Orphanet:2855](http://www.orpha.net/ORDO/Orphanet_2855), [Orphanet:137631](http://www.orpha.net/ORDO/Orphanet_137631), [OMIM:614129](http://purl.obolibrary.org/obo/OMIM_614129), [OMIM:607080](http://purl.obolibrary.org/obo/OMIM_607080), [OMIM:610644](http://purl.obolibrary.org/obo/OMIM_610644), [OMIM:600092](http://purl.obolibrary.org/obo/OMIM_600092), [OMIM:612469](http://purl.obolibrary.org/obo/OMIM_612469), [Orphanet:847](http://www.orpha.net/ORDO/Orphanet_847), [Orphanet:247768](http://www.orpha.net/ORDO/Orphanet_247768), [OMIM:602196](http://purl.obolibrary.org/obo/OMIM_602196), [OMIM:233430](http://purl.obolibrary.org/obo/OMIM_233430), [OMIM:194080](http://purl.obolibrary.org/obo/OMIM_194080), [OMIM:614926](http://purl.obolibrary.org/obo/OMIM_614926), [Orphanet:347](http://www.orpha.net/ORDO/Orphanet_347), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0000133](http://purl.obolibrary.org/obo/HP_0000133) (Gonadal dysgenesis) 47.95%
+- Thing 46.96%
+- [HP:0000001](http://purl.obolibrary.org/obo/HP_0000001) (All) 46.96%
+- [HP:0000118](http://purl.obolibrary.org/obo/HP_0000118) (Phenotypic abnormality) 45.65%
+- [HP:0000119](http://purl.obolibrary.org/obo/HP_0000119) (Abnormality of the genitourinary system) 44.36%
+- [HP:0000152](http://purl.obolibrary.org/obo/HP_0000152) (Abnormality of head or neck) 29.34%
+- [HP:0000924](http://purl.obolibrary.org/obo/HP_0000924) (Abnormality of the skeletal system) 27.87%
+- [HP:0000005](http://purl.obolibrary.org/obo/HP_0000005) (Mode of inheritance) 26.24%
+- [HP:0040064](http://purl.obolibrary.org/obo/HP_0040064) (Abnormality of limbs) 25.87%
+- [HP:0008373](http://purl.obolibrary.org/obo/HP_0008373) (Puberty and gonadal disorders) 25.39%
+- [HP:0000707](http://purl.obolibrary.org/obo/HP_0000707) (Abnormality of the nervous system) 24.94%
+- [HP:0000818](http://purl.obolibrary.org/obo/HP_0000818) (Abnormality of the endocrine system) 23.88%
+- [HP:0000598](http://purl.obolibrary.org/obo/HP_0000598) (Abnormality of the ear) 22.27%
+- [HP:0001507](http://purl.obolibrary.org/obo/HP_0001507) (Growth abnormality) 21.81%
+- [HP:0000478](http://purl.obolibrary.org/obo/HP_0000478) (Abnormality of the eye) 18.48%
+
+

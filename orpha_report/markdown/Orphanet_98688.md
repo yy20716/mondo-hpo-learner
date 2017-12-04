@@ -1,0 +1,27 @@
+
+### [Orphanet:98688](http://www.orpha.net/ORDO/Orphanet_98688)
+**Label:** Oculomotor apraxia or related oculomotor disease
+
+**Subclasses:** [Orphanet:100](http://www.orpha.net/ORDO/Orphanet_100) (Ataxia-telangiectasia), [Orphanet:370022](http://www.orpha.net/ORDO/Orphanet_370022) (Ataxia-intellectual disability-oculomotor apraxia-cerebellar cysts syndrome), [Orphanet:2318](http://www.orpha.net/ORDO/Orphanet_2318) (Joubert syndrome with oculorenal defect), [Orphanet:248111](http://www.orpha.net/ORDO/Orphanet_248111) (Juvenile Huntington disease), [Orphanet:1125](http://www.orpha.net/ORDO/Orphanet_1125) (Ocular motor apraxia, Cogan type), [Orphanet:220493](http://www.orpha.net/ORDO/Orphanet_220493) (Joubert syndrome with ocular defect), [Orphanet:1168](http://www.orpha.net/ORDO/Orphanet_1168) (Ataxia-oculomotor apraxia type 1), [Orphanet:459033](http://www.orpha.net/ORDO/Orphanet_459033) (Ataxia-oculomotor apraxia type 4), [Orphanet:355](http://www.orpha.net/ORDO/Orphanet_355) (Gaucher disease), [Orphanet:64753](http://www.orpha.net/ORDO/Orphanet_64753) (Spinocerebellar ataxia with axonal neuropathy type 2), [Orphanet:399](http://www.orpha.net/ORDO/Orphanet_399) (Huntington disease), 
+
+**Corr. equiv. classes:** [Orphanet:100](http://www.orpha.net/ORDO/Orphanet_100), [OMIM:608629](http://purl.obolibrary.org/obo/OMIM_608629), [OMIM:230800](http://purl.obolibrary.org/obo/OMIM_230800), [OMIM:230900](http://purl.obolibrary.org/obo/OMIM_230900), [OMIM:617121](http://purl.obolibrary.org/obo/OMIM_617121), [OMIM:231000](http://purl.obolibrary.org/obo/OMIM_231000), [OMIM:614970](http://purl.obolibrary.org/obo/OMIM_614970), [OMIM:615960](http://purl.obolibrary.org/obo/OMIM_615960), [OMIM:231005](http://purl.obolibrary.org/obo/OMIM_231005), [OMIM:208900](http://purl.obolibrary.org/obo/OMIM_208900), [OMIM:208920](http://purl.obolibrary.org/obo/OMIM_208920), [Orphanet:220493](http://www.orpha.net/ORDO/Orphanet_220493), [Orphanet:370022](http://www.orpha.net/ORDO/Orphanet_370022), [OMIM:143100](http://purl.obolibrary.org/obo/OMIM_143100), [OMIM:606002](http://purl.obolibrary.org/obo/OMIM_606002), [OMIM:257550](http://purl.obolibrary.org/obo/OMIM_257550), [OMIM:610539](http://purl.obolibrary.org/obo/OMIM_610539), [Orphanet:355](http://www.orpha.net/ORDO/Orphanet_355), [Orphanet:399](http://www.orpha.net/ORDO/Orphanet_399), [OMIM:243910](http://purl.obolibrary.org/obo/OMIM_243910), [Orphanet:248111](http://www.orpha.net/ORDO/Orphanet_248111), [Orphanet:1125](http://www.orpha.net/ORDO/Orphanet_1125), [OMIM:614465](http://purl.obolibrary.org/obo/OMIM_614465), [Orphanet:1168](http://www.orpha.net/ORDO/Orphanet_1168), [OMIM:612285](http://purl.obolibrary.org/obo/OMIM_612285), [Orphanet:459033](http://www.orpha.net/ORDO/Orphanet_459033), [Orphanet:64753](http://www.orpha.net/ORDO/Orphanet_64753), [OMIM:614464](http://purl.obolibrary.org/obo/OMIM_614464), [OMIM:616267](http://purl.obolibrary.org/obo/OMIM_616267), [OMIM:615217](http://purl.obolibrary.org/obo/OMIM_615217), [OMIM:610188](http://purl.obolibrary.org/obo/OMIM_610188), [OMIM:608091](http://purl.obolibrary.org/obo/OMIM_608091), [OMIM:208910](http://purl.obolibrary.org/obo/OMIM_208910), [OMIM:614844](http://purl.obolibrary.org/obo/OMIM_614844), [OMIM:614424](http://purl.obolibrary.org/obo/OMIM_614424), [OMIM:608013](http://purl.obolibrary.org/obo/OMIM_608013), [Orphanet:2318](http://www.orpha.net/ORDO/Orphanet_2318), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0000657](http://purl.obolibrary.org/obo/HP_0000657) (Oculomotor apraxia) and [HP:0012639](http://purl.obolibrary.org/obo/HP_0012639) (Abnormality of nervous system morphology) 48.14%
+- [HP:0000657](http://purl.obolibrary.org/obo/HP_0000657) (Oculomotor apraxia) and [HP:0012443](http://purl.obolibrary.org/obo/HP_0012443) (Abnormality of brain morphology) 48.14%
+- [HP:0000657](http://purl.obolibrary.org/obo/HP_0000657) (Oculomotor apraxia) and [HP:0002011](http://purl.obolibrary.org/obo/HP_0002011) (Morphological abnormality of the central nervous system) 48.14%
+- [HP:0000657](http://purl.obolibrary.org/obo/HP_0000657) (Oculomotor apraxia) 47.79%
+- [HP:0000118](http://purl.obolibrary.org/obo/HP_0000118) (Phenotypic abnormality) 46.53%
+- Thing 46.51%
+- [HP:0000001](http://purl.obolibrary.org/obo/HP_0000001) (All) 46.51%
+- [HP:0000657](http://purl.obolibrary.org/obo/HP_0000657) (Oculomotor apraxia) and [HP:0011283](http://purl.obolibrary.org/obo/HP_0011283) (Abnormality of the metencephalon) 45.92%
+- [HP:0000657](http://purl.obolibrary.org/obo/HP_0000657) (Oculomotor apraxia) and [HP:0011282](http://purl.obolibrary.org/obo/HP_0011282) (Abnormality of hindbrain morphology) 45.92%
+- [HP:0000657](http://purl.obolibrary.org/obo/HP_0000657) (Oculomotor apraxia) and [HP:0001317](http://purl.obolibrary.org/obo/HP_0001317) (Abnormality of the cerebellum) 45.92%
+- [HP:0000707](http://purl.obolibrary.org/obo/HP_0000707) (Abnormality of the nervous system) 44.71%
+- [HP:0000005](http://purl.obolibrary.org/obo/HP_0000005) (Mode of inheritance) and [HP:0000657](http://purl.obolibrary.org/obo/HP_0000657) (Oculomotor apraxia) 44.65%
+- [HP:0000007](http://purl.obolibrary.org/obo/HP_0000007) (Autosomal recessive inheritance) and [HP:0000657](http://purl.obolibrary.org/obo/HP_0000657) (Oculomotor apraxia) 44.52%
+- [HP:0000657](http://purl.obolibrary.org/obo/HP_0000657) (Oculomotor apraxia) and [HP:0003011](http://purl.obolibrary.org/obo/HP_0003011) (Abnormality of the musculature) 42.13%
+- [HP:0000478](http://purl.obolibrary.org/obo/HP_0000478) (Abnormality of the eye) 41.12%
+
+

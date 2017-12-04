@@ -1,0 +1,27 @@
+
+### [Orphanet:371176](http://www.orpha.net/ORDO/Orphanet_371176)
+**Label:** Congenital disorder of glycosylation with dilated cardiomyopathy
+
+**Subclasses:** [Orphanet:206554](http://www.orpha.net/ORDO/Orphanet_206554) (Autosomal recessive limb-girdle muscular dystrophy type 2M), [Orphanet:263494](http://www.orpha.net/ORDO/Orphanet_263494) (DPM3-CDG), [Orphanet:319646](http://www.orpha.net/ORDO/Orphanet_319646) (PGM1-CDG), [Orphanet:91131](http://www.orpha.net/ORDO/Orphanet_91131) (DK1-CDG), 
+
+**Corr. equiv. classes:** [Orphanet:319646](http://www.orpha.net/ORDO/Orphanet_319646), [OMIM:614921](http://purl.obolibrary.org/obo/OMIM_614921), [OMIM:611588](http://purl.obolibrary.org/obo/OMIM_611588), [Orphanet:263494](http://www.orpha.net/ORDO/Orphanet_263494), [Orphanet:91131](http://www.orpha.net/ORDO/Orphanet_91131), [Orphanet:206554](http://www.orpha.net/ORDO/Orphanet_206554), [OMIM:610768](http://purl.obolibrary.org/obo/OMIM_610768), [OMIM:612937](http://purl.obolibrary.org/obo/OMIM_612937), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0001644](http://purl.obolibrary.org/obo/HP_0001644) (Dilated cardiomyopathy) and [HP:0003160](http://purl.obolibrary.org/obo/HP_0003160) (Abnormal isoelectric focusing of serum transferrin) 62.50%
+- [HP:0001644](http://purl.obolibrary.org/obo/HP_0001644) (Dilated cardiomyopathy) and [HP:0003160](http://purl.obolibrary.org/obo/HP_0003160) (Abnormal isoelectric focusing of serum transferrin) and [HP:0011842](http://purl.obolibrary.org/obo/HP_0011842) (Abnormality of skeletal morphology) 62.50%
+- [HP:0001644](http://purl.obolibrary.org/obo/HP_0001644) (Dilated cardiomyopathy) and [HP:0003160](http://purl.obolibrary.org/obo/HP_0003160) (Abnormal isoelectric focusing of serum transferrin) and [HP:0011804](http://purl.obolibrary.org/obo/HP_0011804) (Abnormality of muscle physiology) 62.50%
+- [HP:0001644](http://purl.obolibrary.org/obo/HP_0001644) (Dilated cardiomyopathy) and [HP:0003160](http://purl.obolibrary.org/obo/HP_0003160) (Abnormal isoelectric focusing of serum transferrin) and [HP:0011015](http://purl.obolibrary.org/obo/HP_0011015) (Abnormality of blood glucose concentration) 62.50%
+- [HP:0001644](http://purl.obolibrary.org/obo/HP_0001644) (Dilated cardiomyopathy) and [HP:0003160](http://purl.obolibrary.org/obo/HP_0003160) (Abnormal isoelectric focusing of serum transferrin) and [HP:0011014](http://purl.obolibrary.org/obo/HP_0011014) (Abnormal glucose homeostasis) 62.50%
+- [HP:0001644](http://purl.obolibrary.org/obo/HP_0001644) (Dilated cardiomyopathy) and [HP:0003160](http://purl.obolibrary.org/obo/HP_0003160) (Abnormal isoelectric focusing of serum transferrin) and [HP:0009121](http://purl.obolibrary.org/obo/HP_0009121) (Abnormal axial skeleton morphology) 62.50%
+- [HP:0001644](http://purl.obolibrary.org/obo/HP_0001644) (Dilated cardiomyopathy) and [HP:0003011](http://purl.obolibrary.org/obo/HP_0003011) (Abnormality of the musculature) and [HP:0003160](http://purl.obolibrary.org/obo/HP_0003160) (Abnormal isoelectric focusing of serum transferrin) 62.50%
+- [HP:0001644](http://purl.obolibrary.org/obo/HP_0001644) (Dilated cardiomyopathy) and [HP:0001943](http://purl.obolibrary.org/obo/HP_0001943) (Hypoglycemia) and [HP:0003160](http://purl.obolibrary.org/obo/HP_0003160) (Abnormal isoelectric focusing of serum transferrin) 62.50%
+- [HP:0001638](http://purl.obolibrary.org/obo/HP_0001638) (Cardiomyopathy) and [HP:0003160](http://purl.obolibrary.org/obo/HP_0003160) (Abnormal isoelectric focusing of serum transferrin) and [HP:0011015](http://purl.obolibrary.org/obo/HP_0011015) (Abnormality of blood glucose concentration) 62.50%
+- [HP:0001638](http://purl.obolibrary.org/obo/HP_0001638) (Cardiomyopathy) and [HP:0003160](http://purl.obolibrary.org/obo/HP_0003160) (Abnormal isoelectric focusing of serum transferrin) and [HP:0011014](http://purl.obolibrary.org/obo/HP_0011014) (Abnormal glucose homeostasis) 62.50%
+- [HP:0001638](http://purl.obolibrary.org/obo/HP_0001638) (Cardiomyopathy) and [HP:0001943](http://purl.obolibrary.org/obo/HP_0001943) (Hypoglycemia) and [HP:0003160](http://purl.obolibrary.org/obo/HP_0003160) (Abnormal isoelectric focusing of serum transferrin) 62.50%
+- [HP:0001637](http://purl.obolibrary.org/obo/HP_0001637) (Abnormal myocardium morphology) and [HP:0003160](http://purl.obolibrary.org/obo/HP_0003160) (Abnormal isoelectric focusing of serum transferrin) and [HP:0011015](http://purl.obolibrary.org/obo/HP_0011015) (Abnormality of blood glucose concentration) 62.50%
+- [HP:0001637](http://purl.obolibrary.org/obo/HP_0001637) (Abnormal myocardium morphology) and [HP:0003160](http://purl.obolibrary.org/obo/HP_0003160) (Abnormal isoelectric focusing of serum transferrin) and [HP:0011014](http://purl.obolibrary.org/obo/HP_0011014) (Abnormal glucose homeostasis) 62.50%
+- [HP:0001637](http://purl.obolibrary.org/obo/HP_0001637) (Abnormal myocardium morphology) and [HP:0001943](http://purl.obolibrary.org/obo/HP_0001943) (Hypoglycemia) and [HP:0003160](http://purl.obolibrary.org/obo/HP_0003160) (Abnormal isoelectric focusing of serum transferrin) 62.50%
+- [HP:0001507](http://purl.obolibrary.org/obo/HP_0001507) (Growth abnormality) and [HP:0001644](http://purl.obolibrary.org/obo/HP_0001644) (Dilated cardiomyopathy) and [HP:0003160](http://purl.obolibrary.org/obo/HP_0003160) (Abnormal isoelectric focusing of serum transferrin) 62.50%
+
+

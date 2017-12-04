@@ -1,0 +1,27 @@
+
+### [Orphanet:98357](http://www.orpha.net/ORDO/Orphanet_98357)
+**Label:** Autosomal recessive disease with focal palmoplantar keratoderma as a major feature
+
+**Subclasses:** [Orphanet:65282](http://www.orpha.net/ORDO/Orphanet_65282) (Woolly hair-palmoplantar keratoderma-dilated cardiomyopathy syndrome), [Orphanet:423454](http://www.orpha.net/ORDO/Orphanet_423454) (Nail and teeth abnormalities-marginal palmoplantar keratoderma-oral hyperpigmentation syndrome), [Orphanet:420686](http://www.orpha.net/ORDO/Orphanet_420686) (Woolly hair-palmoplantar keratoderma syndrome), [Orphanet:28378](http://www.orpha.net/ORDO/Orphanet_28378) (Tyrosinemia type 2), 
+
+**Corr. equiv. classes:** [Orphanet:423454](http://www.orpha.net/ORDO/Orphanet_423454), [Orphanet:28378](http://www.orpha.net/ORDO/Orphanet_28378), [OMIM:605676](http://purl.obolibrary.org/obo/OMIM_605676), [OMIM:616029](http://purl.obolibrary.org/obo/OMIM_616029), [OMIM:615821](http://purl.obolibrary.org/obo/OMIM_615821), [Orphanet:420686](http://www.orpha.net/ORDO/Orphanet_420686), [OMIM:276600](http://purl.obolibrary.org/obo/OMIM_276600), [Orphanet:65282](http://www.orpha.net/ORDO/Orphanet_65282), [OMIM:616099](http://purl.obolibrary.org/obo/OMIM_616099), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0001644](http://purl.obolibrary.org/obo/HP_0001644) (Dilated cardiomyopathy) and [HP:0002224](http://purl.obolibrary.org/obo/HP_0002224) (Woolly hair) 59.97%
+- [HP:0001644](http://purl.obolibrary.org/obo/HP_0001644) (Dilated cardiomyopathy) and [HP:0002224](http://purl.obolibrary.org/obo/HP_0002224) (Woolly hair) and [HP:0011368](http://purl.obolibrary.org/obo/HP_0011368) (Epidermal thickening) 59.97%
+- [HP:0001644](http://purl.obolibrary.org/obo/HP_0001644) (Dilated cardiomyopathy) and [HP:0002224](http://purl.obolibrary.org/obo/HP_0002224) (Woolly hair) and [HP:0011121](http://purl.obolibrary.org/obo/HP_0011121) (Abnormality of skin morphology) 59.97%
+- [HP:0001644](http://purl.obolibrary.org/obo/HP_0001644) (Dilated cardiomyopathy) and [HP:0002224](http://purl.obolibrary.org/obo/HP_0002224) (Woolly hair) and [HP:0011025](http://purl.obolibrary.org/obo/HP_0011025) (Abnormality of cardiovascular system physiology) 59.97%
+- [HP:0001072](http://purl.obolibrary.org/obo/HP_0001072) (Thickened skin) and [HP:0001644](http://purl.obolibrary.org/obo/HP_0001644) (Dilated cardiomyopathy) and [HP:0002224](http://purl.obolibrary.org/obo/HP_0002224) (Woolly hair) 59.97%
+- [HP:0000982](http://purl.obolibrary.org/obo/HP_0000982) (Palmoplantar keratoderma) and [HP:0001644](http://purl.obolibrary.org/obo/HP_0001644) (Dilated cardiomyopathy) and [HP:0002224](http://purl.obolibrary.org/obo/HP_0002224) (Woolly hair) 59.97%
+- [HP:0000962](http://purl.obolibrary.org/obo/HP_0000962) (Hyperkeratosis) and [HP:0001644](http://purl.obolibrary.org/obo/HP_0001644) (Dilated cardiomyopathy) and [HP:0002224](http://purl.obolibrary.org/obo/HP_0002224) (Woolly hair) 59.97%
+- [HP:0000951](http://purl.obolibrary.org/obo/HP_0000951) (Abnormality of the skin) and [HP:0001644](http://purl.obolibrary.org/obo/HP_0001644) (Dilated cardiomyopathy) and [HP:0002224](http://purl.obolibrary.org/obo/HP_0002224) (Woolly hair) 59.97%
+- [HP:0001644](http://purl.obolibrary.org/obo/HP_0001644) (Dilated cardiomyopathy) and [HP:0002224](http://purl.obolibrary.org/obo/HP_0002224) (Woolly hair) and [HP:0011025](http://purl.obolibrary.org/obo/HP_0011025) (Abnormality of cardiovascular system physiology) and [HP:0011368](http://purl.obolibrary.org/obo/HP_0011368) (Epidermal thickening) 59.97%
+- [HP:0001644](http://purl.obolibrary.org/obo/HP_0001644) (Dilated cardiomyopathy) and [HP:0002224](http://purl.obolibrary.org/obo/HP_0002224) (Woolly hair) and [HP:0011025](http://purl.obolibrary.org/obo/HP_0011025) (Abnormality of cardiovascular system physiology) and [HP:0011121](http://purl.obolibrary.org/obo/HP_0011121) (Abnormality of skin morphology) 59.97%
+- [HP:0001072](http://purl.obolibrary.org/obo/HP_0001072) (Thickened skin) and [HP:0001644](http://purl.obolibrary.org/obo/HP_0001644) (Dilated cardiomyopathy) and [HP:0002224](http://purl.obolibrary.org/obo/HP_0002224) (Woolly hair) and [HP:0011025](http://purl.obolibrary.org/obo/HP_0011025) (Abnormality of cardiovascular system physiology) 59.97%
+- [HP:0000982](http://purl.obolibrary.org/obo/HP_0000982) (Palmoplantar keratoderma) and [HP:0001644](http://purl.obolibrary.org/obo/HP_0001644) (Dilated cardiomyopathy) and [HP:0002224](http://purl.obolibrary.org/obo/HP_0002224) (Woolly hair) and [HP:0011025](http://purl.obolibrary.org/obo/HP_0011025) (Abnormality of cardiovascular system physiology) 59.97%
+- [HP:0000962](http://purl.obolibrary.org/obo/HP_0000962) (Hyperkeratosis) and [HP:0001644](http://purl.obolibrary.org/obo/HP_0001644) (Dilated cardiomyopathy) and [HP:0002224](http://purl.obolibrary.org/obo/HP_0002224) (Woolly hair) and [HP:0011025](http://purl.obolibrary.org/obo/HP_0011025) (Abnormality of cardiovascular system physiology) 59.97%
+- [HP:0000951](http://purl.obolibrary.org/obo/HP_0000951) (Abnormality of the skin) and [HP:0001644](http://purl.obolibrary.org/obo/HP_0001644) (Dilated cardiomyopathy) and [HP:0002224](http://purl.obolibrary.org/obo/HP_0002224) (Woolly hair) and [HP:0011025](http://purl.obolibrary.org/obo/HP_0011025) (Abnormality of cardiovascular system physiology) 59.97%
+- [HP:0002224](http://purl.obolibrary.org/obo/HP_0002224) (Woolly hair) and [HP:0011025](http://purl.obolibrary.org/obo/HP_0011025) (Abnormality of cardiovascular system physiology) 47.29%
+
+

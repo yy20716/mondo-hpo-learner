@@ -1,0 +1,27 @@
+
+### [Orphanet:98609](http://www.orpha.net/ORDO/Orphanet_98609)
+**Label:** EEC syndrome and related syndrome
+
+**Subclasses:** [Orphanet:978](http://www.orpha.net/ORDO/Orphanet_978) (ADULT syndrome), [Orphanet:1896](http://www.orpha.net/ORDO/Orphanet_1896) (EEC syndrome), [Orphanet:69085](http://www.orpha.net/ORDO/Orphanet_69085) (Limb-mammary syndrome), [Orphanet:2363](http://www.orpha.net/ORDO/Orphanet_2363) (Lacrimoauriculodentodigital syndrome), 
+
+**Corr. equiv. classes:** [OMIM:149730](http://purl.obolibrary.org/obo/OMIM_149730), [OMIM:603543](http://purl.obolibrary.org/obo/OMIM_603543), [OMIM:129900](http://purl.obolibrary.org/obo/OMIM_129900), [Orphanet:69085](http://www.orpha.net/ORDO/Orphanet_69085), [Orphanet:2363](http://www.orpha.net/ORDO/Orphanet_2363), [OMIM:103285](http://purl.obolibrary.org/obo/OMIM_103285), [Orphanet:978](http://www.orpha.net/ORDO/Orphanet_978), [OMIM:604292](http://purl.obolibrary.org/obo/OMIM_604292), [Orphanet:1896](http://www.orpha.net/ORDO/Orphanet_1896), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0001803](http://purl.obolibrary.org/obo/HP_0001803) (Nail pits) and [HP:0100257](http://purl.obolibrary.org/obo/HP_0100257) (Ectrodactyly) 72.22%
+- [HP:0001803](http://purl.obolibrary.org/obo/HP_0001803) (Nail pits) and [HP:0040068](http://purl.obolibrary.org/obo/HP_0040068) (Abnormality of limb bone) 72.22%
+- [HP:0001803](http://purl.obolibrary.org/obo/HP_0001803) (Nail pits) and [HP:0040064](http://purl.obolibrary.org/obo/HP_0040064) (Abnormality of limbs) 72.22%
+- [HP:0001803](http://purl.obolibrary.org/obo/HP_0001803) (Nail pits) and [HP:0011844](http://purl.obolibrary.org/obo/HP_0011844) (Abnormal appendicular skeleton morphology) 72.22%
+- [HP:0001803](http://purl.obolibrary.org/obo/HP_0001803) (Nail pits) and [HP:0011297](http://purl.obolibrary.org/obo/HP_0011297) (Abnormality of digit) 72.22%
+- [HP:0001803](http://purl.obolibrary.org/obo/HP_0001803) (Nail pits) and [HP:0002814](http://purl.obolibrary.org/obo/HP_0002814) (Abnormality of the lower limb) 72.22%
+- [HP:0001803](http://purl.obolibrary.org/obo/HP_0001803) (Nail pits) and [HP:0002813](http://purl.obolibrary.org/obo/HP_0002813) (Abnormality of limb bone morphology) 72.22%
+- [HP:0001803](http://purl.obolibrary.org/obo/HP_0001803) (Nail pits) and [HP:0001839](http://purl.obolibrary.org/obo/HP_0001839) (Split foot) 72.22%
+- [HP:0001780](http://purl.obolibrary.org/obo/HP_0001780) (Abnormality of toe) and [HP:0001803](http://purl.obolibrary.org/obo/HP_0001803) (Nail pits) 72.22%
+- [HP:0001770](http://purl.obolibrary.org/obo/HP_0001770) (Toe syndactyly) and [HP:0001803](http://purl.obolibrary.org/obo/HP_0001803) (Nail pits) 72.22%
+- [HP:0001760](http://purl.obolibrary.org/obo/HP_0001760) (Abnormality of the foot) and [HP:0001803](http://purl.obolibrary.org/obo/HP_0001803) (Nail pits) 72.22%
+- [HP:0001159](http://purl.obolibrary.org/obo/HP_0001159) (Syndactyly) and [HP:0001803](http://purl.obolibrary.org/obo/HP_0001803) (Nail pits) 72.22%
+- [HP:0001803](http://purl.obolibrary.org/obo/HP_0001803) (Nail pits) and [HP:0031093](http://purl.obolibrary.org/obo/HP_0031093) (Abnormal breast morphology) and [HP:0100257](http://purl.obolibrary.org/obo/HP_0100257) (Ectrodactyly) 72.22%
+- [HP:0001803](http://purl.obolibrary.org/obo/HP_0001803) (Nail pits) and [HP:0031093](http://purl.obolibrary.org/obo/HP_0031093) (Abnormal breast morphology) and [HP:0040068](http://purl.obolibrary.org/obo/HP_0040068) (Abnormality of limb bone) 72.22%
+- [HP:0001803](http://purl.obolibrary.org/obo/HP_0001803) (Nail pits) and [HP:0031093](http://purl.obolibrary.org/obo/HP_0031093) (Abnormal breast morphology) and [HP:0040064](http://purl.obolibrary.org/obo/HP_0040064) (Abnormality of limbs) 72.22%
+
+

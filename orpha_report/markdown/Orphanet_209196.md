@@ -1,0 +1,27 @@
+
+### [Orphanet:209196](http://www.orpha.net/ORDO/Orphanet_209196)
+**Label:** Qualitative or quantitative defects of plectin
+
+**Subclasses:** [Orphanet:254361](http://www.orpha.net/ORDO/Orphanet_254361) (Autosomal recessive limb-girdle muscular dystrophy type 2Q), [Orphanet:257](http://www.orpha.net/ORDO/Orphanet_257) (Epidermolysis bullosa simplex with muscular dystrophy), 
+
+**Corr. equiv. classes:** [Orphanet:254361](http://www.orpha.net/ORDO/Orphanet_254361), [OMIM:613723](http://purl.obolibrary.org/obo/OMIM_613723), [Orphanet:257](http://www.orpha.net/ORDO/Orphanet_257), [OMIM:226670](http://purl.obolibrary.org/obo/OMIM_226670), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0011859](http://purl.obolibrary.org/obo/HP_0011859) (Punctate keratitis) and [HP:3000050](http://purl.obolibrary.org/obo/HP_3000050) (Abnormality of odontoid tissue) 62.50%
+- [HP:0011859](http://purl.obolibrary.org/obo/HP_0011859) (Punctate keratitis) and [HP:0100872](http://purl.obolibrary.org/obo/HP_0100872) (Abnormality of the plantar skin of foot) 62.50%
+- [HP:0011859](http://purl.obolibrary.org/obo/HP_0011859) (Punctate keratitis) and [HP:0100871](http://purl.obolibrary.org/obo/HP_0100871) (Abnormality of the palm) 62.50%
+- [HP:0011859](http://purl.obolibrary.org/obo/HP_0011859) (Punctate keratitis) and [HP:0040211](http://purl.obolibrary.org/obo/HP_0040211) (Abnormality of the skin of the palm) 62.50%
+- [HP:0011859](http://purl.obolibrary.org/obo/HP_0011859) (Punctate keratitis) and [HP:0012243](http://purl.obolibrary.org/obo/HP_0012243) (Abnormal reproductive system morphology) 62.50%
+- [HP:0011859](http://purl.obolibrary.org/obo/HP_0011859) (Punctate keratitis) and [HP:0012227](http://purl.obolibrary.org/obo/HP_0012227) (Urethral stricture) 62.50%
+- [HP:0011805](http://purl.obolibrary.org/obo/HP_0011805) (Abnormality of muscle morphology) and [HP:0011859](http://purl.obolibrary.org/obo/HP_0011859) (Punctate keratitis) 62.50%
+- [HP:0011356](http://purl.obolibrary.org/obo/HP_0011356) (Regional abnormality of skin) and [HP:0011859](http://purl.obolibrary.org/obo/HP_0011859) (Punctate keratitis) 62.50%
+- [HP:0011061](http://purl.obolibrary.org/obo/HP_0011061) (Abnormality of dental structure) and [HP:0011859](http://purl.obolibrary.org/obo/HP_0011859) (Punctate keratitis) 62.50%
+- [HP:0010936](http://purl.obolibrary.org/obo/HP_0010936) (Abnormality of the lower urinary tract) and [HP:0011859](http://purl.obolibrary.org/obo/HP_0011859) (Punctate keratitis) 62.50%
+- [HP:0010765](http://purl.obolibrary.org/obo/HP_0010765) (Palmar hyperkeratosis) and [HP:0011859](http://purl.obolibrary.org/obo/HP_0011859) (Punctate keratitis) 62.50%
+- [HP:0010461](http://purl.obolibrary.org/obo/HP_0010461) (Abnormality of the male genitalia) and [HP:0011859](http://purl.obolibrary.org/obo/HP_0011859) (Punctate keratitis) 62.50%
+- [HP:0009025](http://purl.obolibrary.org/obo/HP_0009025) (Increased connective tissue) and [HP:0011859](http://purl.obolibrary.org/obo/HP_0011859) (Punctate keratitis) 62.50%
+- [HP:0008661](http://purl.obolibrary.org/obo/HP_0008661) (Urethral stenosis) and [HP:0011859](http://purl.obolibrary.org/obo/HP_0011859) (Punctate keratitis) 62.50%
+- [HP:0008404](http://purl.obolibrary.org/obo/HP_0008404) (Nail dystrophy) and [HP:0011859](http://purl.obolibrary.org/obo/HP_0011859) (Punctate keratitis) 62.50%
+
+

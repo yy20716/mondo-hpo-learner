@@ -1,0 +1,27 @@
+
+### [Orphanet:228215](http://www.orpha.net/ORDO/Orphanet_228215)
+**Label:** Genetic dermis elastic tissue disorder
+
+**Subclasses:** [Orphanet:53296](http://www.orpha.net/ORDO/Orphanet_53296) (Familial cutaneous collagenoma), [Orphanet:1659](http://www.orpha.net/ORDO/Orphanet_1659) (Dermatoleukodystrophy), [Orphanet:3071](http://www.orpha.net/ORDO/Orphanet_3071) (Costello syndrome), [Orphanet:1306](http://www.orpha.net/ORDO/Orphanet_1306) (Buschke-Ollendorff syndrome), [Orphanet:79147](http://www.orpha.net/ORDO/Orphanet_79147) (Familial reactive perforating collagenosis), [Orphanet:758](http://www.orpha.net/ORDO/Orphanet_758) (Pseudoxanthoma elasticum), [Orphanet:91135](http://www.orpha.net/ORDO/Orphanet_91135) (Body skin hyperlaxity due to vitamin K-dependent coagulation factor deficiency), 
+
+**Corr. equiv. classes:** [Orphanet:3071](http://www.orpha.net/ORDO/Orphanet_3071), [OMIM:115250](http://purl.obolibrary.org/obo/OMIM_115250), [OMIM:177850](http://purl.obolibrary.org/obo/OMIM_177850), [OMIM:221790](http://purl.obolibrary.org/obo/OMIM_221790), [OMIM:264800](http://purl.obolibrary.org/obo/OMIM_264800), [OMIM:216700](http://purl.obolibrary.org/obo/OMIM_216700), [OMIM:610842](http://purl.obolibrary.org/obo/OMIM_610842), [Orphanet:1659](http://www.orpha.net/ORDO/Orphanet_1659), [Orphanet:758](http://www.orpha.net/ORDO/Orphanet_758), [OMIM:218040](http://purl.obolibrary.org/obo/OMIM_218040), [Orphanet:1306](http://www.orpha.net/ORDO/Orphanet_1306), [Orphanet:53296](http://www.orpha.net/ORDO/Orphanet_53296), [Orphanet:91135](http://www.orpha.net/ORDO/Orphanet_91135), [Orphanet:79147](http://www.orpha.net/ORDO/Orphanet_79147), [OMIM:166700](http://purl.obolibrary.org/obo/OMIM_166700), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0001102](http://purl.obolibrary.org/obo/HP_0001102) (Angioid streaks of the retina) and [HP:0011004](http://purl.obolibrary.org/obo/HP_0011004) (Abnormal systemic arterial morphology) 63.33%
+- [HP:0001102](http://purl.obolibrary.org/obo/HP_0001102) (Angioid streaks of the retina) and [HP:0002634](http://purl.obolibrary.org/obo/HP_0002634) (Arteriosclerosis) 63.33%
+- [HP:0001102](http://purl.obolibrary.org/obo/HP_0001102) (Angioid streaks of the retina) and [HP:0002621](http://purl.obolibrary.org/obo/HP_0002621) (Atherosclerosis) 63.33%
+- [HP:0001102](http://purl.obolibrary.org/obo/HP_0001102) (Angioid streaks of the retina) and [HP:0001892](http://purl.obolibrary.org/obo/HP_0001892) (Abnormal bleeding) 63.33%
+- [HP:0001102](http://purl.obolibrary.org/obo/HP_0001102) (Angioid streaks of the retina) and [HP:0001871](http://purl.obolibrary.org/obo/HP_0001871) (Abnormality of blood and blood-forming tissues) 63.33%
+- [HP:0001102](http://purl.obolibrary.org/obo/HP_0001102) (Angioid streaks of the retina) and [HP:0001892](http://purl.obolibrary.org/obo/HP_0001892) (Abnormal bleeding) and [HP:0030680](http://purl.obolibrary.org/obo/HP_0030680) (Abnormality of cardiovascular system morphology) 63.33%
+- [HP:0001102](http://purl.obolibrary.org/obo/HP_0001102) (Angioid streaks of the retina) and [HP:0001892](http://purl.obolibrary.org/obo/HP_0001892) (Abnormal bleeding) and [HP:0025015](http://purl.obolibrary.org/obo/HP_0025015) (Abnormal vascular morphology) 63.33%
+- [HP:0001102](http://purl.obolibrary.org/obo/HP_0001102) (Angioid streaks of the retina) and [HP:0001892](http://purl.obolibrary.org/obo/HP_0001892) (Abnormal bleeding) and [HP:0011004](http://purl.obolibrary.org/obo/HP_0011004) (Abnormal systemic arterial morphology) 63.33%
+- [HP:0001102](http://purl.obolibrary.org/obo/HP_0001102) (Angioid streaks of the retina) and [HP:0001892](http://purl.obolibrary.org/obo/HP_0001892) (Abnormal bleeding) and [HP:0002634](http://purl.obolibrary.org/obo/HP_0002634) (Arteriosclerosis) 63.33%
+- [HP:0001102](http://purl.obolibrary.org/obo/HP_0001102) (Angioid streaks of the retina) and [HP:0001892](http://purl.obolibrary.org/obo/HP_0001892) (Abnormal bleeding) and [HP:0002621](http://purl.obolibrary.org/obo/HP_0002621) (Atherosclerosis) 63.33%
+- [HP:0001102](http://purl.obolibrary.org/obo/HP_0001102) (Angioid streaks of the retina) and [HP:0001892](http://purl.obolibrary.org/obo/HP_0001892) (Abnormal bleeding) and [HP:0002597](http://purl.obolibrary.org/obo/HP_0002597) (Abnormality of the vasculature) 63.33%
+- [HP:0001102](http://purl.obolibrary.org/obo/HP_0001102) (Angioid streaks of the retina) and [HP:0001871](http://purl.obolibrary.org/obo/HP_0001871) (Abnormality of blood and blood-forming tissues) and [HP:0030680](http://purl.obolibrary.org/obo/HP_0030680) (Abnormality of cardiovascular system morphology) 63.33%
+- [HP:0001102](http://purl.obolibrary.org/obo/HP_0001102) (Angioid streaks of the retina) and [HP:0001871](http://purl.obolibrary.org/obo/HP_0001871) (Abnormality of blood and blood-forming tissues) and [HP:0025015](http://purl.obolibrary.org/obo/HP_0025015) (Abnormal vascular morphology) 63.33%
+- [HP:0001102](http://purl.obolibrary.org/obo/HP_0001102) (Angioid streaks of the retina) and [HP:0001871](http://purl.obolibrary.org/obo/HP_0001871) (Abnormality of blood and blood-forming tissues) and [HP:0011004](http://purl.obolibrary.org/obo/HP_0011004) (Abnormal systemic arterial morphology) 63.33%
+- [HP:0001102](http://purl.obolibrary.org/obo/HP_0001102) (Angioid streaks of the retina) and [HP:0001871](http://purl.obolibrary.org/obo/HP_0001871) (Abnormality of blood and blood-forming tissues) and [HP:0002634](http://purl.obolibrary.org/obo/HP_0002634) (Arteriosclerosis) 63.33%
+
+

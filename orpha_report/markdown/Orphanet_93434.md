@@ -1,0 +1,27 @@
+
+### [Orphanet:93434](http://www.orpha.net/ORDO/Orphanet_93434)
+**Label:** Spondylodysplastic dysplasia
+
+**Subclasses:** [Orphanet:2746](http://www.orpha.net/ORDO/Orphanet_2746) (Opsismodysplasia), [Orphanet:85166](http://www.orpha.net/ORDO/Orphanet_85166) (Platyspondylic dysplasia, Torrance type), [Orphanet:1436](http://www.orpha.net/ORDO/Orphanet_1436) (Skeletal dysplasia-intellectual disability syndrome), [Orphanet:3180](http://www.orpha.net/ORDO/Orphanet_3180) (Spondylocamptodactyly syndrome), [Orphanet:93317](http://www.orpha.net/ORDO/Orphanet_93317) (Spondylometaphyseal dysplasia, Sedaghatian type), [Orphanet:932](http://www.orpha.net/ORDO/Orphanet_932) (Achondrogenesis), [Orphanet:66637](http://www.orpha.net/ORDO/Orphanet_66637) (Diaphanospondylodysostosis), [Orphanet:3275](http://www.orpha.net/ORDO/Orphanet_3275) (Spondylocarpotarsal synostosis), [Orphanet:401979](http://www.orpha.net/ORDO/Orphanet_401979) (Autosomal recessive spondylometaphyseal dysplasia, Mégarbané type), [Orphanet:3144](http://www.orpha.net/ORDO/Orphanet_3144) (Schneckenbecken dysplasia), 
+
+**Corr. equiv. classes:** [OMIM:600000](http://purl.obolibrary.org/obo/OMIM_600000), [Orphanet:3180](http://www.orpha.net/ORDO/Orphanet_3180), [OMIM:200600](http://purl.obolibrary.org/obo/OMIM_200600), [OMIM:600972](http://purl.obolibrary.org/obo/OMIM_600972), [OMIM:200610](http://purl.obolibrary.org/obo/OMIM_200610), [OMIM:258480](http://purl.obolibrary.org/obo/OMIM_258480), [OMIM:269250](http://purl.obolibrary.org/obo/OMIM_269250), [OMIM:309620](http://purl.obolibrary.org/obo/OMIM_309620), [Orphanet:401979](http://www.orpha.net/ORDO/Orphanet_401979), [Orphanet:85166](http://www.orpha.net/ORDO/Orphanet_85166), [OMIM:151210](http://purl.obolibrary.org/obo/OMIM_151210), [OMIM:613320](http://purl.obolibrary.org/obo/OMIM_613320), [Orphanet:93317](http://www.orpha.net/ORDO/Orphanet_93317), [Orphanet:2746](http://www.orpha.net/ORDO/Orphanet_2746), [Orphanet:66637](http://www.orpha.net/ORDO/Orphanet_66637), [Orphanet:932](http://www.orpha.net/ORDO/Orphanet_932), [Orphanet:3275](http://www.orpha.net/ORDO/Orphanet_3275), [Orphanet:3144](http://www.orpha.net/ORDO/Orphanet_3144), [OMIM:272460](http://purl.obolibrary.org/obo/OMIM_272460), [OMIM:608022](http://purl.obolibrary.org/obo/OMIM_608022), [Orphanet:1436](http://www.orpha.net/ORDO/Orphanet_1436), [OMIM:250220](http://purl.obolibrary.org/obo/OMIM_250220), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0000924](http://purl.obolibrary.org/obo/HP_0000924) (Abnormality of the skeletal system) 49.06%
+- [HP:0000773](http://purl.obolibrary.org/obo/HP_0000773) (Short ribs) and [HP:0003336](http://purl.obolibrary.org/obo/HP_0003336) (Abnormal enchondral ossification) and [HP:0003498](http://purl.obolibrary.org/obo/HP_0003498) (Disproportionate short stature) 48.99%
+- [HP:0000773](http://purl.obolibrary.org/obo/HP_0000773) (Short ribs) and [HP:0003336](http://purl.obolibrary.org/obo/HP_0003336) (Abnormal enchondral ossification) and [HP:0003468](http://purl.obolibrary.org/obo/HP_0003468) (Abnormal vertebral morphology) 48.99%
+- [HP:0000773](http://purl.obolibrary.org/obo/HP_0000773) (Short ribs) and [HP:0003272](http://purl.obolibrary.org/obo/HP_0003272) (Abnormality of the hip bone) and [HP:0003336](http://purl.obolibrary.org/obo/HP_0003336) (Abnormal enchondral ossification) 48.99%
+- [HP:0000118](http://purl.obolibrary.org/obo/HP_0000118) (Phenotypic abnormality) 48.05%
+- Thing 48.04%
+- [HP:0000001](http://purl.obolibrary.org/obo/HP_0000001) (All) 48.04%
+- [HP:0040064](http://purl.obolibrary.org/obo/HP_0040064) (Abnormality of limbs) 47.49%
+- [HP:0002644](http://purl.obolibrary.org/obo/HP_0002644) (Abnormality of pelvic girdle bone morphology) and [HP:0009122](http://purl.obolibrary.org/obo/HP_0009122) (Aplasia/hypoplasia affecting bones of the axial skeleton) and [HP:0100569](http://purl.obolibrary.org/obo/HP_0100569) (Abnormal vertebral ossification) 46.37%
+- [HP:0000773](http://purl.obolibrary.org/obo/HP_0000773) (Short ribs) and [HP:0000925](http://purl.obolibrary.org/obo/HP_0000925) (Abnormality of the vertebral column) and [HP:0003336](http://purl.obolibrary.org/obo/HP_0003336) (Abnormal enchondral ossification) 46.37%
+- [HP:0002644](http://purl.obolibrary.org/obo/HP_0002644) (Abnormality of pelvic girdle bone morphology) and [HP:0100569](http://purl.obolibrary.org/obo/HP_0100569) (Abnormal vertebral ossification) 45.26%
+- [HP:0002644](http://purl.obolibrary.org/obo/HP_0002644) (Abnormality of pelvic girdle bone morphology) and [HP:0009115](http://purl.obolibrary.org/obo/HP_0009115) (Aplasia/hypoplasia involving the skeleton) and [HP:0100569](http://purl.obolibrary.org/obo/HP_0100569) (Abnormal vertebral ossification) 45.26%
+- [HP:0000765](http://purl.obolibrary.org/obo/HP_0000765) (Abnormality of the thorax) and [HP:0002644](http://purl.obolibrary.org/obo/HP_0002644) (Abnormality of pelvic girdle bone morphology) and [HP:0100569](http://purl.obolibrary.org/obo/HP_0100569) (Abnormal vertebral ossification) 45.26%
+- [HP:0000152](http://purl.obolibrary.org/obo/HP_0000152) (Abnormality of head or neck) and [HP:0002644](http://purl.obolibrary.org/obo/HP_0002644) (Abnormality of pelvic girdle bone morphology) and [HP:0100569](http://purl.obolibrary.org/obo/HP_0100569) (Abnormal vertebral ossification) 45.26%
+- [HP:0009122](http://purl.obolibrary.org/obo/HP_0009122) (Aplasia/hypoplasia affecting bones of the axial skeleton) and [HP:0100569](http://purl.obolibrary.org/obo/HP_0100569) (Abnormal vertebral ossification) 43.34%
+
+

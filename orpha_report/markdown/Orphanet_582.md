@@ -1,0 +1,27 @@
+
+### [Orphanet:582](http://www.orpha.net/ORDO/Orphanet_582)
+**Label:** Mucopolysaccharidosis type 4
+
+**Subclasses:** [Orphanet:309297](http://www.orpha.net/ORDO/Orphanet_309297) (Mucopolysaccharidosis type 4A), [Orphanet:309310](http://www.orpha.net/ORDO/Orphanet_309310) (Mucopolysaccharidosis type 4B), 
+
+**Corr. equiv. classes:** [OMIM:253010](http://purl.obolibrary.org/obo/OMIM_253010), [Orphanet:309297](http://www.orpha.net/ORDO/Orphanet_309297), [Orphanet:309310](http://www.orpha.net/ORDO/Orphanet_309310), [OMIM:253000](http://purl.obolibrary.org/obo/OMIM_253000), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0000683](http://purl.obolibrary.org/obo/HP_0000683) (Grayish enamel) and [HP:0040070](http://purl.obolibrary.org/obo/HP_0040070) (Abnormality of upper limb bone) 75.00%
+- [HP:0000683](http://purl.obolibrary.org/obo/HP_0000683) (Grayish enamel) and [HP:0040065](http://purl.obolibrary.org/obo/HP_0040065) (Abnormal morphology of bones of the upper limbs) 75.00%
+- [HP:0000683](http://purl.obolibrary.org/obo/HP_0000683) (Grayish enamel) and [HP:0030791](http://purl.obolibrary.org/obo/HP_0030791) (Abnormal jaw morphology) 75.00%
+- [HP:0000683](http://purl.obolibrary.org/obo/HP_0000683) (Grayish enamel) and [HP:0025031](http://purl.obolibrary.org/obo/HP_0025031) (Abnormality of the digestive system) 75.00%
+- [HP:0000683](http://purl.obolibrary.org/obo/HP_0000683) (Grayish enamel) and [HP:0012823](http://purl.obolibrary.org/obo/HP_0012823) (Clinical modifier) 75.00%
+- [HP:0000683](http://purl.obolibrary.org/obo/HP_0000683) (Grayish enamel) and [HP:0012639](http://purl.obolibrary.org/obo/HP_0012639) (Abnormality of nervous system morphology) 75.00%
+- [HP:0000683](http://purl.obolibrary.org/obo/HP_0000683) (Grayish enamel) and [HP:0012252](http://purl.obolibrary.org/obo/HP_0012252) (Abnormal respiratory system morphology) 75.00%
+- [HP:0000683](http://purl.obolibrary.org/obo/HP_0000683) (Grayish enamel) and [HP:0012069](http://purl.obolibrary.org/obo/HP_0012069) (Keratan sulfate excretion in urine) 75.00%
+- [HP:0000683](http://purl.obolibrary.org/obo/HP_0000683) (Grayish enamel) and [HP:0011947](http://purl.obolibrary.org/obo/HP_0011947) (Respiratory tract infection) 75.00%
+- [HP:0000683](http://purl.obolibrary.org/obo/HP_0000683) (Grayish enamel) and [HP:0011867](http://purl.obolibrary.org/obo/HP_0011867) (Abnormality of the wing of the ilium) 75.00%
+- [HP:0000683](http://purl.obolibrary.org/obo/HP_0000683) (Grayish enamel) and [HP:0011821](http://purl.obolibrary.org/obo/HP_0011821) (Abnormality of facial skeleton) 75.00%
+- [HP:0000683](http://purl.obolibrary.org/obo/HP_0000683) (Grayish enamel) and [HP:0011492](http://purl.obolibrary.org/obo/HP_0011492) (Abnormality of corneal stroma) 75.00%
+- [HP:0000683](http://purl.obolibrary.org/obo/HP_0000683) (Grayish enamel) and [HP:0010978](http://purl.obolibrary.org/obo/HP_0010978) (Abnormality of immune system physiology) 75.00%
+- [HP:0000683](http://purl.obolibrary.org/obo/HP_0000683) (Grayish enamel) and [HP:0010866](http://purl.obolibrary.org/obo/HP_0010866) (Abdominal wall defect) 75.00%
+- [HP:0000683](http://purl.obolibrary.org/obo/HP_0000683) (Grayish enamel) and [HP:0009810](http://purl.obolibrary.org/obo/HP_0009810) (Abnormality of upper limb joint) 75.00%
+
+

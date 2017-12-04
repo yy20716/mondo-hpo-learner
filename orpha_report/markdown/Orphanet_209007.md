@@ -1,0 +1,27 @@
+
+### [Orphanet:209007](http://www.orpha.net/ORDO/Orphanet_209007)
+**Label:** Systemic inflammatory disease associated with an acquired peripheral neuropathy
+
+**Subclasses:** [Orphanet:91138](http://www.orpha.net/ORDO/Orphanet_91138) (Cryoglobulinemic vasculitis), [Orphanet:900](http://www.orpha.net/ORDO/Orphanet_900) (Granulomatosis with polyangiitis), [Orphanet:90290](http://www.orpha.net/ORDO/Orphanet_90290) (CREST syndrome), [Orphanet:797](http://www.orpha.net/ORDO/Orphanet_797) (Sarcoidosis), 
+
+**Corr. equiv. classes:** [OMIM:123550](http://purl.obolibrary.org/obo/OMIM_123550), [OMIM:612387](http://purl.obolibrary.org/obo/OMIM_612387), [Orphanet:91138](http://www.orpha.net/ORDO/Orphanet_91138), [OMIM:612388](http://purl.obolibrary.org/obo/OMIM_612388), [OMIM:181000](http://purl.obolibrary.org/obo/OMIM_181000), [Orphanet:90290](http://www.orpha.net/ORDO/Orphanet_90290), [OMIM:608710](http://purl.obolibrary.org/obo/OMIM_608710), [Orphanet:900](http://www.orpha.net/ORDO/Orphanet_900), [OMIM:181750](http://purl.obolibrary.org/obo/OMIM_181750), [Orphanet:797](http://www.orpha.net/ORDO/Orphanet_797), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0000163](http://purl.obolibrary.org/obo/HP_0000163) (Abnormality of the oral cavity) and [HP:0002206](http://purl.obolibrary.org/obo/HP_0002206) (Pulmonary fibrosis) and [HP:0011032](http://purl.obolibrary.org/obo/HP_0011032) (Abnormality of fluid regulation) and [HP:0011355](http://purl.obolibrary.org/obo/HP_0011355) (Localized skin lesion) 58.30%
+- [HP:0000163](http://purl.obolibrary.org/obo/HP_0000163) (Abnormality of the oral cavity) and [HP:0000969](http://purl.obolibrary.org/obo/HP_0000969) (Edema) and [HP:0002206](http://purl.obolibrary.org/obo/HP_0002206) (Pulmonary fibrosis) and [HP:0011355](http://purl.obolibrary.org/obo/HP_0011355) (Localized skin lesion) 58.30%
+- [HP:0000153](http://purl.obolibrary.org/obo/HP_0000153) (Abnormality of the mouth) and [HP:0002206](http://purl.obolibrary.org/obo/HP_0002206) (Pulmonary fibrosis) and [HP:0011032](http://purl.obolibrary.org/obo/HP_0011032) (Abnormality of fluid regulation) and [HP:0011355](http://purl.obolibrary.org/obo/HP_0011355) (Localized skin lesion) 58.30%
+- [HP:0000153](http://purl.obolibrary.org/obo/HP_0000153) (Abnormality of the mouth) and [HP:0000969](http://purl.obolibrary.org/obo/HP_0000969) (Edema) and [HP:0002206](http://purl.obolibrary.org/obo/HP_0002206) (Pulmonary fibrosis) and [HP:0011355](http://purl.obolibrary.org/obo/HP_0011355) (Localized skin lesion) 58.30%
+- [HP:0002206](http://purl.obolibrary.org/obo/HP_0002206) (Pulmonary fibrosis) and [HP:0011032](http://purl.obolibrary.org/obo/HP_0011032) (Abnormality of fluid regulation) and [HP:0025032](http://purl.obolibrary.org/obo/HP_0025032) (Abnormality of digestive system physiology) 53.73%
+- [HP:0002206](http://purl.obolibrary.org/obo/HP_0002206) (Pulmonary fibrosis) and [HP:0011032](http://purl.obolibrary.org/obo/HP_0011032) (Abnormality of fluid regulation) and [HP:0011355](http://purl.obolibrary.org/obo/HP_0011355) (Localized skin lesion) 53.73%
+- [HP:0002206](http://purl.obolibrary.org/obo/HP_0002206) (Pulmonary fibrosis) and [HP:0011025](http://purl.obolibrary.org/obo/HP_0011025) (Abnormality of cardiovascular system physiology) and [HP:0011032](http://purl.obolibrary.org/obo/HP_0011032) (Abnormality of fluid regulation) 53.73%
+- [HP:0002206](http://purl.obolibrary.org/obo/HP_0002206) (Pulmonary fibrosis) and [HP:0011024](http://purl.obolibrary.org/obo/HP_0011024) (Abnormality of the gastrointestinal tract) and [HP:0011032](http://purl.obolibrary.org/obo/HP_0011032) (Abnormality of fluid regulation) 53.73%
+- [HP:0000969](http://purl.obolibrary.org/obo/HP_0000969) (Edema) and [HP:0002206](http://purl.obolibrary.org/obo/HP_0002206) (Pulmonary fibrosis) and [HP:0025032](http://purl.obolibrary.org/obo/HP_0025032) (Abnormality of digestive system physiology) 53.73%
+- [HP:0000969](http://purl.obolibrary.org/obo/HP_0000969) (Edema) and [HP:0002206](http://purl.obolibrary.org/obo/HP_0002206) (Pulmonary fibrosis) and [HP:0011355](http://purl.obolibrary.org/obo/HP_0011355) (Localized skin lesion) 53.73%
+- [HP:0000969](http://purl.obolibrary.org/obo/HP_0000969) (Edema) and [HP:0002206](http://purl.obolibrary.org/obo/HP_0002206) (Pulmonary fibrosis) and [HP:0011025](http://purl.obolibrary.org/obo/HP_0011025) (Abnormality of cardiovascular system physiology) 53.73%
+- [HP:0000969](http://purl.obolibrary.org/obo/HP_0000969) (Edema) and [HP:0002206](http://purl.obolibrary.org/obo/HP_0002206) (Pulmonary fibrosis) and [HP:0011024](http://purl.obolibrary.org/obo/HP_0011024) (Abnormality of the gastrointestinal tract) 53.73%
+- [HP:0000271](http://purl.obolibrary.org/obo/HP_0000271) (Abnormality of the face) and [HP:0002206](http://purl.obolibrary.org/obo/HP_0002206) (Pulmonary fibrosis) and [HP:0011032](http://purl.obolibrary.org/obo/HP_0011032) (Abnormality of fluid regulation) 53.73%
+- [HP:0000271](http://purl.obolibrary.org/obo/HP_0000271) (Abnormality of the face) and [HP:0000969](http://purl.obolibrary.org/obo/HP_0000969) (Edema) and [HP:0002206](http://purl.obolibrary.org/obo/HP_0002206) (Pulmonary fibrosis) 53.73%
+- [HP:0000163](http://purl.obolibrary.org/obo/HP_0000163) (Abnormality of the oral cavity) and [HP:0002206](http://purl.obolibrary.org/obo/HP_0002206) (Pulmonary fibrosis) and [HP:0011032](http://purl.obolibrary.org/obo/HP_0011032) (Abnormality of fluid regulation) 53.73%
+
+

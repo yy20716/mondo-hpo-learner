@@ -1,0 +1,27 @@
+
+### [Orphanet:209185](http://www.orpha.net/ORDO/Orphanet_209185)
+**Label:** Qualitative or quantitative defects of beta-myosin heavy chain (MYH7)
+
+**Subclasses:** [Orphanet:59135](http://www.orpha.net/ORDO/Orphanet_59135) (Laing early-onset distal myopathy), [Orphanet:53698](http://www.orpha.net/ORDO/Orphanet_53698) (Hyaline body myopathy), [Orphanet:437572](http://www.orpha.net/ORDO/Orphanet_437572) (MYH7-related late-onset scapuloperoneal muscular dystrophy), 
+
+**Corr. equiv. classes:** [Orphanet:53698](http://www.orpha.net/ORDO/Orphanet_53698), [OMIM:181430](http://purl.obolibrary.org/obo/OMIM_181430), [OMIM:255160](http://purl.obolibrary.org/obo/OMIM_255160), [OMIM:608358](http://purl.obolibrary.org/obo/OMIM_608358), [OMIM:160500](http://purl.obolibrary.org/obo/OMIM_160500), [Orphanet:437572](http://www.orpha.net/ORDO/Orphanet_437572), [Orphanet:59135](http://www.orpha.net/ORDO/Orphanet_59135), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0003697](http://purl.obolibrary.org/obo/HP_0003697) (Scapuloperoneal amyotrophy) and [HP:0040081](http://purl.obolibrary.org/obo/HP_0040081) (Abnormal levels of creatine kinase in blood) 64.29%
+- [HP:0003697](http://purl.obolibrary.org/obo/HP_0003697) (Scapuloperoneal amyotrophy) and [HP:0011021](http://purl.obolibrary.org/obo/HP_0011021) (Abnormality of circulating enzyme level) 64.29%
+- [HP:0003697](http://purl.obolibrary.org/obo/HP_0003697) (Scapuloperoneal amyotrophy) and [HP:0010876](http://purl.obolibrary.org/obo/HP_0010876) (Abnormality of circulating protein level) 64.29%
+- [HP:0003697](http://purl.obolibrary.org/obo/HP_0003697) (Scapuloperoneal amyotrophy) and [HP:0003803](http://purl.obolibrary.org/obo/HP_0003803) (Type 1 muscle fiber predominance) 64.29%
+- [HP:0003697](http://purl.obolibrary.org/obo/HP_0003697) (Scapuloperoneal amyotrophy) and [HP:0003704](http://purl.obolibrary.org/obo/HP_0003704) (Scapuloperoneal weakness) 64.29%
+- [HP:0003687](http://purl.obolibrary.org/obo/HP_0003687) (Centrally nucleated skeletal muscle fibers) and [HP:0003697](http://purl.obolibrary.org/obo/HP_0003697) (Scapuloperoneal amyotrophy) 64.29%
+- [HP:0003679](http://purl.obolibrary.org/obo/HP_0003679) (Pace of progression) and [HP:0003697](http://purl.obolibrary.org/obo/HP_0003697) (Scapuloperoneal amyotrophy) 64.29%
+- [HP:0003677](http://purl.obolibrary.org/obo/HP_0003677) (Slow progression) and [HP:0003697](http://purl.obolibrary.org/obo/HP_0003697) (Scapuloperoneal amyotrophy) 64.29%
+- [HP:0003458](http://purl.obolibrary.org/obo/HP_0003458) (EMG: myopathic abnormalities) and [HP:0003697](http://purl.obolibrary.org/obo/HP_0003697) (Scapuloperoneal amyotrophy) 64.29%
+- [HP:0003236](http://purl.obolibrary.org/obo/HP_0003236) (Elevated serum creatine phosphokinase) and [HP:0003697](http://purl.obolibrary.org/obo/HP_0003697) (Scapuloperoneal amyotrophy) 64.29%
+- [HP:0003198](http://purl.obolibrary.org/obo/HP_0003198) (Myopathy) and [HP:0003697](http://purl.obolibrary.org/obo/HP_0003697) (Scapuloperoneal amyotrophy) 64.29%
+- [HP:0002795](http://purl.obolibrary.org/obo/HP_0002795) (Functional respiratory abnormality) and [HP:0003697](http://purl.obolibrary.org/obo/HP_0003697) (Scapuloperoneal amyotrophy) 64.29%
+- [HP:0002086](http://purl.obolibrary.org/obo/HP_0002086) (Abnormality of the respiratory system) and [HP:0003697](http://purl.obolibrary.org/obo/HP_0003697) (Scapuloperoneal amyotrophy) 64.29%
+- [HP:0001939](http://purl.obolibrary.org/obo/HP_0001939) (Abnormality of metabolism/homeostasis) and [HP:0003697](http://purl.obolibrary.org/obo/HP_0003697) (Scapuloperoneal amyotrophy) 64.29%
+- [HP:0001626](http://purl.obolibrary.org/obo/HP_0001626) (Abnormality of the cardiovascular system) and [HP:0003697](http://purl.obolibrary.org/obo/HP_0003697) (Scapuloperoneal amyotrophy) 64.29%
+
+

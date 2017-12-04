@@ -1,0 +1,27 @@
+
+### [Orphanet:238468](http://www.orpha.net/ORDO/Orphanet_238468)
+**Label:** Hypohidrotic ectodermal dysplasia
+
+**Subclasses:** [Orphanet:1810](http://www.orpha.net/ORDO/Orphanet_1810) (Autosomal dominant hypohidrotic ectodermal dysplasia), [Orphanet:181](http://www.orpha.net/ORDO/Orphanet_181) (X-linked hypohidrotic ectodermal dysplasia), [Orphanet:248](http://www.orpha.net/ORDO/Orphanet_248) (Autosomal recessive hypohidrotic ectodermal dysplasia), [Orphanet:98813](http://www.orpha.net/ORDO/Orphanet_98813) (Hypohidrotic ectodermal dysplasia with immunodeficiency), 
+
+**Corr. equiv. classes:** [OMIM:224900](http://purl.obolibrary.org/obo/OMIM_224900), [OMIM:612132](http://purl.obolibrary.org/obo/OMIM_612132), [OMIM:129490](http://purl.obolibrary.org/obo/OMIM_129490), [OMIM:614940](http://purl.obolibrary.org/obo/OMIM_614940), [OMIM:305100](http://purl.obolibrary.org/obo/OMIM_305100), [OMIM:614941](http://purl.obolibrary.org/obo/OMIM_614941), [Orphanet:181](http://www.orpha.net/ORDO/Orphanet_181), [Orphanet:98813](http://www.orpha.net/ORDO/Orphanet_98813), [OMIM:300291](http://purl.obolibrary.org/obo/OMIM_300291), [Orphanet:1810](http://www.orpha.net/ORDO/Orphanet_1810), [Orphanet:248](http://www.orpha.net/ORDO/Orphanet_248), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0000290](http://purl.obolibrary.org/obo/HP_0000290) (Abnormality of the forehead) and [HP:0002561](http://purl.obolibrary.org/obo/HP_0002561) (Absent nipple) and [HP:0011357](http://purl.obolibrary.org/obo/HP_0011357) (Abnormality of hair density) 63.64%
+- [HP:0000290](http://purl.obolibrary.org/obo/HP_0000290) (Abnormality of the forehead) and [HP:0002561](http://purl.obolibrary.org/obo/HP_0002561) (Absent nipple) and [HP:0008070](http://purl.obolibrary.org/obo/HP_0008070) (Sparse hair) 63.64%
+- [HP:0000290](http://purl.obolibrary.org/obo/HP_0000290) (Abnormality of the forehead) and [HP:0000968](http://purl.obolibrary.org/obo/HP_0000968) (Ectodermal dysplasia) and [HP:0002561](http://purl.obolibrary.org/obo/HP_0002561) (Absent nipple) 63.64%
+- [HP:0000159](http://purl.obolibrary.org/obo/HP_0000159) (Abnormality of the lip) and [HP:0000968](http://purl.obolibrary.org/obo/HP_0000968) (Ectodermal dysplasia) and [HP:0002561](http://purl.obolibrary.org/obo/HP_0002561) (Absent nipple) 63.64%
+- [HP:0000005](http://purl.obolibrary.org/obo/HP_0000005) (Mode of inheritance) and [HP:0000290](http://purl.obolibrary.org/obo/HP_0000290) (Abnormality of the forehead) and [HP:0002561](http://purl.obolibrary.org/obo/HP_0002561) (Absent nipple) 63.64%
+- [HP:0000290](http://purl.obolibrary.org/obo/HP_0000290) (Abnormality of the forehead) and [HP:0002561](http://purl.obolibrary.org/obo/HP_0002561) (Absent nipple) and [HP:0008070](http://purl.obolibrary.org/obo/HP_0008070) (Sparse hair) and [HP:0011354](http://purl.obolibrary.org/obo/HP_0011354) (Generalized abnormality of skin) 63.64%
+- [HP:0000290](http://purl.obolibrary.org/obo/HP_0000290) (Abnormality of the forehead) and [HP:0000968](http://purl.obolibrary.org/obo/HP_0000968) (Ectodermal dysplasia) and [HP:0002561](http://purl.obolibrary.org/obo/HP_0002561) (Absent nipple) and [HP:0011357](http://purl.obolibrary.org/obo/HP_0011357) (Abnormality of hair density) 63.64%
+- [HP:0000290](http://purl.obolibrary.org/obo/HP_0000290) (Abnormality of the forehead) and [HP:0000968](http://purl.obolibrary.org/obo/HP_0000968) (Ectodermal dysplasia) and [HP:0002561](http://purl.obolibrary.org/obo/HP_0002561) (Absent nipple) and [HP:0008070](http://purl.obolibrary.org/obo/HP_0008070) (Sparse hair) 63.64%
+- [HP:0000159](http://purl.obolibrary.org/obo/HP_0000159) (Abnormality of the lip) and [HP:0002561](http://purl.obolibrary.org/obo/HP_0002561) (Absent nipple) and [HP:0008070](http://purl.obolibrary.org/obo/HP_0008070) (Sparse hair) and [HP:0011354](http://purl.obolibrary.org/obo/HP_0011354) (Generalized abnormality of skin) 63.64%
+- [HP:0000159](http://purl.obolibrary.org/obo/HP_0000159) (Abnormality of the lip) and [HP:0000968](http://purl.obolibrary.org/obo/HP_0000968) (Ectodermal dysplasia) and [HP:0002561](http://purl.obolibrary.org/obo/HP_0002561) (Absent nipple) and [HP:0011357](http://purl.obolibrary.org/obo/HP_0011357) (Abnormality of hair density) 63.64%
+- [HP:0000159](http://purl.obolibrary.org/obo/HP_0000159) (Abnormality of the lip) and [HP:0000968](http://purl.obolibrary.org/obo/HP_0000968) (Ectodermal dysplasia) and [HP:0002561](http://purl.obolibrary.org/obo/HP_0002561) (Absent nipple) and [HP:0008070](http://purl.obolibrary.org/obo/HP_0008070) (Sparse hair) 63.64%
+- [HP:0000290](http://purl.obolibrary.org/obo/HP_0000290) (Abnormality of the forehead) and [HP:0002561](http://purl.obolibrary.org/obo/HP_0002561) (Absent nipple) 56.94%
+- [HP:0002561](http://purl.obolibrary.org/obo/HP_0002561) (Absent nipple) and [HP:0008070](http://purl.obolibrary.org/obo/HP_0008070) (Sparse hair) and [HP:0011354](http://purl.obolibrary.org/obo/HP_0011354) (Generalized abnormality of skin) 56.94%
+- [HP:0000968](http://purl.obolibrary.org/obo/HP_0000968) (Ectodermal dysplasia) and [HP:0002561](http://purl.obolibrary.org/obo/HP_0002561) (Absent nipple) and [HP:0011357](http://purl.obolibrary.org/obo/HP_0011357) (Abnormality of hair density) 56.94%
+- [HP:0000968](http://purl.obolibrary.org/obo/HP_0000968) (Ectodermal dysplasia) and [HP:0002561](http://purl.obolibrary.org/obo/HP_0002561) (Absent nipple) and [HP:0008070](http://purl.obolibrary.org/obo/HP_0008070) (Sparse hair) 56.94%
+
+

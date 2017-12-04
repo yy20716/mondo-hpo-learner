@@ -1,0 +1,27 @@
+
+### [Orphanet:314749](http://www.orpha.net/ORDO/Orphanet_314749)
+**Label:** Rare disease with Cushing syndrome as a major feature
+
+**Subclasses:** [Orphanet:562](http://www.orpha.net/ORDO/Orphanet_562) (McCune-Albright syndrome), [Orphanet:2976](http://www.orpha.net/ORDO/Orphanet_2976) (Pseudoleprechaunism syndrome, Patterson type), [Orphanet:1359](http://www.orpha.net/ORDO/Orphanet_1359) (Carney complex), [Orphanet:524](http://www.orpha.net/ORDO/Orphanet_524) (Li-Fraumeni syndrome), [Orphanet:652](http://www.orpha.net/ORDO/Orphanet_652) (Multiple endocrine neoplasia type 1), 
+
+**Corr. equiv. classes:** [Orphanet:562](http://www.orpha.net/ORDO/Orphanet_562), [OMIM:160980](http://purl.obolibrary.org/obo/OMIM_160980), [Orphanet:652](http://www.orpha.net/ORDO/Orphanet_652), [OMIM:174800](http://purl.obolibrary.org/obo/OMIM_174800), [OMIM:169170](http://purl.obolibrary.org/obo/OMIM_169170), [OMIM:131100](http://purl.obolibrary.org/obo/OMIM_131100), [Orphanet:2976](http://www.orpha.net/ORDO/Orphanet_2976), [OMIM:151623](http://purl.obolibrary.org/obo/OMIM_151623), [OMIM:605244](http://purl.obolibrary.org/obo/OMIM_605244), [OMIM:609265](http://purl.obolibrary.org/obo/OMIM_609265), [Orphanet:1359](http://www.orpha.net/ORDO/Orphanet_1359), [OMIM:609266](http://purl.obolibrary.org/obo/OMIM_609266), [Orphanet:524](http://www.orpha.net/ORDO/Orphanet_524), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0008069](http://purl.obolibrary.org/obo/HP_0008069) (Neoplasm of the skin) and [HP:0100641](http://purl.obolibrary.org/obo/HP_0100641) (Neoplasm of the adrenal cortex) 60.11%
+- [HP:0008069](http://purl.obolibrary.org/obo/HP_0008069) (Neoplasm of the skin) and [HP:0100242](http://purl.obolibrary.org/obo/HP_0100242) (Sarcoma) and [HP:0100641](http://purl.obolibrary.org/obo/HP_0100641) (Neoplasm of the adrenal cortex) 60.11%
+- [HP:0008069](http://purl.obolibrary.org/obo/HP_0008069) (Neoplasm of the skin) and [HP:0025033](http://purl.obolibrary.org/obo/HP_0025033) (Abnormality of digestive system morphology) and [HP:0100641](http://purl.obolibrary.org/obo/HP_0100641) (Neoplasm of the adrenal cortex) 60.11%
+- [HP:0008069](http://purl.obolibrary.org/obo/HP_0008069) (Neoplasm of the skin) and [HP:0025031](http://purl.obolibrary.org/obo/HP_0025031) (Abnormality of the digestive system) and [HP:0100641](http://purl.obolibrary.org/obo/HP_0100641) (Neoplasm of the adrenal cortex) 60.11%
+- [HP:0008069](http://purl.obolibrary.org/obo/HP_0008069) (Neoplasm of the skin) and [HP:0012718](http://purl.obolibrary.org/obo/HP_0012718) (Morphological abnormality of the gastrointestinal tract) and [HP:0100641](http://purl.obolibrary.org/obo/HP_0100641) (Neoplasm of the adrenal cortex) 60.11%
+- [HP:0008069](http://purl.obolibrary.org/obo/HP_0008069) (Neoplasm of the skin) and [HP:0012639](http://purl.obolibrary.org/obo/HP_0012639) (Abnormality of nervous system morphology) and [HP:0100641](http://purl.obolibrary.org/obo/HP_0100641) (Neoplasm of the adrenal cortex) 60.11%
+- [HP:0008069](http://purl.obolibrary.org/obo/HP_0008069) (Neoplasm of the skin) and [HP:0011792](http://purl.obolibrary.org/obo/HP_0011792) (Neoplasm by histology) and [HP:0100641](http://purl.obolibrary.org/obo/HP_0100641) (Neoplasm of the adrenal cortex) 60.11%
+- [HP:0008069](http://purl.obolibrary.org/obo/HP_0008069) (Neoplasm of the skin) and [HP:0011024](http://purl.obolibrary.org/obo/HP_0011024) (Abnormality of the gastrointestinal tract) and [HP:0100641](http://purl.obolibrary.org/obo/HP_0100641) (Neoplasm of the adrenal cortex) 60.11%
+- [HP:0007378](http://purl.obolibrary.org/obo/HP_0007378) (Neoplasm of the gastrointestinal tract) and [HP:0008069](http://purl.obolibrary.org/obo/HP_0008069) (Neoplasm of the skin) and [HP:0100641](http://purl.obolibrary.org/obo/HP_0100641) (Neoplasm of the adrenal cortex) 60.11%
+- [HP:0004375](http://purl.obolibrary.org/obo/HP_0004375) (Neoplasm of the nervous system) and [HP:0008069](http://purl.obolibrary.org/obo/HP_0008069) (Neoplasm of the skin) and [HP:0100641](http://purl.obolibrary.org/obo/HP_0100641) (Neoplasm of the adrenal cortex) 60.11%
+- [HP:0002894](http://purl.obolibrary.org/obo/HP_0002894) (Neoplasm of the pancreas) and [HP:0008069](http://purl.obolibrary.org/obo/HP_0008069) (Neoplasm of the skin) and [HP:0100641](http://purl.obolibrary.org/obo/HP_0100641) (Neoplasm of the adrenal cortex) 60.11%
+- [HP:0002012](http://purl.obolibrary.org/obo/HP_0002012) (Abnormality of the abdominal organs) and [HP:0008069](http://purl.obolibrary.org/obo/HP_0008069) (Neoplasm of the skin) and [HP:0100641](http://purl.obolibrary.org/obo/HP_0100641) (Neoplasm of the adrenal cortex) 60.11%
+- [HP:0001732](http://purl.obolibrary.org/obo/HP_0001732) (Abnormality of the pancreas) and [HP:0008069](http://purl.obolibrary.org/obo/HP_0008069) (Neoplasm of the skin) and [HP:0100641](http://purl.obolibrary.org/obo/HP_0100641) (Neoplasm of the adrenal cortex) 60.11%
+- [HP:0000707](http://purl.obolibrary.org/obo/HP_0000707) (Abnormality of the nervous system) and [HP:0008069](http://purl.obolibrary.org/obo/HP_0008069) (Neoplasm of the skin) and [HP:0100641](http://purl.obolibrary.org/obo/HP_0100641) (Neoplasm of the adrenal cortex) 60.11%
+- [HP:0008069](http://purl.obolibrary.org/obo/HP_0008069) (Neoplasm of the skin) and [HP:0025033](http://purl.obolibrary.org/obo/HP_0025033) (Abnormality of digestive system morphology) and [HP:0100242](http://purl.obolibrary.org/obo/HP_0100242) (Sarcoma) and [HP:0100641](http://purl.obolibrary.org/obo/HP_0100641) (Neoplasm of the adrenal cortex) 60.11%
+
+

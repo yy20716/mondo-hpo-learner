@@ -1,0 +1,27 @@
+
+### [Orphanet:275543](http://www.orpha.net/ORDO/Orphanet_275543)
+**Label:** L1 syndrome
+
+**Subclasses:** [Orphanet:2182](http://www.orpha.net/ORDO/Orphanet_2182) (Hydrocephalus with stenosis of the aqueduct of Sylvius), [Orphanet:1497](http://www.orpha.net/ORDO/Orphanet_1497) (X-linked complicated corpus callosum dysgenesis), [Orphanet:2466](http://www.orpha.net/ORDO/Orphanet_2466) (MASA syndrome), 
+
+**Corr. equiv. classes:** [Orphanet:2466](http://www.orpha.net/ORDO/Orphanet_2466), [Orphanet:1497](http://www.orpha.net/ORDO/Orphanet_1497), [OMIM:303350](http://purl.obolibrary.org/obo/OMIM_303350), [OMIM:304100](http://purl.obolibrary.org/obo/OMIM_304100), [OMIM:307000](http://purl.obolibrary.org/obo/OMIM_307000), [Orphanet:2182](http://www.orpha.net/ORDO/Orphanet_2182), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0001181](http://purl.obolibrary.org/obo/HP_0001181) (Adducted thumb) and [HP:0002410](http://purl.obolibrary.org/obo/HP_0002410) (Aqueductal stenosis) and [HP:0010993](http://purl.obolibrary.org/obo/HP_0010993) (Abnormality of the cerebral subcortex) 66.67%
+- [HP:0001181](http://purl.obolibrary.org/obo/HP_0001181) (Adducted thumb) and [HP:0002410](http://purl.obolibrary.org/obo/HP_0002410) (Aqueductal stenosis) and [HP:0007375](http://purl.obolibrary.org/obo/HP_0007375) (Abnormality of the septum pellucidum) 66.67%
+- [HP:0001181](http://purl.obolibrary.org/obo/HP_0001181) (Adducted thumb) and [HP:0002410](http://purl.obolibrary.org/obo/HP_0002410) (Aqueductal stenosis) and [HP:0007370](http://purl.obolibrary.org/obo/HP_0007370) (Aplasia/Hypoplasia of the corpus callosum) 66.67%
+- [HP:0001181](http://purl.obolibrary.org/obo/HP_0001181) (Adducted thumb) and [HP:0002410](http://purl.obolibrary.org/obo/HP_0002410) (Aqueductal stenosis) and [HP:0002500](http://purl.obolibrary.org/obo/HP_0002500) (Abnormality of the cerebral white matter) 66.67%
+- [HP:0001181](http://purl.obolibrary.org/obo/HP_0001181) (Adducted thumb) and [HP:0001331](http://purl.obolibrary.org/obo/HP_0001331) (Absent septum pellucidum) and [HP:0002410](http://purl.obolibrary.org/obo/HP_0002410) (Aqueductal stenosis) 66.67%
+- [HP:0001181](http://purl.obolibrary.org/obo/HP_0001181) (Adducted thumb) and [HP:0001274](http://purl.obolibrary.org/obo/HP_0001274) (Agenesis of corpus callosum) and [HP:0002410](http://purl.obolibrary.org/obo/HP_0002410) (Aqueductal stenosis) 66.67%
+- [HP:0001181](http://purl.obolibrary.org/obo/HP_0001181) (Adducted thumb) and [HP:0001273](http://purl.obolibrary.org/obo/HP_0001273) (Abnormality of the corpus callosum) and [HP:0002410](http://purl.obolibrary.org/obo/HP_0002410) (Aqueductal stenosis) 66.67%
+- [HP:0001181](http://purl.obolibrary.org/obo/HP_0001181) (Adducted thumb) and [HP:0002410](http://purl.obolibrary.org/obo/HP_0002410) (Aqueductal stenosis) and [HP:0010993](http://purl.obolibrary.org/obo/HP_0010993) (Abnormality of the cerebral subcortex) and [HP:0012759](http://purl.obolibrary.org/obo/HP_0012759) (Neurodevelopmental abnormality) 66.67%
+- [HP:0001181](http://purl.obolibrary.org/obo/HP_0001181) (Adducted thumb) and [HP:0002410](http://purl.obolibrary.org/obo/HP_0002410) (Aqueductal stenosis) and [HP:0010993](http://purl.obolibrary.org/obo/HP_0010993) (Abnormality of the cerebral subcortex) and [HP:0012638](http://purl.obolibrary.org/obo/HP_0012638) (Abnormality of nervous system physiology) 66.67%
+- [HP:0001181](http://purl.obolibrary.org/obo/HP_0001181) (Adducted thumb) and [HP:0002410](http://purl.obolibrary.org/obo/HP_0002410) (Aqueductal stenosis) and [HP:0010993](http://purl.obolibrary.org/obo/HP_0010993) (Abnormality of the cerebral subcortex) and [HP:0011729](http://purl.obolibrary.org/obo/HP_0011729) (Abnormality of joint mobility) 66.67%
+- [HP:0001181](http://purl.obolibrary.org/obo/HP_0001181) (Adducted thumb) and [HP:0002410](http://purl.obolibrary.org/obo/HP_0002410) (Aqueductal stenosis) and [HP:0007375](http://purl.obolibrary.org/obo/HP_0007375) (Abnormality of the septum pellucidum) and [HP:0012759](http://purl.obolibrary.org/obo/HP_0012759) (Neurodevelopmental abnormality) 66.67%
+- [HP:0001181](http://purl.obolibrary.org/obo/HP_0001181) (Adducted thumb) and [HP:0002410](http://purl.obolibrary.org/obo/HP_0002410) (Aqueductal stenosis) and [HP:0007375](http://purl.obolibrary.org/obo/HP_0007375) (Abnormality of the septum pellucidum) and [HP:0012638](http://purl.obolibrary.org/obo/HP_0012638) (Abnormality of nervous system physiology) 66.67%
+- [HP:0001181](http://purl.obolibrary.org/obo/HP_0001181) (Adducted thumb) and [HP:0002410](http://purl.obolibrary.org/obo/HP_0002410) (Aqueductal stenosis) and [HP:0007375](http://purl.obolibrary.org/obo/HP_0007375) (Abnormality of the septum pellucidum) and [HP:0011729](http://purl.obolibrary.org/obo/HP_0011729) (Abnormality of joint mobility) 66.67%
+- [HP:0001181](http://purl.obolibrary.org/obo/HP_0001181) (Adducted thumb) and [HP:0002410](http://purl.obolibrary.org/obo/HP_0002410) (Aqueductal stenosis) and [HP:0007375](http://purl.obolibrary.org/obo/HP_0007375) (Abnormality of the septum pellucidum) and [HP:0010993](http://purl.obolibrary.org/obo/HP_0010993) (Abnormality of the cerebral subcortex) 66.67%
+- [HP:0001181](http://purl.obolibrary.org/obo/HP_0001181) (Adducted thumb) and [HP:0002410](http://purl.obolibrary.org/obo/HP_0002410) (Aqueductal stenosis) and [HP:0007370](http://purl.obolibrary.org/obo/HP_0007370) (Aplasia/Hypoplasia of the corpus callosum) and [HP:0012759](http://purl.obolibrary.org/obo/HP_0012759) (Neurodevelopmental abnormality) 66.67%
+
+

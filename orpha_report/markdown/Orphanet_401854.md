@@ -1,0 +1,27 @@
+
+### [Orphanet:401854](http://www.orpha.net/ORDO/Orphanet_401854)
+**Label:** Lipoic acid biosynthesis defect
+
+**Subclasses:** [Orphanet:2394](http://www.orpha.net/ORDO/Orphanet_2394) (Pyruvate dehydrogenase E3 deficiency), [Orphanet:401866](http://www.orpha.net/ORDO/Orphanet_401866) (Spasticity-ataxia-gait anomalies syndrome), [Orphanet:401862](http://www.orpha.net/ORDO/Orphanet_401862) (Lipoyl transferase 1 deficiency), [Orphanet:401859](http://www.orpha.net/ORDO/Orphanet_401859) (Lipoic acid synthetase deficiency), 
+
+**Corr. equiv. classes:** [Orphanet:401862](http://www.orpha.net/ORDO/Orphanet_401862), [Orphanet:401866](http://www.orpha.net/ORDO/Orphanet_401866), [OMIM:246900](http://purl.obolibrary.org/obo/OMIM_246900), [Orphanet:2394](http://www.orpha.net/ORDO/Orphanet_2394), [Orphanet:401859](http://www.orpha.net/ORDO/Orphanet_401859), [OMIM:616859](http://purl.obolibrary.org/obo/OMIM_616859), [OMIM:616299](http://purl.obolibrary.org/obo/OMIM_616299), [OMIM:614462](http://purl.obolibrary.org/obo/OMIM_614462), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0001332](http://purl.obolibrary.org/obo/HP_0001332) (Dystonia) and [HP:0001410](http://purl.obolibrary.org/obo/HP_0001410) (Decreased liver function) and [HP:0004360](http://purl.obolibrary.org/obo/HP_0004360) (Abnormality of acid-base homeostasis) 53.32%
+- [HP:0001332](http://purl.obolibrary.org/obo/HP_0001332) (Dystonia) and [HP:0001410](http://purl.obolibrary.org/obo/HP_0001410) (Decreased liver function) and [HP:0003128](http://purl.obolibrary.org/obo/HP_0003128) (Lactic acidosis) 53.32%
+- [HP:0001332](http://purl.obolibrary.org/obo/HP_0001332) (Dystonia) and [HP:0001410](http://purl.obolibrary.org/obo/HP_0001410) (Decreased liver function) and [HP:0001941](http://purl.obolibrary.org/obo/HP_0001941) (Acidosis) 53.32%
+- [HP:0001332](http://purl.obolibrary.org/obo/HP_0001332) (Dystonia) and [HP:0001410](http://purl.obolibrary.org/obo/HP_0001410) (Decreased liver function) and [HP:0002910](http://purl.obolibrary.org/obo/HP_0002910) (Elevated hepatic transaminases) and [HP:0004360](http://purl.obolibrary.org/obo/HP_0004360) (Abnormality of acid-base homeostasis) 53.32%
+- [HP:0001332](http://purl.obolibrary.org/obo/HP_0001332) (Dystonia) and [HP:0001410](http://purl.obolibrary.org/obo/HP_0001410) (Decreased liver function) and [HP:0002910](http://purl.obolibrary.org/obo/HP_0002910) (Elevated hepatic transaminases) and [HP:0003128](http://purl.obolibrary.org/obo/HP_0003128) (Lactic acidosis) 53.32%
+- [HP:0001332](http://purl.obolibrary.org/obo/HP_0001332) (Dystonia) and [HP:0001410](http://purl.obolibrary.org/obo/HP_0001410) (Decreased liver function) and [HP:0002012](http://purl.obolibrary.org/obo/HP_0002012) (Abnormality of the abdominal organs) and [HP:0004360](http://purl.obolibrary.org/obo/HP_0004360) (Abnormality of acid-base homeostasis) 53.32%
+- [HP:0001332](http://purl.obolibrary.org/obo/HP_0001332) (Dystonia) and [HP:0001410](http://purl.obolibrary.org/obo/HP_0001410) (Decreased liver function) and [HP:0002012](http://purl.obolibrary.org/obo/HP_0002012) (Abnormality of the abdominal organs) and [HP:0003128](http://purl.obolibrary.org/obo/HP_0003128) (Lactic acidosis) 53.32%
+- [HP:0001332](http://purl.obolibrary.org/obo/HP_0001332) (Dystonia) and [HP:0001410](http://purl.obolibrary.org/obo/HP_0001410) (Decreased liver function) and [HP:0001941](http://purl.obolibrary.org/obo/HP_0001941) (Acidosis) and [HP:0002910](http://purl.obolibrary.org/obo/HP_0002910) (Elevated hepatic transaminases) 53.32%
+- [HP:0001332](http://purl.obolibrary.org/obo/HP_0001332) (Dystonia) and [HP:0001410](http://purl.obolibrary.org/obo/HP_0001410) (Decreased liver function) and [HP:0001941](http://purl.obolibrary.org/obo/HP_0001941) (Acidosis) and [HP:0002012](http://purl.obolibrary.org/obo/HP_0002012) (Abnormality of the abdominal organs) 53.32%
+- [HP:0001332](http://purl.obolibrary.org/obo/HP_0001332) (Dystonia) and [HP:0001392](http://purl.obolibrary.org/obo/HP_0001392) (Abnormality of the liver) and [HP:0001410](http://purl.obolibrary.org/obo/HP_0001410) (Decreased liver function) and [HP:0004360](http://purl.obolibrary.org/obo/HP_0004360) (Abnormality of acid-base homeostasis) 53.32%
+- [HP:0001332](http://purl.obolibrary.org/obo/HP_0001332) (Dystonia) and [HP:0001392](http://purl.obolibrary.org/obo/HP_0001392) (Abnormality of the liver) and [HP:0001410](http://purl.obolibrary.org/obo/HP_0001410) (Decreased liver function) and [HP:0003128](http://purl.obolibrary.org/obo/HP_0003128) (Lactic acidosis) 53.32%
+- [HP:0001332](http://purl.obolibrary.org/obo/HP_0001332) (Dystonia) and [HP:0001392](http://purl.obolibrary.org/obo/HP_0001392) (Abnormality of the liver) and [HP:0001410](http://purl.obolibrary.org/obo/HP_0001410) (Decreased liver function) and [HP:0001941](http://purl.obolibrary.org/obo/HP_0001941) (Acidosis) 53.32%
+- [HP:0001332](http://purl.obolibrary.org/obo/HP_0001332) (Dystonia) and [HP:0001410](http://purl.obolibrary.org/obo/HP_0001410) (Decreased liver function) and [HP:0002910](http://purl.obolibrary.org/obo/HP_0002910) (Elevated hepatic transaminases) 44.12%
+- [HP:0001332](http://purl.obolibrary.org/obo/HP_0001332) (Dystonia) and [HP:0001410](http://purl.obolibrary.org/obo/HP_0001410) (Decreased liver function) 39.23%
+- [HP:0001332](http://purl.obolibrary.org/obo/HP_0001332) (Dystonia) and [HP:0001410](http://purl.obolibrary.org/obo/HP_0001410) (Decreased liver function) and [HP:0002012](http://purl.obolibrary.org/obo/HP_0002012) (Abnormality of the abdominal organs) 39.23%
+
+

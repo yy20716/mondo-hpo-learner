@@ -1,0 +1,27 @@
+
+### [Orphanet:363429](http://www.orpha.net/ORDO/Orphanet_363429)
+**Label:** Autosomal recessive cerebellar ataxia-pyramidal signs-nystagmus-oculomotor apraxia syndrome
+
+**Subclasses:** [Orphanet:363432](http://www.orpha.net/ORDO/Orphanet_363432) (Autosomal recessive congenital cerebellar ataxia due to GRID2 deficiency), [Orphanet:324262](http://www.orpha.net/ORDO/Orphanet_324262) (Autosomal recessive congenital cerebellar ataxia due to MGLUR1 deficiency), 
+
+**Corr. equiv. classes:** [OMIM:616204](http://purl.obolibrary.org/obo/OMIM_616204), [Orphanet:363432](http://www.orpha.net/ORDO/Orphanet_363432), [Orphanet:324262](http://www.orpha.net/ORDO/Orphanet_324262), [OMIM:614831](http://purl.obolibrary.org/obo/OMIM_614831), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0007068](http://purl.obolibrary.org/obo/HP_0007068) (Inferior vermis hypoplasia) and [HP:0012823](http://purl.obolibrary.org/obo/HP_0012823) (Clinical modifier) 62.50%
+- [HP:0007068](http://purl.obolibrary.org/obo/HP_0007068) (Inferior vermis hypoplasia) and [HP:0011446](http://purl.obolibrary.org/obo/HP_0011446) (Abnormality of higher mental function) 62.50%
+- [HP:0007068](http://purl.obolibrary.org/obo/HP_0007068) (Inferior vermis hypoplasia) and [HP:0011443](http://purl.obolibrary.org/obo/HP_0011443) (Abnormality of coordination) 62.50%
+- [HP:0007068](http://purl.obolibrary.org/obo/HP_0007068) (Inferior vermis hypoplasia) and [HP:0007256](http://purl.obolibrary.org/obo/HP_0007256) (Abnormal pyramidal signs) 62.50%
+- [HP:0006951](http://purl.obolibrary.org/obo/HP_0006951) (Retrocerebellar cyst) and [HP:0007068](http://purl.obolibrary.org/obo/HP_0007068) (Inferior vermis hypoplasia) 62.50%
+- [HP:0004322](http://purl.obolibrary.org/obo/HP_0004322) (Short stature) and [HP:0007068](http://purl.obolibrary.org/obo/HP_0007068) (Inferior vermis hypoplasia) 62.50%
+- [HP:0004305](http://purl.obolibrary.org/obo/HP_0004305) (Involuntary movements) and [HP:0007068](http://purl.obolibrary.org/obo/HP_0007068) (Inferior vermis hypoplasia) 62.50%
+- [HP:0003679](http://purl.obolibrary.org/obo/HP_0003679) (Pace of progression) and [HP:0007068](http://purl.obolibrary.org/obo/HP_0007068) (Inferior vermis hypoplasia) 62.50%
+- [HP:0003677](http://purl.obolibrary.org/obo/HP_0003677) (Slow progression) and [HP:0007068](http://purl.obolibrary.org/obo/HP_0007068) (Inferior vermis hypoplasia) 62.50%
+- [HP:0003674](http://purl.obolibrary.org/obo/HP_0003674) (Onset) and [HP:0007068](http://purl.obolibrary.org/obo/HP_0007068) (Inferior vermis hypoplasia) 62.50%
+- [HP:0003593](http://purl.obolibrary.org/obo/HP_0003593) (Infantile onset) and [HP:0007068](http://purl.obolibrary.org/obo/HP_0007068) (Inferior vermis hypoplasia) 62.50%
+- [HP:0002167](http://purl.obolibrary.org/obo/HP_0002167) (Neurological speech impairment) and [HP:0007068](http://purl.obolibrary.org/obo/HP_0007068) (Inferior vermis hypoplasia) 62.50%
+- [HP:0002075](http://purl.obolibrary.org/obo/HP_0002075) (Dysdiadochokinesis) and [HP:0007068](http://purl.obolibrary.org/obo/HP_0007068) (Inferior vermis hypoplasia) 62.50%
+- [HP:0001763](http://purl.obolibrary.org/obo/HP_0001763) (Pes planus) and [HP:0007068](http://purl.obolibrary.org/obo/HP_0007068) (Inferior vermis hypoplasia) 62.50%
+- [HP:0001347](http://purl.obolibrary.org/obo/HP_0001347) (Hyperreflexia) and [HP:0007068](http://purl.obolibrary.org/obo/HP_0007068) (Inferior vermis hypoplasia) 62.50%
+
+

@@ -1,0 +1,27 @@
+
+### [Orphanet:98408](http://www.orpha.net/ORDO/Orphanet_98408)
+**Label:** Constitutional megaloblastic anemia due to folate metabolism disorder
+
+**Subclasses:** [Orphanet:51208](http://www.orpha.net/ORDO/Orphanet_51208) (Formiminoglutamic aciduria), [Orphanet:90045](http://www.orpha.net/ORDO/Orphanet_90045) (Hereditary folate malabsorption), [Orphanet:319651](http://www.orpha.net/ORDO/Orphanet_319651) (Constitutional megaloblastic anemia with severe neurologic disease), 
+
+**Corr. equiv. classes:** [OMIM:229050](http://purl.obolibrary.org/obo/OMIM_229050), [Orphanet:51208](http://www.orpha.net/ORDO/Orphanet_51208), [Orphanet:319651](http://www.orpha.net/ORDO/Orphanet_319651), [Orphanet:90045](http://www.orpha.net/ORDO/Orphanet_90045), [OMIM:613839](http://purl.obolibrary.org/obo/OMIM_613839), [OMIM:229100](http://purl.obolibrary.org/obo/OMIM_229100), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0000980](http://purl.obolibrary.org/obo/HP_0000980) (Pallor) and [HP:0001889](http://purl.obolibrary.org/obo/HP_0001889) (Megaloblastic anemia) and [HP:0100547](http://purl.obolibrary.org/obo/HP_0100547) (Abnormality of forebrain morphology) 66.67%
+- [HP:0000980](http://purl.obolibrary.org/obo/HP_0000980) (Pallor) and [HP:0001889](http://purl.obolibrary.org/obo/HP_0001889) (Megaloblastic anemia) and [HP:0100022](http://purl.obolibrary.org/obo/HP_0100022) (Abnormality of movement) 66.67%
+- [HP:0000980](http://purl.obolibrary.org/obo/HP_0000980) (Pallor) and [HP:0001889](http://purl.obolibrary.org/obo/HP_0001889) (Megaloblastic anemia) and [HP:0012759](http://purl.obolibrary.org/obo/HP_0012759) (Neurodevelopmental abnormality) 66.67%
+- [HP:0000980](http://purl.obolibrary.org/obo/HP_0000980) (Pallor) and [HP:0001889](http://purl.obolibrary.org/obo/HP_0001889) (Megaloblastic anemia) and [HP:0012758](http://purl.obolibrary.org/obo/HP_0012758) (Neurodevelopmental delay) 66.67%
+- [HP:0000980](http://purl.obolibrary.org/obo/HP_0000980) (Pallor) and [HP:0001889](http://purl.obolibrary.org/obo/HP_0001889) (Megaloblastic anemia) and [HP:0012145](http://purl.obolibrary.org/obo/HP_0012145) (Abnormality of multiple cell lineages in the bone marrow) 66.67%
+- [HP:0000980](http://purl.obolibrary.org/obo/HP_0000980) (Pallor) and [HP:0001889](http://purl.obolibrary.org/obo/HP_0001889) (Megaloblastic anemia) and [HP:0011442](http://purl.obolibrary.org/obo/HP_0011442) (Abnormality of central motor function) 66.67%
+- [HP:0000980](http://purl.obolibrary.org/obo/HP_0000980) (Pallor) and [HP:0001889](http://purl.obolibrary.org/obo/HP_0001889) (Megaloblastic anemia) and [HP:0005561](http://purl.obolibrary.org/obo/HP_0005561) (Abnormality of bone marrow cell morphology) 66.67%
+- [HP:0000980](http://purl.obolibrary.org/obo/HP_0000980) (Pallor) and [HP:0001889](http://purl.obolibrary.org/obo/HP_0001889) (Megaloblastic anemia) and [HP:0003011](http://purl.obolibrary.org/obo/HP_0003011) (Abnormality of the musculature) 66.67%
+- [HP:0000980](http://purl.obolibrary.org/obo/HP_0000980) (Pallor) and [HP:0001889](http://purl.obolibrary.org/obo/HP_0001889) (Megaloblastic anemia) and [HP:0002060](http://purl.obolibrary.org/obo/HP_0002060) (Abnormality of the cerebrum) 66.67%
+- [HP:0000980](http://purl.obolibrary.org/obo/HP_0000980) (Pallor) and [HP:0001876](http://purl.obolibrary.org/obo/HP_0001876) (Pancytopenia) and [HP:0001889](http://purl.obolibrary.org/obo/HP_0001889) (Megaloblastic anemia) 66.67%
+- [HP:0000980](http://purl.obolibrary.org/obo/HP_0000980) (Pallor) and [HP:0001263](http://purl.obolibrary.org/obo/HP_0001263) (Global developmental delay) and [HP:0001889](http://purl.obolibrary.org/obo/HP_0001889) (Megaloblastic anemia) 66.67%
+- [HP:0000980](http://purl.obolibrary.org/obo/HP_0000980) (Pallor) and [HP:0001250](http://purl.obolibrary.org/obo/HP_0001250) (Seizures) and [HP:0001889](http://purl.obolibrary.org/obo/HP_0001889) (Megaloblastic anemia) 66.67%
+- [HP:0000924](http://purl.obolibrary.org/obo/HP_0000924) (Abnormality of the skeletal system) and [HP:0000980](http://purl.obolibrary.org/obo/HP_0000980) (Pallor) and [HP:0001889](http://purl.obolibrary.org/obo/HP_0001889) (Megaloblastic anemia) 66.67%
+- [HP:0000234](http://purl.obolibrary.org/obo/HP_0000234) (Abnormality of the head) and [HP:0000980](http://purl.obolibrary.org/obo/HP_0000980) (Pallor) and [HP:0001889](http://purl.obolibrary.org/obo/HP_0001889) (Megaloblastic anemia) 66.67%
+- [HP:0000163](http://purl.obolibrary.org/obo/HP_0000163) (Abnormality of the oral cavity) and [HP:0001889](http://purl.obolibrary.org/obo/HP_0001889) (Megaloblastic anemia) and [HP:0100547](http://purl.obolibrary.org/obo/HP_0100547) (Abnormality of forebrain morphology) 66.67%
+
+

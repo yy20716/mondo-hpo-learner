@@ -1,0 +1,27 @@
+
+### [Orphanet:281222](http://www.orpha.net/ORDO/Orphanet_281222)
+**Label:** Autosomal ichthyosis syndrome with prominent hair abnormalities
+
+**Subclasses:** [Orphanet:33364](http://www.orpha.net/ORDO/Orphanet_33364) (Trichothiodystrophy), [Orphanet:59303](http://www.orpha.net/ORDO/Orphanet_59303) (Neonatal ichthyosis-sclerosing cholangitis syndrome), [Orphanet:91132](http://www.orpha.net/ORDO/Orphanet_91132) (Ichthyosis-hypotrichosis syndrome), [Orphanet:634](http://www.orpha.net/ORDO/Orphanet_634) (Netherton syndrome), 
+
+**Corr. equiv. classes:** [OMIM:607626](http://purl.obolibrary.org/obo/OMIM_607626), [OMIM:616390](http://purl.obolibrary.org/obo/OMIM_616390), [OMIM:601675](http://purl.obolibrary.org/obo/OMIM_601675), [OMIM:602400](http://purl.obolibrary.org/obo/OMIM_602400), [OMIM:300953](http://purl.obolibrary.org/obo/OMIM_300953), [OMIM:616395](http://purl.obolibrary.org/obo/OMIM_616395), [OMIM:256500](http://purl.obolibrary.org/obo/OMIM_256500), [OMIM:616943](http://purl.obolibrary.org/obo/OMIM_616943), [Orphanet:33364](http://www.orpha.net/ORDO/Orphanet_33364), [Orphanet:59303](http://www.orpha.net/ORDO/Orphanet_59303), [OMIM:234050](http://purl.obolibrary.org/obo/OMIM_234050), [Orphanet:91132](http://www.orpha.net/ORDO/Orphanet_91132), [Orphanet:634](http://www.orpha.net/ORDO/Orphanet_634), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0007479](http://purl.obolibrary.org/obo/HP_0007479) (Congenital nonbullous ichthyosiform erythroderma) and [HP:0010719](http://purl.obolibrary.org/obo/HP_0010719) (Abnormality of hair texture) and [HP:0012759](http://purl.obolibrary.org/obo/HP_0012759) (Neurodevelopmental abnormality) 69.23%
+- [HP:0007479](http://purl.obolibrary.org/obo/HP_0007479) (Congenital nonbullous ichthyosiform erythroderma) and [HP:0100326](http://purl.obolibrary.org/obo/HP_0100326) (Immunologic hypersensitivity) 65.38%
+- [HP:0002795](http://purl.obolibrary.org/obo/HP_0002795) (Functional respiratory abnormality) and [HP:0007479](http://purl.obolibrary.org/obo/HP_0007479) (Congenital nonbullous ichthyosiform erythroderma) 65.38%
+- [HP:0002099](http://purl.obolibrary.org/obo/HP_0002099) (Asthma) and [HP:0007479](http://purl.obolibrary.org/obo/HP_0007479) (Congenital nonbullous ichthyosiform erythroderma) 65.38%
+- [HP:0002086](http://purl.obolibrary.org/obo/HP_0002086) (Abnormality of the respiratory system) and [HP:0007479](http://purl.obolibrary.org/obo/HP_0007479) (Congenital nonbullous ichthyosiform erythroderma) 65.38%
+- [HP:0007479](http://purl.obolibrary.org/obo/HP_0007479) (Congenital nonbullous ichthyosiform erythroderma) and [HP:0012759](http://purl.obolibrary.org/obo/HP_0012759) (Neurodevelopmental abnormality) and [HP:0100326](http://purl.obolibrary.org/obo/HP_0100326) (Immunologic hypersensitivity) 65.38%
+- [HP:0007479](http://purl.obolibrary.org/obo/HP_0007479) (Congenital nonbullous ichthyosiform erythroderma) and [HP:0012649](http://purl.obolibrary.org/obo/HP_0012649) (Increased inflammatory response) and [HP:0100326](http://purl.obolibrary.org/obo/HP_0100326) (Immunologic hypersensitivity) 65.38%
+- [HP:0007479](http://purl.obolibrary.org/obo/HP_0007479) (Congenital nonbullous ichthyosiform erythroderma) and [HP:0012649](http://purl.obolibrary.org/obo/HP_0012649) (Increased inflammatory response) and [HP:0012759](http://purl.obolibrary.org/obo/HP_0012759) (Neurodevelopmental abnormality) 65.38%
+- [HP:0007479](http://purl.obolibrary.org/obo/HP_0007479) (Congenital nonbullous ichthyosiform erythroderma) and [HP:0012647](http://purl.obolibrary.org/obo/HP_0012647) (Abnormal inflammatory response) and [HP:0100326](http://purl.obolibrary.org/obo/HP_0100326) (Immunologic hypersensitivity) 65.38%
+- [HP:0007479](http://purl.obolibrary.org/obo/HP_0007479) (Congenital nonbullous ichthyosiform erythroderma) and [HP:0012647](http://purl.obolibrary.org/obo/HP_0012647) (Abnormal inflammatory response) and [HP:0012759](http://purl.obolibrary.org/obo/HP_0012759) (Neurodevelopmental abnormality) 65.38%
+- [HP:0007479](http://purl.obolibrary.org/obo/HP_0007479) (Congenital nonbullous ichthyosiform erythroderma) and [HP:0012638](http://purl.obolibrary.org/obo/HP_0012638) (Abnormality of nervous system physiology) and [HP:0100326](http://purl.obolibrary.org/obo/HP_0100326) (Immunologic hypersensitivity) 65.38%
+- [HP:0007479](http://purl.obolibrary.org/obo/HP_0007479) (Congenital nonbullous ichthyosiform erythroderma) and [HP:0012638](http://purl.obolibrary.org/obo/HP_0012638) (Abnormality of nervous system physiology) and [HP:0012649](http://purl.obolibrary.org/obo/HP_0012649) (Increased inflammatory response) 65.38%
+- [HP:0007479](http://purl.obolibrary.org/obo/HP_0007479) (Congenital nonbullous ichthyosiform erythroderma) and [HP:0012638](http://purl.obolibrary.org/obo/HP_0012638) (Abnormality of nervous system physiology) and [HP:0012647](http://purl.obolibrary.org/obo/HP_0012647) (Abnormal inflammatory response) 65.38%
+- [HP:0007479](http://purl.obolibrary.org/obo/HP_0007479) (Congenital nonbullous ichthyosiform erythroderma) and [HP:0011138](http://purl.obolibrary.org/obo/HP_0011138) (Abnormality of skin adnexa morphology) and [HP:0100326](http://purl.obolibrary.org/obo/HP_0100326) (Immunologic hypersensitivity) 65.38%
+- [HP:0007479](http://purl.obolibrary.org/obo/HP_0007479) (Congenital nonbullous ichthyosiform erythroderma) and [HP:0011138](http://purl.obolibrary.org/obo/HP_0011138) (Abnormality of skin adnexa morphology) and [HP:0012649](http://purl.obolibrary.org/obo/HP_0012649) (Increased inflammatory response) 65.38%
+
+

@@ -1,0 +1,27 @@
+
+### [Orphanet:183634](http://www.orpha.net/ORDO/Orphanet_183634)
+**Label:** Rare genetic parathyroid disease and phosphocalcic metabolism disorder
+
+**Subclasses:** [Orphanet:99877](http://www.orpha.net/ORDO/Orphanet_99877) (Familial parathyroid adenoma), [Orphanet:53715](http://www.orpha.net/ORDO/Orphanet_53715) (Familial tumoral calcinosis), [Orphanet:405](http://www.orpha.net/ORDO/Orphanet_405) (Familial hypocalciuric hypercalcemia), [Orphanet:300547](http://www.orpha.net/ORDO/Orphanet_300547) (Autosomal recessive infantile hypercalcemia), 
+
+**Corr. equiv. classes:** [OMIM:616963](http://purl.obolibrary.org/obo/OMIM_616963), [OMIM:211900](http://purl.obolibrary.org/obo/OMIM_211900), [OMIM:145000](http://purl.obolibrary.org/obo/OMIM_145000), [OMIM:145980](http://purl.obolibrary.org/obo/OMIM_145980), [Orphanet:300547](http://www.orpha.net/ORDO/Orphanet_300547), [OMIM:600740](http://purl.obolibrary.org/obo/OMIM_600740), [OMIM:610455](http://purl.obolibrary.org/obo/OMIM_610455), [Orphanet:405](http://www.orpha.net/ORDO/Orphanet_405), [Orphanet:53715](http://www.orpha.net/ORDO/Orphanet_53715), [Orphanet:99877](http://www.orpha.net/ORDO/Orphanet_99877), [OMIM:145981](http://purl.obolibrary.org/obo/OMIM_145981), [OMIM:143880](http://purl.obolibrary.org/obo/OMIM_143880), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0008200](http://purl.obolibrary.org/obo/HP_0008200) (Primary hyperparathyroidism) and [HP:0100685](http://purl.obolibrary.org/obo/HP_0100685) (Abnormality of Sharpey fibers) and (not ([HP:0011458](http://purl.obolibrary.org/obo/HP_0011458) (Abdominal symptom))) 62.50%
+- [HP:0008200](http://purl.obolibrary.org/obo/HP_0008200) (Primary hyperparathyroidism) and [HP:0012591](http://purl.obolibrary.org/obo/HP_0012591) (Abnormal urinary electrolyte concentration) and (not ([HP:0011458](http://purl.obolibrary.org/obo/HP_0011458) (Abdominal symptom))) 62.50%
+- [HP:0008200](http://purl.obolibrary.org/obo/HP_0008200) (Primary hyperparathyroidism) and [HP:0011280](http://purl.obolibrary.org/obo/HP_0011280) (Abnormality of urine calcium concentration) and (not ([HP:0011458](http://purl.obolibrary.org/obo/HP_0011458) (Abdominal symptom))) 62.50%
+- [HP:0008200](http://purl.obolibrary.org/obo/HP_0008200) (Primary hyperparathyroidism) and [HP:0011277](http://purl.obolibrary.org/obo/HP_0011277) (Abnormality of the urinary system physiology) and (not ([HP:0011458](http://purl.obolibrary.org/obo/HP_0011458) (Abdominal symptom))) 62.50%
+- [HP:0008200](http://purl.obolibrary.org/obo/HP_0008200) (Primary hyperparathyroidism) and [HP:0010766](http://purl.obolibrary.org/obo/HP_0010766) (Ectopic calcification) and (not ([HP:0011458](http://purl.obolibrary.org/obo/HP_0011458) (Abdominal symptom))) 62.50%
+- [HP:0003549](http://purl.obolibrary.org/obo/HP_0003549) (Abnormality of connective tissue) and [HP:0008200](http://purl.obolibrary.org/obo/HP_0008200) (Primary hyperparathyroidism) and (not ([HP:0011458](http://purl.obolibrary.org/obo/HP_0011458) (Abdominal symptom))) 62.50%
+- [HP:0003110](http://purl.obolibrary.org/obo/HP_0003110) (Abnormality of urine homeostasis) and [HP:0008200](http://purl.obolibrary.org/obo/HP_0008200) (Primary hyperparathyroidism) and (not ([HP:0011458](http://purl.obolibrary.org/obo/HP_0011458) (Abdominal symptom))) 62.50%
+- [HP:0001367](http://purl.obolibrary.org/obo/HP_0001367) (Abnormal joint morphology) and [HP:0008200](http://purl.obolibrary.org/obo/HP_0008200) (Primary hyperparathyroidism) and (not ([HP:0011458](http://purl.obolibrary.org/obo/HP_0011458) (Abdominal symptom))) 62.50%
+- [HP:0000934](http://purl.obolibrary.org/obo/HP_0000934) (Chondrocalcinosis) and [HP:0008200](http://purl.obolibrary.org/obo/HP_0008200) (Primary hyperparathyroidism) and (not ([HP:0011458](http://purl.obolibrary.org/obo/HP_0011458) (Abdominal symptom))) 62.50%
+- [HP:0008200](http://purl.obolibrary.org/obo/HP_0008200) (Primary hyperparathyroidism) and [HP:0040077](http://purl.obolibrary.org/obo/HP_0040077) (Abnormal concentration of calcium in blood) and (not ([HP:0011458](http://purl.obolibrary.org/obo/HP_0011458) (Abdominal symptom))) 61.39%
+- [HP:0008200](http://purl.obolibrary.org/obo/HP_0008200) (Primary hyperparathyroidism) and [HP:0010929](http://purl.obolibrary.org/obo/HP_0010929) (Abnormality of cation homeostasis) and (not ([HP:0011458](http://purl.obolibrary.org/obo/HP_0011458) (Abdominal symptom))) 61.39%
+- [HP:0008200](http://purl.obolibrary.org/obo/HP_0008200) (Primary hyperparathyroidism) and [HP:0010927](http://purl.obolibrary.org/obo/HP_0010927) (Abnormality of divalent inorganic cation homeostasis) and (not ([HP:0011458](http://purl.obolibrary.org/obo/HP_0011458) (Abdominal symptom))) 61.39%
+- [HP:0004363](http://purl.obolibrary.org/obo/HP_0004363) (Abnormality of calcium homeostasis) and [HP:0008200](http://purl.obolibrary.org/obo/HP_0008200) (Primary hyperparathyroidism) and (not ([HP:0011458](http://purl.obolibrary.org/obo/HP_0011458) (Abdominal symptom))) 61.39%
+- [HP:0003111](http://purl.obolibrary.org/obo/HP_0003111) (Abnormality of ion homeostasis) and [HP:0008200](http://purl.obolibrary.org/obo/HP_0008200) (Primary hyperparathyroidism) and (not ([HP:0011458](http://purl.obolibrary.org/obo/HP_0011458) (Abdominal symptom))) 61.39%
+- [HP:0003072](http://purl.obolibrary.org/obo/HP_0003072) (Hypercalcemia) and [HP:0008200](http://purl.obolibrary.org/obo/HP_0008200) (Primary hyperparathyroidism) and (not ([HP:0011458](http://purl.obolibrary.org/obo/HP_0011458) (Abdominal symptom))) 61.39%
+
+

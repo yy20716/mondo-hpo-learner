@@ -1,0 +1,27 @@
+
+### [Orphanet:98622](http://www.orpha.net/ORDO/Orphanet_98622)
+**Label:** Syndromic hyperopia
+
+**Subclasses:** [Orphanet:3163](http://www.orpha.net/ORDO/Orphanet_3163) (SHORT syndrome), [Orphanet:65](http://www.orpha.net/ORDO/Orphanet_65) (Leber congenital amaurosis), 
+
+**Corr. equiv. classes:** [OMIM:604537](http://purl.obolibrary.org/obo/OMIM_604537), [OMIM:269880](http://purl.obolibrary.org/obo/OMIM_269880), [Orphanet:65](http://www.orpha.net/ORDO/Orphanet_65), [Orphanet:3163](http://www.orpha.net/ORDO/Orphanet_3163), [OMIM:615360](http://purl.obolibrary.org/obo/OMIM_615360), [OMIM:614186](http://purl.obolibrary.org/obo/OMIM_614186), [OMIM:179900](http://purl.obolibrary.org/obo/OMIM_179900), [OMIM:613341](http://purl.obolibrary.org/obo/OMIM_613341), [OMIM:204000](http://purl.obolibrary.org/obo/OMIM_204000), [OMIM:204100](http://purl.obolibrary.org/obo/OMIM_204100), [OMIM:613843](http://purl.obolibrary.org/obo/OMIM_613843), [OMIM:612712](http://purl.obolibrary.org/obo/OMIM_612712), [OMIM:611755](http://purl.obolibrary.org/obo/OMIM_611755), [OMIM:610612](http://purl.obolibrary.org/obo/OMIM_610612), [OMIM:604232](http://purl.obolibrary.org/obo/OMIM_604232), [OMIM:613835](http://purl.obolibrary.org/obo/OMIM_613835), [OMIM:608553](http://purl.obolibrary.org/obo/OMIM_608553), [OMIM:613837](http://purl.obolibrary.org/obo/OMIM_613837), [OMIM:613826](http://purl.obolibrary.org/obo/OMIM_613826), [OMIM:613829](http://purl.obolibrary.org/obo/OMIM_613829), [OMIM:604393](http://purl.obolibrary.org/obo/OMIM_604393), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0000007](http://purl.obolibrary.org/obo/HP_0000007) (Autosomal recessive inheritance) and [HP:0000563](http://purl.obolibrary.org/obo/HP_0000563) (Keratoconus) and [HP:0030453](http://purl.obolibrary.org/obo/HP_0030453) (Abnormal visual electrophysiology) 64.29%
+- [HP:0000007](http://purl.obolibrary.org/obo/HP_0000007) (Autosomal recessive inheritance) and [HP:0000512](http://purl.obolibrary.org/obo/HP_0000512) (Abnormal electroretinogram) and [HP:0000563](http://purl.obolibrary.org/obo/HP_0000563) (Keratoconus) 64.29%
+- [HP:0000007](http://purl.obolibrary.org/obo/HP_0000007) (Autosomal recessive inheritance) and [HP:0000504](http://purl.obolibrary.org/obo/HP_0000504) (Abnormality of vision) and [HP:0000512](http://purl.obolibrary.org/obo/HP_0000512) (Abnormal electroretinogram) and [HP:0000563](http://purl.obolibrary.org/obo/HP_0000563) (Keratoconus) 64.29%
+- [HP:0000005](http://purl.obolibrary.org/obo/HP_0000005) (Mode of inheritance) and [HP:0000504](http://purl.obolibrary.org/obo/HP_0000504) (Abnormality of vision) and [HP:0000512](http://purl.obolibrary.org/obo/HP_0000512) (Abnormal electroretinogram) and [HP:0000563](http://purl.obolibrary.org/obo/HP_0000563) (Keratoconus) 64.29%
+- [HP:0000504](http://purl.obolibrary.org/obo/HP_0000504) (Abnormality of vision) and [HP:0000563](http://purl.obolibrary.org/obo/HP_0000563) (Keratoconus) and [HP:0030453](http://purl.obolibrary.org/obo/HP_0030453) (Abnormal visual electrophysiology) 63.44%
+- [HP:0000504](http://purl.obolibrary.org/obo/HP_0000504) (Abnormality of vision) and [HP:0000512](http://purl.obolibrary.org/obo/HP_0000512) (Abnormal electroretinogram) and [HP:0000563](http://purl.obolibrary.org/obo/HP_0000563) (Keratoconus) 63.44%
+- [HP:0000563](http://purl.obolibrary.org/obo/HP_0000563) (Keratoconus) and [HP:0030453](http://purl.obolibrary.org/obo/HP_0030453) (Abnormal visual electrophysiology) 60.76%
+- [HP:0000512](http://purl.obolibrary.org/obo/HP_0000512) (Abnormal electroretinogram) and [HP:0000563](http://purl.obolibrary.org/obo/HP_0000563) (Keratoconus) 60.76%
+- [HP:0000563](http://purl.obolibrary.org/obo/HP_0000563) (Keratoconus) and [HP:0012547](http://purl.obolibrary.org/obo/HP_0012547) (Abnormal involuntary eye movements) and [HP:0030453](http://purl.obolibrary.org/obo/HP_0030453) (Abnormal visual electrophysiology) 60.58%
+- [HP:0000563](http://purl.obolibrary.org/obo/HP_0000563) (Keratoconus) and [HP:0000639](http://purl.obolibrary.org/obo/HP_0000639) (Nystagmus) and [HP:0030453](http://purl.obolibrary.org/obo/HP_0030453) (Abnormal visual electrophysiology) 60.58%
+- [HP:0000518](http://purl.obolibrary.org/obo/HP_0000518) (Cataract) and [HP:0000563](http://purl.obolibrary.org/obo/HP_0000563) (Keratoconus) and [HP:0030453](http://purl.obolibrary.org/obo/HP_0030453) (Abnormal visual electrophysiology) 60.58%
+- [HP:0000517](http://purl.obolibrary.org/obo/HP_0000517) (Abnormality of the lens) and [HP:0000563](http://purl.obolibrary.org/obo/HP_0000563) (Keratoconus) and [HP:0030453](http://purl.obolibrary.org/obo/HP_0030453) (Abnormal visual electrophysiology) 60.58%
+- [HP:0000512](http://purl.obolibrary.org/obo/HP_0000512) (Abnormal electroretinogram) and [HP:0000563](http://purl.obolibrary.org/obo/HP_0000563) (Keratoconus) and [HP:0012547](http://purl.obolibrary.org/obo/HP_0012547) (Abnormal involuntary eye movements) 60.58%
+- [HP:0000512](http://purl.obolibrary.org/obo/HP_0000512) (Abnormal electroretinogram) and [HP:0000563](http://purl.obolibrary.org/obo/HP_0000563) (Keratoconus) and [HP:0000639](http://purl.obolibrary.org/obo/HP_0000639) (Nystagmus) 60.58%
+- [HP:0000512](http://purl.obolibrary.org/obo/HP_0000512) (Abnormal electroretinogram) and [HP:0000518](http://purl.obolibrary.org/obo/HP_0000518) (Cataract) and [HP:0000563](http://purl.obolibrary.org/obo/HP_0000563) (Keratoconus) 60.58%
+
+

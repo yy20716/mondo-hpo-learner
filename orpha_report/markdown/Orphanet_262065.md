@@ -1,0 +1,27 @@
+
+### [Orphanet:262065](http://www.orpha.net/ORDO/Orphanet_262065)
+**Label:** Partial deletion of the long arm of chromosome 8
+
+**Subclasses:** [Orphanet:178303](http://www.orpha.net/ORDO/Orphanet_178303) (8q22.1 microdeletion syndrome), [Orphanet:502](http://www.orpha.net/ORDO/Orphanet_502) (Langer-Giedion syndrome), [Orphanet:2496](http://www.orpha.net/ORDO/Orphanet_2496) (Mesomelia-synostoses syndrome), [Orphanet:284160](http://www.orpha.net/ORDO/Orphanet_284160) (8q21.11 microdeletion syndrome), 
+
+**Corr. equiv. classes:** [Orphanet:178303](http://www.orpha.net/ORDO/Orphanet_178303), [OMIM:600383](http://purl.obolibrary.org/obo/OMIM_600383), [Orphanet:2496](http://www.orpha.net/ORDO/Orphanet_2496), [OMIM:608156](http://purl.obolibrary.org/obo/OMIM_608156), [Orphanet:284160](http://www.orpha.net/ORDO/Orphanet_284160), [OMIM:150230](http://purl.obolibrary.org/obo/OMIM_150230), [OMIM:614230](http://purl.obolibrary.org/obo/OMIM_614230), [Orphanet:502](http://www.orpha.net/ORDO/Orphanet_502), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0005039](http://purl.obolibrary.org/obo/HP_0005039) (Multiple long-bone exostoses) 62.50%
+- [HP:0005039](http://purl.obolibrary.org/obo/HP_0005039) (Multiple long-bone exostoses) and [HP:0100547](http://purl.obolibrary.org/obo/HP_0100547) (Abnormality of forebrain morphology) 62.50%
+- [HP:0005039](http://purl.obolibrary.org/obo/HP_0005039) (Multiple long-bone exostoses) and [HP:0100323](http://purl.obolibrary.org/obo/HP_0100323) (Juvenile aseptic necrosis) 62.50%
+- [HP:0005039](http://purl.obolibrary.org/obo/HP_0005039) (Multiple long-bone exostoses) and [HP:0100037](http://purl.obolibrary.org/obo/HP_0100037) (Abnormality of the scalp hair) 62.50%
+- [HP:0005039](http://purl.obolibrary.org/obo/HP_0005039) (Multiple long-bone exostoses) and [HP:0040195](http://purl.obolibrary.org/obo/HP_0040195) (Decreased head circumference) 62.50%
+- [HP:0005039](http://purl.obolibrary.org/obo/HP_0005039) (Multiple long-bone exostoses) and [HP:0040069](http://purl.obolibrary.org/obo/HP_0040069) (Abnormality of lower limb bone) 62.50%
+- [HP:0005039](http://purl.obolibrary.org/obo/HP_0005039) (Multiple long-bone exostoses) and [HP:0040068](http://purl.obolibrary.org/obo/HP_0040068) (Abnormality of limb bone) 62.50%
+- [HP:0005039](http://purl.obolibrary.org/obo/HP_0005039) (Multiple long-bone exostoses) and [HP:0040066](http://purl.obolibrary.org/obo/HP_0040066) (Abnormal morphology of bones of the lower limbs) 62.50%
+- [HP:0005039](http://purl.obolibrary.org/obo/HP_0005039) (Multiple long-bone exostoses) and [HP:0040064](http://purl.obolibrary.org/obo/HP_0040064) (Abnormality of limbs) 62.50%
+- [HP:0005039](http://purl.obolibrary.org/obo/HP_0005039) (Multiple long-bone exostoses) and [HP:0012759](http://purl.obolibrary.org/obo/HP_0012759) (Neurodevelopmental abnormality) 62.50%
+- [HP:0005039](http://purl.obolibrary.org/obo/HP_0005039) (Multiple long-bone exostoses) and [HP:0012639](http://purl.obolibrary.org/obo/HP_0012639) (Abnormality of nervous system morphology) 62.50%
+- [HP:0005039](http://purl.obolibrary.org/obo/HP_0005039) (Multiple long-bone exostoses) and [HP:0012638](http://purl.obolibrary.org/obo/HP_0012638) (Abnormality of nervous system physiology) 62.50%
+- [HP:0005039](http://purl.obolibrary.org/obo/HP_0005039) (Multiple long-bone exostoses) and [HP:0012443](http://purl.obolibrary.org/obo/HP_0012443) (Abnormality of brain morphology) 62.50%
+- [HP:0005039](http://purl.obolibrary.org/obo/HP_0005039) (Multiple long-bone exostoses) and [HP:0011844](http://purl.obolibrary.org/obo/HP_0011844) (Abnormal appendicular skeleton morphology) 62.50%
+- [HP:0005039](http://purl.obolibrary.org/obo/HP_0005039) (Multiple long-bone exostoses) and [HP:0011843](http://purl.obolibrary.org/obo/HP_0011843) (Abnormality of skeletal physiology) 62.50%
+
+

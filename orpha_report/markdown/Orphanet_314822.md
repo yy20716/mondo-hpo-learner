@@ -1,0 +1,27 @@
+
+### [Orphanet:314822](http://www.orpha.net/ORDO/Orphanet_314822)
+**Label:** Primary renal tubular acidosis
+
+**Subclasses:** [Orphanet:47159](http://www.orpha.net/ORDO/Orphanet_47159) (Proximal renal tubular acidosis), [Orphanet:18](http://www.orpha.net/ORDO/Orphanet_18) (Distal renal tubular acidosis), [Orphanet:2785](http://www.orpha.net/ORDO/Orphanet_2785) (Osteopetrosis with renal tubular acidosis), 
+
+**Corr. equiv. classes:** [OMIM:267200](http://purl.obolibrary.org/obo/OMIM_267200), [OMIM:602722](http://purl.obolibrary.org/obo/OMIM_602722), [OMIM:604278](http://purl.obolibrary.org/obo/OMIM_604278), [OMIM:179830](http://purl.obolibrary.org/obo/OMIM_179830), [Orphanet:47159](http://www.orpha.net/ORDO/Orphanet_47159), [OMIM:179800](http://purl.obolibrary.org/obo/OMIM_179800), [Orphanet:2785](http://www.orpha.net/ORDO/Orphanet_2785), [OMIM:267300](http://purl.obolibrary.org/obo/OMIM_267300), [OMIM:259730](http://purl.obolibrary.org/obo/OMIM_259730), [Orphanet:18](http://www.orpha.net/ORDO/Orphanet_18), [OMIM:611590](http://purl.obolibrary.org/obo/OMIM_611590), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0001947](http://purl.obolibrary.org/obo/HP_0001947) (Renal tubular acidosis) and [HP:0003768](http://purl.obolibrary.org/obo/HP_0003768) (Periodic paralysis) and [HP:0011849](http://purl.obolibrary.org/obo/HP_0011849) (Abnormal bone ossification) 63.64%
+- [HP:0001947](http://purl.obolibrary.org/obo/HP_0001947) (Renal tubular acidosis) and [HP:0003768](http://purl.obolibrary.org/obo/HP_0003768) (Periodic paralysis) and [HP:0004348](http://purl.obolibrary.org/obo/HP_0004348) (Abnormality of bone mineral density) 63.64%
+- [HP:0001947](http://purl.obolibrary.org/obo/HP_0001947) (Renal tubular acidosis) and [HP:0003470](http://purl.obolibrary.org/obo/HP_0003470) (Paralysis) and [HP:0011849](http://purl.obolibrary.org/obo/HP_0011849) (Abnormal bone ossification) 63.64%
+- [HP:0001947](http://purl.obolibrary.org/obo/HP_0001947) (Renal tubular acidosis) and [HP:0003470](http://purl.obolibrary.org/obo/HP_0003470) (Paralysis) and [HP:0004348](http://purl.obolibrary.org/obo/HP_0004348) (Abnormality of bone mineral density) 63.64%
+- [HP:0000005](http://purl.obolibrary.org/obo/HP_0000005) (Mode of inheritance) and [HP:0001947](http://purl.obolibrary.org/obo/HP_0001947) (Renal tubular acidosis) and [HP:0011442](http://purl.obolibrary.org/obo/HP_0011442) (Abnormality of central motor function) and [HP:0011849](http://purl.obolibrary.org/obo/HP_0011849) (Abnormal bone ossification) 63.64%
+- [HP:0000005](http://purl.obolibrary.org/obo/HP_0000005) (Mode of inheritance) and [HP:0001947](http://purl.obolibrary.org/obo/HP_0001947) (Renal tubular acidosis) and [HP:0004348](http://purl.obolibrary.org/obo/HP_0004348) (Abnormality of bone mineral density) and [HP:0011442](http://purl.obolibrary.org/obo/HP_0011442) (Abnormality of central motor function) 63.64%
+- [HP:0000005](http://purl.obolibrary.org/obo/HP_0000005) (Mode of inheritance) and [HP:0001947](http://purl.obolibrary.org/obo/HP_0001947) (Renal tubular acidosis) and [HP:0003768](http://purl.obolibrary.org/obo/HP_0003768) (Periodic paralysis) and [HP:0011849](http://purl.obolibrary.org/obo/HP_0011849) (Abnormal bone ossification) 63.64%
+- [HP:0000005](http://purl.obolibrary.org/obo/HP_0000005) (Mode of inheritance) and [HP:0001947](http://purl.obolibrary.org/obo/HP_0001947) (Renal tubular acidosis) and [HP:0003768](http://purl.obolibrary.org/obo/HP_0003768) (Periodic paralysis) and [HP:0004348](http://purl.obolibrary.org/obo/HP_0004348) (Abnormality of bone mineral density) 63.64%
+- [HP:0000005](http://purl.obolibrary.org/obo/HP_0000005) (Mode of inheritance) and [HP:0001947](http://purl.obolibrary.org/obo/HP_0001947) (Renal tubular acidosis) and [HP:0003470](http://purl.obolibrary.org/obo/HP_0003470) (Paralysis) and [HP:0011849](http://purl.obolibrary.org/obo/HP_0011849) (Abnormal bone ossification) 63.64%
+- [HP:0000005](http://purl.obolibrary.org/obo/HP_0000005) (Mode of inheritance) and [HP:0001947](http://purl.obolibrary.org/obo/HP_0001947) (Renal tubular acidosis) and [HP:0003470](http://purl.obolibrary.org/obo/HP_0003470) (Paralysis) and [HP:0004348](http://purl.obolibrary.org/obo/HP_0004348) (Abnormality of bone mineral density) 63.64%
+- [HP:0001947](http://purl.obolibrary.org/obo/HP_0001947) (Renal tubular acidosis) 57.28%
+- [HP:0001947](http://purl.obolibrary.org/obo/HP_0001947) (Renal tubular acidosis) and [HP:0011442](http://purl.obolibrary.org/obo/HP_0011442) (Abnormality of central motor function) and [HP:0011849](http://purl.obolibrary.org/obo/HP_0011849) (Abnormal bone ossification) 56.94%
+- [HP:0001947](http://purl.obolibrary.org/obo/HP_0001947) (Renal tubular acidosis) and [HP:0004348](http://purl.obolibrary.org/obo/HP_0004348) (Abnormality of bone mineral density) and [HP:0011442](http://purl.obolibrary.org/obo/HP_0011442) (Abnormality of central motor function) 56.94%
+- [HP:0000005](http://purl.obolibrary.org/obo/HP_0000005) (Mode of inheritance) and [HP:0001947](http://purl.obolibrary.org/obo/HP_0001947) (Renal tubular acidosis) and [HP:0011849](http://purl.obolibrary.org/obo/HP_0011849) (Abnormal bone ossification) 56.94%
+- [HP:0000005](http://purl.obolibrary.org/obo/HP_0000005) (Mode of inheritance) and [HP:0001947](http://purl.obolibrary.org/obo/HP_0001947) (Renal tubular acidosis) and [HP:0004348](http://purl.obolibrary.org/obo/HP_0004348) (Abnormality of bone mineral density) 56.94%
+
+

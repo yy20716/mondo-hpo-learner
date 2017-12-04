@@ -1,0 +1,27 @@
+
+### [Orphanet:209199](http://www.orpha.net/ORDO/Orphanet_209199)
+**Label:** Qualitative or quantitative defects of protein SERCA1
+
+**Subclasses:** [Orphanet:53347](http://www.orpha.net/ORDO/Orphanet_53347) (Brody myopathy), [Orphanet:88635](http://www.orpha.net/ORDO/Orphanet_88635) (Myopathy due to calsequestrin and SERCA1 protein overload), 
+
+**Corr. equiv. classes:** [Orphanet:53347](http://www.orpha.net/ORDO/Orphanet_53347), [OMIM:601003](http://purl.obolibrary.org/obo/OMIM_601003), [Orphanet:88635](http://www.orpha.net/ORDO/Orphanet_88635), [OMIM:616231](http://purl.obolibrary.org/obo/OMIM_616231), 
+
+**Class expressions from DL-Learner:**
+
+- [HP:0003388](http://purl.obolibrary.org/obo/HP_0003388) (Easy fatigability) and [HP:0003394](http://purl.obolibrary.org/obo/HP_0003394) (Muscle cramps) and [HP:0025142](http://purl.obolibrary.org/obo/HP_0025142) (Constitutional symptom) 47.86%
+- [HP:0003388](http://purl.obolibrary.org/obo/HP_0003388) (Easy fatigability) and [HP:0003394](http://purl.obolibrary.org/obo/HP_0003394) (Muscle cramps) and [HP:0012531](http://purl.obolibrary.org/obo/HP_0012531) (Pain) 47.86%
+- [HP:0003326](http://purl.obolibrary.org/obo/HP_0003326) (Myalgia) and [HP:0003388](http://purl.obolibrary.org/obo/HP_0003388) (Easy fatigability) and [HP:0003394](http://purl.obolibrary.org/obo/HP_0003394) (Muscle cramps) 47.86%
+- [HP:0003388](http://purl.obolibrary.org/obo/HP_0003388) (Easy fatigability) and [HP:0003394](http://purl.obolibrary.org/obo/HP_0003394) (Muscle cramps) and [HP:0025142](http://purl.obolibrary.org/obo/HP_0025142) (Constitutional symptom) and [HP:0040081](http://purl.obolibrary.org/obo/HP_0040081) (Abnormal levels of creatine kinase in blood) 47.86%
+- [HP:0003388](http://purl.obolibrary.org/obo/HP_0003388) (Easy fatigability) and [HP:0003394](http://purl.obolibrary.org/obo/HP_0003394) (Muscle cramps) and [HP:0012531](http://purl.obolibrary.org/obo/HP_0012531) (Pain) and [HP:0040081](http://purl.obolibrary.org/obo/HP_0040081) (Abnormal levels of creatine kinase in blood) 47.86%
+- [HP:0003388](http://purl.obolibrary.org/obo/HP_0003388) (Easy fatigability) and [HP:0003394](http://purl.obolibrary.org/obo/HP_0003394) (Muscle cramps) and [HP:0011021](http://purl.obolibrary.org/obo/HP_0011021) (Abnormality of circulating enzyme level) and [HP:0025142](http://purl.obolibrary.org/obo/HP_0025142) (Constitutional symptom) 47.86%
+- [HP:0003388](http://purl.obolibrary.org/obo/HP_0003388) (Easy fatigability) and [HP:0003394](http://purl.obolibrary.org/obo/HP_0003394) (Muscle cramps) and [HP:0011021](http://purl.obolibrary.org/obo/HP_0011021) (Abnormality of circulating enzyme level) and [HP:0012531](http://purl.obolibrary.org/obo/HP_0012531) (Pain) 47.86%
+- [HP:0003388](http://purl.obolibrary.org/obo/HP_0003388) (Easy fatigability) and [HP:0003394](http://purl.obolibrary.org/obo/HP_0003394) (Muscle cramps) and [HP:0010876](http://purl.obolibrary.org/obo/HP_0010876) (Abnormality of circulating protein level) and [HP:0025142](http://purl.obolibrary.org/obo/HP_0025142) (Constitutional symptom) 47.86%
+- [HP:0003388](http://purl.obolibrary.org/obo/HP_0003388) (Easy fatigability) and [HP:0003394](http://purl.obolibrary.org/obo/HP_0003394) (Muscle cramps) and [HP:0010876](http://purl.obolibrary.org/obo/HP_0010876) (Abnormality of circulating protein level) and [HP:0012531](http://purl.obolibrary.org/obo/HP_0012531) (Pain) 47.86%
+- [HP:0003326](http://purl.obolibrary.org/obo/HP_0003326) (Myalgia) and [HP:0003388](http://purl.obolibrary.org/obo/HP_0003388) (Easy fatigability) and [HP:0003394](http://purl.obolibrary.org/obo/HP_0003394) (Muscle cramps) and [HP:0040081](http://purl.obolibrary.org/obo/HP_0040081) (Abnormal levels of creatine kinase in blood) 47.86%
+- [HP:0003326](http://purl.obolibrary.org/obo/HP_0003326) (Myalgia) and [HP:0003388](http://purl.obolibrary.org/obo/HP_0003388) (Easy fatigability) and [HP:0003394](http://purl.obolibrary.org/obo/HP_0003394) (Muscle cramps) and [HP:0011021](http://purl.obolibrary.org/obo/HP_0011021) (Abnormality of circulating enzyme level) 47.86%
+- [HP:0003326](http://purl.obolibrary.org/obo/HP_0003326) (Myalgia) and [HP:0003388](http://purl.obolibrary.org/obo/HP_0003388) (Easy fatigability) and [HP:0003394](http://purl.obolibrary.org/obo/HP_0003394) (Muscle cramps) and [HP:0010876](http://purl.obolibrary.org/obo/HP_0010876) (Abnormality of circulating protein level) 47.86%
+- [HP:0003236](http://purl.obolibrary.org/obo/HP_0003236) (Elevated serum creatine phosphokinase) and [HP:0003388](http://purl.obolibrary.org/obo/HP_0003388) (Easy fatigability) and [HP:0003394](http://purl.obolibrary.org/obo/HP_0003394) (Muscle cramps) and [HP:0025142](http://purl.obolibrary.org/obo/HP_0025142) (Constitutional symptom) 47.86%
+- [HP:0003236](http://purl.obolibrary.org/obo/HP_0003236) (Elevated serum creatine phosphokinase) and [HP:0003388](http://purl.obolibrary.org/obo/HP_0003388) (Easy fatigability) and [HP:0003394](http://purl.obolibrary.org/obo/HP_0003394) (Muscle cramps) and [HP:0012531](http://purl.obolibrary.org/obo/HP_0012531) (Pain) 47.86%
+- [HP:0003236](http://purl.obolibrary.org/obo/HP_0003236) (Elevated serum creatine phosphokinase) and [HP:0003326](http://purl.obolibrary.org/obo/HP_0003326) (Myalgia) and [HP:0003388](http://purl.obolibrary.org/obo/HP_0003388) (Easy fatigability) and [HP:0003394](http://purl.obolibrary.org/obo/HP_0003394) (Muscle cramps) 47.86%
+
+
