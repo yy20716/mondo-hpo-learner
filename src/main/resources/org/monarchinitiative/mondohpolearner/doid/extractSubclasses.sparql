@@ -12,5 +12,4 @@ SELECT ?class ?subclass ?source WHERE {
 	FILTER(!isBlank(?class))
 	# for now we only consider/extract OMIM or Orphanet classes from doid.
 	FILTER(contains(?source,"OMIM") || contains(?source,"ORDO"))
-	# FILTER(contains(str(?class), "DOID_10595"))
 }

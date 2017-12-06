@@ -40,6 +40,7 @@ public class Preprocessor {
 	public Multimap<String, OWLIndividual> classParamMap;
 	public Multimap<String, String> classEqEntityMap;
 	public Multimap<String, String> classSubClassMap;
+	public QueryExecutor queryExecutor;
 	public CurieUtil curieUtil;
 	
 	public void run() {
@@ -86,7 +87,7 @@ public class Preprocessor {
 			FileWriter out = new FileWriter(file);
 			model.write(out, "RDF/XML");
 		} catch (Exception e) {
-			logger.error(e.getMessage());
+			logger.error(e.getMessage(), e);
 		}
 	}
 
@@ -106,7 +107,7 @@ public class Preprocessor {
 
 	protected void computeClassMappings() {
 		logger.info("Computing all subclasses and equivalent entities from " + Processor.inputOWLFile + "...");
-		ResultSet resultSet = QueryExecutor.executeOnce (Processor.inputOWLFile, Processor.queryExtractSubclasses);
+		ResultSet resultSet = QueryExecutor.executeSelectOnce (Processor.inputOWLFile, Processor.queryExtractSubclasses);
 
 		while (resultSet.hasNext()) {
 			QuerySolution binding = resultSet.nextSolution();

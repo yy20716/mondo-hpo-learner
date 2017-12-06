@@ -22,7 +22,7 @@ public class CurieMapGenerator {
 			Map<String, String> curieMap = (Map<String, String>) yaml.load(inputStream);
 			return curieMap;
 		} catch (Exception e) {
-			logger.error(e.getMessage());
+			logger.error(e.getMessage(), e);
 		}
 		return null;
 	}

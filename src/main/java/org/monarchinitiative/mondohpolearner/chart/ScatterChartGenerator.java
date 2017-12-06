@@ -126,7 +126,7 @@ public class ScatterChartGenerator {
 	}
 
 	private void computeClassMappings() {
-		ResultSet resultSet = QueryExecutor.executeOnce (MondoProcessor.inputOWLFile, Main.queryExtractEqClasses);
+		ResultSet resultSet = QueryExecutor.executeSelectOnce (MondoProcessor.inputOWLFile, Main.queryExtractEqClasses);
 
 		while (resultSet.hasNext()) {
 			QuerySolution binding = resultSet.nextSolution();

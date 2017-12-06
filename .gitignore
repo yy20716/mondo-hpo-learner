@@ -38,6 +38,7 @@ buildNumber.properties
 .project
 .settings
 *.owl
+*.nt
 *.obo
 *.tab
 log

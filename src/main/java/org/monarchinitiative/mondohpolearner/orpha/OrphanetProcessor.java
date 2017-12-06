@@ -18,16 +18,9 @@ public class OrphanetProcessor extends Processor{
 		markdownDir = reportHomeDir + File.separator + "markdown";
 		hpofilewithAbox = "hpwithorphaabox.owl";
 		queryExtractSubclasses = "src/main/resources/org/monarchinitiative/mondohpolearner/orpha/extractSubclasses.sparql";
+		queryExecutor.loadModel(Processor.inputOWLFile);
 		
 		pp = new OrphanetPreprocessor ();
-		pp.curieUtil = this.curieUtil;
-		pp.classEqEntityMap = this.classEqEntityMap;
-		pp.classParamMap = this.classParamMap;
-		pp.classSubClassMap = this.classSubClassMap;
-		
 		reportGenerator = new OrphanetReportGenerator ();
-		reportGenerator.curieUtil = this.curieUtil;
-		reportGenerator.classEqEntityMap =  this.classEqEntityMap;
-		reportGenerator.classSubclassMap = this.classSubClassMap;
 	}
 }

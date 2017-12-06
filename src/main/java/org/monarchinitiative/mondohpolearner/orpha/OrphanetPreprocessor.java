@@ -22,7 +22,7 @@ public class OrphanetPreprocessor extends Preprocessor {
 	@Override
 	protected void computeClassMappings() {
 		logger.info("Computing all subclasses and equivalent entities from " + Processor.inputOWLFile + "...");
-		ResultSet resultSet = QueryExecutor.executeOnce (Processor.inputOWLFile, Processor.queryExtractSubclasses);
+		ResultSet resultSet = QueryExecutor.executeSelectOnce (Processor.inputOWLFile, Processor.queryExtractSubclasses);
 
 		while (resultSet.hasNext()) {
 			QuerySolution binding = resultSet.nextSolution();

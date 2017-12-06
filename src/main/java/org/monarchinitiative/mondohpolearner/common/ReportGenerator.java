@@ -48,12 +48,11 @@ public class ReportGenerator {
 
 	public Multimap<String, String> classSubclassMap;
 	public Multimap<String, String> classEqEntityMap;
-	public Map<String, Set<? extends EvaluatedDescription>> classResultMap;
 	public CurieUtil curieUtil;
+	public QueryExecutor queryExecutor;
 	
 	protected OWLObjectRenderer renderer = StringRenderer.getRenderer();
 	protected DecimalFormat dfPercent = new DecimalFormat("0.00%");	
-	protected QueryExecutor queryExecutor = new QueryExecutor();
 	protected String newLineChar = System.getProperty("line.separator");
 	protected Map<String, String> entityLabelMap = Maps.newHashMap();
 	protected String version;
@@ -66,18 +65,16 @@ public class ReportGenerator {
 			FileUtils.forceMkdir(new File(Processor.reportHomeDir));
 			FileUtils.forceMkdir(new File(Processor.markdownDir));
 		} catch (Exception e) {
-			logger.error(e.getMessage());
+			logger.error(e.getMessage(), e);
 		}
 	}
 	
 	/* pre-compute all labels (rdfs:label)for doid classes */ 
 	public void precomputeLabels() {
-		queryExecutor.loadModel(Processor.inputOWLFile);
-
 		/* 1. extract versionIRIs from doid ontology, 
 		 * e.g., <http://purl.obolibrary.org/obo/doid/releases/2017-11-10/doid.owl> 
 		 * We assume that there will be only one version URI in datasets.*/
-		ResultSet versionResultSet = queryExecutor.execute(Main.queryExtractVersion);
+		ResultSet versionResultSet = queryExecutor.executeSelect(Main.queryExtractVersion);
 		while (versionResultSet.hasNext()) {
 			QuerySolution binding = versionResultSet.nextSolution();
 			Resource versionRsrc = (Resource)binding.get("version");
@@ -85,7 +82,7 @@ public class ReportGenerator {
 		}
 
 		/* 2. extract class labels from doid.owl */
-		ResultSet labelResultSet = queryExecutor.execute(Main.queryComputeEntityLabel);
+		ResultSet labelResultSet = queryExecutor.executeSelect(Main.queryComputeEntityLabel);
 		while (labelResultSet.hasNext()) {
 			QuerySolution binding = labelResultSet.nextSolution();
 			Resource classRsrc = (Resource)binding.get("class");
@@ -94,7 +91,7 @@ public class ReportGenerator {
 		}
 
 		/* 3. extract class labels from hp.owl */
-		ResultSet hpResultSet = QueryExecutor.executeOnce("hp.owl", Main.queryComputeEntityLabel);
+		ResultSet hpResultSet = QueryExecutor.executeSelectOnce("hp.owl", Main.queryComputeEntityLabel);
 		while (hpResultSet.hasNext()) {
 			QuerySolution binding = hpResultSet.nextSolution();
 			Resource classRsrc = (Resource)binding.get("class");
@@ -160,7 +157,7 @@ public class ReportGenerator {
 			out.flush();
 			out.close();
 		} catch (Exception e) {
-			logger.error(e.getMessage());
+			logger.error(e.getMessage(), e);
 		}
 	}
 
@@ -193,7 +190,7 @@ public class ReportGenerator {
 
 	/* render and write a report file */
 	@SuppressWarnings("unchecked")
-	public void render(String classCurie) {
+	public void render(String classCurie, Set<? extends EvaluatedDescription> learnedExprs) {
 		StringBuilder sb = new StringBuilder();
 		logger.info("Rendering a report file...");
 		try{
@@ -212,11 +209,10 @@ public class ReportGenerator {
 			sb.append(new BoldText("Class expressions from DL-Learner:")).append(newLineChar).append(newLineChar);
 
 			List<String> resultList = Lists.newArrayList();
-			Set<? extends EvaluatedDescription> resultSet = classResultMap.get(classCurie);
-			if (resultSet == null ) {
+			if (learnedExprs == null ) {
 				sb.append("No results from DL-Learner...").append(newLineChar);
 			} else {
-				for(EvaluatedDescription<? extends Score> ed : resultSet) {
+				for(EvaluatedDescription<? extends Score> ed : learnedExprs) {
 					OWLClassExpression description = ed.getDescription();
 					Set<OWLClass> hpClasses = description.getClassesInSignature();
 					String hpClassExprStr =  renderer.render(description);
@@ -248,7 +244,7 @@ public class ReportGenerator {
 			out.flush();
 			out.close();
 		} catch (Exception e) {
-			logger.error(e.getMessage());
+			logger.error(e.getMessage(), e);
 		}
 	}
 }

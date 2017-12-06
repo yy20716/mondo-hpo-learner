@@ -11,6 +11,7 @@ import org.monarchinitiative.mondohpolearner.chart.BarChartGenerator;
 import org.monarchinitiative.mondohpolearner.chart.ScatterChartGenerator;
 import org.monarchinitiative.mondohpolearner.doid.DoidProcessor;
 import org.monarchinitiative.mondohpolearner.mondo.MondoProcessor;
+import org.monarchinitiative.mondohpolearner.ncit.NCITProcessor;
 import org.monarchinitiative.mondohpolearner.orpha.OrphanetProcessor;
 
 public class Main {
@@ -37,6 +38,12 @@ public class Main {
 				.required(false)
 				.desc("learn class expressions over ordo_orphanet.owl")
 				.build();
+
+		Option ncitOption = Option.builder("n")
+				.longOpt("NCIT")
+				.required(false)
+				.desc("learn class expressions over ncit.owl")
+				.build();
 		
 		Option chartOption = Option.builder("c")
 				.longOpt("chart")
@@ -48,6 +55,7 @@ public class Main {
 		options.addOption(mondoOption);
 		options.addOption(doidOption);
 		options.addOption(orphaOption);
+		options.addOption(ncitOption);
 		options.addOption(chartOption);
 
 		try {
@@ -66,6 +74,10 @@ public class Main {
 			else if (cmdLine.hasOption("o")) {
 				OrphanetProcessor opr = new OrphanetProcessor();
 				opr.run();
+			} 
+			else if (cmdLine.hasOption("n")) {
+				NCITProcessor npr = new NCITProcessor();
+				npr.run();
 			}
 			else if (cmdLine.hasOption("c")) {
 				ScatterChartGenerator scg = new ScatterChartGenerator();
