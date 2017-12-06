@@ -52,7 +52,7 @@ public class NCITProcessor extends Processor{
 		List<String> classKeyList = new ArrayList<>(classParamMap.asMap().keySet());
 
 		for (String classCurie : classKeyList) {
-			logger.info("classCurie: " + classCurie);
+			/* logger.info("classCurie: " + classCurie); */
 			if (classCurie.contains("NCIT") != true) continue;
 			
 			File f = new File(markdownDir + File.separator + classCurie.replace(":", "_") + ".md");
