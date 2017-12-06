@@ -8,5 +8,6 @@ SELECT ?subclass ?intclass ?someclass WHERE {
 	OPTIONAL {
 		?intclass owl:someValuesFrom ?someclass .
 	}
+	
 	FILTER(?intclass NOT IN (owl:Thing))
 }

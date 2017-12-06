@@ -32,7 +32,9 @@ import com.google.common.collect.Multimap;
 import com.google.common.collect.Multimaps;
 
 public class Processor {
-	private static final Logger logger = Logger.getLogger(Processor.class.getName()); 
+	private static final Logger logger = Logger.getLogger(Processor.class.getName());
+	protected static final Integer threadNumber = 32;
+	
 	public Preprocessor pp;
 	public ReportGenerator reportGenerator;
 	public CurieUtil curieUtil;
@@ -51,9 +53,9 @@ public class Processor {
 	/* key: class (curie), value: a list of mondo subclasses */
 	public Multimap<String, String> classSubClassMap = Multimaps.newSetMultimap(new LinkedHashMap<>(), HashSet::new);
 
-	private OWLFile ks;
-	private OWLAPIReasoner reasoner;
-	private ClosedWorldReasoner closedWorldReasoner; 
+	protected OWLFile ks;
+	protected OWLAPIReasoner reasoner;
+	protected ClosedWorldReasoner closedWorldReasoner; 
 
 	public Processor() {
 		/* Initialize curieUtil which converts Curie to IRI and vice versa */
@@ -106,7 +108,7 @@ public class Processor {
 		int classParamSize = classParamMap.keySet().size();
 		logger.info("the number of classes: " + classParamSize);
 
-		ExecutorService exe = Executors.newFixedThreadPool(8);
+		ExecutorService exe = Executors.newFixedThreadPool(threadNumber);
 
 		/* Run DL-Learner over each class using the parameters stored in classParamMap */
 		List<String> classKeyList = new ArrayList<>(classParamMap.asMap().keySet());
@@ -123,7 +125,7 @@ public class Processor {
 			if (subClassSize < 2) continue;
 
 			Set<OWLIndividual> paramSet = new HashSet<>(classParamMap.get(classCurie));
-			DLLearnerRunner runner = new DLLearnerRunner (closedWorldReasoner, paramSet, classCurie, reportGenerator);
+			DLLearnerRunner runner = new DLLearnerRunner (closedWorldReasoner, reportGenerator, classCurie, paramSet);
 			exe.submit(runner);
 		}
 

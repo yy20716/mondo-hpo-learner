@@ -50,7 +50,7 @@ public class ReportGenerator {
 	public Multimap<String, String> classEqEntityMap;
 	public CurieUtil curieUtil;
 	public QueryExecutor queryExecutor;
-	
+
 	protected OWLObjectRenderer renderer = StringRenderer.getRenderer();
 	protected DecimalFormat dfPercent = new DecimalFormat("0.00%");	
 	protected String newLineChar = System.getProperty("line.separator");
@@ -59,7 +59,7 @@ public class ReportGenerator {
 
 	public ReportGenerator() {
 		super();
-		
+
 		/* Generates directories that will store report files */
 		try {
 			FileUtils.forceMkdir(new File(Processor.reportHomeDir));
@@ -68,7 +68,7 @@ public class ReportGenerator {
 			logger.error(e.getMessage(), e);
 		}
 	}
-	
+
 	/* pre-compute all labels (rdfs:label)for doid classes */ 
 	public void precomputeLabels() {
 		/* 1. extract versionIRIs from doid ontology, 
@@ -100,6 +100,21 @@ public class ReportGenerator {
 		}
 	}
 
+	protected List<String> sortClassCurieKeys() {
+		List<String> classKeyList = new ArrayList<>(classSubclassMap.asMap().keySet());
+		Collections.sort(classKeyList, new Comparator<String>() {
+			@Override
+			public int compare(String o1, String o2) {
+				String o1NumOnly = o1.split(":")[1].trim().replaceAll("[^\\d.]", "");
+				String o2NumOnly = o2.split(":")[1].trim().replaceAll("[^\\d.]", "");
+				Integer o1Int = Integer.valueOf(o1NumOnly);
+				Integer o2Int = Integer.valueOf(o2NumOnly);
+				return o1Int.compareTo(o2Int);
+			}
+		});
+		return classKeyList;
+	}
+
 	/* 
 	 * Generates an index file so that users can easily navigate report files
 	 * Each entry is connected to the report file. Each report file is for a single doid class.
@@ -111,18 +126,7 @@ public class ReportGenerator {
 			FileWriter fw = new FileWriter(indexFilename,  false);
 			BufferedWriter bw = new BufferedWriter(fw);
 			PrintWriter out = new PrintWriter(bw);
-
-			List<String> classKeyList = new ArrayList<>(classSubclassMap.asMap().keySet());
-			Collections.sort(classKeyList, new Comparator<String>() {
-				@Override
-				public int compare(String o1, String o2) {
-					String o1NumOnly = o1.split(":")[1].trim().replaceAll("[^\\d.]", "");
-					String o2NumOnly = o2.split(":")[1].trim().replaceAll("[^\\d.]", "");
-					Integer o1Int = Integer.valueOf(o1NumOnly);
-					Integer o2Int = Integer.valueOf(o2NumOnly);
-					return o1Int.compareTo(o2Int);
-				}
-			});
+			List<String> classKeyList = sortClassCurieKeys();
 
 			StringBuilder sb = new StringBuilder();
 			sb.append("Version: " + version).append(newLineChar);

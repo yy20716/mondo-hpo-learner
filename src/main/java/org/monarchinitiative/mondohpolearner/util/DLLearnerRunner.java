@@ -20,8 +20,8 @@ public class DLLearnerRunner implements Callable<Void> {
 	private String classCurie;
 	private ReportGenerator reportGenerator;
 	
-	public DLLearnerRunner (ClosedWorldReasoner closedWorldReasoner, Set<OWLIndividual> posExamples, 
-			String classCurie, ReportGenerator reportGenerator) {
+	public DLLearnerRunner (ClosedWorldReasoner closedWorldReasoner, 
+			ReportGenerator reportGenerator, String classCurie, Set<OWLIndividual> posExamples) {
 		
 		this.closedWorldReasoner = closedWorldReasoner;
 		this.posExamples = posExamples;

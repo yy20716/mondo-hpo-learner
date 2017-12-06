@@ -42,7 +42,8 @@ public class NCITPreprocessor extends Preprocessor {
 			
 			while (resultSet.hasNext()) {
 				QuerySolution binding = resultSet.nextSolution();
-
+				logger.info(binding);
+				
 				// 1. Building mappings between classes and subclasses.
 				Resource subClassRsrc = (Resource)binding.get("subclass");
 				Resource intClassRsrc = (Resource)binding.get("intclass");
