@@ -66,6 +66,8 @@ public class NCITProcessor extends Processor{
 			if (subClassSize < 2) continue;
 
 			Set<OWLIndividual> paramSet = new HashSet<>(classParamMap.get(classCurie));
+			logger.info(classCurie + " : " + paramSet);
+			
 			DLLearnerRunner runner = new DLLearnerRunner (closedWorldReasoner, reportGenerator, classCurie, paramSet);
 			exe.submit(runner);
 		}

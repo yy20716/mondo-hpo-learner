@@ -10,4 +10,4 @@ SELECT ?subclass ?intclass ?someclass WHERE {
 	}
 	
 	FILTER(?intclass NOT IN (owl:Thing))
-}
+} LIMIT 1000
