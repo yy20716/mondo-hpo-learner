@@ -9,13 +9,10 @@ import java.util.Map;
 import java.util.Set;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-import java.util.concurrent.Future;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.Level;
 import org.apache.log4j.Logger;
-import org.dllearner.core.EvaluatedDescription;
-import org.dllearner.core.Score;
 import org.dllearner.kb.OWLFile;
 import org.dllearner.reasoning.ClosedWorldReasoner;
 import org.dllearner.reasoning.OWLAPIReasoner;
@@ -27,13 +24,12 @@ import org.prefixcommons.CurieUtil;
 import org.semanticweb.elk.owlapi.ElkReasoner;
 import org.semanticweb.owlapi.model.OWLIndividual;
 
-import com.google.common.collect.Maps;
 import com.google.common.collect.Multimap;
 import com.google.common.collect.Multimaps;
 
 public class Processor {
 	private static final Logger logger = Logger.getLogger(Processor.class.getName());
-	protected static final Integer threadNumber = 24;
+	protected static final Integer threadNumber = 1;
 	
 	public Preprocessor pp;
 	public ReportGenerator reportGenerator;
@@ -88,10 +84,10 @@ public class Processor {
 			reasoner.setReasonerImplementation(ReasonerImplementation.ELK);
 			reasoner.setUseFallbackReasoner(true);
 			reasoner.init();
-			Logger.getLogger(ElkReasoner.class).setLevel(Level.OFF);
 
+			Logger.getLogger(ElkReasoner.class).setLevel(Level.OFF);
 			closedWorldReasoner = new ClosedWorldReasoner(ks);
-			closedWorldReasoner.setReasonerComponent(reasoner);
+			closedWorldReasoner.setReasonerComponent(reasoner); 
 			closedWorldReasoner.init();
 		} catch (Exception e) {
 			logger.error(e.getMessage(), e);

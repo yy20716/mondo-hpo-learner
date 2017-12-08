@@ -10,11 +10,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.Logger;
-import org.monarchinitiative.mondohpolearner.common.Preprocessor;
 import org.monarchinitiative.mondohpolearner.common.Processor;
-import org.monarchinitiative.mondohpolearner.common.ReportGenerator;
-import org.monarchinitiative.mondohpolearner.orpha.OrphanetPreprocessor;
-import org.monarchinitiative.mondohpolearner.orpha.OrphanetReportGenerator;
 import org.monarchinitiative.mondohpolearner.util.DLLearnerRunner;
 import org.semanticweb.owlapi.model.OWLIndividual;
 

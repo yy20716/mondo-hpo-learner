@@ -21,8 +21,6 @@ import org.apache.jena.rdf.model.ResourceFactory;
 import org.apache.jena.util.FileManager;
 import org.apache.jena.vocabulary.RDF;
 import org.apache.log4j.Logger;
-import org.monarchinitiative.mondohpolearner.doid.DoidPreprocessor;
-import org.monarchinitiative.mondohpolearner.doid.DoidProcessor;
 import org.monarchinitiative.mondohpolearner.util.QueryExecutor;
 import org.prefixcommons.CurieUtil;
 import org.semanticweb.owlapi.model.IRI;

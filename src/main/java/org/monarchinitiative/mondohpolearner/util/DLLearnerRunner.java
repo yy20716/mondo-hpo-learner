@@ -5,8 +5,6 @@ import java.util.concurrent.Callable;
 
 import org.apache.log4j.Logger;
 import org.dllearner.algorithms.celoe.CELOE;
-import org.dllearner.core.EvaluatedDescription;
-import org.dllearner.core.Score;
 import org.dllearner.learningproblems.PosOnlyLP;
 import org.dllearner.reasoning.ClosedWorldReasoner;
 import org.monarchinitiative.mondohpolearner.common.ReportGenerator;

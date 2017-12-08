@@ -8,9 +8,6 @@ import org.apache.log4j.Logger;
 import org.monarchinitiative.mondohpolearner.common.Preprocessor;
 import org.monarchinitiative.mondohpolearner.common.Processor;
 import org.monarchinitiative.mondohpolearner.util.QueryExecutor;
-import org.semanticweb.owlapi.model.OWLIndividual;
-
-import com.google.common.collect.Multimap;
 
 public class OrphanetPreprocessor extends Preprocessor {
 	private static final Logger logger = Logger.getLogger(OrphanetPreprocessor.class.getName()); 

@@ -1,8 +1,6 @@
 package org.monarchinitiative.mondohpolearner.chart;
 
 import java.awt.Color;
-import java.awt.Shape;
-import java.awt.geom.Ellipse2D;
 import java.io.File;
 import java.io.IOException;
 import java.nio.charset.Charset;
@@ -22,13 +20,10 @@ import org.apache.log4j.Logger;
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartUtils;
 import org.jfree.chart.JFreeChart;
-import org.jfree.chart.labels.BubbleXYItemLabelGenerator;
 import org.jfree.chart.plot.XYPlot;
-import org.jfree.chart.renderer.xy.XYItemRenderer;
 import org.jfree.data.xy.XYSeries;
 import org.jfree.data.xy.XYSeriesCollection;
 import org.monarchinitiative.mondohpolearner.Main;
-import org.monarchinitiative.mondohpolearner.common.Processor;
 import org.monarchinitiative.mondohpolearner.doid.DoidProcessor;
 import org.monarchinitiative.mondohpolearner.mondo.MondoProcessor;
 import org.monarchinitiative.mondohpolearner.util.CurieMapGenerator;

@@ -2,15 +2,11 @@ package org.monarchinitiative.mondohpolearner.ncit;
 
 import java.io.File;
 import java.io.FileOutputStream;
-import java.io.FileWriter;
 import java.io.OutputStream;
 import java.util.Collection;
 import java.util.UUID;
 
 import org.apache.commons.io.FileUtils;
-import org.apache.jena.graph.Node;
-import org.apache.jena.graph.NodeFactory;
-import org.apache.jena.graph.Triple;
 import org.apache.jena.query.QuerySolution;
 import org.apache.jena.query.ResultSet;
 import org.apache.jena.rdf.model.Model;
@@ -18,12 +14,10 @@ import org.apache.jena.rdf.model.ModelFactory;
 import org.apache.jena.rdf.model.Property;
 import org.apache.jena.rdf.model.Resource;
 import org.apache.jena.rdf.model.ResourceFactory;
-import org.apache.jena.rdf.model.Statement;
 import org.apache.jena.vocabulary.RDF;
 import org.apache.log4j.Logger;
 import org.monarchinitiative.mondohpolearner.common.Preprocessor;
 import org.monarchinitiative.mondohpolearner.common.Processor;
-import org.monarchinitiative.mondohpolearner.util.QueryExecutor;
 import org.semanticweb.owlapi.model.IRI;
 
 import uk.ac.manchester.cs.owl.owlapi.OWLNamedIndividualImpl;
@@ -62,32 +56,32 @@ public class NCITPreprocessor extends Preprocessor {
 				classSubClassMap.put(intClassRsrcIRI, subClassRsrcIRI);
 
 				// 2. Building mappings between classes and its leaf nodes
-				Resource b1 = modelWithAbox.createResource("http://purl.obolibrary.org/obo/NCIT_" + UUID.randomUUID().toString().replace("-", ""));
-				classEqEntityMap.put(intClassRsrcIRI, subClassRsrcIRI);
+				Resource b1 = modelWithAbox.createResource("http://a.com/" + subClassRsrcIRI.split(":")[1]);
+				classEqEntityMap.put(intClassRsrcIRI, b1.getURI());
 				modelWithAbox.add(b1, RDF.type, subClassRsrc);
 
 				if (binding.getResource("someclass") != null) {
 					Resource someClassRsrc = (Resource)binding.get("someclass");
-					Resource b2 = modelWithAbox.createResource("http://purl.obolibrary.org/obo/NCIT_" + UUID.randomUUID().toString().replace("-", ""));
+					String someClassRsrcIRI = curieUtil.getCurie(someClassRsrc.getURI()).get();
+					Resource b2 = modelWithAbox.createResource("http://a.com/" + someClassRsrcIRI.toString().split(":")[1]);
 					Property dummyProp;
 
 					if (intClassRsrc.isAnon()) {
-						dummyProp = ResourceFactory.createProperty("http://purl.obolibrary.org/obo/NCIT_" + intClassRsrc.toString().replace("-", ""));
+						dummyProp = ResourceFactory.createProperty("http://a.com/" + UUID.randomUUID().toString().replace("-", ""));
 					} else {
 						dummyProp = ResourceFactory.createProperty(intClassRsrc.getURI());
 					}
 
 					modelWithAbox.add(b1, dummyProp, b2);
 					modelWithAbox.add(b2, RDF.type, someClassRsrc);
-					classEqEntityMap.put(intClassRsrcIRI, subClassRsrcIRI);
+					classEqEntityMap.put(intClassRsrcIRI, b2.getURI());
 				}
 			}
 
 			for (String eachClass : classEqEntityMap.keySet()) {
 				Collection<String> eqEntitySet = classEqEntityMap.get(eachClass);
 				for (String eqEntity: eqEntitySet) {
-					String eqEntityIRI = curieUtil.getIri(eqEntity).get();
-					classParamMap.put(eachClass, new OWLNamedIndividualImpl(IRI.create(eqEntityIRI)));
+					classParamMap.put(eachClass, new OWLNamedIndividualImpl(IRI.create(eqEntity)));
 				}
 			}
 
