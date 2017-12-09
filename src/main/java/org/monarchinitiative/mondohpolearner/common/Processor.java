@@ -29,7 +29,7 @@ import com.google.common.collect.Multimaps;
 
 public class Processor {
 	private static final Logger logger = Logger.getLogger(Processor.class.getName());
-	protected static final Integer threadNumber = 1;
+	protected static final Integer threadNumber = 24;
 	
 	public Preprocessor pp;
 	public ReportGenerator reportGenerator;

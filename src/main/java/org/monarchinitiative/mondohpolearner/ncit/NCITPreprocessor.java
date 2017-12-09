@@ -67,7 +67,7 @@ public class NCITPreprocessor extends Preprocessor {
 					Property dummyProp;
 
 					if (intClassRsrc.isAnon()) {
-						dummyProp = ResourceFactory.createProperty("http://a.com/" + UUID.randomUUID().toString().replace("-", ""));
+						dummyProp = ResourceFactory.createProperty("http://a.com/d");
 					} else {
 						dummyProp = ResourceFactory.createProperty(intClassRsrc.getURI());
 					}
