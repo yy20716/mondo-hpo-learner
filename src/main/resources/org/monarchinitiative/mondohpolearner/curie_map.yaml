@@ -59,6 +59,7 @@
 'MPATH': 'http://purl.obolibrary.org/obo/MPATH_'  # MPATH: Mammalian Pathology Ontology
 'NBO': 'http://purl.obolibrary.org/obo/NBO_'  # NBO: NeuroBehavior Ontology [y]
 'NCIT': 'http://purl.obolibrary.org/obo/NCIT_'  # NCIT
+'Thesaurus': 'http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#' # NCIT Thesarus
 'OBA': 'http://purl.obolibrary.org/obo/OBA_'  # OBA: Ontology of Biological Attributes (traits)
 'OBAN': 'http://purl.org/oban/'  # OBAN: Open Biomedical Annotation Model [y]
 'OBI': 'http://purl.obolibrary.org/obo/OBI_'  # OBI: Ontology of Biomedical Investigations [y]

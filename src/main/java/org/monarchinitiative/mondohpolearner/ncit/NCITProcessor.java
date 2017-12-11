@@ -49,7 +49,7 @@ public class NCITProcessor extends Processor{
 
 		for (String classCurie : classKeyList) {
 			/* logger.info("classCurie: " + classCurie); */
-			if (classCurie.contains("NCIT") != true) continue;
+			/* if (classCurie.contains("NCIT") != true) continue; */
 			
 			File f = new File(markdownDir + File.separator + classCurie.replace(":", "_") + ".md");
 			if(f.exists() && f.length() > 0) continue;

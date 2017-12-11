@@ -5,9 +5,7 @@ PREFIX oboInOwl: <http://www.geneontology.org/formats/oboInOwl#>
 
 SELECT ?subclass ?intclass ?someclass WHERE { 
 	?subclass rdfs:subClassOf+ ?intclass .
-	OPTIONAL {
-		?intclass owl:someValuesFrom ?someclass .
-	}
+	?intclass owl:someValuesFrom ?someclass .
 	
 	FILTER(?intclass NOT IN (owl:Thing))
 }

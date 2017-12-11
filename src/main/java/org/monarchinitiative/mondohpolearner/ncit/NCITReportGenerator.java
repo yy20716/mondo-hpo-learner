@@ -12,9 +12,14 @@ import java.util.Optional;
 import java.util.Set;
 
 import org.apache.commons.compress.utils.Lists;
+import org.apache.jena.query.QuerySolution;
+import org.apache.jena.query.ResultSet;
+import org.apache.jena.rdf.model.Literal;
+import org.apache.jena.rdf.model.Resource;
 import org.apache.log4j.Logger;
 import org.dllearner.core.EvaluatedDescription;
 import org.dllearner.core.Score;
+import org.monarchinitiative.mondohpolearner.Main;
 import org.monarchinitiative.mondohpolearner.common.Processor;
 import org.monarchinitiative.mondohpolearner.common.ReportGenerator;
 import org.semanticweb.owlapi.model.OWLClass;
@@ -31,25 +36,26 @@ public class NCITReportGenerator extends ReportGenerator {
 		super();
 	}
 
-	@Override
-	protected List<String> sortClassCurieKeys() {
-		List<String> classKeyList = new ArrayList<>();
-		for (String classKey: classSubclassMap.asMap().keySet()) {
-			if (classKey.contains("NCIT")) classKeyList.add(classKey);
+	@Override 
+	public void precomputeLabels() {
+		/* 1. extract versionIRIs from doid ontology, 
+		 * e.g., <http://purl.obolibrary.org/obo/doid/releases/2017-11-10/doid.owl> 
+		 * We assume that there will be only one version URI in datasets.*/
+		ResultSet versionResultSet = queryExecutor.executeSelect(Main.queryExtractVersion);
+		while (versionResultSet.hasNext()) {
+			QuerySolution binding = versionResultSet.nextSolution();
+			Resource versionRsrc = (Resource)binding.get("version");
+			version = versionRsrc.getURI().split("/")[6];
 		}
 
-		Collections.sort(classKeyList, new Comparator<String>() {
-			@Override
-			public int compare(String o1, String o2) {
-				String o1NumOnly = o1.split(":")[1].trim().replaceAll("[^\\d.]", "");
-				String o2NumOnly = o2.split(":")[1].trim().replaceAll("[^\\d.]", "");
-				Integer o1Int = Integer.valueOf(o1NumOnly);
-				Integer o2Int = Integer.valueOf(o2NumOnly);
-				return o1Int.compareTo(o2Int);
-			}
-		});
-		
-		return classKeyList;
+		/* 2. extract class labels from doid.owl */
+		ResultSet labelResultSet = queryExecutor.executeSelect(Main.queryComputeEntityLabel);
+		while (labelResultSet.hasNext()) {
+			QuerySolution binding = labelResultSet.nextSolution();
+			Resource classRsrc = (Resource)binding.get("class");
+			Literal label = (Literal) binding.get("label");
+			entityLabelMap.put(classRsrc.toString(), label.toString());
+		}
 	}
 	
 	@Override

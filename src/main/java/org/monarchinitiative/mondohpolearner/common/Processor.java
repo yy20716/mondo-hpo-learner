@@ -29,7 +29,7 @@ import com.google.common.collect.Multimaps;
 
 public class Processor {
 	private static final Logger logger = Logger.getLogger(Processor.class.getName());
-	protected static final Integer threadNumber = 24;
+	protected static final Integer threadNumber = 1;
 	
 	public Preprocessor pp;
 	public ReportGenerator reportGenerator;
@@ -80,12 +80,14 @@ public class Processor {
 			ks.setFileName(hpofilewithAbox);
 			ks.init();
 
+			/*
 			reasoner = new OWLAPIReasoner(ks);
 			reasoner.setReasonerImplementation(ReasonerImplementation.ELK);
 			reasoner.setUseFallbackReasoner(true);
 			reasoner.init();
 
 			Logger.getLogger(ElkReasoner.class).setLevel(Level.OFF);
+			*/
 			closedWorldReasoner = new ClosedWorldReasoner(ks);
 			closedWorldReasoner.setReasonerComponent(reasoner); 
 			closedWorldReasoner.init();
