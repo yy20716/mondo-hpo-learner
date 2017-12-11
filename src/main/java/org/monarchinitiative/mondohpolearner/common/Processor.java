@@ -80,14 +80,12 @@ public class Processor {
 			ks.setFileName(hpofilewithAbox);
 			ks.init();
 
-			/*
 			reasoner = new OWLAPIReasoner(ks);
 			reasoner.setReasonerImplementation(ReasonerImplementation.ELK);
 			reasoner.setUseFallbackReasoner(true);
 			reasoner.init();
 
 			Logger.getLogger(ElkReasoner.class).setLevel(Level.OFF);
-			*/
 			closedWorldReasoner = new ClosedWorldReasoner(ks);
 			closedWorldReasoner.setReasonerComponent(reasoner); 
 			closedWorldReasoner.init();

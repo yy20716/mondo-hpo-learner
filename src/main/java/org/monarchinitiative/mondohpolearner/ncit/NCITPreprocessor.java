@@ -106,7 +106,7 @@ public class NCITPreprocessor extends Preprocessor {
 				}
 			}
 
-			// modelWithAbox.add(model);
+			modelWithAbox.add(model);
 			File file = new File(Processor.hpofilewithAbox);
 			FileUtils.deleteQuietly(file);
 			OutputStream output = new FileOutputStream(file);
