@@ -48,7 +48,7 @@ public class NCITPreprocessor extends Preprocessor {
 			ResultSet resultSet2 = queryExecutor.executeSelect(querySelectEquivClasses);
 			while (resultSet2.hasNext()) {
 				QuerySolution binding = resultSet2.nextSolution();
-				logger.info(binding); 
+				/* logger.info(binding); */
 				
 				String c1 = curieUtil.getCurie(((Resource)binding.get("s")).getURI()).get();
 				String c2 = ((Resource)binding.get("o")).getId().toString();
@@ -59,7 +59,7 @@ public class NCITPreprocessor extends Preprocessor {
 			Model modelWithAbox = ModelFactory.createDefaultModel();
 			while (resultSet1.hasNext()) {
 				QuerySolution binding = resultSet1.nextSolution();
-				logger.info(binding);
+				/* logger.info(binding); */
 
 				// 1. Building mappings between classes and subclasses.
 				Resource subClassRsrc = (Resource)binding.get("subclass");
