@@ -20,10 +20,10 @@ public class NCITProcessor extends Processor{
 	public NCITProcessor() {
 		super();
 
-		inputOWLFile = "ncit.owl"; 
+		inputOWLFile = "neoplasm-core.owl"; 
 		reportHomeDir = "ncit_report";
 		markdownDir = reportHomeDir + File.separator + "markdown";
-		hpofilewithAbox = "ncitwithabox.owl";
+		hpofilewithAbox = "neoplasm-corewithabox.owl";
 		queryExtractSubclasses = "src/main/resources/org/monarchinitiative/mondohpolearner/ncit/extractSubclasses.sparql";
 		queryExecutor.loadModel(Processor.inputOWLFile);
 		

@@ -5,4 +5,5 @@ SELECT ?s ?o WHERE {
 	?s  rdfs:subClassOf  ?o .
 	?s a owl:Class .
 	FILTER (isBlank(?o))
+	FILTER (!isBlank(?s))
 }

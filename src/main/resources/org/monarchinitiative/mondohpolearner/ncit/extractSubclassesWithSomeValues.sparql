@@ -4,9 +4,11 @@ PREFIX obo: <http://purl.obolibrary.org/obo/>
 PREFIX oboInOwl: <http://www.geneontology.org/formats/oboInOwl#>
 
 SELECT ?subclass ?intclass ?someclass WHERE {
-	?subclass rdfs:subClassOf+ <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2991> .
+	# ?subclass rdfs:subClassOf+ <http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2991> .
 	?subclass rdfs:subClassOf+ ?intclass .
 	?intclass owl:someValuesFrom ?someclass .
 	
+	FILTER (!isBlank(?subclass))
+	FILTER (!isBlank(?someclass))
 	FILTER(?intclass NOT IN (owl:Thing))
 }
