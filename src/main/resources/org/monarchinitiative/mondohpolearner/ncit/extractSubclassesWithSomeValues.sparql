@@ -11,4 +11,4 @@ SELECT ?subclass ?intclass ?someclass WHERE {
 	FILTER (!isBlank(?subclass))
 	FILTER (!isBlank(?someclass))
 	FILTER(?intclass NOT IN (owl:Thing))
-}
+} 

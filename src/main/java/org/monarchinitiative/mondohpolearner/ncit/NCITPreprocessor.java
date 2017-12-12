@@ -49,17 +49,16 @@ public class NCITPreprocessor extends Preprocessor {
 			while (resultSet2.hasNext()) {
 				QuerySolution binding = resultSet2.nextSolution();
 				/* logger.info(binding); */
-				
+
 				String c1 = curieUtil.getCurie(((Resource)binding.get("s")).getURI()).get();
 				String c2 = ((Resource)binding.get("o")).getId().toString();
 				classEquivClassMap.put(c2, c1);
 			}
-			
+
 			ResultSet resultSet1 = queryExecutor.executeSelect(querySelectSubClassesWithSomeValues);
 			Model modelWithAbox = ModelFactory.createDefaultModel();
 			while (resultSet1.hasNext()) {
 				QuerySolution binding = resultSet1.nextSolution();
-				/* logger.info(binding); */
 
 				// 1. Building mappings between classes and subclasses.
 				Resource subClassRsrc = (Resource)binding.get("subclass");
@@ -74,10 +73,10 @@ public class NCITPreprocessor extends Preprocessor {
 				Optional<String> optSubClass = curieUtil.getCurie(subClassRsrc.getURI());
 				if (optSubClass.isPresent() != true) continue;
 				String subClassRsrcIRI = optSubClass.get();
-				String someClassRsrcIRI = curieUtil.getCurie(someClassRsrc.getURI()).get();
 
-				Resource b1 = modelWithAbox.createResource("http://a.com/" + subClassRsrcIRI.split(":")[1]);				
-				Resource b2 = modelWithAbox.createResource("http://a.com/" + someClassRsrcIRI.toString().split(":")[1]);
+				String someClassRsrcIRI = curieUtil.getCurie(someClassRsrc.getURI()).get();
+				Resource b1 = modelWithAbox.createResource("http://a.com/" + subClassRsrcIRI.split(":")[1]);
+				Resource b2 = modelWithAbox.createResource("http://a.com/" + someClassRsrcIRI.toString().split(":")[1]);				
 				Property dummyProp = null;
 				if (intClassRsrc.isAnon()) {
 					dummyProp = ResourceFactory.createProperty("http://a.com/d");
@@ -85,6 +84,9 @@ public class NCITPreprocessor extends Preprocessor {
 					dummyProp = ResourceFactory.createProperty(intClassRsrc.getURI());
 				}
 
+				if (b1.toString().contains("0001031")) continue;
+				if (b2.toString().contains("0001031")) continue;
+				
 				modelWithAbox.add(b1, RDF.type, subClassRsrc);
 				modelWithAbox.add(b1, dummyProp, b2);
 				modelWithAbox.add(b2, RDF.type, someClassRsrc);

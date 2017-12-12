@@ -48,7 +48,8 @@ public class NCITProcessor extends Processor{
 		List<String> classKeyList = new ArrayList<>(classParamMap.asMap().keySet());
 
 		for (String classCurie : classKeyList) {
-			/* logger.info("classCurie: " + classCurie); */
+			logger.info("classCurie: " + classCurie);
+			if (classCurie.contains("NCIT") != true) continue;
 			
 			File f = new File(markdownDir + File.separator + classCurie.replace(":", "_") + ".md");
 			if(f.exists() && f.length() > 0) continue;
@@ -61,7 +62,7 @@ public class NCITProcessor extends Processor{
 			if (subClassSize < 2) continue;
 
 			Set<OWLIndividual> paramSet = new HashSet<>(classParamMap.get(classCurie));
-			/* logger.info(classCurie + " : " + paramSet); */
+			logger.info(classCurie + " : " + paramSet);
 			
 			DLLearnerRunner runner = new DLLearnerRunner (closedWorldReasoner, reportGenerator, classCurie, paramSet);
 			exe.submit(runner);
