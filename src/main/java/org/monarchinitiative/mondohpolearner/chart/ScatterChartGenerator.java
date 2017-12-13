@@ -52,23 +52,22 @@ public class ScatterChartGenerator {
 		}
 	}
 
-	public void run() {
+	public void run(String data1ReportDir, String dataName1, String data2ReportDir, String dataName2) {
 		computeClassMappings();
 
 		XYSeriesCollection dataset = new XYSeriesCollection();
-		XYSeries series = new XYSeries("Mondo, Do");
-
+		XYSeries series = new XYSeries(dataName1 + ", " + dataName2);
+		
 		for (String mondoClassCurie : classEqEntityMap.asMap().keySet()) {
-			String mondoClassAcc = retrieveAccuracy(MondoProcessor.markdownDir, mondoClassCurie);
+			String mondoClassAcc = retrieveAccuracy(data1ReportDir, mondoClassCurie);
 			if (mondoClassAcc == null) continue;
 			mondoClassAcc = mondoClassAcc.replace("%", "");
 			Double mondoClassAccVal = Double.valueOf(mondoClassAcc);
 
 			Collection<String> doidClassCurieList = classEqEntityMap.get(mondoClassCurie);
-			/* logger.info(mondoClassCurie + " : " + doidClassCurieList); */
 
 			for (String doidClassCurie : doidClassCurieList) {
-				String doidClassAcc = retrieveAccuracy(DoidProcessor.markdownDir, doidClassCurie);
+				String doidClassAcc = retrieveAccuracy(data2ReportDir, doidClassCurie);
 
 				if (doidClassAcc == null) {
 					series.add(mondoClassAccVal, (Double) 0.0);
@@ -83,7 +82,7 @@ public class ScatterChartGenerator {
 		dataset.addSeries(series);
 
 		try {
-			JFreeChart chart = ChartFactory.createScatterPlot("Accuracy comparison chart", "Accuracy in MonDO, %", "Accuracy in Do, %", dataset);
+			JFreeChart chart = ChartFactory.createScatterPlot("Accuracy comparison chart", "Accuracy in " + dataName1 + "%", "Accuracy in " + dataName2 + "%", dataset);
 			XYPlot plot = (XYPlot)chart.getPlot();
 			plot.setBackgroundPaint(new Color(255,228,196));			
 			plot.setForegroundAlpha(0.75f);
@@ -91,7 +90,7 @@ public class ScatterChartGenerator {
 			plot.setRangePannable(true);
 			chart.removeLegend();
 			
-			ChartUtils.saveChartAsPNG(new File("chart/mondodoidaccscatter.png"), chart, 500, 500);	
+			ChartUtils.saveChartAsPNG(new File("chart" + File.separator + dataName1 + dataName2 + "accscatter.png"), chart, 500, 500);	
 		} catch (Exception e) {
 			logger.error(e.getMessage());
 		}
@@ -121,7 +120,7 @@ public class ScatterChartGenerator {
 	}
 
 	private void computeClassMappings() {
-		ResultSet resultSet = QueryExecutor.executeSelectOnce (MondoProcessor.inputOWLFile, Main.queryExtractEqClasses);
+		ResultSet resultSet = QueryExecutor.executeSelectOnce ("mondo.owl", Main.queryExtractEqClasses);
 
 		while (resultSet.hasNext()) {
 			QuerySolution binding = resultSet.nextSolution();

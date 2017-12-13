@@ -1,5 +1,7 @@
 package org.monarchinitiative.mondohpolearner;
 
+import java.io.File;
+
 import org.apache.commons.cli.CommandLine;
 import org.apache.commons.cli.CommandLineParser;
 import org.apache.commons.cli.DefaultParser;
@@ -81,10 +83,14 @@ public class Main {
 			}
 			else if (cmdLine.hasOption("c")) {
 				ScatterChartGenerator scg = new ScatterChartGenerator();
-				scg.run();
+				scg.run("mondo_report" + File.separator + "markdown", "monDO", "doid_report" + File.separator + "markdown", "DO");
+				scg.run("mondo_report" + File.separator + "markdown", "monDO", "orpha_report" + File.separator + "markdown", "Orphanet");
 				
 				BarChartGenerator bcg = new BarChartGenerator();
-				bcg.run();
+				bcg.run("mondo_report" + File.separator + "markdown", "monDO");
+				bcg.run("doid_report" + File.separator + "markdown", "DO");
+				bcg.run("orpha_report" + File.separator + "markdown", "Orpha");
+				bcg.run("ncit_report" + File.separator + "markdown", "NCIT");
 			} else {
 				HelpFormatter formatter = new HelpFormatter();
 				formatter.printHelp("Mondo-HPO-Learner", options);

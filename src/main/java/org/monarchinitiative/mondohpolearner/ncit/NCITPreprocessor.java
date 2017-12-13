@@ -75,8 +75,11 @@ public class NCITPreprocessor extends Preprocessor {
 				String subClassRsrcIRI = optSubClass.get();
 
 				String someClassRsrcIRI = curieUtil.getCurie(someClassRsrc.getURI()).get();
-				Resource b1 = modelWithAbox.createResource("http://a.com/" + subClassRsrcIRI.split(":")[1]);
-				Resource b2 = modelWithAbox.createResource("http://a.com/" + someClassRsrcIRI.toString().split(":")[1]);				
+				String[] subClassRsrcIRIArr = subClassRsrcIRI.split(":");
+				String[] someClassRsrcIRIArr = someClassRsrcIRI.toString().split(":");
+				
+				Resource b1 = modelWithAbox.createResource("http://a.com/" + subClassRsrcIRIArr[0] + subClassRsrcIRIArr[1]);
+				Resource b2 = modelWithAbox.createResource("http://a.com/" + someClassRsrcIRIArr[0] + someClassRsrcIRIArr[1]);
 				Property dummyProp = null;
 				if (intClassRsrc.isAnon()) {
 					dummyProp = ResourceFactory.createProperty("http://a.com/d");
@@ -84,8 +87,10 @@ public class NCITPreprocessor extends Preprocessor {
 					dummyProp = ResourceFactory.createProperty(intClassRsrc.getURI());
 				}
 
+				/*
 				if (b1.toString().contains("0001031")) continue;
 				if (b2.toString().contains("0001031")) continue;
+				*/
 				
 				modelWithAbox.add(b1, RDF.type, subClassRsrc);
 				modelWithAbox.add(b1, dummyProp, b2);
