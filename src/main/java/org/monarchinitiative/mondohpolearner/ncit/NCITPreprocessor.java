@@ -4,8 +4,11 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.OutputStream;
 import java.util.Collection;
+import java.util.HashSet;
+import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Optional;
+import java.util.Set;
 import java.util.UUID;
 
 import org.apache.commons.io.FileUtils;
@@ -23,19 +26,86 @@ import org.monarchinitiative.mondohpolearner.common.Processor;
 import org.semanticweb.owlapi.model.IRI;
 
 import com.google.common.collect.Maps;
+import com.google.common.collect.Multimap;
+import com.google.common.collect.Multimaps;
+import com.google.common.collect.Sets;
 
 import uk.ac.manchester.cs.owl.owlapi.OWLNamedIndividualImpl;
 
 public class NCITPreprocessor extends Preprocessor {
 	private static final Logger logger = Logger.getLogger(NCITPreprocessor.class.getName()); 
-	private static String querySelectEquivClasses = "src/main/resources/org/monarchinitiative/mondohpolearner/ncit/selectEquiv.sparql";
-	private static String queryReplaceEquivClasses = "src/main/resources/org/monarchinitiative/mondohpolearner/ncit/replaceEquiv.sparql";
-	private static String querySelectSubClassesWithSomeValues = "src/main/resources/org/monarchinitiative/mondohpolearner/ncit/extractSubclassesWithSomeValues.sparql";
+	private static String ncitQueryPath = "src/main/resources/org/monarchinitiative/mondohpolearner/ncit"; 
+	private static String querySelectEquivClasses = ncitQueryPath + File.separator + "selectEquiv.sparql";
+	private static String queryReplaceEquivClasses = ncitQueryPath + File.separator + "replaceEquiv.sparql";
+	private static String querySelectSubClasses = ncitQueryPath + File.separator + "extractSubClasses.sparql";
+	private static String querySelectSomeClasses = ncitQueryPath + File.separator + "extractSomeValuesFrom.sparql";
+	private static String queryRemoveSubClassesWithSomeValues = ncitQueryPath + File.separator + "removeSubclassesWithSomeValues.sparql";
 
-	public Map<String, String> classEquivClassMap = Maps.newHashMap();
-
+	public Map<Resource, Resource> classEquivClassMap = Maps.newHashMap();
+	public Multimap<Resource, Resource> classSubClassMap = Multimaps.newSetMultimap(new LinkedHashMap<>(), HashSet::new);
+	public Multimap<Resource, Resource> classSomeClassMap = Multimaps.newSetMultimap(new LinkedHashMap<>(), HashSet::new);
+	public Set<Resource> subClassTrailSet = Sets.newHashSet();
+	
 	public NCITPreprocessor() {
 		super();
+	}
+
+	private void visitSubClassNode(Model model, Resource classIRI) {
+		subClassTrailSet.add(classIRI);
+		Collection<Resource> subClassIRIs = classSubClassMap.get(classIRI);
+		if (subClassIRIs.isEmpty()) {
+			/* logger.info("visiting someValueFrom: " + classIRI + " , " + classIRI); */
+			visitSomeClassNode(model, classIRI, classIRI);
+			return;
+		}
+
+		for (Resource subClassIRI : subClassIRIs) {
+			if (subClassTrailSet.contains(subClassIRI)) continue;
+			/* logger.info("visiting subclass: " + classIRI + " , " + subClassIRI); */
+			visitSubClassNode(model, subClassIRI);
+		}
+	}
+
+	private Resource generateDummyResource(Model model, Resource classIRI) {
+		Resource b1 = null;
+		if (classIRI.isAnon()) {
+			b1 = model.createResource("http://a.com/" +  classIRI.getId().toString().replace("-", ""));
+		} else if (classIRI.isURIResource()) {
+			String[] classIRIArr = curieUtil.getCurie(classIRI.toString()).get().split(":");
+			b1 = model.createResource("http://a.com/" + classIRIArr[0] + classIRIArr[1]);
+		}
+		return b1;
+	}
+	
+	private void visitSomeClassNode(Model model, Resource classIRI, Resource beginClassIRI) {
+		Collection<Resource> someClassIRIs = classSomeClassMap.get(classIRI);
+		/* logger.info("classIRI: " + classIRI + " - " + someClassIRIs); */
+		
+		Resource b1 = generateDummyResource(model, classIRI);
+		if (classIRI.isURIResource()) {
+			/* reasoners say that no instance should be the instance of owl:Nothing */
+			if (b1.toString().contains("owl")) return;
+			model.add(b1, RDF.type, classIRI);
+		}
+		
+		if (someClassIRIs.isEmpty()) {	
+			/* logger.info("classIRI: " + classIRI + " - no children."); */
+			return;
+		}
+		
+		for (Resource someClassIRI : someClassIRIs) {
+			visitSomeClassNode(model, someClassIRI, classIRI);
+			
+			Resource equivSomeClassIRI = classEquivClassMap.get(someClassIRI);
+			if (equivSomeClassIRI == null) continue;
+			
+			Resource b2 = generateDummyResource(model, someClassIRI);
+			Property dummyProp = ResourceFactory.createProperty("http://a.com/d" + b1.getURI() + b2.getURI());
+
+			model.add(b2, RDF.type, equivSomeClassIRI);
+			model.add(b1, dummyProp, b2);
+			classEqEntityMap.put(curieUtil.getCurie(beginClassIRI.getURI()).get(), b2.getURI());
+		}
 	}
 
 	@Override
@@ -45,81 +115,52 @@ public class NCITPreprocessor extends Preprocessor {
 			Model model = queryExecutor.commonModel;
 
 			queryExecutor.executeUpdate(queryReplaceEquivClasses);
-			ResultSet resultSet2 = queryExecutor.executeSelect(querySelectEquivClasses);
-			while (resultSet2.hasNext()) {
-				QuerySolution binding = resultSet2.nextSolution();
-				/* logger.info(binding); */
 
-				String c1 = curieUtil.getCurie(((Resource)binding.get("s")).getURI()).get();
-				String c2 = ((Resource)binding.get("o")).getId().toString();
-				classEquivClassMap.put(c2, c1);
-			}
-
-			ResultSet resultSet1 = queryExecutor.executeSelect(querySelectSubClassesWithSomeValues);
-			Model modelWithAbox = ModelFactory.createDefaultModel();
+			ResultSet resultSet1 = queryExecutor.executeSelect(querySelectEquivClasses);
 			while (resultSet1.hasNext()) {
 				QuerySolution binding = resultSet1.nextSolution();
+				Resource s = (Resource)binding.get("s");
+				Resource o = (Resource)binding.get("o");
+				classEquivClassMap.put(o, s);
+			}
 
-				// 1. Building mappings between classes and subclasses.
+			ResultSet resultSet2 = queryExecutor.executeSelect(querySelectSubClasses);
+			while (resultSet2.hasNext()) {
+				QuerySolution binding = resultSet2.nextSolution();
 				Resource subClassRsrc = (Resource)binding.get("subclass");
-				Resource intClassRsrc = (Resource)binding.get("intclass");
+				Resource classRsrc = (Resource)binding.get("class");
+				classSubClassMap.put(classRsrc, subClassRsrc);
+			}
+
+			ResultSet resultSet3 = queryExecutor.executeSelect(querySelectSomeClasses);
+			while (resultSet3.hasNext()) {
+				QuerySolution binding = resultSet3.nextSolution();
 				Resource someClassRsrc = (Resource)binding.get("someclass");
+				Resource classRsrc = (Resource)binding.get("class");
+				classSomeClassMap.put(classRsrc, someClassRsrc);
+			}
 
-				String intClassRsrcIRI;
-				if (intClassRsrc.isAnon() != true)
-					intClassRsrcIRI = curieUtil.getCurie(intClassRsrc.getURI()).get();
-				else
-					intClassRsrcIRI = intClassRsrc.getId().toString();				
-				Optional<String> optSubClass = curieUtil.getCurie(subClassRsrc.getURI());
-				if (optSubClass.isPresent() != true) continue;
-				String subClassRsrcIRI = optSubClass.get();
-
-				String someClassRsrcIRI = curieUtil.getCurie(someClassRsrc.getURI()).get();
-				String[] subClassRsrcIRIArr = subClassRsrcIRI.split(":");
-				String[] someClassRsrcIRIArr = someClassRsrcIRI.toString().split(":");
-				
-				Resource b1 = modelWithAbox.createResource("http://a.com/" + subClassRsrcIRIArr[0] + subClassRsrcIRIArr[1]);
-				Resource b2 = modelWithAbox.createResource("http://a.com/" + someClassRsrcIRIArr[0] + someClassRsrcIRIArr[1]);
-				Property dummyProp = null;
-				if (intClassRsrc.isAnon()) {
-					dummyProp = ResourceFactory.createProperty("http://a.com/d");
-				} else {
-					dummyProp = ResourceFactory.createProperty(intClassRsrc.getURI());
-				}
-
-				/*
-				if (b1.toString().contains("0001031")) continue;
-				if (b2.toString().contains("0001031")) continue;
-				*/
-				
-				modelWithAbox.add(b1, RDF.type, subClassRsrc);
-				modelWithAbox.add(b1, dummyProp, b2);
-				modelWithAbox.add(b2, RDF.type, someClassRsrc);
-
-				String equivClassRsrcIRI = classEquivClassMap.get(intClassRsrcIRI);
-				if (equivClassRsrcIRI == null) continue;
-
-				classSubClassMap.put(equivClassRsrcIRI, subClassRsrcIRI);
-				classEqEntityMap.put(equivClassRsrcIRI, b1.getURI());
-				classEqEntityMap.put(equivClassRsrcIRI, b2.getURI());
+			for (Resource classIRI: classSubClassMap.keySet()) {
+				visitSubClassNode(model, classIRI);
 			}
 
 			logger.info("classSubClassMap.size:" + classSubClassMap.size());
 			logger.info("classEqEntityMap.size:" + classEqEntityMap.size());
-			logger.info("model size: " + modelWithAbox.size());
 
 			for (String eachClass : classEqEntityMap.keySet()) {
 				Collection<String> eqEntitySet = classEqEntityMap.get(eachClass);
+				/* logger.info("param: " + eachClass + " : " + eqEntitySet); */
 				for (String eqEntity: eqEntitySet) {
 					classParamMap.put(eachClass, new OWLNamedIndividualImpl(IRI.create(eqEntity)));
 				}
 			}
 
-			modelWithAbox.add(model);
+			/* queryExecutor.executeUpdate(queryRemoveSubClassesWithSomeValues); */
+			
 			File file = new File(Processor.hpofilewithAbox);
 			FileUtils.deleteQuietly(file);
 			OutputStream output = new FileOutputStream(file);
-			modelWithAbox.write(output, "RDF/XML");
+			model.write(output, "RDF/XML");
 			output.close();
 
 			logger.info("Pre-processing NCIT is finished ...");

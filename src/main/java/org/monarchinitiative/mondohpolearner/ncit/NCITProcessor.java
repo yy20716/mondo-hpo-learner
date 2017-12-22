@@ -58,9 +58,11 @@ public class NCITProcessor extends Processor{
 			int eqEntitySize = classEqEntityMap.get(classCurie).size();
 			if (eqEntitySize < 2) continue;
 
+			/*
 			int subClassSize = classSubClassMap.get(classCurie).size();
 			if (subClassSize < 2) continue;
-
+			*/
+			
 			Set<OWLIndividual> paramSet = new HashSet<>(classParamMap.get(classCurie));
 			logger.info(classCurie + " : " + paramSet);
 			
