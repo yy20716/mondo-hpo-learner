@@ -1,0 +1,25 @@
+
+### [NCIT:C4255](http://purl.obolibrary.org/obo/NCIT_C4255)
+**Label:** Lipoblastomatosis
+
+**Subclasses:** 
+
+**Class expressions from DL-Learner:**
+
+- [NCIT:C28510](http://purl.obolibrary.org/obo/NCIT_C28510) (Fusion Gene) 55.23%
+- [NCIT:C101054](http://purl.obolibrary.org/obo/NCIT_C101054) (HAS2/PLAG1 Fusion Gene) 53.87%
+- [NCIT:C101053](http://purl.obolibrary.org/obo/NCIT_C101053) (COL1A2/PLAG1 Fusion Gene) 53.87%
+- [NCIT:C16612](http://purl.obolibrary.org/obo/NCIT_C16612) (Gene) 52.33%
+- not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain)) 50.57%
+- not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion)) 50.57%
+- not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein)) 50.57%
+- not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin)) 50.57%
+- not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid)) 50.57%
+- not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene)) 50.57%
+- not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron)) 50.57%
+- Thing 50.57%
+- not (CARO:0010000) 50.57%
+- not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null)) 50.57%
+- not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null)) 50.57%
+
+
