@@ -2,11 +2,16 @@
 ### [NCIT:C9020](http://purl.obolibrary.org/obo/NCIT_C9020)
 **Label:** Acute Myelomonocytic Leukemia with Abnormal Eosinophils
 
-**Subclasses:** 
+**Corr. equiv. classes:** [http://purl.obolibrary.org/obo/NCIT_C29957](NCIT:C29957) (MYH11 Gene), [http://purl.obolibrary.org/obo/NCIT_C18584](NCIT:C18584) (CBFB Gene), 
 
 **Class expressions from DL-Learner:**
 
 - [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) 60.36%
+- [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) and (not ([CHEBI:26708](http://purl.obolibrary.org/obo/CHEBI_26708) (sodium atom))) 60.36%
+- [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) and (not ([CHEBI:25805](http://purl.obolibrary.org/obo/CHEBI_25805) (oxygen atom))) 60.36%
+- [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) and (not ([CHEBI:25555](http://purl.obolibrary.org/obo/CHEBI_25555) (nitrogen atom))) 60.36%
+- [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) and (not ([CHEBI:23019](http://purl.obolibrary.org/obo/CHEBI_23019) (carbonyl group))) 60.36%
+- [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) and (not ([CHEBI:23004](http://purl.obolibrary.org/obo/CHEBI_23004) (carbamoyl group))) 60.36%
 - [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) and (not ([CHEBI:22868](http://purl.obolibrary.org/obo/CHEBI_22868) (bile salt))) 60.36%
 - [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) and (not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion))) 60.36%
 - [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 60.36%

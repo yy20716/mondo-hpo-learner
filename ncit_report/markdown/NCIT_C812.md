@@ -2,7 +2,7 @@
 ### [NCIT:C812](http://purl.obolibrary.org/obo/NCIT_C812)
 **Label:** Ribonucleic Acid
 
-**Subclasses:** 
+**Corr. equiv. classes:** [http://purl.obolibrary.org/obo/NCIT_C17208](NCIT:C17208) (Transcription), [http://purl.obolibrary.org/obo/NCIT_C18127](NCIT:C18127) (RNA Transport), [http://purl.obolibrary.org/obo/NCIT_C28586](NCIT:C28586) (Transcription Elongation), 
 
 **Class expressions from DL-Learner:**
 
@@ -12,6 +12,11 @@
 - [NCIT:C17828](http://purl.obolibrary.org/obo/NCIT_C17828) (Biological Process) 56.25%
 - [NCIT:C21049](http://purl.obolibrary.org/obo/NCIT_C21049) (Gene Expression Process) 52.23%
 - [NCIT:C17208](http://purl.obolibrary.org/obo/NCIT_C17208) (Transcription) 52.02%
+- [NCIT:C17208](http://purl.obolibrary.org/obo/NCIT_C17208) (Transcription) and (not ([CHEBI:23019](http://purl.obolibrary.org/obo/CHEBI_23019) (carbonyl group))) 52.02%
+- [NCIT:C17208](http://purl.obolibrary.org/obo/NCIT_C17208) (Transcription) and (not ([CHEBI:23004](http://purl.obolibrary.org/obo/CHEBI_23004) (carbamoyl group))) 52.02%
+- [NCIT:C17208](http://purl.obolibrary.org/obo/NCIT_C17208) (Transcription) and (not ([CHEBI:22868](http://purl.obolibrary.org/obo/CHEBI_22868) (bile salt))) 52.02%
+- [NCIT:C17208](http://purl.obolibrary.org/obo/NCIT_C17208) (Transcription) and (not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion))) 52.02%
+- [NCIT:C17208](http://purl.obolibrary.org/obo/NCIT_C17208) (Transcription) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 52.02%
 - [NCIT:C17208](http://purl.obolibrary.org/obo/NCIT_C17208) (Transcription) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 52.02%
 - [NCIT:C17208](http://purl.obolibrary.org/obo/NCIT_C17208) (Transcription) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 52.02%
 - [NCIT:C17208](http://purl.obolibrary.org/obo/NCIT_C17208) (Transcription) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 52.02%
