@@ -23,7 +23,9 @@ public class QueryExecutor {
 	}
 
 	public void executeUpdate(String queryFileName) {
+		logger.info("Before executeUpdate: " + commonModel.size());
 		UpdateAction.readExecute(queryFileName, commonModel);
+		logger.info("After executeUpdate: " + commonModel.size());
 	}
 
 	public ResultSet executeSelect(String queryFileName) {

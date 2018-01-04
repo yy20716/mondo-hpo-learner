@@ -5,9 +5,11 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.PrintWriter;
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
+import java.util.Map;
 import java.util.Optional;
 import java.util.Set;
 
@@ -16,6 +18,7 @@ import org.apache.jena.query.QuerySolution;
 import org.apache.jena.query.ResultSet;
 import org.apache.jena.rdf.model.Literal;
 import org.apache.jena.rdf.model.Resource;
+import org.apache.jena.rdf.model.ResourceFactory;
 import org.apache.log4j.Logger;
 import org.dllearner.core.EvaluatedDescription;
 import org.dllearner.core.Score;
@@ -25,13 +28,19 @@ import org.monarchinitiative.mondohpolearner.common.ReportGenerator;
 import org.semanticweb.owlapi.model.OWLClass;
 import org.semanticweb.owlapi.model.OWLClassExpression;
 
+import com.google.common.collect.Maps;
+import com.google.common.collect.Multimap;
+
+import net.steppschuh.markdowngenerator.link.Link;
 import net.steppschuh.markdowngenerator.list.UnorderedList;
 import net.steppschuh.markdowngenerator.text.emphasis.BoldText;
 import net.steppschuh.markdowngenerator.text.heading.Heading;
 
 public class NCITReportGenerator extends ReportGenerator {
 	private static final Logger logger = Logger.getLogger(NCITReportGenerator.class.getName());
-	
+	public Multimap<Resource, Resource> classSomeClassRsrcMap;
+	public Map<Resource, Resource> classEquivClassRsrcMap;
+
 	public NCITReportGenerator() {
 		super();
 	}
@@ -57,6 +66,35 @@ public class NCITReportGenerator extends ReportGenerator {
 			entityLabelMap.put(classRsrc.toString(), label.toString());
 		}
 	}
+
+	protected String generateAnnoClassListRrsc(Collection<Resource> classRsrcCol) {
+		StringBuilder sb = new StringBuilder();
+		List<Resource> classRsrcList = new ArrayList<Resource>(classRsrcCol);
+		for (Resource classRsrc: classRsrcList) {
+			Resource equivClassIRI = classEquivClassRsrcMap.get(classRsrc);
+			if (equivClassIRI == null) {
+				sb.append(classRsrc.toString());
+				continue;
+			}
+			
+			String classLabel = entityLabelMap.get(equivClassIRI.toString());
+			if (classLabel != null)
+				sb.append(annoIRIwithLink(equivClassIRI.toString()) + " (" + classLabel  +")").append(", ");
+			else
+				sb.append(annoIRIwithLink(equivClassIRI.toString())).append(", ");
+		}
+		return sb.toString();
+	}
+
+	// TODO: re-run and see whether the result is properly presented (expressed as Curie form) in the report files.
+	protected String annoIRIwithLink(String classIRI) {
+		Optional<String> classCurieOpt = curieUtil.getCurie(classIRI);
+		if (classCurieOpt.isPresent()) {
+			return new Link(classIRI, classCurieOpt.get()).toString();
+		} else {
+			return classIRI;
+		}
+	}
 	
 	@Override
 	@SuppressWarnings("unchecked")
@@ -69,12 +107,14 @@ public class NCITReportGenerator extends ReportGenerator {
 			BufferedWriter bw = new BufferedWriter(fw);
 			PrintWriter out = new PrintWriter(bw);
 
-			sb.append(newLineChar).append(new Heading(annoIRIwithLink(classCurie), 3)).append(newLineChar);
+			sb.append(newLineChar).append(new Heading(annoCuriewithLink(classCurie), 3)).append(newLineChar);
 
 			String classIRI = curieUtil.getIri(classCurie).get();
 			String mondoClassLabel = entityLabelMap.get(classIRI);
 			sb.append(new BoldText("Label:") + " " + mondoClassLabel).append(newLineChar).append(newLineChar);
-			sb.append(new BoldText("Subclasses:") + " " + generateAnnoClassListStr(classSubclassMap.get(classCurie))).append(newLineChar).append(newLineChar);
+
+			String equivClassListStr = generateAnnoClassListRrsc(classSomeClassRsrcMap.get(ResourceFactory.createResource(classIRI)));
+			sb.append(new BoldText("Corr. equiv. classes:") + " " + equivClassListStr).append(newLineChar).append(newLineChar);
 			sb.append(new BoldText("Class expressions from DL-Learner:")).append(newLineChar).append(newLineChar);
 
 			List<String> resultList = Lists.newArrayList();
@@ -93,7 +133,7 @@ public class NCITReportGenerator extends ReportGenerator {
 
 						if (hpClassIRIOpt.isPresent()) {
 							String hpClassLabel = entityLabelMap.get(hpClassIRIOpt.get());
-							hpClassExprStr = hpClassExprStr.replace(hpClassStr, annoIRIwithLink(hpClassCurie) + " (" + hpClassLabel + ")");	
+							hpClassExprStr = hpClassExprStr.replace(hpClassStr, annoCuriewithLink(hpClassCurie) + " (" + hpClassLabel + ")");	
 						} else {
 							hpClassExprStr = hpClassExprStr.replace(hpClassStr, hpClassCurie);
 						}

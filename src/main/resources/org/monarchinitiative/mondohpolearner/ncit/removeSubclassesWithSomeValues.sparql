@@ -1,8 +1,0 @@
-PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
-PREFIX owl: <http://www.w3.org/2002/07/owl#>
-
-DELETE { ?dsubclass rdfs:subClassOf ?dintclass }
-WHERE { 
-	?dsubclass rdfs:subClassOf ?dintclass .
-	?dintclass owl:someValuesFrom ?fsubclass
-}

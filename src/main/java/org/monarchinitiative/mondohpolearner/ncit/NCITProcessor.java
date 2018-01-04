@@ -38,7 +38,9 @@ public class NCITProcessor extends Processor{
 		pp.run(); /* preprocess the data */
 		prepareDLLearner(); /* read the pre-processed data and hand it over to DL-learner */
 		reportGenerator.precomputeLabels(); /* Initialize MarkDownReportGenerator */
-
+		((NCITReportGenerator)reportGenerator).classSomeClassRsrcMap = ((NCITPreprocessor)pp).classSomeClassRsrcMap;
+		((NCITReportGenerator)reportGenerator).classEquivClassRsrcMap = ((NCITPreprocessor)pp).classEquivClassRsrcMap;
+		
 		int classParamSize = classParamMap.keySet().size();
 		logger.info("the number of classes: " + classParamSize);
 
@@ -48,7 +50,6 @@ public class NCITProcessor extends Processor{
 		List<String> classKeyList = new ArrayList<>(classParamMap.asMap().keySet());
 
 		for (String classCurie : classKeyList) {
-			logger.info("classCurie: " + classCurie);
 			if (classCurie.contains("NCIT") != true) continue;
 			
 			File f = new File(markdownDir + File.separator + classCurie.replace(":", "_") + ".md");
@@ -58,10 +59,7 @@ public class NCITProcessor extends Processor{
 			int eqEntitySize = classEqEntityMap.get(classCurie).size();
 			if (eqEntitySize < 2) continue;
 
-			/*
-			int subClassSize = classSubClassMap.get(classCurie).size();
-			if (subClassSize < 2) continue;
-			*/
+			logger.info("classCurie: " + classCurie);
 			
 			Set<OWLIndividual> paramSet = new HashSet<>(classParamMap.get(classCurie));
 			logger.info(classCurie + " : " + paramSet);
@@ -69,12 +67,12 @@ public class NCITProcessor extends Processor{
 			DLLearnerRunner runner = new DLLearnerRunner (closedWorldReasoner, reportGenerator, classCurie, paramSet);
 			exe.submit(runner);
 		}
-
+		
 		try {
 			exe.shutdown();
 			exe.awaitTermination(Integer.MAX_VALUE, TimeUnit.SECONDS);
 			reportGenerator.generateIndexFile();
-		} catch (InterruptedException e) {
+		} catch (Exception e) {
 			logger.error(e.getMessage(), e);
 		}
 	}

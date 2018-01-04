@@ -172,17 +172,17 @@ public class ReportGenerator {
 			if (curieUtil.getIri(classCurie).isPresent()) {
 				String classLabel = entityLabelMap.get(curieUtil.getIri(classCurie).get());
 				if (classLabel != null)
-					sb.append(annoIRIwithLink(classCurie) + " (" + classLabel  +")").append(", ");
+					sb.append(annoCuriewithLink(classCurie) + " (" + classLabel  +")").append(", ");
 				else
-					sb.append(annoIRIwithLink(classCurie)).append(", ");
+					sb.append(annoCuriewithLink(classCurie)).append(", ");
 			} else {
-				sb.append(annoIRIwithLink(classCurie)).append(", ");
+				sb.append(annoCuriewithLink(classCurie)).append(", ");
 			}
 		}
 		return sb.toString();
 	}
 
-	protected String annoIRIwithLink(String classCurie) {
+	protected String annoCuriewithLink(String classCurie) {
 		classCurie = classCurie.replace("ORPHA", "Orphanet");
 		Optional<String> classCurieOpt = curieUtil.getIri(classCurie);
 		if (classCurieOpt.isPresent()) {
@@ -203,7 +203,7 @@ public class ReportGenerator {
 			BufferedWriter bw = new BufferedWriter(fw);
 			PrintWriter out = new PrintWriter(bw);
 
-			sb.append(newLineChar).append(new Heading(annoIRIwithLink(classCurie), 3)).append(newLineChar);
+			sb.append(newLineChar).append(new Heading(annoCuriewithLink(classCurie), 3)).append(newLineChar);
 
 			String classIRI = curieUtil.getIri(classCurie).get();
 			String mondoClassLabel = entityLabelMap.get(classIRI);
@@ -228,7 +228,7 @@ public class ReportGenerator {
 
 						if (hpClassIRIOpt.isPresent()) {
 							String hpClassLabel = entityLabelMap.get(hpClassIRIOpt.get());
-							hpClassExprStr = hpClassExprStr.replace(hpClassStr, annoIRIwithLink(hpClassCurie) + " (" + hpClassLabel + ")");	
+							hpClassExprStr = hpClassExprStr.replace(hpClassStr, annoCuriewithLink(hpClassCurie) + " (" + hpClassLabel + ")");	
 						} else {
 							hpClassExprStr = hpClassExprStr.replace(hpClassStr, hpClassCurie);
 						}
