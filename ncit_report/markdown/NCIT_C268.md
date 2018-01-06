@@ -2,7 +2,7 @@
 ### [NCIT:C268](http://purl.obolibrary.org/obo/NCIT_C268)
 **Label:** Antigen
 
-**Subclasses:** 
+**Corr. equiv. classes:** [http://purl.obolibrary.org/obo/NCIT_C17930](NCIT:C17930) (Immune Response Process), [http://purl.obolibrary.org/obo/NCIT_C26280](NCIT:C26280) (Immune Cell Activation Process), [http://purl.obolibrary.org/obo/NCIT_C16710](NCIT:C16710) (Immunity), 
 
 **Class expressions from DL-Learner:**
 
@@ -14,6 +14,11 @@
 - [NCIT:C16710](http://purl.obolibrary.org/obo/NCIT_C16710) (Immunity) and (not ([NCIT:C16711](http://purl.obolibrary.org/obo/NCIT_C16711) (Cell-Mediated Immunity))) 52.02%
 - Thing 50.70%
 - [NCIT:C16710](http://purl.obolibrary.org/obo/NCIT_C16710) (Immunity) 45.53%
+- [NCIT:C16710](http://purl.obolibrary.org/obo/NCIT_C16710) (Immunity) and (not ([CHEBI:23004](http://purl.obolibrary.org/obo/CHEBI_23004) (carbamoyl group))) 45.53%
+- [NCIT:C16710](http://purl.obolibrary.org/obo/NCIT_C16710) (Immunity) and (not ([CHEBI:22868](http://purl.obolibrary.org/obo/CHEBI_22868) (bile salt))) 45.53%
+- [NCIT:C16710](http://purl.obolibrary.org/obo/NCIT_C16710) (Immunity) and (not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion))) 45.53%
+- [NCIT:C16710](http://purl.obolibrary.org/obo/NCIT_C16710) (Immunity) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 45.53%
+- [NCIT:C16710](http://purl.obolibrary.org/obo/NCIT_C16710) (Immunity) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 45.53%
 - [NCIT:C16710](http://purl.obolibrary.org/obo/NCIT_C16710) (Immunity) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 45.53%
 - [NCIT:C16710](http://purl.obolibrary.org/obo/NCIT_C16710) (Immunity) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 45.53%
 - [NCIT:C16710](http://purl.obolibrary.org/obo/NCIT_C16710) (Immunity) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 45.53%

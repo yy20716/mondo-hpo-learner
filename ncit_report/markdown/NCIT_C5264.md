@@ -2,12 +2,17 @@
 ### [NCIT:C5264](http://purl.obolibrary.org/obo/NCIT_C5264)
 **Label:** Bronchial Mucosa-Associated Lymphoid Tissue Lymphoma
 
-**Subclasses:** 
+**Corr. equiv. classes:** [http://purl.obolibrary.org/obo/NCIT_C99875](NCIT:C99875) (BIRC3/MALT1 Fusion Gene), [http://purl.obolibrary.org/obo/NCIT_C60671](NCIT:C60671) (MALT1 Gene), 
 
 **Class expressions from DL-Learner:**
 
 - [NCIT:C60671](http://purl.obolibrary.org/obo/NCIT_C60671) (MALT1 Gene) and (not ([NCIT:C60672](http://purl.obolibrary.org/obo/NCIT_C60672) (MALT1 wt Allele))) 75.00%
 - [NCIT:C60671](http://purl.obolibrary.org/obo/NCIT_C60671) (MALT1 Gene) 60.36%
+- [NCIT:C60671](http://purl.obolibrary.org/obo/NCIT_C60671) (MALT1 Gene) and (not ([CHEBI:26833](http://purl.obolibrary.org/obo/CHEBI_26833) (sulfur atom))) 60.36%
+- [NCIT:C60671](http://purl.obolibrary.org/obo/NCIT_C60671) (MALT1 Gene) and (not ([CHEBI:26708](http://purl.obolibrary.org/obo/CHEBI_26708) (sodium atom))) 60.36%
+- [NCIT:C60671](http://purl.obolibrary.org/obo/NCIT_C60671) (MALT1 Gene) and (not ([CHEBI:25805](http://purl.obolibrary.org/obo/CHEBI_25805) (oxygen atom))) 60.36%
+- [NCIT:C60671](http://purl.obolibrary.org/obo/NCIT_C60671) (MALT1 Gene) and (not ([CHEBI:25555](http://purl.obolibrary.org/obo/CHEBI_25555) (nitrogen atom))) 60.36%
+- [NCIT:C60671](http://purl.obolibrary.org/obo/NCIT_C60671) (MALT1 Gene) and (not ([CHEBI:23019](http://purl.obolibrary.org/obo/CHEBI_23019) (carbonyl group))) 60.36%
 - [NCIT:C60671](http://purl.obolibrary.org/obo/NCIT_C60671) (MALT1 Gene) and (not ([CHEBI:23004](http://purl.obolibrary.org/obo/CHEBI_23004) (carbamoyl group))) 60.36%
 - [NCIT:C60671](http://purl.obolibrary.org/obo/NCIT_C60671) (MALT1 Gene) and (not ([CHEBI:22868](http://purl.obolibrary.org/obo/CHEBI_22868) (bile salt))) 60.36%
 - [NCIT:C60671](http://purl.obolibrary.org/obo/NCIT_C60671) (MALT1 Gene) and (not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion))) 60.36%

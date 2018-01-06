@@ -2,11 +2,16 @@
 ### [NCIT:C4244](http://purl.obolibrary.org/obo/NCIT_C4244)
 **Label:** Infantile Fibrosarcoma
 
-**Subclasses:** 
+**Corr. equiv. classes:** [http://purl.obolibrary.org/obo/NCIT_C24647](NCIT:C24647) (NTRK3 Gene), [http://purl.obolibrary.org/obo/NCIT_C99413](NCIT:C99413) (ETV6/NTRK3 Fusion Gene), 
 
 **Class expressions from DL-Learner:**
 
 - [NCIT:C16612](http://purl.obolibrary.org/obo/NCIT_C16612) (Gene) 52.33%
+- not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain)) 50.57%
+- not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin)) 50.57%
+- not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid)) 50.57%
+- not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene)) 50.57%
+- not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron)) 50.57%
 - Thing 50.57%
 - not (CARO:0010000) 50.57%
 - not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null)) 50.57%

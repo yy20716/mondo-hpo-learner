@@ -2,12 +2,17 @@
 ### [NCIT:C9119](http://purl.obolibrary.org/obo/NCIT_C9119)
 **Label:** Medullary Breast Carcinoma
 
-**Subclasses:** 
+**Corr. equiv. classes:** [http://purl.obolibrary.org/obo/NCIT_C17359](NCIT:C17359) (TP53 Gene), [http://purl.obolibrary.org/obo/NCIT_C17965](NCIT:C17965) (BRCA1 Gene), 
 
 **Class expressions from DL-Learner:**
 
 - [NCIT:C16612](http://purl.obolibrary.org/obo/NCIT_C16612) (Gene) 52.33%
 - not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain)) 50.57%
+- not ([CHEBI:25555](http://purl.obolibrary.org/obo/CHEBI_25555) (nitrogen atom)) 50.57%
+- not ([CHEBI:23019](http://purl.obolibrary.org/obo/CHEBI_23019) (carbonyl group)) 50.57%
+- not ([CHEBI:23004](http://purl.obolibrary.org/obo/CHEBI_23004) (carbamoyl group)) 50.57%
+- not ([CHEBI:22868](http://purl.obolibrary.org/obo/CHEBI_22868) (bile salt)) 50.57%
+- not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion)) 50.57%
 - not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein)) 50.57%
 - not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin)) 50.57%
 - not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid)) 50.57%
