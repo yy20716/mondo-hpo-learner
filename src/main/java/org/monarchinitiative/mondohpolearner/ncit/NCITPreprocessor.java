@@ -19,6 +19,7 @@ import org.apache.jena.rdf.model.ModelFactory;
 import org.apache.jena.rdf.model.Property;
 import org.apache.jena.rdf.model.Resource;
 import org.apache.jena.rdf.model.ResourceFactory;
+import org.apache.jena.vocabulary.OWL;
 import org.apache.jena.vocabulary.RDF;
 import org.apache.log4j.Logger;
 import org.monarchinitiative.mondohpolearner.common.Preprocessor;
@@ -39,14 +40,17 @@ public class NCITPreprocessor extends Preprocessor {
 	private static String queryReplaceEquivClasses = ncitQueryPath + File.separator + "replaceEquiv.sparql";
 	private static String querySelectSubClasses = ncitQueryPath + File.separator + "extractSubClasses.sparql";
 	private static String querySelectSomeClasses = ncitQueryPath + File.separator + "extractSomeValuesFrom.sparql";
+	private static String querySelectDiseaseClasses= ncitQueryPath + File.separator + "selectDiseaseClasses.sparql";
+	private static String querySelectIntSomeClasses= ncitQueryPath + File.separator + "selectIntSomeClasses.sparql";
 	private static String queryRemoveSubClassesSubj = ncitQueryPath + File.separator + "removeSubclassesSubj.sparql";
 	private static String queryRemoveSubClassesObj = ncitQueryPath + File.separator + "removeSubclassesObj.sparql";
-	
+
 	public Map<Resource, Resource> classEquivClassRsrcMap = Maps.newHashMap();
 	public Multimap<Resource, Resource> classSubClassRsrcMap = Multimaps.newSetMultimap(new LinkedHashMap<>(), HashSet::new);
 	public Multimap<Resource, Resource> classSomeClassRsrcMap = Multimaps.newSetMultimap(new LinkedHashMap<>(), HashSet::new);
 	public Set<Resource> subClassTrailSet = Sets.newHashSet();
-	
+	public Set<String> diseaseCuries = Sets.newHashSet();
+
 	public NCITPreprocessor() {
 		super();
 	}
@@ -54,71 +58,59 @@ public class NCITPreprocessor extends Preprocessor {
 	private void visitSubClassNode(Model model, Resource classIRI) {
 		subClassTrailSet.add(classIRI);
 		Collection<Resource> subClassIRIs = classSubClassRsrcMap.get(classIRI);
+		visitSomeClassNode(model, classIRI);
+
+		Resource b1 = generateDummyResource(model, classIRI);
+		/*
+		if (classIRI.isAnon() != true) {
+			if (classIRI.toString().contains("owl") != true)
+				model.add(b1, RDF.type, classIRI);
+		}
+		*/
 		if (subClassIRIs.isEmpty()) {
-			visitSomeClassNode(model, classIRI, classIRI);
 			return;
 		}
+
+		// Property dummyProp = ResourceFactory.createProperty("http://a.com/d0");
 
 		for (Resource subClassIRI : subClassIRIs) {
 			if (subClassTrailSet.contains(subClassIRI)) continue;
+			Resource b2 = generateDummyResource(model, subClassIRI);
+			if (classIRI.isAnon() != true && diseaseCuries.contains(curieUtil.getCurie(classIRI.toString()).get())) {
+				if (diseaseCuries.contains(curieUtil.getCurie(subClassIRI.toString()).get())) {
+					classEqEntityMap.put(curieUtil.getCurie(classIRI.getURI()).get(), b2.getURI());
+				}
+			}
+
+			model.add(b1, OWL.sameAs, b2);
+			// logger.info("1: <" + b1 + "> dummyProp <" + b2 + ">" );
 			visitSubClassNode(model, subClassIRI);
 		}
+		
+		if (classIRI.isAnon() != true)
+			logger.info(classIRI + ", " + classEqEntityMap.get(curieUtil.getCurie(classIRI.getURI()).get()));
 	}
 
-	private Resource generateDummyResource(Model model, Resource classIRI) {
-		Resource b1 = null;
-		if (classIRI.isAnon()) {
-			b1 = model.createResource("http://a.com/" +  classIRI.getId().toString().replace("-", ""));
-		} else if (classIRI.isURIResource()) {
-			String[] classIRIArr = curieUtil.getCurie(classIRI.toString()).get().split(":");
-			b1 = model.createResource("http://a.com/" + classIRIArr[0] + classIRIArr[1]);
-		}
-		return b1;
-	}
-	
-	private void visitSomeClassNode(Model model, Resource classIRI, Resource beginClassIRI) {
-		Collection<Resource> someClassIRIs = classSomeClassRsrcMap.get(classIRI);
-		Collection<Resource> subClassIRIs = classSubClassRsrcMap.get(classIRI);
-		/* logger.info("classIRI: " + classIRI + " - " + someClassIRIs); */
-		
+	private void visitSomeClassNode(Model model, Resource classIRI) {
 		Resource b1 = generateDummyResource(model, classIRI);
-		if (classIRI.isURIResource()) {
-			/* reasoners say that no instance should be the instance of owl:Nothing */
-			if (b1.toString().contains("owl")) return;
-			model.add(b1, RDF.type, classIRI);
-		}
-		
-		if (someClassIRIs.isEmpty()) {	
-			/* logger.info("classIRI: " + classIRI + " - no children."); */
-			return;
-		}
-		
+		// Property dummyProp = ResourceFactory.createProperty("http://a.com/d1");
+
+		Collection<Resource> someClassIRIs = classSomeClassRsrcMap.get(classIRI);
+		if (someClassIRIs.isEmpty()) return;
+
 		for (Resource someClassIRI : someClassIRIs) {
-			visitSomeClassNode(model, someClassIRI, beginClassIRI);
-			
-			Resource equivSomeClassIRI = classEquivClassRsrcMap.get(someClassIRI);
-			if (equivSomeClassIRI == null) continue;
-			
 			Resource b2 = generateDummyResource(model, someClassIRI);
-			Property dummyProp = ResourceFactory.createProperty("http://a.com/d" + b1.getURI() + b2.getURI());
-			model.add(b2, RDF.type, equivSomeClassIRI);
-			model.add(b1, dummyProp, b2);
-			
-			classEqEntityMap.put(curieUtil.getCurie(beginClassIRI.getURI()).get(), b2.toString());
-		}
-		
-		for (Resource subClassIRI : subClassIRIs) {
-			visitSomeClassNode(model, subClassIRI, beginClassIRI);
-			
-			Resource equivSomeClassIRI = classEquivClassRsrcMap.get(subClassIRI);
-			if (equivSomeClassIRI == null) continue;
-			
-			Resource b2 = generateDummyResource(model, subClassIRI);
-			Property dummyProp = ResourceFactory.createProperty("http://a.com/d" + b1.getURI() + b2.getURI());
-			model.add(b2, RDF.type, equivSomeClassIRI);
-			model.add(b1, dummyProp, b2);
-			
-			classEqEntityMap.put(curieUtil.getCurie(beginClassIRI.getURI()).get(), b2.toString());
+			model.add(b1, OWL.sameAs, b2);
+			// logger.info("<" + b1 + "> dummyProp <" + b2 + ">" );
+
+			if (someClassIRI.isAnon() != true) {
+				if (diseaseCuries.contains(curieUtil.getCurie(someClassIRI.toString()).get()) != true) {
+					model.add(b2, RDF.type, someClassIRI);
+					// logger.info("2: <" + b2 + "> rdf:type <" + someClassIRI + ">" );
+				}
+			}
+
+			visitSubClassNode(model, someClassIRI);
 		}
 	}
 
@@ -144,7 +136,7 @@ public class NCITPreprocessor extends Preprocessor {
 				Resource subClassRsrc = (Resource)binding.get("subclass");
 				Resource classRsrc = (Resource)binding.get("class");
 				classSubClassRsrcMap.put(classRsrc, subClassRsrc);
-				
+
 				Optional<String> classRsrcOpt = curieUtil.getCurie(classRsrc.toString());
 				Optional<String> subClassRsrcOpt = curieUtil.getCurie(subClassRsrc.toString());
 				if (classRsrcOpt.isPresent() && subClassRsrcOpt.isPresent()) 
@@ -157,15 +149,47 @@ public class NCITPreprocessor extends Preprocessor {
 				Resource someClassRsrc = (Resource)binding.get("someclass");
 				Resource classRsrc = (Resource)binding.get("class");
 				classSomeClassRsrcMap.put(classRsrc, someClassRsrc);
+				// classSomeClassRsrcMap.put(someClassRsrc, classRsrc);
+			}
+
+			ResultSet resultSet4 = queryExecutor.executeSelect(querySelectDiseaseClasses);
+			while (resultSet4.hasNext()) {
+				QuerySolution binding = resultSet4.nextSolution();
+				Resource dClassRsrc = (Resource)binding.get("dsubclass");
+				diseaseCuries.add(curieUtil.getCurie(dClassRsrc.toString()).get());
+			}
+
+			ResultSet resultSet5 = queryExecutor.executeSelect(querySelectIntSomeClasses);
+			// Property dummyProp = ResourceFactory.createProperty("http://a.com/d2");
+			while (resultSet5.hasNext()) {
+				QuerySolution binding = resultSet5.nextSolution();
+				Resource classRsrc = (Resource)binding.get("class");
+				Resource someClassRsrc = (Resource)binding.get("someclass");
+
+				Resource b1 = generateDummyResource(model, classRsrc);
+				Resource b2 = generateDummyResource(model, someClassRsrc);
+				if (classRsrc.isAnon() != true && classRsrc.toString().contains("owl") != true)
+					model.add(b1, RDF.type, classRsrc);
+				
+				model.add(b1, OWL.sameAs, b2);
+				// logger.info("3: <" + b1 + "> dummyProp2 <" + b2 + ">" );
+				if (someClassRsrc.isAnon() != true ) {
+					if (diseaseCuries.contains(curieUtil.getCurie(someClassRsrc.toString()).get()) != true) {
+						model.add(b2, RDF.type, someClassRsrc);
+						// logger.info("4: <" + b2 + "> rdf:type <" + someClassRsrc + ">" );
+					}
+				}
 			}
 
 			for (Resource classIRI: classSubClassRsrcMap.keySet()) {
 				visitSubClassNode(model, classIRI);
 			}
 
+			/*
 			queryExecutor.executeUpdate(queryRemoveSubClassesSubj);
 			queryExecutor.executeUpdate(queryRemoveSubClassesObj);
-			
+			 */
+
 			logger.info("classSubClassMap.size:" + classSubClassRsrcMap.size());
 			logger.info("classEqEntityMap.size:" + classEqEntityMap.size());
 
@@ -175,6 +199,12 @@ public class NCITPreprocessor extends Preprocessor {
 					classParamMap.put(eachClass, new OWLNamedIndividualImpl(IRI.create(eqEntity)));
 				}
 			}
+
+			/*
+			for (String eachClass: classParamMap.keySet()) {
+				logger.info(eachClass + " : " + classParamMap.get(eachClass));
+			}
+			 */
 
 			File file = new File(Processor.hpofilewithAbox);
 			FileUtils.deleteQuietly(file);
@@ -187,4 +217,15 @@ public class NCITPreprocessor extends Preprocessor {
 			logger.error(e.getMessage(), e);
 		}
 	}	
+
+	private Resource generateDummyResource(Model model, Resource classIRI) {
+		Resource b1 = null;
+		if (classIRI.isAnon()) {
+			b1 = model.createResource("http://a.com/" +  classIRI.getId().toString().replace("-", ""));
+		} else if (classIRI.isURIResource()) {
+			String[] classIRIArr = curieUtil.getCurie(classIRI.toString()).get().split(":");
+			b1 = model.createResource("http://a.com/" + classIRIArr[0] + classIRIArr[1]);
+		}
+		return b1;
+	}
 }

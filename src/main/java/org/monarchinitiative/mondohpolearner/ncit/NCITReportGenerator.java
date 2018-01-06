@@ -66,37 +66,9 @@ public class NCITReportGenerator extends ReportGenerator {
 			entityLabelMap.put(classRsrc.toString(), label.toString());
 		}
 	}
-
-	protected String generateAnnoClassListRrsc(Collection<Resource> classRsrcCol) {
-		StringBuilder sb = new StringBuilder();
-		List<Resource> classRsrcList = new ArrayList<Resource>(classRsrcCol);
-		for (Resource classRsrc: classRsrcList) {
-			Resource equivClassIRI = classEquivClassRsrcMap.get(classRsrc);
-			if (equivClassIRI == null) {
-				sb.append(classRsrc.toString());
-				continue;
-			}
-			
-			String classLabel = entityLabelMap.get(equivClassIRI.toString());
-			if (classLabel != null)
-				sb.append(annoIRIwithLink(equivClassIRI.toString()) + " (" + classLabel  +")").append(", ");
-			else
-				sb.append(annoIRIwithLink(equivClassIRI.toString())).append(", ");
-		}
-		return sb.toString();
-	}
-
-	// TODO: re-run and see whether the result is properly presented (expressed as Curie form) in the report files.
-	protected String annoIRIwithLink(String classIRI) {
-		Optional<String> classCurieOpt = curieUtil.getCurie(classIRI);
-		if (classCurieOpt.isPresent()) {
-			return new Link(classIRI, classCurieOpt.get()).toString();
-		} else {
-			return classIRI;
-		}
-	}
 	
-	@Override
+
+	/* render and write a report file */
 	@SuppressWarnings("unchecked")
 	public void render(String classCurie, Set<? extends EvaluatedDescription> learnedExprs) {
 		StringBuilder sb = new StringBuilder();
@@ -112,9 +84,7 @@ public class NCITReportGenerator extends ReportGenerator {
 			String classIRI = curieUtil.getIri(classCurie).get();
 			String mondoClassLabel = entityLabelMap.get(classIRI);
 			sb.append(new BoldText("Label:") + " " + mondoClassLabel).append(newLineChar).append(newLineChar);
-
-			String equivClassListStr = generateAnnoClassListRrsc(classSomeClassRsrcMap.get(ResourceFactory.createResource(classIRI)));
-			sb.append(new BoldText("Corr. equiv. classes:") + " " + equivClassListStr).append(newLineChar).append(newLineChar);
+			sb.append(new BoldText("Subclasses:") + " " + generateAnnoClassListStr(classSubclassMap.get(classCurie))).append(newLineChar).append(newLineChar);
 			sb.append(new BoldText("Class expressions from DL-Learner:")).append(newLineChar).append(newLineChar);
 
 			List<String> resultList = Lists.newArrayList();
