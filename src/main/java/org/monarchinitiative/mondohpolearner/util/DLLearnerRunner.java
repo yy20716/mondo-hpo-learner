@@ -42,7 +42,7 @@ public class DLLearnerRunner implements Callable<Void> {
 			alg.setWriteSearchTree(true);
 			alg.setSearchTreeFile("log/search-tree.log");
 			alg.setReplaceSearchTree(true);
-			alg.setNoisePercentage(75);
+			alg.setNoisePercentage(100);
 			alg.setMaxNrOfResults(15);
 			alg.init();
 			alg.start();

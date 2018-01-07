@@ -51,37 +51,36 @@ public class NCITPreprocessor extends Preprocessor {
 	public Multimap<Resource, Resource> classSomeClassRsrcMap = Multimaps.newSetMultimap(new LinkedHashMap<>(), HashSet::new);
 	public Set<Resource> subClassTrailSet = Sets.newHashSet();
 	public Set<String> diseaseCuries = Sets.newHashSet();
-	public Property dummyProp = ResourceFactory.createProperty("http://a.com/d");
 	
 	public NCITPreprocessor() {
 		super();
 	}
 
 	private void visitSubClassNode(Model model, Resource classIRI) {
+		// if (classIRI.toString().contains("C27134")) logger.info("");
+		
 		subClassTrailSet.add(classIRI);
 		Collection<Resource> subClassIRIs = classSubClassRsrcMap.get(classIRI);
 		visitSomeClassNode(model, classIRI);
 		
+		if (subClassIRIs.isEmpty()) return;
+
 		if (classIRI.toString().contains("owl")) return;
 		Resource b1 = generateDummyResource(model, classIRI);
-		// model.add(b1, RDF.type, classIRI);
-		
-		if (subClassIRIs.isEmpty()) return;
+		// model.add(b1, RDF.type, classIRI);		
 		
 		for (Resource subClassIRI : subClassIRIs) {
 			if (subClassTrailSet.contains(subClassIRI)) continue;
+
+			// if (subClassIRI.toString().contains("C9294")) logger.info("");
 			
 			Resource b2 = generateDummyResource(model, subClassIRI);
-			if (classIRI.isAnon() != true) {
-					classEqEntityMap.put(curieUtil.getCurie(classIRI.getURI()).get(), b2.getURI());
-			}
-
+			Property dummyProp = ResourceFactory.createProperty("http://a.com/d" + classIRI.toString() + subClassIRI.toString());
 			model.add(b1, dummyProp, b2);
+			visitSubClassNode(model, subClassIRI);
 			
 			if (subClassIRI.toString().contains("owl")) continue;
 			// model.add(b2, RDF.type, subClassIRI);
-			
-			visitSubClassNode(model, subClassIRI);
 		}
 	}
 
@@ -96,9 +95,13 @@ public class NCITPreprocessor extends Preprocessor {
 
 		for (Resource someClassIRI : someClassIRIs) {
 			Resource b2 = generateDummyResource(model, someClassIRI);
+			if (someClassIRI.isAnon()) continue;
+			
+			Property dummyProp = ResourceFactory.createProperty("http://a.com/d" + classIRI.toString() + someClassIRI.toString());
 			model.add(b1, dummyProp, b2);
 			model.add(b2, RDF.type, someClassIRI);
 			
+			classEqEntityMap.put(curieUtil.getCurie(classIRI.getURI()).get(), b2.getURI());
 			visitSubClassNode(model, someClassIRI);
 		}
 	}
@@ -158,12 +161,16 @@ public class NCITPreprocessor extends Preprocessor {
 				Resource b1 = generateDummyResource(model, classRsrc);
 				Resource b2 = generateDummyResource(model, someClassRsrc);
 				
+				if (classRsrc.isAnon()) continue;
 				if (classRsrc.toString().contains("owl")) continue;
-				model.add(b1, RDF.type, classRsrc);
-				model.add(b1, dummyProp, b2);
-				
+				if (someClassRsrc.isAnon()) continue;
 				if (someClassRsrc.toString().contains("owl")) continue;
+
+				Property dummyProp = ResourceFactory.createProperty("http://a.com/d" + classRsrc.toString() + someClassRsrc.toString());
+				model.add(b1, dummyProp, b2);
 				model.add(b2, RDF.type, someClassRsrc);
+
+				classEqEntityMap.put(curieUtil.getCurie(classRsrc.getURI()).get(), b2.getURI());		
 			}
 
 			for (Resource classIRI: classSubClassRsrcMap.keySet()) {
