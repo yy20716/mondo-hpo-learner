@@ -1,0 +1,25 @@
+
+### [NCIT:C6381](http://purl.obolibrary.org/obo/NCIT_C6381)
+**Label:** Vulvar Basal Cell Carcinoma
+
+**Subclasses:** 
+
+**Class expressions from DL-Learner:**
+
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C36783](http://purl.obolibrary.org/obo/NCIT_C36783) (Malignant Non-Cutaneous Basaloid Cell))) 55.56%
+- Thing 53.40%
+- [NCIT:C60783](http://purl.obolibrary.org/obo/NCIT_C60783) (Malignant Cutaneous Basaloid Cell) 52.78%
+- [NCIT:C36781](http://purl.obolibrary.org/obo/NCIT_C36781) (Neoplastic Cutaneous Basaloid Cell) 52.78%
+- [NCIT:C36781](http://purl.obolibrary.org/obo/NCIT_C36781) (Neoplastic Cutaneous Basaloid Cell) and [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) 52.78%
+- [NCIT:C36759](http://purl.obolibrary.org/obo/NCIT_C36759) (Neoplastic Basaloid Cell) 47.06%
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) 46.38%
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40153](http://purl.obolibrary.org/obo/NCIT_C40153) (Endometrial Mixed Adenocarcinoma))) 46.38%
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40152](http://purl.obolibrary.org/obo/NCIT_C40152) (Serous Endometrial Intraepithelial Carcinoma))) 46.38%
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40151](http://purl.obolibrary.org/obo/NCIT_C40151) (Grade 3 Endometrial Mucinous Adenocarcinoma))) 46.38%
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40150](http://purl.obolibrary.org/obo/NCIT_C40150) (Grade 2 Endometrial Mucinous Adenocarcinoma))) 46.38%
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40149](http://purl.obolibrary.org/obo/NCIT_C40149) (Grade 1 Endometrial Mucinous Adenocarcinoma))) 46.38%
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40148](http://purl.obolibrary.org/obo/NCIT_C40148) (Grade 3 Endometrial Endometrioid Adenocarcinoma))) 46.38%
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40147](http://purl.obolibrary.org/obo/NCIT_C40147) (Grade 2 Endometrial Endometrioid Adenocarcinoma))) 46.38%
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40146](http://purl.obolibrary.org/obo/NCIT_C40146) (Grade 1 Endometrial Endometrioid Adenocarcinoma))) 46.38%
+
+

@@ -1,0 +1,25 @@
+
+### [NCIT:C4727](http://purl.obolibrary.org/obo/NCIT_C4727)
+**Label:** Post-Transplant Lymphoproliferative Disorder
+
+**Subclasses:** [NCIT:C27696](http://purl.obolibrary.org/obo/NCIT_C27696) (EBV-Related Post-Transplant Lymphoproliferative Disorder), [NCIT:C27695](http://purl.obolibrary.org/obo/NCIT_C27695) (EBV-Related Clonal Post-Transplant Lymphoproliferative Disorder), [NCIT:C7249](http://purl.obolibrary.org/obo/NCIT_C7249) (Immunoblastic Lymphoma Post-Transplant Lymphoproliferative Disorder), [NCIT:C7238](http://purl.obolibrary.org/obo/NCIT_C7238) (Monomorphic T/NK-Cell Post-Transplant Lymphoproliferative Disorder), [NCIT:C7248](http://purl.obolibrary.org/obo/NCIT_C7248) (Centroblastic Lymphoma Post-Transplant Lymphoproliferative Disorder), [NCIT:C7237](http://purl.obolibrary.org/obo/NCIT_C7237) (Monomorphic B-Cell Post-Transplant Lymphoproliferative Disorder), [NCIT:C7239](http://purl.obolibrary.org/obo/NCIT_C7239) (Hodgkin-Like Post-Transplant Lymphoproliferative Disorder), [NCIT:C7245](http://purl.obolibrary.org/obo/NCIT_C7245) (Burkitt-Like Lymphoma Post-Transplant Lymphoproliferative Disorder), [NCIT:C7233](http://purl.obolibrary.org/obo/NCIT_C7233) (Monomorphic Post-Transplant Lymphoproliferative Disorder), [NCIT:C7244](http://purl.obolibrary.org/obo/NCIT_C7244) (Burkitt Lymphoma Post-Transplant Lymphoproliferative Disorder), [NCIT:C7247](http://purl.obolibrary.org/obo/NCIT_C7247) (Anaplastic Lymphoma Post-Transplant Lymphoproliferative Disorder), [NCIT:C7246](http://purl.obolibrary.org/obo/NCIT_C7246) (Diffuse Large B-Cell Lymphoma Post-Transplant Lymphoproliferative Disorder), [NCIT:C7241](http://purl.obolibrary.org/obo/NCIT_C7241) (Plasmacytoma-Like Post-Transplant Lymphoproliferative Disorder), [NCIT:C7240](http://purl.obolibrary.org/obo/NCIT_C7240) (Plasma Cell Post-Transplant Lymphoproliferative Disorder), [NCIT:C7243](http://purl.obolibrary.org/obo/NCIT_C7243) (Classical Hodgkin Lymphoma Type Post-Transplant Lymphoproliferative Disorder), [NCIT:C7232](http://purl.obolibrary.org/obo/NCIT_C7232) (Neoplastic Post-Transplant Lymphoproliferative Disorder), [NCIT:C7242](http://purl.obolibrary.org/obo/NCIT_C7242) (Plasma Cell Myeloma Post-Transplant Lymphoproliferative Disorder), [NCIT:C7183](http://purl.obolibrary.org/obo/NCIT_C7183) (Polymorphic Post-Transplant Lymphoproliferative Disorder), 
+
+**Class expressions from DL-Learner:**
+
+- [UBERON:0002465](http://purl.obolibrary.org/obo/UBERON_0002465) (lymphoid system) 57.14%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39620](http://purl.obolibrary.org/obo/NCIT_C39620) (Dermatopathic Lymphadenopathy))) 57.14%
+- Thing 52.12%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) 42.50%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 42.50%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 42.50%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 42.50%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 42.50%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 42.50%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 42.50%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 42.50%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 42.50%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 42.50%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 42.50%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40034](http://purl.obolibrary.org/obo/NCIT_C40034) (Ovarian Mucinous Adenocarcinofibroma))) 42.50%
+
+

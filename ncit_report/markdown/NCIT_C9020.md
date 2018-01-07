@@ -2,29 +2,24 @@
 ### [NCIT:C9020](http://purl.obolibrary.org/obo/NCIT_C9020)
 **Label:** Acute Myelomonocytic Leukemia with Abnormal Eosinophils
 
-**Corr. equiv. classes:** [http://purl.obolibrary.org/obo/NCIT_C29957](NCIT:C29957) (MYH11 Gene), [http://purl.obolibrary.org/obo/NCIT_C18584](NCIT:C18584) (CBFB Gene), 
+**Subclasses:** 
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) 60.36%
-- [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) and (not ([CHEBI:26708](http://purl.obolibrary.org/obo/CHEBI_26708) (sodium atom))) 60.36%
-- [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) and (not ([CHEBI:25805](http://purl.obolibrary.org/obo/CHEBI_25805) (oxygen atom))) 60.36%
-- [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) and (not ([CHEBI:25555](http://purl.obolibrary.org/obo/CHEBI_25555) (nitrogen atom))) 60.36%
-- [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) and (not ([CHEBI:23019](http://purl.obolibrary.org/obo/CHEBI_23019) (carbonyl group))) 60.36%
-- [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) and (not ([CHEBI:23004](http://purl.obolibrary.org/obo/CHEBI_23004) (carbamoyl group))) 60.36%
-- [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) and (not ([CHEBI:22868](http://purl.obolibrary.org/obo/CHEBI_22868) (bile salt))) 60.36%
-- [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) and (not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion))) 60.36%
-- [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 60.36%
-- [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 60.36%
-- [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 60.36%
-- [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 60.36%
-- [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 60.36%
-- [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 60.36%
-- [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) and (not (CARO:0010000)) 60.36%
-- [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 60.36%
-- [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) and (not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null))) 60.36%
-- [NCIT:C16612](http://purl.obolibrary.org/obo/NCIT_C16612) (Gene) 52.33%
-- Thing 50.57%
-- [NCIT:C29957](http://purl.obolibrary.org/obo/NCIT_C29957) (MYH11 Gene) 50.00%
+- Thing 54.67%
+- [NCIT:C37181](http://purl.obolibrary.org/obo/NCIT_C37181) (Neoplastic Monoblast) 51.47%
+- [NCIT:C37076](http://purl.obolibrary.org/obo/NCIT_C37076) (Neoplastic Neutrophilic Precursor) 51.47%
+- [NCIT:C37075](http://purl.obolibrary.org/obo/NCIT_C37075) (Neoplastic Promonocyte) 51.47%
+- [NCIT:C37041](http://purl.obolibrary.org/obo/NCIT_C37041) (Neoplastic Monocyte) 51.47%
+- [NCIT:C37040](http://purl.obolibrary.org/obo/NCIT_C37040) (Abnormal Monocyte) 51.47%
+- [NCIT:C37032](http://purl.obolibrary.org/obo/NCIT_C37032) (Abnormal Eosinophil) 51.47%
+- [NCIT:C37040](http://purl.obolibrary.org/obo/NCIT_C37040) (Abnormal Monocyte) and [NCIT:C41063](http://purl.obolibrary.org/obo/NCIT_C41063) (Neoplastic Myeloid Cell) 51.47%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) 36.83%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 36.83%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 36.83%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 36.83%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 36.83%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 36.83%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 36.83%
 
 

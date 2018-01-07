@@ -1,0 +1,25 @@
+
+### [NCIT:C8168](http://purl.obolibrary.org/obo/NCIT_C8168)
+**Label:** Regional Urothelial Carcinoma of the Renal Pelvis and Ureter
+
+**Subclasses:** 
+
+**Class expressions from DL-Learner:**
+
+- Thing 53.67%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) 45.59%
+- [NCIT:C36767](http://purl.obolibrary.org/obo/NCIT_C36767) (Abnormal Transitional Cell) 45.59%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40166](http://purl.obolibrary.org/obo/NCIT_C40166) (Uterine Corpus Myxoid Leiomyoma))) 45.59%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40165](http://purl.obolibrary.org/obo/NCIT_C40165) (Uterine Corpus Apoplectic Leiomyoma))) 45.59%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40164](http://purl.obolibrary.org/obo/NCIT_C40164) (Uterine Corpus Epithelioid Leiomyoma))) 45.59%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40163](http://purl.obolibrary.org/obo/NCIT_C40163) (Uterine Corpus Cellular Leiomyoma))) 45.59%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40162](http://purl.obolibrary.org/obo/NCIT_C40162) (Uterine Corpus Leiomyoma, Mitotically Active Variant))) 45.59%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40161](http://purl.obolibrary.org/obo/NCIT_C40161) (JAZF1-SUZ12 Fusion Protein Expression))) 45.59%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40160](http://purl.obolibrary.org/obo/NCIT_C40160) (t(7;17)(p15;q21)))) 45.59%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40156](http://purl.obolibrary.org/obo/NCIT_C40156) (Endometrial Undifferentiated Carcinoma))) 45.59%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40155](http://purl.obolibrary.org/obo/NCIT_C40155) (Endometrial Small Cell Carcinoma))) 45.59%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40154](http://purl.obolibrary.org/obo/NCIT_C40154) (Endometrial Transitional Cell Carcinoma))) 45.59%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40153](http://purl.obolibrary.org/obo/NCIT_C40153) (Endometrial Mixed Adenocarcinoma))) 45.59%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40152](http://purl.obolibrary.org/obo/NCIT_C40152) (Serous Endometrial Intraepithelial Carcinoma))) 45.59%
+
+

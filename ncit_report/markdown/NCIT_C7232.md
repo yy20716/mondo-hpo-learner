@@ -1,0 +1,25 @@
+
+### [NCIT:C7232](http://purl.obolibrary.org/obo/NCIT_C7232)
+**Label:** Neoplastic Post-Transplant Lymphoproliferative Disorder
+
+**Subclasses:** [NCIT:C27695](http://purl.obolibrary.org/obo/NCIT_C27695) (EBV-Related Clonal Post-Transplant Lymphoproliferative Disorder), [NCIT:C7249](http://purl.obolibrary.org/obo/NCIT_C7249) (Immunoblastic Lymphoma Post-Transplant Lymphoproliferative Disorder), [NCIT:C7238](http://purl.obolibrary.org/obo/NCIT_C7238) (Monomorphic T/NK-Cell Post-Transplant Lymphoproliferative Disorder), [NCIT:C7248](http://purl.obolibrary.org/obo/NCIT_C7248) (Centroblastic Lymphoma Post-Transplant Lymphoproliferative Disorder), [NCIT:C7237](http://purl.obolibrary.org/obo/NCIT_C7237) (Monomorphic B-Cell Post-Transplant Lymphoproliferative Disorder), [NCIT:C7239](http://purl.obolibrary.org/obo/NCIT_C7239) (Hodgkin-Like Post-Transplant Lymphoproliferative Disorder), [NCIT:C7245](http://purl.obolibrary.org/obo/NCIT_C7245) (Burkitt-Like Lymphoma Post-Transplant Lymphoproliferative Disorder), [NCIT:C7233](http://purl.obolibrary.org/obo/NCIT_C7233) (Monomorphic Post-Transplant Lymphoproliferative Disorder), [NCIT:C7244](http://purl.obolibrary.org/obo/NCIT_C7244) (Burkitt Lymphoma Post-Transplant Lymphoproliferative Disorder), [NCIT:C7247](http://purl.obolibrary.org/obo/NCIT_C7247) (Anaplastic Lymphoma Post-Transplant Lymphoproliferative Disorder), [NCIT:C7246](http://purl.obolibrary.org/obo/NCIT_C7246) (Diffuse Large B-Cell Lymphoma Post-Transplant Lymphoproliferative Disorder), [NCIT:C7241](http://purl.obolibrary.org/obo/NCIT_C7241) (Plasmacytoma-Like Post-Transplant Lymphoproliferative Disorder), [NCIT:C7240](http://purl.obolibrary.org/obo/NCIT_C7240) (Plasma Cell Post-Transplant Lymphoproliferative Disorder), [NCIT:C7243](http://purl.obolibrary.org/obo/NCIT_C7243) (Classical Hodgkin Lymphoma Type Post-Transplant Lymphoproliferative Disorder), [NCIT:C7242](http://purl.obolibrary.org/obo/NCIT_C7242) (Plasma Cell Myeloma Post-Transplant Lymphoproliferative Disorder), [NCIT:C7183](http://purl.obolibrary.org/obo/NCIT_C7183) (Polymorphic Post-Transplant Lymphoproliferative Disorder), 
+
+**Class expressions from DL-Learner:**
+
+- Thing 52.66%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) 39.90%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39914](http://purl.obolibrary.org/obo/NCIT_C39914) (Gain of Chromosome 12p))) 39.90%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C3991](http://purl.obolibrary.org/obo/NCIT_C3991) (Thrombocytopenia Due to Immune Destruction))) 39.90%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39909](http://purl.obolibrary.org/obo/NCIT_C39909) (Gain of Chromosome 18q))) 39.90%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39907](http://purl.obolibrary.org/obo/NCIT_C39907) (Seminal Vesicle Cystadenoma))) 39.90%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39906](http://purl.obolibrary.org/obo/NCIT_C39906) (Seminal Vesicle Adenocarcinoma))) 39.90%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39905](http://purl.obolibrary.org/obo/NCIT_C39905) (Prostate Stromal Proliferation of Uncertain Malignant Potential))) 39.90%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39903](http://purl.obolibrary.org/obo/NCIT_C39903) (Prostate Adenocarcinoma with Focal Neuroendocrine Differentiation))) 39.90%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39902](http://purl.obolibrary.org/obo/NCIT_C39902) (Prostate Basal Cell Carcinoma))) 39.90%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39901](http://purl.obolibrary.org/obo/NCIT_C39901) (Prostatic Duct Urothelial Carcinoma))) 39.90%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39899](http://purl.obolibrary.org/obo/NCIT_C39899) (Secondary Prostate Urothelial Carcinoma))) 39.90%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39897](http://purl.obolibrary.org/obo/NCIT_C39897) (Prostate Ductal Adenocarcinoma, Solid Pattern))) 39.90%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39896](http://purl.obolibrary.org/obo/NCIT_C39896) (Prostate Ductal Adenocarcinoma, Papillary Pattern))) 39.90%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39895](http://purl.obolibrary.org/obo/NCIT_C39895) (Prostate Ductal Adenocarcinoma, Cribriform Pattern))) 39.90%
+
+

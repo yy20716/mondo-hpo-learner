@@ -1,0 +1,25 @@
+
+### [NCIT:C7089](http://purl.obolibrary.org/obo/NCIT_C7089)
+**Label:** Regressing Skin Melanoma
+
+**Subclasses:** 
+
+**Class expressions from DL-Learner:**
+
+- [UBERON:0002097](http://purl.obolibrary.org/obo/UBERON_0002097) (skin of body) 54.55%
+- [NCIT:C43268](http://purl.obolibrary.org/obo/NCIT_C43268) (HMB-45-Positive Neoplastic Cells Present) 54.55%
+- [NCIT:C40993](http://purl.obolibrary.org/obo/NCIT_C40993) (S-100-Positive Neoplastic Cells Present) 54.55%
+- [NCIT:C38620](http://purl.obolibrary.org/obo/NCIT_C38620) (Integumentary System Part) 54.55%
+- [NCIT:C36156](http://purl.obolibrary.org/obo/NCIT_C36156) (Favorable Clinical Outcome) 54.55%
+- [NCIT:C33563](http://purl.obolibrary.org/obo/NCIT_C33563) (Skin Tissue) 54.55%
+- [NCIT:C13022](http://purl.obolibrary.org/obo/NCIT_C13022) (Skin Part) 54.55%
+- [CL:0000148](http://purl.obolibrary.org/obo/CL_0000148) (melanocyte) 54.55%
+- [CL:0000147](http://purl.obolibrary.org/obo/CL_0000147) (pigment cell) 54.55%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and [UBERON:0000475](http://purl.obolibrary.org/obo/UBERON_0000475) (organism subdivision) 54.55%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and [NCIT:C38620](http://purl.obolibrary.org/obo/NCIT_C38620) (Integumentary System Part) 54.55%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and [NCIT:C13022](http://purl.obolibrary.org/obo/NCIT_C13022) (Skin Part) 54.55%
+- Thing 52.66%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) 33.41%
+- [NCIT:C36862](http://purl.obolibrary.org/obo/NCIT_C36862) (Neoplastic Melanocyte) 31.45%
+
+

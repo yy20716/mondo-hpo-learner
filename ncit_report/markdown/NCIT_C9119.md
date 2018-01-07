@@ -2,29 +2,24 @@
 ### [NCIT:C9119](http://purl.obolibrary.org/obo/NCIT_C9119)
 **Label:** Medullary Breast Carcinoma
 
-**Corr. equiv. classes:** [http://purl.obolibrary.org/obo/NCIT_C17359](NCIT:C17359) (TP53 Gene), [http://purl.obolibrary.org/obo/NCIT_C17965](NCIT:C17965) (BRCA1 Gene), 
+**Subclasses:** 
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C16612](http://purl.obolibrary.org/obo/NCIT_C16612) (Gene) 52.33%
-- not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain)) 50.57%
-- not ([CHEBI:25555](http://purl.obolibrary.org/obo/CHEBI_25555) (nitrogen atom)) 50.57%
-- not ([CHEBI:23019](http://purl.obolibrary.org/obo/CHEBI_23019) (carbonyl group)) 50.57%
-- not ([CHEBI:23004](http://purl.obolibrary.org/obo/CHEBI_23004) (carbamoyl group)) 50.57%
-- not ([CHEBI:22868](http://purl.obolibrary.org/obo/CHEBI_22868) (bile salt)) 50.57%
-- not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion)) 50.57%
-- not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein)) 50.57%
-- not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin)) 50.57%
-- not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid)) 50.57%
-- not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene)) 50.57%
-- not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron)) 50.57%
-- Thing 50.57%
-- not (CARO:0010000) 50.57%
-- not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null)) 50.57%
-- not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null)) 50.57%
-- [NCIT:C17965](http://purl.obolibrary.org/obo/NCIT_C17965) (BRCA1 Gene) 38.87%
-- [NCIT:C17359](http://purl.obolibrary.org/obo/NCIT_C17359) (TP53 Gene) 36.79%
-- [NCIT:C20917](http://purl.obolibrary.org/obo/NCIT_C20917) (Cell Cycle Gene) 31.45%
-- [NCIT:C20194](http://purl.obolibrary.org/obo/NCIT_C20194) (Regulatory Gene) 31.45%
+- Thing 55.13%
+- [NCIT:C54689](http://purl.obolibrary.org/obo/NCIT_C54689) (Round Adenocarcinoma Cell with Abundant Cytoplasm and Vesicular Nucleus) 51.22%
+- [NCIT:C36877](http://purl.obolibrary.org/obo/NCIT_C36877) (Neoplastic Ductal Epithelial Cell) 51.22%
+- [NCIT:C36858](http://purl.obolibrary.org/obo/NCIT_C36858) (Ductal Carcinoma Cell) 51.22%
+- [NCIT:C54417](http://purl.obolibrary.org/obo/NCIT_C54417) (Round Adenocarcinoma Cell) and [NCIT:C60433](http://purl.obolibrary.org/obo/NCIT_C60433) (Adenocarcinoma Cell with Abundant Cytoplasm) 51.22%
+- [NCIT:C37162](http://purl.obolibrary.org/obo/NCIT_C37162) (Neoplastic Large Cell) and [NCIT:C54417](http://purl.obolibrary.org/obo/NCIT_C54417) (Round Adenocarcinoma Cell) 51.22%
+- [NCIT:C37107](http://purl.obolibrary.org/obo/NCIT_C37107) (Neoplastic Large Cell with Abundant Cytoplasm) and [NCIT:C54417](http://purl.obolibrary.org/obo/NCIT_C54417) (Round Adenocarcinoma Cell) 51.22%
+- [NCIT:C54417](http://purl.obolibrary.org/obo/NCIT_C54417) (Round Adenocarcinoma Cell) 36.57%
+- [NCIT:C54417](http://purl.obolibrary.org/obo/NCIT_C54417) (Round Adenocarcinoma Cell) and (not ([NCIT:C36020](http://purl.obolibrary.org/obo/NCIT_C36020) (Dutcher Body))) 36.57%
+- [NCIT:C54417](http://purl.obolibrary.org/obo/NCIT_C54417) (Round Adenocarcinoma Cell) and (not ([NCIT:C36018](http://purl.obolibrary.org/obo/NCIT_C36018) (Ground Glass Nuclear Inclusion))) 36.57%
+- [NCIT:C54417](http://purl.obolibrary.org/obo/NCIT_C54417) (Round Adenocarcinoma Cell) and (not ([NCIT:C36003](http://purl.obolibrary.org/obo/NCIT_C36003) (Desmoplastic Stroma Formation))) 36.57%
+- [NCIT:C54417](http://purl.obolibrary.org/obo/NCIT_C54417) (Round Adenocarcinoma Cell) and (not ([NCIT:C36000](http://purl.obolibrary.org/obo/NCIT_C36000) (Hyalinized Stroma Formation))) 36.57%
+- [NCIT:C54417](http://purl.obolibrary.org/obo/NCIT_C54417) (Round Adenocarcinoma Cell) and (not ([NCIT:C35999](http://purl.obolibrary.org/obo/NCIT_C35999) (Mucoid Stroma Formation))) 36.57%
+- [NCIT:C54417](http://purl.obolibrary.org/obo/NCIT_C54417) (Round Adenocarcinoma Cell) and (not ([NCIT:C35998](http://purl.obolibrary.org/obo/NCIT_C35998) (Myxoid Stroma Formation))) 36.57%
+- [NCIT:C54417](http://purl.obolibrary.org/obo/NCIT_C54417) (Round Adenocarcinoma Cell) and (not ([NCIT:C35994](http://purl.obolibrary.org/obo/NCIT_C35994) (Pseudoangiomatoid Space Formation))) 36.57%
 
 

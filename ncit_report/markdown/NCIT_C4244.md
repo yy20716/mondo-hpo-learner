@@ -2,29 +2,24 @@
 ### [NCIT:C4244](http://purl.obolibrary.org/obo/NCIT_C4244)
 **Label:** Infantile Fibrosarcoma
 
-**Corr. equiv. classes:** [http://purl.obolibrary.org/obo/NCIT_C24647](NCIT:C24647) (NTRK3 Gene), [http://purl.obolibrary.org/obo/NCIT_C99413](NCIT:C99413) (ETV6/NTRK3 Fusion Gene), 
+**Subclasses:** 
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C16612](http://purl.obolibrary.org/obo/NCIT_C16612) (Gene) 52.33%
-- not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain)) 50.57%
-- not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin)) 50.57%
-- not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid)) 50.57%
-- not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene)) 50.57%
-- not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron)) 50.57%
-- Thing 50.57%
-- not (CARO:0010000) 50.57%
-- not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null)) 50.57%
-- not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null)) 50.57%
-- [NCIT:C24647](http://purl.obolibrary.org/obo/NCIT_C24647) (NTRK3 Gene) 50.00%
-- [NCIT:C99413](http://purl.obolibrary.org/obo/NCIT_C99413) (ETV6/NTRK3 Fusion Gene) 45.41%
-- [NCIT:C20719](http://purl.obolibrary.org/obo/NCIT_C20719) (Receptor Tyrosine Kinase Gene) 32.29%
-- [NCIT:C20103](http://purl.obolibrary.org/obo/NCIT_C20103) (Receptor Gene) 30.52%
-- [NCIT:C21295](http://purl.obolibrary.org/obo/NCIT_C21295) (Ligand Binding Protein Gene) 29.83%
-- [NCIT:C25872](http://purl.obolibrary.org/obo/NCIT_C25872) (Kinase Family Gene) 29.66%
-- [NCIT:C25871](http://purl.obolibrary.org/obo/NCIT_C25871) (Phosphotransferase Gene) 29.66%
-- [NCIT:C25870](http://purl.obolibrary.org/obo/NCIT_C25870) (Transferase Gene) 29.30%
-- [NCIT:C21281](http://purl.obolibrary.org/obo/NCIT_C21281) (Enzyme Gene) 28.88%
-- [NCIT:C28510](http://purl.obolibrary.org/obo/NCIT_C28510) (Fusion Gene) 28.70%
+- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) 54.17%
+- [NCIT:C48682](http://purl.obolibrary.org/obo/NCIT_C48682) (Neoplastic Fibroblast) and [NCIT:C48787](http://purl.obolibrary.org/obo/NCIT_C48787) (Malignant Connective and Soft Tissue Cell) 54.17%
+- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C48682](http://purl.obolibrary.org/obo/NCIT_C48682) (Neoplastic Fibroblast) 54.17%
+- Thing 53.92%
+- [NCIT:C99413](http://purl.obolibrary.org/obo/NCIT_C99413) (ETV6/NTRK3 Fusion Gene) 52.08%
+- [NCIT:C49021](http://purl.obolibrary.org/obo/NCIT_C49021) (Malignant Spindle-Shaped Fibroblast) 52.08%
+- [NCIT:C24647](http://purl.obolibrary.org/obo/NCIT_C24647) (NTRK3 Gene) 52.08%
+- [CL:0000057](http://purl.obolibrary.org/obo/CL_0000057) (fibroblast) 52.08%
+- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and [NCIT:C53637](http://purl.obolibrary.org/obo/NCIT_C53637) (Malignant Spindle Cell) 52.08%
+- [NCIT:C48682](http://purl.obolibrary.org/obo/NCIT_C48682) (Neoplastic Fibroblast) and [NCIT:C53637](http://purl.obolibrary.org/obo/NCIT_C53637) (Malignant Spindle Cell) 52.08%
+- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and [NCIT:C53637](http://purl.obolibrary.org/obo/NCIT_C53637) (Malignant Spindle Cell) 52.08%
+- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) 52.08%
+- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and [NCIT:C48787](http://purl.obolibrary.org/obo/NCIT_C48787) (Malignant Connective and Soft Tissue Cell) 52.08%
+- [NCIT:C36954](http://purl.obolibrary.org/obo/NCIT_C36954) (Neoplastic Connective and Soft Tissue Spindle Cell) and [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) 52.08%
+- [NCIT:C36823](http://purl.obolibrary.org/obo/NCIT_C36823) (Neoplastic Spindle Cell) and [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) 52.08%
 
 

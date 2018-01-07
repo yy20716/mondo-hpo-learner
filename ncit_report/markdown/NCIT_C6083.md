@@ -1,0 +1,25 @@
+
+### [NCIT:C6083](http://purl.obolibrary.org/obo/NCIT_C6083)
+**Label:** External Ear Squamous Cell Carcinoma
+
+**Subclasses:** 
+
+**Class expressions from DL-Learner:**
+
+- Thing 53.84%
+- [NCIT:C36791](http://purl.obolibrary.org/obo/NCIT_C36791) (Keratinizing Malignant Squamous Cell) 52.17%
+- [NCIT:C36791](http://purl.obolibrary.org/obo/NCIT_C36791) (Keratinizing Malignant Squamous Cell) and (not ([NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell))) 52.17%
+- [NCIT:C36791](http://purl.obolibrary.org/obo/NCIT_C36791) (Keratinizing Malignant Squamous Cell) and (not ([NCIT:C54208](http://purl.obolibrary.org/obo/NCIT_C54208) (Malignant Hyperchromatic Squamous Cell))) 52.17%
+- [NCIT:C36791](http://purl.obolibrary.org/obo/NCIT_C36791) (Keratinizing Malignant Squamous Cell) and (not ([NCIT:C54207](http://purl.obolibrary.org/obo/NCIT_C54207) (Malignant Small Squamous Cell))) 52.17%
+- [NCIT:C36791](http://purl.obolibrary.org/obo/NCIT_C36791) (Keratinizing Malignant Squamous Cell) and (not ([NCIT:C53637](http://purl.obolibrary.org/obo/NCIT_C53637) (Malignant Spindle Cell))) 52.17%
+- [NCIT:C36791](http://purl.obolibrary.org/obo/NCIT_C36791) (Keratinizing Malignant Squamous Cell) and (not ([NCIT:C37109](http://purl.obolibrary.org/obo/NCIT_C37109) (Malignant Epithelial Spindle Cell))) 52.17%
+- [NCIT:C36791](http://purl.obolibrary.org/obo/NCIT_C36791) (Keratinizing Malignant Squamous Cell) and (not ([NCIT:C36860](http://purl.obolibrary.org/obo/NCIT_C36860) (Malignant Small Cell))) 52.17%
+- [NCIT:C36791](http://purl.obolibrary.org/obo/NCIT_C36791) (Keratinizing Malignant Squamous Cell) and (not ([NCIT:C36849](http://purl.obolibrary.org/obo/NCIT_C36849) (Neoplastic Epithelial Spindle Cell))) 52.17%
+- [NCIT:C36791](http://purl.obolibrary.org/obo/NCIT_C36791) (Keratinizing Malignant Squamous Cell) and (not ([NCIT:C36823](http://purl.obolibrary.org/obo/NCIT_C36823) (Neoplastic Spindle Cell))) 52.17%
+- [NCIT:C36791](http://purl.obolibrary.org/obo/NCIT_C36791) (Keratinizing Malignant Squamous Cell) and (not ([NCIT:C36814](http://purl.obolibrary.org/obo/NCIT_C36814) (Malignant Clear Squamous Cell))) 52.17%
+- [NCIT:C36791](http://purl.obolibrary.org/obo/NCIT_C36791) (Keratinizing Malignant Squamous Cell) and (not ([NCIT:C36795](http://purl.obolibrary.org/obo/NCIT_C36795) (Malignant Epithelial Small Cell))) 52.17%
+- [NCIT:C36791](http://purl.obolibrary.org/obo/NCIT_C36791) (Keratinizing Malignant Squamous Cell) and (not ([NCIT:C36784](http://purl.obolibrary.org/obo/NCIT_C36784) (Malignant Epithelial Clear Cell))) 52.17%
+- [NCIT:C36791](http://purl.obolibrary.org/obo/NCIT_C36791) (Keratinizing Malignant Squamous Cell) and (not ([NCIT:C36775](http://purl.obolibrary.org/obo/NCIT_C36775) (Malignant Spindle Squamous Cell))) 52.17%
+- [NCIT:C36791](http://purl.obolibrary.org/obo/NCIT_C36791) (Keratinizing Malignant Squamous Cell) and (not ([NCIT:C36757](http://purl.obolibrary.org/obo/NCIT_C36757) (Neoplastic Clear Cell))) 52.17%
+
+

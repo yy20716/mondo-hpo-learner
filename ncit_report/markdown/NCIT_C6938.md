@@ -1,0 +1,25 @@
+
+### [NCIT:C6938](http://purl.obolibrary.org/obo/NCIT_C6938)
+**Label:** Sweat Gland Carcinoma
+
+**Subclasses:** [NCIT:C27255](http://purl.obolibrary.org/obo/NCIT_C27255) (Eccrine Carcinoma), [NCIT:C27533](http://purl.obolibrary.org/obo/NCIT_C27533) (Primary Cutaneous Mucinous Carcinoma), [NCIT:C27254](http://purl.obolibrary.org/obo/NCIT_C27254) (Papillary Eccrine Carcinoma), [NCIT:C40308](http://purl.obolibrary.org/obo/NCIT_C40308) (Vulvar Apocrine Adenocarcinoma), [NCIT:C4472](http://purl.obolibrary.org/obo/NCIT_C4472) (Mucoepidermoid Skin Carcinoma), [NCIT:C40306](http://purl.obolibrary.org/obo/NCIT_C40306) (Vulvar Eccrine Porocarcinoma), [NCIT:C40307](http://purl.obolibrary.org/obo/NCIT_C40307) (Vulvar Clear Cell Hidradenocarcinoma), [NCIT:C43344](http://purl.obolibrary.org/obo/NCIT_C43344) (Carcinoma ex Eccrine Spiradenoma), [NCIT:C43345](http://purl.obolibrary.org/obo/NCIT_C43345) (Ductal Eccrine Adenocarcinoma), [NCIT:C3682](http://purl.obolibrary.org/obo/NCIT_C3682) (Sweat Gland Tubular Carcinoma), [NCIT:C40305](http://purl.obolibrary.org/obo/NCIT_C40305) (Vulvar Eccrine Adenocarcinoma), [NCIT:C43346](http://purl.obolibrary.org/obo/NCIT_C43346) (Ductal Eccrine Carcinoma with Spindle Cell Elements), [NCIT:C5140](http://purl.obolibrary.org/obo/NCIT_C5140) (Apocrine Breast Carcinoma In Situ), [NCIT:C7581](http://purl.obolibrary.org/obo/NCIT_C7581) (Microcystic Adnexal Carcinoma), [NCIT:C5141](http://purl.obolibrary.org/obo/NCIT_C5141) (Apocrine Breast Carcinoma), [NCIT:C43347](http://purl.obolibrary.org/obo/NCIT_C43347) (Ductal Eccrine Carcinoma with Squamous Metaplasia), [NCIT:C4471](http://purl.obolibrary.org/obo/NCIT_C4471) (Adenoid Cystic Skin Carcinoma), [NCIT:C5560](http://purl.obolibrary.org/obo/NCIT_C5560) (Eccrine Porocarcinoma), [NCIT:C128164](http://purl.obolibrary.org/obo/NCIT_C128164) (Vulvar Adenocarcinoma of Sweat Gland Type), [NCIT:C54664](http://purl.obolibrary.org/obo/NCIT_C54664) (Hidradenocarcinoma), [NCIT:C4169](http://purl.obolibrary.org/obo/NCIT_C4169) (Apocrine Carcinoma), [NCIT:C4027](http://purl.obolibrary.org/obo/NCIT_C4027) (Paget Disease of the Vulva), [NCIT:C5457](http://purl.obolibrary.org/obo/NCIT_C5457) (Invasive Apocrine Breast Carcinoma), [NCIT:C5117](http://purl.obolibrary.org/obo/NCIT_C5117) (Spiradenocarcinoma), [NCIT:C5180](http://purl.obolibrary.org/obo/NCIT_C5180) (Malignant Breast Eccrine Spiradenoma), 
+
+**Class expressions from DL-Learner:**
+
+- Thing 53.49%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) 37.99%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40377](http://purl.obolibrary.org/obo/NCIT_C40377) (Breast Follicular Lymphoma))) 37.99%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40376](http://purl.obolibrary.org/obo/NCIT_C40376) (Breast Burkitt Lymphoma))) 37.99%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40375](http://purl.obolibrary.org/obo/NCIT_C40375) (Breast Diffuse Large B-Cell Lymphoma))) 37.99%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C4037](http://purl.obolibrary.org/obo/NCIT_C4037) (Acute Myeloid Leukemia Arising from Previous Myelodysplastic Syndrome))) 37.99%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40369](http://purl.obolibrary.org/obo/NCIT_C40369) (Sebaceous Breast Carcinoma))) 37.99%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40367](http://purl.obolibrary.org/obo/NCIT_C40367) (Acinic Cell Breast Carcinoma))) 37.99%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40366](http://purl.obolibrary.org/obo/NCIT_C40366) (Oncocytic Breast Carcinoma))) 37.99%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40363](http://purl.obolibrary.org/obo/NCIT_C40363) (Nipple Syringomatous Adenoma))) 37.99%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40362](http://purl.obolibrary.org/obo/NCIT_C40362) (Low Grade Adenosquamous Breast Carcinoma))) 37.99%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40358](http://purl.obolibrary.org/obo/NCIT_C40358) (Squamous Cell Breast Carcinoma, Spindle Cell Variant))) 37.99%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40356](http://purl.obolibrary.org/obo/NCIT_C40356) (Breast Large Cell Neuroendocrine Carcinoma))) 37.99%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40355](http://purl.obolibrary.org/obo/NCIT_C40355) (Breast Columnar Cell Mucinous Carcinoma))) 37.99%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40354](http://purl.obolibrary.org/obo/NCIT_C40354) (Breast Mucinous Cystadenocarcinoma))) 37.99%
+
+

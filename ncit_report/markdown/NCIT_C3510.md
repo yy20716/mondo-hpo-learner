@@ -1,0 +1,25 @@
+
+### [NCIT:C3510](http://purl.obolibrary.org/obo/NCIT_C3510)
+**Label:** Cutaneous Melanoma
+
+**Subclasses:** [NCIT:C137645](http://purl.obolibrary.org/obo/NCIT_C137645) (Cutaneous Melanoma by AJCC v8 Stage), [NCIT:C4633](http://purl.obolibrary.org/obo/NCIT_C4633) (Amelanotic Skin Melanoma), [NCIT:C48612](http://purl.obolibrary.org/obo/NCIT_C48612) (Minimal Deviation Melanoma), [NCIT:C48613](http://purl.obolibrary.org/obo/NCIT_C48613) (Melanoma in Congenital Melanocytic Nevus), [NCIT:C4232](http://purl.obolibrary.org/obo/NCIT_C4232) (Melanoma in Junctional Nevus), [NCIT:C8498](http://purl.obolibrary.org/obo/NCIT_C8498) (Hereditary Melanoma), [NCIT:C8793](http://purl.obolibrary.org/obo/NCIT_C8793) (Stage IV Superficial Spreading Melanoma AJCC v6 and v7), [NCIT:C48614](http://purl.obolibrary.org/obo/NCIT_C48614) (Desmoplastic Neurotropic Melanoma), [NCIT:C8791](http://purl.obolibrary.org/obo/NCIT_C8791) (Stage II Superficial Spreading Melanoma AJCC v6 and v7), [NCIT:C7089](http://purl.obolibrary.org/obo/NCIT_C7089) (Regressing Skin Melanoma), [NCIT:C8792](http://purl.obolibrary.org/obo/NCIT_C8792) (Stage III Superficial Spreading Melanoma AJCC v7), [NCIT:C9097](http://purl.obolibrary.org/obo/NCIT_C9097) (Recurrent Melanoma of the Skin), [NCIT:C9152](http://purl.obolibrary.org/obo/NCIT_C9152) (Superficial Spreading Melanoma), [NCIT:C66753](http://purl.obolibrary.org/obo/NCIT_C66753) (Malignant Melanoma in Precancerous Melanosis), [NCIT:C9096](http://purl.obolibrary.org/obo/NCIT_C9096) (Stage IV Cutaneous Melanoma AJCC v6 and v7), [NCIT:C37257](http://purl.obolibrary.org/obo/NCIT_C37257) (Desmoplastic Melanoma), [NCIT:C9151](http://purl.obolibrary.org/obo/NCIT_C9151) (Lentigo Maligna Melanoma), [NCIT:C128801](http://purl.obolibrary.org/obo/NCIT_C128801) (Cutaneous Malignant Melanoma 2), [NCIT:C90514](http://purl.obolibrary.org/obo/NCIT_C90514) (Cutaneous Melanoma by AJCC v6 Stage), [NCIT:C8788](http://purl.obolibrary.org/obo/NCIT_C8788) (Stage III Lentigo Maligna Melanoma AJCC v7), [NCIT:C43372](http://purl.obolibrary.org/obo/NCIT_C43372) (Lentigo Maligna), [NCIT:C4225](http://purl.obolibrary.org/obo/NCIT_C4225) (Nodular Melanoma), [NCIT:C8789](http://purl.obolibrary.org/obo/NCIT_C8789) (Stage IV Lentigo Maligna Melanoma AJCC v6 and v7), [NCIT:C8423](http://purl.obolibrary.org/obo/NCIT_C8423) (Stage 0 Cutaneous Melanoma AJCC v6 and v7), [NCIT:C8786](http://purl.obolibrary.org/obo/NCIT_C8786) (Stage I Lentigo Maligna Melanoma AJCC v7), [NCIT:C8787](http://purl.obolibrary.org/obo/NCIT_C8787) (Stage II Lentigo Maligna Melanoma AJCC v6 and v7), [NCIT:C91231](http://purl.obolibrary.org/obo/NCIT_C91231) (Cutaneous Melanoma by AJCC v7 Stage), [NCIT:C8785](http://purl.obolibrary.org/obo/NCIT_C8785) (Recurrent Lentigo Maligna Melanoma), [NCIT:C4240](http://purl.obolibrary.org/obo/NCIT_C4240) (Melanoma Arising from Blue Nevus), [NCIT:C8790](http://purl.obolibrary.org/obo/NCIT_C8790) (Stage I Superficial Spreading Melanoma AJCC v7), [NCIT:C48607](http://purl.obolibrary.org/obo/NCIT_C48607) (Invasive Skin Melanoma), [NCIT:C88414](http://purl.obolibrary.org/obo/NCIT_C88414) (Stage I Cutaneous Melanoma AJCC v7), [NCIT:C88415](http://purl.obolibrary.org/obo/NCIT_C88415) (Stage III Cutaneous Melanoma AJCC v7), [NCIT:C7917](http://purl.obolibrary.org/obo/NCIT_C7917) (Stage II Cutaneous Melanoma AJCC v6 and v7), [NCIT:C7916](http://purl.obolibrary.org/obo/NCIT_C7916) (Stage I Cutaneous Melanoma AJCC v6), [NCIT:C7918](http://purl.obolibrary.org/obo/NCIT_C7918) (Stage III Cutaneous Melanoma AJCC v6), 
+
+**Class expressions from DL-Learner:**
+
+- [UBERON:0002097](http://purl.obolibrary.org/obo/UBERON_0002097) (skin of body) 55.00%
+- [NCIT:C43268](http://purl.obolibrary.org/obo/NCIT_C43268) (HMB-45-Positive Neoplastic Cells Present) 55.00%
+- [NCIT:C40993](http://purl.obolibrary.org/obo/NCIT_C40993) (S-100-Positive Neoplastic Cells Present) 55.00%
+- [NCIT:C38620](http://purl.obolibrary.org/obo/NCIT_C38620) (Integumentary System Part) 55.00%
+- [NCIT:C36156](http://purl.obolibrary.org/obo/NCIT_C36156) (Favorable Clinical Outcome) 55.00%
+- [NCIT:C33563](http://purl.obolibrary.org/obo/NCIT_C33563) (Skin Tissue) 55.00%
+- [NCIT:C13022](http://purl.obolibrary.org/obo/NCIT_C13022) (Skin Part) 55.00%
+- [CL:0000148](http://purl.obolibrary.org/obo/CL_0000148) (melanocyte) 55.00%
+- [CL:0000147](http://purl.obolibrary.org/obo/CL_0000147) (pigment cell) 55.00%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and [UBERON:0000475](http://purl.obolibrary.org/obo/UBERON_0000475) (organism subdivision) 55.00%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and [NCIT:C38620](http://purl.obolibrary.org/obo/NCIT_C38620) (Integumentary System Part) 55.00%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and [NCIT:C13022](http://purl.obolibrary.org/obo/NCIT_C13022) (Skin Part) 55.00%
+- Thing 52.53%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) 33.87%
+- [NCIT:C36862](http://purl.obolibrary.org/obo/NCIT_C36862) (Neoplastic Melanocyte) 32.36%
+
+

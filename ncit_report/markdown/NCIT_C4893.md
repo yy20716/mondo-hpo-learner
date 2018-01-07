@@ -1,0 +1,25 @@
+
+### [NCIT:C4893](http://purl.obolibrary.org/obo/NCIT_C4893)
+**Label:** Benign Urinary System Neoplasm
+
+**Subclasses:** [NCIT:C3842](http://purl.obolibrary.org/obo/NCIT_C3842) (Urothelial Papilloma), [NCIT:C4778](http://purl.obolibrary.org/obo/NCIT_C4778) (Benign Kidney Neoplasm), [NCIT:C4532](http://purl.obolibrary.org/obo/NCIT_C4532) (Benign Accessory Urethral Gland Neoplasm), [NCIT:C7504](http://purl.obolibrary.org/obo/NCIT_C7504) (Cystic Nephroma), [NCIT:C27253](http://purl.obolibrary.org/obo/NCIT_C27253) (Metanephric Adenoma), [NCIT:C6178](http://purl.obolibrary.org/obo/NCIT_C6178) (Bladder Leiomyoma), [NCIT:C5100](http://purl.obolibrary.org/obo/NCIT_C5100) (Kidney Fibroma), [NCIT:C5101](http://purl.obolibrary.org/obo/NCIT_C5101) (Kidney Lipoma), [NCIT:C4530](http://purl.obolibrary.org/obo/NCIT_C4530) (Ureter Polyp), [NCIT:C6174](http://purl.obolibrary.org/obo/NCIT_C6174) (Ureter Inverted Papilloma), [NCIT:C6173](http://purl.obolibrary.org/obo/NCIT_C6173) (Urethral Inverted Papilloma), [NCIT:C6161](http://purl.obolibrary.org/obo/NCIT_C6161) (Ureter Leiomyoma), [NCIT:C6160](http://purl.obolibrary.org/obo/NCIT_C6160) (Ureter Urothelial Papilloma), [NCIT:C66774](http://purl.obolibrary.org/obo/NCIT_C66774) (Ossifying Renal Tumor of Infancy), [NCIT:C39859](http://purl.obolibrary.org/obo/NCIT_C39859) (Bladder Inverted Papilloma), [NCIT:C39858](http://purl.obolibrary.org/obo/NCIT_C39858) (Bladder Urothelial Papilloma), [NCIT:C39834](http://purl.obolibrary.org/obo/NCIT_C39834) (Bladder Squamous Papilloma), [NCIT:C39812](http://purl.obolibrary.org/obo/NCIT_C39812) (Metanephric Adenofibroma), [NCIT:C4526](http://purl.obolibrary.org/obo/NCIT_C4526) (Kidney Oncocytoma), [NCIT:C8960](http://purl.obolibrary.org/obo/NCIT_C8960) (Hereditary Kidney Oncocytoma), [NCIT:C6187](http://purl.obolibrary.org/obo/NCIT_C6187) (Renal Pelvis Inverted Papilloma), [NCIT:C6192](http://purl.obolibrary.org/obo/NCIT_C6192) (Inverted Urothelial Papilloma), [NCIT:C6171](http://purl.obolibrary.org/obo/NCIT_C6171) (Urethral Leiomyoma), [NCIT:C5061](http://purl.obolibrary.org/obo/NCIT_C5061) (Urethral Urothelial Papilloma), [NCIT:C37264](http://purl.obolibrary.org/obo/NCIT_C37264) (Benign Mixed Epithelial Stromal Tumor of the Kidney), [NCIT:C3618](http://purl.obolibrary.org/obo/NCIT_C3618) (Benign Bladder Neoplasm), [NCIT:C3617](http://purl.obolibrary.org/obo/NCIT_C3617) (Benign Ureter Neoplasm), [NCIT:C3616](http://purl.obolibrary.org/obo/NCIT_C3616) (Benign Renal Pelvis Neoplasm), [NCIT:C4528](http://purl.obolibrary.org/obo/NCIT_C4528) (Renal Pelvis Urothelial Papilloma), [NCIT:C3619](http://purl.obolibrary.org/obo/NCIT_C3619) (Benign Urethral Neoplasm), 
+
+**Class expressions from DL-Learner:**
+
+- Thing 51.96%
+- [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) 47.22%
+- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 46.96%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) 43.69%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39625](http://purl.obolibrary.org/obo/NCIT_C39625) (Extracutaneous Dissemination of Disease))) 43.69%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39624](http://purl.obolibrary.org/obo/NCIT_C39624) (Skin Plaque))) 43.69%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39622](http://purl.obolibrary.org/obo/NCIT_C39622) (Scaly Skin Eruption))) 43.69%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39620](http://purl.obolibrary.org/obo/NCIT_C39620) (Dermatopathic Lymphadenopathy))) 43.69%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39618](http://purl.obolibrary.org/obo/NCIT_C39618) (Subcutaneous Nodule))) 43.69%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39617](http://purl.obolibrary.org/obo/NCIT_C39617) (Subcutaneous Involvement))) 43.69%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39616](http://purl.obolibrary.org/obo/NCIT_C39616) (Karyorrhexis))) 43.69%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39615](http://purl.obolibrary.org/obo/NCIT_C39615) (Sinusoidal Infiltration))) 43.69%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39609](http://purl.obolibrary.org/obo/NCIT_C39609) (Activated Natural Killer Cell))) 43.69%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39608](http://purl.obolibrary.org/obo/NCIT_C39608) (Coagulative Necrosis))) 43.69%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39602](http://purl.obolibrary.org/obo/NCIT_C39602) (Pleomorphic Medium-Sized to Large T-Lymphocyte))) 43.69%
+
+

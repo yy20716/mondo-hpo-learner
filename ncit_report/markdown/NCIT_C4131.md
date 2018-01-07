@@ -1,0 +1,25 @@
+
+### [NCIT:C4131](http://purl.obolibrary.org/obo/NCIT_C4131)
+**Label:** Fibrolamellar Carcinoma
+
+**Subclasses:** [NCIT:C114992](http://purl.obolibrary.org/obo/NCIT_C114992) (Adult Fibrolamellar Carcinoma), 
+
+**Class expressions from DL-Learner:**
+
+- Thing 56.65%
+- [NCIT:C37105](http://purl.obolibrary.org/obo/NCIT_C37105) (Neoplastic Cell with Eosinophilic Cytoplasm) and [NCIT:C61145](http://purl.obolibrary.org/obo/NCIT_C61145) (Adenocarcinoma Cell with Eosinophilic Cytoplasm) 51.45%
+- [NCIT:C61110](http://purl.obolibrary.org/obo/NCIT_C61110) (Large Adenocarcinoma Cell with Eosinophilic Cytoplasm) 50.72%
+- [NCIT:C36881](http://purl.obolibrary.org/obo/NCIT_C36881) (Neoplastic Glandular Cell with Eosinophilic Granular Cytoplasm) 50.72%
+- [NCIT:C36880](http://purl.obolibrary.org/obo/NCIT_C36880) (Adenocarcinoma Cell with Eosinophilic Granular Cytoplasm) 50.72%
+- [NCIT:C36850](http://purl.obolibrary.org/obo/NCIT_C36850) (Polygonal Adenocarcinoma Cell with Eosinophilic Cytoplasm) 50.72%
+- [NCIT:C36692](http://purl.obolibrary.org/obo/NCIT_C36692) (PTEN Gene Inactivation) 50.72%
+- [NCIT:C36671](http://purl.obolibrary.org/obo/NCIT_C36671) (Gain of Chromosome 10) 50.72%
+- [NCIT:C36670](http://purl.obolibrary.org/obo/NCIT_C36670) (Gain of Chromosome 16) 50.72%
+- [NCIT:C36669](http://purl.obolibrary.org/obo/NCIT_C36669) (Gain of Chromosome 6) 50.72%
+- [NCIT:C36667](http://purl.obolibrary.org/obo/NCIT_C36667) (Loss of Chromosome 4q) 50.72%
+- [NCIT:C36664](http://purl.obolibrary.org/obo/NCIT_C36664) (Aberrant DNA Methylation) 50.72%
+- [NCIT:C36659](http://purl.obolibrary.org/obo/NCIT_C36659) (CTNNB1 Gene Mutation) 50.72%
+- [NCIT:C36632](http://purl.obolibrary.org/obo/NCIT_C36632) (Loss of Chromosome 19) 50.72%
+- [NCIT:C36631](http://purl.obolibrary.org/obo/NCIT_C36631) (Loss of Chromosome 17) 50.72%
+
+

@@ -1,0 +1,25 @@
+
+### [NCIT:C5120](http://purl.obolibrary.org/obo/NCIT_C5120)
+**Label:** Vestibulocochlear Nerve Neoplasm
+
+**Subclasses:** [NCIT:C3276](http://purl.obolibrary.org/obo/NCIT_C3276) (Acoustic Schwannoma), [NCIT:C4539](http://purl.obolibrary.org/obo/NCIT_C4539) (Malignant Vestibulocochlear Nerve Neoplasm), 
+
+**Class expressions from DL-Learner:**
+
+- [UBERON:0001785](http://purl.obolibrary.org/obo/UBERON_0001785) (cranial nerve) 75.00%
+- [UBERON:0001648](http://purl.obolibrary.org/obo/UBERON_0001648) (vestibulocochlear nerve) 75.00%
+- [UBERON:0011779](http://purl.obolibrary.org/obo/UBERON_0011779) (nerve of head region) 73.57%
+- [UBERON:0034713](http://purl.obolibrary.org/obo/UBERON_0034713) (cranial neuron projection bundle) 72.36%
+- [UBERON:0001021](http://purl.obolibrary.org/obo/UBERON_0001021) (nerve) 68.90%
+- [UBERON:0000122](http://purl.obolibrary.org/obo/UBERON_0000122) (neuron projection bundle) 66.67%
+- [UBERON:0005162](http://purl.obolibrary.org/obo/UBERON_0005162) (multi cell part structure) 61.79%
+- [UBERON:0000477](http://purl.obolibrary.org/obo/UBERON_0000477) (anatomical cluster) 60.21%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 52.14%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 52.01%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 52.01%
+- Thing 51.13%
+- CARO:0001001 and [UBERON:0001785](http://purl.obolibrary.org/obo/UBERON_0001785) (cranial nerve) 45.41%
+- CARO:0001001 38.87%
+- CP:0000037 0.00%
+
+

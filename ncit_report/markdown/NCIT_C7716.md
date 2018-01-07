@@ -1,0 +1,25 @@
+
+### [NCIT:C7716](http://purl.obolibrary.org/obo/NCIT_C7716)
+**Label:** Renal Pelvis and Ureter Urothelial Carcinoma
+
+**Subclasses:** [NCIT:C7517](http://purl.obolibrary.org/obo/NCIT_C7517) (Stage 0a Renal Pelvis and Ureter Urothelial Carcinoma), [NCIT:C7518](http://purl.obolibrary.org/obo/NCIT_C7518) (Stage 0is Renal Pelvis and Ureter Urothelial Carcinoma), [NCIT:C4597](http://purl.obolibrary.org/obo/NCIT_C4597) (Stage 0is Renal Pelvis Urothelial Carcinoma), [NCIT:C6149](http://purl.obolibrary.org/obo/NCIT_C6149) (Stage 0 Ureter Urothelial Carcinoma), [NCIT:C6148](http://purl.obolibrary.org/obo/NCIT_C6148) (Renal Pelvis Papillary Urothelial Carcinoma), [NCIT:C6203](http://purl.obolibrary.org/obo/NCIT_C6203) (Stage 0a Ureter Urothelial Carcinoma), [NCIT:C4830](http://purl.obolibrary.org/obo/NCIT_C4830) (Ureter Urothelial Carcinoma), [NCIT:C6156](http://purl.obolibrary.org/obo/NCIT_C6156) (Infiltrating Ureter Urothelial Carcinoma with Squamous Differentiation), [NCIT:C7355](http://purl.obolibrary.org/obo/NCIT_C7355) (Renal Pelvis Urothelial Carcinoma), [NCIT:C6202](http://purl.obolibrary.org/obo/NCIT_C6202) (Stage 0a Renal Pelvis Urothelial Carcinoma), [NCIT:C8168](http://purl.obolibrary.org/obo/NCIT_C8168) (Regional Urothelial Carcinoma of the Renal Pelvis and Ureter), [NCIT:C6157](http://purl.obolibrary.org/obo/NCIT_C6157) (Infiltrating Ureter Urothelial Carcinoma with Glandular Differentiation), [NCIT:C8254](http://purl.obolibrary.org/obo/NCIT_C8254) (Recurrent Urothelial Carcinoma of the Renal Pelvis and Ureter), [NCIT:C8167](http://purl.obolibrary.org/obo/NCIT_C8167) (Localized Urothelial Carcinoma of the Renal Pelvis and Ureter), [NCIT:C6186](http://purl.obolibrary.org/obo/NCIT_C6186) (Infiltrating Renal Pelvis Urothelial Carcinoma, Sarcomatoid Variant), [NCIT:C39850](http://purl.obolibrary.org/obo/NCIT_C39850) (Stage 0 Renal Pelvis and Ureter Urothelial Carcinoma), [NCIT:C8064](http://purl.obolibrary.org/obo/NCIT_C8064) (Metastatic Urothelial Carcinoma of the Renal Pelvis and Ureter), [NCIT:C6193](http://purl.obolibrary.org/obo/NCIT_C6193) (Stage 0 Renal Pelvis Urothelial Carcinoma), [NCIT:C4529](http://purl.obolibrary.org/obo/NCIT_C4529) (Stage 0is Ureter Urothelial Carcinoma), [NCIT:C39879](http://purl.obolibrary.org/obo/NCIT_C39879) (Infiltrating Renal Pelvis and Ureter Urothelial Carcinoma), 
+
+**Class expressions from DL-Learner:**
+
+- Thing 53.49%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) 46.09%
+- [NCIT:C36767](http://purl.obolibrary.org/obo/NCIT_C36767) (Abnormal Transitional Cell) 46.09%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40377](http://purl.obolibrary.org/obo/NCIT_C40377) (Breast Follicular Lymphoma))) 46.09%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40376](http://purl.obolibrary.org/obo/NCIT_C40376) (Breast Burkitt Lymphoma))) 46.09%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40375](http://purl.obolibrary.org/obo/NCIT_C40375) (Breast Diffuse Large B-Cell Lymphoma))) 46.09%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C4037](http://purl.obolibrary.org/obo/NCIT_C4037) (Acute Myeloid Leukemia Arising from Previous Myelodysplastic Syndrome))) 46.09%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40369](http://purl.obolibrary.org/obo/NCIT_C40369) (Sebaceous Breast Carcinoma))) 46.09%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40367](http://purl.obolibrary.org/obo/NCIT_C40367) (Acinic Cell Breast Carcinoma))) 46.09%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40366](http://purl.obolibrary.org/obo/NCIT_C40366) (Oncocytic Breast Carcinoma))) 46.09%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40363](http://purl.obolibrary.org/obo/NCIT_C40363) (Nipple Syringomatous Adenoma))) 46.09%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40362](http://purl.obolibrary.org/obo/NCIT_C40362) (Low Grade Adenosquamous Breast Carcinoma))) 46.09%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40358](http://purl.obolibrary.org/obo/NCIT_C40358) (Squamous Cell Breast Carcinoma, Spindle Cell Variant))) 46.09%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40356](http://purl.obolibrary.org/obo/NCIT_C40356) (Breast Large Cell Neuroendocrine Carcinoma))) 46.09%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40355](http://purl.obolibrary.org/obo/NCIT_C40355) (Breast Columnar Cell Mucinous Carcinoma))) 46.09%
+
+

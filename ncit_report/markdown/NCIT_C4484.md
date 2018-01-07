@@ -1,0 +1,25 @@
+
+### [NCIT:C4484](http://purl.obolibrary.org/obo/NCIT_C4484)
+**Label:** Cutaneous Leiomyosarcoma
+
+**Subclasses:** 
+
+**Class expressions from DL-Learner:**
+
+- Thing 54.87%
+- [NCIT:C36559](http://purl.obolibrary.org/obo/NCIT_C36559) (Gain of Chromosome 20) 51.35%
+- [NCIT:C36558](http://purl.obolibrary.org/obo/NCIT_C36558) (Gain of Chromosome 1) 51.35%
+- [NCIT:C36557](http://purl.obolibrary.org/obo/NCIT_C36557) (del(13q32-qter)) 51.35%
+- [NCIT:C36556](http://purl.obolibrary.org/obo/NCIT_C36556) (del(13q12-13)) 51.35%
+- [NCIT:C36555](http://purl.obolibrary.org/obo/NCIT_C36555) (del(8p21-pter)) 51.35%
+- [NCIT:C36554](http://purl.obolibrary.org/obo/NCIT_C36554) (del(3p21-23)) 51.35%
+- [NCIT:C36553](http://purl.obolibrary.org/obo/NCIT_C36553) (Gain of Chromosome 1q21-31) 51.35%
+- [NCIT:C36539](http://purl.obolibrary.org/obo/NCIT_C36539) (Gain of Chromosome X) 51.35%
+- [NCIT:C36466](http://purl.obolibrary.org/obo/NCIT_C36466) (Gain of Chromosome 17) 51.35%
+- [NCIT:C36465](http://purl.obolibrary.org/obo/NCIT_C36465) (Gain of Chromosome 15) 51.35%
+- [NCIT:C36457](http://purl.obolibrary.org/obo/NCIT_C36457) (Gain of Chromosome 22) 51.35%
+- [NCIT:C36456](http://purl.obolibrary.org/obo/NCIT_C36456) (Gain of Chromosome 19) 51.35%
+- [CL:0008007](http://purl.obolibrary.org/obo/CL_0008007) (visceral muscle cell) 51.35%
+- [CL:0008000](http://purl.obolibrary.org/obo/CL_0008000) (non-striated muscle cell) 51.35%
+
+

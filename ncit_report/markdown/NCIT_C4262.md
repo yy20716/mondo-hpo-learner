@@ -2,29 +2,24 @@
 ### [NCIT:C4262](http://purl.obolibrary.org/obo/NCIT_C4262)
 **Label:** Endometrial Stromal Nodule
 
-**Corr. equiv. classes:** [http://purl.obolibrary.org/obo/NCIT_C99707](NCIT:C99707) (JAZF1/SUZ12 Fusion Gene), [http://purl.obolibrary.org/obo/NCIT_C73545](NCIT:C73545) (SUZ12 Gene), [http://purl.obolibrary.org/obo/NCIT_C73542](NCIT:C73542) (JAZF1 Gene), 
+**Subclasses:** 
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C16612](http://purl.obolibrary.org/obo/NCIT_C16612) (Gene) 52.85%
-- not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain)) 50.70%
-- not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion)) 50.70%
-- not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein)) 50.70%
-- not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin)) 50.70%
-- not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid)) 50.70%
-- not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene)) 50.70%
-- not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron)) 50.70%
-- Thing 50.70%
-- not (CARO:0010000) 50.70%
-- not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null)) 50.70%
-- not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null)) 50.70%
-- [NCIT:C73542](http://purl.obolibrary.org/obo/NCIT_C73542) (JAZF1 Gene) 45.53%
-- [NCIT:C99707](http://purl.obolibrary.org/obo/NCIT_C99707) (JAZF1/SUZ12 Fusion Gene) 41.67%
-- [NCIT:C73545](http://purl.obolibrary.org/obo/NCIT_C73545) (SUZ12 Gene) 41.67%
-- [NCIT:C26110](http://purl.obolibrary.org/obo/NCIT_C26110) (Methyltransferase Gene) 31.74%
-- [NCIT:C25870](http://purl.obolibrary.org/obo/NCIT_C25870) (Transferase Gene) 20.97%
-- [NCIT:C21281](http://purl.obolibrary.org/obo/NCIT_C21281) (Enzyme Gene) 20.55%
-- [NCIT:C28510](http://purl.obolibrary.org/obo/NCIT_C28510) (Fusion Gene) 20.36%
-- [NCIT:C54362](http://purl.obolibrary.org/obo/NCIT_C54362) (Transcription Regulation Gene) 19.96%
+- Thing 54.08%
+- [NCIT:C33921](http://purl.obolibrary.org/obo/NCIT_C33921) (Endometrial Stromal Cell) 51.92%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 51.92%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) 37.28%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([NCIT:C38111](http://purl.obolibrary.org/obo/NCIT_C38111) (Skin Sarcomatoid Basal Cell Carcinoma))) 37.28%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([NCIT:C38110](http://purl.obolibrary.org/obo/NCIT_C38110) (Skin Signet Ring Cell Basal Cell Carcinoma))) 37.28%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([NCIT:C38107](http://purl.obolibrary.org/obo/NCIT_C38107) (Dedifferentiated Dermatofibrosarcoma Protuberans))) 37.28%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([NCIT:C38106](http://purl.obolibrary.org/obo/NCIT_C38106) (Myxoid Dermatofibrosarcoma Protuberans))) 37.28%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([NCIT:C38043](http://purl.obolibrary.org/obo/NCIT_C38043) (Typhlitis))) 37.28%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([NCIT:C3804](http://purl.obolibrary.org/obo/NCIT_C3804) (Intradermal Nevus))) 37.28%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([NCIT:C38038](http://purl.obolibrary.org/obo/NCIT_C38038) (Tremor))) 37.28%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([NCIT:C38006](http://purl.obolibrary.org/obo/NCIT_C38006) (Pneumothorax))) 37.28%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([NCIT:C37999](http://purl.obolibrary.org/obo/NCIT_C37999) (Palpitation))) 37.28%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([NCIT:C37973](http://purl.obolibrary.org/obo/NCIT_C37973) (Hypocalcemia))) 37.28%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([NCIT:C37943](http://purl.obolibrary.org/obo/NCIT_C37943) (Dizziness))) 37.28%
 
 

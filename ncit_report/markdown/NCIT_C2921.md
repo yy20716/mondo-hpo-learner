@@ -1,0 +1,25 @@
+
+### [NCIT:C2921](http://purl.obolibrary.org/obo/NCIT_C2921)
+**Label:** Skin Basal Cell Carcinoma
+
+**Subclasses:** [NCIT:C5568](http://purl.obolibrary.org/obo/NCIT_C5568) (Skin Nodulo-Ulcerative Basal Cell Carcinoma), [NCIT:C27539](http://purl.obolibrary.org/obo/NCIT_C27539) (Skin Infiltrating Basal Cell Carcinoma), [NCIT:C8014](http://purl.obolibrary.org/obo/NCIT_C8014) (Lip Basal Cell Carcinoma), [NCIT:C8213](http://purl.obolibrary.org/obo/NCIT_C8213) (Recurrent Lip Basal Cell Carcinoma), [NCIT:C27535](http://purl.obolibrary.org/obo/NCIT_C27535) (Skin Adenoid Basal Cell Carcinoma), [NCIT:C8197](http://purl.obolibrary.org/obo/NCIT_C8197) (Stage I Lip Basal Cell Carcinoma), [NCIT:C27537](http://purl.obolibrary.org/obo/NCIT_C27537) (Skin Cystic Basal Cell Carcinoma), [NCIT:C27536](http://purl.obolibrary.org/obo/NCIT_C27536) (Skin Clear Cell Basal Cell Carcinoma), [NCIT:C6082](http://purl.obolibrary.org/obo/NCIT_C6082) (External Ear Basal Cell Carcinoma), [NCIT:C6381](http://purl.obolibrary.org/obo/NCIT_C6381) (Vulvar Basal Cell Carcinoma), [NCIT:C27182](http://purl.obolibrary.org/obo/NCIT_C27182) (Skin Morphea-Type (Sclerosing) Basal Cell Carcinoma), [NCIT:C38109](http://purl.obolibrary.org/obo/NCIT_C38109) (Skin Basal Cell Carcinoma with Adnexal Differentiation), [NCIT:C8209](http://purl.obolibrary.org/obo/NCIT_C8209) (Stage IV Lip Basal Cell Carcinoma), [NCIT:C5616](http://purl.obolibrary.org/obo/NCIT_C5616) (Skin Nodular Solid Basal Cell Carcinoma), [NCIT:C54665](http://purl.obolibrary.org/obo/NCIT_C54665) (Skin Keratotic Basal Cell Carcinoma), [NCIT:C8205](http://purl.obolibrary.org/obo/NCIT_C8205) (Stage III Lip Basal Cell Carcinoma), [NCIT:C4346](http://purl.obolibrary.org/obo/NCIT_C4346) (Skin Basal Cell Carcinoma with Sebaceous Differentiation), [NCIT:C9359](http://purl.obolibrary.org/obo/NCIT_C9359) (Skin Pigmented Basal Cell Carcinoma), [NCIT:C8201](http://purl.obolibrary.org/obo/NCIT_C8201) (Stage II Lip Basal Cell Carcinoma), [NCIT:C5893](http://purl.obolibrary.org/obo/NCIT_C5893) (Stage 0 Lip Basal Cell Carcinoma AJCC v6 and v7), [NCIT:C7473](http://purl.obolibrary.org/obo/NCIT_C7473) (Anal Margin Basal Cell Carcinoma), [NCIT:C39961](http://purl.obolibrary.org/obo/NCIT_C39961) (Penile Basal Cell Carcinoma), [NCIT:C38110](http://purl.obolibrary.org/obo/NCIT_C38110) (Skin Signet Ring Cell Basal Cell Carcinoma), [NCIT:C38111](http://purl.obolibrary.org/obo/NCIT_C38111) (Skin Sarcomatoid Basal Cell Carcinoma), [NCIT:C62282](http://purl.obolibrary.org/obo/NCIT_C62282) (Skin Nodular Basal Cell Carcinoma), [NCIT:C2922](http://purl.obolibrary.org/obo/NCIT_C2922) (Skin Basosquamous Cell Carcinoma), 
+
+**Class expressions from DL-Learner:**
+
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C36783](http://purl.obolibrary.org/obo/NCIT_C36783) (Malignant Non-Cutaneous Basaloid Cell))) 55.88%
+- Thing 53.30%
+- [NCIT:C60783](http://purl.obolibrary.org/obo/NCIT_C60783) (Malignant Cutaneous Basaloid Cell) 52.94%
+- [NCIT:C36781](http://purl.obolibrary.org/obo/NCIT_C36781) (Neoplastic Cutaneous Basaloid Cell) 52.94%
+- [NCIT:C36781](http://purl.obolibrary.org/obo/NCIT_C36781) (Neoplastic Cutaneous Basaloid Cell) and [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) 52.94%
+- [NCIT:C36759](http://purl.obolibrary.org/obo/NCIT_C36759) (Neoplastic Basaloid Cell) 47.55%
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) 46.71%
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40366](http://purl.obolibrary.org/obo/NCIT_C40366) (Oncocytic Breast Carcinoma))) 46.71%
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40363](http://purl.obolibrary.org/obo/NCIT_C40363) (Nipple Syringomatous Adenoma))) 46.71%
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40362](http://purl.obolibrary.org/obo/NCIT_C40362) (Low Grade Adenosquamous Breast Carcinoma))) 46.71%
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40358](http://purl.obolibrary.org/obo/NCIT_C40358) (Squamous Cell Breast Carcinoma, Spindle Cell Variant))) 46.71%
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40356](http://purl.obolibrary.org/obo/NCIT_C40356) (Breast Large Cell Neuroendocrine Carcinoma))) 46.71%
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40355](http://purl.obolibrary.org/obo/NCIT_C40355) (Breast Columnar Cell Mucinous Carcinoma))) 46.71%
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40354](http://purl.obolibrary.org/obo/NCIT_C40354) (Breast Mucinous Cystadenocarcinoma))) 46.71%
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40350](http://purl.obolibrary.org/obo/NCIT_C40350) (Breast Carcinoma with Choriocarcinomatous Features))) 46.71%
+
+

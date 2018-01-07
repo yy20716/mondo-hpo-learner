@@ -2,29 +2,24 @@
 ### [NCIT:C7754](http://purl.obolibrary.org/obo/NCIT_C7754)
 **Label:** Juvenile Polyposis Syndrome
 
-**Corr. equiv. classes:** [http://purl.obolibrary.org/obo/NCIT_C21366](NCIT:C21366) (BMPR1A Gene), [http://purl.obolibrary.org/obo/NCIT_C18258](NCIT:C18258) (SMAD4 Gene), 
+**Subclasses:** 
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C16612](http://purl.obolibrary.org/obo/NCIT_C16612) (Gene) 52.33%
-- not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid)) 50.57%
-- not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene)) 50.57%
-- not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron)) 50.57%
-- Thing 50.57%
-- not (CARO:0010000) 50.57%
-- not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null)) 50.57%
-- not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null)) 50.57%
-- [NCIT:C21366](http://purl.obolibrary.org/obo/NCIT_C21366) (BMPR1A Gene) 47.36%
-- [NCIT:C18258](http://purl.obolibrary.org/obo/NCIT_C18258) (SMAD4 Gene) 47.36%
-- [NCIT:C21365](http://purl.obolibrary.org/obo/NCIT_C21365) (Bone Morphogenetic Protein Receptor Gene) 43.90%
-- [NCIT:C21364](http://purl.obolibrary.org/obo/NCIT_C21364) (Receptor Serine/Threonine Kinase Gene) 42.68%
-- [NCIT:C25873](http://purl.obolibrary.org/obo/NCIT_C25873) (Serine/Threonine Protein Kinase Gene) 32.37%
-- [NCIT:C20921](http://purl.obolibrary.org/obo/NCIT_C20921) (Signaling Pathway Gene) 30.81%
-- [NCIT:C20103](http://purl.obolibrary.org/obo/NCIT_C20103) (Receptor Gene) 30.52%
-- [NCIT:C21295](http://purl.obolibrary.org/obo/NCIT_C21295) (Ligand Binding Protein Gene) 29.83%
-- [NCIT:C25872](http://purl.obolibrary.org/obo/NCIT_C25872) (Kinase Family Gene) 29.66%
-- [NCIT:C25871](http://purl.obolibrary.org/obo/NCIT_C25871) (Phosphotransferase Gene) 29.66%
-- [NCIT:C25870](http://purl.obolibrary.org/obo/NCIT_C25870) (Transferase Gene) 29.30%
-- [NCIT:C21281](http://purl.obolibrary.org/obo/NCIT_C21281) (Enzyme Gene) 28.88%
+- [NCIT:C7724](http://purl.obolibrary.org/obo/NCIT_C7724) (Small Intestinal Carcinoma) 55.56%
+- [NCIT:C3826](http://purl.obolibrary.org/obo/NCIT_C3826) (Juvenile Polyp) 55.56%
+- [NCIT:C21366](http://purl.obolibrary.org/obo/NCIT_C21366) (BMPR1A Gene) 55.56%
+- [NCIT:C21365](http://purl.obolibrary.org/obo/NCIT_C21365) (Bone Morphogenetic Protein Receptor Gene) 55.56%
+- [NCIT:C21364](http://purl.obolibrary.org/obo/NCIT_C21364) (Receptor Serine/Threonine Kinase Gene) 55.56%
+- [NCIT:C18258](http://purl.obolibrary.org/obo/NCIT_C18258) (SMAD4 Gene) 55.56%
+- Thing 52.40%
+- [NCIT:C96963](http://purl.obolibrary.org/obo/NCIT_C96963) (Digestive System Carcinoma) 49.96%
+- [NCIT:C3850](http://purl.obolibrary.org/obo/NCIT_C3850) (Pancreatic Carcinoma) 40.91%
+- [NCIT:C3850](http://purl.obolibrary.org/obo/NCIT_C3850) (Pancreatic Carcinoma) and (not ([NCIT:C40021](http://purl.obolibrary.org/obo/NCIT_C40021) (Ovarian Lymphoma))) 40.91%
+- [NCIT:C3850](http://purl.obolibrary.org/obo/NCIT_C3850) (Pancreatic Carcinoma) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 40.91%
+- [NCIT:C3850](http://purl.obolibrary.org/obo/NCIT_C3850) (Pancreatic Carcinoma) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 40.91%
+- [NCIT:C3850](http://purl.obolibrary.org/obo/NCIT_C3850) (Pancreatic Carcinoma) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 40.91%
+- [NCIT:C3850](http://purl.obolibrary.org/obo/NCIT_C3850) (Pancreatic Carcinoma) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 40.91%
+- [NCIT:C3850](http://purl.obolibrary.org/obo/NCIT_C3850) (Pancreatic Carcinoma) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 40.91%
 
 

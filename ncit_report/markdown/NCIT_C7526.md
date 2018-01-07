@@ -1,0 +1,25 @@
+
+### [NCIT:C7526](http://purl.obolibrary.org/obo/NCIT_C7526)
+**Label:** Papillary Intralymphatic Angioendothelioma
+
+**Subclasses:** 
+
+**Class expressions from DL-Learner:**
+
+- Thing 53.20%
+- [NCIT:C53416](http://purl.obolibrary.org/obo/NCIT_C53416) (Rarely Metastasizing Lesion) 53.12%
+- [NCIT:C53415](http://purl.obolibrary.org/obo/NCIT_C53415) (Locally Aggressive Lesion) 53.12%
+- [NCIT:C53305](http://purl.obolibrary.org/obo/NCIT_C53305) (Neoplastic Plump Endothelial Cell) 53.12%
+- [NCIT:C39624](http://purl.obolibrary.org/obo/NCIT_C39624) (Skin Plaque) 53.12%
+- [NCIT:C36129](http://purl.obolibrary.org/obo/NCIT_C36129) (High Grade Lesion) 53.12%
+- [NCIT:C3373](http://purl.obolibrary.org/obo/NCIT_C3373) (Skin Nodule) 53.12%
+- [CL:0000115](http://purl.obolibrary.org/obo/CL_0000115) (endothelial cell) 53.12%
+- [NCIT:C36758](http://purl.obolibrary.org/obo/NCIT_C36758) (Neoplastic Hobnail Cell) and [NCIT:C37088](http://purl.obolibrary.org/obo/NCIT_C37088) (Neoplastic Endothelial Cell) 53.12%
+- [NCIT:C36758](http://purl.obolibrary.org/obo/NCIT_C36758) (Neoplastic Hobnail Cell) and [NCIT:C37086](http://purl.obolibrary.org/obo/NCIT_C37086) (Abnormal Endothelial Cell) 53.12%
+- [NCIT:C36758](http://purl.obolibrary.org/obo/NCIT_C36758) (Neoplastic Hobnail Cell) and [NCIT:C36887](http://purl.obolibrary.org/obo/NCIT_C36887) (Neoplastic Connective and Soft Tissue Cell) 53.12%
+- [NCIT:C36758](http://purl.obolibrary.org/obo/NCIT_C36758) (Neoplastic Hobnail Cell) and [NCIT:C36843](http://purl.obolibrary.org/obo/NCIT_C36843) (Abnormal Connective and Soft Tissue Cell) 53.12%
+- [UBERON:0004852](http://purl.obolibrary.org/obo/UBERON_0004852) (cardiovascular system endothelium) and (not ([UBERON:0004111](http://purl.obolibrary.org/obo/UBERON_0004111) (anatomical conduit))) 41.61%
+- [UBERON:0004852](http://purl.obolibrary.org/obo/UBERON_0004852) (cardiovascular system endothelium) and (not ([UBERON:0001981](http://purl.obolibrary.org/obo/UBERON_0001981) (blood vessel))) 41.61%
+- [UBERON:0004852](http://purl.obolibrary.org/obo/UBERON_0004852) (cardiovascular system endothelium) and (not ([UBERON:0000055](http://purl.obolibrary.org/obo/UBERON_0000055) (vessel))) 41.61%
+
+

@@ -2,29 +2,24 @@
 ### [NCIT:C4255](http://purl.obolibrary.org/obo/NCIT_C4255)
 **Label:** Lipoblastomatosis
 
-**Corr. equiv. classes:** [http://purl.obolibrary.org/obo/NCIT_C101053](NCIT:C101053) (COL1A2/PLAG1 Fusion Gene), [http://purl.obolibrary.org/obo/NCIT_C101054](NCIT:C101054) (HAS2/PLAG1 Fusion Gene), 
+**Subclasses:** 
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C28510](http://purl.obolibrary.org/obo/NCIT_C28510) (Fusion Gene) 55.23%
-- [NCIT:C101054](http://purl.obolibrary.org/obo/NCIT_C101054) (HAS2/PLAG1 Fusion Gene) 53.87%
-- [NCIT:C101053](http://purl.obolibrary.org/obo/NCIT_C101053) (COL1A2/PLAG1 Fusion Gene) 53.87%
-- [NCIT:C16612](http://purl.obolibrary.org/obo/NCIT_C16612) (Gene) 52.33%
-- not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain)) 50.57%
-- not ([CHEBI:25805](http://purl.obolibrary.org/obo/CHEBI_25805) (oxygen atom)) 50.57%
-- not ([CHEBI:25555](http://purl.obolibrary.org/obo/CHEBI_25555) (nitrogen atom)) 50.57%
-- not ([CHEBI:23019](http://purl.obolibrary.org/obo/CHEBI_23019) (carbonyl group)) 50.57%
-- not ([CHEBI:23004](http://purl.obolibrary.org/obo/CHEBI_23004) (carbamoyl group)) 50.57%
-- not ([CHEBI:22868](http://purl.obolibrary.org/obo/CHEBI_22868) (bile salt)) 50.57%
-- not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion)) 50.57%
-- not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein)) 50.57%
-- not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin)) 50.57%
-- not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid)) 50.57%
-- not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene)) 50.57%
-- not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron)) 50.57%
-- Thing 50.57%
-- not (CARO:0010000) 50.57%
-- not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null)) 50.57%
-- not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null)) 50.57%
+- Thing 53.30%
+- [NCIT:C71423](http://purl.obolibrary.org/obo/NCIT_C71423) (PLAG1 Gene) 52.94%
+- [NCIT:C32991](http://purl.obolibrary.org/obo/NCIT_C32991) (Lipocyte) 52.94%
+- [NCIT:C101054](http://purl.obolibrary.org/obo/NCIT_C101054) (HAS2/PLAG1 Fusion Gene) 52.94%
+- [NCIT:C101053](http://purl.obolibrary.org/obo/NCIT_C101053) (COL1A2/PLAG1 Fusion Gene) 52.94%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) 46.71%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C37157](http://purl.obolibrary.org/obo/NCIT_C37157) (Meningothelial Cell with Elongated Processes))) 46.71%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C37156](http://purl.obolibrary.org/obo/NCIT_C37156) (Spindle-Shaped Meningothelial Cell))) 46.71%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C37154](http://purl.obolibrary.org/obo/NCIT_C37154) (Neoplastic Perineurial Cell))) 46.71%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C37152](http://purl.obolibrary.org/obo/NCIT_C37152) (Neoplastic Perineurial-Like Cell))) 46.71%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C37151](http://purl.obolibrary.org/obo/NCIT_C37151) (Neoplastic Schwann Cell))) 46.71%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C37149](http://purl.obolibrary.org/obo/NCIT_C37149) (Rhabdoid Cell))) 46.71%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C37147](http://purl.obolibrary.org/obo/NCIT_C37147) (Neoplastic Oligodendrocyte-Like Cell))) 46.71%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C37145](http://purl.obolibrary.org/obo/NCIT_C37145) (Neoplastic Neuroblast))) 46.71%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C37144](http://purl.obolibrary.org/obo/NCIT_C37144) (Neoplastic Elongated Glial Cell))) 46.71%
 
 

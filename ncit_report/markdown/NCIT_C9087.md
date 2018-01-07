@@ -1,0 +1,25 @@
+
+### [NCIT:C9087](http://purl.obolibrary.org/obo/NCIT_C9087)
+**Label:** Kaposi Sarcoma
+
+**Subclasses:** [NCIT:C5602](http://purl.obolibrary.org/obo/NCIT_C5602) (Anal Kaposi Sarcoma), [NCIT:C4579](http://purl.obolibrary.org/obo/NCIT_C4579) (Corneal Kaposi Sarcoma), [NCIT:C7006](http://purl.obolibrary.org/obo/NCIT_C7006) (Central Nervous System Kaposi Sarcoma), [NCIT:C5842](http://purl.obolibrary.org/obo/NCIT_C5842) (Gallbladder Kaposi Sarcoma), [NCIT:C96059](http://purl.obolibrary.org/obo/NCIT_C96059) (Small Intestinal Kaposi Sarcoma), [NCIT:C5523](http://purl.obolibrary.org/obo/NCIT_C5523) (Prostate Kaposi Sarcoma), [NCIT:C96510](http://purl.obolibrary.org/obo/NCIT_C96510) (Colorectal Kaposi Sarcoma), [NCIT:C96951](http://purl.obolibrary.org/obo/NCIT_C96951) (Extrahepatic Bile Duct Kaposi Sarcoma), [NCIT:C96434](http://purl.obolibrary.org/obo/NCIT_C96434) (Appendix Kaposi Sarcoma), [NCIT:C4578](http://purl.obolibrary.org/obo/NCIT_C4578) (Conjunctival Kaposi Sarcoma), [NCIT:C5363](http://purl.obolibrary.org/obo/NCIT_C5363) (Cardiac Kaposi Sarcoma), [NCIT:C6377](http://purl.obolibrary.org/obo/NCIT_C6377) (Penile Kaposi Sarcoma), [NCIT:C35874](http://purl.obolibrary.org/obo/NCIT_C35874) (Endemic African Kaposi Sarcoma), [NCIT:C35873](http://purl.obolibrary.org/obo/NCIT_C35873) (Iatrogenic Kaposi Sarcoma), [NCIT:C5529](http://purl.obolibrary.org/obo/NCIT_C5529) (Gastric Kaposi Sarcoma), [NCIT:C5706](http://purl.obolibrary.org/obo/NCIT_C5706) (Esophageal Kaposi Sarcoma), [NCIT:C7935](http://purl.obolibrary.org/obo/NCIT_C7935) (Recurrent Kaposi Sarcoma), [NCIT:C27640](http://purl.obolibrary.org/obo/NCIT_C27640) (Transplant-Related Kaposi Sarcoma), [NCIT:C5516](http://purl.obolibrary.org/obo/NCIT_C5516) (Colon Kaposi Sarcoma), [NCIT:C27500](http://purl.obolibrary.org/obo/NCIT_C27500) (Lymphadenopathic Kaposi Sarcoma), [NCIT:C6749](http://purl.obolibrary.org/obo/NCIT_C6749) (Palate Kaposi Sarcoma), [NCIT:C5952](http://purl.obolibrary.org/obo/NCIT_C5952) (Parotid Gland Kaposi Sarcoma), [NCIT:C5550](http://purl.obolibrary.org/obo/NCIT_C5550) (Rectal Kaposi Sarcoma), [NCIT:C9413](http://purl.obolibrary.org/obo/NCIT_C9413) (Kaposi Sarcoma NCI Grade 2), [NCIT:C9414](http://purl.obolibrary.org/obo/NCIT_C9414) (Kaposi Sarcoma NCI Grade 3), [NCIT:C3551](http://purl.obolibrary.org/obo/NCIT_C3551) (Lung Kaposi Sarcoma), [NCIT:C9112](http://purl.obolibrary.org/obo/NCIT_C9112) (Classic Kaposi Sarcoma), [NCIT:C3550](http://purl.obolibrary.org/obo/NCIT_C3550) (Skin Kaposi Sarcoma), [NCIT:C9113](http://purl.obolibrary.org/obo/NCIT_C9113) (Kaposi Sarcoma Related to Immunosuppressive Treatment), [NCIT:C96844](http://purl.obolibrary.org/obo/NCIT_C96844) (Liver Kaposi Sarcoma), 
+
+**Class expressions from DL-Learner:**
+
+- Thing 54.24%
+- [NCIT:C53413](http://purl.obolibrary.org/obo/NCIT_C53413) (Malignant Oval Endothelial Cell) 51.79%
+- [NCIT:C53405](http://purl.obolibrary.org/obo/NCIT_C53405) (Malignant Spindle Endothelial Cell) 51.79%
+- [NCIT:C37092](http://purl.obolibrary.org/obo/NCIT_C37092) (Spindle Endothelial Cell) and [NCIT:C47834](http://purl.obolibrary.org/obo/NCIT_C47834) (Malignant Endothelial Cell) 51.79%
+- [NCIT:C47834](http://purl.obolibrary.org/obo/NCIT_C47834) (Malignant Endothelial Cell) 48.66%
+- [NCIT:C47834](http://purl.obolibrary.org/obo/NCIT_C47834) (Malignant Endothelial Cell) and (not ([NCIT:C36400](http://purl.obolibrary.org/obo/NCIT_C36400) (t(8;13)(p11;q11)))) 48.66%
+- [NCIT:C47834](http://purl.obolibrary.org/obo/NCIT_C47834) (Malignant Endothelial Cell) and (not ([NCIT:C36399](http://purl.obolibrary.org/obo/NCIT_C36399) (t(5;12)(q33;p13)))) 48.66%
+- [NCIT:C47834](http://purl.obolibrary.org/obo/NCIT_C47834) (Malignant Endothelial Cell) and (not ([NCIT:C36397](http://purl.obolibrary.org/obo/NCIT_C36397) (Trisomy 20))) 48.66%
+- [NCIT:C47834](http://purl.obolibrary.org/obo/NCIT_C47834) (Malignant Endothelial Cell) and (not ([NCIT:C36396](http://purl.obolibrary.org/obo/NCIT_C36396) (Trisomy 8))) 48.66%
+- [NCIT:C47834](http://purl.obolibrary.org/obo/NCIT_C47834) (Malignant Endothelial Cell) and (not ([NCIT:C36392](http://purl.obolibrary.org/obo/NCIT_C36392) (t(X;17)(p11.2;q25)))) 48.66%
+- [NCIT:C47834](http://purl.obolibrary.org/obo/NCIT_C47834) (Malignant Endothelial Cell) and (not ([NCIT:C3639](http://purl.obolibrary.org/obo/NCIT_C3639) (Tracheal Carcinoma In Situ))) 48.66%
+- [NCIT:C47834](http://purl.obolibrary.org/obo/NCIT_C47834) (Malignant Endothelial Cell) and (not ([NCIT:C36389](http://purl.obolibrary.org/obo/NCIT_C36389) (t(2;13)(q35;q14)))) 48.66%
+- [NCIT:C47834](http://purl.obolibrary.org/obo/NCIT_C47834) (Malignant Endothelial Cell) and (not ([NCIT:C36388](http://purl.obolibrary.org/obo/NCIT_C36388) (t(1;2)(p11;q35-36)))) 48.66%
+- [NCIT:C47834](http://purl.obolibrary.org/obo/NCIT_C47834) (Malignant Endothelial Cell) and (not ([NCIT:C36387](http://purl.obolibrary.org/obo/NCIT_C36387) (t(12;15)(p13;q25)))) 48.66%
+- [NCIT:C47834](http://purl.obolibrary.org/obo/NCIT_C47834) (Malignant Endothelial Cell) and (not ([NCIT:C36385](http://purl.obolibrary.org/obo/NCIT_C36385) (Giant Rod Chromosome))) 48.66%
+
+

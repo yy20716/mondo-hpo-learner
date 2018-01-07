@@ -1,0 +1,25 @@
+
+### [NCIT:C8492](http://purl.obolibrary.org/obo/NCIT_C8492)
+**Label:** Aggressive Adult Non-Hodgkin Lymphoma
+
+**Subclasses:** [NCIT:C115349](http://purl.obolibrary.org/obo/NCIT_C115349) (Recurrent Adult Grade III Lymphomatoid Granulomatosis), [NCIT:C7226](http://purl.obolibrary.org/obo/NCIT_C7226) (Adult T Lymphoblastic Lymphoma), [NCIT:C8139](http://purl.obolibrary.org/obo/NCIT_C8139) (Stage III Adult Burkitt Lymphoma), [NCIT:C7338](http://purl.obolibrary.org/obo/NCIT_C7338) (Adult B Lymphoblastic Lymphoma), [NCIT:C8126](http://purl.obolibrary.org/obo/NCIT_C8126) (Stage II Adult Burkitt Lymphoma), [NCIT:C8159](http://purl.obolibrary.org/obo/NCIT_C8159) (Recurrent Adult Burkitt Lymphoma), [NCIT:C8138](http://purl.obolibrary.org/obo/NCIT_C8138) (Stage III Adult Lymphoblastic Lymphoma), [NCIT:C8487](http://purl.obolibrary.org/obo/NCIT_C8487) (Stage IV Aggressive Adult Non-Hodgkin Lymphoma), [NCIT:C8125](http://purl.obolibrary.org/obo/NCIT_C8125) (Stage II Adult Lymphoblastic Lymphoma), [NCIT:C115154](http://purl.obolibrary.org/obo/NCIT_C115154) (Adult Nasal Type Extranodal NK/T-Cell Lymphoma), [NCIT:C8079](http://purl.obolibrary.org/obo/NCIT_C8079) (Stage I Adult Lymphoblastic Lymphoma), [NCIT:C8164](http://purl.obolibrary.org/obo/NCIT_C8164) (Recurrent Adult Lymphoblastic Lymphoma), [NCIT:C8484](http://purl.obolibrary.org/obo/NCIT_C8484) (Stage III Aggressive Adult Non-Hodgkin Lymphoma), [NCIT:C115150](http://purl.obolibrary.org/obo/NCIT_C115150) (Adult Grade III Lymphomatoid Granulomatosis), [NCIT:C9361](http://purl.obolibrary.org/obo/NCIT_C9361) (Adult Lymphoblastic Lymphoma), [NCIT:C8151](http://purl.obolibrary.org/obo/NCIT_C8151) (Stage IV Adult Lymphoblastic Lymphoma), [NCIT:C8152](http://purl.obolibrary.org/obo/NCIT_C8152) (Stage IV Adult Burkitt Lymphoma), [NCIT:C9252](http://purl.obolibrary.org/obo/NCIT_C9252) (Stage I Aggressive Adult Non-Hodgkin Lymphoma), [NCIT:C9062](http://purl.obolibrary.org/obo/NCIT_C9062) (Adult Burkitt Lymphoma), [NCIT:C8490](http://purl.obolibrary.org/obo/NCIT_C8490) (Recurrent Aggressive Adult Non-Hodgkin Lymphoma), [NCIT:C68686](http://purl.obolibrary.org/obo/NCIT_C68686) (Stage II Aggressive Adult Non-Hodgkin Lymphoma), [NCIT:C8080](http://purl.obolibrary.org/obo/NCIT_C8080) (Stage I Adult Burkitt Lymphoma), 
+
+**Class expressions from DL-Learner:**
+
+- Thing 52.77%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) 39.52%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39795](http://purl.obolibrary.org/obo/NCIT_C39795) (Loss of Chromosome 14q))) 39.52%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39788](http://purl.obolibrary.org/obo/NCIT_C39788) (MET Gene Mutation))) 39.52%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39787](http://purl.obolibrary.org/obo/NCIT_C39787) (Multiple Tumor Masses))) 39.52%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39786](http://purl.obolibrary.org/obo/NCIT_C39786) (Bilateral Disease))) 39.52%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39783](http://purl.obolibrary.org/obo/NCIT_C39783) (Retinal Hemangioblastoma))) 39.52%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39752](http://purl.obolibrary.org/obo/NCIT_C39752) (Refractory Disease))) 39.52%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39751](http://purl.obolibrary.org/obo/NCIT_C39751) (Glioblastoma, IDH-Mutant))) 39.52%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39748](http://purl.obolibrary.org/obo/NCIT_C39748) (Lymphoblast-Like Neoplastic B-Lymphocyte))) 39.52%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39747](http://purl.obolibrary.org/obo/NCIT_C39747) (Pleomorphic Variant Mantle Cell Lymphoma))) 39.52%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39743](http://purl.obolibrary.org/obo/NCIT_C39743) (Fascicular Pattern))) 39.52%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39741](http://purl.obolibrary.org/obo/NCIT_C39741) (Retroperitoneal Inflammatory Myofibroblastic Tumor))) 39.52%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39740](http://purl.obolibrary.org/obo/NCIT_C39740) (Lung Inflammatory Myofibroblastic Tumor))) 39.52%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39739](http://purl.obolibrary.org/obo/NCIT_C39739) (Negative Peripheral Blood))) 39.52%
+
+
