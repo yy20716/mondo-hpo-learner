@@ -8,18 +8,18 @@
 
 - Thing 54.24%
 - [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) 37.14%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C37147](http://purl.obolibrary.org/obo/NCIT_C37147) (Neoplastic Oligodendrocyte-Like Cell))) 37.14%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C37145](http://purl.obolibrary.org/obo/NCIT_C37145) (Neoplastic Neuroblast))) 37.14%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C37144](http://purl.obolibrary.org/obo/NCIT_C37144) (Neoplastic Elongated Glial Cell))) 37.14%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C37141](http://purl.obolibrary.org/obo/NCIT_C37141) (Neoplastic Oligodendrocyte))) 37.14%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C37139](http://purl.obolibrary.org/obo/NCIT_C37139) (Xanthomatous Astrocyte))) 37.14%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C37138](http://purl.obolibrary.org/obo/NCIT_C37138) (Neoplastic Piloid Astrocyte))) 37.14%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C37137](http://purl.obolibrary.org/obo/NCIT_C37137) (Poorly Differentiated Neoplastic Astrocyte))) 37.14%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C37136](http://purl.obolibrary.org/obo/NCIT_C37136) (Anaplastic Astrocyte))) 37.14%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C37135](http://purl.obolibrary.org/obo/NCIT_C37135) (Neoplastic Astrocyte with Few Flaccid Processes))) 37.14%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C37132](http://purl.obolibrary.org/obo/NCIT_C37132) (Gemistocytic Neoplastic Astrocyte))) 37.14%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C37129](http://purl.obolibrary.org/obo/NCIT_C37129) (Fibrillary Neoplastic Astrocyte))) 37.14%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C37115](http://purl.obolibrary.org/obo/NCIT_C37115) (Serous Adenocarcinoma Cell))) 37.14%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C37108](http://purl.obolibrary.org/obo/NCIT_C37108) (Adenocarcinoma Spindle Cell))) 37.14%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40177](http://purl.obolibrary.org/obo/NCIT_C40177) (Uterine Corpus Smooth Muscle Tumor of Uncertain Malignant Potential))) 37.14%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40175](http://purl.obolibrary.org/obo/NCIT_C40175) (Uterine Corpus Myxoid Leiomyosarcoma))) 37.14%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40174](http://purl.obolibrary.org/obo/NCIT_C40174) (Uterine Corpus Epithelioid Leiomyosarcoma))) 37.14%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40170](http://purl.obolibrary.org/obo/NCIT_C40170) (Uterine Corpus Diffuse Leiomyomatosis))) 37.14%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40168](http://purl.obolibrary.org/obo/NCIT_C40168) (Uterine Corpus Lipoleiomyoma))) 37.14%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40167](http://purl.obolibrary.org/obo/NCIT_C40167) (Uterine Corpus Bizarre Leiomyoma))) 37.14%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40166](http://purl.obolibrary.org/obo/NCIT_C40166) (Uterine Corpus Myxoid Leiomyoma))) 37.14%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40165](http://purl.obolibrary.org/obo/NCIT_C40165) (Uterine Corpus Apoplectic Leiomyoma))) 37.14%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40164](http://purl.obolibrary.org/obo/NCIT_C40164) (Uterine Corpus Epithelioid Leiomyoma))) 37.14%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40163](http://purl.obolibrary.org/obo/NCIT_C40163) (Uterine Corpus Cellular Leiomyoma))) 37.14%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40162](http://purl.obolibrary.org/obo/NCIT_C40162) (Uterine Corpus Leiomyoma, Mitotically Active Variant))) 37.14%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40161](http://purl.obolibrary.org/obo/NCIT_C40161) (JAZF1-SUZ12 Fusion Protein Expression))) 37.14%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40160](http://purl.obolibrary.org/obo/NCIT_C40160) (t(7;17)(p15;q21)))) 37.14%
 
 

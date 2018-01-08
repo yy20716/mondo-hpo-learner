@@ -10,16 +10,16 @@
 - [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C27964](http://purl.obolibrary.org/obo/NCIT_C27964) (Stage 0a))) 53.45%
 - [NCIT:C27965](http://purl.obolibrary.org/obo/NCIT_C27965) (Stage 0is) 51.72%
 - [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) 44.27%
-- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C40327](http://purl.obolibrary.org/obo/NCIT_C40327) (Vulvar Cellular Angiofibroma))) 44.27%
-- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C40326](http://purl.obolibrary.org/obo/NCIT_C40326) (Vulvar Leiomyoma))) 44.27%
-- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C40321](http://purl.obolibrary.org/obo/NCIT_C40321) (Vulvar Liposarcoma))) 44.27%
-- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C40320](http://purl.obolibrary.org/obo/NCIT_C40320) (Vulvar Alveolar Soft Part Sarcoma))) 44.27%
-- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C40318](http://purl.obolibrary.org/obo/NCIT_C40318) (Vulvar Leiomyosarcoma))) 44.27%
-- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C40314](http://purl.obolibrary.org/obo/NCIT_C40314) (Vulvar Trichoepithelioma))) 44.27%
-- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C40312](http://purl.obolibrary.org/obo/NCIT_C40312) (Vulvar Nodular Hidradenoma))) 44.27%
-- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C40311](http://purl.obolibrary.org/obo/NCIT_C40311) (Vulvar Syringoma))) 44.27%
-- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C40309](http://purl.obolibrary.org/obo/NCIT_C40309) (Vulvar Sebaceous Carcinoma))) 44.27%
-- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C40308](http://purl.obolibrary.org/obo/NCIT_C40308) (Vulvar Apocrine Adenocarcinoma))) 44.27%
-- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C40307](http://purl.obolibrary.org/obo/NCIT_C40307) (Vulvar Clear Cell Hidradenocarcinoma))) 44.27%
+- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C4021](http://purl.obolibrary.org/obo/NCIT_C4021) (Chondroblastic Osteosarcoma))) 44.27%
+- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C40209](http://purl.obolibrary.org/obo/NCIT_C40209) (Cervical Glandular Dysplasia))) 44.27%
+- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C40208](http://purl.obolibrary.org/obo/NCIT_C40208) (Cervical Villoglandular Adenocarcinoma))) 44.27%
+- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C40206](http://purl.obolibrary.org/obo/NCIT_C40206) (Cervical Mucinous Adenocarcinoma, Minimal Deviation Type))) 44.27%
+- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C40205](http://purl.obolibrary.org/obo/NCIT_C40205) (Cervical Mucinous Adenocarcinoma, Signet Ring Cell Type))) 44.27%
+- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C40203](http://purl.obolibrary.org/obo/NCIT_C40203) (Cervical Mucinous Adenocarcinoma, Intestinal-Type))) 44.27%
+- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C40201](http://purl.obolibrary.org/obo/NCIT_C40201) (Cervical Serous Adenocarcinoma))) 44.27%
+- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C4020](http://purl.obolibrary.org/obo/NCIT_C4020) (Fibroblastic Osteosarcoma))) 44.27%
+- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C40199](http://purl.obolibrary.org/obo/NCIT_C40199) (Cervical Squamous Intraepithelial Neoplasia 1))) 44.27%
+- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C40198](http://purl.obolibrary.org/obo/NCIT_C40198) (Cervical Squamous Intraepithelial Neoplasia 2))) 44.27%
+- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C40194](http://purl.obolibrary.org/obo/NCIT_C40194) (Cervical Squamotransitional Carcinoma))) 44.27%
 
 

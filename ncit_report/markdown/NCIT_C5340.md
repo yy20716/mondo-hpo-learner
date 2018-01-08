@@ -20,6 +20,6 @@
 - [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) and [CL:0002251](http://purl.obolibrary.org/obo/CL_0002251) (epithelial cell of alimentary canal) 53.12%
 - [CL:0002563](http://purl.obolibrary.org/obo/CL_0002563) (intestinal epithelial cell) 31.99%
 - [CL:0002251](http://purl.obolibrary.org/obo/CL_0002251) (epithelial cell of alimentary canal) 31.99%
-- [CL:0002563](http://purl.obolibrary.org/obo/CL_0002563) (intestinal epithelial cell) and (not ([NCIT:C27845](http://purl.obolibrary.org/obo/NCIT_C27845) (Endometrial Endometrioid Adenocarcinoma with an Undifferentiated Carcinomatous Component))) 31.99%
+- [CL:0002563](http://purl.obolibrary.org/obo/CL_0002563) (intestinal epithelial cell) and (not ([NCIT:C27440](http://purl.obolibrary.org/obo/NCIT_C27440) (Gastric Mantle Cell Lymphoma))) 31.99%
 
 

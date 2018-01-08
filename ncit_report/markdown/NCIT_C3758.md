@@ -20,6 +20,6 @@
 - [CL:0000181](http://purl.obolibrary.org/obo/CL_0000181) (metabolising cell) 52.94%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 38.30%
 - [UBERON:0000353](http://purl.obolibrary.org/obo/UBERON_0000353) (parenchyma) and [UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure) 38.30%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([CL:1001576](http://purl.obolibrary.org/obo/CL_1001576) (oral mucosa squamous cell))) 38.30%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([CL:1000681](http://purl.obolibrary.org/obo/CL_1000681) (kidney cortex interstitial cell))) 38.30%
 
 

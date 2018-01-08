@@ -9,17 +9,17 @@
 - Thing 52.66%
 - [NCIT:C12964](http://purl.obolibrary.org/obo/NCIT_C12964) (Connective and Soft Tissue) 40.71%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38721](http://purl.obolibrary.org/obo/NCIT_C38721) (Nuclear Pleomorphism))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38710](http://purl.obolibrary.org/obo/NCIT_C38710) (Defective Gamma Heavy Chain Present))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3870](http://purl.obolibrary.org/obo/NCIT_C3870) (Lymphangitic Carcinomatosis))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38698](http://purl.obolibrary.org/obo/NCIT_C38698) (Hyperviscosity))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38674](http://purl.obolibrary.org/obo/NCIT_C38674) (Widespread Disease))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38667](http://purl.obolibrary.org/obo/NCIT_C38667) (Polymorphic Cellular Infiltrate))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38666](http://purl.obolibrary.org/obo/NCIT_C38666) (Monomorphic Cellular Infiltrate))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38665](http://purl.obolibrary.org/obo/NCIT_C38665) (Chest Pain))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38661](http://purl.obolibrary.org/obo/NCIT_C38661) (Composite Lymphoma))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38660](http://purl.obolibrary.org/obo/NCIT_C38660) (Neoplastic Large B-Lymphocyte with Pale Cytoplasm))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3866](http://purl.obolibrary.org/obo/NCIT_C3866) (Esophageal Leiomyoma))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38658](http://purl.obolibrary.org/obo/NCIT_C38658) (Transformed Peripheral B-Lymphocyte))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38345](http://purl.obolibrary.org/obo/NCIT_C38345) (JUN Pathway Deregulation))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38344](http://purl.obolibrary.org/obo/NCIT_C38344) (RAS-RAF Pathway Deregulation))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38343](http://purl.obolibrary.org/obo/NCIT_C38343) (JAK-STAT Pathway Deregulation))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38341](http://purl.obolibrary.org/obo/NCIT_C38341) (Postgerminal Center B-Lymphocyte of Unknown Differentiation Stage))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3834](http://purl.obolibrary.org/obo/NCIT_C3834) (Ataxic Gait))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38339](http://purl.obolibrary.org/obo/NCIT_C38339) (Postgerminal Center Memory B-Lymphocyte))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38334](http://purl.obolibrary.org/obo/NCIT_C38334) (Postgerminal Center Marginal Zone B-Lymphocyte))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38333](http://purl.obolibrary.org/obo/NCIT_C38333) (Activated B-Lymphocyte))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38332](http://purl.obolibrary.org/obo/NCIT_C38332) (Peripheral B-Lymphocyte of Inner Mantle Zone))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38331](http://purl.obolibrary.org/obo/NCIT_C38331) (Intraepithelial T-Lymphocyte))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38329](http://purl.obolibrary.org/obo/NCIT_C38329) (Thymic B-Lymphocyte))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38328](http://purl.obolibrary.org/obo/NCIT_C38328) (Unfavorable Clinical Outcome))) 39.90%
 
 

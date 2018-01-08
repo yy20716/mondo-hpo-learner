@@ -10,16 +10,16 @@
 - Thing 52.66%
 - [NCIT:C12964](http://purl.obolibrary.org/obo/NCIT_C12964) (Connective and Soft Tissue) 40.71%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38372](http://purl.obolibrary.org/obo/NCIT_C38372) (CEBPA Gene Mutation))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38362](http://purl.obolibrary.org/obo/NCIT_C38362) (RUNX1 Gene Mutation))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3836](http://purl.obolibrary.org/obo/NCIT_C3836) (Infertility))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38350](http://purl.obolibrary.org/obo/NCIT_C38350) (del(4)(q12)))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38348](http://purl.obolibrary.org/obo/NCIT_C38348) (MSN-ALK Fusion Protein Expression))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38347](http://purl.obolibrary.org/obo/NCIT_C38347) (P13K-AKT Pathway Deregulation))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38346](http://purl.obolibrary.org/obo/NCIT_C38346) (MYC Pathway Deregulation))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38345](http://purl.obolibrary.org/obo/NCIT_C38345) (JUN Pathway Deregulation))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38344](http://purl.obolibrary.org/obo/NCIT_C38344) (RAS-RAF Pathway Deregulation))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38343](http://purl.obolibrary.org/obo/NCIT_C38343) (JAK-STAT Pathway Deregulation))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38341](http://purl.obolibrary.org/obo/NCIT_C38341) (Postgerminal Center B-Lymphocyte of Unknown Differentiation Stage))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38448](http://purl.obolibrary.org/obo/NCIT_C38448) (Lymphotoxin-Alpha Overexpression))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38447](http://purl.obolibrary.org/obo/NCIT_C38447) (Interleukin-13 Overexpression))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38446](http://purl.obolibrary.org/obo/NCIT_C38446) (Interleukin-10 Overexpression))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38445](http://purl.obolibrary.org/obo/NCIT_C38445) (Interleukin-9 Overexpression))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38444](http://purl.obolibrary.org/obo/NCIT_C38444) (Interleukin-7 Overexpression))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38443](http://purl.obolibrary.org/obo/NCIT_C38443) (Interleukin-6 Overexpression))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38442](http://purl.obolibrary.org/obo/NCIT_C38442) (Interleukin-5 Overexpression))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38441](http://purl.obolibrary.org/obo/NCIT_C38441) (Interleukin-2 Overexpression))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38439](http://purl.obolibrary.org/obo/NCIT_C38439) (Mature Lymphocyte))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38436](http://purl.obolibrary.org/obo/NCIT_C38436) (Mature B-Lymphocyte at the Germinal Center Stage of Differentiation))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3843](http://purl.obolibrary.org/obo/NCIT_C3843) (Malignant Ovarian Cyst))) 39.90%
 
 

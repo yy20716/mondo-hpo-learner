@@ -10,16 +10,16 @@
 - [NCIT:C41405](http://purl.obolibrary.org/obo/NCIT_C41405) (Neuron, Neuroepithelial Cell, and Supporting Cell of the Nervous System) 42.50%
 - [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 40.21%
 - [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) 32.44%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39715](http://purl.obolibrary.org/obo/NCIT_C39715) (CD30-Positive Neoplastic Cells Present))) 32.44%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39712](http://purl.obolibrary.org/obo/NCIT_C39712) (KIT Gene Mutation))) 32.44%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39711](http://purl.obolibrary.org/obo/NCIT_C39711) (C-KIT Tyrosine Kinase Protein Overexpression))) 32.44%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39709](http://purl.obolibrary.org/obo/NCIT_C39709) (Confluent Sheets of Anaplastic T-Lymphocytes Present))) 32.44%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39708](http://purl.obolibrary.org/obo/NCIT_C39708) (Cerebriform-Like Lymphocyte))) 32.44%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C3970](http://purl.obolibrary.org/obo/NCIT_C3970) (Kidney Cyst))) 32.44%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39695](http://purl.obolibrary.org/obo/NCIT_C39695) (Extranodal Disease))) 32.44%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39692](http://purl.obolibrary.org/obo/NCIT_C39692) (Complete Spontaneous Regression))) 32.44%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39691](http://purl.obolibrary.org/obo/NCIT_C39691) (Partial Spontaneous Regression))) 32.44%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39690](http://purl.obolibrary.org/obo/NCIT_C39690) (Papular Lesion))) 32.44%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39689](http://purl.obolibrary.org/obo/NCIT_C39689) (Multicentric Cutaneous Involvement))) 32.44%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39862](http://purl.obolibrary.org/obo/NCIT_C39862) (Human Papillomavirus-Related Urethral Squamous Cell Carcinoma))) 32.44%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39859](http://purl.obolibrary.org/obo/NCIT_C39859) (Bladder Inverted Papilloma))) 32.44%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39856](http://purl.obolibrary.org/obo/NCIT_C39856) (Urothelial Dysplasia))) 32.44%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39845](http://purl.obolibrary.org/obo/NCIT_C39845) (Bladder Urachal Squamous Cell Carcinoma))) 32.44%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39844](http://purl.obolibrary.org/obo/NCIT_C39844) (Bladder Urachal Urothelial Carcinoma))) 32.44%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39834](http://purl.obolibrary.org/obo/NCIT_C39834) (Bladder Squamous Papilloma))) 32.44%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39833](http://purl.obolibrary.org/obo/NCIT_C39833) (Schistosoma Hematobium-Related Bladder Verrucous Carcinoma))) 32.44%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39829](http://purl.obolibrary.org/obo/NCIT_C39829) (Infiltrating Bladder Urothelial Carcinoma with Giant Cells))) 32.44%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39826](http://purl.obolibrary.org/obo/NCIT_C39826) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant without Heterologous Elements))) 32.44%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39825](http://purl.obolibrary.org/obo/NCIT_C39825) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant with Heterologous Elements))) 32.44%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39821](http://purl.obolibrary.org/obo/NCIT_C39821) (Infiltrating Bladder Lymphoepithelioma-Like Carcinoma))) 32.44%
 
 

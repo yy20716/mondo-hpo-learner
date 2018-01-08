@@ -10,16 +10,16 @@
 - Thing 52.66%
 - [NCIT:C12964](http://purl.obolibrary.org/obo/NCIT_C12964) (Connective and Soft Tissue) 40.71%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39258](http://purl.obolibrary.org/obo/NCIT_C39258) (TPO Signaling Pathway))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39253](http://purl.obolibrary.org/obo/NCIT_C39253) (Interferon Signaling Modulation Pathway))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39250](http://purl.obolibrary.org/obo/NCIT_C39250) (Mucosal Healing Pathway))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39247](http://purl.obolibrary.org/obo/NCIT_C39247) (Telomere Pathway))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39246](http://purl.obolibrary.org/obo/NCIT_C39246) (T Cell Receptor Signaling Pathway BioCarta))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39236](http://purl.obolibrary.org/obo/NCIT_C39236) (Sprouty Regulation of Tyrosine Kinase Signaling Pathway))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39217](http://purl.obolibrary.org/obo/NCIT_C39217) (Ras Signaling Pathway))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39208](http://purl.obolibrary.org/obo/NCIT_C39208) (Rac1 Cell Motility Signaling Pathway))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39197](http://purl.obolibrary.org/obo/NCIT_C39197) (PPAR-alpha Gene Regulation Pathway))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39194](http://purl.obolibrary.org/obo/NCIT_C39194) (Phospholipase C Signaling Pathway))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39184](http://purl.obolibrary.org/obo/NCIT_C39184) (PDGF Signaling Pathway))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38006](http://purl.obolibrary.org/obo/NCIT_C38006) (Pneumothorax))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37999](http://purl.obolibrary.org/obo/NCIT_C37999) (Palpitation))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37973](http://purl.obolibrary.org/obo/NCIT_C37973) (Hypocalcemia))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37943](http://purl.obolibrary.org/obo/NCIT_C37943) (Dizziness))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37935](http://purl.obolibrary.org/obo/NCIT_C37935) (Cough))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37930](http://purl.obolibrary.org/obo/NCIT_C37930) (Constipation))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3791](http://purl.obolibrary.org/obo/NCIT_C3791) (Central Neurocytoma))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37905](http://purl.obolibrary.org/obo/NCIT_C37905) (Gain of Chromosome 14))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37883](http://purl.obolibrary.org/obo/NCIT_C37883) (BCR-PDGFRAlpha Fusion Protein Expression))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37882](http://purl.obolibrary.org/obo/NCIT_C37882) (t(4;22)(q12;q11)))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37881](http://purl.obolibrary.org/obo/NCIT_C37881) (BCR-FGFR1 Fusion Protein Expression))) 39.90%
 
 

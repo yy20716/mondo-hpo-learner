@@ -16,10 +16,10 @@
 - [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C17060](http://purl.obolibrary.org/obo/NCIT_C17060) (HRAS Gene))) 36.74%
 - [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) 30.26%
 - [NCIT:C18437](http://purl.obolibrary.org/obo/NCIT_C18437) (G Protein Gene) 30.26%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C40251](http://purl.obolibrary.org/obo/NCIT_C40251) (Vaginal Endometrioid Adenocarcinoma))) 30.26%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C40248](http://purl.obolibrary.org/obo/NCIT_C40248) (Vaginal Warty Carcinoma))) 30.26%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C40245](http://purl.obolibrary.org/obo/NCIT_C40245) (Vaginal Basaloid Carcinoma))) 30.26%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C40243](http://purl.obolibrary.org/obo/NCIT_C40243) (Vaginal Keratinizing Squamous Cell Carcinoma))) 30.26%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C40239](http://purl.obolibrary.org/obo/NCIT_C40239) (Cervical Melanoma))) 30.26%
+- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 30.26%
+- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 30.26%
+- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 30.26%
+- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C39963](http://purl.obolibrary.org/obo/NCIT_C39963) (Penile Bowenoid Papulosis))) 30.26%
+- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C39961](http://purl.obolibrary.org/obo/NCIT_C39961) (Penile Basal Cell Carcinoma))) 30.26%
 
 

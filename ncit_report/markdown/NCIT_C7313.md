@@ -17,9 +17,9 @@
 - [NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell) and [NCIT:C37116](http://purl.obolibrary.org/obo/NCIT_C37116) (Neoplastic Epithelial Cell with Intracytoplasmic Mucin) 30.87%
 - [NCIT:C36773](http://purl.obolibrary.org/obo/NCIT_C36773) (Adenocarcinoma Cell) and [NCIT:C37116](http://purl.obolibrary.org/obo/NCIT_C37116) (Neoplastic Epithelial Cell with Intracytoplasmic Mucin) 30.87%
 - [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C37116](http://purl.obolibrary.org/obo/NCIT_C37116) (Neoplastic Epithelial Cell with Intracytoplasmic Mucin) 30.87%
-- [NCIT:C37117](http://purl.obolibrary.org/obo/NCIT_C37117) (Adenocarcinoma Cell with Intracytoplasmic Mucin) and (not ([NCIT:C39956](http://purl.obolibrary.org/obo/NCIT_C39956) (Rete Testis Adenoma))) 30.87%
-- [NCIT:C37117](http://purl.obolibrary.org/obo/NCIT_C37117) (Adenocarcinoma Cell with Intracytoplasmic Mucin) and (not ([NCIT:C3994](http://purl.obolibrary.org/obo/NCIT_C3994) (Stage IV Colon Cancer AJCC v6))) 30.87%
-- [NCIT:C37117](http://purl.obolibrary.org/obo/NCIT_C37117) (Adenocarcinoma Cell with Intracytoplasmic Mucin) and (not ([NCIT:C3993](http://purl.obolibrary.org/obo/NCIT_C3993) (Stage II Colon Cancer AJCC v6))) 30.87%
-- [NCIT:C37117](http://purl.obolibrary.org/obo/NCIT_C37117) (Adenocarcinoma Cell with Intracytoplasmic Mucin) and (not ([NCIT:C39914](http://purl.obolibrary.org/obo/NCIT_C39914) (Gain of Chromosome 12p))) 30.87%
+- [NCIT:C37117](http://purl.obolibrary.org/obo/NCIT_C37117) (Adenocarcinoma Cell with Intracytoplasmic Mucin) and (not ([NCIT:C39799](http://purl.obolibrary.org/obo/NCIT_C39799) (Loss of Chromosome 21))) 30.87%
+- [NCIT:C37117](http://purl.obolibrary.org/obo/NCIT_C37117) (Adenocarcinoma Cell with Intracytoplasmic Mucin) and (not ([NCIT:C39798](http://purl.obolibrary.org/obo/NCIT_C39798) (Loss of Chromosome 2))) 30.87%
+- [NCIT:C37117](http://purl.obolibrary.org/obo/NCIT_C37117) (Adenocarcinoma Cell with Intracytoplasmic Mucin) and (not ([NCIT:C39795](http://purl.obolibrary.org/obo/NCIT_C39795) (Loss of Chromosome 14q))) 30.87%
+- [NCIT:C37117](http://purl.obolibrary.org/obo/NCIT_C37117) (Adenocarcinoma Cell with Intracytoplasmic Mucin) and (not ([NCIT:C39788](http://purl.obolibrary.org/obo/NCIT_C39788) (MET Gene Mutation))) 30.87%
 
 

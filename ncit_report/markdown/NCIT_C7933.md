@@ -9,17 +9,17 @@
 - Thing 55.13%
 - [NCIT:C28079](http://purl.obolibrary.org/obo/NCIT_C28079) (Grade 3) 51.22%
 - [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) 36.57%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39866](http://purl.obolibrary.org/obo/NCIT_C39866) (Female Urethral Malignant Neoplasm))) 36.57%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39864](http://purl.obolibrary.org/obo/NCIT_C39864) (Carcinoma of Cowper Glands))) 36.57%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39862](http://purl.obolibrary.org/obo/NCIT_C39862) (Human Papillomavirus-Related Urethral Squamous Cell Carcinoma))) 36.57%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39859](http://purl.obolibrary.org/obo/NCIT_C39859) (Bladder Inverted Papilloma))) 36.57%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39856](http://purl.obolibrary.org/obo/NCIT_C39856) (Urothelial Dysplasia))) 36.57%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39845](http://purl.obolibrary.org/obo/NCIT_C39845) (Bladder Urachal Squamous Cell Carcinoma))) 36.57%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39844](http://purl.obolibrary.org/obo/NCIT_C39844) (Bladder Urachal Urothelial Carcinoma))) 36.57%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39834](http://purl.obolibrary.org/obo/NCIT_C39834) (Bladder Squamous Papilloma))) 36.57%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39833](http://purl.obolibrary.org/obo/NCIT_C39833) (Schistosoma Hematobium-Related Bladder Verrucous Carcinoma))) 36.57%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39829](http://purl.obolibrary.org/obo/NCIT_C39829) (Infiltrating Bladder Urothelial Carcinoma with Giant Cells))) 36.57%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39826](http://purl.obolibrary.org/obo/NCIT_C39826) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant without Heterologous Elements))) 36.57%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39825](http://purl.obolibrary.org/obo/NCIT_C39825) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant with Heterologous Elements))) 36.57%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39813](http://purl.obolibrary.org/obo/NCIT_C39813) (SMARCB1 Gene Inactivation))) 36.57%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39812](http://purl.obolibrary.org/obo/NCIT_C39812) (Metanephric Adenofibroma))) 36.57%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39811](http://purl.obolibrary.org/obo/NCIT_C39811) (t(5;11)(q35;q13)))) 36.57%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39810](http://purl.obolibrary.org/obo/NCIT_C39810) (Type 2 Renal Papillary Adenoma))) 36.57%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39809](http://purl.obolibrary.org/obo/NCIT_C39809) (Type 1 Renal Papillary Adenoma))) 36.57%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39808](http://purl.obolibrary.org/obo/NCIT_C39808) (Asymptomatic Mass))) 36.57%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39807](http://purl.obolibrary.org/obo/NCIT_C39807) (Mucinous Tubular and Spindle Cell Carcinoma of the Kidney))) 36.57%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39806](http://purl.obolibrary.org/obo/NCIT_C39806) (NONO-TFE3 Fusion Protein Expression))) 36.57%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39805](http://purl.obolibrary.org/obo/NCIT_C39805) (PSF-TFE3 Fusion Protein Expression))) 36.57%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39803](http://purl.obolibrary.org/obo/NCIT_C39803) (PRCC-TFE3 Fusion Protein Expression))) 36.57%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39802](http://purl.obolibrary.org/obo/NCIT_C39802) (Renal Cell Carcinoma Associated with inv(X)(p11;q12)))) 36.57%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39801](http://purl.obolibrary.org/obo/NCIT_C39801) (inv(X)(p11;q12)))) 36.57%
 
 

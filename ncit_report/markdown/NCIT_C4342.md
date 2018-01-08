@@ -8,18 +8,18 @@
 
 - Thing 54.38%
 - [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) 37.02%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39712](http://purl.obolibrary.org/obo/NCIT_C39712) (KIT Gene Mutation))) 37.02%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39711](http://purl.obolibrary.org/obo/NCIT_C39711) (C-KIT Tyrosine Kinase Protein Overexpression))) 37.02%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39709](http://purl.obolibrary.org/obo/NCIT_C39709) (Confluent Sheets of Anaplastic T-Lymphocytes Present))) 37.02%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39708](http://purl.obolibrary.org/obo/NCIT_C39708) (Cerebriform-Like Lymphocyte))) 37.02%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C3970](http://purl.obolibrary.org/obo/NCIT_C3970) (Kidney Cyst))) 37.02%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39695](http://purl.obolibrary.org/obo/NCIT_C39695) (Extranodal Disease))) 37.02%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39692](http://purl.obolibrary.org/obo/NCIT_C39692) (Complete Spontaneous Regression))) 37.02%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39691](http://purl.obolibrary.org/obo/NCIT_C39691) (Partial Spontaneous Regression))) 37.02%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39690](http://purl.obolibrary.org/obo/NCIT_C39690) (Papular Lesion))) 37.02%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39689](http://purl.obolibrary.org/obo/NCIT_C39689) (Multicentric Cutaneous Involvement))) 37.02%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39688](http://purl.obolibrary.org/obo/NCIT_C39688) (Localized Skin Lesion))) 37.02%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39687](http://purl.obolibrary.org/obo/NCIT_C39687) (Activated Mature Cytotoxic T-Lymphocyte))) 37.02%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39686](http://purl.obolibrary.org/obo/NCIT_C39686) (Activated Skin-Homing T-Lymphocyte))) 37.02%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C3989](http://purl.obolibrary.org/obo/NCIT_C3989) (Parathyroid Hyperplasia))) 37.02%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39885](http://purl.obolibrary.org/obo/NCIT_C39885) (Acinar Prostate Adenocarcinoma, Lymphoepithelioma-Like Variant))) 37.02%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39880](http://purl.obolibrary.org/obo/NCIT_C39880) (Acinar Prostate Adenocarcinoma, Atrophic Variant))) 37.02%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q))) 37.02%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39874](http://purl.obolibrary.org/obo/NCIT_C39874) (Urethral Verrucous Carcinoma))) 37.02%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39873](http://purl.obolibrary.org/obo/NCIT_C39873) (Urethral Glandular Metaplasia))) 37.02%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39872](http://purl.obolibrary.org/obo/NCIT_C39872) (Urethral Villous Adenoma))) 37.02%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39866](http://purl.obolibrary.org/obo/NCIT_C39866) (Female Urethral Malignant Neoplasm))) 37.02%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39864](http://purl.obolibrary.org/obo/NCIT_C39864) (Carcinoma of Cowper Glands))) 37.02%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39862](http://purl.obolibrary.org/obo/NCIT_C39862) (Human Papillomavirus-Related Urethral Squamous Cell Carcinoma))) 37.02%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39859](http://purl.obolibrary.org/obo/NCIT_C39859) (Bladder Inverted Papilloma))) 37.02%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39856](http://purl.obolibrary.org/obo/NCIT_C39856) (Urothelial Dysplasia))) 37.02%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39845](http://purl.obolibrary.org/obo/NCIT_C39845) (Bladder Urachal Squamous Cell Carcinoma))) 37.02%
 
 

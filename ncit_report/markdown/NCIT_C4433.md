@@ -2,7 +2,7 @@
 ### [NCIT:C4433](http://purl.obolibrary.org/obo/NCIT_C4433)
 **Label:** Cecum Neoplasm
 
-**Subclasses:** [NCIT:C5515](http://purl.obolibrary.org/obo/NCIT_C5515) (Cecum Lymphoma), [NCIT:C5543](http://purl.obolibrary.org/obo/NCIT_C5543) (Cecum Adenocarcinoma), [NCIT:C9329](http://purl.obolibrary.org/obo/NCIT_C9329) (Malignant Cecum Neoplasm), [NCIT:C5521](http://purl.obolibrary.org/obo/NCIT_C5521) (Cecum Non-Hodgkin Lymphoma), [NCIT:C5501](http://purl.obolibrary.org/obo/NCIT_C5501) (Cecum Neuroendocrine Tumor G1), [NCIT:C4594](http://purl.obolibrary.org/obo/NCIT_C4594) (Cecum Carcinoma In Situ), [NCIT:C3491](http://purl.obolibrary.org/obo/NCIT_C3491) (Cecum Carcinoma), [NCIT:C5520](http://purl.obolibrary.org/obo/NCIT_C5520) (Cecum Villous Adenoma), [NCIT:C4772](http://purl.obolibrary.org/obo/NCIT_C4772) (Benign Cecum Neoplasm), 
+**Subclasses:** [NCIT:C5515](http://purl.obolibrary.org/obo/NCIT_C5515) (Cecum Lymphoma), [NCIT:C9329](http://purl.obolibrary.org/obo/NCIT_C9329) (Malignant Cecum Neoplasm), [NCIT:C5543](http://purl.obolibrary.org/obo/NCIT_C5543) (Cecum Adenocarcinoma), [NCIT:C5521](http://purl.obolibrary.org/obo/NCIT_C5521) (Cecum Non-Hodgkin Lymphoma), [NCIT:C5501](http://purl.obolibrary.org/obo/NCIT_C5501) (Cecum Neuroendocrine Tumor G1), [NCIT:C4594](http://purl.obolibrary.org/obo/NCIT_C4594) (Cecum Carcinoma In Situ), [NCIT:C3491](http://purl.obolibrary.org/obo/NCIT_C3491) (Cecum Carcinoma), [NCIT:C5520](http://purl.obolibrary.org/obo/NCIT_C5520) (Cecum Villous Adenoma), [NCIT:C4772](http://purl.obolibrary.org/obo/NCIT_C4772) (Benign Cecum Neoplasm), 
 
 **Class expressions from DL-Learner:**
 

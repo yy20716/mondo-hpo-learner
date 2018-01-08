@@ -8,18 +8,18 @@
 
 - Thing 52.77%
 - [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) 39.52%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40224](http://purl.obolibrary.org/obo/NCIT_C40224) (Undifferentiated Endocervical Sarcoma))) 39.52%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40223](http://purl.obolibrary.org/obo/NCIT_C40223) (Uterine Corpus Low Grade Endometrial Stromal Sarcoma))) 39.52%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40222](http://purl.obolibrary.org/obo/NCIT_C40222) (Low Grade Endometrioid Stromal Sarcoma of the Cervix))) 39.52%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40215](http://purl.obolibrary.org/obo/NCIT_C40215) (Cervical Mullerian Papilloma))) 39.52%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40214](http://purl.obolibrary.org/obo/NCIT_C40214) (Cervical Large Cell Neuroendocrine Carcinoma))) 39.52%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C4021](http://purl.obolibrary.org/obo/NCIT_C4021) (Chondroblastic Osteosarcoma))) 39.52%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40209](http://purl.obolibrary.org/obo/NCIT_C40209) (Cervical Glandular Dysplasia))) 39.52%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40208](http://purl.obolibrary.org/obo/NCIT_C40208) (Cervical Villoglandular Adenocarcinoma))) 39.52%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40206](http://purl.obolibrary.org/obo/NCIT_C40206) (Cervical Mucinous Adenocarcinoma, Minimal Deviation Type))) 39.52%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40205](http://purl.obolibrary.org/obo/NCIT_C40205) (Cervical Mucinous Adenocarcinoma, Signet Ring Cell Type))) 39.52%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40203](http://purl.obolibrary.org/obo/NCIT_C40203) (Cervical Mucinous Adenocarcinoma, Intestinal-Type))) 39.52%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40201](http://purl.obolibrary.org/obo/NCIT_C40201) (Cervical Serous Adenocarcinoma))) 39.52%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C4020](http://purl.obolibrary.org/obo/NCIT_C4020) (Fibroblastic Osteosarcoma))) 39.52%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40114](http://purl.obolibrary.org/obo/NCIT_C40114) (Fallopian Tube Serous Cystadenofibroma))) 39.52%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40112](http://purl.obolibrary.org/obo/NCIT_C40112) (Fallopian Tube Papilloma))) 39.52%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40110](http://purl.obolibrary.org/obo/NCIT_C40110) (Borderline Fallopian Tube Endometrioid Tumor))) 39.52%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 39.52%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 39.52%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40104](http://purl.obolibrary.org/obo/NCIT_C40104) (Fallopian Tube Transitional Cell Carcinoma))) 39.52%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40103](http://purl.obolibrary.org/obo/NCIT_C40103) (Fallopian Tube Mucinous Adenocarcinoma))) 39.52%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40093](http://purl.obolibrary.org/obo/NCIT_C40093) (Ovarian Squamous Cell Carcinoma))) 39.52%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 39.52%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 39.52%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 39.52%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 39.52%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 39.52%
 
 

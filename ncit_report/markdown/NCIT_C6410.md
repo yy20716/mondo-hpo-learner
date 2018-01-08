@@ -20,6 +20,6 @@
 - [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 53.33%
 - Thing 53.10%
 - [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 38.69%
-- [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) and (not ([NCIT:C40137](http://purl.obolibrary.org/obo/NCIT_C40137) (Uterine Ligament Mucinous Adenocarcinoma))) 38.69%
+- [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) and (not ([NCIT:C39909](http://purl.obolibrary.org/obo/NCIT_C39909) (Gain of Chromosome 18q))) 38.69%
 
 

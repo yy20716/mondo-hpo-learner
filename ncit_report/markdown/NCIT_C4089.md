@@ -9,6 +9,9 @@
 - [NCIT:C36180](http://purl.obolibrary.org/obo/NCIT_C36180) (Multifocal Lesion) 62.50%
 - Thing 51.60%
 - [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) 47.86%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39906](http://purl.obolibrary.org/obo/NCIT_C39906) (Seminal Vesicle Adenocarcinoma))) 47.86%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39905](http://purl.obolibrary.org/obo/NCIT_C39905) (Prostate Stromal Proliferation of Uncertain Malignant Potential))) 47.86%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39903](http://purl.obolibrary.org/obo/NCIT_C39903) (Prostate Adenocarcinoma with Focal Neuroendocrine Differentiation))) 47.86%
 - [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39902](http://purl.obolibrary.org/obo/NCIT_C39902) (Prostate Basal Cell Carcinoma))) 47.86%
 - [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39901](http://purl.obolibrary.org/obo/NCIT_C39901) (Prostatic Duct Urothelial Carcinoma))) 47.86%
 - [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39899](http://purl.obolibrary.org/obo/NCIT_C39899) (Secondary Prostate Urothelial Carcinoma))) 47.86%
@@ -18,8 +21,5 @@
 - [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C3989](http://purl.obolibrary.org/obo/NCIT_C3989) (Parathyroid Hyperplasia))) 47.86%
 - [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39885](http://purl.obolibrary.org/obo/NCIT_C39885) (Acinar Prostate Adenocarcinoma, Lymphoepithelioma-Like Variant))) 47.86%
 - [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39880](http://purl.obolibrary.org/obo/NCIT_C39880) (Acinar Prostate Adenocarcinoma, Atrophic Variant))) 47.86%
-- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q))) 47.86%
-- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39874](http://purl.obolibrary.org/obo/NCIT_C39874) (Urethral Verrucous Carcinoma))) 47.86%
-- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39873](http://purl.obolibrary.org/obo/NCIT_C39873) (Urethral Glandular Metaplasia))) 47.86%
 
 

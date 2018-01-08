@@ -2,7 +2,7 @@
 ### [NCIT:C9341](http://purl.obolibrary.org/obo/NCIT_C9341)
 **Label:** Peripheral Primitive Neuroectodermal Tumor
 
-**Subclasses:** [NCIT:C27354](http://purl.obolibrary.org/obo/NCIT_C27354) (Recurrent Peripheral Primitive Neuroectodermal Tumor of Bone), [NCIT:C36074](http://purl.obolibrary.org/obo/NCIT_C36074) (Metastatic Peripheral Primitive Neuroectodermal Tumor of Bone), [NCIT:C27471](http://purl.obolibrary.org/obo/NCIT_C27471) (Peripheral Primitive Neuroectodermal Tumor of Soft Tissues), [NCIT:C67214](http://purl.obolibrary.org/obo/NCIT_C67214) (Peripheral Primitive Neuroectodermal Tumor of the Kidney), [NCIT:C27353](http://purl.obolibrary.org/obo/NCIT_C27353) (Localized Peripheral Primitive Neuroectodermal Tumor of Bone), [NCIT:C27903](http://purl.obolibrary.org/obo/NCIT_C27903) (Localized Peripheral Primitive Neuroectodermal Tumor), [NCIT:C7542](http://purl.obolibrary.org/obo/NCIT_C7542) (Askin Tumor), [NCIT:C8776](http://purl.obolibrary.org/obo/NCIT_C8776) (Peripheral Primitive Neuroectodermal Tumor of Bone), [NCIT:C27902](http://purl.obolibrary.org/obo/NCIT_C27902) (Localized Askin Tumor), [NCIT:C27899](http://purl.obolibrary.org/obo/NCIT_C27899) (Recurrent Peripheral Primitive Neuroectodermal Tumor), [NCIT:C27900](http://purl.obolibrary.org/obo/NCIT_C27900) (Recurrent Askin Tumor), 
+**Subclasses:** [NCIT:C27354](http://purl.obolibrary.org/obo/NCIT_C27354) (Recurrent Peripheral Primitive Neuroectodermal Tumor of Bone), [NCIT:C36074](http://purl.obolibrary.org/obo/NCIT_C36074) (Metastatic Peripheral Primitive Neuroectodermal Tumor of Bone), [NCIT:C67214](http://purl.obolibrary.org/obo/NCIT_C67214) (Peripheral Primitive Neuroectodermal Tumor of the Kidney), [NCIT:C27471](http://purl.obolibrary.org/obo/NCIT_C27471) (Peripheral Primitive Neuroectodermal Tumor of Soft Tissues), [NCIT:C27353](http://purl.obolibrary.org/obo/NCIT_C27353) (Localized Peripheral Primitive Neuroectodermal Tumor of Bone), [NCIT:C27903](http://purl.obolibrary.org/obo/NCIT_C27903) (Localized Peripheral Primitive Neuroectodermal Tumor), [NCIT:C7542](http://purl.obolibrary.org/obo/NCIT_C7542) (Askin Tumor), [NCIT:C8776](http://purl.obolibrary.org/obo/NCIT_C8776) (Peripheral Primitive Neuroectodermal Tumor of Bone), [NCIT:C27902](http://purl.obolibrary.org/obo/NCIT_C27902) (Localized Askin Tumor), [NCIT:C27899](http://purl.obolibrary.org/obo/NCIT_C27899) (Recurrent Peripheral Primitive Neuroectodermal Tumor), [NCIT:C27900](http://purl.obolibrary.org/obo/NCIT_C27900) (Recurrent Askin Tumor), 
 
 **Class expressions from DL-Learner:**
 
@@ -17,9 +17,9 @@
 - [NCIT:C18322](http://purl.obolibrary.org/obo/NCIT_C18322) (EWSR1 Gene) 51.67%
 - [NCIT:C41405](http://purl.obolibrary.org/obo/NCIT_C41405) (Neuron, Neuroepithelial Cell, and Supporting Cell of the Nervous System) 48.30%
 - [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) 44.16%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40355](http://purl.obolibrary.org/obo/NCIT_C40355) (Breast Columnar Cell Mucinous Carcinoma))) 44.16%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40354](http://purl.obolibrary.org/obo/NCIT_C40354) (Breast Mucinous Cystadenocarcinoma))) 44.16%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40350](http://purl.obolibrary.org/obo/NCIT_C40350) (Breast Carcinoma with Choriocarcinomatous Features))) 44.16%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40345](http://purl.obolibrary.org/obo/NCIT_C40345) (Testicular Intratubular Germ Cell Neoplasia, Unclassified))) 44.16%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40112](http://purl.obolibrary.org/obo/NCIT_C40112) (Fallopian Tube Papilloma))) 44.16%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40110](http://purl.obolibrary.org/obo/NCIT_C40110) (Borderline Fallopian Tube Endometrioid Tumor))) 44.16%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 44.16%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 44.16%
 
 

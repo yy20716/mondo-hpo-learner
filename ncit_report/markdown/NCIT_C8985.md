@@ -17,9 +17,9 @@
 - [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) and [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 52.94%
 - [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36794](http://purl.obolibrary.org/obo/NCIT_C36794) (Dysplastic Glandular Cell) and [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 52.94%
 - [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 38.30%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36892](http://purl.obolibrary.org/obo/NCIT_C36892) (Neoplastic Interdigitating Dendritic Cell))) 38.30%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36890](http://purl.obolibrary.org/obo/NCIT_C36890) (Malignant Langerhans Cell))) 38.30%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C3689](http://purl.obolibrary.org/obo/NCIT_C3689) (Appendix Goblet Cell Carcinoid))) 38.30%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36884](http://purl.obolibrary.org/obo/NCIT_C36884) (Malignant Polygonal Cell with Abundant Granular Cytoplasm))) 38.30%
+- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36879](http://purl.obolibrary.org/obo/NCIT_C36879) (Lobular Carcinoma Cell))) 38.30%
+- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36874](http://purl.obolibrary.org/obo/NCIT_C36874) (Spindle Melanoma Cell))) 38.30%
+- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36872](http://purl.obolibrary.org/obo/NCIT_C36872) (Epithelioid Melanoma Cell))) 38.30%
+- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36870](http://purl.obolibrary.org/obo/NCIT_C36870) (Epithelioid Melanocyte))) 38.30%
 
 

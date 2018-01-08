@@ -12,14 +12,14 @@
 - [NCIT:C36877](http://purl.obolibrary.org/obo/NCIT_C36877) (Neoplastic Ductal Epithelial Cell) 51.72%
 - [NCIT:C36858](http://purl.obolibrary.org/obo/NCIT_C36858) (Ductal Carcinoma Cell) 51.72%
 - [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) 37.08%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40209](http://purl.obolibrary.org/obo/NCIT_C40209) (Cervical Glandular Dysplasia))) 37.08%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40208](http://purl.obolibrary.org/obo/NCIT_C40208) (Cervical Villoglandular Adenocarcinoma))) 37.08%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40206](http://purl.obolibrary.org/obo/NCIT_C40206) (Cervical Mucinous Adenocarcinoma, Minimal Deviation Type))) 37.08%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40205](http://purl.obolibrary.org/obo/NCIT_C40205) (Cervical Mucinous Adenocarcinoma, Signet Ring Cell Type))) 37.08%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40203](http://purl.obolibrary.org/obo/NCIT_C40203) (Cervical Mucinous Adenocarcinoma, Intestinal-Type))) 37.08%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40201](http://purl.obolibrary.org/obo/NCIT_C40201) (Cervical Serous Adenocarcinoma))) 37.08%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C4020](http://purl.obolibrary.org/obo/NCIT_C4020) (Fibroblastic Osteosarcoma))) 37.08%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40199](http://purl.obolibrary.org/obo/NCIT_C40199) (Cervical Squamous Intraepithelial Neoplasia 1))) 37.08%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40198](http://purl.obolibrary.org/obo/NCIT_C40198) (Cervical Squamous Intraepithelial Neoplasia 2))) 37.08%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39805](http://purl.obolibrary.org/obo/NCIT_C39805) (PSF-TFE3 Fusion Protein Expression))) 37.08%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39803](http://purl.obolibrary.org/obo/NCIT_C39803) (PRCC-TFE3 Fusion Protein Expression))) 37.08%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39802](http://purl.obolibrary.org/obo/NCIT_C39802) (Renal Cell Carcinoma Associated with inv(X)(p11;q12)))) 37.08%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39801](http://purl.obolibrary.org/obo/NCIT_C39801) (inv(X)(p11;q12)))) 37.08%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39800](http://purl.obolibrary.org/obo/NCIT_C39800) (Sickle Cell Trait))) 37.08%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39799](http://purl.obolibrary.org/obo/NCIT_C39799) (Loss of Chromosome 21))) 37.08%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39798](http://purl.obolibrary.org/obo/NCIT_C39798) (Loss of Chromosome 2))) 37.08%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39795](http://purl.obolibrary.org/obo/NCIT_C39795) (Loss of Chromosome 14q))) 37.08%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39788](http://purl.obolibrary.org/obo/NCIT_C39788) (MET Gene Mutation))) 37.08%
 
 

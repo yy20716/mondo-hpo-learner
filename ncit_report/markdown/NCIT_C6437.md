@@ -15,11 +15,11 @@
 - [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C2998](http://purl.obolibrary.org/obo/NCIT_C2998) (Dyspnea))) 54.17%
 - Thing 52.77%
 - [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) 39.52%
-- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C40104](http://purl.obolibrary.org/obo/NCIT_C40104) (Fallopian Tube Transitional Cell Carcinoma))) 39.52%
-- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C40103](http://purl.obolibrary.org/obo/NCIT_C40103) (Fallopian Tube Mucinous Adenocarcinoma))) 39.52%
-- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C40093](http://purl.obolibrary.org/obo/NCIT_C40093) (Ovarian Squamous Cell Carcinoma))) 39.52%
-- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 39.52%
-- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 39.52%
-- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 39.52%
+- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C4021](http://purl.obolibrary.org/obo/NCIT_C4021) (Chondroblastic Osteosarcoma))) 39.52%
+- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C40209](http://purl.obolibrary.org/obo/NCIT_C40209) (Cervical Glandular Dysplasia))) 39.52%
+- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C40208](http://purl.obolibrary.org/obo/NCIT_C40208) (Cervical Villoglandular Adenocarcinoma))) 39.52%
+- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C40206](http://purl.obolibrary.org/obo/NCIT_C40206) (Cervical Mucinous Adenocarcinoma, Minimal Deviation Type))) 39.52%
+- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C40205](http://purl.obolibrary.org/obo/NCIT_C40205) (Cervical Mucinous Adenocarcinoma, Signet Ring Cell Type))) 39.52%
+- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C40203](http://purl.obolibrary.org/obo/NCIT_C40203) (Cervical Mucinous Adenocarcinoma, Intestinal-Type))) 39.52%
 
 

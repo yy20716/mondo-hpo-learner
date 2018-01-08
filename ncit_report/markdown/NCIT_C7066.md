@@ -8,18 +8,18 @@
 
 - Thing 52.40%
 - [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) 40.91%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 40.91%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 40.91%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 40.91%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40034](http://purl.obolibrary.org/obo/NCIT_C40034) (Ovarian Mucinous Adenocarcinofibroma))) 40.91%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40032](http://purl.obolibrary.org/obo/NCIT_C40032) (Ovarian Serous Cystadenofibroma))) 40.91%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40029](http://purl.obolibrary.org/obo/NCIT_C40029) (Borderline Ovarian Serous Cystadenofibroma))) 40.91%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40021](http://purl.obolibrary.org/obo/NCIT_C40021) (Ovarian Lymphoma))) 40.91%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 40.91%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 40.91%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 40.91%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 40.91%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 40.91%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 40.91%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40193](http://purl.obolibrary.org/obo/NCIT_C40193) (Cervical Lymphoepithelioma-Like Carcinoma))) 40.91%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40191](http://purl.obolibrary.org/obo/NCIT_C40191) (Cervical Warty Carcinoma))) 40.91%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40190](http://purl.obolibrary.org/obo/NCIT_C40190) (Cervical Verrucous Carcinoma))) 40.91%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C4019](http://purl.obolibrary.org/obo/NCIT_C4019) (Paget Disease and Intraductal Carcinoma of the Breast))) 40.91%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40189](http://purl.obolibrary.org/obo/NCIT_C40189) (Cervical Basaloid Carcinoma))) 40.91%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40187](http://purl.obolibrary.org/obo/NCIT_C40187) (Cervical Keratinizing Squamous Cell Carcinoma))) 40.91%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40182](http://purl.obolibrary.org/obo/NCIT_C40182) (Uterine Corpus Carcinofibroma))) 40.91%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40177](http://purl.obolibrary.org/obo/NCIT_C40177) (Uterine Corpus Smooth Muscle Tumor of Uncertain Malignant Potential))) 40.91%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40175](http://purl.obolibrary.org/obo/NCIT_C40175) (Uterine Corpus Myxoid Leiomyosarcoma))) 40.91%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40174](http://purl.obolibrary.org/obo/NCIT_C40174) (Uterine Corpus Epithelioid Leiomyosarcoma))) 40.91%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40170](http://purl.obolibrary.org/obo/NCIT_C40170) (Uterine Corpus Diffuse Leiomyomatosis))) 40.91%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40168](http://purl.obolibrary.org/obo/NCIT_C40168) (Uterine Corpus Lipoleiomyoma))) 40.91%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40167](http://purl.obolibrary.org/obo/NCIT_C40167) (Uterine Corpus Bizarre Leiomyoma))) 40.91%
 
 

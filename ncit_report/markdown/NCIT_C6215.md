@@ -11,15 +11,15 @@
 - [NCIT:C14158](http://purl.obolibrary.org/obo/NCIT_C14158) (High Grade) 51.25%
 - [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C14161](http://purl.obolibrary.org/obo/NCIT_C14161) (Low Grade))) 51.25%
 - [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40182](http://purl.obolibrary.org/obo/NCIT_C40182) (Uterine Corpus Carcinofibroma))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40177](http://purl.obolibrary.org/obo/NCIT_C40177) (Uterine Corpus Smooth Muscle Tumor of Uncertain Malignant Potential))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40175](http://purl.obolibrary.org/obo/NCIT_C40175) (Uterine Corpus Myxoid Leiomyosarcoma))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40174](http://purl.obolibrary.org/obo/NCIT_C40174) (Uterine Corpus Epithelioid Leiomyosarcoma))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40170](http://purl.obolibrary.org/obo/NCIT_C40170) (Uterine Corpus Diffuse Leiomyomatosis))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40168](http://purl.obolibrary.org/obo/NCIT_C40168) (Uterine Corpus Lipoleiomyoma))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40167](http://purl.obolibrary.org/obo/NCIT_C40167) (Uterine Corpus Bizarre Leiomyoma))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40166](http://purl.obolibrary.org/obo/NCIT_C40166) (Uterine Corpus Myxoid Leiomyoma))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40165](http://purl.obolibrary.org/obo/NCIT_C40165) (Uterine Corpus Apoplectic Leiomyoma))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40164](http://purl.obolibrary.org/obo/NCIT_C40164) (Uterine Corpus Epithelioid Leiomyoma))) 36.61%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 36.61%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 36.61%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 36.61%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 36.61%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 36.61%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 36.61%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 36.61%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 36.61%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 36.61%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C39963](http://purl.obolibrary.org/obo/NCIT_C39963) (Penile Bowenoid Papulosis))) 36.61%
 
 

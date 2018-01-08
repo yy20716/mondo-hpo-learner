@@ -16,10 +16,10 @@
 - [NCIT:C36795](http://purl.obolibrary.org/obo/NCIT_C36795) (Malignant Epithelial Small Cell) and [NCIT:C60534](http://purl.obolibrary.org/obo/NCIT_C60534) (Neoplastic Neuroendocrine Small Cell) 37.99%
 - [NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell) and [NCIT:C60534](http://purl.obolibrary.org/obo/NCIT_C60534) (Neoplastic Neuroendocrine Small Cell) 37.99%
 - [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C60534](http://purl.obolibrary.org/obo/NCIT_C60534) (Neoplastic Neuroendocrine Small Cell) 37.99%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C40161](http://purl.obolibrary.org/obo/NCIT_C40161) (JAZF1-SUZ12 Fusion Protein Expression))) 37.99%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C40160](http://purl.obolibrary.org/obo/NCIT_C40160) (t(7;17)(p15;q21)))) 37.99%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C40156](http://purl.obolibrary.org/obo/NCIT_C40156) (Endometrial Undifferentiated Carcinoma))) 37.99%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C40155](http://purl.obolibrary.org/obo/NCIT_C40155) (Endometrial Small Cell Carcinoma))) 37.99%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C40154](http://purl.obolibrary.org/obo/NCIT_C40154) (Endometrial Transitional Cell Carcinoma))) 37.99%
+- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 37.99%
+- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 37.99%
+- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 37.99%
+- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 37.99%
+- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 37.99%
 
 

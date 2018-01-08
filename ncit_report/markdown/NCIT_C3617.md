@@ -8,18 +8,18 @@
 
 - Thing 52.26%
 - [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) 41.61%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C40367](http://purl.obolibrary.org/obo/NCIT_C40367) (Acinic Cell Breast Carcinoma))) 41.61%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C40366](http://purl.obolibrary.org/obo/NCIT_C40366) (Oncocytic Breast Carcinoma))) 41.61%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C40363](http://purl.obolibrary.org/obo/NCIT_C40363) (Nipple Syringomatous Adenoma))) 41.61%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C40362](http://purl.obolibrary.org/obo/NCIT_C40362) (Low Grade Adenosquamous Breast Carcinoma))) 41.61%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C40358](http://purl.obolibrary.org/obo/NCIT_C40358) (Squamous Cell Breast Carcinoma, Spindle Cell Variant))) 41.61%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C40356](http://purl.obolibrary.org/obo/NCIT_C40356) (Breast Large Cell Neuroendocrine Carcinoma))) 41.61%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C40355](http://purl.obolibrary.org/obo/NCIT_C40355) (Breast Columnar Cell Mucinous Carcinoma))) 41.61%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C40354](http://purl.obolibrary.org/obo/NCIT_C40354) (Breast Mucinous Cystadenocarcinoma))) 41.61%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C40350](http://purl.obolibrary.org/obo/NCIT_C40350) (Breast Carcinoma with Choriocarcinomatous Features))) 41.61%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C40345](http://purl.obolibrary.org/obo/NCIT_C40345) (Testicular Intratubular Germ Cell Neoplasia, Unclassified))) 41.61%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C40344](http://purl.obolibrary.org/obo/NCIT_C40344) (Hypertriploidy))) 41.61%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C40343](http://purl.obolibrary.org/obo/NCIT_C40343) (Hypotriploidy))) 41.61%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C40341](http://purl.obolibrary.org/obo/NCIT_C40341) (Hypospadias))) 41.61%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39092](http://purl.obolibrary.org/obo/NCIT_C39092) (Growth Hormone Signaling Pathway))) 41.61%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39091](http://purl.obolibrary.org/obo/NCIT_C39091) (Corticosteroid Cardioprotection Pathway))) 41.61%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39088](http://purl.obolibrary.org/obo/NCIT_C39088) (G2/M Checkpoint Pathway))) 41.61%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39079](http://purl.obolibrary.org/obo/NCIT_C39079) (Fc Epsilon Receptor I Signaling Pathway BioCarta))) 41.61%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39072](http://purl.obolibrary.org/obo/NCIT_C39072) (Erk1/Erk2 MAPK Signaling Pathway))) 41.61%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39071](http://purl.obolibrary.org/obo/NCIT_C39071) (Neuronal Survival Pathway))) 41.61%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39069](http://purl.obolibrary.org/obo/NCIT_C39069) (ErbB3 Receptor Recycling Pathway))) 41.61%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39067](http://purl.obolibrary.org/obo/NCIT_C39067) (EPO Signaling Pathway))) 41.61%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39066](http://purl.obolibrary.org/obo/NCIT_C39066) (Erythropoietin Neuroprotection Pathway))) 41.61%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39059](http://purl.obolibrary.org/obo/NCIT_C39059) (Map Kinase Inactivation of SMRT Corepressor Pathway))) 41.61%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39058](http://purl.obolibrary.org/obo/NCIT_C39058) (EGF Signaling Pathway))) 41.61%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39056](http://purl.obolibrary.org/obo/NCIT_C39056) (Vesicle Transport Pathway))) 41.61%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39055](http://purl.obolibrary.org/obo/NCIT_C39055) (Phospholipid Signaling Pathway))) 41.61%
 
 

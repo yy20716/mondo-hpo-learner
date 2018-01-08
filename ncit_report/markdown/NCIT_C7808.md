@@ -19,7 +19,7 @@
 - [NCIT:C36105](http://purl.obolibrary.org/obo/NCIT_C36105) (Indolent Clinical Course) 51.79%
 - [NCIT:C18322](http://purl.obolibrary.org/obo/NCIT_C18322) (EWSR1 Gene) 51.79%
 - [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) 37.14%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40141](http://purl.obolibrary.org/obo/NCIT_C40141) (Wolffian Adnexal Tumor))) 37.14%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40139](http://purl.obolibrary.org/obo/NCIT_C40139) (Uterine Ligament Clear Cell Adenocarcinoma))) 37.14%
+- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40286](http://purl.obolibrary.org/obo/NCIT_C40286) (Vulvar Basaloid Carcinoma))) 37.14%
+- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40284](http://purl.obolibrary.org/obo/NCIT_C40284) (Vulvar Keratinizing Squamous Cell Carcinoma))) 37.14%
 
 

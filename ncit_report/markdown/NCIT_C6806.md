@@ -14,12 +14,12 @@
 - [NCIT:C12964](http://purl.obolibrary.org/obo/NCIT_C12964) (Connective and Soft Tissue) 38.29%
 - [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) 32.20%
 - [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) 32.20%
-- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 32.20%
-- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 32.20%
-- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 32.20%
-- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 32.20%
-- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 32.20%
-- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 32.20%
-- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 32.20%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C39690](http://purl.obolibrary.org/obo/NCIT_C39690) (Papular Lesion))) 32.20%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C39689](http://purl.obolibrary.org/obo/NCIT_C39689) (Multicentric Cutaneous Involvement))) 32.20%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C39688](http://purl.obolibrary.org/obo/NCIT_C39688) (Localized Skin Lesion))) 32.20%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C39687](http://purl.obolibrary.org/obo/NCIT_C39687) (Activated Mature Cytotoxic T-Lymphocyte))) 32.20%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C39686](http://purl.obolibrary.org/obo/NCIT_C39686) (Activated Skin-Homing T-Lymphocyte))) 32.20%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C39682](http://purl.obolibrary.org/obo/NCIT_C39682) (Flower-Like T-Lymphocyte))) 32.20%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C39681](http://purl.obolibrary.org/obo/NCIT_C39681) (Neoplastic Small to Medium-Sized T-Lymphocyte with Irregular Nucleus))) 32.20%
 
 

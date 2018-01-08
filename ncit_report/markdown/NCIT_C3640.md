@@ -11,15 +11,15 @@
 - [NCIT:C28079](http://purl.obolibrary.org/obo/NCIT_C28079) (Grade 3) 52.78%
 - [NCIT:C60534](http://purl.obolibrary.org/obo/NCIT_C60534) (Neoplastic Neuroendocrine Small Cell) 38.13%
 - [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) 38.13%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C40170](http://purl.obolibrary.org/obo/NCIT_C40170) (Uterine Corpus Diffuse Leiomyomatosis))) 38.13%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C40168](http://purl.obolibrary.org/obo/NCIT_C40168) (Uterine Corpus Lipoleiomyoma))) 38.13%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C40167](http://purl.obolibrary.org/obo/NCIT_C40167) (Uterine Corpus Bizarre Leiomyoma))) 38.13%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C40166](http://purl.obolibrary.org/obo/NCIT_C40166) (Uterine Corpus Myxoid Leiomyoma))) 38.13%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C40165](http://purl.obolibrary.org/obo/NCIT_C40165) (Uterine Corpus Apoplectic Leiomyoma))) 38.13%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C40164](http://purl.obolibrary.org/obo/NCIT_C40164) (Uterine Corpus Epithelioid Leiomyoma))) 38.13%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C40163](http://purl.obolibrary.org/obo/NCIT_C40163) (Uterine Corpus Cellular Leiomyoma))) 38.13%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C40162](http://purl.obolibrary.org/obo/NCIT_C40162) (Uterine Corpus Leiomyoma, Mitotically Active Variant))) 38.13%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C40161](http://purl.obolibrary.org/obo/NCIT_C40161) (JAZF1-SUZ12 Fusion Protein Expression))) 38.13%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C40160](http://purl.obolibrary.org/obo/NCIT_C40160) (t(7;17)(p15;q21)))) 38.13%
+- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C39956](http://purl.obolibrary.org/obo/NCIT_C39956) (Rete Testis Adenoma))) 38.13%
+- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C3994](http://purl.obolibrary.org/obo/NCIT_C3994) (Stage IV Colon Cancer AJCC v6))) 38.13%
+- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C3993](http://purl.obolibrary.org/obo/NCIT_C3993) (Stage II Colon Cancer AJCC v6))) 38.13%
+- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C39914](http://purl.obolibrary.org/obo/NCIT_C39914) (Gain of Chromosome 12p))) 38.13%
+- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C3991](http://purl.obolibrary.org/obo/NCIT_C3991) (Thrombocytopenia Due to Immune Destruction))) 38.13%
+- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C39909](http://purl.obolibrary.org/obo/NCIT_C39909) (Gain of Chromosome 18q))) 38.13%
+- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C39907](http://purl.obolibrary.org/obo/NCIT_C39907) (Seminal Vesicle Cystadenoma))) 38.13%
+- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C39906](http://purl.obolibrary.org/obo/NCIT_C39906) (Seminal Vesicle Adenocarcinoma))) 38.13%
+- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C39905](http://purl.obolibrary.org/obo/NCIT_C39905) (Prostate Stromal Proliferation of Uncertain Malignant Potential))) 38.13%
+- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C39903](http://purl.obolibrary.org/obo/NCIT_C39903) (Prostate Adenocarcinoma with Focal Neuroendocrine Differentiation))) 38.13%
 
 

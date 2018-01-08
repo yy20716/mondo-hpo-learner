@@ -10,16 +10,16 @@
 - Thing 52.89%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 39.20%
 - [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36665](http://purl.obolibrary.org/obo/NCIT_C36665) (KRAS Gene Amplification))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36664](http://purl.obolibrary.org/obo/NCIT_C36664) (Aberrant DNA Methylation))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36663](http://purl.obolibrary.org/obo/NCIT_C36663) (Fibroblast Growth Factor 2 Overexpression))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36662](http://purl.obolibrary.org/obo/NCIT_C36662) (Transforming Growth Factor-Beta Overexpression))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36660](http://purl.obolibrary.org/obo/NCIT_C36660) (Monoclonal Hepatocyte Population Present))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36659](http://purl.obolibrary.org/obo/NCIT_C36659) (CTNNB1 Gene Mutation))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36658](http://purl.obolibrary.org/obo/NCIT_C36658) (Gain of Chromosome Xq))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36657](http://purl.obolibrary.org/obo/NCIT_C36657) (Polysomy 17))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36656](http://purl.obolibrary.org/obo/NCIT_C36656) (Polysomy 10))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36655](http://purl.obolibrary.org/obo/NCIT_C36655) (Polysomy 3))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36654](http://purl.obolibrary.org/obo/NCIT_C36654) (CDH1 Gene Inactivation))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36563](http://purl.obolibrary.org/obo/NCIT_C36563) (t(1;3)(p36;q23-25)))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36562](http://purl.obolibrary.org/obo/NCIT_C36562) (Rearrangement of 12q13))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36561](http://purl.obolibrary.org/obo/NCIT_C36561) (Rearrangement of 1p11-q11))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36560](http://purl.obolibrary.org/obo/NCIT_C36560) (del(11p15)))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36559](http://purl.obolibrary.org/obo/NCIT_C36559) (Gain of Chromosome 20))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36558](http://purl.obolibrary.org/obo/NCIT_C36558) (Gain of Chromosome 1))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36557](http://purl.obolibrary.org/obo/NCIT_C36557) (del(13q32-qter)))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36556](http://purl.obolibrary.org/obo/NCIT_C36556) (del(13q12-13)))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36555](http://purl.obolibrary.org/obo/NCIT_C36555) (del(8p21-pter)))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36554](http://purl.obolibrary.org/obo/NCIT_C36554) (del(3p21-23)))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36553](http://purl.obolibrary.org/obo/NCIT_C36553) (Gain of Chromosome 1q21-31))) 39.20%
 
 

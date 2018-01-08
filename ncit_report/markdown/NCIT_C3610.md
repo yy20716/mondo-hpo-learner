@@ -17,9 +17,9 @@
 - [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36794](http://purl.obolibrary.org/obo/NCIT_C36794) (Dysplastic Glandular Cell) and [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 57.14%
 - Thing 52.12%
 - [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 42.50%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36719](http://purl.obolibrary.org/obo/NCIT_C36719) (Segmented Neutrophil))) 42.50%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36714](http://purl.obolibrary.org/obo/NCIT_C36714) (p190 Fusion Protein Expression))) 42.50%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36713](http://purl.obolibrary.org/obo/NCIT_C36713) (p230 Fusion Protein Expression))) 42.50%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36712](http://purl.obolibrary.org/obo/NCIT_C36712) (p210 Fusion Protein Expression))) 42.50%
+- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C37129](http://purl.obolibrary.org/obo/NCIT_C37129) (Fibrillary Neoplastic Astrocyte))) 42.50%
+- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C37108](http://purl.obolibrary.org/obo/NCIT_C37108) (Adenocarcinoma Spindle Cell))) 42.50%
+- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C37091](http://purl.obolibrary.org/obo/NCIT_C37091) (Vacuolated Endothelial Cell))) 42.50%
+- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C37085](http://purl.obolibrary.org/obo/NCIT_C37085) (Undifferentiated Carcinoma Cell))) 42.50%
 
 

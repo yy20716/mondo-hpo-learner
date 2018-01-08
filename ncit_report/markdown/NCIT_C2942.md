@@ -10,10 +10,6 @@
 - [UBERON:0002423](http://purl.obolibrary.org/obo/UBERON_0002423) (hepatobiliary system) 53.12%
 - [UBERON:0001555](http://purl.obolibrary.org/obo/UBERON_0001555) (digestive tract) 53.12%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 38.48%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37251](http://purl.obolibrary.org/obo/NCIT_C37251) (t(1;22)(p36.1;q12)))) 38.48%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37250](http://purl.obolibrary.org/obo/NCIT_C37250) (EWSR1-FEV Fusion Protein Expression))) 38.48%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37249](http://purl.obolibrary.org/obo/NCIT_C37249) (t(2;22)(q33;q12)))) 38.48%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37248](http://purl.obolibrary.org/obo/NCIT_C37248) (ASPL-TFE3 Fusion Protein Expression))) 38.48%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37244](http://purl.obolibrary.org/obo/NCIT_C37244) (FUS-ATF1 Fusion Protein Expression))) 38.48%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37243](http://purl.obolibrary.org/obo/NCIT_C37243) (ETV6-NTRK3 Fusion Protein Expression))) 38.48%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37242](http://purl.obolibrary.org/obo/NCIT_C37242) (HAS2-PLAG1 Fusion Protein Expression))) 38.48%
@@ -21,5 +17,9 @@
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37240](http://purl.obolibrary.org/obo/NCIT_C37240) (PAX7-FOXO1 Fusion Protein Expression))) 38.48%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3724](http://purl.obolibrary.org/obo/NCIT_C3724) (Cystic Hygroma))) 38.48%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37239](http://purl.obolibrary.org/obo/NCIT_C37239) (PAX3-FOXO1 Fusion Protein Expression))) 38.48%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37238](http://purl.obolibrary.org/obo/NCIT_C37238) (FUS-DDIT3 Fusion Protein Expression))) 38.48%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37237](http://purl.obolibrary.org/obo/NCIT_C37237) (EWSR1-WT1 Fusion Protein Expression))) 38.48%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37231](http://purl.obolibrary.org/obo/NCIT_C37231) (EWSR1-ETV4 Fusion Protein Expression))) 38.48%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37230](http://purl.obolibrary.org/obo/NCIT_C37230) (EWSR1-ETV1 Fusion Protein Expression))) 38.48%
 
 

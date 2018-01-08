@@ -9,17 +9,17 @@
 - [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C36855](http://purl.obolibrary.org/obo/NCIT_C36855) (Malignant Neuroendocrine Polygonal Cell))) 53.33%
 - Thing 53.10%
 - [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) 38.69%
-- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C40148](http://purl.obolibrary.org/obo/NCIT_C40148) (Grade 3 Endometrial Endometrioid Adenocarcinoma))) 38.69%
-- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C40147](http://purl.obolibrary.org/obo/NCIT_C40147) (Grade 2 Endometrial Endometrioid Adenocarcinoma))) 38.69%
-- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C40146](http://purl.obolibrary.org/obo/NCIT_C40146) (Grade 1 Endometrial Endometrioid Adenocarcinoma))) 38.69%
-- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C40142](http://purl.obolibrary.org/obo/NCIT_C40142) (Uterine Ligament Papillary Cystadenoma Associated with von Hippel-Lindau Disease))) 38.69%
-- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C40141](http://purl.obolibrary.org/obo/NCIT_C40141) (Wolffian Adnexal Tumor))) 38.69%
-- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C40139](http://purl.obolibrary.org/obo/NCIT_C40139) (Uterine Ligament Clear Cell Adenocarcinoma))) 38.69%
-- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C40138](http://purl.obolibrary.org/obo/NCIT_C40138) (Uterine Ligament Endometrioid Adenocarcinoma))) 38.69%
-- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C40137](http://purl.obolibrary.org/obo/NCIT_C40137) (Uterine Ligament Mucinous Adenocarcinoma))) 38.69%
-- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C40129](http://purl.obolibrary.org/obo/NCIT_C40129) (Fallopian Tube Adenomatoid Tumor))) 38.69%
-- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C40128](http://purl.obolibrary.org/obo/NCIT_C40128) (Fallopian Tube Leiomyosarcoma))) 38.69%
-- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C40127](http://purl.obolibrary.org/obo/NCIT_C40127) (Fallopian Tube Leiomyoma))) 38.69%
-- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C40125](http://purl.obolibrary.org/obo/NCIT_C40125) (Fallopian Tube Adenosarcoma))) 38.69%
+- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C39747](http://purl.obolibrary.org/obo/NCIT_C39747) (Pleomorphic Variant Mantle Cell Lymphoma))) 38.69%
+- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C39743](http://purl.obolibrary.org/obo/NCIT_C39743) (Fascicular Pattern))) 38.69%
+- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C39741](http://purl.obolibrary.org/obo/NCIT_C39741) (Retroperitoneal Inflammatory Myofibroblastic Tumor))) 38.69%
+- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C39740](http://purl.obolibrary.org/obo/NCIT_C39740) (Lung Inflammatory Myofibroblastic Tumor))) 38.69%
+- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C39739](http://purl.obolibrary.org/obo/NCIT_C39739) (Negative Peripheral Blood))) 38.69%
+- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C39725](http://purl.obolibrary.org/obo/NCIT_C39725) (Immunodeficiency))) 38.69%
+- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C39721](http://purl.obolibrary.org/obo/NCIT_C39721) (Abundance of Small Lymphocytes))) 38.69%
+- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C39720](http://purl.obolibrary.org/obo/NCIT_C39720) (Classical Reed-Sternberg Cell))) 38.69%
+- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C3972](http://purl.obolibrary.org/obo/NCIT_C3972) (Prostate Fibroma))) 38.69%
+- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C39719](http://purl.obolibrary.org/obo/NCIT_C39719) (PDGFRalpha Protein Overexpression))) 38.69%
+- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C39718](http://purl.obolibrary.org/obo/NCIT_C39718) (PDGFRA Gene Mutation))) 38.69%
+- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C39717](http://purl.obolibrary.org/obo/NCIT_C39717) (MDM2 Gene Mutation))) 38.69%
 
 

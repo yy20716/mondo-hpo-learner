@@ -15,11 +15,11 @@
 - [NCIT:C53596](http://purl.obolibrary.org/obo/NCIT_C53596) (Epithelial Component Present) 39.32%
 - [NCIT:C61541](http://purl.obolibrary.org/obo/NCIT_C61541) (Atypical Glandular Epithelium Resembling the Normal Endometrium Present) 39.20%
 - [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) 39.20%
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C39040](http://purl.obolibrary.org/obo/NCIT_C39040) (CTCF Pathway))) 39.20%
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C39021](http://purl.obolibrary.org/obo/NCIT_C39021) (Cell Migration Pathway))) 39.20%
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C39016](http://purl.obolibrary.org/obo/NCIT_C39016) (EGF Receptor Downregulation by CBL Pathway))) 39.20%
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C39013](http://purl.obolibrary.org/obo/NCIT_C39013) (Estrogen Receptor Regulation by CARM1 Pathway))) 39.20%
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C39011](http://purl.obolibrary.org/obo/NCIT_C39011) (Cardiac Hypertrophy Pathway))) 39.20%
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C3901](http://purl.obolibrary.org/obo/NCIT_C3901) (Compound Nevus))) 39.20%
+- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 39.20%
+- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 39.20%
+- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 39.20%
+- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 39.20%
+- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 39.20%
+- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C39963](http://purl.obolibrary.org/obo/NCIT_C39963) (Penile Bowenoid Papulosis))) 39.20%
 
 

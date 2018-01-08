@@ -20,6 +20,6 @@
 - [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) and [NCIT:C36835](http://purl.obolibrary.org/obo/NCIT_C36835) (Neoplastic Thyroid Gland Follicular Cell) 51.25%
 - [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36794](http://purl.obolibrary.org/obo/NCIT_C36794) (Dysplastic Glandular Cell) and [NCIT:C36835](http://purl.obolibrary.org/obo/NCIT_C36835) (Neoplastic Thyroid Gland Follicular Cell) 51.25%
 - [NCIT:C36835](http://purl.obolibrary.org/obo/NCIT_C36835) (Neoplastic Thyroid Gland Follicular Cell) 36.61%
-- [NCIT:C36835](http://purl.obolibrary.org/obo/NCIT_C36835) (Neoplastic Thyroid Gland Follicular Cell) and (not ([NCIT:C36649](http://purl.obolibrary.org/obo/NCIT_C36649) (EGFR Gene Amplification))) 36.61%
+- [NCIT:C36835](http://purl.obolibrary.org/obo/NCIT_C36835) (Neoplastic Thyroid Gland Follicular Cell) and (not ([NCIT:C36509](http://purl.obolibrary.org/obo/NCIT_C36509) (Monosomy 17))) 36.61%
 
 

@@ -13,13 +13,13 @@
 - [NCIT:C36718](http://purl.obolibrary.org/obo/NCIT_C36718) (Sideroblast) 51.43%
 - [NCIT:C12524](http://purl.obolibrary.org/obo/NCIT_C12524) (Megaloblast) 51.43%
 - [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) 36.78%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40167](http://purl.obolibrary.org/obo/NCIT_C40167) (Uterine Corpus Bizarre Leiomyoma))) 36.78%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40166](http://purl.obolibrary.org/obo/NCIT_C40166) (Uterine Corpus Myxoid Leiomyoma))) 36.78%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40165](http://purl.obolibrary.org/obo/NCIT_C40165) (Uterine Corpus Apoplectic Leiomyoma))) 36.78%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40164](http://purl.obolibrary.org/obo/NCIT_C40164) (Uterine Corpus Epithelioid Leiomyoma))) 36.78%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40163](http://purl.obolibrary.org/obo/NCIT_C40163) (Uterine Corpus Cellular Leiomyoma))) 36.78%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40162](http://purl.obolibrary.org/obo/NCIT_C40162) (Uterine Corpus Leiomyoma, Mitotically Active Variant))) 36.78%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40161](http://purl.obolibrary.org/obo/NCIT_C40161) (JAZF1-SUZ12 Fusion Protein Expression))) 36.78%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40160](http://purl.obolibrary.org/obo/NCIT_C40160) (t(7;17)(p15;q21)))) 36.78%
+- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40290](http://purl.obolibrary.org/obo/NCIT_C40290) (Vestibular Micropapillomatosis))) 36.78%
+- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40287](http://purl.obolibrary.org/obo/NCIT_C40287) (Vulvar Warty Carcinoma))) 36.78%
+- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40286](http://purl.obolibrary.org/obo/NCIT_C40286) (Vulvar Basaloid Carcinoma))) 36.78%
+- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40284](http://purl.obolibrary.org/obo/NCIT_C40284) (Vulvar Keratinizing Squamous Cell Carcinoma))) 36.78%
+- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40275](http://purl.obolibrary.org/obo/NCIT_C40275) (Benign Vaginal Mixed Epithelial and Mesenchymal Neoplasm))) 36.78%
+- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40272](http://purl.obolibrary.org/obo/NCIT_C40272) (Vaginal Undifferentiated Sarcoma))) 36.78%
+- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40271](http://purl.obolibrary.org/obo/NCIT_C40271) (Low Grade Endometrioid Stromal Sarcoma of the Vagina))) 36.78%
+- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C4027](http://purl.obolibrary.org/obo/NCIT_C4027) (Paget Disease of the Vulva))) 36.78%
 
 

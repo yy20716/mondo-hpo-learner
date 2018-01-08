@@ -13,13 +13,13 @@
 - [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 51.79%
 - [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) 44.40%
 - [CL:0000244](http://purl.obolibrary.org/obo/CL_0000244) (transitional epithelial cell) 44.40%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 44.40%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39963](http://purl.obolibrary.org/obo/NCIT_C39963) (Penile Bowenoid Papulosis))) 44.40%
 - [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39961](http://purl.obolibrary.org/obo/NCIT_C39961) (Penile Basal Cell Carcinoma))) 44.40%
 - [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39959](http://purl.obolibrary.org/obo/NCIT_C39959) (Mixed Squamous Cell Carcinoma of the Penis))) 44.40%
 - [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39957](http://purl.obolibrary.org/obo/NCIT_C39957) (Epididymal Adenocarcinoma))) 44.40%
 - [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39956](http://purl.obolibrary.org/obo/NCIT_C39956) (Rete Testis Adenoma))) 44.40%
 - [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C3994](http://purl.obolibrary.org/obo/NCIT_C3994) (Stage IV Colon Cancer AJCC v6))) 44.40%
 - [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C3993](http://purl.obolibrary.org/obo/NCIT_C3993) (Stage II Colon Cancer AJCC v6))) 44.40%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39914](http://purl.obolibrary.org/obo/NCIT_C39914) (Gain of Chromosome 12p))) 44.40%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C3991](http://purl.obolibrary.org/obo/NCIT_C3991) (Thrombocytopenia Due to Immune Destruction))) 44.40%
 
 

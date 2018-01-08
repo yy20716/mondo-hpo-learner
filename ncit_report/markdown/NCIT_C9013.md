@@ -14,12 +14,12 @@
 - Thing 52.66%
 - [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) 39.90%
 - [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) 39.90%
-- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C39963](http://purl.obolibrary.org/obo/NCIT_C39963) (Penile Bowenoid Papulosis))) 39.90%
-- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C39961](http://purl.obolibrary.org/obo/NCIT_C39961) (Penile Basal Cell Carcinoma))) 39.90%
-- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C39959](http://purl.obolibrary.org/obo/NCIT_C39959) (Mixed Squamous Cell Carcinoma of the Penis))) 39.90%
-- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C39957](http://purl.obolibrary.org/obo/NCIT_C39957) (Epididymal Adenocarcinoma))) 39.90%
-- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C39956](http://purl.obolibrary.org/obo/NCIT_C39956) (Rete Testis Adenoma))) 39.90%
-- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C3994](http://purl.obolibrary.org/obo/NCIT_C3994) (Stage IV Colon Cancer AJCC v6))) 39.90%
-- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C3993](http://purl.obolibrary.org/obo/NCIT_C3993) (Stage II Colon Cancer AJCC v6))) 39.90%
+- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 39.90%
+- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 39.90%
+- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 39.90%
+- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 39.90%
+- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 39.90%
+- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C40034](http://purl.obolibrary.org/obo/NCIT_C40034) (Ovarian Mucinous Adenocarcinofibroma))) 39.90%
+- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C40032](http://purl.obolibrary.org/obo/NCIT_C40032) (Ovarian Serous Cystadenofibroma))) 39.90%
 
 

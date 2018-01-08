@@ -17,9 +17,9 @@
 - [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) and [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 52.38%
 - [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36794](http://purl.obolibrary.org/obo/NCIT_C36794) (Dysplastic Glandular Cell) and [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 52.38%
 - [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 37.74%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C37220](http://purl.obolibrary.org/obo/NCIT_C37220) (ZBTB16-RARA Fusion Protein Expression))) 37.74%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C37219](http://purl.obolibrary.org/obo/NCIT_C37219) (CBFB-MYH11 Fusion Protein Expression))) 37.74%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C37218](http://purl.obolibrary.org/obo/NCIT_C37218) (AML1-ETO Fusion Protein Expression))) 37.74%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C37217](http://purl.obolibrary.org/obo/NCIT_C37217) (FIP1L1-PDGFRalpha Fusion Protein Expression))) 37.74%
+- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36870](http://purl.obolibrary.org/obo/NCIT_C36870) (Epithelioid Melanocyte))) 37.74%
+- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36869](http://purl.obolibrary.org/obo/NCIT_C36869) (Spindle Melanocyte))) 37.74%
+- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36863](http://purl.obolibrary.org/obo/NCIT_C36863) (Balloon Nevus Cell))) 37.74%
+- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36861](http://purl.obolibrary.org/obo/NCIT_C36861) (Malignant Small Hyperchromatic Cell))) 37.74%
 
 

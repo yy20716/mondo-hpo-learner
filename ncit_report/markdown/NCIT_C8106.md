@@ -12,14 +12,14 @@
 - [NCIT:C54110](http://purl.obolibrary.org/obo/NCIT_C54110) (Malignant Germ Cell) 42.02%
 - [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36903](http://purl.obolibrary.org/obo/NCIT_C36903) (Neoplastic Germ Cell) 42.02%
 - [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) 38.69%
-- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C40125](http://purl.obolibrary.org/obo/NCIT_C40125) (Fallopian Tube Adenosarcoma))) 38.69%
-- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C40124](http://purl.obolibrary.org/obo/NCIT_C40124) (Fallopian Tube Carcinosarcoma))) 38.69%
-- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C40122](http://purl.obolibrary.org/obo/NCIT_C40122) (Pelvic Pain))) 38.69%
-- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C40116](http://purl.obolibrary.org/obo/NCIT_C40116) (Fallopian Tube Metaplastic Papillary Tumor))) 38.69%
-- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C40114](http://purl.obolibrary.org/obo/NCIT_C40114) (Fallopian Tube Serous Cystadenofibroma))) 38.69%
-- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C40112](http://purl.obolibrary.org/obo/NCIT_C40112) (Fallopian Tube Papilloma))) 38.69%
-- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C40110](http://purl.obolibrary.org/obo/NCIT_C40110) (Borderline Fallopian Tube Endometrioid Tumor))) 38.69%
-- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 38.69%
-- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 38.69%
+- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C40093](http://purl.obolibrary.org/obo/NCIT_C40093) (Ovarian Squamous Cell Carcinoma))) 38.69%
+- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 38.69%
+- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 38.69%
+- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 38.69%
+- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 38.69%
+- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 38.69%
+- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 38.69%
+- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 38.69%
+- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 38.69%
 
 

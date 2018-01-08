@@ -10,16 +10,16 @@
 - [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C14158](http://purl.obolibrary.org/obo/NCIT_C14158) (High Grade))) 54.17%
 - Thing 52.77%
 - [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) 39.52%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40165](http://purl.obolibrary.org/obo/NCIT_C40165) (Uterine Corpus Apoplectic Leiomyoma))) 39.52%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40164](http://purl.obolibrary.org/obo/NCIT_C40164) (Uterine Corpus Epithelioid Leiomyoma))) 39.52%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40163](http://purl.obolibrary.org/obo/NCIT_C40163) (Uterine Corpus Cellular Leiomyoma))) 39.52%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40162](http://purl.obolibrary.org/obo/NCIT_C40162) (Uterine Corpus Leiomyoma, Mitotically Active Variant))) 39.52%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40161](http://purl.obolibrary.org/obo/NCIT_C40161) (JAZF1-SUZ12 Fusion Protein Expression))) 39.52%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40160](http://purl.obolibrary.org/obo/NCIT_C40160) (t(7;17)(p15;q21)))) 39.52%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40156](http://purl.obolibrary.org/obo/NCIT_C40156) (Endometrial Undifferentiated Carcinoma))) 39.52%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40155](http://purl.obolibrary.org/obo/NCIT_C40155) (Endometrial Small Cell Carcinoma))) 39.52%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40154](http://purl.obolibrary.org/obo/NCIT_C40154) (Endometrial Transitional Cell Carcinoma))) 39.52%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40153](http://purl.obolibrary.org/obo/NCIT_C40153) (Endometrial Mixed Adenocarcinoma))) 39.52%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40152](http://purl.obolibrary.org/obo/NCIT_C40152) (Serous Endometrial Intraepithelial Carcinoma))) 39.52%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C39751](http://purl.obolibrary.org/obo/NCIT_C39751) (Glioblastoma, IDH-Mutant))) 39.52%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C39748](http://purl.obolibrary.org/obo/NCIT_C39748) (Lymphoblast-Like Neoplastic B-Lymphocyte))) 39.52%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C39747](http://purl.obolibrary.org/obo/NCIT_C39747) (Pleomorphic Variant Mantle Cell Lymphoma))) 39.52%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C39743](http://purl.obolibrary.org/obo/NCIT_C39743) (Fascicular Pattern))) 39.52%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C39741](http://purl.obolibrary.org/obo/NCIT_C39741) (Retroperitoneal Inflammatory Myofibroblastic Tumor))) 39.52%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C39740](http://purl.obolibrary.org/obo/NCIT_C39740) (Lung Inflammatory Myofibroblastic Tumor))) 39.52%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C39739](http://purl.obolibrary.org/obo/NCIT_C39739) (Negative Peripheral Blood))) 39.52%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C39725](http://purl.obolibrary.org/obo/NCIT_C39725) (Immunodeficiency))) 39.52%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C39721](http://purl.obolibrary.org/obo/NCIT_C39721) (Abundance of Small Lymphocytes))) 39.52%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C39720](http://purl.obolibrary.org/obo/NCIT_C39720) (Classical Reed-Sternberg Cell))) 39.52%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C3972](http://purl.obolibrary.org/obo/NCIT_C3972) (Prostate Fibroma))) 39.52%
 
 

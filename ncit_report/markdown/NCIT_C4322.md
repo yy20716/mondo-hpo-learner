@@ -11,15 +11,15 @@
 - [NCIT:C14161](http://purl.obolibrary.org/obo/NCIT_C14161) (Low Grade) 51.61%
 - [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C14158](http://purl.obolibrary.org/obo/NCIT_C14158) (High Grade))) 51.61%
 - [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) 36.97%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40408](http://purl.obolibrary.org/obo/NCIT_C40408) (Breast Pleomorphic Adenoma))) 36.97%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40400](http://purl.obolibrary.org/obo/NCIT_C40400) (Breast Granular Cell Tumor))) 36.97%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40399](http://purl.obolibrary.org/obo/NCIT_C40399) (Breast Leiomyoma))) 36.97%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40398](http://purl.obolibrary.org/obo/NCIT_C40398) (Breast Inflammatory Myofibroblastic Tumor))) 36.97%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40395](http://purl.obolibrary.org/obo/NCIT_C40395) (Malignant Breast Myoepithelioma))) 36.97%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40388](http://purl.obolibrary.org/obo/NCIT_C40388) (Periductal Breast Myoepitheliosis))) 36.97%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40384](http://purl.obolibrary.org/obo/NCIT_C40384) (Breast Ductal Adenoma))) 36.97%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40383](http://purl.obolibrary.org/obo/NCIT_C40383) (Breast Apocrine Adenoma))) 36.97%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40379](http://purl.obolibrary.org/obo/NCIT_C40379) (Angiosarcoma of the Skin of the Arm after Radical Mastectomy followed by Lymphedema))) 36.97%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40378](http://purl.obolibrary.org/obo/NCIT_C40378) (Post-Radiotherapy Breast Angiosarcoma))) 36.97%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 36.97%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 36.97%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 36.97%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 36.97%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 36.97%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 36.97%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 36.97%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 36.97%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C39963](http://purl.obolibrary.org/obo/NCIT_C39963) (Penile Bowenoid Papulosis))) 36.97%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C39961](http://purl.obolibrary.org/obo/NCIT_C39961) (Penile Basal Cell Carcinoma))) 36.97%
 
 

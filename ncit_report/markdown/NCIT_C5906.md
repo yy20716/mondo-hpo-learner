@@ -11,15 +11,15 @@
 - [NCIT:C47812](http://purl.obolibrary.org/obo/NCIT_C47812) (Malignant Goblet-Like Mucous Cell) 52.50%
 - [NCIT:C47811](http://purl.obolibrary.org/obo/NCIT_C47811) (Malignant Cuboidal Mucous Cell) 52.50%
 - [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) 50.80%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40345](http://purl.obolibrary.org/obo/NCIT_C40345) (Testicular Intratubular Germ Cell Neoplasia, Unclassified))) 50.80%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40344](http://purl.obolibrary.org/obo/NCIT_C40344) (Hypertriploidy))) 50.80%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40343](http://purl.obolibrary.org/obo/NCIT_C40343) (Hypotriploidy))) 50.80%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40341](http://purl.obolibrary.org/obo/NCIT_C40341) (Hypospadias))) 50.80%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40339](http://purl.obolibrary.org/obo/NCIT_C40339) (Mesenteric Gastrointestinal Stromal Tumor))) 50.80%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40337](http://purl.obolibrary.org/obo/NCIT_C40337) (Retroperitoneal Gastrointestinal Stromal Tumor))) 50.80%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40329](http://purl.obolibrary.org/obo/NCIT_C40329) (Vulvar Melanoma))) 50.80%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40328](http://purl.obolibrary.org/obo/NCIT_C40328) (Vulvar Granular Cell Tumor))) 50.80%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40327](http://purl.obolibrary.org/obo/NCIT_C40327) (Vulvar Cellular Angiofibroma))) 50.80%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40326](http://purl.obolibrary.org/obo/NCIT_C40326) (Vulvar Leiomyoma))) 50.80%
+- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 50.80%
+- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 50.80%
+- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 50.80%
+- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 50.80%
+- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 50.80%
+- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 50.80%
+- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 50.80%
+- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 50.80%
+- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 50.80%
+- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 50.80%
 
 

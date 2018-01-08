@@ -8,18 +8,18 @@
 
 - Thing 53.00%
 - [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) 38.93%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40264](http://purl.obolibrary.org/obo/NCIT_C40264) (Vaginal Undifferentiated Carcinoma))) 38.93%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40263](http://purl.obolibrary.org/obo/NCIT_C40263) (Vaginal Small Cell Carcinoma))) 38.93%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40261](http://purl.obolibrary.org/obo/NCIT_C40261) (Vaginal Adenoid Cystic Carcinoma))) 38.93%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40260](http://purl.obolibrary.org/obo/NCIT_C40260) (Vaginal Adenosquamous Carcinoma))) 38.93%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C4026](http://purl.obolibrary.org/obo/NCIT_C4026) (Ovarian Mucinous Cystadenocarcinoma))) 38.93%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40259](http://purl.obolibrary.org/obo/NCIT_C40259) (Vaginal Villous Adenoma))) 38.93%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40258](http://purl.obolibrary.org/obo/NCIT_C40258) (Vaginal Tubulovillous Adenoma))) 38.93%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40257](http://purl.obolibrary.org/obo/NCIT_C40257) (Vaginal Tubular Adenoma))) 38.93%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40255](http://purl.obolibrary.org/obo/NCIT_C40255) (Vaginal Mullerian Papilloma))) 38.93%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40252](http://purl.obolibrary.org/obo/NCIT_C40252) (Vaginal Mucinous Adenocarcinoma))) 38.93%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40251](http://purl.obolibrary.org/obo/NCIT_C40251) (Vaginal Endometrioid Adenocarcinoma))) 38.93%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40248](http://purl.obolibrary.org/obo/NCIT_C40248) (Vaginal Warty Carcinoma))) 38.93%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40245](http://purl.obolibrary.org/obo/NCIT_C40245) (Vaginal Basaloid Carcinoma))) 38.93%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C38999](http://purl.obolibrary.org/obo/NCIT_C38999) (BARD1 Pathway))) 38.93%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C38998](http://purl.obolibrary.org/obo/NCIT_C38998) (BAD Regulation Pathway))) 38.93%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C38997](http://purl.obolibrary.org/obo/NCIT_C38997) (Cancer Susceptibility Pathway))) 38.93%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C38996](http://purl.obolibrary.org/obo/NCIT_C38996) (ATM Signaling Pathway))) 38.93%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C38995](http://purl.obolibrary.org/obo/NCIT_C38995) (Angiotensin II Signaling Pathway))) 38.93%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C38992](http://purl.obolibrary.org/obo/NCIT_C38992) (Ribosomal Biogenesis Pathway))) 38.93%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C38981](http://purl.obolibrary.org/obo/NCIT_C38981) (AKT Signaling Pathway))) 38.93%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C38975](http://purl.obolibrary.org/obo/NCIT_C38975) (Agrin Pathway))) 38.93%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C38971](http://purl.obolibrary.org/obo/NCIT_C38971) (Regulation of Apoptosis Pathway))) 38.93%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C3892](http://purl.obolibrary.org/obo/NCIT_C3892) (Mu Heavy Chain Disease))) 38.93%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C38850](http://purl.obolibrary.org/obo/NCIT_C38850) (Phosphatidylinositol Signaling System Pathway))) 38.93%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C38834](http://purl.obolibrary.org/obo/NCIT_C38834) (MAPK Signaling Pathway))) 38.93%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C38829](http://purl.obolibrary.org/obo/NCIT_C38829) (Focal Adhesion Pathway))) 38.93%
 
 

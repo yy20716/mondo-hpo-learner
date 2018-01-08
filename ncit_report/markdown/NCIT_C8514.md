@@ -17,9 +17,9 @@
 - [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C17060](http://purl.obolibrary.org/obo/NCIT_C17060) (HRAS Gene))) 37.02%
 - [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) 30.53%
 - [NCIT:C18437](http://purl.obolibrary.org/obo/NCIT_C18437) (G Protein Gene) 30.53%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C40150](http://purl.obolibrary.org/obo/NCIT_C40150) (Grade 2 Endometrial Mucinous Adenocarcinoma))) 30.53%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C40149](http://purl.obolibrary.org/obo/NCIT_C40149) (Grade 1 Endometrial Mucinous Adenocarcinoma))) 30.53%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C40148](http://purl.obolibrary.org/obo/NCIT_C40148) (Grade 3 Endometrial Endometrioid Adenocarcinoma))) 30.53%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C40147](http://purl.obolibrary.org/obo/NCIT_C40147) (Grade 2 Endometrial Endometrioid Adenocarcinoma))) 30.53%
+- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C39708](http://purl.obolibrary.org/obo/NCIT_C39708) (Cerebriform-Like Lymphocyte))) 30.53%
+- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C3970](http://purl.obolibrary.org/obo/NCIT_C3970) (Kidney Cyst))) 30.53%
+- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C39695](http://purl.obolibrary.org/obo/NCIT_C39695) (Extranodal Disease))) 30.53%
+- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C39692](http://purl.obolibrary.org/obo/NCIT_C39692) (Complete Spontaneous Regression))) 30.53%
 
 

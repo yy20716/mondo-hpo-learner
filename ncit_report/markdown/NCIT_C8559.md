@@ -20,6 +20,6 @@
 - [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 53.57%
 - Thing 53.00%
 - [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 38.93%
-- [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) and (not ([NCIT:C40151](http://purl.obolibrary.org/obo/NCIT_C40151) (Grade 3 Endometrial Mucinous Adenocarcinoma))) 38.93%
+- [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) and (not ([NCIT:C40029](http://purl.obolibrary.org/obo/NCIT_C40029) (Borderline Ovarian Serous Cystadenofibroma))) 38.93%
 
 

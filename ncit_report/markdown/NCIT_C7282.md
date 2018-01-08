@@ -19,7 +19,7 @@
 - [NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell) and [NCIT:C37116](http://purl.obolibrary.org/obo/NCIT_C37116) (Neoplastic Epithelial Cell with Intracytoplasmic Mucin) 30.95%
 - [NCIT:C36773](http://purl.obolibrary.org/obo/NCIT_C36773) (Adenocarcinoma Cell) and [NCIT:C37116](http://purl.obolibrary.org/obo/NCIT_C37116) (Neoplastic Epithelial Cell with Intracytoplasmic Mucin) 30.95%
 - [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C37116](http://purl.obolibrary.org/obo/NCIT_C37116) (Neoplastic Epithelial Cell with Intracytoplasmic Mucin) 30.95%
-- [NCIT:C37117](http://purl.obolibrary.org/obo/NCIT_C37117) (Adenocarcinoma Cell with Intracytoplasmic Mucin) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 30.95%
-- [NCIT:C37117](http://purl.obolibrary.org/obo/NCIT_C37117) (Adenocarcinoma Cell with Intracytoplasmic Mucin) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 30.95%
+- [NCIT:C37117](http://purl.obolibrary.org/obo/NCIT_C37117) (Adenocarcinoma Cell with Intracytoplasmic Mucin) and (not ([NCIT:C40168](http://purl.obolibrary.org/obo/NCIT_C40168) (Uterine Corpus Lipoleiomyoma))) 30.95%
+- [NCIT:C37117](http://purl.obolibrary.org/obo/NCIT_C37117) (Adenocarcinoma Cell with Intracytoplasmic Mucin) and (not ([NCIT:C40167](http://purl.obolibrary.org/obo/NCIT_C40167) (Uterine Corpus Bizarre Leiomyoma))) 30.95%
 
 

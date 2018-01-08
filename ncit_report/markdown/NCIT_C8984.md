@@ -17,9 +17,9 @@
 - [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) and [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 53.12%
 - [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36794](http://purl.obolibrary.org/obo/NCIT_C36794) (Dysplastic Glandular Cell) and [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 53.12%
 - [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 38.48%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C37191](http://purl.obolibrary.org/obo/NCIT_C37191) (Trisomy 11))) 38.48%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C37189](http://purl.obolibrary.org/obo/NCIT_C37189) (del(17q25)))) 38.48%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C37188](http://purl.obolibrary.org/obo/NCIT_C37188) (del(6q25-27)))) 38.48%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C37185](http://purl.obolibrary.org/obo/NCIT_C37185) (Gain of Chromosome 12q13))) 38.48%
+- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C3718](http://purl.obolibrary.org/obo/NCIT_C3718) (Wilms Tumor-Aniridia-Genitourinary Anomalies-Mental Retardation Syndrome))) 38.48%
+- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C37179](http://purl.obolibrary.org/obo/NCIT_C37179) (Neoplastic Myeloblast without Azurophilic Granules))) 38.48%
+- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C37178](http://purl.obolibrary.org/obo/NCIT_C37178) (Neoplastic Myeloblast with Azurophilic Granules))) 38.48%
+- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C37177](http://purl.obolibrary.org/obo/NCIT_C37177) (Neoplastic Medium-Sized Myeloblast with Basophilic Agranular Cytoplasm))) 38.48%
 
 

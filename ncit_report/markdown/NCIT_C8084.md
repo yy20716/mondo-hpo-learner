@@ -2,7 +2,7 @@
 ### [NCIT:C8084](http://purl.obolibrary.org/obo/NCIT_C8084)
 **Label:** Stage II Ovarian Germ Cell Tumor
 
-**Subclasses:** [NCIT:C8724](http://purl.obolibrary.org/obo/NCIT_C8724) (Stage II Ovarian Dysgerminoma), [NCIT:C8725](http://purl.obolibrary.org/obo/NCIT_C8725) (Stage II Ovarian Embryonal Carcinoma), [NCIT:C8736](http://purl.obolibrary.org/obo/NCIT_C8736) (Stage II Ovarian Yolk Sac Tumor), [NCIT:C8744](http://purl.obolibrary.org/obo/NCIT_C8744) (Stage II Ovarian Teratoma), [NCIT:C8740](http://purl.obolibrary.org/obo/NCIT_C8740) (Stage II Ovarian Polyembryoma), 
+**Subclasses:** [NCIT:C8724](http://purl.obolibrary.org/obo/NCIT_C8724) (Stage II Ovarian Dysgerminoma), [NCIT:C8736](http://purl.obolibrary.org/obo/NCIT_C8736) (Stage II Ovarian Yolk Sac Tumor), [NCIT:C8725](http://purl.obolibrary.org/obo/NCIT_C8725) (Stage II Ovarian Embryonal Carcinoma), [NCIT:C8744](http://purl.obolibrary.org/obo/NCIT_C8744) (Stage II Ovarian Teratoma), [NCIT:C8740](http://purl.obolibrary.org/obo/NCIT_C8740) (Stage II Ovarian Polyembryoma), 
 
 **Class expressions from DL-Learner:**
 

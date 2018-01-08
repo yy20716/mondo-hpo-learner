@@ -11,15 +11,15 @@
 - [CL:0002257](http://purl.obolibrary.org/obo/CL_0002257) (epithelial cell of thyroid gland) 56.25%
 - Thing 52.26%
 - [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) 41.61%
-- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39812](http://purl.obolibrary.org/obo/NCIT_C39812) (Metanephric Adenofibroma))) 41.61%
-- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39811](http://purl.obolibrary.org/obo/NCIT_C39811) (t(5;11)(q35;q13)))) 41.61%
-- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39810](http://purl.obolibrary.org/obo/NCIT_C39810) (Type 2 Renal Papillary Adenoma))) 41.61%
-- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39809](http://purl.obolibrary.org/obo/NCIT_C39809) (Type 1 Renal Papillary Adenoma))) 41.61%
-- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39808](http://purl.obolibrary.org/obo/NCIT_C39808) (Asymptomatic Mass))) 41.61%
-- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39807](http://purl.obolibrary.org/obo/NCIT_C39807) (Mucinous Tubular and Spindle Cell Carcinoma of the Kidney))) 41.61%
-- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39806](http://purl.obolibrary.org/obo/NCIT_C39806) (NONO-TFE3 Fusion Protein Expression))) 41.61%
-- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39805](http://purl.obolibrary.org/obo/NCIT_C39805) (PSF-TFE3 Fusion Protein Expression))) 41.61%
-- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39803](http://purl.obolibrary.org/obo/NCIT_C39803) (PRCC-TFE3 Fusion Protein Expression))) 41.61%
-- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39802](http://purl.obolibrary.org/obo/NCIT_C39802) (Renal Cell Carcinoma Associated with inv(X)(p11;q12)))) 41.61%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39250](http://purl.obolibrary.org/obo/NCIT_C39250) (Mucosal Healing Pathway))) 41.61%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39247](http://purl.obolibrary.org/obo/NCIT_C39247) (Telomere Pathway))) 41.61%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39246](http://purl.obolibrary.org/obo/NCIT_C39246) (T Cell Receptor Signaling Pathway BioCarta))) 41.61%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39236](http://purl.obolibrary.org/obo/NCIT_C39236) (Sprouty Regulation of Tyrosine Kinase Signaling Pathway))) 41.61%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39217](http://purl.obolibrary.org/obo/NCIT_C39217) (Ras Signaling Pathway))) 41.61%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39208](http://purl.obolibrary.org/obo/NCIT_C39208) (Rac1 Cell Motility Signaling Pathway))) 41.61%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39197](http://purl.obolibrary.org/obo/NCIT_C39197) (PPAR-alpha Gene Regulation Pathway))) 41.61%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39194](http://purl.obolibrary.org/obo/NCIT_C39194) (Phospholipase C Signaling Pathway))) 41.61%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39184](http://purl.obolibrary.org/obo/NCIT_C39184) (PDGF Signaling Pathway))) 41.61%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39168](http://purl.obolibrary.org/obo/NCIT_C39168) (NO2-Dependent IL12 Pathway))) 41.61%
 
 

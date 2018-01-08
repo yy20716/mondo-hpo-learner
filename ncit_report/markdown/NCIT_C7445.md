@@ -10,16 +10,16 @@
 - [NCIT:C41405](http://purl.obolibrary.org/obo/NCIT_C41405) (Neuron, Neuroepithelial Cell, and Supporting Cell of the Nervous System) 40.36%
 - [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 34.92%
 - [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) 31.37%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39624](http://purl.obolibrary.org/obo/NCIT_C39624) (Skin Plaque))) 31.37%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39622](http://purl.obolibrary.org/obo/NCIT_C39622) (Scaly Skin Eruption))) 31.37%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39620](http://purl.obolibrary.org/obo/NCIT_C39620) (Dermatopathic Lymphadenopathy))) 31.37%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39618](http://purl.obolibrary.org/obo/NCIT_C39618) (Subcutaneous Nodule))) 31.37%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39617](http://purl.obolibrary.org/obo/NCIT_C39617) (Subcutaneous Involvement))) 31.37%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39616](http://purl.obolibrary.org/obo/NCIT_C39616) (Karyorrhexis))) 31.37%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39615](http://purl.obolibrary.org/obo/NCIT_C39615) (Sinusoidal Infiltration))) 31.37%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39609](http://purl.obolibrary.org/obo/NCIT_C39609) (Activated Natural Killer Cell))) 31.37%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39608](http://purl.obolibrary.org/obo/NCIT_C39608) (Coagulative Necrosis))) 31.37%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39602](http://purl.obolibrary.org/obo/NCIT_C39602) (Pleomorphic Medium-Sized to Large T-Lymphocyte))) 31.37%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39600](http://purl.obolibrary.org/obo/NCIT_C39600) (Neoplastic Medium-Sized T-Lymphocyte))) 31.37%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40182](http://purl.obolibrary.org/obo/NCIT_C40182) (Uterine Corpus Carcinofibroma))) 31.37%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40177](http://purl.obolibrary.org/obo/NCIT_C40177) (Uterine Corpus Smooth Muscle Tumor of Uncertain Malignant Potential))) 31.37%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40175](http://purl.obolibrary.org/obo/NCIT_C40175) (Uterine Corpus Myxoid Leiomyosarcoma))) 31.37%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40174](http://purl.obolibrary.org/obo/NCIT_C40174) (Uterine Corpus Epithelioid Leiomyosarcoma))) 31.37%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40170](http://purl.obolibrary.org/obo/NCIT_C40170) (Uterine Corpus Diffuse Leiomyomatosis))) 31.37%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40168](http://purl.obolibrary.org/obo/NCIT_C40168) (Uterine Corpus Lipoleiomyoma))) 31.37%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40167](http://purl.obolibrary.org/obo/NCIT_C40167) (Uterine Corpus Bizarre Leiomyoma))) 31.37%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40166](http://purl.obolibrary.org/obo/NCIT_C40166) (Uterine Corpus Myxoid Leiomyoma))) 31.37%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40165](http://purl.obolibrary.org/obo/NCIT_C40165) (Uterine Corpus Apoplectic Leiomyoma))) 31.37%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40164](http://purl.obolibrary.org/obo/NCIT_C40164) (Uterine Corpus Epithelioid Leiomyoma))) 31.37%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40163](http://purl.obolibrary.org/obo/NCIT_C40163) (Uterine Corpus Cellular Leiomyoma))) 31.37%
 
 

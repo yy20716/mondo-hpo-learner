@@ -8,18 +8,18 @@
 
 - Thing 53.30%
 - [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) 38.30%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C38649](http://purl.obolibrary.org/obo/NCIT_C38649) (Vacuolated Plasma Cells in the Bone Marrow))) 38.30%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C38648](http://purl.obolibrary.org/obo/NCIT_C38648) (Negative Bone Marrow and Peripheral Blood))) 38.30%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C38647](http://purl.obolibrary.org/obo/NCIT_C38647) (Prolymphocytes Exceed 55 Percent of Lymphoid Cells in the Peripheral Blood))) 38.30%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C38646](http://purl.obolibrary.org/obo/NCIT_C38646) (Fried-Egg Appearance of the Bone Marrow))) 38.30%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C38645](http://purl.obolibrary.org/obo/NCIT_C38645) (Tartrate Resistant Acid Phosphatase Positive Cells Present))) 38.30%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C38644](http://purl.obolibrary.org/obo/NCIT_C38644) (Bone Pain))) 38.30%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C38643](http://purl.obolibrary.org/obo/NCIT_C38643) (Extensive Bone Marrow and Blood Involvement))) 38.30%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C38642](http://purl.obolibrary.org/obo/NCIT_C38642) (Lymphoblasts 25 Percent or Less of Bone Marrow Nucleated Cells))) 38.30%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C38635](http://purl.obolibrary.org/obo/NCIT_C38635) (inv(22q12)))) 38.30%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C38536](http://purl.obolibrary.org/obo/NCIT_C38536) (CREB1 Gene))) 38.30%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C38467](http://purl.obolibrary.org/obo/NCIT_C38467) (Interfollicular Area of the Lymph Node))) 38.30%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C38459](http://purl.obolibrary.org/obo/NCIT_C38459) (API2-MLT Fusion Protein Expression))) 38.30%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C38457](http://purl.obolibrary.org/obo/NCIT_C38457) (Clonal BCL3 Gene Rearrangement))) 38.30%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40306](http://purl.obolibrary.org/obo/NCIT_C40306) (Vulvar Eccrine Porocarcinoma))) 38.30%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40301](http://purl.obolibrary.org/obo/NCIT_C40301) (Adenoma of Minor Vestibular Glands))) 38.30%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40299](http://purl.obolibrary.org/obo/NCIT_C40299) (Bartholin Gland Adenoma))) 38.30%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40298](http://purl.obolibrary.org/obo/NCIT_C40298) (Bartholin Gland Small Cell Carcinoma))) 38.30%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40297](http://purl.obolibrary.org/obo/NCIT_C40297) (Bartholin Gland Transitional Cell Carcinoma))) 38.30%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40296](http://purl.obolibrary.org/obo/NCIT_C40296) (Bartholin Gland Adenosquamous Carcinoma))) 38.30%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40295](http://purl.obolibrary.org/obo/NCIT_C40295) (Bartholin Gland Adenoid Cystic Carcinoma))) 38.30%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40293](http://purl.obolibrary.org/obo/NCIT_C40293) (Bartholin Gland Squamous Cell Carcinoma))) 38.30%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40290](http://purl.obolibrary.org/obo/NCIT_C40290) (Vestibular Micropapillomatosis))) 38.30%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40287](http://purl.obolibrary.org/obo/NCIT_C40287) (Vulvar Warty Carcinoma))) 38.30%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40286](http://purl.obolibrary.org/obo/NCIT_C40286) (Vulvar Basaloid Carcinoma))) 38.30%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40284](http://purl.obolibrary.org/obo/NCIT_C40284) (Vulvar Keratinizing Squamous Cell Carcinoma))) 38.30%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40275](http://purl.obolibrary.org/obo/NCIT_C40275) (Benign Vaginal Mixed Epithelial and Mesenchymal Neoplasm))) 38.30%
 
 

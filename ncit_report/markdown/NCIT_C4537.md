@@ -11,15 +11,15 @@
 - [NCIT:C41405](http://purl.obolibrary.org/obo/NCIT_C41405) (Neuron, Neuroepithelial Cell, and Supporting Cell of the Nervous System) 42.50%
 - [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 40.21%
 - [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) 32.44%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39956](http://purl.obolibrary.org/obo/NCIT_C39956) (Rete Testis Adenoma))) 32.44%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C3994](http://purl.obolibrary.org/obo/NCIT_C3994) (Stage IV Colon Cancer AJCC v6))) 32.44%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C3993](http://purl.obolibrary.org/obo/NCIT_C3993) (Stage II Colon Cancer AJCC v6))) 32.44%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39914](http://purl.obolibrary.org/obo/NCIT_C39914) (Gain of Chromosome 12p))) 32.44%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C3991](http://purl.obolibrary.org/obo/NCIT_C3991) (Thrombocytopenia Due to Immune Destruction))) 32.44%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39909](http://purl.obolibrary.org/obo/NCIT_C39909) (Gain of Chromosome 18q))) 32.44%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39907](http://purl.obolibrary.org/obo/NCIT_C39907) (Seminal Vesicle Cystadenoma))) 32.44%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39906](http://purl.obolibrary.org/obo/NCIT_C39906) (Seminal Vesicle Adenocarcinoma))) 32.44%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39905](http://purl.obolibrary.org/obo/NCIT_C39905) (Prostate Stromal Proliferation of Uncertain Malignant Potential))) 32.44%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39903](http://purl.obolibrary.org/obo/NCIT_C39903) (Prostate Adenocarcinoma with Focal Neuroendocrine Differentiation))) 32.44%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40177](http://purl.obolibrary.org/obo/NCIT_C40177) (Uterine Corpus Smooth Muscle Tumor of Uncertain Malignant Potential))) 32.44%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40175](http://purl.obolibrary.org/obo/NCIT_C40175) (Uterine Corpus Myxoid Leiomyosarcoma))) 32.44%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40174](http://purl.obolibrary.org/obo/NCIT_C40174) (Uterine Corpus Epithelioid Leiomyosarcoma))) 32.44%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40170](http://purl.obolibrary.org/obo/NCIT_C40170) (Uterine Corpus Diffuse Leiomyomatosis))) 32.44%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40168](http://purl.obolibrary.org/obo/NCIT_C40168) (Uterine Corpus Lipoleiomyoma))) 32.44%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40167](http://purl.obolibrary.org/obo/NCIT_C40167) (Uterine Corpus Bizarre Leiomyoma))) 32.44%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40166](http://purl.obolibrary.org/obo/NCIT_C40166) (Uterine Corpus Myxoid Leiomyoma))) 32.44%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40165](http://purl.obolibrary.org/obo/NCIT_C40165) (Uterine Corpus Apoplectic Leiomyoma))) 32.44%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40164](http://purl.obolibrary.org/obo/NCIT_C40164) (Uterine Corpus Epithelioid Leiomyoma))) 32.44%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40163](http://purl.obolibrary.org/obo/NCIT_C40163) (Uterine Corpus Cellular Leiomyoma))) 32.44%
 
 

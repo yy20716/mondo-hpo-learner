@@ -9,17 +9,17 @@
 - Thing 52.77%
 - [NCIT:C12964](http://purl.obolibrary.org/obo/NCIT_C12964) (Connective and Soft Tissue) 39.96%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36349](http://purl.obolibrary.org/obo/NCIT_C36349) (t(7;9)(q34;q34.3)))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36348](http://purl.obolibrary.org/obo/NCIT_C36348) (t(1;14)(p32;q11)))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36339](http://purl.obolibrary.org/obo/NCIT_C36339) (Cell Cycle Deregulation))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36329](http://purl.obolibrary.org/obo/NCIT_C36329) (TP53 Gene Inactivation))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36328](http://purl.obolibrary.org/obo/NCIT_C36328) (RB1 Gene Inactivation))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36321](http://purl.obolibrary.org/obo/NCIT_C36321) (t(8;22)(q24;q11)))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36319](http://purl.obolibrary.org/obo/NCIT_C36319) (t(8;14)(q24;q32)))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36317](http://purl.obolibrary.org/obo/NCIT_C36317) (t(12;16)(q13;p11)))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36309](http://purl.obolibrary.org/obo/NCIT_C36309) (Colon Carcinoma Metastatic in the Liver))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36308](http://purl.obolibrary.org/obo/NCIT_C36308) (Prostate Carcinoma Metastatic in the Bone))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36307](http://purl.obolibrary.org/obo/NCIT_C36307) (Prostate Carcinoma Metastatic in the Lung))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36306](http://purl.obolibrary.org/obo/NCIT_C36306) (Lung Carcinoma Metastatic in the Liver))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38444](http://purl.obolibrary.org/obo/NCIT_C38444) (Interleukin-7 Overexpression))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38443](http://purl.obolibrary.org/obo/NCIT_C38443) (Interleukin-6 Overexpression))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38442](http://purl.obolibrary.org/obo/NCIT_C38442) (Interleukin-5 Overexpression))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38441](http://purl.obolibrary.org/obo/NCIT_C38441) (Interleukin-2 Overexpression))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38439](http://purl.obolibrary.org/obo/NCIT_C38439) (Mature Lymphocyte))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38436](http://purl.obolibrary.org/obo/NCIT_C38436) (Mature B-Lymphocyte at the Germinal Center Stage of Differentiation))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3843](http://purl.obolibrary.org/obo/NCIT_C3843) (Malignant Ovarian Cyst))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38423](http://purl.obolibrary.org/obo/NCIT_C38423) (Pleomorphic Reed-Sternberg Cell))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38408](http://purl.obolibrary.org/obo/NCIT_C38408) (Progressive Transformation of Germinal Centers))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38407](http://purl.obolibrary.org/obo/NCIT_C38407) (C-KIT Somatic Point Mutation))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38393](http://purl.obolibrary.org/obo/NCIT_C38393) (KMT2A-EEN Fusion Protein Expression))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38392](http://purl.obolibrary.org/obo/NCIT_C38392) (KMT2A-ELL Fusion Protein Expression))) 39.52%
 
 

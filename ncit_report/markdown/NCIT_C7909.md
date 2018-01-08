@@ -12,14 +12,14 @@
 - [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C32044](http://purl.obolibrary.org/obo/NCIT_C32044) (Acidophilic Cell))) 53.12%
 - [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 39.09%
 - [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) 38.48%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37228](http://purl.obolibrary.org/obo/NCIT_C37228) (KMT2A-AF4 Fusion Protein Expression))) 38.48%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37227](http://purl.obolibrary.org/obo/NCIT_C37227) (ETV6-RUNX1 Fusion Protein Expression))) 38.48%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37226](http://purl.obolibrary.org/obo/NCIT_C37226) (TCF3-PBX1 Fusion Protein Expression))) 38.48%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37224](http://purl.obolibrary.org/obo/NCIT_C37224) (EWSR1-FLI1 Fusion Protein Expression))) 38.48%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37223](http://purl.obolibrary.org/obo/NCIT_C37223) (PML-RARA Fusion Protein Expression))) 38.48%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37222](http://purl.obolibrary.org/obo/NCIT_C37222) (NUMA1-RARA Fusion Protein Expression))) 38.48%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37221](http://purl.obolibrary.org/obo/NCIT_C37221) (NPM1-RARA Fusion Protein Expression))) 38.48%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37220](http://purl.obolibrary.org/obo/NCIT_C37220) (ZBTB16-RARA Fusion Protein Expression))) 38.48%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37219](http://purl.obolibrary.org/obo/NCIT_C37219) (CBFB-MYH11 Fusion Protein Expression))) 38.48%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37244](http://purl.obolibrary.org/obo/NCIT_C37244) (FUS-ATF1 Fusion Protein Expression))) 38.48%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37243](http://purl.obolibrary.org/obo/NCIT_C37243) (ETV6-NTRK3 Fusion Protein Expression))) 38.48%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37242](http://purl.obolibrary.org/obo/NCIT_C37242) (HAS2-PLAG1 Fusion Protein Expression))) 38.48%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37241](http://purl.obolibrary.org/obo/NCIT_C37241) (COL1A2-PLAG1 Fusion Protein Expression))) 38.48%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37240](http://purl.obolibrary.org/obo/NCIT_C37240) (PAX7-FOXO1 Fusion Protein Expression))) 38.48%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C3724](http://purl.obolibrary.org/obo/NCIT_C3724) (Cystic Hygroma))) 38.48%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37239](http://purl.obolibrary.org/obo/NCIT_C37239) (PAX3-FOXO1 Fusion Protein Expression))) 38.48%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37238](http://purl.obolibrary.org/obo/NCIT_C37238) (FUS-DDIT3 Fusion Protein Expression))) 38.48%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37237](http://purl.obolibrary.org/obo/NCIT_C37237) (EWSR1-WT1 Fusion Protein Expression))) 38.48%
 
 

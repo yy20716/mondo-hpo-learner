@@ -2,7 +2,7 @@
 ### [NCIT:C4613](http://purl.obolibrary.org/obo/NCIT_C4613)
 **Label:** Benign Exocrine Pancreas Neoplasm
 
-**Subclasses:** [NCIT:C5712](http://purl.obolibrary.org/obo/NCIT_C5712) (Pancreatic Serous Cystadenoma), [NCIT:C95546](http://purl.obolibrary.org/obo/NCIT_C95546) (Pancreatic Acinar Cell Cystadenoma), [NCIT:C4374](http://purl.obolibrary.org/obo/NCIT_C4374) (Pancreatic Cystadenoma), [NCIT:C95476](http://purl.obolibrary.org/obo/NCIT_C95476) (Von Hippel-Lindau Syndrome-Associated Pancreatic Serous Adenoma), [NCIT:C95475](http://purl.obolibrary.org/obo/NCIT_C95475) (Pancreatic Solid Serous Adenoma), [NCIT:C95471](http://purl.obolibrary.org/obo/NCIT_C95471) (Pancreatic Macrocystic Serous Cystadenoma), [NCIT:C95470](http://purl.obolibrary.org/obo/NCIT_C95470) (Pancreatic Serous Adenoma), 
+**Subclasses:** [NCIT:C5712](http://purl.obolibrary.org/obo/NCIT_C5712) (Pancreatic Serous Cystadenoma), [NCIT:C95546](http://purl.obolibrary.org/obo/NCIT_C95546) (Pancreatic Acinar Cell Cystadenoma), [NCIT:C95476](http://purl.obolibrary.org/obo/NCIT_C95476) (Von Hippel-Lindau Syndrome-Associated Pancreatic Serous Adenoma), [NCIT:C4374](http://purl.obolibrary.org/obo/NCIT_C4374) (Pancreatic Cystadenoma), [NCIT:C95475](http://purl.obolibrary.org/obo/NCIT_C95475) (Pancreatic Solid Serous Adenoma), [NCIT:C95471](http://purl.obolibrary.org/obo/NCIT_C95471) (Pancreatic Macrocystic Serous Cystadenoma), [NCIT:C95470](http://purl.obolibrary.org/obo/NCIT_C95470) (Pancreatic Serous Adenoma), 
 
 **Class expressions from DL-Learner:**
 

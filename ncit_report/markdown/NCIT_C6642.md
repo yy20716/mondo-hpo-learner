@@ -12,14 +12,14 @@
 - [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C36116](http://purl.obolibrary.org/obo/NCIT_C36116) (Borderline Lesion))) 57.14%
 - Thing 52.12%
 - [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) 42.50%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C40141](http://purl.obolibrary.org/obo/NCIT_C40141) (Wolffian Adnexal Tumor))) 42.50%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C40139](http://purl.obolibrary.org/obo/NCIT_C40139) (Uterine Ligament Clear Cell Adenocarcinoma))) 42.50%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C40138](http://purl.obolibrary.org/obo/NCIT_C40138) (Uterine Ligament Endometrioid Adenocarcinoma))) 42.50%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C40137](http://purl.obolibrary.org/obo/NCIT_C40137) (Uterine Ligament Mucinous Adenocarcinoma))) 42.50%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C40129](http://purl.obolibrary.org/obo/NCIT_C40129) (Fallopian Tube Adenomatoid Tumor))) 42.50%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C40128](http://purl.obolibrary.org/obo/NCIT_C40128) (Fallopian Tube Leiomyosarcoma))) 42.50%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C40127](http://purl.obolibrary.org/obo/NCIT_C40127) (Fallopian Tube Leiomyoma))) 42.50%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C40125](http://purl.obolibrary.org/obo/NCIT_C40125) (Fallopian Tube Adenosarcoma))) 42.50%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C40124](http://purl.obolibrary.org/obo/NCIT_C40124) (Fallopian Tube Carcinosarcoma))) 42.50%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39711](http://purl.obolibrary.org/obo/NCIT_C39711) (C-KIT Tyrosine Kinase Protein Overexpression))) 42.50%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39709](http://purl.obolibrary.org/obo/NCIT_C39709) (Confluent Sheets of Anaplastic T-Lymphocytes Present))) 42.50%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39708](http://purl.obolibrary.org/obo/NCIT_C39708) (Cerebriform-Like Lymphocyte))) 42.50%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C3970](http://purl.obolibrary.org/obo/NCIT_C3970) (Kidney Cyst))) 42.50%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39695](http://purl.obolibrary.org/obo/NCIT_C39695) (Extranodal Disease))) 42.50%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39692](http://purl.obolibrary.org/obo/NCIT_C39692) (Complete Spontaneous Regression))) 42.50%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39691](http://purl.obolibrary.org/obo/NCIT_C39691) (Partial Spontaneous Regression))) 42.50%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39690](http://purl.obolibrary.org/obo/NCIT_C39690) (Papular Lesion))) 42.50%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39689](http://purl.obolibrary.org/obo/NCIT_C39689) (Multicentric Cutaneous Involvement))) 42.50%
 
 

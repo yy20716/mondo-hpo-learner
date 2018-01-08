@@ -10,16 +10,16 @@
 - [NCIT:C41405](http://purl.obolibrary.org/obo/NCIT_C41405) (Neuron, Neuroepithelial Cell, and Supporting Cell of the Nervous System) 43.69%
 - [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 37.35%
 - [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) 33.03%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40093](http://purl.obolibrary.org/obo/NCIT_C40093) (Ovarian Squamous Cell Carcinoma))) 33.03%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 33.03%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 33.03%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 33.03%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 33.03%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 33.03%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 33.03%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 33.03%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 33.03%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 33.03%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 33.03%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39907](http://purl.obolibrary.org/obo/NCIT_C39907) (Seminal Vesicle Cystadenoma))) 33.03%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39906](http://purl.obolibrary.org/obo/NCIT_C39906) (Seminal Vesicle Adenocarcinoma))) 33.03%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39905](http://purl.obolibrary.org/obo/NCIT_C39905) (Prostate Stromal Proliferation of Uncertain Malignant Potential))) 33.03%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39903](http://purl.obolibrary.org/obo/NCIT_C39903) (Prostate Adenocarcinoma with Focal Neuroendocrine Differentiation))) 33.03%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39902](http://purl.obolibrary.org/obo/NCIT_C39902) (Prostate Basal Cell Carcinoma))) 33.03%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39901](http://purl.obolibrary.org/obo/NCIT_C39901) (Prostatic Duct Urothelial Carcinoma))) 33.03%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39899](http://purl.obolibrary.org/obo/NCIT_C39899) (Secondary Prostate Urothelial Carcinoma))) 33.03%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39897](http://purl.obolibrary.org/obo/NCIT_C39897) (Prostate Ductal Adenocarcinoma, Solid Pattern))) 33.03%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39896](http://purl.obolibrary.org/obo/NCIT_C39896) (Prostate Ductal Adenocarcinoma, Papillary Pattern))) 33.03%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39895](http://purl.obolibrary.org/obo/NCIT_C39895) (Prostate Ductal Adenocarcinoma, Cribriform Pattern))) 33.03%
+- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C3989](http://purl.obolibrary.org/obo/NCIT_C3989) (Parathyroid Hyperplasia))) 33.03%
 
 

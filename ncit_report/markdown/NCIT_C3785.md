@@ -12,14 +12,14 @@
 - [NCIT:C36116](http://purl.obolibrary.org/obo/NCIT_C36116) (Borderline Lesion) 53.85%
 - Thing 52.89%
 - [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) 39.20%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39294](http://purl.obolibrary.org/obo/NCIT_C39294) (Schistosoma Hematobium Infection))) 39.20%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39293](http://purl.obolibrary.org/obo/NCIT_C39293) (Helicobacter Pylori Infection))) 39.20%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39291](http://purl.obolibrary.org/obo/NCIT_C39291) (HHV8 Infection))) 39.20%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39278](http://purl.obolibrary.org/obo/NCIT_C39278) (Thrombin/Protease-Activated Receptor Signaling Pathway))) 39.20%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39264](http://purl.obolibrary.org/obo/NCIT_C39264) (Angiogenesis Pathway))) 39.20%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39258](http://purl.obolibrary.org/obo/NCIT_C39258) (TPO Signaling Pathway))) 39.20%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39253](http://purl.obolibrary.org/obo/NCIT_C39253) (Interferon Signaling Modulation Pathway))) 39.20%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39250](http://purl.obolibrary.org/obo/NCIT_C39250) (Mucosal Healing Pathway))) 39.20%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39247](http://purl.obolibrary.org/obo/NCIT_C39247) (Telomere Pathway))) 39.20%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C3876](http://purl.obolibrary.org/obo/NCIT_C3876) (Gastric Leiomyoma))) 39.20%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38759](http://purl.obolibrary.org/obo/NCIT_C38759) (EBV Infection))) 39.20%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38732](http://purl.obolibrary.org/obo/NCIT_C38732) (Defective Alpha Heavy Chain Present))) 39.20%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38731](http://purl.obolibrary.org/obo/NCIT_C38731) (Villous Atrophy))) 39.20%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38730](http://purl.obolibrary.org/obo/NCIT_C38730) (Lymphoepithelial Lesion))) 39.20%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38727](http://purl.obolibrary.org/obo/NCIT_C38727) (Villous Lymphocyte))) 39.20%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38721](http://purl.obolibrary.org/obo/NCIT_C38721) (Nuclear Pleomorphism))) 39.20%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38710](http://purl.obolibrary.org/obo/NCIT_C38710) (Defective Gamma Heavy Chain Present))) 39.20%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C3870](http://purl.obolibrary.org/obo/NCIT_C3870) (Lymphangitic Carcinomatosis))) 39.20%
 
 

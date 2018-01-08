@@ -14,12 +14,12 @@
 - Thing 52.77%
 - [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) 39.52%
 - [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) 39.52%
-- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C40032](http://purl.obolibrary.org/obo/NCIT_C40032) (Ovarian Serous Cystadenofibroma))) 39.52%
-- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C40029](http://purl.obolibrary.org/obo/NCIT_C40029) (Borderline Ovarian Serous Cystadenofibroma))) 39.52%
-- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C40021](http://purl.obolibrary.org/obo/NCIT_C40021) (Ovarian Lymphoma))) 39.52%
-- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 39.52%
-- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 39.52%
-- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 39.52%
-- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 39.52%
+- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C40298](http://purl.obolibrary.org/obo/NCIT_C40298) (Bartholin Gland Small Cell Carcinoma))) 39.52%
+- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C40297](http://purl.obolibrary.org/obo/NCIT_C40297) (Bartholin Gland Transitional Cell Carcinoma))) 39.52%
+- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C40296](http://purl.obolibrary.org/obo/NCIT_C40296) (Bartholin Gland Adenosquamous Carcinoma))) 39.52%
+- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C40295](http://purl.obolibrary.org/obo/NCIT_C40295) (Bartholin Gland Adenoid Cystic Carcinoma))) 39.52%
+- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C40293](http://purl.obolibrary.org/obo/NCIT_C40293) (Bartholin Gland Squamous Cell Carcinoma))) 39.52%
+- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C40290](http://purl.obolibrary.org/obo/NCIT_C40290) (Vestibular Micropapillomatosis))) 39.52%
+- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C40287](http://purl.obolibrary.org/obo/NCIT_C40287) (Vulvar Warty Carcinoma))) 39.52%
 
 

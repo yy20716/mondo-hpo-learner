@@ -18,8 +18,8 @@
 - Thing 52.53%
 - [NCIT:C36315](http://purl.obolibrary.org/obo/NCIT_C36315) (Chromosomal Loss) 47.50%
 - [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) 40.36%
-- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C20999](http://purl.obolibrary.org/obo/NCIT_C20999) (CD44 Gene))) 40.36%
-- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C20987](http://purl.obolibrary.org/obo/NCIT_C20987) (CTNNB1 Gene))) 40.36%
-- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C20979](http://purl.obolibrary.org/obo/NCIT_C20979) (GTP Binding))) 40.36%
+- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C24603](http://purl.obolibrary.org/obo/NCIT_C24603) (MLLT3 Gene))) 40.36%
+- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C24602](http://purl.obolibrary.org/obo/NCIT_C24602) (AFF1 Gene))) 40.36%
+- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C24601](http://purl.obolibrary.org/obo/NCIT_C24601) (MLLT1 Gene))) 40.36%
 
 

@@ -14,12 +14,12 @@
 - Thing 51.79%
 - [UBERON:0004121](http://purl.obolibrary.org/obo/UBERON_0004121) (ectoderm-derived structure) 47.56%
 - [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) 45.36%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39293](http://purl.obolibrary.org/obo/NCIT_C39293) (Helicobacter Pylori Infection))) 45.36%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39291](http://purl.obolibrary.org/obo/NCIT_C39291) (HHV8 Infection))) 45.36%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39278](http://purl.obolibrary.org/obo/NCIT_C39278) (Thrombin/Protease-Activated Receptor Signaling Pathway))) 45.36%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39264](http://purl.obolibrary.org/obo/NCIT_C39264) (Angiogenesis Pathway))) 45.36%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39258](http://purl.obolibrary.org/obo/NCIT_C39258) (TPO Signaling Pathway))) 45.36%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39253](http://purl.obolibrary.org/obo/NCIT_C39253) (Interferon Signaling Modulation Pathway))) 45.36%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39250](http://purl.obolibrary.org/obo/NCIT_C39250) (Mucosal Healing Pathway))) 45.36%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39571](http://purl.obolibrary.org/obo/NCIT_C39571) (Neoplastic Small T-Prolymphocyte))) 45.36%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39569](http://purl.obolibrary.org/obo/NCIT_C39569) (Cytoplasmic Protrusions Present))) 45.36%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39565](http://purl.obolibrary.org/obo/NCIT_C39565) (Coarse Azurophilic Granules Present))) 45.36%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C3950](http://purl.obolibrary.org/obo/NCIT_C3950) (Oral Mucosa Lobular Capillary Hemangioma))) 45.36%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C3939](http://purl.obolibrary.org/obo/NCIT_C3939) (Bannayan Syndrome))) 45.36%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39301](http://purl.obolibrary.org/obo/NCIT_C39301) (CD4+/CD56+ Neoplastic Medium-Sized Cell))) 45.36%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39300](http://purl.obolibrary.org/obo/NCIT_C39300) (Precursor Natural Killer Cell))) 45.36%
 
 

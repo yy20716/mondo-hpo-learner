@@ -8,8 +8,6 @@
 
 - Thing 52.12%
 - [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) 42.50%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38390](http://purl.obolibrary.org/obo/NCIT_C38390) (MLLT3-KMT2A Fusion Protein Expression))) 42.50%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38387](http://purl.obolibrary.org/obo/NCIT_C38387) (KMT2A-AF10 Fusion Protein Expression))) 42.50%
 - [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38386](http://purl.obolibrary.org/obo/NCIT_C38386) (del(20)(q11)))) 42.50%
 - [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38385](http://purl.obolibrary.org/obo/NCIT_C38385) (del(7)(q11;q36)))) 42.50%
 - [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38379](http://purl.obolibrary.org/obo/NCIT_C38379) (STAT5B-RARA Fusion Protein Expression))) 42.50%
@@ -21,5 +19,7 @@
 - [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C3836](http://purl.obolibrary.org/obo/NCIT_C3836) (Infertility))) 42.50%
 - [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38350](http://purl.obolibrary.org/obo/NCIT_C38350) (del(4)(q12)))) 42.50%
 - [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38348](http://purl.obolibrary.org/obo/NCIT_C38348) (MSN-ALK Fusion Protein Expression))) 42.50%
+- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38347](http://purl.obolibrary.org/obo/NCIT_C38347) (P13K-AKT Pathway Deregulation))) 42.50%
+- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38346](http://purl.obolibrary.org/obo/NCIT_C38346) (MYC Pathway Deregulation))) 42.50%
 
 

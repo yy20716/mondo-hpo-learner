@@ -2,24 +2,24 @@
 ### [NCIT:C7983](http://purl.obolibrary.org/obo/NCIT_C7983)
 **Label:** Borderline Ovarian Endometrioid Tumor/Atypical Proliferative Ovarian Endometrioid Tumor
 
-**Subclasses:** [NCIT:C27289](http://purl.obolibrary.org/obo/NCIT_C27289) (Borderline Ovarian Endometrioid Cystadenofibroma), [NCIT:C40069](http://purl.obolibrary.org/obo/NCIT_C40069) (Borderline Ovarian Endometrioid Adenofibroma), 
+**Subclasses:** [NCIT:C40069](http://purl.obolibrary.org/obo/NCIT_C40069) (Borderline Ovarian Endometrioid Adenofibroma), [NCIT:C27289](http://purl.obolibrary.org/obo/NCIT_C27289) (Borderline Ovarian Endometrioid Cystadenofibroma), 
 
 **Class expressions from DL-Learner:**
 
 - [NCIT:C36116](http://purl.obolibrary.org/obo/NCIT_C36116) (Borderline Lesion) 53.33%
 - Thing 53.10%
 - [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) 38.69%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39124](http://purl.obolibrary.org/obo/NCIT_C39124) (IL3 Signaling Pathway))) 38.69%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39123](http://purl.obolibrary.org/obo/NCIT_C39123) (IL2RB Pathway))) 38.69%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39121](http://purl.obolibrary.org/obo/NCIT_C39121) (IL22 Signaling Pathway))) 38.69%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39117](http://purl.obolibrary.org/obo/NCIT_C39117) (IL12 Signaling Pathway))) 38.69%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39114](http://purl.obolibrary.org/obo/NCIT_C39114) (IGF-1 Signaling Pathway))) 38.69%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39112](http://purl.obolibrary.org/obo/NCIT_C39112) (IFN Gamma Signaling Pathway))) 38.69%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39103](http://purl.obolibrary.org/obo/NCIT_C39103) (ERBB2 Signaling Pathway))) 38.69%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39102](http://purl.obolibrary.org/obo/NCIT_C39102) (Skeletal Myogenesis Pathway))) 38.69%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39101](http://purl.obolibrary.org/obo/NCIT_C39101) (Human Cytomegalovirus Infection Pathway))) 38.69%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39094](http://purl.obolibrary.org/obo/NCIT_C39094) (Inhibition of Cellular Proliferation by Gleevec Pathway))) 38.69%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39092](http://purl.obolibrary.org/obo/NCIT_C39092) (Growth Hormone Signaling Pathway))) 38.69%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39091](http://purl.obolibrary.org/obo/NCIT_C39091) (Corticosteroid Cardioprotection Pathway))) 38.69%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39594](http://purl.obolibrary.org/obo/NCIT_C39594) (Skin Rash))) 38.69%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39593](http://purl.obolibrary.org/obo/NCIT_C39593) (Peripheral Blood Involvement))) 38.69%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39589](http://purl.obolibrary.org/obo/NCIT_C39589) (Angioinvasion))) 38.69%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39588](http://purl.obolibrary.org/obo/NCIT_C39588) (Serum Soluble Fas Ligand Level Increased))) 38.69%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39586](http://purl.obolibrary.org/obo/NCIT_C39586) (T-Cell Large Granular Lymphocyte Leukemia Expressing the T-Cell Receptor Gamma-Delta))) 38.69%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39584](http://purl.obolibrary.org/obo/NCIT_C39584) (T-Cell Large Granular Lymphocyte Leukemia, Common Variant))) 38.69%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39583](http://purl.obolibrary.org/obo/NCIT_C39583) (FAS Apoptosis Pathway Deregulation))) 38.69%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C3958](http://purl.obolibrary.org/obo/NCIT_C3958) (Disseminated Peritoneal Leiomyomatosis))) 38.69%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39573](http://purl.obolibrary.org/obo/NCIT_C39573) (T-Lymphocyte with a Post-Thymic Immunophenotype))) 38.69%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39572](http://purl.obolibrary.org/obo/NCIT_C39572) (Neoplastic Cerebriform T-Prolymphocyte))) 38.69%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39571](http://purl.obolibrary.org/obo/NCIT_C39571) (Neoplastic Small T-Prolymphocyte))) 38.69%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39569](http://purl.obolibrary.org/obo/NCIT_C39569) (Cytoplasmic Protrusions Present))) 38.69%
 
 

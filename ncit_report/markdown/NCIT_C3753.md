@@ -11,15 +11,15 @@
 - [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) 60.00%
 - [NCIT:C54110](http://purl.obolibrary.org/obo/NCIT_C54110) (Malignant Germ Cell) 58.30%
 - [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36903](http://purl.obolibrary.org/obo/NCIT_C36903) (Neoplastic Germ Cell) 58.30%
-- [NCIT:C54110](http://purl.obolibrary.org/obo/NCIT_C54110) (Malignant Germ Cell) and (not ([NCIT:C37865](http://purl.obolibrary.org/obo/NCIT_C37865) (Trisomy 17))) 58.30%
-- [NCIT:C54110](http://purl.obolibrary.org/obo/NCIT_C54110) (Malignant Germ Cell) and (not ([NCIT:C3756](http://purl.obolibrary.org/obo/NCIT_C3756) (Mixed Embryonal Carcinoma and Teratoma))) 58.30%
-- [NCIT:C54110](http://purl.obolibrary.org/obo/NCIT_C54110) (Malignant Germ Cell) and (not ([NCIT:C3742](http://purl.obolibrary.org/obo/NCIT_C3742) (Myofibromatosis))) 58.30%
-- [NCIT:C54110](http://purl.obolibrary.org/obo/NCIT_C54110) (Malignant Germ Cell) and (not ([NCIT:C3741](http://purl.obolibrary.org/obo/NCIT_C3741) (Abdominal (Mesenteric) Fibromatosis))) 58.30%
-- [NCIT:C54110](http://purl.obolibrary.org/obo/NCIT_C54110) (Malignant Germ Cell) and (not ([NCIT:C3740](http://purl.obolibrary.org/obo/NCIT_C3740) (Bone Desmoplastic Fibroma))) 58.30%
-- [NCIT:C54110](http://purl.obolibrary.org/obo/NCIT_C54110) (Malignant Germ Cell) and (not ([NCIT:C3736](http://purl.obolibrary.org/obo/NCIT_C3736) (Adrenal Gland Myelolipoma))) 58.30%
-- [NCIT:C54110](http://purl.obolibrary.org/obo/NCIT_C54110) (Malignant Germ Cell) and (not ([NCIT:C37312](http://purl.obolibrary.org/obo/NCIT_C37312) (Loss of Chromosome 11q))) 58.30%
-- [NCIT:C54110](http://purl.obolibrary.org/obo/NCIT_C54110) (Malignant Germ Cell) and (not ([NCIT:C37304](http://purl.obolibrary.org/obo/NCIT_C37304) (Multicentric Thyroid Gland Papillary Carcinoma))) 58.30%
-- [NCIT:C54110](http://purl.obolibrary.org/obo/NCIT_C54110) (Malignant Germ Cell) and (not ([NCIT:C37268](http://purl.obolibrary.org/obo/NCIT_C37268) (Atypical Small Acinar Proliferation of the Prostate Gland))) 58.30%
-- [NCIT:C54110](http://purl.obolibrary.org/obo/NCIT_C54110) (Malignant Germ Cell) and (not ([NCIT:C37265](http://purl.obolibrary.org/obo/NCIT_C37265) (Malignant Mixed Epithelial Stromal Tumor of the Kidney))) 58.30%
+- [NCIT:C54110](http://purl.obolibrary.org/obo/NCIT_C54110) (Malignant Germ Cell) and (not ([NCIT:C39895](http://purl.obolibrary.org/obo/NCIT_C39895) (Prostate Ductal Adenocarcinoma, Cribriform Pattern))) 58.30%
+- [NCIT:C54110](http://purl.obolibrary.org/obo/NCIT_C54110) (Malignant Germ Cell) and (not ([NCIT:C3989](http://purl.obolibrary.org/obo/NCIT_C3989) (Parathyroid Hyperplasia))) 58.30%
+- [NCIT:C54110](http://purl.obolibrary.org/obo/NCIT_C54110) (Malignant Germ Cell) and (not ([NCIT:C39885](http://purl.obolibrary.org/obo/NCIT_C39885) (Acinar Prostate Adenocarcinoma, Lymphoepithelioma-Like Variant))) 58.30%
+- [NCIT:C54110](http://purl.obolibrary.org/obo/NCIT_C54110) (Malignant Germ Cell) and (not ([NCIT:C39880](http://purl.obolibrary.org/obo/NCIT_C39880) (Acinar Prostate Adenocarcinoma, Atrophic Variant))) 58.30%
+- [NCIT:C54110](http://purl.obolibrary.org/obo/NCIT_C54110) (Malignant Germ Cell) and (not ([NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q))) 58.30%
+- [NCIT:C54110](http://purl.obolibrary.org/obo/NCIT_C54110) (Malignant Germ Cell) and (not ([NCIT:C39874](http://purl.obolibrary.org/obo/NCIT_C39874) (Urethral Verrucous Carcinoma))) 58.30%
+- [NCIT:C54110](http://purl.obolibrary.org/obo/NCIT_C54110) (Malignant Germ Cell) and (not ([NCIT:C39873](http://purl.obolibrary.org/obo/NCIT_C39873) (Urethral Glandular Metaplasia))) 58.30%
+- [NCIT:C54110](http://purl.obolibrary.org/obo/NCIT_C54110) (Malignant Germ Cell) and (not ([NCIT:C39872](http://purl.obolibrary.org/obo/NCIT_C39872) (Urethral Villous Adenoma))) 58.30%
+- [NCIT:C54110](http://purl.obolibrary.org/obo/NCIT_C54110) (Malignant Germ Cell) and (not ([NCIT:C39866](http://purl.obolibrary.org/obo/NCIT_C39866) (Female Urethral Malignant Neoplasm))) 58.30%
+- [NCIT:C54110](http://purl.obolibrary.org/obo/NCIT_C54110) (Malignant Germ Cell) and (not ([NCIT:C39864](http://purl.obolibrary.org/obo/NCIT_C39864) (Carcinoma of Cowper Glands))) 58.30%
 
 

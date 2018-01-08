@@ -10,16 +10,16 @@
 - [CL:0000062](http://purl.obolibrary.org/obo/CL_0000062) (osteoblast) 52.27%
 - [NCIT:C36900](http://purl.obolibrary.org/obo/NCIT_C36900) (Neoplastic Osteoblast) 39.90%
 - [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) 37.63%
-- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40150](http://purl.obolibrary.org/obo/NCIT_C40150) (Grade 2 Endometrial Mucinous Adenocarcinoma))) 37.63%
-- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40149](http://purl.obolibrary.org/obo/NCIT_C40149) (Grade 1 Endometrial Mucinous Adenocarcinoma))) 37.63%
-- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40148](http://purl.obolibrary.org/obo/NCIT_C40148) (Grade 3 Endometrial Endometrioid Adenocarcinoma))) 37.63%
-- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40147](http://purl.obolibrary.org/obo/NCIT_C40147) (Grade 2 Endometrial Endometrioid Adenocarcinoma))) 37.63%
-- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40146](http://purl.obolibrary.org/obo/NCIT_C40146) (Grade 1 Endometrial Endometrioid Adenocarcinoma))) 37.63%
-- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40142](http://purl.obolibrary.org/obo/NCIT_C40142) (Uterine Ligament Papillary Cystadenoma Associated with von Hippel-Lindau Disease))) 37.63%
-- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40141](http://purl.obolibrary.org/obo/NCIT_C40141) (Wolffian Adnexal Tumor))) 37.63%
-- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40139](http://purl.obolibrary.org/obo/NCIT_C40139) (Uterine Ligament Clear Cell Adenocarcinoma))) 37.63%
-- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40138](http://purl.obolibrary.org/obo/NCIT_C40138) (Uterine Ligament Endometrioid Adenocarcinoma))) 37.63%
-- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40137](http://purl.obolibrary.org/obo/NCIT_C40137) (Uterine Ligament Mucinous Adenocarcinoma))) 37.63%
-- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40129](http://purl.obolibrary.org/obo/NCIT_C40129) (Fallopian Tube Adenomatoid Tumor))) 37.63%
+- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40271](http://purl.obolibrary.org/obo/NCIT_C40271) (Low Grade Endometrioid Stromal Sarcoma of the Vagina))) 37.63%
+- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C4027](http://purl.obolibrary.org/obo/NCIT_C4027) (Paget Disease of the Vulva))) 37.63%
+- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40264](http://purl.obolibrary.org/obo/NCIT_C40264) (Vaginal Undifferentiated Carcinoma))) 37.63%
+- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40263](http://purl.obolibrary.org/obo/NCIT_C40263) (Vaginal Small Cell Carcinoma))) 37.63%
+- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40261](http://purl.obolibrary.org/obo/NCIT_C40261) (Vaginal Adenoid Cystic Carcinoma))) 37.63%
+- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40260](http://purl.obolibrary.org/obo/NCIT_C40260) (Vaginal Adenosquamous Carcinoma))) 37.63%
+- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C4026](http://purl.obolibrary.org/obo/NCIT_C4026) (Ovarian Mucinous Cystadenocarcinoma))) 37.63%
+- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40259](http://purl.obolibrary.org/obo/NCIT_C40259) (Vaginal Villous Adenoma))) 37.63%
+- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40258](http://purl.obolibrary.org/obo/NCIT_C40258) (Vaginal Tubulovillous Adenoma))) 37.63%
+- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40257](http://purl.obolibrary.org/obo/NCIT_C40257) (Vaginal Tubular Adenoma))) 37.63%
+- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40255](http://purl.obolibrary.org/obo/NCIT_C40255) (Vaginal Mullerian Papilloma))) 37.63%
 
 

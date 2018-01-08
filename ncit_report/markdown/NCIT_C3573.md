@@ -14,12 +14,12 @@
 - [UBERON:0010134](http://purl.obolibrary.org/obo/UBERON_0010134) (secretory circumventricular organ) 43.69%
 - [UBERON:0005408](http://purl.obolibrary.org/obo/UBERON_0005408) (circumventricular organ) 43.69%
 - [UBERON:0003296](http://purl.obolibrary.org/obo/UBERON_0003296) (gland of diencephalon) and [UBERON:0010134](http://purl.obolibrary.org/obo/UBERON_0010134) (secretory circumventricular organ) 43.69%
-- [UBERON:0010134](http://purl.obolibrary.org/obo/UBERON_0010134) (secretory circumventricular organ) and (not ([NCIT:C40029](http://purl.obolibrary.org/obo/NCIT_C40029) (Borderline Ovarian Serous Cystadenofibroma))) 43.69%
-- [UBERON:0010134](http://purl.obolibrary.org/obo/UBERON_0010134) (secretory circumventricular organ) and (not ([NCIT:C40021](http://purl.obolibrary.org/obo/NCIT_C40021) (Ovarian Lymphoma))) 43.69%
-- [UBERON:0010134](http://purl.obolibrary.org/obo/UBERON_0010134) (secretory circumventricular organ) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 43.69%
-- [UBERON:0010134](http://purl.obolibrary.org/obo/UBERON_0010134) (secretory circumventricular organ) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 43.69%
-- [UBERON:0010134](http://purl.obolibrary.org/obo/UBERON_0010134) (secretory circumventricular organ) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 43.69%
-- [UBERON:0010134](http://purl.obolibrary.org/obo/UBERON_0010134) (secretory circumventricular organ) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 43.69%
-- [UBERON:0010134](http://purl.obolibrary.org/obo/UBERON_0010134) (secretory circumventricular organ) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 43.69%
+- [UBERON:0010134](http://purl.obolibrary.org/obo/UBERON_0010134) (secretory circumventricular organ) and (not ([NCIT:C40252](http://purl.obolibrary.org/obo/NCIT_C40252) (Vaginal Mucinous Adenocarcinoma))) 43.69%
+- [UBERON:0010134](http://purl.obolibrary.org/obo/UBERON_0010134) (secretory circumventricular organ) and (not ([NCIT:C40251](http://purl.obolibrary.org/obo/NCIT_C40251) (Vaginal Endometrioid Adenocarcinoma))) 43.69%
+- [UBERON:0010134](http://purl.obolibrary.org/obo/UBERON_0010134) (secretory circumventricular organ) and (not ([NCIT:C40248](http://purl.obolibrary.org/obo/NCIT_C40248) (Vaginal Warty Carcinoma))) 43.69%
+- [UBERON:0010134](http://purl.obolibrary.org/obo/UBERON_0010134) (secretory circumventricular organ) and (not ([NCIT:C40245](http://purl.obolibrary.org/obo/NCIT_C40245) (Vaginal Basaloid Carcinoma))) 43.69%
+- [UBERON:0010134](http://purl.obolibrary.org/obo/UBERON_0010134) (secretory circumventricular organ) and (not ([NCIT:C40243](http://purl.obolibrary.org/obo/NCIT_C40243) (Vaginal Keratinizing Squamous Cell Carcinoma))) 43.69%
+- [UBERON:0010134](http://purl.obolibrary.org/obo/UBERON_0010134) (secretory circumventricular organ) and (not ([NCIT:C40239](http://purl.obolibrary.org/obo/NCIT_C40239) (Cervical Melanoma))) 43.69%
+- [UBERON:0010134](http://purl.obolibrary.org/obo/UBERON_0010134) (secretory circumventricular organ) and (not ([NCIT:C40236](http://purl.obolibrary.org/obo/NCIT_C40236) (Cervical Wilms Tumor))) 43.69%
 
 

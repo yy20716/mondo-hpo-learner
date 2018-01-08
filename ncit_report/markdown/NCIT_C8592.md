@@ -9,17 +9,17 @@
 - [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C32991](http://purl.obolibrary.org/obo/NCIT_C32991) (Lipocyte))) 62.50%
 - [NCIT:C48695](http://purl.obolibrary.org/obo/NCIT_C48695) (Cartilage Cell) 56.25%
 - [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) 53.32%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C3993](http://purl.obolibrary.org/obo/NCIT_C3993) (Stage II Colon Cancer AJCC v6))) 53.32%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39914](http://purl.obolibrary.org/obo/NCIT_C39914) (Gain of Chromosome 12p))) 53.32%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C3991](http://purl.obolibrary.org/obo/NCIT_C3991) (Thrombocytopenia Due to Immune Destruction))) 53.32%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39909](http://purl.obolibrary.org/obo/NCIT_C39909) (Gain of Chromosome 18q))) 53.32%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39907](http://purl.obolibrary.org/obo/NCIT_C39907) (Seminal Vesicle Cystadenoma))) 53.32%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39906](http://purl.obolibrary.org/obo/NCIT_C39906) (Seminal Vesicle Adenocarcinoma))) 53.32%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39905](http://purl.obolibrary.org/obo/NCIT_C39905) (Prostate Stromal Proliferation of Uncertain Malignant Potential))) 53.32%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39903](http://purl.obolibrary.org/obo/NCIT_C39903) (Prostate Adenocarcinoma with Focal Neuroendocrine Differentiation))) 53.32%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39902](http://purl.obolibrary.org/obo/NCIT_C39902) (Prostate Basal Cell Carcinoma))) 53.32%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39901](http://purl.obolibrary.org/obo/NCIT_C39901) (Prostatic Duct Urothelial Carcinoma))) 53.32%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39899](http://purl.obolibrary.org/obo/NCIT_C39899) (Secondary Prostate Urothelial Carcinoma))) 53.32%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39897](http://purl.obolibrary.org/obo/NCIT_C39897) (Prostate Ductal Adenocarcinoma, Solid Pattern))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39802](http://purl.obolibrary.org/obo/NCIT_C39802) (Renal Cell Carcinoma Associated with inv(X)(p11;q12)))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39801](http://purl.obolibrary.org/obo/NCIT_C39801) (inv(X)(p11;q12)))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39800](http://purl.obolibrary.org/obo/NCIT_C39800) (Sickle Cell Trait))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39799](http://purl.obolibrary.org/obo/NCIT_C39799) (Loss of Chromosome 21))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39798](http://purl.obolibrary.org/obo/NCIT_C39798) (Loss of Chromosome 2))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39795](http://purl.obolibrary.org/obo/NCIT_C39795) (Loss of Chromosome 14q))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39788](http://purl.obolibrary.org/obo/NCIT_C39788) (MET Gene Mutation))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39787](http://purl.obolibrary.org/obo/NCIT_C39787) (Multiple Tumor Masses))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39786](http://purl.obolibrary.org/obo/NCIT_C39786) (Bilateral Disease))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39783](http://purl.obolibrary.org/obo/NCIT_C39783) (Retinal Hemangioblastoma))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39752](http://purl.obolibrary.org/obo/NCIT_C39752) (Refractory Disease))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39751](http://purl.obolibrary.org/obo/NCIT_C39751) (Glioblastoma, IDH-Mutant))) 53.32%
 
 

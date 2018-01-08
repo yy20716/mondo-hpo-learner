@@ -20,6 +20,6 @@
 - [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) 38.30%
 - [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) 38.30%
 - [NCIT:C36903](http://purl.obolibrary.org/obo/NCIT_C36903) (Neoplastic Germ Cell) and [NCIT:C37162](http://purl.obolibrary.org/obo/NCIT_C37162) (Neoplastic Large Cell) 38.30%
-- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C40141](http://purl.obolibrary.org/obo/NCIT_C40141) (Wolffian Adnexal Tumor))) 38.30%
+- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C40021](http://purl.obolibrary.org/obo/NCIT_C40021) (Ovarian Lymphoma))) 38.30%
 
 

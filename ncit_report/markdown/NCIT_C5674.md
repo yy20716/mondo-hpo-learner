@@ -13,13 +13,13 @@
 - [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C17060](http://purl.obolibrary.org/obo/NCIT_C17060) (HRAS Gene))) 37.53%
 - [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) 31.04%
 - [NCIT:C18437](http://purl.obolibrary.org/obo/NCIT_C18437) (G Protein Gene) 31.04%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C40354](http://purl.obolibrary.org/obo/NCIT_C40354) (Breast Mucinous Cystadenocarcinoma))) 31.04%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C40350](http://purl.obolibrary.org/obo/NCIT_C40350) (Breast Carcinoma with Choriocarcinomatous Features))) 31.04%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C40345](http://purl.obolibrary.org/obo/NCIT_C40345) (Testicular Intratubular Germ Cell Neoplasia, Unclassified))) 31.04%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C40344](http://purl.obolibrary.org/obo/NCIT_C40344) (Hypertriploidy))) 31.04%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C40343](http://purl.obolibrary.org/obo/NCIT_C40343) (Hypotriploidy))) 31.04%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C40341](http://purl.obolibrary.org/obo/NCIT_C40341) (Hypospadias))) 31.04%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C40339](http://purl.obolibrary.org/obo/NCIT_C40339) (Mesenteric Gastrointestinal Stromal Tumor))) 31.04%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C40337](http://purl.obolibrary.org/obo/NCIT_C40337) (Retroperitoneal Gastrointestinal Stromal Tumor))) 31.04%
+- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C37052](http://purl.obolibrary.org/obo/NCIT_C37052) (Faggot Cell))) 31.04%
+- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C37051](http://purl.obolibrary.org/obo/NCIT_C37051) (Dysplastic Granulocyte))) 31.04%
+- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C3705](http://purl.obolibrary.org/obo/NCIT_C3705) (Pleomorphic Liposarcoma))) 31.04%
+- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C37049](http://purl.obolibrary.org/obo/NCIT_C37049) (Hyperchromatic Megakaryocyte))) 31.04%
+- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C37048](http://purl.obolibrary.org/obo/NCIT_C37048) (Monolobed Megakaryocyte))) 31.04%
+- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C37045](http://purl.obolibrary.org/obo/NCIT_C37045) (Giant Megakaryocyte))) 31.04%
+- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C37044](http://purl.obolibrary.org/obo/NCIT_C37044) (Large Megakaryocyte))) 31.04%
+- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C37041](http://purl.obolibrary.org/obo/NCIT_C37041) (Neoplastic Monocyte))) 31.04%
 
 

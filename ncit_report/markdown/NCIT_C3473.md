@@ -11,15 +11,15 @@
 - [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) (brain) 54.17%
 - Thing 52.77%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37870](http://purl.obolibrary.org/obo/NCIT_C37870) (Mediastinal B-Cell Lymphoma, Unclassifiable, with Features Intermediate between Diffuse Large B-Cell Lymphoma and Classical Hodgkin Lymphoma))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37867](http://purl.obolibrary.org/obo/NCIT_C37867) (Tetrasomy 7))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37866](http://purl.obolibrary.org/obo/NCIT_C37866) (Trisomy 16))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37865](http://purl.obolibrary.org/obo/NCIT_C37865) (Trisomy 17))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3756](http://purl.obolibrary.org/obo/NCIT_C3756) (Mixed Embryonal Carcinoma and Teratoma))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3742](http://purl.obolibrary.org/obo/NCIT_C3742) (Myofibromatosis))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3741](http://purl.obolibrary.org/obo/NCIT_C3741) (Abdominal (Mesenteric) Fibromatosis))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3740](http://purl.obolibrary.org/obo/NCIT_C3740) (Bone Desmoplastic Fibroma))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3736](http://purl.obolibrary.org/obo/NCIT_C3736) (Adrenal Gland Myelolipoma))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37312](http://purl.obolibrary.org/obo/NCIT_C37312) (Loss of Chromosome 11q))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37214](http://purl.obolibrary.org/obo/NCIT_C37214) (Colloid Carcinoma of the Pancreas))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37212](http://purl.obolibrary.org/obo/NCIT_C37212) (Solid Pseudopapillary Neoplasm of the Pancreas))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37209](http://purl.obolibrary.org/obo/NCIT_C37209) (Diffuse Blastoid B-Cell Lymphoma))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37208](http://purl.obolibrary.org/obo/NCIT_C37208) (Rearrangement of 2p23))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37207](http://purl.obolibrary.org/obo/NCIT_C37207) (ZAP70 Messenger RNA Overexpression))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37206](http://purl.obolibrary.org/obo/NCIT_C37206) (Small Lymphocytic Lymphoma with Unmutated Immunoglobulin Heavy Chain Variable-Region Gene))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37205](http://purl.obolibrary.org/obo/NCIT_C37205) (Chronic Lymphocytic Leukemia with Unmutated Immunoglobulin Heavy Chain Variable-Region Gene))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37203](http://purl.obolibrary.org/obo/NCIT_C37203) (Small Lymphocytic Lymphoma with Immunoglobulin Heavy Chain Variable-Region Gene Somatic Hypermutation))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37202](http://purl.obolibrary.org/obo/NCIT_C37202) (Chronic Lymphocytic Leukemia with Immunoglobulin Heavy Chain Variable-Region Gene Somatic Hypermutation))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37196](http://purl.obolibrary.org/obo/NCIT_C37196) (Primary Systemic Anaplastic Large Cell Lymphoma, ALK-Negative))) 39.52%
 
 

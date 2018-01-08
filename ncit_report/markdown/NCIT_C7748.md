@@ -12,14 +12,14 @@
 - [NCIT:C35996](http://purl.obolibrary.org/obo/NCIT_C35996) (Stromal Change) and [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) 54.17%
 - Thing 52.77%
 - [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) 39.52%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C39624](http://purl.obolibrary.org/obo/NCIT_C39624) (Skin Plaque))) 39.52%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C39622](http://purl.obolibrary.org/obo/NCIT_C39622) (Scaly Skin Eruption))) 39.52%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C39620](http://purl.obolibrary.org/obo/NCIT_C39620) (Dermatopathic Lymphadenopathy))) 39.52%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C39618](http://purl.obolibrary.org/obo/NCIT_C39618) (Subcutaneous Nodule))) 39.52%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C39617](http://purl.obolibrary.org/obo/NCIT_C39617) (Subcutaneous Involvement))) 39.52%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C39616](http://purl.obolibrary.org/obo/NCIT_C39616) (Karyorrhexis))) 39.52%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C39615](http://purl.obolibrary.org/obo/NCIT_C39615) (Sinusoidal Infiltration))) 39.52%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C39609](http://purl.obolibrary.org/obo/NCIT_C39609) (Activated Natural Killer Cell))) 39.52%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C39608](http://purl.obolibrary.org/obo/NCIT_C39608) (Coagulative Necrosis))) 39.52%
+- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C39101](http://purl.obolibrary.org/obo/NCIT_C39101) (Human Cytomegalovirus Infection Pathway))) 39.52%
+- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C39094](http://purl.obolibrary.org/obo/NCIT_C39094) (Inhibition of Cellular Proliferation by Gleevec Pathway))) 39.52%
+- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C39092](http://purl.obolibrary.org/obo/NCIT_C39092) (Growth Hormone Signaling Pathway))) 39.52%
+- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C39091](http://purl.obolibrary.org/obo/NCIT_C39091) (Corticosteroid Cardioprotection Pathway))) 39.52%
+- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C39088](http://purl.obolibrary.org/obo/NCIT_C39088) (G2/M Checkpoint Pathway))) 39.52%
+- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C39079](http://purl.obolibrary.org/obo/NCIT_C39079) (Fc Epsilon Receptor I Signaling Pathway BioCarta))) 39.52%
+- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C39072](http://purl.obolibrary.org/obo/NCIT_C39072) (Erk1/Erk2 MAPK Signaling Pathway))) 39.52%
+- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C39071](http://purl.obolibrary.org/obo/NCIT_C39071) (Neuronal Survival Pathway))) 39.52%
+- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C39069](http://purl.obolibrary.org/obo/NCIT_C39069) (ErbB3 Receptor Recycling Pathway))) 39.52%
 
 

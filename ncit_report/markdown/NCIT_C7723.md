@@ -9,17 +9,17 @@
 - [UBERON:0004535](http://purl.obolibrary.org/obo/UBERON_0004535) (cardiovascular system) 53.57%
 - Thing 53.00%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38727](http://purl.obolibrary.org/obo/NCIT_C38727) (Villous Lymphocyte))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38721](http://purl.obolibrary.org/obo/NCIT_C38721) (Nuclear Pleomorphism))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38710](http://purl.obolibrary.org/obo/NCIT_C38710) (Defective Gamma Heavy Chain Present))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3870](http://purl.obolibrary.org/obo/NCIT_C3870) (Lymphangitic Carcinomatosis))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38698](http://purl.obolibrary.org/obo/NCIT_C38698) (Hyperviscosity))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38674](http://purl.obolibrary.org/obo/NCIT_C38674) (Widespread Disease))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38667](http://purl.obolibrary.org/obo/NCIT_C38667) (Polymorphic Cellular Infiltrate))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38666](http://purl.obolibrary.org/obo/NCIT_C38666) (Monomorphic Cellular Infiltrate))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38665](http://purl.obolibrary.org/obo/NCIT_C38665) (Chest Pain))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38661](http://purl.obolibrary.org/obo/NCIT_C38661) (Composite Lymphoma))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38660](http://purl.obolibrary.org/obo/NCIT_C38660) (Neoplastic Large B-Lymphocyte with Pale Cytoplasm))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3866](http://purl.obolibrary.org/obo/NCIT_C3866) (Esophageal Leiomyoma))) 38.93%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39121](http://purl.obolibrary.org/obo/NCIT_C39121) (IL22 Signaling Pathway))) 38.93%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39117](http://purl.obolibrary.org/obo/NCIT_C39117) (IL12 Signaling Pathway))) 38.93%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39114](http://purl.obolibrary.org/obo/NCIT_C39114) (IGF-1 Signaling Pathway))) 38.93%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39112](http://purl.obolibrary.org/obo/NCIT_C39112) (IFN Gamma Signaling Pathway))) 38.93%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39103](http://purl.obolibrary.org/obo/NCIT_C39103) (ERBB2 Signaling Pathway))) 38.93%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39102](http://purl.obolibrary.org/obo/NCIT_C39102) (Skeletal Myogenesis Pathway))) 38.93%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39101](http://purl.obolibrary.org/obo/NCIT_C39101) (Human Cytomegalovirus Infection Pathway))) 38.93%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39094](http://purl.obolibrary.org/obo/NCIT_C39094) (Inhibition of Cellular Proliferation by Gleevec Pathway))) 38.93%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39092](http://purl.obolibrary.org/obo/NCIT_C39092) (Growth Hormone Signaling Pathway))) 38.93%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39091](http://purl.obolibrary.org/obo/NCIT_C39091) (Corticosteroid Cardioprotection Pathway))) 38.93%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39088](http://purl.obolibrary.org/obo/NCIT_C39088) (G2/M Checkpoint Pathway))) 38.93%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39079](http://purl.obolibrary.org/obo/NCIT_C39079) (Fc Epsilon Receptor I Signaling Pathway BioCarta))) 38.93%
 
 

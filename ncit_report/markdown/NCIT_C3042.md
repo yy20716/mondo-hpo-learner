@@ -2,7 +2,7 @@
 ### [NCIT:C3042](http://purl.obolibrary.org/obo/NCIT_C3042)
 **Label:** Fibromatosis
 
-**Subclasses:** [NCIT:C6814](http://purl.obolibrary.org/obo/NCIT_C6814) (Superficial Fibromatosis), [NCIT:C129548](http://purl.obolibrary.org/obo/NCIT_C129548) (Central Nervous System Desmoid-Type Fibromatosis), [NCIT:C9182](http://purl.obolibrary.org/obo/NCIT_C9182) (Desmoid-Type Fibromatosis), [NCIT:C6489](http://purl.obolibrary.org/obo/NCIT_C6489) (Extraabdominal Fibromatosis), [NCIT:C3316](http://purl.obolibrary.org/obo/NCIT_C3316) (Penile Fibromatosis), [NCIT:C3741](http://purl.obolibrary.org/obo/NCIT_C3741) (Abdominal (Mesenteric) Fibromatosis), [NCIT:C126358](http://purl.obolibrary.org/obo/NCIT_C126358) (Pelvic Fibromatosis), [NCIT:C99180](http://purl.obolibrary.org/obo/NCIT_C99180) (Lipofibromatosis), [NCIT:C4680](http://purl.obolibrary.org/obo/NCIT_C4680) (Plantar Fibromatosis), 
+**Subclasses:** [NCIT:C6814](http://purl.obolibrary.org/obo/NCIT_C6814) (Superficial Fibromatosis), [NCIT:C129548](http://purl.obolibrary.org/obo/NCIT_C129548) (Central Nervous System Desmoid-Type Fibromatosis), [NCIT:C3316](http://purl.obolibrary.org/obo/NCIT_C3316) (Penile Fibromatosis), [NCIT:C9182](http://purl.obolibrary.org/obo/NCIT_C9182) (Desmoid-Type Fibromatosis), [NCIT:C6489](http://purl.obolibrary.org/obo/NCIT_C6489) (Extraabdominal Fibromatosis), [NCIT:C3741](http://purl.obolibrary.org/obo/NCIT_C3741) (Abdominal (Mesenteric) Fibromatosis), [NCIT:C126358](http://purl.obolibrary.org/obo/NCIT_C126358) (Pelvic Fibromatosis), [NCIT:C99180](http://purl.obolibrary.org/obo/NCIT_C99180) (Lipofibromatosis), [NCIT:C4680](http://purl.obolibrary.org/obo/NCIT_C4680) (Plantar Fibromatosis), 
 
 **Class expressions from DL-Learner:**
 

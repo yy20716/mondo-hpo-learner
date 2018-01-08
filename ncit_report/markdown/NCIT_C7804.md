@@ -11,15 +11,15 @@
 - [NCIT:C17359](http://purl.obolibrary.org/obo/NCIT_C17359) (TP53 Gene) 52.38%
 - [NCIT:C25804](http://purl.obolibrary.org/obo/NCIT_C25804) (Hydrolase Gene) and (not ([NCIT:C25956](http://purl.obolibrary.org/obo/NCIT_C25956) (DICER1 Gene))) 52.38%
 - [NCIT:C25804](http://purl.obolibrary.org/obo/NCIT_C25804) (Hydrolase Gene) 37.74%
-- [NCIT:C25804](http://purl.obolibrary.org/obo/NCIT_C25804) (Hydrolase Gene) and (not ([NCIT:C40367](http://purl.obolibrary.org/obo/NCIT_C40367) (Acinic Cell Breast Carcinoma))) 37.74%
-- [NCIT:C25804](http://purl.obolibrary.org/obo/NCIT_C25804) (Hydrolase Gene) and (not ([NCIT:C40366](http://purl.obolibrary.org/obo/NCIT_C40366) (Oncocytic Breast Carcinoma))) 37.74%
-- [NCIT:C25804](http://purl.obolibrary.org/obo/NCIT_C25804) (Hydrolase Gene) and (not ([NCIT:C40363](http://purl.obolibrary.org/obo/NCIT_C40363) (Nipple Syringomatous Adenoma))) 37.74%
-- [NCIT:C25804](http://purl.obolibrary.org/obo/NCIT_C25804) (Hydrolase Gene) and (not ([NCIT:C40362](http://purl.obolibrary.org/obo/NCIT_C40362) (Low Grade Adenosquamous Breast Carcinoma))) 37.74%
-- [NCIT:C25804](http://purl.obolibrary.org/obo/NCIT_C25804) (Hydrolase Gene) and (not ([NCIT:C40358](http://purl.obolibrary.org/obo/NCIT_C40358) (Squamous Cell Breast Carcinoma, Spindle Cell Variant))) 37.74%
-- [NCIT:C25804](http://purl.obolibrary.org/obo/NCIT_C25804) (Hydrolase Gene) and (not ([NCIT:C40356](http://purl.obolibrary.org/obo/NCIT_C40356) (Breast Large Cell Neuroendocrine Carcinoma))) 37.74%
-- [NCIT:C25804](http://purl.obolibrary.org/obo/NCIT_C25804) (Hydrolase Gene) and (not ([NCIT:C40355](http://purl.obolibrary.org/obo/NCIT_C40355) (Breast Columnar Cell Mucinous Carcinoma))) 37.74%
-- [NCIT:C25804](http://purl.obolibrary.org/obo/NCIT_C25804) (Hydrolase Gene) and (not ([NCIT:C40354](http://purl.obolibrary.org/obo/NCIT_C40354) (Breast Mucinous Cystadenocarcinoma))) 37.74%
-- [NCIT:C25804](http://purl.obolibrary.org/obo/NCIT_C25804) (Hydrolase Gene) and (not ([NCIT:C40350](http://purl.obolibrary.org/obo/NCIT_C40350) (Breast Carcinoma with Choriocarcinomatous Features))) 37.74%
-- [NCIT:C25804](http://purl.obolibrary.org/obo/NCIT_C25804) (Hydrolase Gene) and (not ([NCIT:C40345](http://purl.obolibrary.org/obo/NCIT_C40345) (Testicular Intratubular Germ Cell Neoplasia, Unclassified))) 37.74%
+- [NCIT:C25804](http://purl.obolibrary.org/obo/NCIT_C25804) (Hydrolase Gene) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 37.74%
+- [NCIT:C25804](http://purl.obolibrary.org/obo/NCIT_C25804) (Hydrolase Gene) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 37.74%
+- [NCIT:C25804](http://purl.obolibrary.org/obo/NCIT_C25804) (Hydrolase Gene) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 37.74%
+- [NCIT:C25804](http://purl.obolibrary.org/obo/NCIT_C25804) (Hydrolase Gene) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 37.74%
+- [NCIT:C25804](http://purl.obolibrary.org/obo/NCIT_C25804) (Hydrolase Gene) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 37.74%
+- [NCIT:C25804](http://purl.obolibrary.org/obo/NCIT_C25804) (Hydrolase Gene) and (not ([NCIT:C39963](http://purl.obolibrary.org/obo/NCIT_C39963) (Penile Bowenoid Papulosis))) 37.74%
+- [NCIT:C25804](http://purl.obolibrary.org/obo/NCIT_C25804) (Hydrolase Gene) and (not ([NCIT:C39961](http://purl.obolibrary.org/obo/NCIT_C39961) (Penile Basal Cell Carcinoma))) 37.74%
+- [NCIT:C25804](http://purl.obolibrary.org/obo/NCIT_C25804) (Hydrolase Gene) and (not ([NCIT:C39959](http://purl.obolibrary.org/obo/NCIT_C39959) (Mixed Squamous Cell Carcinoma of the Penis))) 37.74%
+- [NCIT:C25804](http://purl.obolibrary.org/obo/NCIT_C25804) (Hydrolase Gene) and (not ([NCIT:C39957](http://purl.obolibrary.org/obo/NCIT_C39957) (Epididymal Adenocarcinoma))) 37.74%
+- [NCIT:C25804](http://purl.obolibrary.org/obo/NCIT_C25804) (Hydrolase Gene) and (not ([NCIT:C39956](http://purl.obolibrary.org/obo/NCIT_C39956) (Rete Testis Adenoma))) 37.74%
 
 

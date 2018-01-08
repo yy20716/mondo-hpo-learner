@@ -2,7 +2,7 @@
 ### [NCIT:C8997](http://purl.obolibrary.org/obo/NCIT_C8997)
 **Label:** Blastoma
 
-**Subclasses:** [NCIT:C45627](http://purl.obolibrary.org/obo/NCIT_C45627) (Type II Pleuropulmonary Blastoma), [NCIT:C36054](http://purl.obolibrary.org/obo/NCIT_C36054) (Biphasic Pulmonary Blastoma), [NCIT:C3732](http://purl.obolibrary.org/obo/NCIT_C3732) (Pulmonary Blastoma), [NCIT:C45626](http://purl.obolibrary.org/obo/NCIT_C45626) (Type I Pleuropulmonary Blastoma), [NCIT:C5669](http://purl.obolibrary.org/obo/NCIT_C5669) (Pleuropulmonary Blastoma), [NCIT:C36053](http://purl.obolibrary.org/obo/NCIT_C36053) (Epithelial Predominant Pulmonary Blastoma), [NCIT:C45628](http://purl.obolibrary.org/obo/NCIT_C45628) (Type III Pleuropulmonary Blastoma), 
+**Subclasses:** [NCIT:C45627](http://purl.obolibrary.org/obo/NCIT_C45627) (Type II Pleuropulmonary Blastoma), [NCIT:C3732](http://purl.obolibrary.org/obo/NCIT_C3732) (Pulmonary Blastoma), [NCIT:C36054](http://purl.obolibrary.org/obo/NCIT_C36054) (Biphasic Pulmonary Blastoma), [NCIT:C45626](http://purl.obolibrary.org/obo/NCIT_C45626) (Type I Pleuropulmonary Blastoma), [NCIT:C36053](http://purl.obolibrary.org/obo/NCIT_C36053) (Epithelial Predominant Pulmonary Blastoma), [NCIT:C5669](http://purl.obolibrary.org/obo/NCIT_C5669) (Pleuropulmonary Blastoma), [NCIT:C45628](http://purl.obolibrary.org/obo/NCIT_C45628) (Type III Pleuropulmonary Blastoma), 
 
 **Class expressions from DL-Learner:**
 

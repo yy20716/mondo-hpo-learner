@@ -9,17 +9,17 @@
 - [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C32052](http://purl.obolibrary.org/obo/NCIT_C32052) (Alpha Cell))) 54.55%
 - Thing 52.66%
 - [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) 39.90%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36186](http://purl.obolibrary.org/obo/NCIT_C36186) (Globular Hyaline Body))) 39.90%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36185](http://purl.obolibrary.org/obo/NCIT_C36185) (Steatosis))) 39.90%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36183](http://purl.obolibrary.org/obo/NCIT_C36183) (Firm Mass))) 39.90%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36182](http://purl.obolibrary.org/obo/NCIT_C36182) (Solid Growth Pattern))) 39.90%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36180](http://purl.obolibrary.org/obo/NCIT_C36180) (Multifocal Lesion))) 39.90%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36177](http://purl.obolibrary.org/obo/NCIT_C36177) (Single-File Linear Pattern))) 39.90%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36176](http://purl.obolibrary.org/obo/NCIT_C36176) (Bilateral Mass))) 39.90%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36163](http://purl.obolibrary.org/obo/NCIT_C36163) (Metastatic/Recurrent Disease))) 39.90%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36158](http://purl.obolibrary.org/obo/NCIT_C36158) (Chronic Clinical Course))) 39.90%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36157](http://purl.obolibrary.org/obo/NCIT_C36157) (Acute Clinical Course))) 39.90%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36156](http://purl.obolibrary.org/obo/NCIT_C36156) (Favorable Clinical Outcome))) 39.90%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36155](http://purl.obolibrary.org/obo/NCIT_C36155) (Accelerated Phase of Disease))) 39.90%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36080](http://purl.obolibrary.org/obo/NCIT_C36080) (Diffuse Large B-Cell Lymphoma Germinal Center B-Cell Type))) 39.90%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36074](http://purl.obolibrary.org/obo/NCIT_C36074) (Metastatic Peripheral Primitive Neuroectodermal Tumor of Bone))) 39.90%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36062](http://purl.obolibrary.org/obo/NCIT_C36062) (Chronic Myelomonocytic Leukemia-2))) 39.90%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36061](http://purl.obolibrary.org/obo/NCIT_C36061) (Chronic Myelomonocytic Leukemia-1))) 39.90%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36060](http://purl.obolibrary.org/obo/NCIT_C36060) (Chronic Myelomonocytic Leukemia with Eosinophilia))) 39.90%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C3606](http://purl.obolibrary.org/obo/NCIT_C3606) (Spermatic Cord Lipoma))) 39.90%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36058](http://purl.obolibrary.org/obo/NCIT_C36058) (Acute Myeloid Leukemia with t(11;17)(q13;q21)))) 39.90%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36057](http://purl.obolibrary.org/obo/NCIT_C36057) (Acute Myeloid Leukemia with t(5;17)(q35;q21)))) 39.90%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36056](http://purl.obolibrary.org/obo/NCIT_C36056) (Acute Myeloid Leukemia with t(11;17)(q23;q21)))) 39.90%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36054](http://purl.obolibrary.org/obo/NCIT_C36054) (Biphasic Pulmonary Blastoma))) 39.90%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36053](http://purl.obolibrary.org/obo/NCIT_C36053) (Epithelial Predominant Pulmonary Blastoma))) 39.90%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36030](http://purl.obolibrary.org/obo/NCIT_C36030) (Osteolytic Neoplasm))) 39.90%
 
 

@@ -8,18 +8,18 @@
 
 - Thing 52.53%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 40.36%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38992](http://purl.obolibrary.org/obo/NCIT_C38992) (Ribosomal Biogenesis Pathway))) 40.36%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38981](http://purl.obolibrary.org/obo/NCIT_C38981) (AKT Signaling Pathway))) 40.36%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38975](http://purl.obolibrary.org/obo/NCIT_C38975) (Agrin Pathway))) 40.36%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38971](http://purl.obolibrary.org/obo/NCIT_C38971) (Regulation of Apoptosis Pathway))) 40.36%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3892](http://purl.obolibrary.org/obo/NCIT_C3892) (Mu Heavy Chain Disease))) 40.36%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38850](http://purl.obolibrary.org/obo/NCIT_C38850) (Phosphatidylinositol Signaling System Pathway))) 40.36%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38834](http://purl.obolibrary.org/obo/NCIT_C38834) (MAPK Signaling Pathway))) 40.36%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38829](http://purl.obolibrary.org/obo/NCIT_C38829) (Focal Adhesion Pathway))) 40.36%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38828](http://purl.obolibrary.org/obo/NCIT_C38828) (Inositol Phosphate Metabolism Pathway))) 40.36%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3880](http://purl.obolibrary.org/obo/NCIT_C3880) (Eyelid Nevus))) 40.36%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38784](http://purl.obolibrary.org/obo/NCIT_C38784) (Apoptosis Pathway))) 40.36%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38770](http://purl.obolibrary.org/obo/NCIT_C38770) (Squamous Differentiation))) 40.36%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38762](http://purl.obolibrary.org/obo/NCIT_C38762) (Thyroid Gland Mucoepidermoid Carcinoma))) 40.36%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37867](http://purl.obolibrary.org/obo/NCIT_C37867) (Tetrasomy 7))) 40.36%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37866](http://purl.obolibrary.org/obo/NCIT_C37866) (Trisomy 16))) 40.36%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37865](http://purl.obolibrary.org/obo/NCIT_C37865) (Trisomy 17))) 40.36%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3756](http://purl.obolibrary.org/obo/NCIT_C3756) (Mixed Embryonal Carcinoma and Teratoma))) 40.36%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3742](http://purl.obolibrary.org/obo/NCIT_C3742) (Myofibromatosis))) 40.36%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3741](http://purl.obolibrary.org/obo/NCIT_C3741) (Abdominal (Mesenteric) Fibromatosis))) 40.36%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3740](http://purl.obolibrary.org/obo/NCIT_C3740) (Bone Desmoplastic Fibroma))) 40.36%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3736](http://purl.obolibrary.org/obo/NCIT_C3736) (Adrenal Gland Myelolipoma))) 40.36%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37312](http://purl.obolibrary.org/obo/NCIT_C37312) (Loss of Chromosome 11q))) 40.36%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37304](http://purl.obolibrary.org/obo/NCIT_C37304) (Multicentric Thyroid Gland Papillary Carcinoma))) 40.36%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37268](http://purl.obolibrary.org/obo/NCIT_C37268) (Atypical Small Acinar Proliferation of the Prostate Gland))) 40.36%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37265](http://purl.obolibrary.org/obo/NCIT_C37265) (Malignant Mixed Epithelial Stromal Tumor of the Kidney))) 40.36%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37264](http://purl.obolibrary.org/obo/NCIT_C37264) (Benign Mixed Epithelial Stromal Tumor of the Kidney))) 40.36%
 
 

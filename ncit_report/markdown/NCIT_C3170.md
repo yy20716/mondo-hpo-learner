@@ -19,7 +19,7 @@
 - [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) 52.00%
 - [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C37058](http://purl.obolibrary.org/obo/NCIT_C37058) (Ring Sideroblast))) 52.00%
 - [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) 37.36%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40442](http://purl.obolibrary.org/obo/NCIT_C40442) (Gestational Ovarian Choriocarcinoma))) 37.36%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40440](http://purl.obolibrary.org/obo/NCIT_C40440) (Ovarian Small Cell Carcinoma, Pulmonary Type))) 37.36%
+- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 37.36%
+- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 37.36%
 
 

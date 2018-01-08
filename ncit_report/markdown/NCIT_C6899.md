@@ -8,18 +8,18 @@
 
 - Thing 52.53%
 - [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) 40.36%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38666](http://purl.obolibrary.org/obo/NCIT_C38666) (Monomorphic Cellular Infiltrate))) 40.36%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38665](http://purl.obolibrary.org/obo/NCIT_C38665) (Chest Pain))) 40.36%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38661](http://purl.obolibrary.org/obo/NCIT_C38661) (Composite Lymphoma))) 40.36%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38660](http://purl.obolibrary.org/obo/NCIT_C38660) (Neoplastic Large B-Lymphocyte with Pale Cytoplasm))) 40.36%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C3866](http://purl.obolibrary.org/obo/NCIT_C3866) (Esophageal Leiomyoma))) 40.36%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38658](http://purl.obolibrary.org/obo/NCIT_C38658) (Transformed Peripheral B-Lymphocyte))) 40.36%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38657](http://purl.obolibrary.org/obo/NCIT_C38657) (Neoplastic Immunoblast-Like B-Lymphocyte))) 40.36%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38656](http://purl.obolibrary.org/obo/NCIT_C38656) (ALK Kinase Overexpression))) 40.36%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38655](http://purl.obolibrary.org/obo/NCIT_C38655) (Bulky Disease))) 40.36%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38650](http://purl.obolibrary.org/obo/NCIT_C38650) (Defective Mu Heavy Chain Present))) 40.36%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38649](http://purl.obolibrary.org/obo/NCIT_C38649) (Vacuolated Plasma Cells in the Bone Marrow))) 40.36%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38648](http://purl.obolibrary.org/obo/NCIT_C38648) (Negative Bone Marrow and Peripheral Blood))) 40.36%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38647](http://purl.obolibrary.org/obo/NCIT_C38647) (Prolymphocytes Exceed 55 Percent of Lymphoid Cells in the Peripheral Blood))) 40.36%
+- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38385](http://purl.obolibrary.org/obo/NCIT_C38385) (del(7)(q11;q36)))) 40.36%
+- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38379](http://purl.obolibrary.org/obo/NCIT_C38379) (STAT5B-RARA Fusion Protein Expression))) 40.36%
+- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38378](http://purl.obolibrary.org/obo/NCIT_C38378) (t(17;17)(q21;q21)))) 40.36%
+- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38377](http://purl.obolibrary.org/obo/NCIT_C38377) (Acute Myeloid Leukemia with t(17;17)(q21;q21)))) 40.36%
+- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38373](http://purl.obolibrary.org/obo/NCIT_C38373) (RBM15-MKL1 Fusion Protein Expression))) 40.36%
+- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38372](http://purl.obolibrary.org/obo/NCIT_C38372) (CEBPA Gene Mutation))) 40.36%
+- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38362](http://purl.obolibrary.org/obo/NCIT_C38362) (RUNX1 Gene Mutation))) 40.36%
+- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C3836](http://purl.obolibrary.org/obo/NCIT_C3836) (Infertility))) 40.36%
+- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38350](http://purl.obolibrary.org/obo/NCIT_C38350) (del(4)(q12)))) 40.36%
+- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38348](http://purl.obolibrary.org/obo/NCIT_C38348) (MSN-ALK Fusion Protein Expression))) 40.36%
+- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38347](http://purl.obolibrary.org/obo/NCIT_C38347) (P13K-AKT Pathway Deregulation))) 40.36%
+- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38346](http://purl.obolibrary.org/obo/NCIT_C38346) (MYC Pathway Deregulation))) 40.36%
+- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38345](http://purl.obolibrary.org/obo/NCIT_C38345) (JUN Pathway Deregulation))) 40.36%
 
 

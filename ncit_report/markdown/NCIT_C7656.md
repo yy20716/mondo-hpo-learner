@@ -17,9 +17,9 @@
 - Thing 52.77%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 39.52%
 - [UBERON:0000353](http://purl.obolibrary.org/obo/UBERON_0000353) (parenchyma) and [UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([GO:0031340](http://purl.obolibrary.org/obo/GO_0031340) (positive regulation of vesicle fusion))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([GO:0031339](http://purl.obolibrary.org/obo/GO_0031339) (negative regulation of vesicle fusion))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([GO:0031268](http://purl.obolibrary.org/obo/GO_0031268) (null))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([GO:0030890](http://purl.obolibrary.org/obo/GO_0030890) (positive regulation of B cell proliferation))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([GO:0007596](http://purl.obolibrary.org/obo/GO_0007596) (blood coagulation))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([GO:0007595](http://purl.obolibrary.org/obo/GO_0007595) (lactation))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([GO:0007586](http://purl.obolibrary.org/obo/GO_0007586) (digestion))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([GO:0007565](http://purl.obolibrary.org/obo/GO_0007565) (female pregnancy))) 39.52%
 
 

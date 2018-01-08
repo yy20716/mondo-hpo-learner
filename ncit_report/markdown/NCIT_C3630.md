@@ -2,7 +2,7 @@
 ### [NCIT:C3630](http://purl.obolibrary.org/obo/NCIT_C3630)
 **Label:** Benign Parathyroid Gland Neoplasm
 
-**Subclasses:** [NCIT:C48285](http://purl.obolibrary.org/obo/NCIT_C48285) (Parathyroid Gland Atypical Adenoma), [NCIT:C48283](http://purl.obolibrary.org/obo/NCIT_C48283) (Parathyroid Gland Lipoadenoma), [NCIT:C3916](http://purl.obolibrary.org/obo/NCIT_C3916) (Parathyroid Gland Adenoma), [NCIT:C7993](http://purl.obolibrary.org/obo/NCIT_C7993) (Parathyroid Gland Clear Cell Adenoma), [NCIT:C4154](http://purl.obolibrary.org/obo/NCIT_C4154) (Parathyroid Gland Chief Cell Adenoma), [NCIT:C27393](http://purl.obolibrary.org/obo/NCIT_C27393) (Parathyroid Gland Oncocytic Adenoma), [NCIT:C7994](http://purl.obolibrary.org/obo/NCIT_C7994) (Parathyroid Gland Mixed Cell Type Adenoma), 
+**Subclasses:** [NCIT:C48285](http://purl.obolibrary.org/obo/NCIT_C48285) (Parathyroid Gland Atypical Adenoma), [NCIT:C48283](http://purl.obolibrary.org/obo/NCIT_C48283) (Parathyroid Gland Lipoadenoma), [NCIT:C7993](http://purl.obolibrary.org/obo/NCIT_C7993) (Parathyroid Gland Clear Cell Adenoma), [NCIT:C3916](http://purl.obolibrary.org/obo/NCIT_C3916) (Parathyroid Gland Adenoma), [NCIT:C4154](http://purl.obolibrary.org/obo/NCIT_C4154) (Parathyroid Gland Chief Cell Adenoma), [NCIT:C27393](http://purl.obolibrary.org/obo/NCIT_C27393) (Parathyroid Gland Oncocytic Adenoma), [NCIT:C7994](http://purl.obolibrary.org/obo/NCIT_C7994) (Parathyroid Gland Mixed Cell Type Adenoma), 
 
 **Class expressions from DL-Learner:**
 

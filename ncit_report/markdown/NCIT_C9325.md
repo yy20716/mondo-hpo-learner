@@ -20,6 +20,6 @@
 - [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) and [NCIT:C48361](http://purl.obolibrary.org/obo/NCIT_C48361) (Neoplastic Adrenal Cortical Cell) 51.72%
 - [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36794](http://purl.obolibrary.org/obo/NCIT_C36794) (Dysplastic Glandular Cell) and [NCIT:C48361](http://purl.obolibrary.org/obo/NCIT_C48361) (Neoplastic Adrenal Cortical Cell) 51.72%
 - [NCIT:C48361](http://purl.obolibrary.org/obo/NCIT_C48361) (Neoplastic Adrenal Cortical Cell) 37.08%
-- [NCIT:C48361](http://purl.obolibrary.org/obo/NCIT_C48361) (Neoplastic Adrenal Cortical Cell) and (not ([NCIT:C36659](http://purl.obolibrary.org/obo/NCIT_C36659) (CTNNB1 Gene Mutation))) 37.08%
+- [NCIT:C48361](http://purl.obolibrary.org/obo/NCIT_C48361) (Neoplastic Adrenal Cortical Cell) and (not ([NCIT:C36466](http://purl.obolibrary.org/obo/NCIT_C36466) (Gain of Chromosome 17))) 37.08%
 
 

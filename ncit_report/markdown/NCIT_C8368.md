@@ -11,15 +11,15 @@
 - [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C14161](http://purl.obolibrary.org/obo/NCIT_C14161) (Low Grade))) 55.00%
 - Thing 52.53%
 - [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) 40.36%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40215](http://purl.obolibrary.org/obo/NCIT_C40215) (Cervical Mullerian Papilloma))) 40.36%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40214](http://purl.obolibrary.org/obo/NCIT_C40214) (Cervical Large Cell Neuroendocrine Carcinoma))) 40.36%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C4021](http://purl.obolibrary.org/obo/NCIT_C4021) (Chondroblastic Osteosarcoma))) 40.36%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40209](http://purl.obolibrary.org/obo/NCIT_C40209) (Cervical Glandular Dysplasia))) 40.36%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40208](http://purl.obolibrary.org/obo/NCIT_C40208) (Cervical Villoglandular Adenocarcinoma))) 40.36%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40206](http://purl.obolibrary.org/obo/NCIT_C40206) (Cervical Mucinous Adenocarcinoma, Minimal Deviation Type))) 40.36%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40205](http://purl.obolibrary.org/obo/NCIT_C40205) (Cervical Mucinous Adenocarcinoma, Signet Ring Cell Type))) 40.36%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40203](http://purl.obolibrary.org/obo/NCIT_C40203) (Cervical Mucinous Adenocarcinoma, Intestinal-Type))) 40.36%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40201](http://purl.obolibrary.org/obo/NCIT_C40201) (Cervical Serous Adenocarcinoma))) 40.36%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C4020](http://purl.obolibrary.org/obo/NCIT_C4020) (Fibroblastic Osteosarcoma))) 40.36%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 40.36%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 40.36%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 40.36%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 40.36%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 40.36%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 40.36%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 40.36%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 40.36%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 40.36%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 40.36%
 
 

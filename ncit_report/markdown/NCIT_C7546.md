@@ -12,14 +12,14 @@
 - [NCIT:C40557](http://purl.obolibrary.org/obo/NCIT_C40557) (Metastatic Lesion) 60.00%
 - Thing 51.79%
 - [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) 45.36%
-- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C27354](http://purl.obolibrary.org/obo/NCIT_C27354) (Recurrent Peripheral Primitive Neuroectodermal Tumor of Bone))) 45.36%
-- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C27353](http://purl.obolibrary.org/obo/NCIT_C27353) (Localized Peripheral Primitive Neuroectodermal Tumor of Bone))) 45.36%
-- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C27350](http://purl.obolibrary.org/obo/NCIT_C27350) (Myeloproliferative Neoplasm, Unclassifiable))) 45.36%
-- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C27322](http://purl.obolibrary.org/obo/NCIT_C27322) (Periampullary Adenocarcinoma))) 45.36%
-- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C27289](http://purl.obolibrary.org/obo/NCIT_C27289) (Borderline Ovarian Endometrioid Cystadenofibroma))) 45.36%
-- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C27288](http://purl.obolibrary.org/obo/NCIT_C27288) (Ovarian Endometrioid Cystadenofibroma))) 45.36%
-- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C27279](http://purl.obolibrary.org/obo/NCIT_C27279) (Localized Adrenal Gland Pheochromocytoma))) 45.36%
-- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C27264](http://purl.obolibrary.org/obo/NCIT_C27264) (Familial Atypical Mole Melanoma Syndrome))) 45.36%
-- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C27260](http://purl.obolibrary.org/obo/NCIT_C27260) (Dendritic Cell Tumor, Not Otherwise Specified))) 45.36%
+- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C24529](http://purl.obolibrary.org/obo/NCIT_C24529) (JAK2 Gene))) 45.36%
+- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C24402](http://purl.obolibrary.org/obo/NCIT_C24402) (FOXO1 Gene))) 45.36%
+- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C24378](http://purl.obolibrary.org/obo/NCIT_C24378) (ETV4 Gene))) 45.36%
+- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C24377](http://purl.obolibrary.org/obo/NCIT_C24377) (ETV1 Gene))) 45.36%
+- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C24339](http://purl.obolibrary.org/obo/NCIT_C24339) (DEK Gene))) 45.36%
+- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C24260](http://purl.obolibrary.org/obo/NCIT_C24260) (BCL6 Gene))) 45.36%
+- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C21591](http://purl.obolibrary.org/obo/NCIT_C21591) (G Protein-Coupled Receptor Signaling))) 45.36%
+- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C21571](http://purl.obolibrary.org/obo/NCIT_C21571) (RARA Gene))) 45.36%
+- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C21366](http://purl.obolibrary.org/obo/NCIT_C21366) (BMPR1A Gene))) 45.36%
 
 

@@ -9,17 +9,17 @@
 - [UBERON:0003846](http://purl.obolibrary.org/obo/UBERON_0003846) (thymus epithelium) 54.55%
 - Thing 52.66%
 - [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) 39.90%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C135564](http://purl.obolibrary.org/obo/NCIT_C135564) (Stage IV Pancreatic Neuroendocrine Tumor AJCC v8))) 39.90%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C135563](http://purl.obolibrary.org/obo/NCIT_C135563) (Stage III Pancreatic Neuroendocrine Tumor AJCC v8))) 39.90%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C135562](http://purl.obolibrary.org/obo/NCIT_C135562) (Stage II Pancreatic Neuroendocrine Tumor AJCC v8))) 39.90%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C135561](http://purl.obolibrary.org/obo/NCIT_C135561) (Stage I Pancreatic Neuroendocrine Tumor AJCC v8))) 39.90%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C135533](http://purl.obolibrary.org/obo/NCIT_C135533) (Stage IV Rectal Neuroendocrine Tumor AJCC v8))) 39.90%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C13553](http://purl.obolibrary.org/obo/NCIT_C13553) (22q))) 39.90%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C135528](http://purl.obolibrary.org/obo/NCIT_C135528) (Stage I Rectal Neuroendocrine Tumor AJCC v8))) 39.90%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C135526](http://purl.obolibrary.org/obo/NCIT_C135526) (Stage IV Colon Neuroendocrine Tumor AJCC v8))) 39.90%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C13547](http://purl.obolibrary.org/obo/NCIT_C13547) (2p))) 39.90%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C13538](http://purl.obolibrary.org/obo/NCIT_C13538) (14q))) 39.90%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C135368](http://purl.obolibrary.org/obo/NCIT_C135368) (Stage I Colon Neuroendocrine Tumor AJCC v8))) 39.90%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C135160](http://purl.obolibrary.org/obo/NCIT_C135160) (Stage IV Appendix Neuroendocrine Tumor AJCC v8))) 39.90%
+- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C14089](http://purl.obolibrary.org/obo/NCIT_C14089) (Nuclear Localization Signal))) 39.90%
+- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C14082](http://purl.obolibrary.org/obo/NCIT_C14082) (GTP Binding Domain))) 39.90%
+- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C14080](http://purl.obolibrary.org/obo/NCIT_C14080) (DAG/PE-Binding Domain))) 39.90%
+- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C14075](http://purl.obolibrary.org/obo/NCIT_C14075) (Tyrosine Kinase Domain))) 39.90%
+- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C14042](http://purl.obolibrary.org/obo/NCIT_C14042) (BRCT Domain))) 39.90%
+- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C14005](http://purl.obolibrary.org/obo/NCIT_C14005) (2p12))) 39.90%
+- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C139627](http://purl.obolibrary.org/obo/NCIT_C139627) (Stage IV Vulvar Cancer AJCC v8))) 39.90%
+- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C139623](http://purl.obolibrary.org/obo/NCIT_C139623) (Stage III Vulvar Cancer AJCC v8))) 39.90%
+- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C139622](http://purl.obolibrary.org/obo/NCIT_C139622) (Stage II Vulvar Cancer AJCC v8))) 39.90%
+- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C139619](http://purl.obolibrary.org/obo/NCIT_C139619) (Stage I Vulvar Cancer AJCC v8))) 39.90%
+- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C139548](http://purl.obolibrary.org/obo/NCIT_C139548) (Vulvar Composite Papillary Hidradenoma and Fibroadenoma))) 39.90%
+- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C139546](http://purl.obolibrary.org/obo/NCIT_C139546) (Anal Ectopic Fibroadenoma))) 39.90%
 
 

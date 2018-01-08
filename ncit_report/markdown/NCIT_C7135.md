@@ -19,7 +19,7 @@
 - [NCIT:C36105](http://purl.obolibrary.org/obo/NCIT_C36105) (Indolent Clinical Course) 51.56%
 - [NCIT:C18322](http://purl.obolibrary.org/obo/NCIT_C18322) (EWSR1 Gene) 51.56%
 - [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) 36.92%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40341](http://purl.obolibrary.org/obo/NCIT_C40341) (Hypospadias))) 36.92%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40339](http://purl.obolibrary.org/obo/NCIT_C40339) (Mesenteric Gastrointestinal Stromal Tumor))) 36.92%
+- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C39810](http://purl.obolibrary.org/obo/NCIT_C39810) (Type 2 Renal Papillary Adenoma))) 36.92%
+- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C39809](http://purl.obolibrary.org/obo/NCIT_C39809) (Type 1 Renal Papillary Adenoma))) 36.92%
 
 

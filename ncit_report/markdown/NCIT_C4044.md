@@ -2,7 +2,7 @@
 ### [NCIT:C4044](http://purl.obolibrary.org/obo/NCIT_C4044)
 **Label:** Laryngeal Squamous Cell Carcinoma
 
-**Subclasses:** [NCIT:C4945](http://purl.obolibrary.org/obo/NCIT_C4945) (Supraglottic Squamous Cell Carcinoma), [NCIT:C8239](http://purl.obolibrary.org/obo/NCIT_C8239) (Stage II Laryngeal Squamous Cell Carcinoma AJCC v6 and v7), [NCIT:C8237](http://purl.obolibrary.org/obo/NCIT_C8237) (Stage I Laryngeal Squamous Cell Carcinoma AJCC v6 and v7), [NCIT:C8245](http://purl.obolibrary.org/obo/NCIT_C8245) (Recurrent Laryngeal Squamous Cell Carcinoma), [NCIT:C8243](http://purl.obolibrary.org/obo/NCIT_C8243) (Stage IV Laryngeal Squamous Cell Carcinoma AJCC v7), [NCIT:C8186](http://purl.obolibrary.org/obo/NCIT_C8186) (Glottic Squamous Cell Carcinoma), [NCIT:C8241](http://purl.obolibrary.org/obo/NCIT_C8241) (Stage III Laryngeal Squamous Cell Carcinoma AJCC v6 and v7), [NCIT:C6121](http://purl.obolibrary.org/obo/NCIT_C6121) (Stage 0 Laryngeal Squamous Cell Carcinoma AJCC v6, v7, and v8), [NCIT:C8187](http://purl.obolibrary.org/obo/NCIT_C8187) (Subglottic Squamous Cell Carcinoma), 
+**Subclasses:** [NCIT:C4945](http://purl.obolibrary.org/obo/NCIT_C4945) (Supraglottic Squamous Cell Carcinoma), [NCIT:C8239](http://purl.obolibrary.org/obo/NCIT_C8239) (Stage II Laryngeal Squamous Cell Carcinoma AJCC v6 and v7), [NCIT:C8237](http://purl.obolibrary.org/obo/NCIT_C8237) (Stage I Laryngeal Squamous Cell Carcinoma AJCC v6 and v7), [NCIT:C8245](http://purl.obolibrary.org/obo/NCIT_C8245) (Recurrent Laryngeal Squamous Cell Carcinoma), [NCIT:C8243](http://purl.obolibrary.org/obo/NCIT_C8243) (Stage IV Laryngeal Squamous Cell Carcinoma AJCC v7), [NCIT:C8241](http://purl.obolibrary.org/obo/NCIT_C8241) (Stage III Laryngeal Squamous Cell Carcinoma AJCC v6 and v7), [NCIT:C8186](http://purl.obolibrary.org/obo/NCIT_C8186) (Glottic Squamous Cell Carcinoma), [NCIT:C6121](http://purl.obolibrary.org/obo/NCIT_C6121) (Stage 0 Laryngeal Squamous Cell Carcinoma AJCC v6, v7, and v8), [NCIT:C8187](http://purl.obolibrary.org/obo/NCIT_C8187) (Subglottic Squamous Cell Carcinoma), 
 
 **Class expressions from DL-Learner:**
 
@@ -20,6 +20,6 @@
 - [NCIT:C36482](http://purl.obolibrary.org/obo/NCIT_C36482) (Gain of Chromosome 1q) 51.52%
 - [NCIT:C36453](http://purl.obolibrary.org/obo/NCIT_C36453) (Gain of Chromosome 7q) 51.52%
 - [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) 36.87%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40147](http://purl.obolibrary.org/obo/NCIT_C40147) (Grade 2 Endometrial Endometrioid Adenocarcinoma))) 36.87%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40114](http://purl.obolibrary.org/obo/NCIT_C40114) (Fallopian Tube Serous Cystadenofibroma))) 36.87%
 
 

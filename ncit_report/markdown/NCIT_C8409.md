@@ -15,11 +15,11 @@
 - [CL:0000152](http://purl.obolibrary.org/obo/CL_0000152) (exocrine cell) 55.00%
 - Thing 52.53%
 - [UBERON:0001821](http://purl.obolibrary.org/obo/UBERON_0001821) (sebaceous gland) 40.36%
-- [UBERON:0001821](http://purl.obolibrary.org/obo/UBERON_0001821) (sebaceous gland) and (not ([NCIT:C18583](http://purl.obolibrary.org/obo/NCIT_C18583) (ATM Gene))) 40.36%
-- [UBERON:0001821](http://purl.obolibrary.org/obo/UBERON_0001821) (sebaceous gland) and (not ([NCIT:C18580](http://purl.obolibrary.org/obo/NCIT_C18580) (PTTG1 Gene))) 40.36%
-- [UBERON:0001821](http://purl.obolibrary.org/obo/UBERON_0001821) (sebaceous gland) and (not ([NCIT:C18579](http://purl.obolibrary.org/obo/NCIT_C18579) (RUNX1 Gene))) 40.36%
-- [UBERON:0001821](http://purl.obolibrary.org/obo/UBERON_0001821) (sebaceous gland) and (not ([NCIT:C18573](http://purl.obolibrary.org/obo/NCIT_C18573) (CCDC6/RET Fusion Gene))) 40.36%
-- [UBERON:0001821](http://purl.obolibrary.org/obo/UBERON_0001821) (sebaceous gland) and (not ([NCIT:C18551](http://purl.obolibrary.org/obo/NCIT_C18551) (NTRK1 Gene))) 40.36%
-- [UBERON:0001821](http://purl.obolibrary.org/obo/UBERON_0001821) (sebaceous gland) and (not ([NCIT:C18532](http://purl.obolibrary.org/obo/NCIT_C18532) (FGF4 Gene))) 40.36%
+- [UBERON:0001821](http://purl.obolibrary.org/obo/UBERON_0001821) (sebaceous gland) and (not ([NCIT:C17384](http://purl.obolibrary.org/obo/NCIT_C17384) (GTPase Nras))) 40.36%
+- [UBERON:0001821](http://purl.obolibrary.org/obo/UBERON_0001821) (sebaceous gland) and (not ([NCIT:C17383](http://purl.obolibrary.org/obo/NCIT_C17383) (GTPase KRas))) 40.36%
+- [UBERON:0001821](http://purl.obolibrary.org/obo/UBERON_0001821) (sebaceous gland) and (not ([NCIT:C17360](http://purl.obolibrary.org/obo/NCIT_C17360) (RB1 Gene))) 40.36%
+- [UBERON:0001821](http://purl.obolibrary.org/obo/UBERON_0001821) (sebaceous gland) and (not ([NCIT:C17359](http://purl.obolibrary.org/obo/NCIT_C17359) (TP53 Gene))) 40.36%
+- [UBERON:0001821](http://purl.obolibrary.org/obo/UBERON_0001821) (sebaceous gland) and (not ([NCIT:C17346](http://purl.obolibrary.org/obo/NCIT_C17346) (ABL1 Gene))) 40.36%
+- [UBERON:0001821](http://purl.obolibrary.org/obo/UBERON_0001821) (sebaceous gland) and (not ([NCIT:C17328](http://purl.obolibrary.org/obo/NCIT_C17328) (Mast/Stem Cell Growth Factor Receptor Kit))) 40.36%
 
 

@@ -11,15 +11,15 @@
 - [NCIT:C14158](http://purl.obolibrary.org/obo/NCIT_C14158) (High Grade) 51.25%
 - [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C14161](http://purl.obolibrary.org/obo/NCIT_C14161) (Low Grade))) 51.25%
 - [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40398](http://purl.obolibrary.org/obo/NCIT_C40398) (Breast Inflammatory Myofibroblastic Tumor))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40395](http://purl.obolibrary.org/obo/NCIT_C40395) (Malignant Breast Myoepithelioma))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40388](http://purl.obolibrary.org/obo/NCIT_C40388) (Periductal Breast Myoepitheliosis))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40384](http://purl.obolibrary.org/obo/NCIT_C40384) (Breast Ductal Adenoma))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40383](http://purl.obolibrary.org/obo/NCIT_C40383) (Breast Apocrine Adenoma))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40379](http://purl.obolibrary.org/obo/NCIT_C40379) (Angiosarcoma of the Skin of the Arm after Radical Mastectomy followed by Lymphedema))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40378](http://purl.obolibrary.org/obo/NCIT_C40378) (Post-Radiotherapy Breast Angiosarcoma))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40377](http://purl.obolibrary.org/obo/NCIT_C40377) (Breast Follicular Lymphoma))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40376](http://purl.obolibrary.org/obo/NCIT_C40376) (Breast Burkitt Lymphoma))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40375](http://purl.obolibrary.org/obo/NCIT_C40375) (Breast Diffuse Large B-Cell Lymphoma))) 36.61%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C37136](http://purl.obolibrary.org/obo/NCIT_C37136) (Anaplastic Astrocyte))) 36.61%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C37135](http://purl.obolibrary.org/obo/NCIT_C37135) (Neoplastic Astrocyte with Few Flaccid Processes))) 36.61%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C37132](http://purl.obolibrary.org/obo/NCIT_C37132) (Gemistocytic Neoplastic Astrocyte))) 36.61%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C37129](http://purl.obolibrary.org/obo/NCIT_C37129) (Fibrillary Neoplastic Astrocyte))) 36.61%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C37115](http://purl.obolibrary.org/obo/NCIT_C37115) (Serous Adenocarcinoma Cell))) 36.61%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C37108](http://purl.obolibrary.org/obo/NCIT_C37108) (Adenocarcinoma Spindle Cell))) 36.61%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C37091](http://purl.obolibrary.org/obo/NCIT_C37091) (Vacuolated Endothelial Cell))) 36.61%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C37085](http://purl.obolibrary.org/obo/NCIT_C37085) (Undifferentiated Carcinoma Cell))) 36.61%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C37084](http://purl.obolibrary.org/obo/NCIT_C37084) (Hyperchromatic Spindle Cell))) 36.61%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C37078](http://purl.obolibrary.org/obo/NCIT_C37078) (Pseudo-Gaucher Cell))) 36.61%
 
 

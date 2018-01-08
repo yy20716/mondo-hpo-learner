@@ -18,8 +18,8 @@
 - [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C17060](http://purl.obolibrary.org/obo/NCIT_C17060) (HRAS Gene))) 36.97%
 - [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) 30.48%
 - [NCIT:C18437](http://purl.obolibrary.org/obo/NCIT_C18437) (G Protein Gene) 30.48%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C40150](http://purl.obolibrary.org/obo/NCIT_C40150) (Grade 2 Endometrial Mucinous Adenocarcinoma))) 30.48%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C40149](http://purl.obolibrary.org/obo/NCIT_C40149) (Grade 1 Endometrial Mucinous Adenocarcinoma))) 30.48%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C40148](http://purl.obolibrary.org/obo/NCIT_C40148) (Grade 3 Endometrial Endometrioid Adenocarcinoma))) 30.48%
+- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C40223](http://purl.obolibrary.org/obo/NCIT_C40223) (Uterine Corpus Low Grade Endometrial Stromal Sarcoma))) 30.48%
+- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C40222](http://purl.obolibrary.org/obo/NCIT_C40222) (Low Grade Endometrioid Stromal Sarcoma of the Cervix))) 30.48%
+- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C40215](http://purl.obolibrary.org/obo/NCIT_C40215) (Cervical Mullerian Papilloma))) 30.48%
 
 

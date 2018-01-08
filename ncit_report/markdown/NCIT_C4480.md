@@ -13,13 +13,13 @@
 - Thing 52.77%
 - [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 41.76%
 - [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) 39.96%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C35931](http://purl.obolibrary.org/obo/NCIT_C35931) (Honeycomb Pattern))) 39.96%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C3593](http://purl.obolibrary.org/obo/NCIT_C3593) (Benign Floor of the Mouth Neoplasm))) 39.96%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C35928](http://purl.obolibrary.org/obo/NCIT_C35928) (Triphasic Pattern))) 39.96%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C35927](http://purl.obolibrary.org/obo/NCIT_C35927) (Syncytial Pattern))) 39.96%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C35926](http://purl.obolibrary.org/obo/NCIT_C35926) (Glomeruloid Vessels Present))) 39.96%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C35925](http://purl.obolibrary.org/obo/NCIT_C35925) (Tubular Pattern))) 39.96%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C35922](http://purl.obolibrary.org/obo/NCIT_C35922) (Acinar Pattern))) 39.96%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C35921](http://purl.obolibrary.org/obo/NCIT_C35921) (Pseudoglandular Pattern))) 39.96%
+- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C36252](http://purl.obolibrary.org/obo/NCIT_C36252) (Ineffective Hematopoiesis))) 39.96%
+- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C36250](http://purl.obolibrary.org/obo/NCIT_C36250) (Auer Rods Present))) 39.96%
+- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C36246](http://purl.obolibrary.org/obo/NCIT_C36246) (Megakaryoblasts 50 Percent or More of Bone Marrow Nucleated Cells))) 39.96%
+- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C36243](http://purl.obolibrary.org/obo/NCIT_C36243) (Erythroid Precursors 50 Percent or More of Bone Marrow Nucleated Cells))) 39.96%
+- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C36242](http://purl.obolibrary.org/obo/NCIT_C36242) (Neoplastic Promonocytes in Bone Marrow Markedly Increased))) 39.96%
+- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C36241](http://purl.obolibrary.org/obo/NCIT_C36241) (Monoblasts 80 Percent or More of Bone Marrow Monocytic Cells))) 39.96%
+- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C36239](http://purl.obolibrary.org/obo/NCIT_C36239) (Neoplastic Monocytes and Precursors 20 Percent or More of Bone Marrow Cells))) 39.96%
+- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C36238](http://purl.obolibrary.org/obo/NCIT_C36238) (Promyelocytes, Myelocytes, and Mature Neutrophils 10 Percent or More of Bone Marrow Cells))) 39.96%
 
 

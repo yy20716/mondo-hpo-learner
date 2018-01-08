@@ -15,11 +15,11 @@
 - [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and [CL:1000600](http://purl.obolibrary.org/obo/CL_1000600) (lower urinary tract cell) 52.00%
 - [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) 44.82%
 - [CL:0000244](http://purl.obolibrary.org/obo/CL_0000244) (transitional epithelial cell) 44.82%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40168](http://purl.obolibrary.org/obo/NCIT_C40168) (Uterine Corpus Lipoleiomyoma))) 44.82%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40167](http://purl.obolibrary.org/obo/NCIT_C40167) (Uterine Corpus Bizarre Leiomyoma))) 44.82%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40166](http://purl.obolibrary.org/obo/NCIT_C40166) (Uterine Corpus Myxoid Leiomyoma))) 44.82%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40165](http://purl.obolibrary.org/obo/NCIT_C40165) (Uterine Corpus Apoplectic Leiomyoma))) 44.82%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40164](http://purl.obolibrary.org/obo/NCIT_C40164) (Uterine Corpus Epithelioid Leiomyoma))) 44.82%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40163](http://purl.obolibrary.org/obo/NCIT_C40163) (Uterine Corpus Cellular Leiomyoma))) 44.82%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40116](http://purl.obolibrary.org/obo/NCIT_C40116) (Fallopian Tube Metaplastic Papillary Tumor))) 44.82%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40114](http://purl.obolibrary.org/obo/NCIT_C40114) (Fallopian Tube Serous Cystadenofibroma))) 44.82%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40112](http://purl.obolibrary.org/obo/NCIT_C40112) (Fallopian Tube Papilloma))) 44.82%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40110](http://purl.obolibrary.org/obo/NCIT_C40110) (Borderline Fallopian Tube Endometrioid Tumor))) 44.82%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 44.82%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 44.82%
 
 

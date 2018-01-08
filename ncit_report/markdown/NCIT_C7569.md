@@ -9,17 +9,17 @@
 - [UBERON:0003846](http://purl.obolibrary.org/obo/UBERON_0003846) (thymus epithelium) 53.33%
 - Thing 53.10%
 - [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) 38.69%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C138024](http://purl.obolibrary.org/obo/NCIT_C138024) (Refractory Breast Lymphoma))) 38.69%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C138023](http://purl.obolibrary.org/obo/NCIT_C138023) (Recurrent Breast Lymphoma))) 38.69%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C138022](http://purl.obolibrary.org/obo/NCIT_C138022) (Refractory Testicular Lymphoma))) 38.69%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C138021](http://purl.obolibrary.org/obo/NCIT_C138021) (Recurrent Testicular Lymphoma))) 38.69%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C138020](http://purl.obolibrary.org/obo/NCIT_C138020) (Refractory Central Nervous System Lymphoma))) 38.69%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C138019](http://purl.obolibrary.org/obo/NCIT_C138019) (Recurrent Central Nervous System Lymphoma))) 38.69%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C138014](http://purl.obolibrary.org/obo/NCIT_C138014) (Refractory B-Cell Lymphoma, Unclassifiable, with Features Intermediate between Diffuse Large B-Cell Lymphoma and Classical Hodgkin Lymphoma))) 38.69%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C138013](http://purl.obolibrary.org/obo/NCIT_C138013) (Recurrent B-Cell Lymphoma, Unclassifiable, with Features Intermediate between Diffuse Large B-Cell Lymphoma and Classical Hodgkin Lymphoma))) 38.69%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C137862](http://purl.obolibrary.org/obo/NCIT_C137862) (Refractory Pancreatic Neuroendocrine Carcinoma))) 38.69%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C137857](http://purl.obolibrary.org/obo/NCIT_C137857) (Refractory Anal Carcinoma))) 38.69%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C137839](http://purl.obolibrary.org/obo/NCIT_C137839) (Pleomorphic Lobular Breast Carcinoma In Situ))) 38.69%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C137645](http://purl.obolibrary.org/obo/NCIT_C137645) (Cutaneous Melanoma by AJCC v8 Stage))) 38.69%
+- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C18412](http://purl.obolibrary.org/obo/NCIT_C18412) (FGF6 Gene))) 38.69%
+- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C18410](http://purl.obolibrary.org/obo/NCIT_C18410) (MYBL1 Gene))) 38.69%
+- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C18405](http://purl.obolibrary.org/obo/NCIT_C18405) (MYCN Gene))) 38.69%
+- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C18394](http://purl.obolibrary.org/obo/NCIT_C18394) (SMARCB1 Gene))) 38.69%
+- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C18392](http://purl.obolibrary.org/obo/NCIT_C18392) (MECOM Gene))) 38.69%
+- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C18371](http://purl.obolibrary.org/obo/NCIT_C18371) (CDKN1C Gene))) 38.69%
+- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C18363](http://purl.obolibrary.org/obo/NCIT_C18363) (BRAF Gene))) 38.69%
+- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C18360](http://purl.obolibrary.org/obo/NCIT_C18360) (BCL3 Gene))) 38.69%
+- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C18352](http://purl.obolibrary.org/obo/NCIT_C18352) (AKT2 Gene))) 38.69%
+- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C18345](http://purl.obolibrary.org/obo/NCIT_C18345) (MDM2 Gene))) 38.69%
+- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C18325](http://purl.obolibrary.org/obo/NCIT_C18325) (MET Gene))) 38.69%
+- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C18322](http://purl.obolibrary.org/obo/NCIT_C18322) (EWSR1 Gene))) 38.69%
 
 

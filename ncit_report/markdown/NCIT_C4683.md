@@ -13,13 +13,13 @@
 - [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) 31.65%
 - [NCIT:C36954](http://purl.obolibrary.org/obo/NCIT_C36954) (Neoplastic Connective and Soft Tissue Spindle Cell) and [NCIT:C48682](http://purl.obolibrary.org/obo/NCIT_C48682) (Neoplastic Fibroblast) 31.65%
 - [NCIT:C36823](http://purl.obolibrary.org/obo/NCIT_C36823) (Neoplastic Spindle Cell) and [NCIT:C48682](http://purl.obolibrary.org/obo/NCIT_C48682) (Neoplastic Fibroblast) 31.65%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40164](http://purl.obolibrary.org/obo/NCIT_C40164) (Uterine Corpus Epithelioid Leiomyoma))) 31.65%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40163](http://purl.obolibrary.org/obo/NCIT_C40163) (Uterine Corpus Cellular Leiomyoma))) 31.65%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40162](http://purl.obolibrary.org/obo/NCIT_C40162) (Uterine Corpus Leiomyoma, Mitotically Active Variant))) 31.65%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40161](http://purl.obolibrary.org/obo/NCIT_C40161) (JAZF1-SUZ12 Fusion Protein Expression))) 31.65%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40160](http://purl.obolibrary.org/obo/NCIT_C40160) (t(7;17)(p15;q21)))) 31.65%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40156](http://purl.obolibrary.org/obo/NCIT_C40156) (Endometrial Undifferentiated Carcinoma))) 31.65%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40155](http://purl.obolibrary.org/obo/NCIT_C40155) (Endometrial Small Cell Carcinoma))) 31.65%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40154](http://purl.obolibrary.org/obo/NCIT_C40154) (Endometrial Transitional Cell Carcinoma))) 31.65%
+- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40271](http://purl.obolibrary.org/obo/NCIT_C40271) (Low Grade Endometrioid Stromal Sarcoma of the Vagina))) 31.65%
+- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C4027](http://purl.obolibrary.org/obo/NCIT_C4027) (Paget Disease of the Vulva))) 31.65%
+- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40264](http://purl.obolibrary.org/obo/NCIT_C40264) (Vaginal Undifferentiated Carcinoma))) 31.65%
+- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40263](http://purl.obolibrary.org/obo/NCIT_C40263) (Vaginal Small Cell Carcinoma))) 31.65%
+- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40261](http://purl.obolibrary.org/obo/NCIT_C40261) (Vaginal Adenoid Cystic Carcinoma))) 31.65%
+- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40260](http://purl.obolibrary.org/obo/NCIT_C40260) (Vaginal Adenosquamous Carcinoma))) 31.65%
+- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C4026](http://purl.obolibrary.org/obo/NCIT_C4026) (Ovarian Mucinous Cystadenocarcinoma))) 31.65%
+- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40259](http://purl.obolibrary.org/obo/NCIT_C40259) (Vaginal Villous Adenoma))) 31.65%
 
 

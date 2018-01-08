@@ -17,9 +17,9 @@
 - [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C49075](http://purl.obolibrary.org/obo/NCIT_C49075) (Neoplastic Spindle-Shaped Fibrohistiocytic Cell) 52.63%
 - [NCIT:C49075](http://purl.obolibrary.org/obo/NCIT_C49075) (Neoplastic Spindle-Shaped Fibrohistiocytic Cell) 37.99%
 - [NCIT:C49062](http://purl.obolibrary.org/obo/NCIT_C49062) (Malignant Fibrohistiocytic Cell) 37.99%
-- [NCIT:C49075](http://purl.obolibrary.org/obo/NCIT_C49075) (Neoplastic Spindle-Shaped Fibrohistiocytic Cell) and (not ([NCIT:C40141](http://purl.obolibrary.org/obo/NCIT_C40141) (Wolffian Adnexal Tumor))) 37.99%
-- [NCIT:C49075](http://purl.obolibrary.org/obo/NCIT_C49075) (Neoplastic Spindle-Shaped Fibrohistiocytic Cell) and (not ([NCIT:C40139](http://purl.obolibrary.org/obo/NCIT_C40139) (Uterine Ligament Clear Cell Adenocarcinoma))) 37.99%
-- [NCIT:C49075](http://purl.obolibrary.org/obo/NCIT_C49075) (Neoplastic Spindle-Shaped Fibrohistiocytic Cell) and (not ([NCIT:C40138](http://purl.obolibrary.org/obo/NCIT_C40138) (Uterine Ligament Endometrioid Adenocarcinoma))) 37.99%
-- [NCIT:C49075](http://purl.obolibrary.org/obo/NCIT_C49075) (Neoplastic Spindle-Shaped Fibrohistiocytic Cell) and (not ([NCIT:C40137](http://purl.obolibrary.org/obo/NCIT_C40137) (Uterine Ligament Mucinous Adenocarcinoma))) 37.99%
+- [NCIT:C49075](http://purl.obolibrary.org/obo/NCIT_C49075) (Neoplastic Spindle-Shaped Fibrohistiocytic Cell) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 37.99%
+- [NCIT:C49075](http://purl.obolibrary.org/obo/NCIT_C49075) (Neoplastic Spindle-Shaped Fibrohistiocytic Cell) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 37.99%
+- [NCIT:C49075](http://purl.obolibrary.org/obo/NCIT_C49075) (Neoplastic Spindle-Shaped Fibrohistiocytic Cell) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 37.99%
+- [NCIT:C49075](http://purl.obolibrary.org/obo/NCIT_C49075) (Neoplastic Spindle-Shaped Fibrohistiocytic Cell) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 37.99%
 
 

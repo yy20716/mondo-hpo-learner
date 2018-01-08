@@ -9,17 +9,17 @@
 - Thing 53.20%
 - [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C32542](http://purl.obolibrary.org/obo/NCIT_C32542) (Esophageal Squamous Cell))) 53.12%
 - [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) 38.48%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39618](http://purl.obolibrary.org/obo/NCIT_C39618) (Subcutaneous Nodule))) 38.48%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39617](http://purl.obolibrary.org/obo/NCIT_C39617) (Subcutaneous Involvement))) 38.48%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39616](http://purl.obolibrary.org/obo/NCIT_C39616) (Karyorrhexis))) 38.48%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39615](http://purl.obolibrary.org/obo/NCIT_C39615) (Sinusoidal Infiltration))) 38.48%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39609](http://purl.obolibrary.org/obo/NCIT_C39609) (Activated Natural Killer Cell))) 38.48%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39608](http://purl.obolibrary.org/obo/NCIT_C39608) (Coagulative Necrosis))) 38.48%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39602](http://purl.obolibrary.org/obo/NCIT_C39602) (Pleomorphic Medium-Sized to Large T-Lymphocyte))) 38.48%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39600](http://purl.obolibrary.org/obo/NCIT_C39600) (Neoplastic Medium-Sized T-Lymphocyte))) 38.48%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39598](http://purl.obolibrary.org/obo/NCIT_C39598) (CEBPA Gene))) 38.48%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39597](http://purl.obolibrary.org/obo/NCIT_C39597) (PRKCB Gene))) 38.48%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39596](http://purl.obolibrary.org/obo/NCIT_C39596) (CCND2 Gene))) 38.48%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39594](http://purl.obolibrary.org/obo/NCIT_C39594) (Skin Rash))) 38.48%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C38721](http://purl.obolibrary.org/obo/NCIT_C38721) (Nuclear Pleomorphism))) 38.48%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C38710](http://purl.obolibrary.org/obo/NCIT_C38710) (Defective Gamma Heavy Chain Present))) 38.48%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C3870](http://purl.obolibrary.org/obo/NCIT_C3870) (Lymphangitic Carcinomatosis))) 38.48%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C38698](http://purl.obolibrary.org/obo/NCIT_C38698) (Hyperviscosity))) 38.48%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C38674](http://purl.obolibrary.org/obo/NCIT_C38674) (Widespread Disease))) 38.48%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C38667](http://purl.obolibrary.org/obo/NCIT_C38667) (Polymorphic Cellular Infiltrate))) 38.48%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C38666](http://purl.obolibrary.org/obo/NCIT_C38666) (Monomorphic Cellular Infiltrate))) 38.48%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C38665](http://purl.obolibrary.org/obo/NCIT_C38665) (Chest Pain))) 38.48%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C38661](http://purl.obolibrary.org/obo/NCIT_C38661) (Composite Lymphoma))) 38.48%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C38660](http://purl.obolibrary.org/obo/NCIT_C38660) (Neoplastic Large B-Lymphocyte with Pale Cytoplasm))) 38.48%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C3866](http://purl.obolibrary.org/obo/NCIT_C3866) (Esophageal Leiomyoma))) 38.48%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C38658](http://purl.obolibrary.org/obo/NCIT_C38658) (Transformed Peripheral B-Lymphocyte))) 38.48%
 
 

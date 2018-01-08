@@ -13,13 +13,13 @@
 - [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) 32.44%
 - [NCIT:C36954](http://purl.obolibrary.org/obo/NCIT_C36954) (Neoplastic Connective and Soft Tissue Spindle Cell) and [NCIT:C48682](http://purl.obolibrary.org/obo/NCIT_C48682) (Neoplastic Fibroblast) 32.44%
 - [NCIT:C36823](http://purl.obolibrary.org/obo/NCIT_C36823) (Neoplastic Spindle Cell) and [NCIT:C48682](http://purl.obolibrary.org/obo/NCIT_C48682) (Neoplastic Fibroblast) 32.44%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C39253](http://purl.obolibrary.org/obo/NCIT_C39253) (Interferon Signaling Modulation Pathway))) 32.44%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C39250](http://purl.obolibrary.org/obo/NCIT_C39250) (Mucosal Healing Pathway))) 32.44%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C39247](http://purl.obolibrary.org/obo/NCIT_C39247) (Telomere Pathway))) 32.44%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C39246](http://purl.obolibrary.org/obo/NCIT_C39246) (T Cell Receptor Signaling Pathway BioCarta))) 32.44%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C39236](http://purl.obolibrary.org/obo/NCIT_C39236) (Sprouty Regulation of Tyrosine Kinase Signaling Pathway))) 32.44%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C39217](http://purl.obolibrary.org/obo/NCIT_C39217) (Ras Signaling Pathway))) 32.44%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C39208](http://purl.obolibrary.org/obo/NCIT_C39208) (Rac1 Cell Motility Signaling Pathway))) 32.44%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C39197](http://purl.obolibrary.org/obo/NCIT_C39197) (PPAR-alpha Gene Regulation Pathway))) 32.44%
+- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40224](http://purl.obolibrary.org/obo/NCIT_C40224) (Undifferentiated Endocervical Sarcoma))) 32.44%
+- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40223](http://purl.obolibrary.org/obo/NCIT_C40223) (Uterine Corpus Low Grade Endometrial Stromal Sarcoma))) 32.44%
+- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40222](http://purl.obolibrary.org/obo/NCIT_C40222) (Low Grade Endometrioid Stromal Sarcoma of the Cervix))) 32.44%
+- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40215](http://purl.obolibrary.org/obo/NCIT_C40215) (Cervical Mullerian Papilloma))) 32.44%
+- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40214](http://purl.obolibrary.org/obo/NCIT_C40214) (Cervical Large Cell Neuroendocrine Carcinoma))) 32.44%
+- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C4021](http://purl.obolibrary.org/obo/NCIT_C4021) (Chondroblastic Osteosarcoma))) 32.44%
+- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40209](http://purl.obolibrary.org/obo/NCIT_C40209) (Cervical Glandular Dysplasia))) 32.44%
+- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40208](http://purl.obolibrary.org/obo/NCIT_C40208) (Cervical Villoglandular Adenocarcinoma))) 32.44%
 
 

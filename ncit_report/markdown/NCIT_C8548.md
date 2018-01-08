@@ -2,7 +2,7 @@
 ### [NCIT:C8548](http://purl.obolibrary.org/obo/NCIT_C8548)
 **Label:** Benign Cerebral Neoplasm
 
-**Subclasses:** [NCIT:C6219](http://purl.obolibrary.org/obo/NCIT_C6219) (Benign Childhood Cerebral Neoplasm), [NCIT:C6218](http://purl.obolibrary.org/obo/NCIT_C6218) (Benign Adult Cerebral Neoplasm), [NCIT:C5433](http://purl.obolibrary.org/obo/NCIT_C5433) (Cerebral Hemangioma), [NCIT:C9476](http://purl.obolibrary.org/obo/NCIT_C9476) (Desmoplastic Infantile Astrocytoma), [NCIT:C4738](http://purl.obolibrary.org/obo/NCIT_C4738) (Desmoplastic Infantile Ganglioglioma), [NCIT:C6220](http://purl.obolibrary.org/obo/NCIT_C6220) (Cerebral Hemisphere Lipoma), 
+**Subclasses:** [NCIT:C6219](http://purl.obolibrary.org/obo/NCIT_C6219) (Benign Childhood Cerebral Neoplasm), [NCIT:C6218](http://purl.obolibrary.org/obo/NCIT_C6218) (Benign Adult Cerebral Neoplasm), [NCIT:C5433](http://purl.obolibrary.org/obo/NCIT_C5433) (Cerebral Hemangioma), [NCIT:C4738](http://purl.obolibrary.org/obo/NCIT_C4738) (Desmoplastic Infantile Ganglioglioma), [NCIT:C9476](http://purl.obolibrary.org/obo/NCIT_C9476) (Desmoplastic Infantile Astrocytoma), [NCIT:C6220](http://purl.obolibrary.org/obo/NCIT_C6220) (Cerebral Hemisphere Lipoma), 
 
 **Class expressions from DL-Learner:**
 

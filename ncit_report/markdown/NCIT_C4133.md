@@ -11,15 +11,15 @@
 - [NCIT:C35925](http://purl.obolibrary.org/obo/NCIT_C35925) (Tubular Pattern) 53.85%
 - Thing 52.89%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37214](http://purl.obolibrary.org/obo/NCIT_C37214) (Colloid Carcinoma of the Pancreas))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37212](http://purl.obolibrary.org/obo/NCIT_C37212) (Solid Pseudopapillary Neoplasm of the Pancreas))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37209](http://purl.obolibrary.org/obo/NCIT_C37209) (Diffuse Blastoid B-Cell Lymphoma))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37208](http://purl.obolibrary.org/obo/NCIT_C37208) (Rearrangement of 2p23))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37207](http://purl.obolibrary.org/obo/NCIT_C37207) (ZAP70 Messenger RNA Overexpression))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37206](http://purl.obolibrary.org/obo/NCIT_C37206) (Small Lymphocytic Lymphoma with Unmutated Immunoglobulin Heavy Chain Variable-Region Gene))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37205](http://purl.obolibrary.org/obo/NCIT_C37205) (Chronic Lymphocytic Leukemia with Unmutated Immunoglobulin Heavy Chain Variable-Region Gene))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37203](http://purl.obolibrary.org/obo/NCIT_C37203) (Small Lymphocytic Lymphoma with Immunoglobulin Heavy Chain Variable-Region Gene Somatic Hypermutation))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37202](http://purl.obolibrary.org/obo/NCIT_C37202) (Chronic Lymphocytic Leukemia with Immunoglobulin Heavy Chain Variable-Region Gene Somatic Hypermutation))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37196](http://purl.obolibrary.org/obo/NCIT_C37196) (Primary Systemic Anaplastic Large Cell Lymphoma, ALK-Negative))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38391](http://purl.obolibrary.org/obo/NCIT_C38391) (KMT2A-ENL Fusion Protein Expression))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38390](http://purl.obolibrary.org/obo/NCIT_C38390) (MLLT3-KMT2A Fusion Protein Expression))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38387](http://purl.obolibrary.org/obo/NCIT_C38387) (KMT2A-AF10 Fusion Protein Expression))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38386](http://purl.obolibrary.org/obo/NCIT_C38386) (del(20)(q11)))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38385](http://purl.obolibrary.org/obo/NCIT_C38385) (del(7)(q11;q36)))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38379](http://purl.obolibrary.org/obo/NCIT_C38379) (STAT5B-RARA Fusion Protein Expression))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38378](http://purl.obolibrary.org/obo/NCIT_C38378) (t(17;17)(q21;q21)))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38377](http://purl.obolibrary.org/obo/NCIT_C38377) (Acute Myeloid Leukemia with t(17;17)(q21;q21)))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38373](http://purl.obolibrary.org/obo/NCIT_C38373) (RBM15-MKL1 Fusion Protein Expression))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38372](http://purl.obolibrary.org/obo/NCIT_C38372) (CEBPA Gene Mutation))) 39.20%
 
 

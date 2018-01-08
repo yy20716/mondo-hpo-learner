@@ -17,9 +17,9 @@
 - [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36794](http://purl.obolibrary.org/obo/NCIT_C36794) (Dysplastic Glandular Cell) and [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 57.14%
 - Thing 52.12%
 - [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 42.50%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36974](http://purl.obolibrary.org/obo/NCIT_C36974) (Pleomorphic Lipoblast))) 42.50%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36973](http://purl.obolibrary.org/obo/NCIT_C36973) (Multivacuolated Lipoblast))) 42.50%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36972](http://purl.obolibrary.org/obo/NCIT_C36972) (Monovacuolated Lipoblast))) 42.50%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36966](http://purl.obolibrary.org/obo/NCIT_C36966) (Malignant Glomus Cell))) 42.50%
+- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C37001](http://purl.obolibrary.org/obo/NCIT_C37001) (Centrocyte-Like Cell))) 42.50%
+- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C37000](http://purl.obolibrary.org/obo/NCIT_C37000) (Lymphoplasmacytoid Cell))) 42.50%
+- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36991](http://purl.obolibrary.org/obo/NCIT_C36991) (Neoplastic Small to Medium-Sized B-Lymphocyte with Pale Cytoplasm))) 42.50%
+- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36985](http://purl.obolibrary.org/obo/NCIT_C36985) (Neoplastic Chondroblast))) 42.50%
 
 

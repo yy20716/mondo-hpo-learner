@@ -8,18 +8,18 @@
 
 - Thing 53.75%
 - [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) 37.63%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39071](http://purl.obolibrary.org/obo/NCIT_C39071) (Neuronal Survival Pathway))) 37.63%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39069](http://purl.obolibrary.org/obo/NCIT_C39069) (ErbB3 Receptor Recycling Pathway))) 37.63%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39067](http://purl.obolibrary.org/obo/NCIT_C39067) (EPO Signaling Pathway))) 37.63%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39066](http://purl.obolibrary.org/obo/NCIT_C39066) (Erythropoietin Neuroprotection Pathway))) 37.63%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39059](http://purl.obolibrary.org/obo/NCIT_C39059) (Map Kinase Inactivation of SMRT Corepressor Pathway))) 37.63%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39058](http://purl.obolibrary.org/obo/NCIT_C39058) (EGF Signaling Pathway))) 37.63%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39056](http://purl.obolibrary.org/obo/NCIT_C39056) (Vesicle Transport Pathway))) 37.63%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39055](http://purl.obolibrary.org/obo/NCIT_C39055) (Phospholipid Signaling Pathway))) 37.63%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39054](http://purl.obolibrary.org/obo/NCIT_C39054) (Extracellular Matrix Binding Pathway))) 37.63%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39040](http://purl.obolibrary.org/obo/NCIT_C39040) (CTCF Pathway))) 37.63%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39021](http://purl.obolibrary.org/obo/NCIT_C39021) (Cell Migration Pathway))) 37.63%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39016](http://purl.obolibrary.org/obo/NCIT_C39016) (EGF Receptor Downregulation by CBL Pathway))) 37.63%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39013](http://purl.obolibrary.org/obo/NCIT_C39013) (Estrogen Receptor Regulation by CARM1 Pathway))) 37.63%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40272](http://purl.obolibrary.org/obo/NCIT_C40272) (Vaginal Undifferentiated Sarcoma))) 37.63%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40271](http://purl.obolibrary.org/obo/NCIT_C40271) (Low Grade Endometrioid Stromal Sarcoma of the Vagina))) 37.63%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C4027](http://purl.obolibrary.org/obo/NCIT_C4027) (Paget Disease of the Vulva))) 37.63%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40264](http://purl.obolibrary.org/obo/NCIT_C40264) (Vaginal Undifferentiated Carcinoma))) 37.63%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40263](http://purl.obolibrary.org/obo/NCIT_C40263) (Vaginal Small Cell Carcinoma))) 37.63%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40261](http://purl.obolibrary.org/obo/NCIT_C40261) (Vaginal Adenoid Cystic Carcinoma))) 37.63%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40260](http://purl.obolibrary.org/obo/NCIT_C40260) (Vaginal Adenosquamous Carcinoma))) 37.63%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C4026](http://purl.obolibrary.org/obo/NCIT_C4026) (Ovarian Mucinous Cystadenocarcinoma))) 37.63%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40259](http://purl.obolibrary.org/obo/NCIT_C40259) (Vaginal Villous Adenoma))) 37.63%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40258](http://purl.obolibrary.org/obo/NCIT_C40258) (Vaginal Tubulovillous Adenoma))) 37.63%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40257](http://purl.obolibrary.org/obo/NCIT_C40257) (Vaginal Tubular Adenoma))) 37.63%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40255](http://purl.obolibrary.org/obo/NCIT_C40255) (Vaginal Mullerian Papilloma))) 37.63%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40252](http://purl.obolibrary.org/obo/NCIT_C40252) (Vaginal Mucinous Adenocarcinoma))) 37.63%
 
 

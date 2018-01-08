@@ -8,18 +8,18 @@
 
 - Thing 52.77%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C35907](http://purl.obolibrary.org/obo/NCIT_C35907) (Biphasic Pattern))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C35906](http://purl.obolibrary.org/obo/NCIT_C35906) (Angiodestructive Pattern))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C35905](http://purl.obolibrary.org/obo/NCIT_C35905) (Angiocentric Pattern))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C35904](http://purl.obolibrary.org/obo/NCIT_C35904) (Nodular and Diffuse Pattern))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C35903](http://purl.obolibrary.org/obo/NCIT_C35903) (Diffuse Pattern))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C35902](http://purl.obolibrary.org/obo/NCIT_C35902) (Interfollicular Pattern))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C35900](http://purl.obolibrary.org/obo/NCIT_C35900) (Multinodular Pattern))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C35898](http://purl.obolibrary.org/obo/NCIT_C35898) (Vertical Growth Phase))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C35897](http://purl.obolibrary.org/obo/NCIT_C35897) (Radial Growth Phase))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C35894](http://purl.obolibrary.org/obo/NCIT_C35894) (Junctional Proliferation))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C35893](http://purl.obolibrary.org/obo/NCIT_C35893) (Pagetoid Proliferation))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C35891](http://purl.obolibrary.org/obo/NCIT_C35891) (Lobulated Growth Pattern))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C35889](http://purl.obolibrary.org/obo/NCIT_C35889) (Whorling Growth Pattern))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39616](http://purl.obolibrary.org/obo/NCIT_C39616) (Karyorrhexis))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39615](http://purl.obolibrary.org/obo/NCIT_C39615) (Sinusoidal Infiltration))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39609](http://purl.obolibrary.org/obo/NCIT_C39609) (Activated Natural Killer Cell))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39608](http://purl.obolibrary.org/obo/NCIT_C39608) (Coagulative Necrosis))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39602](http://purl.obolibrary.org/obo/NCIT_C39602) (Pleomorphic Medium-Sized to Large T-Lymphocyte))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39600](http://purl.obolibrary.org/obo/NCIT_C39600) (Neoplastic Medium-Sized T-Lymphocyte))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39598](http://purl.obolibrary.org/obo/NCIT_C39598) (CEBPA Gene))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39597](http://purl.obolibrary.org/obo/NCIT_C39597) (PRKCB Gene))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39596](http://purl.obolibrary.org/obo/NCIT_C39596) (CCND2 Gene))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39594](http://purl.obolibrary.org/obo/NCIT_C39594) (Skin Rash))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39593](http://purl.obolibrary.org/obo/NCIT_C39593) (Peripheral Blood Involvement))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39589](http://purl.obolibrary.org/obo/NCIT_C39589) (Angioinvasion))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39588](http://purl.obolibrary.org/obo/NCIT_C39588) (Serum Soluble Fas Ligand Level Increased))) 39.52%
 
 

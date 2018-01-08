@@ -11,15 +11,15 @@
 - [NCIT:C14161](http://purl.obolibrary.org/obo/NCIT_C14161) (Low Grade) 53.12%
 - [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C14158](http://purl.obolibrary.org/obo/NCIT_C14158) (High Grade))) 53.12%
 - [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) 38.48%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40378](http://purl.obolibrary.org/obo/NCIT_C40378) (Post-Radiotherapy Breast Angiosarcoma))) 38.48%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40377](http://purl.obolibrary.org/obo/NCIT_C40377) (Breast Follicular Lymphoma))) 38.48%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40376](http://purl.obolibrary.org/obo/NCIT_C40376) (Breast Burkitt Lymphoma))) 38.48%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40375](http://purl.obolibrary.org/obo/NCIT_C40375) (Breast Diffuse Large B-Cell Lymphoma))) 38.48%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C4037](http://purl.obolibrary.org/obo/NCIT_C4037) (Acute Myeloid Leukemia Arising from Previous Myelodysplastic Syndrome))) 38.48%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40369](http://purl.obolibrary.org/obo/NCIT_C40369) (Sebaceous Breast Carcinoma))) 38.48%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40367](http://purl.obolibrary.org/obo/NCIT_C40367) (Acinic Cell Breast Carcinoma))) 38.48%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40366](http://purl.obolibrary.org/obo/NCIT_C40366) (Oncocytic Breast Carcinoma))) 38.48%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40363](http://purl.obolibrary.org/obo/NCIT_C40363) (Nipple Syringomatous Adenoma))) 38.48%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40362](http://purl.obolibrary.org/obo/NCIT_C40362) (Low Grade Adenosquamous Breast Carcinoma))) 38.48%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40320](http://purl.obolibrary.org/obo/NCIT_C40320) (Vulvar Alveolar Soft Part Sarcoma))) 38.48%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40318](http://purl.obolibrary.org/obo/NCIT_C40318) (Vulvar Leiomyosarcoma))) 38.48%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40314](http://purl.obolibrary.org/obo/NCIT_C40314) (Vulvar Trichoepithelioma))) 38.48%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40312](http://purl.obolibrary.org/obo/NCIT_C40312) (Vulvar Nodular Hidradenoma))) 38.48%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40311](http://purl.obolibrary.org/obo/NCIT_C40311) (Vulvar Syringoma))) 38.48%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40309](http://purl.obolibrary.org/obo/NCIT_C40309) (Vulvar Sebaceous Carcinoma))) 38.48%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40308](http://purl.obolibrary.org/obo/NCIT_C40308) (Vulvar Apocrine Adenocarcinoma))) 38.48%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40307](http://purl.obolibrary.org/obo/NCIT_C40307) (Vulvar Clear Cell Hidradenocarcinoma))) 38.48%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40306](http://purl.obolibrary.org/obo/NCIT_C40306) (Vulvar Eccrine Porocarcinoma))) 38.48%
+- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40301](http://purl.obolibrary.org/obo/NCIT_C40301) (Adenoma of Minor Vestibular Glands))) 38.48%
 
 

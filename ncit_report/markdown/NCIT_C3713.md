@@ -12,14 +12,14 @@
 - [NCIT:C35911](http://purl.obolibrary.org/obo/NCIT_C35911) (Papillary Pattern) 55.56%
 - Thing 52.40%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38997](http://purl.obolibrary.org/obo/NCIT_C38997) (Cancer Susceptibility Pathway))) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38996](http://purl.obolibrary.org/obo/NCIT_C38996) (ATM Signaling Pathway))) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38995](http://purl.obolibrary.org/obo/NCIT_C38995) (Angiotensin II Signaling Pathway))) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38992](http://purl.obolibrary.org/obo/NCIT_C38992) (Ribosomal Biogenesis Pathway))) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38981](http://purl.obolibrary.org/obo/NCIT_C38981) (AKT Signaling Pathway))) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38975](http://purl.obolibrary.org/obo/NCIT_C38975) (Agrin Pathway))) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38971](http://purl.obolibrary.org/obo/NCIT_C38971) (Regulation of Apoptosis Pathway))) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3892](http://purl.obolibrary.org/obo/NCIT_C3892) (Mu Heavy Chain Disease))) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38850](http://purl.obolibrary.org/obo/NCIT_C38850) (Phosphatidylinositol Signaling System Pathway))) 40.91%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38184](http://purl.obolibrary.org/obo/NCIT_C38184) (ALK Gene))) 40.91%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38176](http://purl.obolibrary.org/obo/NCIT_C38176) (BCL2 Gene Translocation))) 40.91%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38175](http://purl.obolibrary.org/obo/NCIT_C38175) (CD44 Messenger RNA Overexpression))) 40.91%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38174](http://purl.obolibrary.org/obo/NCIT_C38174) (IRF4/MUM1 Messenger RNA Overexpression))) 40.91%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38173](http://purl.obolibrary.org/obo/NCIT_C38173) (BCL2 Gene mRNA Overexpression))) 40.91%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38172](http://purl.obolibrary.org/obo/NCIT_C38172) (Cyclin D2 Messenger RNA Overexpression))) 40.91%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38171](http://purl.obolibrary.org/obo/NCIT_C38171) (PKCbeta1 Messenger RNA Overexpression))) 40.91%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38170](http://purl.obolibrary.org/obo/NCIT_C38170) (LMO2 Messenger RNA Overexpression))) 40.91%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38169](http://purl.obolibrary.org/obo/NCIT_C38169) (A-myb Messenger RNA Overexpression))) 40.91%
 
 

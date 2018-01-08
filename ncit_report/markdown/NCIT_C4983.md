@@ -18,8 +18,8 @@
 - Thing 53.10%
 - [NCIT:C5036](http://purl.obolibrary.org/obo/NCIT_C5036) (Integumentary System Signs and Symptoms) 42.20%
 - [NCIT:C41425](http://purl.obolibrary.org/obo/NCIT_C41425) (Nodular Lesion) 38.69%
-- [NCIT:C41425](http://purl.obolibrary.org/obo/NCIT_C41425) (Nodular Lesion) and (not ([NCIT:C39689](http://purl.obolibrary.org/obo/NCIT_C39689) (Multicentric Cutaneous Involvement))) 38.69%
-- [NCIT:C41425](http://purl.obolibrary.org/obo/NCIT_C41425) (Nodular Lesion) and (not ([NCIT:C39688](http://purl.obolibrary.org/obo/NCIT_C39688) (Localized Skin Lesion))) 38.69%
-- [NCIT:C41425](http://purl.obolibrary.org/obo/NCIT_C41425) (Nodular Lesion) and (not ([NCIT:C39687](http://purl.obolibrary.org/obo/NCIT_C39687) (Activated Mature Cytotoxic T-Lymphocyte))) 38.69%
+- [NCIT:C41425](http://purl.obolibrary.org/obo/NCIT_C41425) (Nodular Lesion) and (not ([NCIT:C39622](http://purl.obolibrary.org/obo/NCIT_C39622) (Scaly Skin Eruption))) 38.69%
+- [NCIT:C41425](http://purl.obolibrary.org/obo/NCIT_C41425) (Nodular Lesion) and (not ([NCIT:C39620](http://purl.obolibrary.org/obo/NCIT_C39620) (Dermatopathic Lymphadenopathy))) 38.69%
+- [NCIT:C41425](http://purl.obolibrary.org/obo/NCIT_C41425) (Nodular Lesion) and (not ([NCIT:C39618](http://purl.obolibrary.org/obo/NCIT_C39618) (Subcutaneous Nodule))) 38.69%
 
 

@@ -9,17 +9,17 @@
 - Thing 54.00%
 - [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) 37.36%
 - [CL:0000186](http://purl.obolibrary.org/obo/CL_0000186) (myofibroblast cell) 37.36%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C39821](http://purl.obolibrary.org/obo/NCIT_C39821) (Infiltrating Bladder Lymphoepithelioma-Like Carcinoma))) 37.36%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C39820](http://purl.obolibrary.org/obo/NCIT_C39820) (Infiltrating Bladder Urothelial Carcinoma, Microcystic Variant))) 37.36%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C39819](http://purl.obolibrary.org/obo/NCIT_C39819) (Infiltrating Bladder Urothelial Carcinoma, Nested Variant))) 37.36%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C39818](http://purl.obolibrary.org/obo/NCIT_C39818) (Infiltrating Bladder Urothelial Carcinoma with Trophoblastic Differentiation))) 37.36%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C39817](http://purl.obolibrary.org/obo/NCIT_C39817) (Infiltrating Bladder Urothelial Carcinoma with Glandular Differentiation))) 37.36%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C39816](http://purl.obolibrary.org/obo/NCIT_C39816) (Infiltrating Bladder Urothelial Carcinoma with Squamous Differentiation))) 37.36%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C39815](http://purl.obolibrary.org/obo/NCIT_C39815) (Cellular Congenital Mesoblastic Nephroma))) 37.36%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C39814](http://purl.obolibrary.org/obo/NCIT_C39814) (Classic Congenital Mesoblastic Nephroma))) 37.36%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C39813](http://purl.obolibrary.org/obo/NCIT_C39813) (SMARCB1 Gene Inactivation))) 37.36%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C39812](http://purl.obolibrary.org/obo/NCIT_C39812) (Metanephric Adenofibroma))) 37.36%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C39811](http://purl.obolibrary.org/obo/NCIT_C39811) (t(5;11)(q35;q13)))) 37.36%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C39810](http://purl.obolibrary.org/obo/NCIT_C39810) (Type 2 Renal Papillary Adenoma))) 37.36%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C40146](http://purl.obolibrary.org/obo/NCIT_C40146) (Grade 1 Endometrial Endometrioid Adenocarcinoma))) 37.36%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C40142](http://purl.obolibrary.org/obo/NCIT_C40142) (Uterine Ligament Papillary Cystadenoma Associated with von Hippel-Lindau Disease))) 37.36%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C40141](http://purl.obolibrary.org/obo/NCIT_C40141) (Wolffian Adnexal Tumor))) 37.36%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C40139](http://purl.obolibrary.org/obo/NCIT_C40139) (Uterine Ligament Clear Cell Adenocarcinoma))) 37.36%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C40138](http://purl.obolibrary.org/obo/NCIT_C40138) (Uterine Ligament Endometrioid Adenocarcinoma))) 37.36%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C40137](http://purl.obolibrary.org/obo/NCIT_C40137) (Uterine Ligament Mucinous Adenocarcinoma))) 37.36%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C40129](http://purl.obolibrary.org/obo/NCIT_C40129) (Fallopian Tube Adenomatoid Tumor))) 37.36%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C40128](http://purl.obolibrary.org/obo/NCIT_C40128) (Fallopian Tube Leiomyosarcoma))) 37.36%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C40127](http://purl.obolibrary.org/obo/NCIT_C40127) (Fallopian Tube Leiomyoma))) 37.36%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C40125](http://purl.obolibrary.org/obo/NCIT_C40125) (Fallopian Tube Adenosarcoma))) 37.36%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C40124](http://purl.obolibrary.org/obo/NCIT_C40124) (Fallopian Tube Carcinosarcoma))) 37.36%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C40122](http://purl.obolibrary.org/obo/NCIT_C40122) (Pelvic Pain))) 37.36%
 
 

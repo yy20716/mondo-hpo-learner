@@ -8,18 +8,18 @@
 
 - Thing 53.75%
 - [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) 37.63%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C38171](http://purl.obolibrary.org/obo/NCIT_C38171) (PKCbeta1 Messenger RNA Overexpression))) 37.63%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C38170](http://purl.obolibrary.org/obo/NCIT_C38170) (LMO2 Messenger RNA Overexpression))) 37.63%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C38169](http://purl.obolibrary.org/obo/NCIT_C38169) (A-myb Messenger RNA Overexpression))) 37.63%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C38168](http://purl.obolibrary.org/obo/NCIT_C38168) (BCL-6 Messenger RNA Overexpression))) 37.63%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C38167](http://purl.obolibrary.org/obo/NCIT_C38167) (CD10 Messenger RNA Overexpression))) 37.63%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C38158](http://purl.obolibrary.org/obo/NCIT_C38158) (Metachronous Wilms Tumor))) 37.63%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C38157](http://purl.obolibrary.org/obo/NCIT_C38157) (Metachronous Osteosarcoma))) 37.63%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C38155](http://purl.obolibrary.org/obo/NCIT_C38155) (Recurrent Disease))) 37.63%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C38111](http://purl.obolibrary.org/obo/NCIT_C38111) (Skin Sarcomatoid Basal Cell Carcinoma))) 37.63%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C38110](http://purl.obolibrary.org/obo/NCIT_C38110) (Skin Signet Ring Cell Basal Cell Carcinoma))) 37.63%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C38107](http://purl.obolibrary.org/obo/NCIT_C38107) (Dedifferentiated Dermatofibrosarcoma Protuberans))) 37.63%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C38106](http://purl.obolibrary.org/obo/NCIT_C38106) (Myxoid Dermatofibrosarcoma Protuberans))) 37.63%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C38043](http://purl.obolibrary.org/obo/NCIT_C38043) (Typhlitis))) 37.63%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39628](http://purl.obolibrary.org/obo/NCIT_C39628) (Single Cell Exocytosis))) 37.63%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39627](http://purl.obolibrary.org/obo/NCIT_C39627) (Pautrier Microabscess Present))) 37.63%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39626](http://purl.obolibrary.org/obo/NCIT_C39626) (Epidermotropic Lymphocytic Infiltrate))) 37.63%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39625](http://purl.obolibrary.org/obo/NCIT_C39625) (Extracutaneous Dissemination of Disease))) 37.63%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39624](http://purl.obolibrary.org/obo/NCIT_C39624) (Skin Plaque))) 37.63%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39622](http://purl.obolibrary.org/obo/NCIT_C39622) (Scaly Skin Eruption))) 37.63%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39620](http://purl.obolibrary.org/obo/NCIT_C39620) (Dermatopathic Lymphadenopathy))) 37.63%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39618](http://purl.obolibrary.org/obo/NCIT_C39618) (Subcutaneous Nodule))) 37.63%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39617](http://purl.obolibrary.org/obo/NCIT_C39617) (Subcutaneous Involvement))) 37.63%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39616](http://purl.obolibrary.org/obo/NCIT_C39616) (Karyorrhexis))) 37.63%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39615](http://purl.obolibrary.org/obo/NCIT_C39615) (Sinusoidal Infiltration))) 37.63%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39609](http://purl.obolibrary.org/obo/NCIT_C39609) (Activated Natural Killer Cell))) 37.63%
+- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39608](http://purl.obolibrary.org/obo/NCIT_C39608) (Coagulative Necrosis))) 37.63%
 
 

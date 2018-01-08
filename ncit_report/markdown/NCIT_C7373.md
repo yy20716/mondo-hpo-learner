@@ -2,7 +2,7 @@
 ### [NCIT:C7373](http://purl.obolibrary.org/obo/NCIT_C7373)
 **Label:** Nasopharyngeal Nonkeratinizing Carcinoma
 
-**Subclasses:** [NCIT:C8229](http://purl.obolibrary.org/obo/NCIT_C8229) (Stage IV Nasopharyngeal Undifferentiated Carcinoma AJCC v7), [NCIT:C8227](http://purl.obolibrary.org/obo/NCIT_C8227) (Stage III Nasopharyngeal Undifferentiated Carcinoma AJCC v7), [NCIT:C8225](http://purl.obolibrary.org/obo/NCIT_C8225) (Stage II Nasopharyngeal Undifferentiated Carcinoma AJCC v7), [NCIT:C6035](http://purl.obolibrary.org/obo/NCIT_C6035) (Stage 0 Nasopharyngeal Undifferentiated Carcinoma AJCC v6, v7, and v8), [NCIT:C8223](http://purl.obolibrary.org/obo/NCIT_C8223) (Stage I Nasopharyngeal Undifferentiated Carcinoma AJCC v7), [NCIT:C8023](http://purl.obolibrary.org/obo/NCIT_C8023) (Nasopharyngeal Undifferentiated Carcinoma), [NCIT:C8231](http://purl.obolibrary.org/obo/NCIT_C8231) (Recurrent Nasopharyngeal Undifferentiated Carcinoma), 
+**Subclasses:** [NCIT:C8229](http://purl.obolibrary.org/obo/NCIT_C8229) (Stage IV Nasopharyngeal Undifferentiated Carcinoma AJCC v7), [NCIT:C8227](http://purl.obolibrary.org/obo/NCIT_C8227) (Stage III Nasopharyngeal Undifferentiated Carcinoma AJCC v7), [NCIT:C6035](http://purl.obolibrary.org/obo/NCIT_C6035) (Stage 0 Nasopharyngeal Undifferentiated Carcinoma AJCC v6, v7, and v8), [NCIT:C8225](http://purl.obolibrary.org/obo/NCIT_C8225) (Stage II Nasopharyngeal Undifferentiated Carcinoma AJCC v7), [NCIT:C8223](http://purl.obolibrary.org/obo/NCIT_C8223) (Stage I Nasopharyngeal Undifferentiated Carcinoma AJCC v7), [NCIT:C8023](http://purl.obolibrary.org/obo/NCIT_C8023) (Nasopharyngeal Undifferentiated Carcinoma), [NCIT:C8231](http://purl.obolibrary.org/obo/NCIT_C8231) (Recurrent Nasopharyngeal Undifferentiated Carcinoma), 
 
 **Class expressions from DL-Learner:**
 
@@ -18,8 +18,8 @@
 - [NCIT:C36502](http://purl.obolibrary.org/obo/NCIT_C36502) (Loss of Chromosome 3p) 51.35%
 - [NCIT:C36497](http://purl.obolibrary.org/obo/NCIT_C36497) (Loss of Chromosome 13q) 51.35%
 - [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) 36.71%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40343](http://purl.obolibrary.org/obo/NCIT_C40343) (Hypotriploidy))) 36.71%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40341](http://purl.obolibrary.org/obo/NCIT_C40341) (Hypospadias))) 36.71%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40339](http://purl.obolibrary.org/obo/NCIT_C40339) (Mesenteric Gastrointestinal Stromal Tumor))) 36.71%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 36.71%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 36.71%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 36.71%
 
 

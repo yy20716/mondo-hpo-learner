@@ -11,15 +11,15 @@
 - [UBERON:0000017](http://purl.obolibrary.org/obo/UBERON_0000017) (exocrine pancreas) 52.38%
 - [NCIT:C41608](http://purl.obolibrary.org/obo/NCIT_C41608) (Endocrine-Stromal Cell) 52.38%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 37.74%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39079](http://purl.obolibrary.org/obo/NCIT_C39079) (Fc Epsilon Receptor I Signaling Pathway BioCarta))) 37.74%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39072](http://purl.obolibrary.org/obo/NCIT_C39072) (Erk1/Erk2 MAPK Signaling Pathway))) 37.74%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39071](http://purl.obolibrary.org/obo/NCIT_C39071) (Neuronal Survival Pathway))) 37.74%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39069](http://purl.obolibrary.org/obo/NCIT_C39069) (ErbB3 Receptor Recycling Pathway))) 37.74%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39067](http://purl.obolibrary.org/obo/NCIT_C39067) (EPO Signaling Pathway))) 37.74%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39066](http://purl.obolibrary.org/obo/NCIT_C39066) (Erythropoietin Neuroprotection Pathway))) 37.74%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39059](http://purl.obolibrary.org/obo/NCIT_C39059) (Map Kinase Inactivation of SMRT Corepressor Pathway))) 37.74%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39058](http://purl.obolibrary.org/obo/NCIT_C39058) (EGF Signaling Pathway))) 37.74%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39056](http://purl.obolibrary.org/obo/NCIT_C39056) (Vesicle Transport Pathway))) 37.74%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39055](http://purl.obolibrary.org/obo/NCIT_C39055) (Phospholipid Signaling Pathway))) 37.74%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39569](http://purl.obolibrary.org/obo/NCIT_C39569) (Cytoplasmic Protrusions Present))) 37.74%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39565](http://purl.obolibrary.org/obo/NCIT_C39565) (Coarse Azurophilic Granules Present))) 37.74%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3950](http://purl.obolibrary.org/obo/NCIT_C3950) (Oral Mucosa Lobular Capillary Hemangioma))) 37.74%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3939](http://purl.obolibrary.org/obo/NCIT_C3939) (Bannayan Syndrome))) 37.74%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39301](http://purl.obolibrary.org/obo/NCIT_C39301) (CD4+/CD56+ Neoplastic Medium-Sized Cell))) 37.74%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39300](http://purl.obolibrary.org/obo/NCIT_C39300) (Precursor Natural Killer Cell))) 37.74%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39294](http://purl.obolibrary.org/obo/NCIT_C39294) (Schistosoma Hematobium Infection))) 37.74%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39293](http://purl.obolibrary.org/obo/NCIT_C39293) (Helicobacter Pylori Infection))) 37.74%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39291](http://purl.obolibrary.org/obo/NCIT_C39291) (HHV8 Infection))) 37.74%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39278](http://purl.obolibrary.org/obo/NCIT_C39278) (Thrombin/Protease-Activated Receptor Signaling Pathway))) 37.74%
 
 

@@ -9,7 +9,6 @@
 - [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C32052](http://purl.obolibrary.org/obo/NCIT_C32052) (Alpha Cell))) 54.17%
 - Thing 52.77%
 - [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) 39.52%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35961](http://purl.obolibrary.org/obo/NCIT_C35961) (Low Mitotic Activity))) 39.52%
 - [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C3596](http://purl.obolibrary.org/obo/NCIT_C3596) (Benign Hypopharyngeal Neoplasm))) 39.52%
 - [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35956](http://purl.obolibrary.org/obo/NCIT_C35956) (Fibrinoid Necrosis))) 39.52%
 - [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35955](http://purl.obolibrary.org/obo/NCIT_C35955) (Absence of Stromal Invasion))) 39.52%
@@ -21,5 +20,6 @@
 - [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35941](http://purl.obolibrary.org/obo/NCIT_C35941) (Flexner-Wintersteiner Rosette Formation))) 39.52%
 - [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35938](http://purl.obolibrary.org/obo/NCIT_C35938) (Epithelioid Differentiation))) 39.52%
 - [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35937](http://purl.obolibrary.org/obo/NCIT_C35937) (Rhabdomyosarcomatous Differentiation))) 39.52%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35933](http://purl.obolibrary.org/obo/NCIT_C35933) (Distantly Metastatic Malignant Neoplasm))) 39.52%
 
 

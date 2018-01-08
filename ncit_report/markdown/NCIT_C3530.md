@@ -2,7 +2,7 @@
 ### [NCIT:C3530](http://purl.obolibrary.org/obo/NCIT_C3530)
 **Label:** Malignant Palate Neoplasm
 
-**Subclasses:** [NCIT:C6749](http://purl.obolibrary.org/obo/NCIT_C6749) (Palate Kaposi Sarcoma), [NCIT:C8463](http://purl.obolibrary.org/obo/NCIT_C8463) (Palate Carcinoma), [NCIT:C4649](http://purl.obolibrary.org/obo/NCIT_C4649) (Palate Squamous Cell Carcinoma), 
+**Subclasses:** [NCIT:C6749](http://purl.obolibrary.org/obo/NCIT_C6749) (Palate Kaposi Sarcoma), [NCIT:C4649](http://purl.obolibrary.org/obo/NCIT_C4649) (Palate Squamous Cell Carcinoma), [NCIT:C8463](http://purl.obolibrary.org/obo/NCIT_C8463) (Palate Carcinoma), 
 
 **Class expressions from DL-Learner:**
 

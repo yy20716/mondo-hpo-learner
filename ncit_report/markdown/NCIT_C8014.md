@@ -13,13 +13,13 @@
 - [NCIT:C36781](http://purl.obolibrary.org/obo/NCIT_C36781) (Neoplastic Cutaneous Basaloid Cell) and [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) 52.50%
 - [NCIT:C36759](http://purl.obolibrary.org/obo/NCIT_C36759) (Neoplastic Basaloid Cell) 46.23%
 - [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) 45.82%
-- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40366](http://purl.obolibrary.org/obo/NCIT_C40366) (Oncocytic Breast Carcinoma))) 45.82%
-- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40363](http://purl.obolibrary.org/obo/NCIT_C40363) (Nipple Syringomatous Adenoma))) 45.82%
-- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40362](http://purl.obolibrary.org/obo/NCIT_C40362) (Low Grade Adenosquamous Breast Carcinoma))) 45.82%
-- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40358](http://purl.obolibrary.org/obo/NCIT_C40358) (Squamous Cell Breast Carcinoma, Spindle Cell Variant))) 45.82%
-- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40356](http://purl.obolibrary.org/obo/NCIT_C40356) (Breast Large Cell Neuroendocrine Carcinoma))) 45.82%
-- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40355](http://purl.obolibrary.org/obo/NCIT_C40355) (Breast Columnar Cell Mucinous Carcinoma))) 45.82%
-- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40354](http://purl.obolibrary.org/obo/NCIT_C40354) (Breast Mucinous Cystadenocarcinoma))) 45.82%
-- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40350](http://purl.obolibrary.org/obo/NCIT_C40350) (Breast Carcinoma with Choriocarcinomatous Features))) 45.82%
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40311](http://purl.obolibrary.org/obo/NCIT_C40311) (Vulvar Syringoma))) 45.82%
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40309](http://purl.obolibrary.org/obo/NCIT_C40309) (Vulvar Sebaceous Carcinoma))) 45.82%
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40308](http://purl.obolibrary.org/obo/NCIT_C40308) (Vulvar Apocrine Adenocarcinoma))) 45.82%
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40307](http://purl.obolibrary.org/obo/NCIT_C40307) (Vulvar Clear Cell Hidradenocarcinoma))) 45.82%
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40306](http://purl.obolibrary.org/obo/NCIT_C40306) (Vulvar Eccrine Porocarcinoma))) 45.82%
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40301](http://purl.obolibrary.org/obo/NCIT_C40301) (Adenoma of Minor Vestibular Glands))) 45.82%
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40299](http://purl.obolibrary.org/obo/NCIT_C40299) (Bartholin Gland Adenoma))) 45.82%
+- [NCIT:C62227](http://purl.obolibrary.org/obo/NCIT_C62227) (Malignant Basaloid Cell) and (not ([NCIT:C40298](http://purl.obolibrary.org/obo/NCIT_C40298) (Bartholin Gland Small Cell Carcinoma))) 45.82%
 
 

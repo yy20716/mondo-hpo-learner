@@ -9,17 +9,17 @@
 - Thing 53.40%
 - [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C32542](http://purl.obolibrary.org/obo/NCIT_C32542) (Esophageal Squamous Cell))) 52.78%
 - [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) 38.13%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C3804](http://purl.obolibrary.org/obo/NCIT_C3804) (Intradermal Nevus))) 38.13%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C38038](http://purl.obolibrary.org/obo/NCIT_C38038) (Tremor))) 38.13%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C38006](http://purl.obolibrary.org/obo/NCIT_C38006) (Pneumothorax))) 38.13%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C37999](http://purl.obolibrary.org/obo/NCIT_C37999) (Palpitation))) 38.13%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C37973](http://purl.obolibrary.org/obo/NCIT_C37973) (Hypocalcemia))) 38.13%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C37943](http://purl.obolibrary.org/obo/NCIT_C37943) (Dizziness))) 38.13%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C37935](http://purl.obolibrary.org/obo/NCIT_C37935) (Cough))) 38.13%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C37930](http://purl.obolibrary.org/obo/NCIT_C37930) (Constipation))) 38.13%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C3791](http://purl.obolibrary.org/obo/NCIT_C3791) (Central Neurocytoma))) 38.13%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C37905](http://purl.obolibrary.org/obo/NCIT_C37905) (Gain of Chromosome 14))) 38.13%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C37883](http://purl.obolibrary.org/obo/NCIT_C37883) (BCR-PDGFRAlpha Fusion Protein Expression))) 38.13%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C37882](http://purl.obolibrary.org/obo/NCIT_C37882) (t(4;22)(q12;q11)))) 38.13%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C38393](http://purl.obolibrary.org/obo/NCIT_C38393) (KMT2A-EEN Fusion Protein Expression))) 38.13%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C38392](http://purl.obolibrary.org/obo/NCIT_C38392) (KMT2A-ELL Fusion Protein Expression))) 38.13%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C38391](http://purl.obolibrary.org/obo/NCIT_C38391) (KMT2A-ENL Fusion Protein Expression))) 38.13%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C38390](http://purl.obolibrary.org/obo/NCIT_C38390) (MLLT3-KMT2A Fusion Protein Expression))) 38.13%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C38387](http://purl.obolibrary.org/obo/NCIT_C38387) (KMT2A-AF10 Fusion Protein Expression))) 38.13%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C38386](http://purl.obolibrary.org/obo/NCIT_C38386) (del(20)(q11)))) 38.13%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C38385](http://purl.obolibrary.org/obo/NCIT_C38385) (del(7)(q11;q36)))) 38.13%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C38379](http://purl.obolibrary.org/obo/NCIT_C38379) (STAT5B-RARA Fusion Protein Expression))) 38.13%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C38378](http://purl.obolibrary.org/obo/NCIT_C38378) (t(17;17)(q21;q21)))) 38.13%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C38377](http://purl.obolibrary.org/obo/NCIT_C38377) (Acute Myeloid Leukemia with t(17;17)(q21;q21)))) 38.13%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C38373](http://purl.obolibrary.org/obo/NCIT_C38373) (RBM15-MKL1 Fusion Protein Expression))) 38.13%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C38372](http://purl.obolibrary.org/obo/NCIT_C38372) (CEBPA Gene Mutation))) 38.13%
 
 

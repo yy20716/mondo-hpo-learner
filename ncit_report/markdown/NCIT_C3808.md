@@ -12,14 +12,14 @@
 - [NCIT:C18394](http://purl.obolibrary.org/obo/NCIT_C18394) (SMARCB1 Gene) 55.56%
 - Thing 52.40%
 - [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) 40.91%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40156](http://purl.obolibrary.org/obo/NCIT_C40156) (Endometrial Undifferentiated Carcinoma))) 40.91%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40155](http://purl.obolibrary.org/obo/NCIT_C40155) (Endometrial Small Cell Carcinoma))) 40.91%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40154](http://purl.obolibrary.org/obo/NCIT_C40154) (Endometrial Transitional Cell Carcinoma))) 40.91%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40153](http://purl.obolibrary.org/obo/NCIT_C40153) (Endometrial Mixed Adenocarcinoma))) 40.91%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40152](http://purl.obolibrary.org/obo/NCIT_C40152) (Serous Endometrial Intraepithelial Carcinoma))) 40.91%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40151](http://purl.obolibrary.org/obo/NCIT_C40151) (Grade 3 Endometrial Mucinous Adenocarcinoma))) 40.91%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40150](http://purl.obolibrary.org/obo/NCIT_C40150) (Grade 2 Endometrial Mucinous Adenocarcinoma))) 40.91%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40149](http://purl.obolibrary.org/obo/NCIT_C40149) (Grade 1 Endometrial Mucinous Adenocarcinoma))) 40.91%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40148](http://purl.obolibrary.org/obo/NCIT_C40148) (Grade 3 Endometrial Endometrioid Adenocarcinoma))) 40.91%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40272](http://purl.obolibrary.org/obo/NCIT_C40272) (Vaginal Undifferentiated Sarcoma))) 40.91%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40271](http://purl.obolibrary.org/obo/NCIT_C40271) (Low Grade Endometrioid Stromal Sarcoma of the Vagina))) 40.91%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C4027](http://purl.obolibrary.org/obo/NCIT_C4027) (Paget Disease of the Vulva))) 40.91%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40264](http://purl.obolibrary.org/obo/NCIT_C40264) (Vaginal Undifferentiated Carcinoma))) 40.91%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40263](http://purl.obolibrary.org/obo/NCIT_C40263) (Vaginal Small Cell Carcinoma))) 40.91%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40261](http://purl.obolibrary.org/obo/NCIT_C40261) (Vaginal Adenoid Cystic Carcinoma))) 40.91%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40260](http://purl.obolibrary.org/obo/NCIT_C40260) (Vaginal Adenosquamous Carcinoma))) 40.91%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C4026](http://purl.obolibrary.org/obo/NCIT_C4026) (Ovarian Mucinous Cystadenocarcinoma))) 40.91%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40259](http://purl.obolibrary.org/obo/NCIT_C40259) (Vaginal Villous Adenoma))) 40.91%
 
 

@@ -11,15 +11,15 @@
 - [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C36116](http://purl.obolibrary.org/obo/NCIT_C36116) (Borderline Lesion))) 58.33%
 - Thing 51.96%
 - [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) 43.69%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C40021](http://purl.obolibrary.org/obo/NCIT_C40021) (Ovarian Lymphoma))) 43.69%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 43.69%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 43.69%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 43.69%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 43.69%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 43.69%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 43.69%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 43.69%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 43.69%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 43.69%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39903](http://purl.obolibrary.org/obo/NCIT_C39903) (Prostate Adenocarcinoma with Focal Neuroendocrine Differentiation))) 43.69%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39902](http://purl.obolibrary.org/obo/NCIT_C39902) (Prostate Basal Cell Carcinoma))) 43.69%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39901](http://purl.obolibrary.org/obo/NCIT_C39901) (Prostatic Duct Urothelial Carcinoma))) 43.69%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39899](http://purl.obolibrary.org/obo/NCIT_C39899) (Secondary Prostate Urothelial Carcinoma))) 43.69%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39897](http://purl.obolibrary.org/obo/NCIT_C39897) (Prostate Ductal Adenocarcinoma, Solid Pattern))) 43.69%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39896](http://purl.obolibrary.org/obo/NCIT_C39896) (Prostate Ductal Adenocarcinoma, Papillary Pattern))) 43.69%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39895](http://purl.obolibrary.org/obo/NCIT_C39895) (Prostate Ductal Adenocarcinoma, Cribriform Pattern))) 43.69%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C3989](http://purl.obolibrary.org/obo/NCIT_C3989) (Parathyroid Hyperplasia))) 43.69%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39885](http://purl.obolibrary.org/obo/NCIT_C39885) (Acinar Prostate Adenocarcinoma, Lymphoepithelioma-Like Variant))) 43.69%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39880](http://purl.obolibrary.org/obo/NCIT_C39880) (Acinar Prostate Adenocarcinoma, Atrophic Variant))) 43.69%
 
 

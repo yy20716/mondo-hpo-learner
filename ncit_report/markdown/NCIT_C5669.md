@@ -14,12 +14,12 @@
 - [NCIT:C26859](http://purl.obolibrary.org/obo/NCIT_C26859) (Pleural Disorder) 52.63%
 - [NCIT:C4893](http://purl.obolibrary.org/obo/NCIT_C4893) (Benign Urinary System Neoplasm) 37.99%
 - [NCIT:C4778](http://purl.obolibrary.org/obo/NCIT_C4778) (Benign Kidney Neoplasm) 37.99%
-- [NCIT:C4778](http://purl.obolibrary.org/obo/NCIT_C4778) (Benign Kidney Neoplasm) and (not ([NCIT:C3989](http://purl.obolibrary.org/obo/NCIT_C3989) (Parathyroid Hyperplasia))) 37.99%
-- [NCIT:C4778](http://purl.obolibrary.org/obo/NCIT_C4778) (Benign Kidney Neoplasm) and (not ([NCIT:C39885](http://purl.obolibrary.org/obo/NCIT_C39885) (Acinar Prostate Adenocarcinoma, Lymphoepithelioma-Like Variant))) 37.99%
-- [NCIT:C4778](http://purl.obolibrary.org/obo/NCIT_C4778) (Benign Kidney Neoplasm) and (not ([NCIT:C39880](http://purl.obolibrary.org/obo/NCIT_C39880) (Acinar Prostate Adenocarcinoma, Atrophic Variant))) 37.99%
-- [NCIT:C4778](http://purl.obolibrary.org/obo/NCIT_C4778) (Benign Kidney Neoplasm) and (not ([NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q))) 37.99%
-- [NCIT:C4778](http://purl.obolibrary.org/obo/NCIT_C4778) (Benign Kidney Neoplasm) and (not ([NCIT:C39874](http://purl.obolibrary.org/obo/NCIT_C39874) (Urethral Verrucous Carcinoma))) 37.99%
-- [NCIT:C4778](http://purl.obolibrary.org/obo/NCIT_C4778) (Benign Kidney Neoplasm) and (not ([NCIT:C39873](http://purl.obolibrary.org/obo/NCIT_C39873) (Urethral Glandular Metaplasia))) 37.99%
-- [NCIT:C4778](http://purl.obolibrary.org/obo/NCIT_C4778) (Benign Kidney Neoplasm) and (not ([NCIT:C39872](http://purl.obolibrary.org/obo/NCIT_C39872) (Urethral Villous Adenoma))) 37.99%
+- [NCIT:C4778](http://purl.obolibrary.org/obo/NCIT_C4778) (Benign Kidney Neoplasm) and (not ([NCIT:C39829](http://purl.obolibrary.org/obo/NCIT_C39829) (Infiltrating Bladder Urothelial Carcinoma with Giant Cells))) 37.99%
+- [NCIT:C4778](http://purl.obolibrary.org/obo/NCIT_C4778) (Benign Kidney Neoplasm) and (not ([NCIT:C39826](http://purl.obolibrary.org/obo/NCIT_C39826) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant without Heterologous Elements))) 37.99%
+- [NCIT:C4778](http://purl.obolibrary.org/obo/NCIT_C4778) (Benign Kidney Neoplasm) and (not ([NCIT:C39825](http://purl.obolibrary.org/obo/NCIT_C39825) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant with Heterologous Elements))) 37.99%
+- [NCIT:C4778](http://purl.obolibrary.org/obo/NCIT_C4778) (Benign Kidney Neoplasm) and (not ([NCIT:C39821](http://purl.obolibrary.org/obo/NCIT_C39821) (Infiltrating Bladder Lymphoepithelioma-Like Carcinoma))) 37.99%
+- [NCIT:C4778](http://purl.obolibrary.org/obo/NCIT_C4778) (Benign Kidney Neoplasm) and (not ([NCIT:C39820](http://purl.obolibrary.org/obo/NCIT_C39820) (Infiltrating Bladder Urothelial Carcinoma, Microcystic Variant))) 37.99%
+- [NCIT:C4778](http://purl.obolibrary.org/obo/NCIT_C4778) (Benign Kidney Neoplasm) and (not ([NCIT:C39819](http://purl.obolibrary.org/obo/NCIT_C39819) (Infiltrating Bladder Urothelial Carcinoma, Nested Variant))) 37.99%
+- [NCIT:C4778](http://purl.obolibrary.org/obo/NCIT_C4778) (Benign Kidney Neoplasm) and (not ([NCIT:C39818](http://purl.obolibrary.org/obo/NCIT_C39818) (Infiltrating Bladder Urothelial Carcinoma with Trophoblastic Differentiation))) 37.99%
 
 

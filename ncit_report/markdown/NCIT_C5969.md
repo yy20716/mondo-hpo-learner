@@ -14,12 +14,12 @@
 - Thing 51.79%
 - [UBERON:0004121](http://purl.obolibrary.org/obo/UBERON_0004121) (ectoderm-derived structure) 47.56%
 - [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) 45.36%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39608](http://purl.obolibrary.org/obo/NCIT_C39608) (Coagulative Necrosis))) 45.36%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39602](http://purl.obolibrary.org/obo/NCIT_C39602) (Pleomorphic Medium-Sized to Large T-Lymphocyte))) 45.36%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39600](http://purl.obolibrary.org/obo/NCIT_C39600) (Neoplastic Medium-Sized T-Lymphocyte))) 45.36%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39598](http://purl.obolibrary.org/obo/NCIT_C39598) (CEBPA Gene))) 45.36%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39597](http://purl.obolibrary.org/obo/NCIT_C39597) (PRKCB Gene))) 45.36%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39596](http://purl.obolibrary.org/obo/NCIT_C39596) (CCND2 Gene))) 45.36%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39594](http://purl.obolibrary.org/obo/NCIT_C39594) (Skin Rash))) 45.36%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39293](http://purl.obolibrary.org/obo/NCIT_C39293) (Helicobacter Pylori Infection))) 45.36%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39291](http://purl.obolibrary.org/obo/NCIT_C39291) (HHV8 Infection))) 45.36%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39278](http://purl.obolibrary.org/obo/NCIT_C39278) (Thrombin/Protease-Activated Receptor Signaling Pathway))) 45.36%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39264](http://purl.obolibrary.org/obo/NCIT_C39264) (Angiogenesis Pathway))) 45.36%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39258](http://purl.obolibrary.org/obo/NCIT_C39258) (TPO Signaling Pathway))) 45.36%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39253](http://purl.obolibrary.org/obo/NCIT_C39253) (Interferon Signaling Modulation Pathway))) 45.36%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39250](http://purl.obolibrary.org/obo/NCIT_C39250) (Mucosal Healing Pathway))) 45.36%
 
 

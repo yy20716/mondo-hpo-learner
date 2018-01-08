@@ -10,16 +10,16 @@
 - [NCIT:C18022](http://purl.obolibrary.org/obo/NCIT_C18022) (CDKN2A Gene) 51.72%
 - [NCIT:C17359](http://purl.obolibrary.org/obo/NCIT_C17359) (TP53 Gene) 51.72%
 - [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) 37.08%
-- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C40182](http://purl.obolibrary.org/obo/NCIT_C40182) (Uterine Corpus Carcinofibroma))) 37.08%
-- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C40177](http://purl.obolibrary.org/obo/NCIT_C40177) (Uterine Corpus Smooth Muscle Tumor of Uncertain Malignant Potential))) 37.08%
-- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C40175](http://purl.obolibrary.org/obo/NCIT_C40175) (Uterine Corpus Myxoid Leiomyosarcoma))) 37.08%
-- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C40174](http://purl.obolibrary.org/obo/NCIT_C40174) (Uterine Corpus Epithelioid Leiomyosarcoma))) 37.08%
-- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C40170](http://purl.obolibrary.org/obo/NCIT_C40170) (Uterine Corpus Diffuse Leiomyomatosis))) 37.08%
-- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C40168](http://purl.obolibrary.org/obo/NCIT_C40168) (Uterine Corpus Lipoleiomyoma))) 37.08%
-- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C40167](http://purl.obolibrary.org/obo/NCIT_C40167) (Uterine Corpus Bizarre Leiomyoma))) 37.08%
-- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C40166](http://purl.obolibrary.org/obo/NCIT_C40166) (Uterine Corpus Myxoid Leiomyoma))) 37.08%
-- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C40165](http://purl.obolibrary.org/obo/NCIT_C40165) (Uterine Corpus Apoplectic Leiomyoma))) 37.08%
-- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C40164](http://purl.obolibrary.org/obo/NCIT_C40164) (Uterine Corpus Epithelioid Leiomyoma))) 37.08%
-- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C40163](http://purl.obolibrary.org/obo/NCIT_C40163) (Uterine Corpus Cellular Leiomyoma))) 37.08%
+- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 37.08%
+- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 37.08%
+- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 37.08%
+- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 37.08%
+- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 37.08%
+- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 37.08%
+- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 37.08%
+- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 37.08%
+- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 37.08%
+- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C39963](http://purl.obolibrary.org/obo/NCIT_C39963) (Penile Bowenoid Papulosis))) 37.08%
+- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C39961](http://purl.obolibrary.org/obo/NCIT_C39961) (Penile Basal Cell Carcinoma))) 37.08%
 
 

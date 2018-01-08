@@ -18,8 +18,8 @@
 - [NCIT:C27992](http://purl.obolibrary.org/obo/NCIT_C27992) (Disease Qualifier) 34.69%
 - [NCIT:C20189](http://purl.obolibrary.org/obo/NCIT_C20189) (Property or Attribute) 34.69%
 - [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) 30.53%
-- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C40175](http://purl.obolibrary.org/obo/NCIT_C40175) (Uterine Corpus Myxoid Leiomyosarcoma))) 30.53%
-- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C40174](http://purl.obolibrary.org/obo/NCIT_C40174) (Uterine Corpus Epithelioid Leiomyosarcoma))) 30.53%
-- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C40170](http://purl.obolibrary.org/obo/NCIT_C40170) (Uterine Corpus Diffuse Leiomyomatosis))) 30.53%
+- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 30.53%
+- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 30.53%
+- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 30.53%
 
 

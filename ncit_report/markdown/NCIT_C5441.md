@@ -20,6 +20,6 @@
 - [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36903](http://purl.obolibrary.org/obo/NCIT_C36903) (Neoplastic Germ Cell) 43.05%
 - [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) 39.20%
 - [NCIT:C36903](http://purl.obolibrary.org/obo/NCIT_C36903) (Neoplastic Germ Cell) and [NCIT:C37162](http://purl.obolibrary.org/obo/NCIT_C37162) (Neoplastic Large Cell) 39.20%
-- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C4020](http://purl.obolibrary.org/obo/NCIT_C4020) (Fibroblastic Osteosarcoma))) 39.20%
+- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and (not ([NCIT:C40151](http://purl.obolibrary.org/obo/NCIT_C40151) (Grade 3 Endometrial Mucinous Adenocarcinoma))) 39.20%
 
 

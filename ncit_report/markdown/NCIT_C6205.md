@@ -12,14 +12,14 @@
 - [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C122604](http://purl.obolibrary.org/obo/NCIT_C122604) (Infantile Lesion))) 57.14%
 - Thing 52.12%
 - [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) 42.50%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39657](http://purl.obolibrary.org/obo/NCIT_C39657) (Neoplastic T-Lymphocyte with Clear Cytoplasm))) 42.50%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39652](http://purl.obolibrary.org/obo/NCIT_C39652) (Proliferation of Follicular Dendritic Cells Present))) 42.50%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39651](http://purl.obolibrary.org/obo/NCIT_C39651) (Proliferation of High Endothelial Venules Present))) 42.50%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39646](http://purl.obolibrary.org/obo/NCIT_C39646) (Erythroderma))) 42.50%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39640](http://purl.obolibrary.org/obo/NCIT_C39640) (Mucinous Degeneration))) 42.50%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39629](http://purl.obolibrary.org/obo/NCIT_C39629) (CDKN2A Gene Inactivation))) 42.50%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39628](http://purl.obolibrary.org/obo/NCIT_C39628) (Single Cell Exocytosis))) 42.50%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39627](http://purl.obolibrary.org/obo/NCIT_C39627) (Pautrier Microabscess Present))) 42.50%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39626](http://purl.obolibrary.org/obo/NCIT_C39626) (Epidermotropic Lymphocytic Infiltrate))) 42.50%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C38698](http://purl.obolibrary.org/obo/NCIT_C38698) (Hyperviscosity))) 42.50%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C38674](http://purl.obolibrary.org/obo/NCIT_C38674) (Widespread Disease))) 42.50%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C38667](http://purl.obolibrary.org/obo/NCIT_C38667) (Polymorphic Cellular Infiltrate))) 42.50%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C38666](http://purl.obolibrary.org/obo/NCIT_C38666) (Monomorphic Cellular Infiltrate))) 42.50%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C38665](http://purl.obolibrary.org/obo/NCIT_C38665) (Chest Pain))) 42.50%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C38661](http://purl.obolibrary.org/obo/NCIT_C38661) (Composite Lymphoma))) 42.50%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C38660](http://purl.obolibrary.org/obo/NCIT_C38660) (Neoplastic Large B-Lymphocyte with Pale Cytoplasm))) 42.50%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C3866](http://purl.obolibrary.org/obo/NCIT_C3866) (Esophageal Leiomyoma))) 42.50%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C38658](http://purl.obolibrary.org/obo/NCIT_C38658) (Transformed Peripheral B-Lymphocyte))) 42.50%
 
 

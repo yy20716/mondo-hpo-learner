@@ -10,16 +10,16 @@
 - [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) 63.64%
 - [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) 55.98%
 - [NCIT:C36799](http://purl.obolibrary.org/obo/NCIT_C36799) (Abnormal Trophoblastic Cell) 55.98%
-- [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 55.98%
-- [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 55.98%
-- [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) and (not ([NCIT:C40034](http://purl.obolibrary.org/obo/NCIT_C40034) (Ovarian Mucinous Adenocarcinofibroma))) 55.98%
-- [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) and (not ([NCIT:C40032](http://purl.obolibrary.org/obo/NCIT_C40032) (Ovarian Serous Cystadenofibroma))) 55.98%
-- [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) and (not ([NCIT:C40029](http://purl.obolibrary.org/obo/NCIT_C40029) (Borderline Ovarian Serous Cystadenofibroma))) 55.98%
-- [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) and (not ([NCIT:C40021](http://purl.obolibrary.org/obo/NCIT_C40021) (Ovarian Lymphoma))) 55.98%
-- [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 55.98%
-- [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 55.98%
-- [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 55.98%
-- [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 55.98%
-- [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 55.98%
+- [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) and (not ([NCIT:C39895](http://purl.obolibrary.org/obo/NCIT_C39895) (Prostate Ductal Adenocarcinoma, Cribriform Pattern))) 55.98%
+- [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) and (not ([NCIT:C3989](http://purl.obolibrary.org/obo/NCIT_C3989) (Parathyroid Hyperplasia))) 55.98%
+- [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) and (not ([NCIT:C39885](http://purl.obolibrary.org/obo/NCIT_C39885) (Acinar Prostate Adenocarcinoma, Lymphoepithelioma-Like Variant))) 55.98%
+- [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) and (not ([NCIT:C39880](http://purl.obolibrary.org/obo/NCIT_C39880) (Acinar Prostate Adenocarcinoma, Atrophic Variant))) 55.98%
+- [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) and (not ([NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q))) 55.98%
+- [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) and (not ([NCIT:C39874](http://purl.obolibrary.org/obo/NCIT_C39874) (Urethral Verrucous Carcinoma))) 55.98%
+- [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) and (not ([NCIT:C39873](http://purl.obolibrary.org/obo/NCIT_C39873) (Urethral Glandular Metaplasia))) 55.98%
+- [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) and (not ([NCIT:C39872](http://purl.obolibrary.org/obo/NCIT_C39872) (Urethral Villous Adenoma))) 55.98%
+- [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) and (not ([NCIT:C39866](http://purl.obolibrary.org/obo/NCIT_C39866) (Female Urethral Malignant Neoplasm))) 55.98%
+- [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) and (not ([NCIT:C39864](http://purl.obolibrary.org/obo/NCIT_C39864) (Carcinoma of Cowper Glands))) 55.98%
+- [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) and (not ([NCIT:C39862](http://purl.obolibrary.org/obo/NCIT_C39862) (Human Papillomavirus-Related Urethral Squamous Cell Carcinoma))) 55.98%
 
 

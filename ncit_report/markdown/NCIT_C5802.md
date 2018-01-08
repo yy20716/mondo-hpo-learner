@@ -12,14 +12,14 @@
 - [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C122604](http://purl.obolibrary.org/obo/NCIT_C122604) (Infantile Lesion))) 62.50%
 - Thing 51.60%
 - [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) 47.86%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39194](http://purl.obolibrary.org/obo/NCIT_C39194) (Phospholipase C Signaling Pathway))) 47.86%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39184](http://purl.obolibrary.org/obo/NCIT_C39184) (PDGF Signaling Pathway))) 47.86%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39168](http://purl.obolibrary.org/obo/NCIT_C39168) (NO2-Dependent IL12 Pathway))) 47.86%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39167](http://purl.obolibrary.org/obo/NCIT_C39167) (Nitric Oxide Pathway))) 47.86%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39164](http://purl.obolibrary.org/obo/NCIT_C39164) (Nerve Growth Factor Pathway))) 47.86%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39162](http://purl.obolibrary.org/obo/NCIT_C39162) (NFAT Pathway))) 47.86%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39152](http://purl.obolibrary.org/obo/NCIT_C39152) (Hepatocyte Growth Factor Receptor Signaling Pathway BioCarta))) 47.86%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39147](http://purl.obolibrary.org/obo/NCIT_C39147) (Calpain-2 Cell Motility Pathway))) 47.86%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39146](http://purl.obolibrary.org/obo/NCIT_C39146) (MAPKinase Signaling Pathway))) 47.86%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39588](http://purl.obolibrary.org/obo/NCIT_C39588) (Serum Soluble Fas Ligand Level Increased))) 47.86%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39586](http://purl.obolibrary.org/obo/NCIT_C39586) (T-Cell Large Granular Lymphocyte Leukemia Expressing the T-Cell Receptor Gamma-Delta))) 47.86%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39584](http://purl.obolibrary.org/obo/NCIT_C39584) (T-Cell Large Granular Lymphocyte Leukemia, Common Variant))) 47.86%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39583](http://purl.obolibrary.org/obo/NCIT_C39583) (FAS Apoptosis Pathway Deregulation))) 47.86%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C3958](http://purl.obolibrary.org/obo/NCIT_C3958) (Disseminated Peritoneal Leiomyomatosis))) 47.86%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39573](http://purl.obolibrary.org/obo/NCIT_C39573) (T-Lymphocyte with a Post-Thymic Immunophenotype))) 47.86%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39572](http://purl.obolibrary.org/obo/NCIT_C39572) (Neoplastic Cerebriform T-Prolymphocyte))) 47.86%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39571](http://purl.obolibrary.org/obo/NCIT_C39571) (Neoplastic Small T-Prolymphocyte))) 47.86%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39569](http://purl.obolibrary.org/obo/NCIT_C39569) (Cytoplasmic Protrusions Present))) 47.86%
 
 

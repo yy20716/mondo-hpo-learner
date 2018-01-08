@@ -2,7 +2,7 @@
 ### [NCIT:C6449](http://purl.obolibrary.org/obo/NCIT_C6449)
 **Label:** Benign Germ Cell Tumor
 
-**Subclasses:** [NCIT:C4516](http://purl.obolibrary.org/obo/NCIT_C4516) (Benign Ovarian Germ Cell Tumor), [NCIT:C6445](http://purl.obolibrary.org/obo/NCIT_C6445) (Mediastinal Benign Germ Cell Tumor), [NCIT:C5357](http://purl.obolibrary.org/obo/NCIT_C5357) (Benign Cardiac Germ Cell Tumor), [NCIT:C6553](http://purl.obolibrary.org/obo/NCIT_C6553) (Benign Childhood Germ Cell Tumor), [NCIT:C6751](http://purl.obolibrary.org/obo/NCIT_C6751) (Benign Extragonadal Germ Cell Tumor), 
+**Subclasses:** [NCIT:C4516](http://purl.obolibrary.org/obo/NCIT_C4516) (Benign Ovarian Germ Cell Tumor), [NCIT:C6445](http://purl.obolibrary.org/obo/NCIT_C6445) (Mediastinal Benign Germ Cell Tumor), [NCIT:C5357](http://purl.obolibrary.org/obo/NCIT_C5357) (Benign Cardiac Germ Cell Tumor), [NCIT:C6751](http://purl.obolibrary.org/obo/NCIT_C6751) (Benign Extragonadal Germ Cell Tumor), [NCIT:C6553](http://purl.obolibrary.org/obo/NCIT_C6553) (Benign Childhood Germ Cell Tumor), 
 
 **Class expressions from DL-Learner:**
 

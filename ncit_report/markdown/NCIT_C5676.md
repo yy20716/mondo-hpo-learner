@@ -11,15 +11,15 @@
 - [NCIT:C41457](http://purl.obolibrary.org/obo/NCIT_C41457) (Well-Circumscribed Lesion) 52.63%
 - [NCIT:C40560](http://purl.obolibrary.org/obo/NCIT_C40560) (Exophytic Polypoid Lesion) 52.63%
 - [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) 37.99%
-- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40129](http://purl.obolibrary.org/obo/NCIT_C40129) (Fallopian Tube Adenomatoid Tumor))) 37.99%
-- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40128](http://purl.obolibrary.org/obo/NCIT_C40128) (Fallopian Tube Leiomyosarcoma))) 37.99%
-- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40127](http://purl.obolibrary.org/obo/NCIT_C40127) (Fallopian Tube Leiomyoma))) 37.99%
-- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40125](http://purl.obolibrary.org/obo/NCIT_C40125) (Fallopian Tube Adenosarcoma))) 37.99%
-- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40124](http://purl.obolibrary.org/obo/NCIT_C40124) (Fallopian Tube Carcinosarcoma))) 37.99%
-- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40122](http://purl.obolibrary.org/obo/NCIT_C40122) (Pelvic Pain))) 37.99%
-- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40116](http://purl.obolibrary.org/obo/NCIT_C40116) (Fallopian Tube Metaplastic Papillary Tumor))) 37.99%
-- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40114](http://purl.obolibrary.org/obo/NCIT_C40114) (Fallopian Tube Serous Cystadenofibroma))) 37.99%
-- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40112](http://purl.obolibrary.org/obo/NCIT_C40112) (Fallopian Tube Papilloma))) 37.99%
-- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40110](http://purl.obolibrary.org/obo/NCIT_C40110) (Borderline Fallopian Tube Endometrioid Tumor))) 37.99%
+- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40093](http://purl.obolibrary.org/obo/NCIT_C40093) (Ovarian Squamous Cell Carcinoma))) 37.99%
+- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 37.99%
+- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 37.99%
+- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 37.99%
+- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 37.99%
+- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 37.99%
+- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 37.99%
+- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 37.99%
+- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 37.99%
+- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 37.99%
 
 

@@ -13,13 +13,13 @@
 - [NCIT:C36117](http://purl.obolibrary.org/obo/NCIT_C36117) (Invasive Lesion) 52.94%
 - [NCIT:C36116](http://purl.obolibrary.org/obo/NCIT_C36116) (Borderline Lesion) 52.94%
 - [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) 38.30%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C40379](http://purl.obolibrary.org/obo/NCIT_C40379) (Angiosarcoma of the Skin of the Arm after Radical Mastectomy followed by Lymphedema))) 38.30%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C40378](http://purl.obolibrary.org/obo/NCIT_C40378) (Post-Radiotherapy Breast Angiosarcoma))) 38.30%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C40377](http://purl.obolibrary.org/obo/NCIT_C40377) (Breast Follicular Lymphoma))) 38.30%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C40376](http://purl.obolibrary.org/obo/NCIT_C40376) (Breast Burkitt Lymphoma))) 38.30%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C40375](http://purl.obolibrary.org/obo/NCIT_C40375) (Breast Diffuse Large B-Cell Lymphoma))) 38.30%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C4037](http://purl.obolibrary.org/obo/NCIT_C4037) (Acute Myeloid Leukemia Arising from Previous Myelodysplastic Syndrome))) 38.30%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C40369](http://purl.obolibrary.org/obo/NCIT_C40369) (Sebaceous Breast Carcinoma))) 38.30%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C40367](http://purl.obolibrary.org/obo/NCIT_C40367) (Acinic Cell Breast Carcinoma))) 38.30%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 38.30%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 38.30%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 38.30%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 38.30%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 38.30%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39963](http://purl.obolibrary.org/obo/NCIT_C39963) (Penile Bowenoid Papulosis))) 38.30%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39961](http://purl.obolibrary.org/obo/NCIT_C39961) (Penile Basal Cell Carcinoma))) 38.30%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39959](http://purl.obolibrary.org/obo/NCIT_C39959) (Mixed Squamous Cell Carcinoma of the Penis))) 38.30%
 
 

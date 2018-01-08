@@ -12,14 +12,14 @@
 - Thing 52.26%
 - [UBERON:0001820](http://purl.obolibrary.org/obo/UBERON_0001820) (sweat gland) 44.12%
 - [UBERON:0000382](http://purl.obolibrary.org/obo/UBERON_0000382) (apocrine sweat gland) 41.61%
-- [UBERON:0000382](http://purl.obolibrary.org/obo/UBERON_0000382) (apocrine sweat gland) and (not ([NCIT:C40326](http://purl.obolibrary.org/obo/NCIT_C40326) (Vulvar Leiomyoma))) 41.61%
-- [UBERON:0000382](http://purl.obolibrary.org/obo/UBERON_0000382) (apocrine sweat gland) and (not ([NCIT:C40321](http://purl.obolibrary.org/obo/NCIT_C40321) (Vulvar Liposarcoma))) 41.61%
-- [UBERON:0000382](http://purl.obolibrary.org/obo/UBERON_0000382) (apocrine sweat gland) and (not ([NCIT:C40320](http://purl.obolibrary.org/obo/NCIT_C40320) (Vulvar Alveolar Soft Part Sarcoma))) 41.61%
-- [UBERON:0000382](http://purl.obolibrary.org/obo/UBERON_0000382) (apocrine sweat gland) and (not ([NCIT:C40318](http://purl.obolibrary.org/obo/NCIT_C40318) (Vulvar Leiomyosarcoma))) 41.61%
-- [UBERON:0000382](http://purl.obolibrary.org/obo/UBERON_0000382) (apocrine sweat gland) and (not ([NCIT:C40314](http://purl.obolibrary.org/obo/NCIT_C40314) (Vulvar Trichoepithelioma))) 41.61%
-- [UBERON:0000382](http://purl.obolibrary.org/obo/UBERON_0000382) (apocrine sweat gland) and (not ([NCIT:C40312](http://purl.obolibrary.org/obo/NCIT_C40312) (Vulvar Nodular Hidradenoma))) 41.61%
-- [UBERON:0000382](http://purl.obolibrary.org/obo/UBERON_0000382) (apocrine sweat gland) and (not ([NCIT:C40311](http://purl.obolibrary.org/obo/NCIT_C40311) (Vulvar Syringoma))) 41.61%
-- [UBERON:0000382](http://purl.obolibrary.org/obo/UBERON_0000382) (apocrine sweat gland) and (not ([NCIT:C40309](http://purl.obolibrary.org/obo/NCIT_C40309) (Vulvar Sebaceous Carcinoma))) 41.61%
-- [UBERON:0000382](http://purl.obolibrary.org/obo/UBERON_0000382) (apocrine sweat gland) and (not ([NCIT:C40308](http://purl.obolibrary.org/obo/NCIT_C40308) (Vulvar Apocrine Adenocarcinoma))) 41.61%
+- [UBERON:0000382](http://purl.obolibrary.org/obo/UBERON_0000382) (apocrine sweat gland) and (not ([NCIT:C40177](http://purl.obolibrary.org/obo/NCIT_C40177) (Uterine Corpus Smooth Muscle Tumor of Uncertain Malignant Potential))) 41.61%
+- [UBERON:0000382](http://purl.obolibrary.org/obo/UBERON_0000382) (apocrine sweat gland) and (not ([NCIT:C40175](http://purl.obolibrary.org/obo/NCIT_C40175) (Uterine Corpus Myxoid Leiomyosarcoma))) 41.61%
+- [UBERON:0000382](http://purl.obolibrary.org/obo/UBERON_0000382) (apocrine sweat gland) and (not ([NCIT:C40174](http://purl.obolibrary.org/obo/NCIT_C40174) (Uterine Corpus Epithelioid Leiomyosarcoma))) 41.61%
+- [UBERON:0000382](http://purl.obolibrary.org/obo/UBERON_0000382) (apocrine sweat gland) and (not ([NCIT:C40170](http://purl.obolibrary.org/obo/NCIT_C40170) (Uterine Corpus Diffuse Leiomyomatosis))) 41.61%
+- [UBERON:0000382](http://purl.obolibrary.org/obo/UBERON_0000382) (apocrine sweat gland) and (not ([NCIT:C40168](http://purl.obolibrary.org/obo/NCIT_C40168) (Uterine Corpus Lipoleiomyoma))) 41.61%
+- [UBERON:0000382](http://purl.obolibrary.org/obo/UBERON_0000382) (apocrine sweat gland) and (not ([NCIT:C40167](http://purl.obolibrary.org/obo/NCIT_C40167) (Uterine Corpus Bizarre Leiomyoma))) 41.61%
+- [UBERON:0000382](http://purl.obolibrary.org/obo/UBERON_0000382) (apocrine sweat gland) and (not ([NCIT:C40166](http://purl.obolibrary.org/obo/NCIT_C40166) (Uterine Corpus Myxoid Leiomyoma))) 41.61%
+- [UBERON:0000382](http://purl.obolibrary.org/obo/UBERON_0000382) (apocrine sweat gland) and (not ([NCIT:C40165](http://purl.obolibrary.org/obo/NCIT_C40165) (Uterine Corpus Apoplectic Leiomyoma))) 41.61%
+- [UBERON:0000382](http://purl.obolibrary.org/obo/UBERON_0000382) (apocrine sweat gland) and (not ([NCIT:C40164](http://purl.obolibrary.org/obo/NCIT_C40164) (Uterine Corpus Epithelioid Leiomyoma))) 41.61%
 
 

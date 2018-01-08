@@ -2,7 +2,7 @@
 ### [NCIT:C5346](http://purl.obolibrary.org/obo/NCIT_C5346)
 **Label:** Endocardial Neoplasm
 
-**Subclasses:** [NCIT:C45748](http://purl.obolibrary.org/obo/NCIT_C45748) (Ventricular Myxoma), [NCIT:C7748](http://purl.obolibrary.org/obo/NCIT_C7748) (Cardiac Myxoma), [NCIT:C3499](http://purl.obolibrary.org/obo/NCIT_C3499) (Atrial Myxoma), [NCIT:C4791](http://purl.obolibrary.org/obo/NCIT_C4791) (Left Atrial Myxoma), [NCIT:C4792](http://purl.obolibrary.org/obo/NCIT_C4792) (Right Atrial Myxoma), [NCIT:C4608](http://purl.obolibrary.org/obo/NCIT_C4608) (Benign Endocardial Neoplasm), [NCIT:C4570](http://purl.obolibrary.org/obo/NCIT_C4570) (Malignant Endocardial Neoplasm), 
+**Subclasses:** [NCIT:C7748](http://purl.obolibrary.org/obo/NCIT_C7748) (Cardiac Myxoma), [NCIT:C45748](http://purl.obolibrary.org/obo/NCIT_C45748) (Ventricular Myxoma), [NCIT:C3499](http://purl.obolibrary.org/obo/NCIT_C3499) (Atrial Myxoma), [NCIT:C4791](http://purl.obolibrary.org/obo/NCIT_C4791) (Left Atrial Myxoma), [NCIT:C4792](http://purl.obolibrary.org/obo/NCIT_C4792) (Right Atrial Myxoma), [NCIT:C4608](http://purl.obolibrary.org/obo/NCIT_C4608) (Benign Endocardial Neoplasm), [NCIT:C4570](http://purl.obolibrary.org/obo/NCIT_C4570) (Malignant Endocardial Neoplasm), 
 
 **Class expressions from DL-Learner:**
 

@@ -11,15 +11,15 @@
 - [NCIT:C35925](http://purl.obolibrary.org/obo/NCIT_C35925) (Tubular Pattern) 53.85%
 - Thing 52.89%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37243](http://purl.obolibrary.org/obo/NCIT_C37243) (ETV6-NTRK3 Fusion Protein Expression))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37242](http://purl.obolibrary.org/obo/NCIT_C37242) (HAS2-PLAG1 Fusion Protein Expression))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37241](http://purl.obolibrary.org/obo/NCIT_C37241) (COL1A2-PLAG1 Fusion Protein Expression))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37240](http://purl.obolibrary.org/obo/NCIT_C37240) (PAX7-FOXO1 Fusion Protein Expression))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3724](http://purl.obolibrary.org/obo/NCIT_C3724) (Cystic Hygroma))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37239](http://purl.obolibrary.org/obo/NCIT_C37239) (PAX3-FOXO1 Fusion Protein Expression))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37238](http://purl.obolibrary.org/obo/NCIT_C37238) (FUS-DDIT3 Fusion Protein Expression))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37237](http://purl.obolibrary.org/obo/NCIT_C37237) (EWSR1-WT1 Fusion Protein Expression))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37231](http://purl.obolibrary.org/obo/NCIT_C37231) (EWSR1-ETV4 Fusion Protein Expression))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37230](http://purl.obolibrary.org/obo/NCIT_C37230) (EWSR1-ETV1 Fusion Protein Expression))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3836](http://purl.obolibrary.org/obo/NCIT_C3836) (Infertility))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38350](http://purl.obolibrary.org/obo/NCIT_C38350) (del(4)(q12)))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38348](http://purl.obolibrary.org/obo/NCIT_C38348) (MSN-ALK Fusion Protein Expression))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38347](http://purl.obolibrary.org/obo/NCIT_C38347) (P13K-AKT Pathway Deregulation))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38346](http://purl.obolibrary.org/obo/NCIT_C38346) (MYC Pathway Deregulation))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38345](http://purl.obolibrary.org/obo/NCIT_C38345) (JUN Pathway Deregulation))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38344](http://purl.obolibrary.org/obo/NCIT_C38344) (RAS-RAF Pathway Deregulation))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38343](http://purl.obolibrary.org/obo/NCIT_C38343) (JAK-STAT Pathway Deregulation))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38341](http://purl.obolibrary.org/obo/NCIT_C38341) (Postgerminal Center B-Lymphocyte of Unknown Differentiation Stage))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3834](http://purl.obolibrary.org/obo/NCIT_C3834) (Ataxic Gait))) 39.20%
 
 

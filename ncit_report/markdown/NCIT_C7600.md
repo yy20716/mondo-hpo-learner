@@ -14,12 +14,12 @@
 - [NCIT:C36718](http://purl.obolibrary.org/obo/NCIT_C36718) (Sideroblast) 51.22%
 - [NCIT:C12524](http://purl.obolibrary.org/obo/NCIT_C12524) (Megaloblast) 51.22%
 - [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) 43.26%
-- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C40163](http://purl.obolibrary.org/obo/NCIT_C40163) (Uterine Corpus Cellular Leiomyoma))) 43.26%
-- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C40162](http://purl.obolibrary.org/obo/NCIT_C40162) (Uterine Corpus Leiomyoma, Mitotically Active Variant))) 43.26%
-- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C40161](http://purl.obolibrary.org/obo/NCIT_C40161) (JAZF1-SUZ12 Fusion Protein Expression))) 43.26%
-- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C40160](http://purl.obolibrary.org/obo/NCIT_C40160) (t(7;17)(p15;q21)))) 43.26%
-- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C40156](http://purl.obolibrary.org/obo/NCIT_C40156) (Endometrial Undifferentiated Carcinoma))) 43.26%
-- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C40155](http://purl.obolibrary.org/obo/NCIT_C40155) (Endometrial Small Cell Carcinoma))) 43.26%
-- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C40154](http://purl.obolibrary.org/obo/NCIT_C40154) (Endometrial Transitional Cell Carcinoma))) 43.26%
+- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C39167](http://purl.obolibrary.org/obo/NCIT_C39167) (Nitric Oxide Pathway))) 43.26%
+- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C39164](http://purl.obolibrary.org/obo/NCIT_C39164) (Nerve Growth Factor Pathway))) 43.26%
+- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C39162](http://purl.obolibrary.org/obo/NCIT_C39162) (NFAT Pathway))) 43.26%
+- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C39152](http://purl.obolibrary.org/obo/NCIT_C39152) (Hepatocyte Growth Factor Receptor Signaling Pathway BioCarta))) 43.26%
+- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C39147](http://purl.obolibrary.org/obo/NCIT_C39147) (Calpain-2 Cell Motility Pathway))) 43.26%
+- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C39146](http://purl.obolibrary.org/obo/NCIT_C39146) (MAPKinase Signaling Pathway))) 43.26%
+- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C39141](http://purl.obolibrary.org/obo/NCIT_C39141) (Longevity Pathway))) 43.26%
 
 

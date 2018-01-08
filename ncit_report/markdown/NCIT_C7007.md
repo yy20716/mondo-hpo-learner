@@ -10,16 +10,16 @@
 - [NCIT:C18261](http://purl.obolibrary.org/obo/NCIT_C18261) (VHL Gene) 53.85%
 - Thing 52.89%
 - [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) 39.20%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C40354](http://purl.obolibrary.org/obo/NCIT_C40354) (Breast Mucinous Cystadenocarcinoma))) 39.20%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C40350](http://purl.obolibrary.org/obo/NCIT_C40350) (Breast Carcinoma with Choriocarcinomatous Features))) 39.20%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C40345](http://purl.obolibrary.org/obo/NCIT_C40345) (Testicular Intratubular Germ Cell Neoplasia, Unclassified))) 39.20%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C40344](http://purl.obolibrary.org/obo/NCIT_C40344) (Hypertriploidy))) 39.20%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C40343](http://purl.obolibrary.org/obo/NCIT_C40343) (Hypotriploidy))) 39.20%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C40341](http://purl.obolibrary.org/obo/NCIT_C40341) (Hypospadias))) 39.20%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C40339](http://purl.obolibrary.org/obo/NCIT_C40339) (Mesenteric Gastrointestinal Stromal Tumor))) 39.20%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C40337](http://purl.obolibrary.org/obo/NCIT_C40337) (Retroperitoneal Gastrointestinal Stromal Tumor))) 39.20%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C40329](http://purl.obolibrary.org/obo/NCIT_C40329) (Vulvar Melanoma))) 39.20%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C40328](http://purl.obolibrary.org/obo/NCIT_C40328) (Vulvar Granular Cell Tumor))) 39.20%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C40327](http://purl.obolibrary.org/obo/NCIT_C40327) (Vulvar Cellular Angiofibroma))) 39.20%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C40245](http://purl.obolibrary.org/obo/NCIT_C40245) (Vaginal Basaloid Carcinoma))) 39.20%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C40243](http://purl.obolibrary.org/obo/NCIT_C40243) (Vaginal Keratinizing Squamous Cell Carcinoma))) 39.20%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C40239](http://purl.obolibrary.org/obo/NCIT_C40239) (Cervical Melanoma))) 39.20%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C40236](http://purl.obolibrary.org/obo/NCIT_C40236) (Cervical Wilms Tumor))) 39.20%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C40231](http://purl.obolibrary.org/obo/NCIT_C40231) (Cervical Adenomyoma))) 39.20%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C40230](http://purl.obolibrary.org/obo/NCIT_C40230) (Cervical Adenofibroma))) 39.20%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C40229](http://purl.obolibrary.org/obo/NCIT_C40229) (Cervical Adenosarcoma))) 39.20%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C40225](http://purl.obolibrary.org/obo/NCIT_C40225) (Cervical Alveolar Soft Part Sarcoma))) 39.20%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C40224](http://purl.obolibrary.org/obo/NCIT_C40224) (Undifferentiated Endocervical Sarcoma))) 39.20%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C40223](http://purl.obolibrary.org/obo/NCIT_C40223) (Uterine Corpus Low Grade Endometrial Stromal Sarcoma))) 39.20%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C40222](http://purl.obolibrary.org/obo/NCIT_C40222) (Low Grade Endometrioid Stromal Sarcoma of the Cervix))) 39.20%
 
 

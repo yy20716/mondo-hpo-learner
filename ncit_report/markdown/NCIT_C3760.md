@@ -12,14 +12,14 @@
 - [NCIT:C36117](http://purl.obolibrary.org/obo/NCIT_C36117) (Invasive Lesion) 52.63%
 - [NCIT:C36116](http://purl.obolibrary.org/obo/NCIT_C36116) (Borderline Lesion) 52.63%
 - [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) 37.99%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38999](http://purl.obolibrary.org/obo/NCIT_C38999) (BARD1 Pathway))) 37.99%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38998](http://purl.obolibrary.org/obo/NCIT_C38998) (BAD Regulation Pathway))) 37.99%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38997](http://purl.obolibrary.org/obo/NCIT_C38997) (Cancer Susceptibility Pathway))) 37.99%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38996](http://purl.obolibrary.org/obo/NCIT_C38996) (ATM Signaling Pathway))) 37.99%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38995](http://purl.obolibrary.org/obo/NCIT_C38995) (Angiotensin II Signaling Pathway))) 37.99%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38992](http://purl.obolibrary.org/obo/NCIT_C38992) (Ribosomal Biogenesis Pathway))) 37.99%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38981](http://purl.obolibrary.org/obo/NCIT_C38981) (AKT Signaling Pathway))) 37.99%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38975](http://purl.obolibrary.org/obo/NCIT_C38975) (Agrin Pathway))) 37.99%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38971](http://purl.obolibrary.org/obo/NCIT_C38971) (Regulation of Apoptosis Pathway))) 37.99%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38710](http://purl.obolibrary.org/obo/NCIT_C38710) (Defective Gamma Heavy Chain Present))) 37.99%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C3870](http://purl.obolibrary.org/obo/NCIT_C3870) (Lymphangitic Carcinomatosis))) 37.99%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38698](http://purl.obolibrary.org/obo/NCIT_C38698) (Hyperviscosity))) 37.99%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38674](http://purl.obolibrary.org/obo/NCIT_C38674) (Widespread Disease))) 37.99%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38667](http://purl.obolibrary.org/obo/NCIT_C38667) (Polymorphic Cellular Infiltrate))) 37.99%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38666](http://purl.obolibrary.org/obo/NCIT_C38666) (Monomorphic Cellular Infiltrate))) 37.99%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38665](http://purl.obolibrary.org/obo/NCIT_C38665) (Chest Pain))) 37.99%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38661](http://purl.obolibrary.org/obo/NCIT_C38661) (Composite Lymphoma))) 37.99%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38660](http://purl.obolibrary.org/obo/NCIT_C38660) (Neoplastic Large B-Lymphocyte with Pale Cytoplasm))) 37.99%
 
 

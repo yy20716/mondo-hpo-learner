@@ -8,18 +8,18 @@
 
 - Thing 52.12%
 - [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) 42.50%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40379](http://purl.obolibrary.org/obo/NCIT_C40379) (Angiosarcoma of the Skin of the Arm after Radical Mastectomy followed by Lymphedema))) 42.50%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40378](http://purl.obolibrary.org/obo/NCIT_C40378) (Post-Radiotherapy Breast Angiosarcoma))) 42.50%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40377](http://purl.obolibrary.org/obo/NCIT_C40377) (Breast Follicular Lymphoma))) 42.50%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40376](http://purl.obolibrary.org/obo/NCIT_C40376) (Breast Burkitt Lymphoma))) 42.50%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40375](http://purl.obolibrary.org/obo/NCIT_C40375) (Breast Diffuse Large B-Cell Lymphoma))) 42.50%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C4037](http://purl.obolibrary.org/obo/NCIT_C4037) (Acute Myeloid Leukemia Arising from Previous Myelodysplastic Syndrome))) 42.50%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40369](http://purl.obolibrary.org/obo/NCIT_C40369) (Sebaceous Breast Carcinoma))) 42.50%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40367](http://purl.obolibrary.org/obo/NCIT_C40367) (Acinic Cell Breast Carcinoma))) 42.50%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40366](http://purl.obolibrary.org/obo/NCIT_C40366) (Oncocytic Breast Carcinoma))) 42.50%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40363](http://purl.obolibrary.org/obo/NCIT_C40363) (Nipple Syringomatous Adenoma))) 42.50%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40362](http://purl.obolibrary.org/obo/NCIT_C40362) (Low Grade Adenosquamous Breast Carcinoma))) 42.50%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40358](http://purl.obolibrary.org/obo/NCIT_C40358) (Squamous Cell Breast Carcinoma, Spindle Cell Variant))) 42.50%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40356](http://purl.obolibrary.org/obo/NCIT_C40356) (Breast Large Cell Neuroendocrine Carcinoma))) 42.50%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40271](http://purl.obolibrary.org/obo/NCIT_C40271) (Low Grade Endometrioid Stromal Sarcoma of the Vagina))) 42.50%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C4027](http://purl.obolibrary.org/obo/NCIT_C4027) (Paget Disease of the Vulva))) 42.50%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40264](http://purl.obolibrary.org/obo/NCIT_C40264) (Vaginal Undifferentiated Carcinoma))) 42.50%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40263](http://purl.obolibrary.org/obo/NCIT_C40263) (Vaginal Small Cell Carcinoma))) 42.50%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40261](http://purl.obolibrary.org/obo/NCIT_C40261) (Vaginal Adenoid Cystic Carcinoma))) 42.50%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40260](http://purl.obolibrary.org/obo/NCIT_C40260) (Vaginal Adenosquamous Carcinoma))) 42.50%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C4026](http://purl.obolibrary.org/obo/NCIT_C4026) (Ovarian Mucinous Cystadenocarcinoma))) 42.50%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40259](http://purl.obolibrary.org/obo/NCIT_C40259) (Vaginal Villous Adenoma))) 42.50%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40258](http://purl.obolibrary.org/obo/NCIT_C40258) (Vaginal Tubulovillous Adenoma))) 42.50%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40257](http://purl.obolibrary.org/obo/NCIT_C40257) (Vaginal Tubular Adenoma))) 42.50%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40255](http://purl.obolibrary.org/obo/NCIT_C40255) (Vaginal Mullerian Papilloma))) 42.50%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40252](http://purl.obolibrary.org/obo/NCIT_C40252) (Vaginal Mucinous Adenocarcinoma))) 42.50%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40251](http://purl.obolibrary.org/obo/NCIT_C40251) (Vaginal Endometrioid Adenocarcinoma))) 42.50%
 
 

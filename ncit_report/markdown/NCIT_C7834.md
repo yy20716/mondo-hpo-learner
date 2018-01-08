@@ -10,16 +10,16 @@
 - [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C122604](http://purl.obolibrary.org/obo/NCIT_C122604) (Infantile Lesion))) 62.50%
 - Thing 51.60%
 - [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) 47.86%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40384](http://purl.obolibrary.org/obo/NCIT_C40384) (Breast Ductal Adenoma))) 47.86%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40383](http://purl.obolibrary.org/obo/NCIT_C40383) (Breast Apocrine Adenoma))) 47.86%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40379](http://purl.obolibrary.org/obo/NCIT_C40379) (Angiosarcoma of the Skin of the Arm after Radical Mastectomy followed by Lymphedema))) 47.86%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40378](http://purl.obolibrary.org/obo/NCIT_C40378) (Post-Radiotherapy Breast Angiosarcoma))) 47.86%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40377](http://purl.obolibrary.org/obo/NCIT_C40377) (Breast Follicular Lymphoma))) 47.86%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40376](http://purl.obolibrary.org/obo/NCIT_C40376) (Breast Burkitt Lymphoma))) 47.86%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40375](http://purl.obolibrary.org/obo/NCIT_C40375) (Breast Diffuse Large B-Cell Lymphoma))) 47.86%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C4037](http://purl.obolibrary.org/obo/NCIT_C4037) (Acute Myeloid Leukemia Arising from Previous Myelodysplastic Syndrome))) 47.86%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40369](http://purl.obolibrary.org/obo/NCIT_C40369) (Sebaceous Breast Carcinoma))) 47.86%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40367](http://purl.obolibrary.org/obo/NCIT_C40367) (Acinic Cell Breast Carcinoma))) 47.86%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40366](http://purl.obolibrary.org/obo/NCIT_C40366) (Oncocytic Breast Carcinoma))) 47.86%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40272](http://purl.obolibrary.org/obo/NCIT_C40272) (Vaginal Undifferentiated Sarcoma))) 47.86%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40271](http://purl.obolibrary.org/obo/NCIT_C40271) (Low Grade Endometrioid Stromal Sarcoma of the Vagina))) 47.86%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C4027](http://purl.obolibrary.org/obo/NCIT_C4027) (Paget Disease of the Vulva))) 47.86%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40264](http://purl.obolibrary.org/obo/NCIT_C40264) (Vaginal Undifferentiated Carcinoma))) 47.86%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40263](http://purl.obolibrary.org/obo/NCIT_C40263) (Vaginal Small Cell Carcinoma))) 47.86%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40261](http://purl.obolibrary.org/obo/NCIT_C40261) (Vaginal Adenoid Cystic Carcinoma))) 47.86%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40260](http://purl.obolibrary.org/obo/NCIT_C40260) (Vaginal Adenosquamous Carcinoma))) 47.86%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C4026](http://purl.obolibrary.org/obo/NCIT_C4026) (Ovarian Mucinous Cystadenocarcinoma))) 47.86%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40259](http://purl.obolibrary.org/obo/NCIT_C40259) (Vaginal Villous Adenoma))) 47.86%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40258](http://purl.obolibrary.org/obo/NCIT_C40258) (Vaginal Tubulovillous Adenoma))) 47.86%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40257](http://purl.obolibrary.org/obo/NCIT_C40257) (Vaginal Tubular Adenoma))) 47.86%
 
 

@@ -8,18 +8,18 @@
 
 - Thing 52.89%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39680](http://purl.obolibrary.org/obo/NCIT_C39680) (Doughnut Cell))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39679](http://purl.obolibrary.org/obo/NCIT_C39679) (Hallmark Cell))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39674](http://purl.obolibrary.org/obo/NCIT_C39674) (Anaplastic Large Cell Lymphoma, Giant Cell Rich Subtype))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39657](http://purl.obolibrary.org/obo/NCIT_C39657) (Neoplastic T-Lymphocyte with Clear Cytoplasm))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39652](http://purl.obolibrary.org/obo/NCIT_C39652) (Proliferation of Follicular Dendritic Cells Present))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39651](http://purl.obolibrary.org/obo/NCIT_C39651) (Proliferation of High Endothelial Venules Present))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39646](http://purl.obolibrary.org/obo/NCIT_C39646) (Erythroderma))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39640](http://purl.obolibrary.org/obo/NCIT_C39640) (Mucinous Degeneration))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39629](http://purl.obolibrary.org/obo/NCIT_C39629) (CDKN2A Gene Inactivation))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39628](http://purl.obolibrary.org/obo/NCIT_C39628) (Single Cell Exocytosis))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39627](http://purl.obolibrary.org/obo/NCIT_C39627) (Pautrier Microabscess Present))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39626](http://purl.obolibrary.org/obo/NCIT_C39626) (Epidermotropic Lymphocytic Infiltrate))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39625](http://purl.obolibrary.org/obo/NCIT_C39625) (Extracutaneous Dissemination of Disease))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39004](http://purl.obolibrary.org/obo/NCIT_C39004) (B-Cell Survival Pathway))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38999](http://purl.obolibrary.org/obo/NCIT_C38999) (BARD1 Pathway))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38998](http://purl.obolibrary.org/obo/NCIT_C38998) (BAD Regulation Pathway))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38997](http://purl.obolibrary.org/obo/NCIT_C38997) (Cancer Susceptibility Pathway))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38996](http://purl.obolibrary.org/obo/NCIT_C38996) (ATM Signaling Pathway))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38995](http://purl.obolibrary.org/obo/NCIT_C38995) (Angiotensin II Signaling Pathway))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38992](http://purl.obolibrary.org/obo/NCIT_C38992) (Ribosomal Biogenesis Pathway))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38981](http://purl.obolibrary.org/obo/NCIT_C38981) (AKT Signaling Pathway))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38975](http://purl.obolibrary.org/obo/NCIT_C38975) (Agrin Pathway))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38971](http://purl.obolibrary.org/obo/NCIT_C38971) (Regulation of Apoptosis Pathway))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3892](http://purl.obolibrary.org/obo/NCIT_C3892) (Mu Heavy Chain Disease))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38850](http://purl.obolibrary.org/obo/NCIT_C38850) (Phosphatidylinositol Signaling System Pathway))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38834](http://purl.obolibrary.org/obo/NCIT_C38834) (MAPK Signaling Pathway))) 39.20%
 
 

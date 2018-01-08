@@ -8,18 +8,18 @@
 
 - Thing 52.66%
 - [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) 39.90%
-- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 39.90%
-- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 39.90%
-- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 39.90%
-- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 39.90%
-- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 39.90%
-- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 39.90%
-- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 39.90%
-- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 39.90%
-- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 39.90%
-- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 39.90%
-- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 39.90%
-- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 39.90%
-- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C40034](http://purl.obolibrary.org/obo/NCIT_C40034) (Ovarian Mucinous Adenocarcinofibroma))) 39.90%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C39748](http://purl.obolibrary.org/obo/NCIT_C39748) (Lymphoblast-Like Neoplastic B-Lymphocyte))) 39.90%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C39747](http://purl.obolibrary.org/obo/NCIT_C39747) (Pleomorphic Variant Mantle Cell Lymphoma))) 39.90%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C39743](http://purl.obolibrary.org/obo/NCIT_C39743) (Fascicular Pattern))) 39.90%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C39741](http://purl.obolibrary.org/obo/NCIT_C39741) (Retroperitoneal Inflammatory Myofibroblastic Tumor))) 39.90%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C39740](http://purl.obolibrary.org/obo/NCIT_C39740) (Lung Inflammatory Myofibroblastic Tumor))) 39.90%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C39739](http://purl.obolibrary.org/obo/NCIT_C39739) (Negative Peripheral Blood))) 39.90%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C39725](http://purl.obolibrary.org/obo/NCIT_C39725) (Immunodeficiency))) 39.90%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C39721](http://purl.obolibrary.org/obo/NCIT_C39721) (Abundance of Small Lymphocytes))) 39.90%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C39720](http://purl.obolibrary.org/obo/NCIT_C39720) (Classical Reed-Sternberg Cell))) 39.90%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C3972](http://purl.obolibrary.org/obo/NCIT_C3972) (Prostate Fibroma))) 39.90%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C39719](http://purl.obolibrary.org/obo/NCIT_C39719) (PDGFRalpha Protein Overexpression))) 39.90%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C39718](http://purl.obolibrary.org/obo/NCIT_C39718) (PDGFRA Gene Mutation))) 39.90%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C39717](http://purl.obolibrary.org/obo/NCIT_C39717) (MDM2 Gene Mutation))) 39.90%
 
 

@@ -9,17 +9,17 @@
 - Thing 53.58%
 - [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C32044](http://purl.obolibrary.org/obo/NCIT_C32044) (Acidophilic Cell))) 52.50%
 - [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) 37.86%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C38390](http://purl.obolibrary.org/obo/NCIT_C38390) (MLLT3-KMT2A Fusion Protein Expression))) 37.86%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C38387](http://purl.obolibrary.org/obo/NCIT_C38387) (KMT2A-AF10 Fusion Protein Expression))) 37.86%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C38386](http://purl.obolibrary.org/obo/NCIT_C38386) (del(20)(q11)))) 37.86%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C38385](http://purl.obolibrary.org/obo/NCIT_C38385) (del(7)(q11;q36)))) 37.86%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C38379](http://purl.obolibrary.org/obo/NCIT_C38379) (STAT5B-RARA Fusion Protein Expression))) 37.86%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C38378](http://purl.obolibrary.org/obo/NCIT_C38378) (t(17;17)(q21;q21)))) 37.86%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C38377](http://purl.obolibrary.org/obo/NCIT_C38377) (Acute Myeloid Leukemia with t(17;17)(q21;q21)))) 37.86%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C38373](http://purl.obolibrary.org/obo/NCIT_C38373) (RBM15-MKL1 Fusion Protein Expression))) 37.86%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C38372](http://purl.obolibrary.org/obo/NCIT_C38372) (CEBPA Gene Mutation))) 37.86%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C38362](http://purl.obolibrary.org/obo/NCIT_C38362) (RUNX1 Gene Mutation))) 37.86%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C3836](http://purl.obolibrary.org/obo/NCIT_C3836) (Infertility))) 37.86%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C38350](http://purl.obolibrary.org/obo/NCIT_C38350) (del(4)(q12)))) 37.86%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37223](http://purl.obolibrary.org/obo/NCIT_C37223) (PML-RARA Fusion Protein Expression))) 37.86%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37222](http://purl.obolibrary.org/obo/NCIT_C37222) (NUMA1-RARA Fusion Protein Expression))) 37.86%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37221](http://purl.obolibrary.org/obo/NCIT_C37221) (NPM1-RARA Fusion Protein Expression))) 37.86%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37220](http://purl.obolibrary.org/obo/NCIT_C37220) (ZBTB16-RARA Fusion Protein Expression))) 37.86%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37219](http://purl.obolibrary.org/obo/NCIT_C37219) (CBFB-MYH11 Fusion Protein Expression))) 37.86%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37218](http://purl.obolibrary.org/obo/NCIT_C37218) (AML1-ETO Fusion Protein Expression))) 37.86%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37217](http://purl.obolibrary.org/obo/NCIT_C37217) (FIP1L1-PDGFRalpha Fusion Protein Expression))) 37.86%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37216](http://purl.obolibrary.org/obo/NCIT_C37216) (CLTC-ALK Fusion Protein Expression))) 37.86%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37214](http://purl.obolibrary.org/obo/NCIT_C37214) (Colloid Carcinoma of the Pancreas))) 37.86%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37212](http://purl.obolibrary.org/obo/NCIT_C37212) (Solid Pseudopapillary Neoplasm of the Pancreas))) 37.86%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37209](http://purl.obolibrary.org/obo/NCIT_C37209) (Diffuse Blastoid B-Cell Lymphoma))) 37.86%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37208](http://purl.obolibrary.org/obo/NCIT_C37208) (Rearrangement of 2p23))) 37.86%
 
 

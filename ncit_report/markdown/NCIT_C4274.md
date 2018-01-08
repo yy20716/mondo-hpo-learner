@@ -16,10 +16,10 @@
 - [NCIT:C53596](http://purl.obolibrary.org/obo/NCIT_C53596) (Epithelial Component Present) 39.32%
 - [NCIT:C61541](http://purl.obolibrary.org/obo/NCIT_C61541) (Atypical Glandular Epithelium Resembling the Normal Endometrium Present) 39.20%
 - [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) 39.20%
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C40150](http://purl.obolibrary.org/obo/NCIT_C40150) (Grade 2 Endometrial Mucinous Adenocarcinoma))) 39.20%
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C40149](http://purl.obolibrary.org/obo/NCIT_C40149) (Grade 1 Endometrial Mucinous Adenocarcinoma))) 39.20%
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C40148](http://purl.obolibrary.org/obo/NCIT_C40148) (Grade 3 Endometrial Endometrioid Adenocarcinoma))) 39.20%
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C40147](http://purl.obolibrary.org/obo/NCIT_C40147) (Grade 2 Endometrial Endometrioid Adenocarcinoma))) 39.20%
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C40146](http://purl.obolibrary.org/obo/NCIT_C40146) (Grade 1 Endometrial Endometrioid Adenocarcinoma))) 39.20%
+- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C40263](http://purl.obolibrary.org/obo/NCIT_C40263) (Vaginal Small Cell Carcinoma))) 39.20%
+- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C40261](http://purl.obolibrary.org/obo/NCIT_C40261) (Vaginal Adenoid Cystic Carcinoma))) 39.20%
+- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C40260](http://purl.obolibrary.org/obo/NCIT_C40260) (Vaginal Adenosquamous Carcinoma))) 39.20%
+- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C4026](http://purl.obolibrary.org/obo/NCIT_C4026) (Ovarian Mucinous Cystadenocarcinoma))) 39.20%
+- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C40259](http://purl.obolibrary.org/obo/NCIT_C40259) (Vaginal Villous Adenoma))) 39.20%
 
 

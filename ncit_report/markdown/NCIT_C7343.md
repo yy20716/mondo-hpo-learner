@@ -8,18 +8,18 @@
 
 - Thing 52.89%
 - [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) 39.20%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40150](http://purl.obolibrary.org/obo/NCIT_C40150) (Grade 2 Endometrial Mucinous Adenocarcinoma))) 39.20%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40149](http://purl.obolibrary.org/obo/NCIT_C40149) (Grade 1 Endometrial Mucinous Adenocarcinoma))) 39.20%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40148](http://purl.obolibrary.org/obo/NCIT_C40148) (Grade 3 Endometrial Endometrioid Adenocarcinoma))) 39.20%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40147](http://purl.obolibrary.org/obo/NCIT_C40147) (Grade 2 Endometrial Endometrioid Adenocarcinoma))) 39.20%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40146](http://purl.obolibrary.org/obo/NCIT_C40146) (Grade 1 Endometrial Endometrioid Adenocarcinoma))) 39.20%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40142](http://purl.obolibrary.org/obo/NCIT_C40142) (Uterine Ligament Papillary Cystadenoma Associated with von Hippel-Lindau Disease))) 39.20%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40141](http://purl.obolibrary.org/obo/NCIT_C40141) (Wolffian Adnexal Tumor))) 39.20%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40139](http://purl.obolibrary.org/obo/NCIT_C40139) (Uterine Ligament Clear Cell Adenocarcinoma))) 39.20%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40138](http://purl.obolibrary.org/obo/NCIT_C40138) (Uterine Ligament Endometrioid Adenocarcinoma))) 39.20%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40137](http://purl.obolibrary.org/obo/NCIT_C40137) (Uterine Ligament Mucinous Adenocarcinoma))) 39.20%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40129](http://purl.obolibrary.org/obo/NCIT_C40129) (Fallopian Tube Adenomatoid Tumor))) 39.20%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40128](http://purl.obolibrary.org/obo/NCIT_C40128) (Fallopian Tube Leiomyosarcoma))) 39.20%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40127](http://purl.obolibrary.org/obo/NCIT_C40127) (Fallopian Tube Leiomyoma))) 39.20%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40114](http://purl.obolibrary.org/obo/NCIT_C40114) (Fallopian Tube Serous Cystadenofibroma))) 39.20%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40112](http://purl.obolibrary.org/obo/NCIT_C40112) (Fallopian Tube Papilloma))) 39.20%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40110](http://purl.obolibrary.org/obo/NCIT_C40110) (Borderline Fallopian Tube Endometrioid Tumor))) 39.20%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 39.20%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 39.20%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40104](http://purl.obolibrary.org/obo/NCIT_C40104) (Fallopian Tube Transitional Cell Carcinoma))) 39.20%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40103](http://purl.obolibrary.org/obo/NCIT_C40103) (Fallopian Tube Mucinous Adenocarcinoma))) 39.20%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40093](http://purl.obolibrary.org/obo/NCIT_C40093) (Ovarian Squamous Cell Carcinoma))) 39.20%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 39.20%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 39.20%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 39.20%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 39.20%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 39.20%
 
 

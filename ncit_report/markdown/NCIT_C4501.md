@@ -8,18 +8,18 @@
 
 - [NCIT:C32991](http://purl.obolibrary.org/obo/NCIT_C32991) (Lipocyte) 56.25%
 - [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) 53.32%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39811](http://purl.obolibrary.org/obo/NCIT_C39811) (t(5;11)(q35;q13)))) 53.32%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39810](http://purl.obolibrary.org/obo/NCIT_C39810) (Type 2 Renal Papillary Adenoma))) 53.32%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39809](http://purl.obolibrary.org/obo/NCIT_C39809) (Type 1 Renal Papillary Adenoma))) 53.32%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39808](http://purl.obolibrary.org/obo/NCIT_C39808) (Asymptomatic Mass))) 53.32%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39807](http://purl.obolibrary.org/obo/NCIT_C39807) (Mucinous Tubular and Spindle Cell Carcinoma of the Kidney))) 53.32%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39806](http://purl.obolibrary.org/obo/NCIT_C39806) (NONO-TFE3 Fusion Protein Expression))) 53.32%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39805](http://purl.obolibrary.org/obo/NCIT_C39805) (PSF-TFE3 Fusion Protein Expression))) 53.32%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39803](http://purl.obolibrary.org/obo/NCIT_C39803) (PRCC-TFE3 Fusion Protein Expression))) 53.32%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39802](http://purl.obolibrary.org/obo/NCIT_C39802) (Renal Cell Carcinoma Associated with inv(X)(p11;q12)))) 53.32%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39801](http://purl.obolibrary.org/obo/NCIT_C39801) (inv(X)(p11;q12)))) 53.32%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39800](http://purl.obolibrary.org/obo/NCIT_C39800) (Sickle Cell Trait))) 53.32%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39799](http://purl.obolibrary.org/obo/NCIT_C39799) (Loss of Chromosome 21))) 53.32%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39798](http://purl.obolibrary.org/obo/NCIT_C39798) (Loss of Chromosome 2))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39584](http://purl.obolibrary.org/obo/NCIT_C39584) (T-Cell Large Granular Lymphocyte Leukemia, Common Variant))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39583](http://purl.obolibrary.org/obo/NCIT_C39583) (FAS Apoptosis Pathway Deregulation))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C3958](http://purl.obolibrary.org/obo/NCIT_C3958) (Disseminated Peritoneal Leiomyomatosis))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39573](http://purl.obolibrary.org/obo/NCIT_C39573) (T-Lymphocyte with a Post-Thymic Immunophenotype))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39572](http://purl.obolibrary.org/obo/NCIT_C39572) (Neoplastic Cerebriform T-Prolymphocyte))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39571](http://purl.obolibrary.org/obo/NCIT_C39571) (Neoplastic Small T-Prolymphocyte))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39569](http://purl.obolibrary.org/obo/NCIT_C39569) (Cytoplasmic Protrusions Present))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39565](http://purl.obolibrary.org/obo/NCIT_C39565) (Coarse Azurophilic Granules Present))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C3950](http://purl.obolibrary.org/obo/NCIT_C3950) (Oral Mucosa Lobular Capillary Hemangioma))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C3939](http://purl.obolibrary.org/obo/NCIT_C3939) (Bannayan Syndrome))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39301](http://purl.obolibrary.org/obo/NCIT_C39301) (CD4+/CD56+ Neoplastic Medium-Sized Cell))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39300](http://purl.obolibrary.org/obo/NCIT_C39300) (Precursor Natural Killer Cell))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39294](http://purl.obolibrary.org/obo/NCIT_C39294) (Schistosoma Hematobium Infection))) 53.32%
 
 

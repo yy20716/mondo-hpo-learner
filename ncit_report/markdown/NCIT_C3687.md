@@ -12,14 +12,14 @@
 - [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 52.08%
 - [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) 44.99%
 - [CL:0000244](http://purl.obolibrary.org/obo/CL_0000244) (transitional epithelial cell) 44.99%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40177](http://purl.obolibrary.org/obo/NCIT_C40177) (Uterine Corpus Smooth Muscle Tumor of Uncertain Malignant Potential))) 44.99%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40175](http://purl.obolibrary.org/obo/NCIT_C40175) (Uterine Corpus Myxoid Leiomyosarcoma))) 44.99%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40174](http://purl.obolibrary.org/obo/NCIT_C40174) (Uterine Corpus Epithelioid Leiomyosarcoma))) 44.99%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40170](http://purl.obolibrary.org/obo/NCIT_C40170) (Uterine Corpus Diffuse Leiomyomatosis))) 44.99%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40168](http://purl.obolibrary.org/obo/NCIT_C40168) (Uterine Corpus Lipoleiomyoma))) 44.99%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40167](http://purl.obolibrary.org/obo/NCIT_C40167) (Uterine Corpus Bizarre Leiomyoma))) 44.99%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40166](http://purl.obolibrary.org/obo/NCIT_C40166) (Uterine Corpus Myxoid Leiomyoma))) 44.99%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40165](http://purl.obolibrary.org/obo/NCIT_C40165) (Uterine Corpus Apoplectic Leiomyoma))) 44.99%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40164](http://purl.obolibrary.org/obo/NCIT_C40164) (Uterine Corpus Epithelioid Leiomyoma))) 44.99%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39808](http://purl.obolibrary.org/obo/NCIT_C39808) (Asymptomatic Mass))) 44.99%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39807](http://purl.obolibrary.org/obo/NCIT_C39807) (Mucinous Tubular and Spindle Cell Carcinoma of the Kidney))) 44.99%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39806](http://purl.obolibrary.org/obo/NCIT_C39806) (NONO-TFE3 Fusion Protein Expression))) 44.99%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39805](http://purl.obolibrary.org/obo/NCIT_C39805) (PSF-TFE3 Fusion Protein Expression))) 44.99%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39803](http://purl.obolibrary.org/obo/NCIT_C39803) (PRCC-TFE3 Fusion Protein Expression))) 44.99%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39802](http://purl.obolibrary.org/obo/NCIT_C39802) (Renal Cell Carcinoma Associated with inv(X)(p11;q12)))) 44.99%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39801](http://purl.obolibrary.org/obo/NCIT_C39801) (inv(X)(p11;q12)))) 44.99%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39800](http://purl.obolibrary.org/obo/NCIT_C39800) (Sickle Cell Trait))) 44.99%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39799](http://purl.obolibrary.org/obo/NCIT_C39799) (Loss of Chromosome 21))) 44.99%
 
 

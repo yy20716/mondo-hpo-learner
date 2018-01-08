@@ -8,18 +8,18 @@
 
 - Thing 52.66%
 - [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) 39.90%
-- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([NCIT:C40116](http://purl.obolibrary.org/obo/NCIT_C40116) (Fallopian Tube Metaplastic Papillary Tumor))) 39.90%
-- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([NCIT:C40114](http://purl.obolibrary.org/obo/NCIT_C40114) (Fallopian Tube Serous Cystadenofibroma))) 39.90%
-- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([NCIT:C40112](http://purl.obolibrary.org/obo/NCIT_C40112) (Fallopian Tube Papilloma))) 39.90%
-- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([NCIT:C40110](http://purl.obolibrary.org/obo/NCIT_C40110) (Borderline Fallopian Tube Endometrioid Tumor))) 39.90%
-- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 39.90%
-- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 39.90%
-- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([NCIT:C40104](http://purl.obolibrary.org/obo/NCIT_C40104) (Fallopian Tube Transitional Cell Carcinoma))) 39.90%
-- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([NCIT:C40103](http://purl.obolibrary.org/obo/NCIT_C40103) (Fallopian Tube Mucinous Adenocarcinoma))) 39.90%
-- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([NCIT:C40093](http://purl.obolibrary.org/obo/NCIT_C40093) (Ovarian Squamous Cell Carcinoma))) 39.90%
-- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 39.90%
-- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 39.90%
-- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 39.90%
-- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 39.90%
+- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([NCIT:C40275](http://purl.obolibrary.org/obo/NCIT_C40275) (Benign Vaginal Mixed Epithelial and Mesenchymal Neoplasm))) 39.90%
+- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([NCIT:C40272](http://purl.obolibrary.org/obo/NCIT_C40272) (Vaginal Undifferentiated Sarcoma))) 39.90%
+- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([NCIT:C40271](http://purl.obolibrary.org/obo/NCIT_C40271) (Low Grade Endometrioid Stromal Sarcoma of the Vagina))) 39.90%
+- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([NCIT:C4027](http://purl.obolibrary.org/obo/NCIT_C4027) (Paget Disease of the Vulva))) 39.90%
+- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([NCIT:C40264](http://purl.obolibrary.org/obo/NCIT_C40264) (Vaginal Undifferentiated Carcinoma))) 39.90%
+- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([NCIT:C40263](http://purl.obolibrary.org/obo/NCIT_C40263) (Vaginal Small Cell Carcinoma))) 39.90%
+- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([NCIT:C40261](http://purl.obolibrary.org/obo/NCIT_C40261) (Vaginal Adenoid Cystic Carcinoma))) 39.90%
+- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([NCIT:C40260](http://purl.obolibrary.org/obo/NCIT_C40260) (Vaginal Adenosquamous Carcinoma))) 39.90%
+- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([NCIT:C4026](http://purl.obolibrary.org/obo/NCIT_C4026) (Ovarian Mucinous Cystadenocarcinoma))) 39.90%
+- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([NCIT:C40259](http://purl.obolibrary.org/obo/NCIT_C40259) (Vaginal Villous Adenoma))) 39.90%
+- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([NCIT:C40258](http://purl.obolibrary.org/obo/NCIT_C40258) (Vaginal Tubulovillous Adenoma))) 39.90%
+- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([NCIT:C40257](http://purl.obolibrary.org/obo/NCIT_C40257) (Vaginal Tubular Adenoma))) 39.90%
+- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([NCIT:C40255](http://purl.obolibrary.org/obo/NCIT_C40255) (Vaginal Mullerian Papilloma))) 39.90%
 
 

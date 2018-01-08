@@ -12,14 +12,14 @@
 - [CL:0000192](http://purl.obolibrary.org/obo/CL_0000192) (smooth muscle cell) 52.38%
 - [CL:0008000](http://purl.obolibrary.org/obo/CL_0008000) (non-striated muscle cell) and [CL:0008007](http://purl.obolibrary.org/obo/CL_0008007) (visceral muscle cell) 52.38%
 - [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) 36.38%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C36353](http://purl.obolibrary.org/obo/NCIT_C36353) (t(7;10)(q34;q24)))) 36.38%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C36352](http://purl.obolibrary.org/obo/NCIT_C36352) (t(10;14)(q24;q11)))) 36.38%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C36351](http://purl.obolibrary.org/obo/NCIT_C36351) (t(11;14)(p13;q11)))) 36.38%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C36350](http://purl.obolibrary.org/obo/NCIT_C36350) (t(11;14)(p15;q11)))) 36.38%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C36349](http://purl.obolibrary.org/obo/NCIT_C36349) (t(7;9)(q34;q34.3)))) 36.38%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C36348](http://purl.obolibrary.org/obo/NCIT_C36348) (t(1;14)(p32;q11)))) 36.38%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C36339](http://purl.obolibrary.org/obo/NCIT_C36339) (Cell Cycle Deregulation))) 36.38%
 - [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C36329](http://purl.obolibrary.org/obo/NCIT_C36329) (TP53 Gene Inactivation))) 36.38%
 - [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C36328](http://purl.obolibrary.org/obo/NCIT_C36328) (RB1 Gene Inactivation))) 36.38%
+- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C36321](http://purl.obolibrary.org/obo/NCIT_C36321) (t(8;22)(q24;q11)))) 36.38%
+- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C36319](http://purl.obolibrary.org/obo/NCIT_C36319) (t(8;14)(q24;q32)))) 36.38%
+- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C36317](http://purl.obolibrary.org/obo/NCIT_C36317) (t(12;16)(q13;p11)))) 36.38%
+- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C36309](http://purl.obolibrary.org/obo/NCIT_C36309) (Colon Carcinoma Metastatic in the Liver))) 36.38%
+- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C36308](http://purl.obolibrary.org/obo/NCIT_C36308) (Prostate Carcinoma Metastatic in the Bone))) 36.38%
+- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C36307](http://purl.obolibrary.org/obo/NCIT_C36307) (Prostate Carcinoma Metastatic in the Lung))) 36.38%
+- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C36306](http://purl.obolibrary.org/obo/NCIT_C36306) (Lung Carcinoma Metastatic in the Liver))) 36.38%
 
 

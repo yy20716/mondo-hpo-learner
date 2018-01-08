@@ -8,18 +8,18 @@
 
 - Thing 53.00%
 - [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) 38.93%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C4020](http://purl.obolibrary.org/obo/NCIT_C4020) (Fibroblastic Osteosarcoma))) 38.93%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40199](http://purl.obolibrary.org/obo/NCIT_C40199) (Cervical Squamous Intraepithelial Neoplasia 1))) 38.93%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40198](http://purl.obolibrary.org/obo/NCIT_C40198) (Cervical Squamous Intraepithelial Neoplasia 2))) 38.93%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40194](http://purl.obolibrary.org/obo/NCIT_C40194) (Cervical Squamotransitional Carcinoma))) 38.93%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40193](http://purl.obolibrary.org/obo/NCIT_C40193) (Cervical Lymphoepithelioma-Like Carcinoma))) 38.93%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40191](http://purl.obolibrary.org/obo/NCIT_C40191) (Cervical Warty Carcinoma))) 38.93%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40190](http://purl.obolibrary.org/obo/NCIT_C40190) (Cervical Verrucous Carcinoma))) 38.93%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C4019](http://purl.obolibrary.org/obo/NCIT_C4019) (Paget Disease and Intraductal Carcinoma of the Breast))) 38.93%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40189](http://purl.obolibrary.org/obo/NCIT_C40189) (Cervical Basaloid Carcinoma))) 38.93%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40187](http://purl.obolibrary.org/obo/NCIT_C40187) (Cervical Keratinizing Squamous Cell Carcinoma))) 38.93%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40182](http://purl.obolibrary.org/obo/NCIT_C40182) (Uterine Corpus Carcinofibroma))) 38.93%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40177](http://purl.obolibrary.org/obo/NCIT_C40177) (Uterine Corpus Smooth Muscle Tumor of Uncertain Malignant Potential))) 38.93%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40175](http://purl.obolibrary.org/obo/NCIT_C40175) (Uterine Corpus Myxoid Leiomyosarcoma))) 38.93%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40152](http://purl.obolibrary.org/obo/NCIT_C40152) (Serous Endometrial Intraepithelial Carcinoma))) 38.93%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40151](http://purl.obolibrary.org/obo/NCIT_C40151) (Grade 3 Endometrial Mucinous Adenocarcinoma))) 38.93%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40150](http://purl.obolibrary.org/obo/NCIT_C40150) (Grade 2 Endometrial Mucinous Adenocarcinoma))) 38.93%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40149](http://purl.obolibrary.org/obo/NCIT_C40149) (Grade 1 Endometrial Mucinous Adenocarcinoma))) 38.93%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40148](http://purl.obolibrary.org/obo/NCIT_C40148) (Grade 3 Endometrial Endometrioid Adenocarcinoma))) 38.93%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40147](http://purl.obolibrary.org/obo/NCIT_C40147) (Grade 2 Endometrial Endometrioid Adenocarcinoma))) 38.93%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40146](http://purl.obolibrary.org/obo/NCIT_C40146) (Grade 1 Endometrial Endometrioid Adenocarcinoma))) 38.93%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40142](http://purl.obolibrary.org/obo/NCIT_C40142) (Uterine Ligament Papillary Cystadenoma Associated with von Hippel-Lindau Disease))) 38.93%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40141](http://purl.obolibrary.org/obo/NCIT_C40141) (Wolffian Adnexal Tumor))) 38.93%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40139](http://purl.obolibrary.org/obo/NCIT_C40139) (Uterine Ligament Clear Cell Adenocarcinoma))) 38.93%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40138](http://purl.obolibrary.org/obo/NCIT_C40138) (Uterine Ligament Endometrioid Adenocarcinoma))) 38.93%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40137](http://purl.obolibrary.org/obo/NCIT_C40137) (Uterine Ligament Mucinous Adenocarcinoma))) 38.93%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40129](http://purl.obolibrary.org/obo/NCIT_C40129) (Fallopian Tube Adenomatoid Tumor))) 38.93%
 
 

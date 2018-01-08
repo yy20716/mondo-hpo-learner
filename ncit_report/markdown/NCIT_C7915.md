@@ -10,16 +10,16 @@
 - [CL:0000476](http://purl.obolibrary.org/obo/CL_0000476) (thyrotroph) 52.94%
 - [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C32044](http://purl.obolibrary.org/obo/NCIT_C32044) (Acidophilic Cell))) 52.94%
 - [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) 38.30%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C38344](http://purl.obolibrary.org/obo/NCIT_C38344) (RAS-RAF Pathway Deregulation))) 38.30%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C38343](http://purl.obolibrary.org/obo/NCIT_C38343) (JAK-STAT Pathway Deregulation))) 38.30%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C38341](http://purl.obolibrary.org/obo/NCIT_C38341) (Postgerminal Center B-Lymphocyte of Unknown Differentiation Stage))) 38.30%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C3834](http://purl.obolibrary.org/obo/NCIT_C3834) (Ataxic Gait))) 38.30%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C38339](http://purl.obolibrary.org/obo/NCIT_C38339) (Postgerminal Center Memory B-Lymphocyte))) 38.30%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C38334](http://purl.obolibrary.org/obo/NCIT_C38334) (Postgerminal Center Marginal Zone B-Lymphocyte))) 38.30%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C38333](http://purl.obolibrary.org/obo/NCIT_C38333) (Activated B-Lymphocyte))) 38.30%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C38332](http://purl.obolibrary.org/obo/NCIT_C38332) (Peripheral B-Lymphocyte of Inner Mantle Zone))) 38.30%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C38331](http://purl.obolibrary.org/obo/NCIT_C38331) (Intraepithelial T-Lymphocyte))) 38.30%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C38329](http://purl.obolibrary.org/obo/NCIT_C38329) (Thymic B-Lymphocyte))) 38.30%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C38328](http://purl.obolibrary.org/obo/NCIT_C38328) (Unfavorable Clinical Outcome))) 38.30%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37206](http://purl.obolibrary.org/obo/NCIT_C37206) (Small Lymphocytic Lymphoma with Unmutated Immunoglobulin Heavy Chain Variable-Region Gene))) 38.30%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37205](http://purl.obolibrary.org/obo/NCIT_C37205) (Chronic Lymphocytic Leukemia with Unmutated Immunoglobulin Heavy Chain Variable-Region Gene))) 38.30%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37203](http://purl.obolibrary.org/obo/NCIT_C37203) (Small Lymphocytic Lymphoma with Immunoglobulin Heavy Chain Variable-Region Gene Somatic Hypermutation))) 38.30%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37202](http://purl.obolibrary.org/obo/NCIT_C37202) (Chronic Lymphocytic Leukemia with Immunoglobulin Heavy Chain Variable-Region Gene Somatic Hypermutation))) 38.30%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37196](http://purl.obolibrary.org/obo/NCIT_C37196) (Primary Systemic Anaplastic Large Cell Lymphoma, ALK-Negative))) 38.30%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37195](http://purl.obolibrary.org/obo/NCIT_C37195) (Primary Systemic Anaplastic Large Cell Lymphoma, ALK-Positive))) 38.30%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37191](http://purl.obolibrary.org/obo/NCIT_C37191) (Trisomy 11))) 38.30%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37189](http://purl.obolibrary.org/obo/NCIT_C37189) (del(17q25)))) 38.30%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37188](http://purl.obolibrary.org/obo/NCIT_C37188) (del(6q25-27)))) 38.30%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37185](http://purl.obolibrary.org/obo/NCIT_C37185) (Gain of Chromosome 12q13))) 38.30%
+- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) and (not ([NCIT:C37183](http://purl.obolibrary.org/obo/NCIT_C37183) (Neoplastic B-Prolymphocyte))) 38.30%
 
 

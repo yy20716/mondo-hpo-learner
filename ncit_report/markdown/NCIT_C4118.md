@@ -13,13 +13,13 @@
 - [NCIT:C36767](http://purl.obolibrary.org/obo/NCIT_C36767) (Abnormal Transitional Cell) 31.65%
 - [NCIT:C36753](http://purl.obolibrary.org/obo/NCIT_C36753) (Neoplastic Epithelial Cell) and [NCIT:C36767](http://purl.obolibrary.org/obo/NCIT_C36767) (Abnormal Transitional Cell) 31.65%
 - [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) and [NCIT:C36767](http://purl.obolibrary.org/obo/NCIT_C36767) (Abnormal Transitional Cell) 31.65%
-- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C4027](http://purl.obolibrary.org/obo/NCIT_C4027) (Paget Disease of the Vulva))) 31.65%
-- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40264](http://purl.obolibrary.org/obo/NCIT_C40264) (Vaginal Undifferentiated Carcinoma))) 31.65%
-- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40263](http://purl.obolibrary.org/obo/NCIT_C40263) (Vaginal Small Cell Carcinoma))) 31.65%
-- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40261](http://purl.obolibrary.org/obo/NCIT_C40261) (Vaginal Adenoid Cystic Carcinoma))) 31.65%
-- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40260](http://purl.obolibrary.org/obo/NCIT_C40260) (Vaginal Adenosquamous Carcinoma))) 31.65%
-- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C4026](http://purl.obolibrary.org/obo/NCIT_C4026) (Ovarian Mucinous Cystadenocarcinoma))) 31.65%
-- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40259](http://purl.obolibrary.org/obo/NCIT_C40259) (Vaginal Villous Adenoma))) 31.65%
-- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40258](http://purl.obolibrary.org/obo/NCIT_C40258) (Vaginal Tubulovillous Adenoma))) 31.65%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40103](http://purl.obolibrary.org/obo/NCIT_C40103) (Fallopian Tube Mucinous Adenocarcinoma))) 31.65%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40093](http://purl.obolibrary.org/obo/NCIT_C40093) (Ovarian Squamous Cell Carcinoma))) 31.65%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 31.65%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 31.65%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 31.65%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 31.65%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 31.65%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 31.65%
 
 

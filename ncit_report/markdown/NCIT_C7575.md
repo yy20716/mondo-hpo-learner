@@ -8,18 +8,18 @@
 
 - Thing 53.00%
 - [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C40154](http://purl.obolibrary.org/obo/NCIT_C40154) (Endometrial Transitional Cell Carcinoma))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C40153](http://purl.obolibrary.org/obo/NCIT_C40153) (Endometrial Mixed Adenocarcinoma))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C40152](http://purl.obolibrary.org/obo/NCIT_C40152) (Serous Endometrial Intraepithelial Carcinoma))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C40151](http://purl.obolibrary.org/obo/NCIT_C40151) (Grade 3 Endometrial Mucinous Adenocarcinoma))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C40150](http://purl.obolibrary.org/obo/NCIT_C40150) (Grade 2 Endometrial Mucinous Adenocarcinoma))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C40149](http://purl.obolibrary.org/obo/NCIT_C40149) (Grade 1 Endometrial Mucinous Adenocarcinoma))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C40148](http://purl.obolibrary.org/obo/NCIT_C40148) (Grade 3 Endometrial Endometrioid Adenocarcinoma))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C40147](http://purl.obolibrary.org/obo/NCIT_C40147) (Grade 2 Endometrial Endometrioid Adenocarcinoma))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C40146](http://purl.obolibrary.org/obo/NCIT_C40146) (Grade 1 Endometrial Endometrioid Adenocarcinoma))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C40142](http://purl.obolibrary.org/obo/NCIT_C40142) (Uterine Ligament Papillary Cystadenoma Associated with von Hippel-Lindau Disease))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C40141](http://purl.obolibrary.org/obo/NCIT_C40141) (Wolffian Adnexal Tumor))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C40139](http://purl.obolibrary.org/obo/NCIT_C40139) (Uterine Ligament Clear Cell Adenocarcinoma))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C40138](http://purl.obolibrary.org/obo/NCIT_C40138) (Uterine Ligament Endometrioid Adenocarcinoma))) 38.93%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39899](http://purl.obolibrary.org/obo/NCIT_C39899) (Secondary Prostate Urothelial Carcinoma))) 38.93%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39897](http://purl.obolibrary.org/obo/NCIT_C39897) (Prostate Ductal Adenocarcinoma, Solid Pattern))) 38.93%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39896](http://purl.obolibrary.org/obo/NCIT_C39896) (Prostate Ductal Adenocarcinoma, Papillary Pattern))) 38.93%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39895](http://purl.obolibrary.org/obo/NCIT_C39895) (Prostate Ductal Adenocarcinoma, Cribriform Pattern))) 38.93%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C3989](http://purl.obolibrary.org/obo/NCIT_C3989) (Parathyroid Hyperplasia))) 38.93%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39885](http://purl.obolibrary.org/obo/NCIT_C39885) (Acinar Prostate Adenocarcinoma, Lymphoepithelioma-Like Variant))) 38.93%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39880](http://purl.obolibrary.org/obo/NCIT_C39880) (Acinar Prostate Adenocarcinoma, Atrophic Variant))) 38.93%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q))) 38.93%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39874](http://purl.obolibrary.org/obo/NCIT_C39874) (Urethral Verrucous Carcinoma))) 38.93%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39873](http://purl.obolibrary.org/obo/NCIT_C39873) (Urethral Glandular Metaplasia))) 38.93%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39872](http://purl.obolibrary.org/obo/NCIT_C39872) (Urethral Villous Adenoma))) 38.93%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39866](http://purl.obolibrary.org/obo/NCIT_C39866) (Female Urethral Malignant Neoplasm))) 38.93%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39864](http://purl.obolibrary.org/obo/NCIT_C39864) (Carcinoma of Cowper Glands))) 38.93%
 
 

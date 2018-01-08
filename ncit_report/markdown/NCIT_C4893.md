@@ -10,16 +10,16 @@
 - [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) 47.22%
 - [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 46.96%
 - [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) 43.69%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39625](http://purl.obolibrary.org/obo/NCIT_C39625) (Extracutaneous Dissemination of Disease))) 43.69%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39624](http://purl.obolibrary.org/obo/NCIT_C39624) (Skin Plaque))) 43.69%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39622](http://purl.obolibrary.org/obo/NCIT_C39622) (Scaly Skin Eruption))) 43.69%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39620](http://purl.obolibrary.org/obo/NCIT_C39620) (Dermatopathic Lymphadenopathy))) 43.69%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39618](http://purl.obolibrary.org/obo/NCIT_C39618) (Subcutaneous Nodule))) 43.69%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39617](http://purl.obolibrary.org/obo/NCIT_C39617) (Subcutaneous Involvement))) 43.69%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39616](http://purl.obolibrary.org/obo/NCIT_C39616) (Karyorrhexis))) 43.69%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39615](http://purl.obolibrary.org/obo/NCIT_C39615) (Sinusoidal Infiltration))) 43.69%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39609](http://purl.obolibrary.org/obo/NCIT_C39609) (Activated Natural Killer Cell))) 43.69%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39608](http://purl.obolibrary.org/obo/NCIT_C39608) (Coagulative Necrosis))) 43.69%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39602](http://purl.obolibrary.org/obo/NCIT_C39602) (Pleomorphic Medium-Sized to Large T-Lymphocyte))) 43.69%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 43.69%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C40104](http://purl.obolibrary.org/obo/NCIT_C40104) (Fallopian Tube Transitional Cell Carcinoma))) 43.69%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C40103](http://purl.obolibrary.org/obo/NCIT_C40103) (Fallopian Tube Mucinous Adenocarcinoma))) 43.69%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C40093](http://purl.obolibrary.org/obo/NCIT_C40093) (Ovarian Squamous Cell Carcinoma))) 43.69%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 43.69%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 43.69%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 43.69%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 43.69%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 43.69%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 43.69%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 43.69%
 
 

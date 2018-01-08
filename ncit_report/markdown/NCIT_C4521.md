@@ -11,15 +11,15 @@
 - [NCIT:C27851](http://purl.obolibrary.org/obo/NCIT_C27851) (Human Papillomavirus Infection) 55.56%
 - Thing 52.40%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38459](http://purl.obolibrary.org/obo/NCIT_C38459) (API2-MLT Fusion Protein Expression))) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38457](http://purl.obolibrary.org/obo/NCIT_C38457) (Clonal BCL3 Gene Rearrangement))) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38450](http://purl.obolibrary.org/obo/NCIT_C38450) (Colony-Stimulating Factor Overexpression))) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38448](http://purl.obolibrary.org/obo/NCIT_C38448) (Lymphotoxin-Alpha Overexpression))) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38447](http://purl.obolibrary.org/obo/NCIT_C38447) (Interleukin-13 Overexpression))) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38446](http://purl.obolibrary.org/obo/NCIT_C38446) (Interleukin-10 Overexpression))) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38445](http://purl.obolibrary.org/obo/NCIT_C38445) (Interleukin-9 Overexpression))) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38444](http://purl.obolibrary.org/obo/NCIT_C38444) (Interleukin-7 Overexpression))) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38443](http://purl.obolibrary.org/obo/NCIT_C38443) (Interleukin-6 Overexpression))) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38442](http://purl.obolibrary.org/obo/NCIT_C38442) (Interleukin-5 Overexpression))) 40.91%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3832](http://purl.obolibrary.org/obo/NCIT_C3832) (Malaise))) 40.91%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38317](http://purl.obolibrary.org/obo/NCIT_C38317) (GNAS Gene))) 40.91%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3826](http://purl.obolibrary.org/obo/NCIT_C3826) (Juvenile Polyp))) 40.91%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38184](http://purl.obolibrary.org/obo/NCIT_C38184) (ALK Gene))) 40.91%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38176](http://purl.obolibrary.org/obo/NCIT_C38176) (BCL2 Gene Translocation))) 40.91%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38175](http://purl.obolibrary.org/obo/NCIT_C38175) (CD44 Messenger RNA Overexpression))) 40.91%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38174](http://purl.obolibrary.org/obo/NCIT_C38174) (IRF4/MUM1 Messenger RNA Overexpression))) 40.91%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38173](http://purl.obolibrary.org/obo/NCIT_C38173) (BCL2 Gene mRNA Overexpression))) 40.91%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38172](http://purl.obolibrary.org/obo/NCIT_C38172) (Cyclin D2 Messenger RNA Overexpression))) 40.91%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38171](http://purl.obolibrary.org/obo/NCIT_C38171) (PKCbeta1 Messenger RNA Overexpression))) 40.91%
 
 

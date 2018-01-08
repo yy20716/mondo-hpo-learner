@@ -8,18 +8,18 @@
 
 - Thing 52.26%
 - [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) 41.61%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C40215](http://purl.obolibrary.org/obo/NCIT_C40215) (Cervical Mullerian Papilloma))) 41.61%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C40214](http://purl.obolibrary.org/obo/NCIT_C40214) (Cervical Large Cell Neuroendocrine Carcinoma))) 41.61%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C4021](http://purl.obolibrary.org/obo/NCIT_C4021) (Chondroblastic Osteosarcoma))) 41.61%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C40209](http://purl.obolibrary.org/obo/NCIT_C40209) (Cervical Glandular Dysplasia))) 41.61%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C40208](http://purl.obolibrary.org/obo/NCIT_C40208) (Cervical Villoglandular Adenocarcinoma))) 41.61%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C40206](http://purl.obolibrary.org/obo/NCIT_C40206) (Cervical Mucinous Adenocarcinoma, Minimal Deviation Type))) 41.61%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C40205](http://purl.obolibrary.org/obo/NCIT_C40205) (Cervical Mucinous Adenocarcinoma, Signet Ring Cell Type))) 41.61%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C40203](http://purl.obolibrary.org/obo/NCIT_C40203) (Cervical Mucinous Adenocarcinoma, Intestinal-Type))) 41.61%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C40201](http://purl.obolibrary.org/obo/NCIT_C40201) (Cervical Serous Adenocarcinoma))) 41.61%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C4020](http://purl.obolibrary.org/obo/NCIT_C4020) (Fibroblastic Osteosarcoma))) 41.61%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C40199](http://purl.obolibrary.org/obo/NCIT_C40199) (Cervical Squamous Intraepithelial Neoplasia 1))) 41.61%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C40198](http://purl.obolibrary.org/obo/NCIT_C40198) (Cervical Squamous Intraepithelial Neoplasia 2))) 41.61%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C40194](http://purl.obolibrary.org/obo/NCIT_C40194) (Cervical Squamotransitional Carcinoma))) 41.61%
+- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 41.61%
+- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 41.61%
+- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C40034](http://purl.obolibrary.org/obo/NCIT_C40034) (Ovarian Mucinous Adenocarcinofibroma))) 41.61%
+- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C40032](http://purl.obolibrary.org/obo/NCIT_C40032) (Ovarian Serous Cystadenofibroma))) 41.61%
+- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C40029](http://purl.obolibrary.org/obo/NCIT_C40029) (Borderline Ovarian Serous Cystadenofibroma))) 41.61%
+- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C40021](http://purl.obolibrary.org/obo/NCIT_C40021) (Ovarian Lymphoma))) 41.61%
+- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 41.61%
+- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 41.61%
+- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 41.61%
+- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 41.61%
+- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 41.61%
+- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 41.61%
+- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 41.61%
 
 

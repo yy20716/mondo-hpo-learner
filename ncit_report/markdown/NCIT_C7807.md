@@ -19,7 +19,7 @@
 - [NCIT:C36105](http://purl.obolibrary.org/obo/NCIT_C36105) (Indolent Clinical Course) 51.79%
 - [NCIT:C18322](http://purl.obolibrary.org/obo/NCIT_C18322) (EWSR1 Gene) 51.79%
 - [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) 37.14%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40354](http://purl.obolibrary.org/obo/NCIT_C40354) (Breast Mucinous Cystadenocarcinoma))) 37.14%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40350](http://purl.obolibrary.org/obo/NCIT_C40350) (Breast Carcinoma with Choriocarcinomatous Features))) 37.14%
+- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C39956](http://purl.obolibrary.org/obo/NCIT_C39956) (Rete Testis Adenoma))) 37.14%
+- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C3994](http://purl.obolibrary.org/obo/NCIT_C3994) (Stage IV Colon Cancer AJCC v6))) 37.14%
 
 

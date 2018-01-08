@@ -11,15 +11,15 @@
 - [NCIT:C41608](http://purl.obolibrary.org/obo/NCIT_C41608) (Endocrine-Stromal Cell) 52.94%
 - [NCIT:C36116](http://purl.obolibrary.org/obo/NCIT_C36116) (Borderline Lesion) 52.94%
 - [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) 38.30%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C3276](http://purl.obolibrary.org/obo/NCIT_C3276) (Acoustic Schwannoma))) 38.30%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C3275](http://purl.obolibrary.org/obo/NCIT_C3275) (Neuroma))) 38.30%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C3274](http://purl.obolibrary.org/obo/NCIT_C3274) (Neurofibromatosis Type 2))) 38.30%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C3273](http://purl.obolibrary.org/obo/NCIT_C3273) (Neurofibromatosis Type 1))) 38.30%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C32641](http://purl.obolibrary.org/obo/NCIT_C32641) (FSH Cell))) 38.30%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C3258](http://purl.obolibrary.org/obo/NCIT_C3258) (Nausea))) 38.30%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C3255](http://purl.obolibrary.org/obo/NCIT_C3255) (Myxosarcoma))) 38.30%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C32542](http://purl.obolibrary.org/obo/NCIT_C32542) (Esophageal Squamous Cell))) 38.30%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C32515](http://purl.obolibrary.org/obo/NCIT_C32515) (Endometrial Glandular Cell))) 38.30%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C3244](http://purl.obolibrary.org/obo/NCIT_C3244) (Musculoskeletal Pain))) 38.30%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38655](http://purl.obolibrary.org/obo/NCIT_C38655) (Bulky Disease))) 38.30%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38650](http://purl.obolibrary.org/obo/NCIT_C38650) (Defective Mu Heavy Chain Present))) 38.30%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38649](http://purl.obolibrary.org/obo/NCIT_C38649) (Vacuolated Plasma Cells in the Bone Marrow))) 38.30%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38648](http://purl.obolibrary.org/obo/NCIT_C38648) (Negative Bone Marrow and Peripheral Blood))) 38.30%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38647](http://purl.obolibrary.org/obo/NCIT_C38647) (Prolymphocytes Exceed 55 Percent of Lymphoid Cells in the Peripheral Blood))) 38.30%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38646](http://purl.obolibrary.org/obo/NCIT_C38646) (Fried-Egg Appearance of the Bone Marrow))) 38.30%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38645](http://purl.obolibrary.org/obo/NCIT_C38645) (Tartrate Resistant Acid Phosphatase Positive Cells Present))) 38.30%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38644](http://purl.obolibrary.org/obo/NCIT_C38644) (Bone Pain))) 38.30%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38643](http://purl.obolibrary.org/obo/NCIT_C38643) (Extensive Bone Marrow and Blood Involvement))) 38.30%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38642](http://purl.obolibrary.org/obo/NCIT_C38642) (Lymphoblasts 25 Percent or Less of Bone Marrow Nucleated Cells))) 38.30%
 
 

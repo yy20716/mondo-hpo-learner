@@ -13,13 +13,13 @@
 - [NCIT:C3442](http://purl.obolibrary.org/obo/NCIT_C3442) (Vomiting) 52.78%
 - [NCIT:C53534](http://purl.obolibrary.org/obo/NCIT_C53534) (Non-Neoplastic Vision Disorder) 38.13%
 - [NCIT:C35040](http://purl.obolibrary.org/obo/NCIT_C35040) (Strabismus) 38.13%
-- [NCIT:C35040](http://purl.obolibrary.org/obo/NCIT_C35040) (Strabismus) and (not ([NCIT:C40168](http://purl.obolibrary.org/obo/NCIT_C40168) (Uterine Corpus Lipoleiomyoma))) 38.13%
-- [NCIT:C35040](http://purl.obolibrary.org/obo/NCIT_C35040) (Strabismus) and (not ([NCIT:C40167](http://purl.obolibrary.org/obo/NCIT_C40167) (Uterine Corpus Bizarre Leiomyoma))) 38.13%
-- [NCIT:C35040](http://purl.obolibrary.org/obo/NCIT_C35040) (Strabismus) and (not ([NCIT:C40166](http://purl.obolibrary.org/obo/NCIT_C40166) (Uterine Corpus Myxoid Leiomyoma))) 38.13%
-- [NCIT:C35040](http://purl.obolibrary.org/obo/NCIT_C35040) (Strabismus) and (not ([NCIT:C40165](http://purl.obolibrary.org/obo/NCIT_C40165) (Uterine Corpus Apoplectic Leiomyoma))) 38.13%
-- [NCIT:C35040](http://purl.obolibrary.org/obo/NCIT_C35040) (Strabismus) and (not ([NCIT:C40164](http://purl.obolibrary.org/obo/NCIT_C40164) (Uterine Corpus Epithelioid Leiomyoma))) 38.13%
-- [NCIT:C35040](http://purl.obolibrary.org/obo/NCIT_C35040) (Strabismus) and (not ([NCIT:C40163](http://purl.obolibrary.org/obo/NCIT_C40163) (Uterine Corpus Cellular Leiomyoma))) 38.13%
-- [NCIT:C35040](http://purl.obolibrary.org/obo/NCIT_C35040) (Strabismus) and (not ([NCIT:C40162](http://purl.obolibrary.org/obo/NCIT_C40162) (Uterine Corpus Leiomyoma, Mitotically Active Variant))) 38.13%
-- [NCIT:C35040](http://purl.obolibrary.org/obo/NCIT_C35040) (Strabismus) and (not ([NCIT:C40161](http://purl.obolibrary.org/obo/NCIT_C40161) (JAZF1-SUZ12 Fusion Protein Expression))) 38.13%
+- [NCIT:C35040](http://purl.obolibrary.org/obo/NCIT_C35040) (Strabismus) and (not ([NCIT:C39689](http://purl.obolibrary.org/obo/NCIT_C39689) (Multicentric Cutaneous Involvement))) 38.13%
+- [NCIT:C35040](http://purl.obolibrary.org/obo/NCIT_C35040) (Strabismus) and (not ([NCIT:C39688](http://purl.obolibrary.org/obo/NCIT_C39688) (Localized Skin Lesion))) 38.13%
+- [NCIT:C35040](http://purl.obolibrary.org/obo/NCIT_C35040) (Strabismus) and (not ([NCIT:C39687](http://purl.obolibrary.org/obo/NCIT_C39687) (Activated Mature Cytotoxic T-Lymphocyte))) 38.13%
+- [NCIT:C35040](http://purl.obolibrary.org/obo/NCIT_C35040) (Strabismus) and (not ([NCIT:C39686](http://purl.obolibrary.org/obo/NCIT_C39686) (Activated Skin-Homing T-Lymphocyte))) 38.13%
+- [NCIT:C35040](http://purl.obolibrary.org/obo/NCIT_C35040) (Strabismus) and (not ([NCIT:C39682](http://purl.obolibrary.org/obo/NCIT_C39682) (Flower-Like T-Lymphocyte))) 38.13%
+- [NCIT:C35040](http://purl.obolibrary.org/obo/NCIT_C35040) (Strabismus) and (not ([NCIT:C39681](http://purl.obolibrary.org/obo/NCIT_C39681) (Neoplastic Small to Medium-Sized T-Lymphocyte with Irregular Nucleus))) 38.13%
+- [NCIT:C35040](http://purl.obolibrary.org/obo/NCIT_C35040) (Strabismus) and (not ([NCIT:C39680](http://purl.obolibrary.org/obo/NCIT_C39680) (Doughnut Cell))) 38.13%
+- [NCIT:C35040](http://purl.obolibrary.org/obo/NCIT_C35040) (Strabismus) and (not ([NCIT:C39679](http://purl.obolibrary.org/obo/NCIT_C39679) (Hallmark Cell))) 38.13%
 
 

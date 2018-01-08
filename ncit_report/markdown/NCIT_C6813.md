@@ -8,18 +8,18 @@
 
 - Thing 54.08%
 - [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) 37.28%
-- [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) and (not ([NCIT:C39597](http://purl.obolibrary.org/obo/NCIT_C39597) (PRKCB Gene))) 37.28%
-- [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) and (not ([NCIT:C39596](http://purl.obolibrary.org/obo/NCIT_C39596) (CCND2 Gene))) 37.28%
-- [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) and (not ([NCIT:C39594](http://purl.obolibrary.org/obo/NCIT_C39594) (Skin Rash))) 37.28%
-- [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) and (not ([NCIT:C39593](http://purl.obolibrary.org/obo/NCIT_C39593) (Peripheral Blood Involvement))) 37.28%
-- [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) and (not ([NCIT:C39589](http://purl.obolibrary.org/obo/NCIT_C39589) (Angioinvasion))) 37.28%
-- [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) and (not ([NCIT:C39588](http://purl.obolibrary.org/obo/NCIT_C39588) (Serum Soluble Fas Ligand Level Increased))) 37.28%
-- [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) and (not ([NCIT:C39586](http://purl.obolibrary.org/obo/NCIT_C39586) (T-Cell Large Granular Lymphocyte Leukemia Expressing the T-Cell Receptor Gamma-Delta))) 37.28%
-- [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) and (not ([NCIT:C39584](http://purl.obolibrary.org/obo/NCIT_C39584) (T-Cell Large Granular Lymphocyte Leukemia, Common Variant))) 37.28%
-- [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) and (not ([NCIT:C39583](http://purl.obolibrary.org/obo/NCIT_C39583) (FAS Apoptosis Pathway Deregulation))) 37.28%
-- [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) and (not ([NCIT:C3958](http://purl.obolibrary.org/obo/NCIT_C3958) (Disseminated Peritoneal Leiomyomatosis))) 37.28%
-- [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) and (not ([NCIT:C39573](http://purl.obolibrary.org/obo/NCIT_C39573) (T-Lymphocyte with a Post-Thymic Immunophenotype))) 37.28%
-- [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) and (not ([NCIT:C39572](http://purl.obolibrary.org/obo/NCIT_C39572) (Neoplastic Cerebriform T-Prolymphocyte))) 37.28%
-- [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) and (not ([NCIT:C39571](http://purl.obolibrary.org/obo/NCIT_C39571) (Neoplastic Small T-Prolymphocyte))) 37.28%
+- [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) and (not ([NCIT:C39815](http://purl.obolibrary.org/obo/NCIT_C39815) (Cellular Congenital Mesoblastic Nephroma))) 37.28%
+- [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) and (not ([NCIT:C39814](http://purl.obolibrary.org/obo/NCIT_C39814) (Classic Congenital Mesoblastic Nephroma))) 37.28%
+- [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) and (not ([NCIT:C39813](http://purl.obolibrary.org/obo/NCIT_C39813) (SMARCB1 Gene Inactivation))) 37.28%
+- [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) and (not ([NCIT:C39812](http://purl.obolibrary.org/obo/NCIT_C39812) (Metanephric Adenofibroma))) 37.28%
+- [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) and (not ([NCIT:C39811](http://purl.obolibrary.org/obo/NCIT_C39811) (t(5;11)(q35;q13)))) 37.28%
+- [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) and (not ([NCIT:C39810](http://purl.obolibrary.org/obo/NCIT_C39810) (Type 2 Renal Papillary Adenoma))) 37.28%
+- [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) and (not ([NCIT:C39809](http://purl.obolibrary.org/obo/NCIT_C39809) (Type 1 Renal Papillary Adenoma))) 37.28%
+- [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) and (not ([NCIT:C39808](http://purl.obolibrary.org/obo/NCIT_C39808) (Asymptomatic Mass))) 37.28%
+- [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) and (not ([NCIT:C39807](http://purl.obolibrary.org/obo/NCIT_C39807) (Mucinous Tubular and Spindle Cell Carcinoma of the Kidney))) 37.28%
+- [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) and (not ([NCIT:C39806](http://purl.obolibrary.org/obo/NCIT_C39806) (NONO-TFE3 Fusion Protein Expression))) 37.28%
+- [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) and (not ([NCIT:C39805](http://purl.obolibrary.org/obo/NCIT_C39805) (PSF-TFE3 Fusion Protein Expression))) 37.28%
+- [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) and (not ([NCIT:C39803](http://purl.obolibrary.org/obo/NCIT_C39803) (PRCC-TFE3 Fusion Protein Expression))) 37.28%
+- [NCIT:C60531](http://purl.obolibrary.org/obo/NCIT_C60531) (Tall Columnar Adenocarcinoma Cell) and (not ([NCIT:C39802](http://purl.obolibrary.org/obo/NCIT_C39802) (Renal Cell Carcinoma Associated with inv(X)(p11;q12)))) 37.28%
 
 

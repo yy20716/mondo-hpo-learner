@@ -17,9 +17,9 @@
 - [NCIT:C37109](http://purl.obolibrary.org/obo/NCIT_C37109) (Malignant Epithelial Spindle Cell) and (not ([NCIT:C37108](http://purl.obolibrary.org/obo/NCIT_C37108) (Adenocarcinoma Spindle Cell))) 45.82%
 - [NCIT:C37109](http://purl.obolibrary.org/obo/NCIT_C37109) (Malignant Epithelial Spindle Cell) and (not ([NCIT:C36775](http://purl.obolibrary.org/obo/NCIT_C36775) (Malignant Spindle Squamous Cell))) 45.82%
 - [NCIT:C37109](http://purl.obolibrary.org/obo/NCIT_C37109) (Malignant Epithelial Spindle Cell) 40.36%
-- [NCIT:C37109](http://purl.obolibrary.org/obo/NCIT_C37109) (Malignant Epithelial Spindle Cell) and (not ([NCIT:C40175](http://purl.obolibrary.org/obo/NCIT_C40175) (Uterine Corpus Myxoid Leiomyosarcoma))) 40.36%
-- [NCIT:C37109](http://purl.obolibrary.org/obo/NCIT_C37109) (Malignant Epithelial Spindle Cell) and (not ([NCIT:C40174](http://purl.obolibrary.org/obo/NCIT_C40174) (Uterine Corpus Epithelioid Leiomyosarcoma))) 40.36%
-- [NCIT:C37109](http://purl.obolibrary.org/obo/NCIT_C37109) (Malignant Epithelial Spindle Cell) and (not ([NCIT:C40170](http://purl.obolibrary.org/obo/NCIT_C40170) (Uterine Corpus Diffuse Leiomyomatosis))) 40.36%
-- [NCIT:C37109](http://purl.obolibrary.org/obo/NCIT_C37109) (Malignant Epithelial Spindle Cell) and (not ([NCIT:C40168](http://purl.obolibrary.org/obo/NCIT_C40168) (Uterine Corpus Lipoleiomyoma))) 40.36%
+- [NCIT:C37109](http://purl.obolibrary.org/obo/NCIT_C37109) (Malignant Epithelial Spindle Cell) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 40.36%
+- [NCIT:C37109](http://purl.obolibrary.org/obo/NCIT_C37109) (Malignant Epithelial Spindle Cell) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 40.36%
+- [NCIT:C37109](http://purl.obolibrary.org/obo/NCIT_C37109) (Malignant Epithelial Spindle Cell) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 40.36%
+- [NCIT:C37109](http://purl.obolibrary.org/obo/NCIT_C37109) (Malignant Epithelial Spindle Cell) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 40.36%
 
 

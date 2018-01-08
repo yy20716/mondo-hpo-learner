@@ -13,13 +13,13 @@
 - [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) and [NCIT:C62494](http://purl.obolibrary.org/obo/NCIT_C62494) (Neoplastic Apocrine Cell) 39.90%
 - [NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell) and [NCIT:C62494](http://purl.obolibrary.org/obo/NCIT_C62494) (Neoplastic Apocrine Cell) 39.90%
 - [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C62494](http://purl.obolibrary.org/obo/NCIT_C62494) (Neoplastic Apocrine Cell) 39.90%
-- [NCIT:C62500](http://purl.obolibrary.org/obo/NCIT_C62500) (Malignant Apocrine Cell) and (not ([NCIT:C40308](http://purl.obolibrary.org/obo/NCIT_C40308) (Vulvar Apocrine Adenocarcinoma))) 39.90%
-- [NCIT:C62500](http://purl.obolibrary.org/obo/NCIT_C62500) (Malignant Apocrine Cell) and (not ([NCIT:C40307](http://purl.obolibrary.org/obo/NCIT_C40307) (Vulvar Clear Cell Hidradenocarcinoma))) 39.90%
-- [NCIT:C62500](http://purl.obolibrary.org/obo/NCIT_C62500) (Malignant Apocrine Cell) and (not ([NCIT:C40306](http://purl.obolibrary.org/obo/NCIT_C40306) (Vulvar Eccrine Porocarcinoma))) 39.90%
-- [NCIT:C62500](http://purl.obolibrary.org/obo/NCIT_C62500) (Malignant Apocrine Cell) and (not ([NCIT:C40301](http://purl.obolibrary.org/obo/NCIT_C40301) (Adenoma of Minor Vestibular Glands))) 39.90%
-- [NCIT:C62500](http://purl.obolibrary.org/obo/NCIT_C62500) (Malignant Apocrine Cell) and (not ([NCIT:C40299](http://purl.obolibrary.org/obo/NCIT_C40299) (Bartholin Gland Adenoma))) 39.90%
-- [NCIT:C62500](http://purl.obolibrary.org/obo/NCIT_C62500) (Malignant Apocrine Cell) and (not ([NCIT:C40298](http://purl.obolibrary.org/obo/NCIT_C40298) (Bartholin Gland Small Cell Carcinoma))) 39.90%
-- [NCIT:C62500](http://purl.obolibrary.org/obo/NCIT_C62500) (Malignant Apocrine Cell) and (not ([NCIT:C40297](http://purl.obolibrary.org/obo/NCIT_C40297) (Bartholin Gland Transitional Cell Carcinoma))) 39.90%
-- [NCIT:C62500](http://purl.obolibrary.org/obo/NCIT_C62500) (Malignant Apocrine Cell) and (not ([NCIT:C40296](http://purl.obolibrary.org/obo/NCIT_C40296) (Bartholin Gland Adenosquamous Carcinoma))) 39.90%
+- [NCIT:C62500](http://purl.obolibrary.org/obo/NCIT_C62500) (Malignant Apocrine Cell) and (not ([NCIT:C39897](http://purl.obolibrary.org/obo/NCIT_C39897) (Prostate Ductal Adenocarcinoma, Solid Pattern))) 39.90%
+- [NCIT:C62500](http://purl.obolibrary.org/obo/NCIT_C62500) (Malignant Apocrine Cell) and (not ([NCIT:C39896](http://purl.obolibrary.org/obo/NCIT_C39896) (Prostate Ductal Adenocarcinoma, Papillary Pattern))) 39.90%
+- [NCIT:C62500](http://purl.obolibrary.org/obo/NCIT_C62500) (Malignant Apocrine Cell) and (not ([NCIT:C39895](http://purl.obolibrary.org/obo/NCIT_C39895) (Prostate Ductal Adenocarcinoma, Cribriform Pattern))) 39.90%
+- [NCIT:C62500](http://purl.obolibrary.org/obo/NCIT_C62500) (Malignant Apocrine Cell) and (not ([NCIT:C3989](http://purl.obolibrary.org/obo/NCIT_C3989) (Parathyroid Hyperplasia))) 39.90%
+- [NCIT:C62500](http://purl.obolibrary.org/obo/NCIT_C62500) (Malignant Apocrine Cell) and (not ([NCIT:C39885](http://purl.obolibrary.org/obo/NCIT_C39885) (Acinar Prostate Adenocarcinoma, Lymphoepithelioma-Like Variant))) 39.90%
+- [NCIT:C62500](http://purl.obolibrary.org/obo/NCIT_C62500) (Malignant Apocrine Cell) and (not ([NCIT:C39880](http://purl.obolibrary.org/obo/NCIT_C39880) (Acinar Prostate Adenocarcinoma, Atrophic Variant))) 39.90%
+- [NCIT:C62500](http://purl.obolibrary.org/obo/NCIT_C62500) (Malignant Apocrine Cell) and (not ([NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q))) 39.90%
+- [NCIT:C62500](http://purl.obolibrary.org/obo/NCIT_C62500) (Malignant Apocrine Cell) and (not ([NCIT:C39874](http://purl.obolibrary.org/obo/NCIT_C39874) (Urethral Verrucous Carcinoma))) 39.90%
 
 

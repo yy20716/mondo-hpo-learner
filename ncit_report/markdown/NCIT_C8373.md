@@ -2,7 +2,7 @@
 ### [NCIT:C8373](http://purl.obolibrary.org/obo/NCIT_C8373)
 **Label:** Lymphangiomatosis
 
-**Subclasses:** [NCIT:C96842](http://purl.obolibrary.org/obo/NCIT_C96842) (Liver Lymphangiomatosis), [NCIT:C45630](http://purl.obolibrary.org/obo/NCIT_C45630) (Diffuse Pulmonary Lymphangiomatosis), 
+**Subclasses:** [NCIT:C45630](http://purl.obolibrary.org/obo/NCIT_C45630) (Diffuse Pulmonary Lymphangiomatosis), [NCIT:C96842](http://purl.obolibrary.org/obo/NCIT_C96842) (Liver Lymphangiomatosis), 
 
 **Class expressions from DL-Learner:**
 

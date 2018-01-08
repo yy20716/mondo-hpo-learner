@@ -9,17 +9,17 @@
 - [UBERON:0002423](http://purl.obolibrary.org/obo/UBERON_0002423) (hepatobiliary system) 53.57%
 - Thing 53.00%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38762](http://purl.obolibrary.org/obo/NCIT_C38762) (Thyroid Gland Mucoepidermoid Carcinoma))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3876](http://purl.obolibrary.org/obo/NCIT_C3876) (Gastric Leiomyoma))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38759](http://purl.obolibrary.org/obo/NCIT_C38759) (EBV Infection))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38732](http://purl.obolibrary.org/obo/NCIT_C38732) (Defective Alpha Heavy Chain Present))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38731](http://purl.obolibrary.org/obo/NCIT_C38731) (Villous Atrophy))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38730](http://purl.obolibrary.org/obo/NCIT_C38730) (Lymphoepithelial Lesion))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38727](http://purl.obolibrary.org/obo/NCIT_C38727) (Villous Lymphocyte))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38721](http://purl.obolibrary.org/obo/NCIT_C38721) (Nuclear Pleomorphism))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38710](http://purl.obolibrary.org/obo/NCIT_C38710) (Defective Gamma Heavy Chain Present))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3870](http://purl.obolibrary.org/obo/NCIT_C3870) (Lymphangitic Carcinomatosis))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38698](http://purl.obolibrary.org/obo/NCIT_C38698) (Hyperviscosity))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38674](http://purl.obolibrary.org/obo/NCIT_C38674) (Widespread Disease))) 38.93%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39066](http://purl.obolibrary.org/obo/NCIT_C39066) (Erythropoietin Neuroprotection Pathway))) 38.93%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39059](http://purl.obolibrary.org/obo/NCIT_C39059) (Map Kinase Inactivation of SMRT Corepressor Pathway))) 38.93%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39058](http://purl.obolibrary.org/obo/NCIT_C39058) (EGF Signaling Pathway))) 38.93%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39056](http://purl.obolibrary.org/obo/NCIT_C39056) (Vesicle Transport Pathway))) 38.93%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39055](http://purl.obolibrary.org/obo/NCIT_C39055) (Phospholipid Signaling Pathway))) 38.93%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39054](http://purl.obolibrary.org/obo/NCIT_C39054) (Extracellular Matrix Binding Pathway))) 38.93%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39040](http://purl.obolibrary.org/obo/NCIT_C39040) (CTCF Pathway))) 38.93%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39021](http://purl.obolibrary.org/obo/NCIT_C39021) (Cell Migration Pathway))) 38.93%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39016](http://purl.obolibrary.org/obo/NCIT_C39016) (EGF Receptor Downregulation by CBL Pathway))) 38.93%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39013](http://purl.obolibrary.org/obo/NCIT_C39013) (Estrogen Receptor Regulation by CARM1 Pathway))) 38.93%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39011](http://purl.obolibrary.org/obo/NCIT_C39011) (Cardiac Hypertrophy Pathway))) 38.93%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3901](http://purl.obolibrary.org/obo/NCIT_C3901) (Compound Nevus))) 38.93%
 
 

@@ -13,13 +13,13 @@
 - [NCIT:C3090](http://purl.obolibrary.org/obo/NCIT_C3090) (Hematuria) 58.33%
 - [NCIT:C27966](http://purl.obolibrary.org/obo/NCIT_C27966) (Stage I) 58.33%
 - [NCIT:C61107](http://purl.obolibrary.org/obo/NCIT_C61107) (Kidney and Ureter) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 58.33%
+- [NCIT:C61107](http://purl.obolibrary.org/obo/NCIT_C61107) (Kidney and Ureter) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 58.33%
+- [NCIT:C61107](http://purl.obolibrary.org/obo/NCIT_C61107) (Kidney and Ureter) and (not ([UBERON:0034944](http://purl.obolibrary.org/obo/UBERON_0034944) (zone of organ))) 58.33%
+- [NCIT:C61107](http://purl.obolibrary.org/obo/NCIT_C61107) (Kidney and Ureter) and (not ([UBERON:0018664](http://purl.obolibrary.org/obo/UBERON_0018664) (neck of bone element))) 58.33%
 - [NCIT:C61107](http://purl.obolibrary.org/obo/NCIT_C61107) (Kidney and Ureter) and (not ([UBERON:0010199](http://purl.obolibrary.org/obo/UBERON_0010199) (bona-fide anatomical boundary))) 58.33%
 - [NCIT:C61107](http://purl.obolibrary.org/obo/NCIT_C61107) (Kidney and Ureter) and (not ([UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface))) 58.33%
-- [NCIT:C61107](http://purl.obolibrary.org/obo/NCIT_C61107) (Kidney and Ureter) and (not ([UBERON:0000466](http://purl.obolibrary.org/obo/UBERON_0000466) (immaterial anatomical entity))) 58.33%
-- [NCIT:C61107](http://purl.obolibrary.org/obo/NCIT_C61107) (Kidney and Ureter) and (not ([NCIT:C115336](http://purl.obolibrary.org/obo/NCIT_C115336) (Distal Urethra))) 58.33%
-- [NCIT:C61107](http://purl.obolibrary.org/obo/NCIT_C61107) (Kidney and Ureter) and (not ([NCIT:C115335](http://purl.obolibrary.org/obo/NCIT_C115335) (Proximal Urethra))) 58.33%
-- [NCIT:C61107](http://purl.obolibrary.org/obo/NCIT_C61107) (Kidney and Ureter) and (not ([BFO:0000141](http://purl.obolibrary.org/obo/BFO_0000141) (null))) 58.33%
-- [NCIT:C54419](http://purl.obolibrary.org/obo/NCIT_C54419) (Renal Pelvis and Ureter) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 58.33%
-- [NCIT:C54419](http://purl.obolibrary.org/obo/NCIT_C54419) (Renal Pelvis and Ureter) and (not ([UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface))) 58.33%
+- [NCIT:C61107](http://purl.obolibrary.org/obo/NCIT_C61107) (Kidney and Ureter) and (not ([UBERON:0005913](http://purl.obolibrary.org/obo/UBERON_0005913) (zone of bone organ))) 58.33%
+- [NCIT:C61107](http://purl.obolibrary.org/obo/NCIT_C61107) (Kidney and Ureter) and (not ([UBERON:0005055](http://purl.obolibrary.org/obo/UBERON_0005055) (zone of long bone))) 58.33%
+- [NCIT:C61107](http://purl.obolibrary.org/obo/NCIT_C61107) (Kidney and Ureter) and (not ([UBERON:0004120](http://purl.obolibrary.org/obo/UBERON_0004120) (mesoderm-derived structure))) 58.33%
 
 

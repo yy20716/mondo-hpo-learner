@@ -11,15 +11,15 @@
 - [NCIT:C47812](http://purl.obolibrary.org/obo/NCIT_C47812) (Malignant Goblet-Like Mucous Cell) 52.50%
 - [NCIT:C47811](http://purl.obolibrary.org/obo/NCIT_C47811) (Malignant Cuboidal Mucous Cell) 52.50%
 - [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) 50.80%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40168](http://purl.obolibrary.org/obo/NCIT_C40168) (Uterine Corpus Lipoleiomyoma))) 50.80%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40167](http://purl.obolibrary.org/obo/NCIT_C40167) (Uterine Corpus Bizarre Leiomyoma))) 50.80%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40166](http://purl.obolibrary.org/obo/NCIT_C40166) (Uterine Corpus Myxoid Leiomyoma))) 50.80%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40165](http://purl.obolibrary.org/obo/NCIT_C40165) (Uterine Corpus Apoplectic Leiomyoma))) 50.80%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40164](http://purl.obolibrary.org/obo/NCIT_C40164) (Uterine Corpus Epithelioid Leiomyoma))) 50.80%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40163](http://purl.obolibrary.org/obo/NCIT_C40163) (Uterine Corpus Cellular Leiomyoma))) 50.80%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40162](http://purl.obolibrary.org/obo/NCIT_C40162) (Uterine Corpus Leiomyoma, Mitotically Active Variant))) 50.80%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40161](http://purl.obolibrary.org/obo/NCIT_C40161) (JAZF1-SUZ12 Fusion Protein Expression))) 50.80%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40160](http://purl.obolibrary.org/obo/NCIT_C40160) (t(7;17)(p15;q21)))) 50.80%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40156](http://purl.obolibrary.org/obo/NCIT_C40156) (Endometrial Undifferentiated Carcinoma))) 50.80%
+- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40295](http://purl.obolibrary.org/obo/NCIT_C40295) (Bartholin Gland Adenoid Cystic Carcinoma))) 50.80%
+- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40293](http://purl.obolibrary.org/obo/NCIT_C40293) (Bartholin Gland Squamous Cell Carcinoma))) 50.80%
+- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40290](http://purl.obolibrary.org/obo/NCIT_C40290) (Vestibular Micropapillomatosis))) 50.80%
+- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40287](http://purl.obolibrary.org/obo/NCIT_C40287) (Vulvar Warty Carcinoma))) 50.80%
+- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40286](http://purl.obolibrary.org/obo/NCIT_C40286) (Vulvar Basaloid Carcinoma))) 50.80%
+- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40284](http://purl.obolibrary.org/obo/NCIT_C40284) (Vulvar Keratinizing Squamous Cell Carcinoma))) 50.80%
+- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40275](http://purl.obolibrary.org/obo/NCIT_C40275) (Benign Vaginal Mixed Epithelial and Mesenchymal Neoplasm))) 50.80%
+- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40272](http://purl.obolibrary.org/obo/NCIT_C40272) (Vaginal Undifferentiated Sarcoma))) 50.80%
+- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40271](http://purl.obolibrary.org/obo/NCIT_C40271) (Low Grade Endometrioid Stromal Sarcoma of the Vagina))) 50.80%
+- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C4027](http://purl.obolibrary.org/obo/NCIT_C4027) (Paget Disease of the Vulva))) 50.80%
 
 

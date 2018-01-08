@@ -14,12 +14,12 @@
 - [CL:0000173](http://purl.obolibrary.org/obo/CL_0000173) (pancreatic D cell) 51.85%
 - [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C32052](http://purl.obolibrary.org/obo/NCIT_C32052) (Alpha Cell))) 51.85%
 - [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) 37.21%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35520](http://purl.obolibrary.org/obo/NCIT_C35520) (Nasal Mass))) 37.21%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C3551](http://purl.obolibrary.org/obo/NCIT_C3551) (Lung Kaposi Sarcoma))) 37.21%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35471](http://purl.obolibrary.org/obo/NCIT_C35471) (Nucleated Red Blood Cells Present))) 37.21%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35439](http://purl.obolibrary.org/obo/NCIT_C35439) (Hemophagocytic Syndrome))) 37.21%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35434](http://purl.obolibrary.org/obo/NCIT_C35434) (Polycythaemia due to Excess Erythropoetin Production))) 37.21%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35424](http://purl.obolibrary.org/obo/NCIT_C35424) (Richter Syndrome))) 37.21%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35381](http://purl.obolibrary.org/obo/NCIT_C35381) (Mallory Bodies Present))) 37.21%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36239](http://purl.obolibrary.org/obo/NCIT_C36239) (Neoplastic Monocytes and Precursors 20 Percent or More of Bone Marrow Cells))) 37.21%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36238](http://purl.obolibrary.org/obo/NCIT_C36238) (Promyelocytes, Myelocytes, and Mature Neutrophils 10 Percent or More of Bone Marrow Cells))) 37.21%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36237](http://purl.obolibrary.org/obo/NCIT_C36237) (Bone Marrow Dysplasia Present in 10 Percent or More of the Cells of Two or More Myeloid Cell Lines))) 37.21%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36236](http://purl.obolibrary.org/obo/NCIT_C36236) (Bone Marrow Dysplasia Present in 50 Percent or More of the Cells of Two Cell Lines))) 37.21%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36233](http://purl.obolibrary.org/obo/NCIT_C36233) (Bone Marrow Eosinophilia))) 37.21%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C36230](http://purl.obolibrary.org/obo/NCIT_C36230) (Myeloblasts 5-9 Percent of Bone Marrow Nucleated Cells))) 37.21%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C3623](http://purl.obolibrary.org/obo/NCIT_C3623) (Benign Corneal Neoplasm))) 37.21%
 
 

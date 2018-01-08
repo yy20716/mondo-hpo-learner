@@ -13,13 +13,13 @@
 - Thing 52.66%
 - [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) 39.90%
 - [NCIT:C36769](http://purl.obolibrary.org/obo/NCIT_C36769) (Abnormal Myoepithelial Cell) 39.90%
-- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40345](http://purl.obolibrary.org/obo/NCIT_C40345) (Testicular Intratubular Germ Cell Neoplasia, Unclassified))) 39.90%
-- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40344](http://purl.obolibrary.org/obo/NCIT_C40344) (Hypertriploidy))) 39.90%
-- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40343](http://purl.obolibrary.org/obo/NCIT_C40343) (Hypotriploidy))) 39.90%
-- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40341](http://purl.obolibrary.org/obo/NCIT_C40341) (Hypospadias))) 39.90%
-- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40339](http://purl.obolibrary.org/obo/NCIT_C40339) (Mesenteric Gastrointestinal Stromal Tumor))) 39.90%
-- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40337](http://purl.obolibrary.org/obo/NCIT_C40337) (Retroperitoneal Gastrointestinal Stromal Tumor))) 39.90%
-- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40329](http://purl.obolibrary.org/obo/NCIT_C40329) (Vulvar Melanoma))) 39.90%
-- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40328](http://purl.obolibrary.org/obo/NCIT_C40328) (Vulvar Granular Cell Tumor))) 39.90%
+- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 39.90%
+- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 39.90%
+- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 39.90%
+- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 39.90%
+- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 39.90%
+- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 39.90%
+- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40034](http://purl.obolibrary.org/obo/NCIT_C40034) (Ovarian Mucinous Adenocarcinofibroma))) 39.90%
+- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40032](http://purl.obolibrary.org/obo/NCIT_C40032) (Ovarian Serous Cystadenofibroma))) 39.90%
 
 

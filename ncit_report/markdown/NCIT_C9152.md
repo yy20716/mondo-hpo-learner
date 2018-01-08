@@ -9,17 +9,17 @@
 - [NCIT:C62342](http://purl.obolibrary.org/obo/NCIT_C62342) (Melanoma Cell with Large Nucleus and Abundant Pale Cytoplasm) 53.33%
 - Thing 53.10%
 - [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) 38.69%
-- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C40400](http://purl.obolibrary.org/obo/NCIT_C40400) (Breast Granular Cell Tumor))) 38.69%
-- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C40399](http://purl.obolibrary.org/obo/NCIT_C40399) (Breast Leiomyoma))) 38.69%
-- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C40398](http://purl.obolibrary.org/obo/NCIT_C40398) (Breast Inflammatory Myofibroblastic Tumor))) 38.69%
-- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C40395](http://purl.obolibrary.org/obo/NCIT_C40395) (Malignant Breast Myoepithelioma))) 38.69%
-- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C40388](http://purl.obolibrary.org/obo/NCIT_C40388) (Periductal Breast Myoepitheliosis))) 38.69%
-- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C40384](http://purl.obolibrary.org/obo/NCIT_C40384) (Breast Ductal Adenoma))) 38.69%
-- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C40383](http://purl.obolibrary.org/obo/NCIT_C40383) (Breast Apocrine Adenoma))) 38.69%
-- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C40379](http://purl.obolibrary.org/obo/NCIT_C40379) (Angiosarcoma of the Skin of the Arm after Radical Mastectomy followed by Lymphedema))) 38.69%
-- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C40378](http://purl.obolibrary.org/obo/NCIT_C40378) (Post-Radiotherapy Breast Angiosarcoma))) 38.69%
-- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C40377](http://purl.obolibrary.org/obo/NCIT_C40377) (Breast Follicular Lymphoma))) 38.69%
-- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C40376](http://purl.obolibrary.org/obo/NCIT_C40376) (Breast Burkitt Lymphoma))) 38.69%
-- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C40375](http://purl.obolibrary.org/obo/NCIT_C40375) (Breast Diffuse Large B-Cell Lymphoma))) 38.69%
+- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 38.69%
+- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 38.69%
+- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 38.69%
+- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C40034](http://purl.obolibrary.org/obo/NCIT_C40034) (Ovarian Mucinous Adenocarcinofibroma))) 38.69%
+- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C40032](http://purl.obolibrary.org/obo/NCIT_C40032) (Ovarian Serous Cystadenofibroma))) 38.69%
+- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C40029](http://purl.obolibrary.org/obo/NCIT_C40029) (Borderline Ovarian Serous Cystadenofibroma))) 38.69%
+- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C40021](http://purl.obolibrary.org/obo/NCIT_C40021) (Ovarian Lymphoma))) 38.69%
+- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 38.69%
+- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 38.69%
+- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 38.69%
+- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 38.69%
+- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 38.69%
 
 

@@ -13,13 +13,13 @@
 - [NCIT:C36121](http://purl.obolibrary.org/obo/NCIT_C36121) (Villous Pattern) 52.94%
 - [NCIT:C35925](http://purl.obolibrary.org/obo/NCIT_C35925) (Tubular Pattern) 52.94%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 38.30%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39088](http://purl.obolibrary.org/obo/NCIT_C39088) (G2/M Checkpoint Pathway))) 38.30%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39079](http://purl.obolibrary.org/obo/NCIT_C39079) (Fc Epsilon Receptor I Signaling Pathway BioCarta))) 38.30%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39072](http://purl.obolibrary.org/obo/NCIT_C39072) (Erk1/Erk2 MAPK Signaling Pathway))) 38.30%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39071](http://purl.obolibrary.org/obo/NCIT_C39071) (Neuronal Survival Pathway))) 38.30%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39069](http://purl.obolibrary.org/obo/NCIT_C39069) (ErbB3 Receptor Recycling Pathway))) 38.30%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39067](http://purl.obolibrary.org/obo/NCIT_C39067) (EPO Signaling Pathway))) 38.30%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39066](http://purl.obolibrary.org/obo/NCIT_C39066) (Erythropoietin Neuroprotection Pathway))) 38.30%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39059](http://purl.obolibrary.org/obo/NCIT_C39059) (Map Kinase Inactivation of SMRT Corepressor Pathway))) 38.30%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38326](http://purl.obolibrary.org/obo/NCIT_C38326) (Immature Peripheral Gamma/Delta Cell of Cytotoxic Type))) 38.30%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38323](http://purl.obolibrary.org/obo/NCIT_C38323) (Peripheral Epidermotropic T-Lymphocyte))) 38.30%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38322](http://purl.obolibrary.org/obo/NCIT_C38322) (Marginal Zone B-Lymphocyte of Nodal Type))) 38.30%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3832](http://purl.obolibrary.org/obo/NCIT_C3832) (Malaise))) 38.30%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38317](http://purl.obolibrary.org/obo/NCIT_C38317) (GNAS Gene))) 38.30%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3826](http://purl.obolibrary.org/obo/NCIT_C3826) (Juvenile Polyp))) 38.30%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38184](http://purl.obolibrary.org/obo/NCIT_C38184) (ALK Gene))) 38.30%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38176](http://purl.obolibrary.org/obo/NCIT_C38176) (BCL2 Gene Translocation))) 38.30%
 
 

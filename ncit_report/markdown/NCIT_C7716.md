@@ -9,17 +9,17 @@
 - Thing 53.49%
 - [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) 46.09%
 - [NCIT:C36767](http://purl.obolibrary.org/obo/NCIT_C36767) (Abnormal Transitional Cell) 46.09%
-- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40377](http://purl.obolibrary.org/obo/NCIT_C40377) (Breast Follicular Lymphoma))) 46.09%
-- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40376](http://purl.obolibrary.org/obo/NCIT_C40376) (Breast Burkitt Lymphoma))) 46.09%
-- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40375](http://purl.obolibrary.org/obo/NCIT_C40375) (Breast Diffuse Large B-Cell Lymphoma))) 46.09%
-- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C4037](http://purl.obolibrary.org/obo/NCIT_C4037) (Acute Myeloid Leukemia Arising from Previous Myelodysplastic Syndrome))) 46.09%
-- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40369](http://purl.obolibrary.org/obo/NCIT_C40369) (Sebaceous Breast Carcinoma))) 46.09%
-- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40367](http://purl.obolibrary.org/obo/NCIT_C40367) (Acinic Cell Breast Carcinoma))) 46.09%
-- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40366](http://purl.obolibrary.org/obo/NCIT_C40366) (Oncocytic Breast Carcinoma))) 46.09%
-- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40363](http://purl.obolibrary.org/obo/NCIT_C40363) (Nipple Syringomatous Adenoma))) 46.09%
-- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40362](http://purl.obolibrary.org/obo/NCIT_C40362) (Low Grade Adenosquamous Breast Carcinoma))) 46.09%
-- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40358](http://purl.obolibrary.org/obo/NCIT_C40358) (Squamous Cell Breast Carcinoma, Spindle Cell Variant))) 46.09%
-- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40356](http://purl.obolibrary.org/obo/NCIT_C40356) (Breast Large Cell Neuroendocrine Carcinoma))) 46.09%
-- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40355](http://purl.obolibrary.org/obo/NCIT_C40355) (Breast Columnar Cell Mucinous Carcinoma))) 46.09%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 46.09%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 46.09%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 46.09%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 46.09%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 46.09%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 46.09%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 46.09%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 46.09%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 46.09%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 46.09%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 46.09%
+- [NCIT:C36768](http://purl.obolibrary.org/obo/NCIT_C36768) (Neoplastic Transitional Cell) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 46.09%
 
 

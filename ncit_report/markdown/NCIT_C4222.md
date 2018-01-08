@@ -11,15 +11,15 @@
 - [NCIT:C36965](http://purl.obolibrary.org/obo/NCIT_C36965) (Glomus Cell) and (not ([NCIT:C36966](http://purl.obolibrary.org/obo/NCIT_C36966) (Malignant Glomus Cell))) 55.56%
 - Thing 52.40%
 - [NCIT:C36965](http://purl.obolibrary.org/obo/NCIT_C36965) (Glomus Cell) 40.91%
-- [NCIT:C36965](http://purl.obolibrary.org/obo/NCIT_C36965) (Glomus Cell) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 40.91%
-- [NCIT:C36965](http://purl.obolibrary.org/obo/NCIT_C36965) (Glomus Cell) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 40.91%
-- [NCIT:C36965](http://purl.obolibrary.org/obo/NCIT_C36965) (Glomus Cell) and (not ([NCIT:C40104](http://purl.obolibrary.org/obo/NCIT_C40104) (Fallopian Tube Transitional Cell Carcinoma))) 40.91%
-- [NCIT:C36965](http://purl.obolibrary.org/obo/NCIT_C36965) (Glomus Cell) and (not ([NCIT:C40103](http://purl.obolibrary.org/obo/NCIT_C40103) (Fallopian Tube Mucinous Adenocarcinoma))) 40.91%
-- [NCIT:C36965](http://purl.obolibrary.org/obo/NCIT_C36965) (Glomus Cell) and (not ([NCIT:C40093](http://purl.obolibrary.org/obo/NCIT_C40093) (Ovarian Squamous Cell Carcinoma))) 40.91%
-- [NCIT:C36965](http://purl.obolibrary.org/obo/NCIT_C36965) (Glomus Cell) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 40.91%
-- [NCIT:C36965](http://purl.obolibrary.org/obo/NCIT_C36965) (Glomus Cell) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 40.91%
-- [NCIT:C36965](http://purl.obolibrary.org/obo/NCIT_C36965) (Glomus Cell) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 40.91%
-- [NCIT:C36965](http://purl.obolibrary.org/obo/NCIT_C36965) (Glomus Cell) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 40.91%
-- [NCIT:C36965](http://purl.obolibrary.org/obo/NCIT_C36965) (Glomus Cell) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 40.91%
+- [NCIT:C36965](http://purl.obolibrary.org/obo/NCIT_C36965) (Glomus Cell) and (not ([NCIT:C39687](http://purl.obolibrary.org/obo/NCIT_C39687) (Activated Mature Cytotoxic T-Lymphocyte))) 40.91%
+- [NCIT:C36965](http://purl.obolibrary.org/obo/NCIT_C36965) (Glomus Cell) and (not ([NCIT:C39686](http://purl.obolibrary.org/obo/NCIT_C39686) (Activated Skin-Homing T-Lymphocyte))) 40.91%
+- [NCIT:C36965](http://purl.obolibrary.org/obo/NCIT_C36965) (Glomus Cell) and (not ([NCIT:C39682](http://purl.obolibrary.org/obo/NCIT_C39682) (Flower-Like T-Lymphocyte))) 40.91%
+- [NCIT:C36965](http://purl.obolibrary.org/obo/NCIT_C36965) (Glomus Cell) and (not ([NCIT:C39681](http://purl.obolibrary.org/obo/NCIT_C39681) (Neoplastic Small to Medium-Sized T-Lymphocyte with Irregular Nucleus))) 40.91%
+- [NCIT:C36965](http://purl.obolibrary.org/obo/NCIT_C36965) (Glomus Cell) and (not ([NCIT:C39680](http://purl.obolibrary.org/obo/NCIT_C39680) (Doughnut Cell))) 40.91%
+- [NCIT:C36965](http://purl.obolibrary.org/obo/NCIT_C36965) (Glomus Cell) and (not ([NCIT:C39679](http://purl.obolibrary.org/obo/NCIT_C39679) (Hallmark Cell))) 40.91%
+- [NCIT:C36965](http://purl.obolibrary.org/obo/NCIT_C36965) (Glomus Cell) and (not ([NCIT:C39674](http://purl.obolibrary.org/obo/NCIT_C39674) (Anaplastic Large Cell Lymphoma, Giant Cell Rich Subtype))) 40.91%
+- [NCIT:C36965](http://purl.obolibrary.org/obo/NCIT_C36965) (Glomus Cell) and (not ([NCIT:C39657](http://purl.obolibrary.org/obo/NCIT_C39657) (Neoplastic T-Lymphocyte with Clear Cytoplasm))) 40.91%
+- [NCIT:C36965](http://purl.obolibrary.org/obo/NCIT_C36965) (Glomus Cell) and (not ([NCIT:C39652](http://purl.obolibrary.org/obo/NCIT_C39652) (Proliferation of Follicular Dendritic Cells Present))) 40.91%
+- [NCIT:C36965](http://purl.obolibrary.org/obo/NCIT_C36965) (Glomus Cell) and (not ([NCIT:C39651](http://purl.obolibrary.org/obo/NCIT_C39651) (Proliferation of High Endothelial Venules Present))) 40.91%
 
 

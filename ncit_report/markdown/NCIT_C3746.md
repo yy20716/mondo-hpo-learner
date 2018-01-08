@@ -9,17 +9,17 @@
 - [NCIT:C36105](http://purl.obolibrary.org/obo/NCIT_C36105) (Indolent Clinical Course) 56.25%
 - Thing 52.26%
 - [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) 41.61%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40175](http://purl.obolibrary.org/obo/NCIT_C40175) (Uterine Corpus Myxoid Leiomyosarcoma))) 41.61%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40174](http://purl.obolibrary.org/obo/NCIT_C40174) (Uterine Corpus Epithelioid Leiomyosarcoma))) 41.61%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40170](http://purl.obolibrary.org/obo/NCIT_C40170) (Uterine Corpus Diffuse Leiomyomatosis))) 41.61%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40168](http://purl.obolibrary.org/obo/NCIT_C40168) (Uterine Corpus Lipoleiomyoma))) 41.61%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40167](http://purl.obolibrary.org/obo/NCIT_C40167) (Uterine Corpus Bizarre Leiomyoma))) 41.61%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40166](http://purl.obolibrary.org/obo/NCIT_C40166) (Uterine Corpus Myxoid Leiomyoma))) 41.61%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40165](http://purl.obolibrary.org/obo/NCIT_C40165) (Uterine Corpus Apoplectic Leiomyoma))) 41.61%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40164](http://purl.obolibrary.org/obo/NCIT_C40164) (Uterine Corpus Epithelioid Leiomyoma))) 41.61%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40163](http://purl.obolibrary.org/obo/NCIT_C40163) (Uterine Corpus Cellular Leiomyoma))) 41.61%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40162](http://purl.obolibrary.org/obo/NCIT_C40162) (Uterine Corpus Leiomyoma, Mitotically Active Variant))) 41.61%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40161](http://purl.obolibrary.org/obo/NCIT_C40161) (JAZF1-SUZ12 Fusion Protein Expression))) 41.61%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40160](http://purl.obolibrary.org/obo/NCIT_C40160) (t(7;17)(p15;q21)))) 41.61%
+- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40301](http://purl.obolibrary.org/obo/NCIT_C40301) (Adenoma of Minor Vestibular Glands))) 41.61%
+- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40299](http://purl.obolibrary.org/obo/NCIT_C40299) (Bartholin Gland Adenoma))) 41.61%
+- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40298](http://purl.obolibrary.org/obo/NCIT_C40298) (Bartholin Gland Small Cell Carcinoma))) 41.61%
+- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40297](http://purl.obolibrary.org/obo/NCIT_C40297) (Bartholin Gland Transitional Cell Carcinoma))) 41.61%
+- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40296](http://purl.obolibrary.org/obo/NCIT_C40296) (Bartholin Gland Adenosquamous Carcinoma))) 41.61%
+- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40295](http://purl.obolibrary.org/obo/NCIT_C40295) (Bartholin Gland Adenoid Cystic Carcinoma))) 41.61%
+- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40293](http://purl.obolibrary.org/obo/NCIT_C40293) (Bartholin Gland Squamous Cell Carcinoma))) 41.61%
+- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40290](http://purl.obolibrary.org/obo/NCIT_C40290) (Vestibular Micropapillomatosis))) 41.61%
+- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40287](http://purl.obolibrary.org/obo/NCIT_C40287) (Vulvar Warty Carcinoma))) 41.61%
+- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40286](http://purl.obolibrary.org/obo/NCIT_C40286) (Vulvar Basaloid Carcinoma))) 41.61%
+- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40284](http://purl.obolibrary.org/obo/NCIT_C40284) (Vulvar Keratinizing Squamous Cell Carcinoma))) 41.61%
+- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40275](http://purl.obolibrary.org/obo/NCIT_C40275) (Benign Vaginal Mixed Epithelial and Mesenchymal Neoplasm))) 41.61%
 
 

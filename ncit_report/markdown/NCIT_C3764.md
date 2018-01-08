@@ -8,18 +8,18 @@
 
 - Thing 52.66%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39246](http://purl.obolibrary.org/obo/NCIT_C39246) (T Cell Receptor Signaling Pathway BioCarta))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39236](http://purl.obolibrary.org/obo/NCIT_C39236) (Sprouty Regulation of Tyrosine Kinase Signaling Pathway))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39217](http://purl.obolibrary.org/obo/NCIT_C39217) (Ras Signaling Pathway))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39208](http://purl.obolibrary.org/obo/NCIT_C39208) (Rac1 Cell Motility Signaling Pathway))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39197](http://purl.obolibrary.org/obo/NCIT_C39197) (PPAR-alpha Gene Regulation Pathway))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39194](http://purl.obolibrary.org/obo/NCIT_C39194) (Phospholipase C Signaling Pathway))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39184](http://purl.obolibrary.org/obo/NCIT_C39184) (PDGF Signaling Pathway))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39168](http://purl.obolibrary.org/obo/NCIT_C39168) (NO2-Dependent IL12 Pathway))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39167](http://purl.obolibrary.org/obo/NCIT_C39167) (Nitric Oxide Pathway))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39164](http://purl.obolibrary.org/obo/NCIT_C39164) (Nerve Growth Factor Pathway))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39162](http://purl.obolibrary.org/obo/NCIT_C39162) (NFAT Pathway))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39152](http://purl.obolibrary.org/obo/NCIT_C39152) (Hepatocyte Growth Factor Receptor Signaling Pathway BioCarta))) 39.90%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39147](http://purl.obolibrary.org/obo/NCIT_C39147) (Calpain-2 Cell Motility Pathway))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39055](http://purl.obolibrary.org/obo/NCIT_C39055) (Phospholipid Signaling Pathway))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39054](http://purl.obolibrary.org/obo/NCIT_C39054) (Extracellular Matrix Binding Pathway))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39040](http://purl.obolibrary.org/obo/NCIT_C39040) (CTCF Pathway))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39021](http://purl.obolibrary.org/obo/NCIT_C39021) (Cell Migration Pathway))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39016](http://purl.obolibrary.org/obo/NCIT_C39016) (EGF Receptor Downregulation by CBL Pathway))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39013](http://purl.obolibrary.org/obo/NCIT_C39013) (Estrogen Receptor Regulation by CARM1 Pathway))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39011](http://purl.obolibrary.org/obo/NCIT_C39011) (Cardiac Hypertrophy Pathway))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3901](http://purl.obolibrary.org/obo/NCIT_C3901) (Compound Nevus))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39006](http://purl.obolibrary.org/obo/NCIT_C39006) (Bioactive Peptide Signaling Pathway))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39004](http://purl.obolibrary.org/obo/NCIT_C39004) (B-Cell Survival Pathway))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38999](http://purl.obolibrary.org/obo/NCIT_C38999) (BARD1 Pathway))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38998](http://purl.obolibrary.org/obo/NCIT_C38998) (BAD Regulation Pathway))) 39.90%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38997](http://purl.obolibrary.org/obo/NCIT_C38997) (Cancer Susceptibility Pathway))) 39.90%
 
 

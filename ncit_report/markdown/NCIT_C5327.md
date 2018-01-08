@@ -20,6 +20,6 @@
 - [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 53.57%
 - Thing 53.00%
 - [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 38.93%
-- [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) and (not ([NCIT:C40153](http://purl.obolibrary.org/obo/NCIT_C40153) (Endometrial Mixed Adenocarcinoma))) 38.93%
+- [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) and (not ([NCIT:C39899](http://purl.obolibrary.org/obo/NCIT_C39899) (Secondary Prostate Urothelial Carcinoma))) 38.93%
 
 

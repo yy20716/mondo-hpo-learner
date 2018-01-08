@@ -12,14 +12,14 @@
 - [NCIT:C36116](http://purl.obolibrary.org/obo/NCIT_C36116) (Borderline Lesion) 52.50%
 - [CL:0000434](http://purl.obolibrary.org/obo/CL_0000434) (eccrine cell) 52.50%
 - [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) 37.86%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39293](http://purl.obolibrary.org/obo/NCIT_C39293) (Helicobacter Pylori Infection))) 37.86%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39291](http://purl.obolibrary.org/obo/NCIT_C39291) (HHV8 Infection))) 37.86%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39278](http://purl.obolibrary.org/obo/NCIT_C39278) (Thrombin/Protease-Activated Receptor Signaling Pathway))) 37.86%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39264](http://purl.obolibrary.org/obo/NCIT_C39264) (Angiogenesis Pathway))) 37.86%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39258](http://purl.obolibrary.org/obo/NCIT_C39258) (TPO Signaling Pathway))) 37.86%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39253](http://purl.obolibrary.org/obo/NCIT_C39253) (Interferon Signaling Modulation Pathway))) 37.86%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39250](http://purl.obolibrary.org/obo/NCIT_C39250) (Mucosal Healing Pathway))) 37.86%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39247](http://purl.obolibrary.org/obo/NCIT_C39247) (Telomere Pathway))) 37.86%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39246](http://purl.obolibrary.org/obo/NCIT_C39246) (T Cell Receptor Signaling Pathway BioCarta))) 37.86%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38158](http://purl.obolibrary.org/obo/NCIT_C38158) (Metachronous Wilms Tumor))) 37.86%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38157](http://purl.obolibrary.org/obo/NCIT_C38157) (Metachronous Osteosarcoma))) 37.86%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38155](http://purl.obolibrary.org/obo/NCIT_C38155) (Recurrent Disease))) 37.86%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38111](http://purl.obolibrary.org/obo/NCIT_C38111) (Skin Sarcomatoid Basal Cell Carcinoma))) 37.86%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38110](http://purl.obolibrary.org/obo/NCIT_C38110) (Skin Signet Ring Cell Basal Cell Carcinoma))) 37.86%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38107](http://purl.obolibrary.org/obo/NCIT_C38107) (Dedifferentiated Dermatofibrosarcoma Protuberans))) 37.86%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38106](http://purl.obolibrary.org/obo/NCIT_C38106) (Myxoid Dermatofibrosarcoma Protuberans))) 37.86%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C38043](http://purl.obolibrary.org/obo/NCIT_C38043) (Typhlitis))) 37.86%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C3804](http://purl.obolibrary.org/obo/NCIT_C3804) (Intradermal Nevus))) 37.86%
 
 

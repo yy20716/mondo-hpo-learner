@@ -2,7 +2,7 @@
 ### [NCIT:C3879](http://purl.obolibrary.org/obo/NCIT_C3879)
 **Label:** Thyroid Gland Medullary Carcinoma
 
-**Subclasses:** [NCIT:C46099](http://purl.obolibrary.org/obo/NCIT_C46099) (Hereditary Thyroid Gland Medullary Carcinoma), [NCIT:C46098](http://purl.obolibrary.org/obo/NCIT_C46098) (Sporadic Thyroid Gland Medullary Carcinoma), [NCIT:C6134](http://purl.obolibrary.org/obo/NCIT_C6134) (Stage II Thyroid Gland Medullary Carcinoma), [NCIT:C123905](http://purl.obolibrary.org/obo/NCIT_C123905) (Childhood Thyroid Gland Medullary Carcinoma), [NCIT:C6133](http://purl.obolibrary.org/obo/NCIT_C6133) (Stage I Thyroid Gland Medullary Carcinoma), [NCIT:C6136](http://purl.obolibrary.org/obo/NCIT_C6136) (Stage IV Thyroid Gland Medullary Carcinoma), [NCIT:C6135](http://purl.obolibrary.org/obo/NCIT_C6135) (Stage III Thyroid Gland Medullary Carcinoma), 
+**Subclasses:** [NCIT:C46099](http://purl.obolibrary.org/obo/NCIT_C46099) (Hereditary Thyroid Gland Medullary Carcinoma), [NCIT:C46098](http://purl.obolibrary.org/obo/NCIT_C46098) (Sporadic Thyroid Gland Medullary Carcinoma), [NCIT:C6134](http://purl.obolibrary.org/obo/NCIT_C6134) (Stage II Thyroid Gland Medullary Carcinoma), [NCIT:C6133](http://purl.obolibrary.org/obo/NCIT_C6133) (Stage I Thyroid Gland Medullary Carcinoma), [NCIT:C123905](http://purl.obolibrary.org/obo/NCIT_C123905) (Childhood Thyroid Gland Medullary Carcinoma), [NCIT:C6136](http://purl.obolibrary.org/obo/NCIT_C6136) (Stage IV Thyroid Gland Medullary Carcinoma), [NCIT:C6135](http://purl.obolibrary.org/obo/NCIT_C6135) (Stage III Thyroid Gland Medullary Carcinoma), 
 
 **Class expressions from DL-Learner:**
 

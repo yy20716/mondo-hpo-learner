@@ -17,9 +17,9 @@
 - [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36794](http://purl.obolibrary.org/obo/NCIT_C36794) (Dysplastic Glandular Cell) and [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 56.25%
 - Thing 52.26%
 - [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 41.61%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36525](http://purl.obolibrary.org/obo/NCIT_C36525) (Gain of Chromosome 11))) 41.61%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36524](http://purl.obolibrary.org/obo/NCIT_C36524) (Loss of Chromosome 7))) 41.61%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36523](http://purl.obolibrary.org/obo/NCIT_C36523) (Monosomy 5))) 41.61%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36522](http://purl.obolibrary.org/obo/NCIT_C36522) (Gain of Chromosome 13))) 41.61%
+- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36671](http://purl.obolibrary.org/obo/NCIT_C36671) (Gain of Chromosome 10))) 41.61%
+- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36670](http://purl.obolibrary.org/obo/NCIT_C36670) (Gain of Chromosome 16))) 41.61%
+- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36669](http://purl.obolibrary.org/obo/NCIT_C36669) (Gain of Chromosome 6))) 41.61%
+- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36667](http://purl.obolibrary.org/obo/NCIT_C36667) (Loss of Chromosome 4q))) 41.61%
 
 

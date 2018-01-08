@@ -18,8 +18,8 @@
 - Thing 52.53%
 - [NCIT:C36315](http://purl.obolibrary.org/obo/NCIT_C36315) (Chromosomal Loss) 47.50%
 - [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) 40.36%
-- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C21075](http://purl.obolibrary.org/obo/NCIT_C21075) (Nociception))) 40.36%
-- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C21067](http://purl.obolibrary.org/obo/NCIT_C21067) (Cellular Stress Response))) 40.36%
-- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C21066](http://purl.obolibrary.org/obo/NCIT_C21066) (Cellular Stress))) 40.36%
+- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C25785](http://purl.obolibrary.org/obo/NCIT_C25785) (KRAS Gene))) 40.36%
+- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C25419](http://purl.obolibrary.org/obo/NCIT_C25419) (Anal Margin))) 40.36%
+- [UBERON:0006562](http://purl.obolibrary.org/obo/UBERON_0006562) (pharynx) and (not ([NCIT:C25288](http://purl.obolibrary.org/obo/NCIT_C25288) (Hairy Cell))) 40.36%
 
 

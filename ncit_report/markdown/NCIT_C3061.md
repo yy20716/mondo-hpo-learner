@@ -20,6 +20,6 @@
 - [CL:0000066](http://purl.obolibrary.org/obo/CL_0000066) (epithelial cell) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 52.78%
 - [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 52.78%
 - [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 38.13%
-- [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) and (not ([NCIT:C40170](http://purl.obolibrary.org/obo/NCIT_C40170) (Uterine Corpus Diffuse Leiomyomatosis))) 38.13%
+- [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 38.13%
 
 

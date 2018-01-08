@@ -2,7 +2,7 @@
 ### [NCIT:C4965](http://purl.obolibrary.org/obo/NCIT_C4965)
 **Label:** Benign Infratentorial Neoplasm
 
-**Subclasses:** [NCIT:C4955](http://purl.obolibrary.org/obo/NCIT_C4955) (Benign Cerebellar Neoplasm), [NCIT:C5796](http://purl.obolibrary.org/obo/NCIT_C5796) (Benign Adult Cerebellar Neoplasm), [NCIT:C8549](http://purl.obolibrary.org/obo/NCIT_C8549) (Benign Brain Stem Neoplasm), [NCIT:C5797](http://purl.obolibrary.org/obo/NCIT_C5797) (Benign Adult Brain Stem Neoplasm), [NCIT:C6809](http://purl.obolibrary.org/obo/NCIT_C6809) (Cerebellar Pilocytic Astrocytoma), 
+**Subclasses:** [NCIT:C4955](http://purl.obolibrary.org/obo/NCIT_C4955) (Benign Cerebellar Neoplasm), [NCIT:C5796](http://purl.obolibrary.org/obo/NCIT_C5796) (Benign Adult Cerebellar Neoplasm), [NCIT:C5797](http://purl.obolibrary.org/obo/NCIT_C5797) (Benign Adult Brain Stem Neoplasm), [NCIT:C8549](http://purl.obolibrary.org/obo/NCIT_C8549) (Benign Brain Stem Neoplasm), [NCIT:C6809](http://purl.obolibrary.org/obo/NCIT_C6809) (Cerebellar Pilocytic Astrocytoma), 
 
 **Class expressions from DL-Learner:**
 

@@ -20,6 +20,6 @@
 - [NCIT:C36476](http://purl.obolibrary.org/obo/NCIT_C36476) (Trisomy 7) 51.16%
 - [NCIT:C36835](http://purl.obolibrary.org/obo/NCIT_C36835) (Neoplastic Thyroid Gland Follicular Cell) and (not ([NCIT:C36836](http://purl.obolibrary.org/obo/NCIT_C36836) (Malignant Thyroid Gland Follicular Cell))) 51.16%
 - [NCIT:C36835](http://purl.obolibrary.org/obo/NCIT_C36835) (Neoplastic Thyroid Gland Follicular Cell) 36.52%
-- [NCIT:C36835](http://purl.obolibrary.org/obo/NCIT_C36835) (Neoplastic Thyroid Gland Follicular Cell) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 36.52%
+- [NCIT:C36835](http://purl.obolibrary.org/obo/NCIT_C36835) (Neoplastic Thyroid Gland Follicular Cell) and (not ([NCIT:C39859](http://purl.obolibrary.org/obo/NCIT_C39859) (Bladder Inverted Papilloma))) 36.52%
 
 

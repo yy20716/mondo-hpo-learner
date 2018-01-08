@@ -15,11 +15,11 @@
 - [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and [CL:1000600](http://purl.obolibrary.org/obo/CL_1000600) (lower urinary tract cell) 52.08%
 - [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) 44.99%
 - [CL:0000244](http://purl.obolibrary.org/obo/CL_0000244) (transitional epithelial cell) 44.99%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40150](http://purl.obolibrary.org/obo/NCIT_C40150) (Grade 2 Endometrial Mucinous Adenocarcinoma))) 44.99%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40149](http://purl.obolibrary.org/obo/NCIT_C40149) (Grade 1 Endometrial Mucinous Adenocarcinoma))) 44.99%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40148](http://purl.obolibrary.org/obo/NCIT_C40148) (Grade 3 Endometrial Endometrioid Adenocarcinoma))) 44.99%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40147](http://purl.obolibrary.org/obo/NCIT_C40147) (Grade 2 Endometrial Endometrioid Adenocarcinoma))) 44.99%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40146](http://purl.obolibrary.org/obo/NCIT_C40146) (Grade 1 Endometrial Endometrioid Adenocarcinoma))) 44.99%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40142](http://purl.obolibrary.org/obo/NCIT_C40142) (Uterine Ligament Papillary Cystadenoma Associated with von Hippel-Lindau Disease))) 44.99%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39956](http://purl.obolibrary.org/obo/NCIT_C39956) (Rete Testis Adenoma))) 44.99%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C3994](http://purl.obolibrary.org/obo/NCIT_C3994) (Stage IV Colon Cancer AJCC v6))) 44.99%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C3993](http://purl.obolibrary.org/obo/NCIT_C3993) (Stage II Colon Cancer AJCC v6))) 44.99%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39914](http://purl.obolibrary.org/obo/NCIT_C39914) (Gain of Chromosome 12p))) 44.99%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C3991](http://purl.obolibrary.org/obo/NCIT_C3991) (Thrombocytopenia Due to Immune Destruction))) 44.99%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39909](http://purl.obolibrary.org/obo/NCIT_C39909) (Gain of Chromosome 18q))) 44.99%
 
 

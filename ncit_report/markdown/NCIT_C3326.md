@@ -20,6 +20,6 @@
 - [CL:0000066](http://purl.obolibrary.org/obo/CL_0000066) (epithelial cell) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 51.92%
 - [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 51.92%
 - [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 37.28%
-- [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) and (not ([NCIT:C40327](http://purl.obolibrary.org/obo/NCIT_C40327) (Vulvar Cellular Angiofibroma))) 37.28%
+- [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 37.28%
 
 

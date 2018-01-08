@@ -11,15 +11,15 @@
 - [UBERON:0000474](http://purl.obolibrary.org/obo/UBERON_0000474) (female reproductive system) 52.63%
 - [UBERON:0000002](http://purl.obolibrary.org/obo/UBERON_0000002) (uterine cervix) 52.63%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 37.99%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36088](http://purl.obolibrary.org/obo/NCIT_C36088) (Peripheral Breast Papilloma))) 37.99%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36085](http://purl.obolibrary.org/obo/NCIT_C36085) (Invasive Papillary Breast Carcinoma))) 37.99%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36081](http://purl.obolibrary.org/obo/NCIT_C36081) (Diffuse Large B-Cell Lymphoma Activated B-Cell Type))) 37.99%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36080](http://purl.obolibrary.org/obo/NCIT_C36080) (Diffuse Large B-Cell Lymphoma Germinal Center B-Cell Type))) 37.99%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36074](http://purl.obolibrary.org/obo/NCIT_C36074) (Metastatic Peripheral Primitive Neuroectodermal Tumor of Bone))) 37.99%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36062](http://purl.obolibrary.org/obo/NCIT_C36062) (Chronic Myelomonocytic Leukemia-2))) 37.99%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36061](http://purl.obolibrary.org/obo/NCIT_C36061) (Chronic Myelomonocytic Leukemia-1))) 37.99%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36060](http://purl.obolibrary.org/obo/NCIT_C36060) (Chronic Myelomonocytic Leukemia with Eosinophilia))) 37.99%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3606](http://purl.obolibrary.org/obo/NCIT_C3606) (Spermatic Cord Lipoma))) 37.99%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36058](http://purl.obolibrary.org/obo/NCIT_C36058) (Acute Myeloid Leukemia with t(11;17)(q13;q21)))) 37.99%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36018](http://purl.obolibrary.org/obo/NCIT_C36018) (Ground Glass Nuclear Inclusion))) 37.99%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36003](http://purl.obolibrary.org/obo/NCIT_C36003) (Desmoplastic Stroma Formation))) 37.99%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36000](http://purl.obolibrary.org/obo/NCIT_C36000) (Hyalinized Stroma Formation))) 37.99%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C35999](http://purl.obolibrary.org/obo/NCIT_C35999) (Mucoid Stroma Formation))) 37.99%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C35998](http://purl.obolibrary.org/obo/NCIT_C35998) (Myxoid Stroma Formation))) 37.99%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C35994](http://purl.obolibrary.org/obo/NCIT_C35994) (Pseudoangiomatoid Space Formation))) 37.99%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C35991](http://purl.obolibrary.org/obo/NCIT_C35991) (Red Blood Cells Extravasation))) 37.99%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C35990](http://purl.obolibrary.org/obo/NCIT_C35990) (Hemosiderin Deposition))) 37.99%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C35988](http://purl.obolibrary.org/obo/NCIT_C35988) (Metaplastic Bone Formation))) 37.99%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C35987](http://purl.obolibrary.org/obo/NCIT_C35987) (Emperipolesis))) 37.99%
 
 

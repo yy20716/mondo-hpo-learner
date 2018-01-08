@@ -12,14 +12,14 @@
 - [NCIT:C36877](http://purl.obolibrary.org/obo/NCIT_C36877) (Neoplastic Ductal Epithelial Cell) 52.00%
 - [NCIT:C36858](http://purl.obolibrary.org/obo/NCIT_C36858) (Ductal Carcinoma Cell) 52.00%
 - [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39124](http://purl.obolibrary.org/obo/NCIT_C39124) (IL3 Signaling Pathway))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39123](http://purl.obolibrary.org/obo/NCIT_C39123) (IL2RB Pathway))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39121](http://purl.obolibrary.org/obo/NCIT_C39121) (IL22 Signaling Pathway))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39117](http://purl.obolibrary.org/obo/NCIT_C39117) (IL12 Signaling Pathway))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39114](http://purl.obolibrary.org/obo/NCIT_C39114) (IGF-1 Signaling Pathway))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39112](http://purl.obolibrary.org/obo/NCIT_C39112) (IFN Gamma Signaling Pathway))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39103](http://purl.obolibrary.org/obo/NCIT_C39103) (ERBB2 Signaling Pathway))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39102](http://purl.obolibrary.org/obo/NCIT_C39102) (Skeletal Myogenesis Pathway))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39101](http://purl.obolibrary.org/obo/NCIT_C39101) (Human Cytomegalovirus Infection Pathway))) 37.36%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39688](http://purl.obolibrary.org/obo/NCIT_C39688) (Localized Skin Lesion))) 37.36%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39687](http://purl.obolibrary.org/obo/NCIT_C39687) (Activated Mature Cytotoxic T-Lymphocyte))) 37.36%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39686](http://purl.obolibrary.org/obo/NCIT_C39686) (Activated Skin-Homing T-Lymphocyte))) 37.36%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39682](http://purl.obolibrary.org/obo/NCIT_C39682) (Flower-Like T-Lymphocyte))) 37.36%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39681](http://purl.obolibrary.org/obo/NCIT_C39681) (Neoplastic Small to Medium-Sized T-Lymphocyte with Irregular Nucleus))) 37.36%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39680](http://purl.obolibrary.org/obo/NCIT_C39680) (Doughnut Cell))) 37.36%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39679](http://purl.obolibrary.org/obo/NCIT_C39679) (Hallmark Cell))) 37.36%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39674](http://purl.obolibrary.org/obo/NCIT_C39674) (Anaplastic Large Cell Lymphoma, Giant Cell Rich Subtype))) 37.36%
+- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39657](http://purl.obolibrary.org/obo/NCIT_C39657) (Neoplastic T-Lymphocyte with Clear Cytoplasm))) 37.36%
 
 

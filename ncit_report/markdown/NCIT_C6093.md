@@ -10,16 +10,16 @@
 - [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C32542](http://purl.obolibrary.org/obo/NCIT_C32542) (Esophageal Squamous Cell))) 53.57%
 - Thing 53.00%
 - [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) 38.93%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39872](http://purl.obolibrary.org/obo/NCIT_C39872) (Urethral Villous Adenoma))) 38.93%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39866](http://purl.obolibrary.org/obo/NCIT_C39866) (Female Urethral Malignant Neoplasm))) 38.93%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39864](http://purl.obolibrary.org/obo/NCIT_C39864) (Carcinoma of Cowper Glands))) 38.93%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39862](http://purl.obolibrary.org/obo/NCIT_C39862) (Human Papillomavirus-Related Urethral Squamous Cell Carcinoma))) 38.93%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39859](http://purl.obolibrary.org/obo/NCIT_C39859) (Bladder Inverted Papilloma))) 38.93%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39856](http://purl.obolibrary.org/obo/NCIT_C39856) (Urothelial Dysplasia))) 38.93%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39845](http://purl.obolibrary.org/obo/NCIT_C39845) (Bladder Urachal Squamous Cell Carcinoma))) 38.93%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39844](http://purl.obolibrary.org/obo/NCIT_C39844) (Bladder Urachal Urothelial Carcinoma))) 38.93%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39834](http://purl.obolibrary.org/obo/NCIT_C39834) (Bladder Squamous Papilloma))) 38.93%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39833](http://purl.obolibrary.org/obo/NCIT_C39833) (Schistosoma Hematobium-Related Bladder Verrucous Carcinoma))) 38.93%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39829](http://purl.obolibrary.org/obo/NCIT_C39829) (Infiltrating Bladder Urothelial Carcinoma with Giant Cells))) 38.93%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39123](http://purl.obolibrary.org/obo/NCIT_C39123) (IL2RB Pathway))) 38.93%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39121](http://purl.obolibrary.org/obo/NCIT_C39121) (IL22 Signaling Pathway))) 38.93%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39117](http://purl.obolibrary.org/obo/NCIT_C39117) (IL12 Signaling Pathway))) 38.93%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39114](http://purl.obolibrary.org/obo/NCIT_C39114) (IGF-1 Signaling Pathway))) 38.93%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39112](http://purl.obolibrary.org/obo/NCIT_C39112) (IFN Gamma Signaling Pathway))) 38.93%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39103](http://purl.obolibrary.org/obo/NCIT_C39103) (ERBB2 Signaling Pathway))) 38.93%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39102](http://purl.obolibrary.org/obo/NCIT_C39102) (Skeletal Myogenesis Pathway))) 38.93%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39101](http://purl.obolibrary.org/obo/NCIT_C39101) (Human Cytomegalovirus Infection Pathway))) 38.93%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39094](http://purl.obolibrary.org/obo/NCIT_C39094) (Inhibition of Cellular Proliferation by Gleevec Pathway))) 38.93%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39092](http://purl.obolibrary.org/obo/NCIT_C39092) (Growth Hormone Signaling Pathway))) 38.93%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39091](http://purl.obolibrary.org/obo/NCIT_C39091) (Corticosteroid Cardioprotection Pathway))) 38.93%
 
 

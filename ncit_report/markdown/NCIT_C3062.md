@@ -15,11 +15,11 @@
 - [NCIT:C18261](http://purl.obolibrary.org/obo/NCIT_C18261) (VHL Gene) 52.63%
 - [NCIT:C18254](http://purl.obolibrary.org/obo/NCIT_C18254) (MEN1 Gene) 52.63%
 - [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) 37.99%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C40308](http://purl.obolibrary.org/obo/NCIT_C40308) (Vulvar Apocrine Adenocarcinoma))) 37.99%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C40307](http://purl.obolibrary.org/obo/NCIT_C40307) (Vulvar Clear Cell Hidradenocarcinoma))) 37.99%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C40306](http://purl.obolibrary.org/obo/NCIT_C40306) (Vulvar Eccrine Porocarcinoma))) 37.99%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C40301](http://purl.obolibrary.org/obo/NCIT_C40301) (Adenoma of Minor Vestibular Glands))) 37.99%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C40299](http://purl.obolibrary.org/obo/NCIT_C40299) (Bartholin Gland Adenoma))) 37.99%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C40298](http://purl.obolibrary.org/obo/NCIT_C40298) (Bartholin Gland Small Cell Carcinoma))) 37.99%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C3678](http://purl.obolibrary.org/obo/NCIT_C3678) (Salivary Gland Basal Cell Adenocarcinoma))) 37.99%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36777](http://purl.obolibrary.org/obo/NCIT_C36777) (Signet Ring Adenocarcinoma Cell))) 37.99%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36775](http://purl.obolibrary.org/obo/NCIT_C36775) (Malignant Spindle Squamous Cell))) 37.99%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36754](http://purl.obolibrary.org/obo/NCIT_C36754) (Paget Cell))) 37.99%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36749](http://purl.obolibrary.org/obo/NCIT_C36749) (Neoplastic Keratinocyte))) 37.99%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36742](http://purl.obolibrary.org/obo/NCIT_C36742) (Spider Cell))) 37.99%
 
 

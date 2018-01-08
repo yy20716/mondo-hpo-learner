@@ -18,8 +18,8 @@
 - [NCIT:C18322](http://purl.obolibrary.org/obo/NCIT_C18322) (EWSR1 Gene) 51.61%
 - [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C35292](http://purl.obolibrary.org/obo/NCIT_C35292) (Low Grade Fever))) 51.61%
 - [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) 36.97%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C40222](http://purl.obolibrary.org/obo/NCIT_C40222) (Low Grade Endometrioid Stromal Sarcoma of the Cervix))) 36.97%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C40215](http://purl.obolibrary.org/obo/NCIT_C40215) (Cervical Mullerian Papilloma))) 36.97%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C40214](http://purl.obolibrary.org/obo/NCIT_C40214) (Cervical Large Cell Neuroendocrine Carcinoma))) 36.97%
+- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39902](http://purl.obolibrary.org/obo/NCIT_C39902) (Prostate Basal Cell Carcinoma))) 36.97%
+- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39901](http://purl.obolibrary.org/obo/NCIT_C39901) (Prostatic Duct Urothelial Carcinoma))) 36.97%
+- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39899](http://purl.obolibrary.org/obo/NCIT_C39899) (Secondary Prostate Urothelial Carcinoma))) 36.97%
 
 

@@ -20,6 +20,6 @@
 - [NCIT:C12964](http://purl.obolibrary.org/obo/NCIT_C12964) (Connective and Soft Tissue) 37.18%
 - [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) 31.65%
 - [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) 31.65%
-- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C40203](http://purl.obolibrary.org/obo/NCIT_C40203) (Cervical Mucinous Adenocarcinoma, Intestinal-Type))) 31.65%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C40151](http://purl.obolibrary.org/obo/NCIT_C40151) (Grade 3 Endometrial Mucinous Adenocarcinoma))) 31.65%
 
 

@@ -12,14 +12,14 @@
 - [NCIT:C35911](http://purl.obolibrary.org/obo/NCIT_C35911) (Papillary Pattern) 54.17%
 - Thing 52.77%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36890](http://purl.obolibrary.org/obo/NCIT_C36890) (Malignant Langerhans Cell))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3689](http://purl.obolibrary.org/obo/NCIT_C3689) (Appendix Goblet Cell Carcinoid))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36884](http://purl.obolibrary.org/obo/NCIT_C36884) (Malignant Polygonal Cell with Abundant Granular Cytoplasm))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36880](http://purl.obolibrary.org/obo/NCIT_C36880) (Adenocarcinoma Cell with Eosinophilic Granular Cytoplasm))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3688](http://purl.obolibrary.org/obo/NCIT_C3688) (Trabecular Adenoma))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36879](http://purl.obolibrary.org/obo/NCIT_C36879) (Lobular Carcinoma Cell))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36874](http://purl.obolibrary.org/obo/NCIT_C36874) (Spindle Melanoma Cell))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36872](http://purl.obolibrary.org/obo/NCIT_C36872) (Epithelioid Melanoma Cell))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36870](http://purl.obolibrary.org/obo/NCIT_C36870) (Epithelioid Melanocyte))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36605](http://purl.obolibrary.org/obo/NCIT_C36605) (i(19)))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36604](http://purl.obolibrary.org/obo/NCIT_C36604) (del(9p21p22)))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36603](http://purl.obolibrary.org/obo/NCIT_C36603) (t(7;9)(q34;q32)))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36602](http://purl.obolibrary.org/obo/NCIT_C36602) (inv(14)(q11;q32.1)))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36599](http://purl.obolibrary.org/obo/NCIT_C36599) (Loss of Chromosome Y))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36598](http://purl.obolibrary.org/obo/NCIT_C36598) (Loss of Chromosome 18))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36597](http://purl.obolibrary.org/obo/NCIT_C36597) (Loss of Chromosome 1))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36596](http://purl.obolibrary.org/obo/NCIT_C36596) (Gain of Chromosome 6q))) 39.52%
 
 

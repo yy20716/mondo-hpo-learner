@@ -11,15 +11,15 @@
 - [NCIT:C12964](http://purl.obolibrary.org/obo/NCIT_C12964) (Connective and Soft Tissue) 39.96%
 - [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C33563](http://purl.obolibrary.org/obo/NCIT_C33563) (Skin Tissue))) 39.52%
 - [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) 33.03%
-- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C40198](http://purl.obolibrary.org/obo/NCIT_C40198) (Cervical Squamous Intraepithelial Neoplasia 2))) 33.03%
-- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C40194](http://purl.obolibrary.org/obo/NCIT_C40194) (Cervical Squamotransitional Carcinoma))) 33.03%
-- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C40193](http://purl.obolibrary.org/obo/NCIT_C40193) (Cervical Lymphoepithelioma-Like Carcinoma))) 33.03%
-- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C40191](http://purl.obolibrary.org/obo/NCIT_C40191) (Cervical Warty Carcinoma))) 33.03%
-- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C40190](http://purl.obolibrary.org/obo/NCIT_C40190) (Cervical Verrucous Carcinoma))) 33.03%
-- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C4019](http://purl.obolibrary.org/obo/NCIT_C4019) (Paget Disease and Intraductal Carcinoma of the Breast))) 33.03%
-- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C40189](http://purl.obolibrary.org/obo/NCIT_C40189) (Cervical Basaloid Carcinoma))) 33.03%
-- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C40187](http://purl.obolibrary.org/obo/NCIT_C40187) (Cervical Keratinizing Squamous Cell Carcinoma))) 33.03%
-- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C40182](http://purl.obolibrary.org/obo/NCIT_C40182) (Uterine Corpus Carcinofibroma))) 33.03%
-- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C40177](http://purl.obolibrary.org/obo/NCIT_C40177) (Uterine Corpus Smooth Muscle Tumor of Uncertain Malignant Potential))) 33.03%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C3950](http://purl.obolibrary.org/obo/NCIT_C3950) (Oral Mucosa Lobular Capillary Hemangioma))) 33.03%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C3939](http://purl.obolibrary.org/obo/NCIT_C3939) (Bannayan Syndrome))) 33.03%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C39301](http://purl.obolibrary.org/obo/NCIT_C39301) (CD4+/CD56+ Neoplastic Medium-Sized Cell))) 33.03%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C39300](http://purl.obolibrary.org/obo/NCIT_C39300) (Precursor Natural Killer Cell))) 33.03%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C39294](http://purl.obolibrary.org/obo/NCIT_C39294) (Schistosoma Hematobium Infection))) 33.03%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C39293](http://purl.obolibrary.org/obo/NCIT_C39293) (Helicobacter Pylori Infection))) 33.03%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C39291](http://purl.obolibrary.org/obo/NCIT_C39291) (HHV8 Infection))) 33.03%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C39278](http://purl.obolibrary.org/obo/NCIT_C39278) (Thrombin/Protease-Activated Receptor Signaling Pathway))) 33.03%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C39264](http://purl.obolibrary.org/obo/NCIT_C39264) (Angiogenesis Pathway))) 33.03%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C39258](http://purl.obolibrary.org/obo/NCIT_C39258) (TPO Signaling Pathway))) 33.03%
 
 

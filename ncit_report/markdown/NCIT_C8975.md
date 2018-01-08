@@ -18,8 +18,8 @@
 - [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and [NCIT:C61541](http://purl.obolibrary.org/obo/NCIT_C61541) (Atypical Glandular Epithelium Resembling the Normal Endometrium Present) 52.27%
 - [NCIT:C61466](http://purl.obolibrary.org/obo/NCIT_C61466) (Malignant Component Present) 50.12%
 - [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) 45.37%
-- [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([NCIT:C39834](http://purl.obolibrary.org/obo/NCIT_C39834) (Bladder Squamous Papilloma))) 45.37%
-- [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([NCIT:C39833](http://purl.obolibrary.org/obo/NCIT_C39833) (Schistosoma Hematobium-Related Bladder Verrucous Carcinoma))) 45.37%
-- [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([NCIT:C39829](http://purl.obolibrary.org/obo/NCIT_C39829) (Infiltrating Bladder Urothelial Carcinoma with Giant Cells))) 45.37%
+- [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([NCIT:C38998](http://purl.obolibrary.org/obo/NCIT_C38998) (BAD Regulation Pathway))) 45.37%
+- [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([NCIT:C38997](http://purl.obolibrary.org/obo/NCIT_C38997) (Cancer Susceptibility Pathway))) 45.37%
+- [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([NCIT:C38996](http://purl.obolibrary.org/obo/NCIT_C38996) (ATM Signaling Pathway))) 45.37%
 
 

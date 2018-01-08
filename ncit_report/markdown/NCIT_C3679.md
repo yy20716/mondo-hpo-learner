@@ -13,13 +13,13 @@
 - [NCIT:C36753](http://purl.obolibrary.org/obo/NCIT_C36753) (Neoplastic Epithelial Cell) 39.27%
 - [NCIT:C36745](http://purl.obolibrary.org/obo/NCIT_C36745) (Abnormal Epithelial Cell) 39.22%
 - [NCIT:C36942](http://purl.obolibrary.org/obo/NCIT_C36942) (Malignant Oncocyte) 38.69%
-- [NCIT:C36942](http://purl.obolibrary.org/obo/NCIT_C36942) (Malignant Oncocyte) and (not ([NCIT:C40190](http://purl.obolibrary.org/obo/NCIT_C40190) (Cervical Verrucous Carcinoma))) 38.69%
-- [NCIT:C36942](http://purl.obolibrary.org/obo/NCIT_C36942) (Malignant Oncocyte) and (not ([NCIT:C4019](http://purl.obolibrary.org/obo/NCIT_C4019) (Paget Disease and Intraductal Carcinoma of the Breast))) 38.69%
-- [NCIT:C36942](http://purl.obolibrary.org/obo/NCIT_C36942) (Malignant Oncocyte) and (not ([NCIT:C40189](http://purl.obolibrary.org/obo/NCIT_C40189) (Cervical Basaloid Carcinoma))) 38.69%
-- [NCIT:C36942](http://purl.obolibrary.org/obo/NCIT_C36942) (Malignant Oncocyte) and (not ([NCIT:C40187](http://purl.obolibrary.org/obo/NCIT_C40187) (Cervical Keratinizing Squamous Cell Carcinoma))) 38.69%
-- [NCIT:C36942](http://purl.obolibrary.org/obo/NCIT_C36942) (Malignant Oncocyte) and (not ([NCIT:C40182](http://purl.obolibrary.org/obo/NCIT_C40182) (Uterine Corpus Carcinofibroma))) 38.69%
-- [NCIT:C36942](http://purl.obolibrary.org/obo/NCIT_C36942) (Malignant Oncocyte) and (not ([NCIT:C40177](http://purl.obolibrary.org/obo/NCIT_C40177) (Uterine Corpus Smooth Muscle Tumor of Uncertain Malignant Potential))) 38.69%
-- [NCIT:C36942](http://purl.obolibrary.org/obo/NCIT_C36942) (Malignant Oncocyte) and (not ([NCIT:C40175](http://purl.obolibrary.org/obo/NCIT_C40175) (Uterine Corpus Myxoid Leiomyosarcoma))) 38.69%
-- [NCIT:C36942](http://purl.obolibrary.org/obo/NCIT_C36942) (Malignant Oncocyte) and (not ([NCIT:C40174](http://purl.obolibrary.org/obo/NCIT_C40174) (Uterine Corpus Epithelioid Leiomyosarcoma))) 38.69%
+- [NCIT:C36942](http://purl.obolibrary.org/obo/NCIT_C36942) (Malignant Oncocyte) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 38.69%
+- [NCIT:C36942](http://purl.obolibrary.org/obo/NCIT_C36942) (Malignant Oncocyte) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 38.69%
+- [NCIT:C36942](http://purl.obolibrary.org/obo/NCIT_C36942) (Malignant Oncocyte) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 38.69%
+- [NCIT:C36942](http://purl.obolibrary.org/obo/NCIT_C36942) (Malignant Oncocyte) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 38.69%
+- [NCIT:C36942](http://purl.obolibrary.org/obo/NCIT_C36942) (Malignant Oncocyte) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 38.69%
+- [NCIT:C36942](http://purl.obolibrary.org/obo/NCIT_C36942) (Malignant Oncocyte) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 38.69%
+- [NCIT:C36942](http://purl.obolibrary.org/obo/NCIT_C36942) (Malignant Oncocyte) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 38.69%
+- [NCIT:C36942](http://purl.obolibrary.org/obo/NCIT_C36942) (Malignant Oncocyte) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 38.69%
 
 

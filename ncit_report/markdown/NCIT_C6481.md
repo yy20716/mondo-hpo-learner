@@ -15,11 +15,11 @@
 - [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C20576](http://purl.obolibrary.org/obo/NCIT_C20576) (HMGA1 Gene))) 51.85%
 - [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) 37.21%
 - [NCIT:C20570](http://purl.obolibrary.org/obo/NCIT_C20570) (HMG Family Gene) 37.21%
-- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40384](http://purl.obolibrary.org/obo/NCIT_C40384) (Breast Ductal Adenoma))) 37.21%
-- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40383](http://purl.obolibrary.org/obo/NCIT_C40383) (Breast Apocrine Adenoma))) 37.21%
-- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40379](http://purl.obolibrary.org/obo/NCIT_C40379) (Angiosarcoma of the Skin of the Arm after Radical Mastectomy followed by Lymphedema))) 37.21%
-- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40378](http://purl.obolibrary.org/obo/NCIT_C40378) (Post-Radiotherapy Breast Angiosarcoma))) 37.21%
-- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40377](http://purl.obolibrary.org/obo/NCIT_C40377) (Breast Follicular Lymphoma))) 37.21%
-- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40376](http://purl.obolibrary.org/obo/NCIT_C40376) (Breast Burkitt Lymphoma))) 37.21%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 37.21%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 37.21%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40034](http://purl.obolibrary.org/obo/NCIT_C40034) (Ovarian Mucinous Adenocarcinofibroma))) 37.21%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40032](http://purl.obolibrary.org/obo/NCIT_C40032) (Ovarian Serous Cystadenofibroma))) 37.21%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40029](http://purl.obolibrary.org/obo/NCIT_C40029) (Borderline Ovarian Serous Cystadenofibroma))) 37.21%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40021](http://purl.obolibrary.org/obo/NCIT_C40021) (Ovarian Lymphoma))) 37.21%
 
 

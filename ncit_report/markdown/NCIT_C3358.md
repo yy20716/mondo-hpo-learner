@@ -11,15 +11,15 @@
 - [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 34.79%
 - [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) 32.71%
 - [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) 32.71%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C40356](http://purl.obolibrary.org/obo/NCIT_C40356) (Breast Large Cell Neuroendocrine Carcinoma))) 32.71%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C40355](http://purl.obolibrary.org/obo/NCIT_C40355) (Breast Columnar Cell Mucinous Carcinoma))) 32.71%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C40354](http://purl.obolibrary.org/obo/NCIT_C40354) (Breast Mucinous Cystadenocarcinoma))) 32.71%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C40350](http://purl.obolibrary.org/obo/NCIT_C40350) (Breast Carcinoma with Choriocarcinomatous Features))) 32.71%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C40345](http://purl.obolibrary.org/obo/NCIT_C40345) (Testicular Intratubular Germ Cell Neoplasia, Unclassified))) 32.71%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C40344](http://purl.obolibrary.org/obo/NCIT_C40344) (Hypertriploidy))) 32.71%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C40343](http://purl.obolibrary.org/obo/NCIT_C40343) (Hypotriploidy))) 32.71%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C40341](http://purl.obolibrary.org/obo/NCIT_C40341) (Hypospadias))) 32.71%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C40339](http://purl.obolibrary.org/obo/NCIT_C40339) (Mesenteric Gastrointestinal Stromal Tumor))) 32.71%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C40337](http://purl.obolibrary.org/obo/NCIT_C40337) (Retroperitoneal Gastrointestinal Stromal Tumor))) 32.71%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 32.71%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 32.71%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 32.71%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 32.71%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 32.71%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 32.71%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 32.71%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 32.71%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 32.71%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39963](http://purl.obolibrary.org/obo/NCIT_C39963) (Penile Bowenoid Papulosis))) 32.71%
 
 

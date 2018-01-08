@@ -12,14 +12,14 @@
 - [CL:0000317](http://purl.obolibrary.org/obo/CL_0000317) (sebum secreting cell) 52.63%
 - [CL:0000152](http://purl.obolibrary.org/obo/CL_0000152) (exocrine cell) 52.63%
 - [NCIT:C43338](http://purl.obolibrary.org/obo/NCIT_C43338) (Neoplastic Sebocyte) 37.99%
-- [NCIT:C43338](http://purl.obolibrary.org/obo/NCIT_C43338) (Neoplastic Sebocyte) and (not ([NCIT:C39740](http://purl.obolibrary.org/obo/NCIT_C39740) (Lung Inflammatory Myofibroblastic Tumor))) 37.99%
-- [NCIT:C43338](http://purl.obolibrary.org/obo/NCIT_C43338) (Neoplastic Sebocyte) and (not ([NCIT:C39739](http://purl.obolibrary.org/obo/NCIT_C39739) (Negative Peripheral Blood))) 37.99%
-- [NCIT:C43338](http://purl.obolibrary.org/obo/NCIT_C43338) (Neoplastic Sebocyte) and (not ([NCIT:C39725](http://purl.obolibrary.org/obo/NCIT_C39725) (Immunodeficiency))) 37.99%
-- [NCIT:C43338](http://purl.obolibrary.org/obo/NCIT_C43338) (Neoplastic Sebocyte) and (not ([NCIT:C39721](http://purl.obolibrary.org/obo/NCIT_C39721) (Abundance of Small Lymphocytes))) 37.99%
-- [NCIT:C43338](http://purl.obolibrary.org/obo/NCIT_C43338) (Neoplastic Sebocyte) and (not ([NCIT:C39720](http://purl.obolibrary.org/obo/NCIT_C39720) (Classical Reed-Sternberg Cell))) 37.99%
-- [NCIT:C43338](http://purl.obolibrary.org/obo/NCIT_C43338) (Neoplastic Sebocyte) and (not ([NCIT:C3972](http://purl.obolibrary.org/obo/NCIT_C3972) (Prostate Fibroma))) 37.99%
-- [NCIT:C43338](http://purl.obolibrary.org/obo/NCIT_C43338) (Neoplastic Sebocyte) and (not ([NCIT:C39719](http://purl.obolibrary.org/obo/NCIT_C39719) (PDGFRalpha Protein Overexpression))) 37.99%
-- [NCIT:C43338](http://purl.obolibrary.org/obo/NCIT_C43338) (Neoplastic Sebocyte) and (not ([NCIT:C39718](http://purl.obolibrary.org/obo/NCIT_C39718) (PDGFRA Gene Mutation))) 37.99%
-- [NCIT:C43338](http://purl.obolibrary.org/obo/NCIT_C43338) (Neoplastic Sebocyte) and (not ([NCIT:C39717](http://purl.obolibrary.org/obo/NCIT_C39717) (MDM2 Gene Mutation))) 37.99%
+- [NCIT:C43338](http://purl.obolibrary.org/obo/NCIT_C43338) (Neoplastic Sebocyte) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 37.99%
+- [NCIT:C43338](http://purl.obolibrary.org/obo/NCIT_C43338) (Neoplastic Sebocyte) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 37.99%
+- [NCIT:C43338](http://purl.obolibrary.org/obo/NCIT_C43338) (Neoplastic Sebocyte) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 37.99%
+- [NCIT:C43338](http://purl.obolibrary.org/obo/NCIT_C43338) (Neoplastic Sebocyte) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 37.99%
+- [NCIT:C43338](http://purl.obolibrary.org/obo/NCIT_C43338) (Neoplastic Sebocyte) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 37.99%
+- [NCIT:C43338](http://purl.obolibrary.org/obo/NCIT_C43338) (Neoplastic Sebocyte) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 37.99%
+- [NCIT:C43338](http://purl.obolibrary.org/obo/NCIT_C43338) (Neoplastic Sebocyte) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 37.99%
+- [NCIT:C43338](http://purl.obolibrary.org/obo/NCIT_C43338) (Neoplastic Sebocyte) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 37.99%
+- [NCIT:C43338](http://purl.obolibrary.org/obo/NCIT_C43338) (Neoplastic Sebocyte) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 37.99%
 
 

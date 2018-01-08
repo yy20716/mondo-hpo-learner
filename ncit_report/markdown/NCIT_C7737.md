@@ -11,15 +11,15 @@
 - Thing 52.77%
 - [NCIT:C12964](http://purl.obolibrary.org/obo/NCIT_C12964) (Connective and Soft Tissue) 39.96%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36833](http://purl.obolibrary.org/obo/NCIT_C36833) (Lipid-Laden Macrophage))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36824](http://purl.obolibrary.org/obo/NCIT_C36824) (Malignant Epithelial Giant Cell))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36821](http://purl.obolibrary.org/obo/NCIT_C36821) (Malignant Neuroendocrine Large Cell))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3682](http://purl.obolibrary.org/obo/NCIT_C3682) (Sweat Gland Tubular Carcinoma))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36814](http://purl.obolibrary.org/obo/NCIT_C36814) (Malignant Clear Squamous Cell))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36812](http://purl.obolibrary.org/obo/NCIT_C36812) (Warthin-Finkeldey Polykaryocyte))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36791](http://purl.obolibrary.org/obo/NCIT_C36791) (Keratinizing Malignant Squamous Cell))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36783](http://purl.obolibrary.org/obo/NCIT_C36783) (Malignant Non-Cutaneous Basaloid Cell))) 39.52%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell))) 39.52%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3678](http://purl.obolibrary.org/obo/NCIT_C3678) (Salivary Gland Basal Cell Adenocarcinoma))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36777](http://purl.obolibrary.org/obo/NCIT_C36777) (Signet Ring Adenocarcinoma Cell))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36775](http://purl.obolibrary.org/obo/NCIT_C36775) (Malignant Spindle Squamous Cell))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36754](http://purl.obolibrary.org/obo/NCIT_C36754) (Paget Cell))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36749](http://purl.obolibrary.org/obo/NCIT_C36749) (Neoplastic Keratinocyte))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36742](http://purl.obolibrary.org/obo/NCIT_C36742) (Spider Cell))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36739](http://purl.obolibrary.org/obo/NCIT_C36739) (Physaliphorous Cell))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36733](http://purl.obolibrary.org/obo/NCIT_C36733) (Sea-Blue Histiocyte))) 39.52%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36732](http://purl.obolibrary.org/obo/NCIT_C36732) (Touton Giant Cell))) 39.52%
 
 

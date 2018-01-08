@@ -9,17 +9,17 @@
 - [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C32052](http://purl.obolibrary.org/obo/NCIT_C32052) (Alpha Cell))) 53.85%
 - Thing 52.89%
 - [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) 39.20%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35900](http://purl.obolibrary.org/obo/NCIT_C35900) (Multinodular Pattern))) 39.20%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35898](http://purl.obolibrary.org/obo/NCIT_C35898) (Vertical Growth Phase))) 39.20%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35897](http://purl.obolibrary.org/obo/NCIT_C35897) (Radial Growth Phase))) 39.20%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35894](http://purl.obolibrary.org/obo/NCIT_C35894) (Junctional Proliferation))) 39.20%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35893](http://purl.obolibrary.org/obo/NCIT_C35893) (Pagetoid Proliferation))) 39.20%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35891](http://purl.obolibrary.org/obo/NCIT_C35891) (Lobulated Growth Pattern))) 39.20%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35889](http://purl.obolibrary.org/obo/NCIT_C35889) (Whorling Growth Pattern))) 39.20%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35888](http://purl.obolibrary.org/obo/NCIT_C35888) (Storiform Growth Pattern))) 39.20%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35887](http://purl.obolibrary.org/obo/NCIT_C35887) (Herringbone Growth Pattern))) 39.20%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35885](http://purl.obolibrary.org/obo/NCIT_C35885) (Polyclonal Hypergammaglobulinemia))) 39.20%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35879](http://purl.obolibrary.org/obo/NCIT_C35879) (Anisochromasia))) 39.20%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35878](http://purl.obolibrary.org/obo/NCIT_C35878) (Monoclonal Paraproteinemia))) 39.20%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35944](http://purl.obolibrary.org/obo/NCIT_C35944) (Ependymal Rosette Formation))) 39.20%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35942](http://purl.obolibrary.org/obo/NCIT_C35942) (Homer Wright Rosette Formation))) 39.20%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35941](http://purl.obolibrary.org/obo/NCIT_C35941) (Flexner-Wintersteiner Rosette Formation))) 39.20%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35938](http://purl.obolibrary.org/obo/NCIT_C35938) (Epithelioid Differentiation))) 39.20%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35937](http://purl.obolibrary.org/obo/NCIT_C35937) (Rhabdomyosarcomatous Differentiation))) 39.20%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35933](http://purl.obolibrary.org/obo/NCIT_C35933) (Distantly Metastatic Malignant Neoplasm))) 39.20%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35931](http://purl.obolibrary.org/obo/NCIT_C35931) (Honeycomb Pattern))) 39.20%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C3593](http://purl.obolibrary.org/obo/NCIT_C3593) (Benign Floor of the Mouth Neoplasm))) 39.20%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35928](http://purl.obolibrary.org/obo/NCIT_C35928) (Triphasic Pattern))) 39.20%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35927](http://purl.obolibrary.org/obo/NCIT_C35927) (Syncytial Pattern))) 39.20%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35926](http://purl.obolibrary.org/obo/NCIT_C35926) (Glomeruloid Vessels Present))) 39.20%
+- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35925](http://purl.obolibrary.org/obo/NCIT_C35925) (Tubular Pattern))) 39.20%
 
 

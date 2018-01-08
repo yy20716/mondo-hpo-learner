@@ -8,18 +8,18 @@
 
 - Thing 52.40%
 - [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) 40.91%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36491](http://purl.obolibrary.org/obo/NCIT_C36491) (Loss of Chromosome 22))) 40.91%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36490](http://purl.obolibrary.org/obo/NCIT_C36490) (Loss of Chromosome 14))) 40.91%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36489](http://purl.obolibrary.org/obo/NCIT_C36489) (Gain of Chromosome 5p))) 40.91%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36488](http://purl.obolibrary.org/obo/NCIT_C36488) (Gain of Chromosome 8q))) 40.91%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36487](http://purl.obolibrary.org/obo/NCIT_C36487) (Gain of Chromosome 3q))) 40.91%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36486](http://purl.obolibrary.org/obo/NCIT_C36486) (Gain of Chromosome 5))) 40.91%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36485](http://purl.obolibrary.org/obo/NCIT_C36485) (CCND1 Protein Overexpression))) 40.91%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36484](http://purl.obolibrary.org/obo/NCIT_C36484) (Gain of Chromosome 17q))) 40.91%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36483](http://purl.obolibrary.org/obo/NCIT_C36483) (Gain of Chromosome 9q))) 40.91%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36482](http://purl.obolibrary.org/obo/NCIT_C36482) (Gain of Chromosome 1q))) 40.91%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36481](http://purl.obolibrary.org/obo/NCIT_C36481) (Gain of Chromosome 15q))) 40.91%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36480](http://purl.obolibrary.org/obo/NCIT_C36480) (Gain of Chromosome 20q))) 40.91%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36478](http://purl.obolibrary.org/obo/NCIT_C36478) (Unbalanced Translocation of Chromosome 1))) 40.91%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36685](http://purl.obolibrary.org/obo/NCIT_C36685) (NF1 Gene Inactivation))) 40.91%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36684](http://purl.obolibrary.org/obo/NCIT_C36684) (WT1 Gene Inactivation))) 40.91%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36683](http://purl.obolibrary.org/obo/NCIT_C36683) (APC Gene Inactivation))) 40.91%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36681](http://purl.obolibrary.org/obo/NCIT_C36681) (MDM2 Gene Amplification))) 40.91%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36679](http://purl.obolibrary.org/obo/NCIT_C36679) (HRAS Gene Amplification))) 40.91%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36678](http://purl.obolibrary.org/obo/NCIT_C36678) (FOS Gene Amplification))) 40.91%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36673](http://purl.obolibrary.org/obo/NCIT_C36673) (NMYC Gene Amplification))) 40.91%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36671](http://purl.obolibrary.org/obo/NCIT_C36671) (Gain of Chromosome 10))) 40.91%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36670](http://purl.obolibrary.org/obo/NCIT_C36670) (Gain of Chromosome 16))) 40.91%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36669](http://purl.obolibrary.org/obo/NCIT_C36669) (Gain of Chromosome 6))) 40.91%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36667](http://purl.obolibrary.org/obo/NCIT_C36667) (Loss of Chromosome 4q))) 40.91%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36666](http://purl.obolibrary.org/obo/NCIT_C36666) (Fibroblast Growth Factor 1 Overexpression))) 40.91%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36665](http://purl.obolibrary.org/obo/NCIT_C36665) (KRAS Gene Amplification))) 40.91%
 
 

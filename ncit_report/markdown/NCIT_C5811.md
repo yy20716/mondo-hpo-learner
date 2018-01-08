@@ -20,6 +20,6 @@
 - [NCIT:C12964](http://purl.obolibrary.org/obo/NCIT_C12964) (Connective and Soft Tissue) 37.18%
 - [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) 31.65%
 - [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) 31.65%
-- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C36540](http://purl.obolibrary.org/obo/NCIT_C36540) (Rearrangement of 8q11-13))) 31.65%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and (not ([NCIT:C40138](http://purl.obolibrary.org/obo/NCIT_C40138) (Uterine Ligament Endometrioid Adenocarcinoma))) 31.65%
 
 

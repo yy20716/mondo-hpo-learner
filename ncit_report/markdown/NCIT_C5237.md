@@ -2,7 +2,7 @@
 ### [NCIT:C5237](http://purl.obolibrary.org/obo/NCIT_C5237)
 **Label:** Ovarian Neuroendocrine Neoplasm
 
-**Subclasses:** [NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor), [NCIT:C5229](http://purl.obolibrary.org/obo/NCIT_C5229) (Ovarian Carcinoid Tumor), [NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor), [NCIT:C40440](http://purl.obolibrary.org/obo/NCIT_C40440) (Ovarian Small Cell Carcinoma, Pulmonary Type), [NCIT:C5238](http://purl.obolibrary.org/obo/NCIT_C5238) (Ovarian Large Cell Neuroendocrine Carcinoma), 
+**Subclasses:** [NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor), [NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor), [NCIT:C5229](http://purl.obolibrary.org/obo/NCIT_C5229) (Ovarian Carcinoid Tumor), [NCIT:C40440](http://purl.obolibrary.org/obo/NCIT_C40440) (Ovarian Small Cell Carcinoma, Pulmonary Type), [NCIT:C5238](http://purl.obolibrary.org/obo/NCIT_C5238) (Ovarian Large Cell Neuroendocrine Carcinoma), 
 
 **Class expressions from DL-Learner:**
 

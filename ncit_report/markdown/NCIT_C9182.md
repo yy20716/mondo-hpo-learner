@@ -17,9 +17,9 @@
 - [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) 31.37%
 - [NCIT:C36954](http://purl.obolibrary.org/obo/NCIT_C36954) (Neoplastic Connective and Soft Tissue Spindle Cell) and [NCIT:C48682](http://purl.obolibrary.org/obo/NCIT_C48682) (Neoplastic Fibroblast) 31.37%
 - [NCIT:C36823](http://purl.obolibrary.org/obo/NCIT_C36823) (Neoplastic Spindle Cell) and [NCIT:C48682](http://purl.obolibrary.org/obo/NCIT_C48682) (Neoplastic Fibroblast) 31.37%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 31.37%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 31.37%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40104](http://purl.obolibrary.org/obo/NCIT_C40104) (Fallopian Tube Transitional Cell Carcinoma))) 31.37%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40103](http://purl.obolibrary.org/obo/NCIT_C40103) (Fallopian Tube Mucinous Adenocarcinoma))) 31.37%
+- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 31.37%
+- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 31.37%
+- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 31.37%
+- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 31.37%
 
 

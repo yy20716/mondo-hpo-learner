@@ -17,9 +17,9 @@
 - Thing 52.53%
 - [NCIT:C36315](http://purl.obolibrary.org/obo/NCIT_C36315) (Chromosomal Loss) 47.50%
 - [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) 40.36%
-- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) and (not ([NCIT:C39013](http://purl.obolibrary.org/obo/NCIT_C39013) (Estrogen Receptor Regulation by CARM1 Pathway))) 40.36%
-- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) and (not ([NCIT:C39011](http://purl.obolibrary.org/obo/NCIT_C39011) (Cardiac Hypertrophy Pathway))) 40.36%
-- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) and (not ([NCIT:C3901](http://purl.obolibrary.org/obo/NCIT_C3901) (Compound Nevus))) 40.36%
-- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) and (not ([NCIT:C39006](http://purl.obolibrary.org/obo/NCIT_C39006) (Bioactive Peptide Signaling Pathway))) 40.36%
+- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) and (not ([NCIT:C38326](http://purl.obolibrary.org/obo/NCIT_C38326) (Immature Peripheral Gamma/Delta Cell of Cytotoxic Type))) 40.36%
+- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) and (not ([NCIT:C38323](http://purl.obolibrary.org/obo/NCIT_C38323) (Peripheral Epidermotropic T-Lymphocyte))) 40.36%
+- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) and (not ([NCIT:C38322](http://purl.obolibrary.org/obo/NCIT_C38322) (Marginal Zone B-Lymphocyte of Nodal Type))) 40.36%
+- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) and (not ([NCIT:C3832](http://purl.obolibrary.org/obo/NCIT_C3832) (Malaise))) 40.36%
 
 

@@ -2,7 +2,7 @@
 ### [NCIT:C8964](http://purl.obolibrary.org/obo/NCIT_C8964)
 **Label:** Synovial Neoplasm
 
-**Subclasses:** [NCIT:C3402](http://purl.obolibrary.org/obo/NCIT_C3402) (Tenosynovial Giant Cell Tumor), [NCIT:C6535](http://purl.obolibrary.org/obo/NCIT_C6535) (Malignant Tenosynovial Giant Cell Tumor), [NCIT:C3829](http://purl.obolibrary.org/obo/NCIT_C3829) (Benign Synovial Neoplasm), [NCIT:C6532](http://purl.obolibrary.org/obo/NCIT_C6532) (Tenosynovial Giant Cell Tumor, Localized Type), [NCIT:C6531](http://purl.obolibrary.org/obo/NCIT_C6531) (Malignant Synovial Neoplasm), 
+**Subclasses:** [NCIT:C6535](http://purl.obolibrary.org/obo/NCIT_C6535) (Malignant Tenosynovial Giant Cell Tumor), [NCIT:C3402](http://purl.obolibrary.org/obo/NCIT_C3402) (Tenosynovial Giant Cell Tumor), [NCIT:C3829](http://purl.obolibrary.org/obo/NCIT_C3829) (Benign Synovial Neoplasm), [NCIT:C6532](http://purl.obolibrary.org/obo/NCIT_C6532) (Tenosynovial Giant Cell Tumor, Localized Type), [NCIT:C6531](http://purl.obolibrary.org/obo/NCIT_C6531) (Malignant Synovial Neoplasm), 
 
 **Class expressions from DL-Learner:**
 

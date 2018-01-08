@@ -7,19 +7,19 @@
 **Class expressions from DL-Learner:**
 
 - [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) 57.48%
-- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 57.48%
-- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 57.48%
-- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C40104](http://purl.obolibrary.org/obo/NCIT_C40104) (Fallopian Tube Transitional Cell Carcinoma))) 57.48%
-- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C40103](http://purl.obolibrary.org/obo/NCIT_C40103) (Fallopian Tube Mucinous Adenocarcinoma))) 57.48%
-- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C40093](http://purl.obolibrary.org/obo/NCIT_C40093) (Ovarian Squamous Cell Carcinoma))) 57.48%
-- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 57.48%
-- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 57.48%
-- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 57.48%
-- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 57.48%
-- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 57.48%
-- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 57.48%
-- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 57.48%
-- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 57.48%
-- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 57.48%
+- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C40243](http://purl.obolibrary.org/obo/NCIT_C40243) (Vaginal Keratinizing Squamous Cell Carcinoma))) 57.48%
+- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C40239](http://purl.obolibrary.org/obo/NCIT_C40239) (Cervical Melanoma))) 57.48%
+- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C40236](http://purl.obolibrary.org/obo/NCIT_C40236) (Cervical Wilms Tumor))) 57.48%
+- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C40231](http://purl.obolibrary.org/obo/NCIT_C40231) (Cervical Adenomyoma))) 57.48%
+- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C40230](http://purl.obolibrary.org/obo/NCIT_C40230) (Cervical Adenofibroma))) 57.48%
+- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C40229](http://purl.obolibrary.org/obo/NCIT_C40229) (Cervical Adenosarcoma))) 57.48%
+- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C40225](http://purl.obolibrary.org/obo/NCIT_C40225) (Cervical Alveolar Soft Part Sarcoma))) 57.48%
+- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C40224](http://purl.obolibrary.org/obo/NCIT_C40224) (Undifferentiated Endocervical Sarcoma))) 57.48%
+- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C40223](http://purl.obolibrary.org/obo/NCIT_C40223) (Uterine Corpus Low Grade Endometrial Stromal Sarcoma))) 57.48%
+- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C40222](http://purl.obolibrary.org/obo/NCIT_C40222) (Low Grade Endometrioid Stromal Sarcoma of the Cervix))) 57.48%
+- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C40215](http://purl.obolibrary.org/obo/NCIT_C40215) (Cervical Mullerian Papilloma))) 57.48%
+- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C40214](http://purl.obolibrary.org/obo/NCIT_C40214) (Cervical Large Cell Neuroendocrine Carcinoma))) 57.48%
+- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C4021](http://purl.obolibrary.org/obo/NCIT_C4021) (Chondroblastic Osteosarcoma))) 57.48%
+- [NCIT:C36873](http://purl.obolibrary.org/obo/NCIT_C36873) (Melanoma Cell) and (not ([NCIT:C40209](http://purl.obolibrary.org/obo/NCIT_C40209) (Cervical Glandular Dysplasia))) 57.48%
 
 

@@ -12,14 +12,14 @@
 - Thing 52.89%
 - [NCIT:C12964](http://purl.obolibrary.org/obo/NCIT_C12964) (Connective and Soft Tissue) 39.32%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38436](http://purl.obolibrary.org/obo/NCIT_C38436) (Mature B-Lymphocyte at the Germinal Center Stage of Differentiation))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3843](http://purl.obolibrary.org/obo/NCIT_C3843) (Malignant Ovarian Cyst))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38423](http://purl.obolibrary.org/obo/NCIT_C38423) (Pleomorphic Reed-Sternberg Cell))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38408](http://purl.obolibrary.org/obo/NCIT_C38408) (Progressive Transformation of Germinal Centers))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38407](http://purl.obolibrary.org/obo/NCIT_C38407) (C-KIT Somatic Point Mutation))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38393](http://purl.obolibrary.org/obo/NCIT_C38393) (KMT2A-EEN Fusion Protein Expression))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38392](http://purl.obolibrary.org/obo/NCIT_C38392) (KMT2A-ELL Fusion Protein Expression))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38391](http://purl.obolibrary.org/obo/NCIT_C38391) (KMT2A-ENL Fusion Protein Expression))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38390](http://purl.obolibrary.org/obo/NCIT_C38390) (MLLT3-KMT2A Fusion Protein Expression))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39130](http://purl.obolibrary.org/obo/NCIT_C39130) (Insulin Signaling Pathway))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39128](http://purl.obolibrary.org/obo/NCIT_C39128) (IL7 Signaling Pathway))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39124](http://purl.obolibrary.org/obo/NCIT_C39124) (IL3 Signaling Pathway))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39123](http://purl.obolibrary.org/obo/NCIT_C39123) (IL2RB Pathway))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39121](http://purl.obolibrary.org/obo/NCIT_C39121) (IL22 Signaling Pathway))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39117](http://purl.obolibrary.org/obo/NCIT_C39117) (IL12 Signaling Pathway))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39114](http://purl.obolibrary.org/obo/NCIT_C39114) (IGF-1 Signaling Pathway))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39112](http://purl.obolibrary.org/obo/NCIT_C39112) (IFN Gamma Signaling Pathway))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C39103](http://purl.obolibrary.org/obo/NCIT_C39103) (ERBB2 Signaling Pathway))) 39.20%
 
 

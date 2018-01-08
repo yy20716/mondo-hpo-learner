@@ -12,14 +12,14 @@
 - [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) and [NCIT:C62495](http://purl.obolibrary.org/obo/NCIT_C62495) (Neoplastic Eccrine Cell) 39.90%
 - [NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell) and [NCIT:C62495](http://purl.obolibrary.org/obo/NCIT_C62495) (Neoplastic Eccrine Cell) 39.90%
 - [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C62495](http://purl.obolibrary.org/obo/NCIT_C62495) (Neoplastic Eccrine Cell) 39.90%
-- [NCIT:C62499](http://purl.obolibrary.org/obo/NCIT_C62499) (Malignant Eccrine Cell) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 39.90%
-- [NCIT:C62499](http://purl.obolibrary.org/obo/NCIT_C62499) (Malignant Eccrine Cell) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 39.90%
-- [NCIT:C62499](http://purl.obolibrary.org/obo/NCIT_C62499) (Malignant Eccrine Cell) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 39.90%
-- [NCIT:C62499](http://purl.obolibrary.org/obo/NCIT_C62499) (Malignant Eccrine Cell) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 39.90%
-- [NCIT:C62499](http://purl.obolibrary.org/obo/NCIT_C62499) (Malignant Eccrine Cell) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 39.90%
-- [NCIT:C62499](http://purl.obolibrary.org/obo/NCIT_C62499) (Malignant Eccrine Cell) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 39.90%
-- [NCIT:C62499](http://purl.obolibrary.org/obo/NCIT_C62499) (Malignant Eccrine Cell) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 39.90%
-- [NCIT:C62499](http://purl.obolibrary.org/obo/NCIT_C62499) (Malignant Eccrine Cell) and (not ([NCIT:C40034](http://purl.obolibrary.org/obo/NCIT_C40034) (Ovarian Mucinous Adenocarcinofibroma))) 39.90%
-- [NCIT:C62499](http://purl.obolibrary.org/obo/NCIT_C62499) (Malignant Eccrine Cell) and (not ([NCIT:C40032](http://purl.obolibrary.org/obo/NCIT_C40032) (Ovarian Serous Cystadenofibroma))) 39.90%
+- [NCIT:C62499](http://purl.obolibrary.org/obo/NCIT_C62499) (Malignant Eccrine Cell) and (not ([NCIT:C39897](http://purl.obolibrary.org/obo/NCIT_C39897) (Prostate Ductal Adenocarcinoma, Solid Pattern))) 39.90%
+- [NCIT:C62499](http://purl.obolibrary.org/obo/NCIT_C62499) (Malignant Eccrine Cell) and (not ([NCIT:C39896](http://purl.obolibrary.org/obo/NCIT_C39896) (Prostate Ductal Adenocarcinoma, Papillary Pattern))) 39.90%
+- [NCIT:C62499](http://purl.obolibrary.org/obo/NCIT_C62499) (Malignant Eccrine Cell) and (not ([NCIT:C39895](http://purl.obolibrary.org/obo/NCIT_C39895) (Prostate Ductal Adenocarcinoma, Cribriform Pattern))) 39.90%
+- [NCIT:C62499](http://purl.obolibrary.org/obo/NCIT_C62499) (Malignant Eccrine Cell) and (not ([NCIT:C3989](http://purl.obolibrary.org/obo/NCIT_C3989) (Parathyroid Hyperplasia))) 39.90%
+- [NCIT:C62499](http://purl.obolibrary.org/obo/NCIT_C62499) (Malignant Eccrine Cell) and (not ([NCIT:C39885](http://purl.obolibrary.org/obo/NCIT_C39885) (Acinar Prostate Adenocarcinoma, Lymphoepithelioma-Like Variant))) 39.90%
+- [NCIT:C62499](http://purl.obolibrary.org/obo/NCIT_C62499) (Malignant Eccrine Cell) and (not ([NCIT:C39880](http://purl.obolibrary.org/obo/NCIT_C39880) (Acinar Prostate Adenocarcinoma, Atrophic Variant))) 39.90%
+- [NCIT:C62499](http://purl.obolibrary.org/obo/NCIT_C62499) (Malignant Eccrine Cell) and (not ([NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q))) 39.90%
+- [NCIT:C62499](http://purl.obolibrary.org/obo/NCIT_C62499) (Malignant Eccrine Cell) and (not ([NCIT:C39874](http://purl.obolibrary.org/obo/NCIT_C39874) (Urethral Verrucous Carcinoma))) 39.90%
+- [NCIT:C62499](http://purl.obolibrary.org/obo/NCIT_C62499) (Malignant Eccrine Cell) and (not ([NCIT:C39873](http://purl.obolibrary.org/obo/NCIT_C39873) (Urethral Glandular Metaplasia))) 39.90%
 
 

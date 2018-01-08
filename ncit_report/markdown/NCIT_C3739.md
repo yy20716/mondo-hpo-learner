@@ -8,18 +8,18 @@
 
 - Thing 52.53%
 - [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) 40.36%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40170](http://purl.obolibrary.org/obo/NCIT_C40170) (Uterine Corpus Diffuse Leiomyomatosis))) 40.36%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40168](http://purl.obolibrary.org/obo/NCIT_C40168) (Uterine Corpus Lipoleiomyoma))) 40.36%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40167](http://purl.obolibrary.org/obo/NCIT_C40167) (Uterine Corpus Bizarre Leiomyoma))) 40.36%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40166](http://purl.obolibrary.org/obo/NCIT_C40166) (Uterine Corpus Myxoid Leiomyoma))) 40.36%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40165](http://purl.obolibrary.org/obo/NCIT_C40165) (Uterine Corpus Apoplectic Leiomyoma))) 40.36%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40164](http://purl.obolibrary.org/obo/NCIT_C40164) (Uterine Corpus Epithelioid Leiomyoma))) 40.36%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40163](http://purl.obolibrary.org/obo/NCIT_C40163) (Uterine Corpus Cellular Leiomyoma))) 40.36%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40162](http://purl.obolibrary.org/obo/NCIT_C40162) (Uterine Corpus Leiomyoma, Mitotically Active Variant))) 40.36%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40161](http://purl.obolibrary.org/obo/NCIT_C40161) (JAZF1-SUZ12 Fusion Protein Expression))) 40.36%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40160](http://purl.obolibrary.org/obo/NCIT_C40160) (t(7;17)(p15;q21)))) 40.36%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40156](http://purl.obolibrary.org/obo/NCIT_C40156) (Endometrial Undifferentiated Carcinoma))) 40.36%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40155](http://purl.obolibrary.org/obo/NCIT_C40155) (Endometrial Small Cell Carcinoma))) 40.36%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40154](http://purl.obolibrary.org/obo/NCIT_C40154) (Endometrial Transitional Cell Carcinoma))) 40.36%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40231](http://purl.obolibrary.org/obo/NCIT_C40231) (Cervical Adenomyoma))) 40.36%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40230](http://purl.obolibrary.org/obo/NCIT_C40230) (Cervical Adenofibroma))) 40.36%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40229](http://purl.obolibrary.org/obo/NCIT_C40229) (Cervical Adenosarcoma))) 40.36%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40225](http://purl.obolibrary.org/obo/NCIT_C40225) (Cervical Alveolar Soft Part Sarcoma))) 40.36%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40224](http://purl.obolibrary.org/obo/NCIT_C40224) (Undifferentiated Endocervical Sarcoma))) 40.36%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40223](http://purl.obolibrary.org/obo/NCIT_C40223) (Uterine Corpus Low Grade Endometrial Stromal Sarcoma))) 40.36%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40222](http://purl.obolibrary.org/obo/NCIT_C40222) (Low Grade Endometrioid Stromal Sarcoma of the Cervix))) 40.36%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40215](http://purl.obolibrary.org/obo/NCIT_C40215) (Cervical Mullerian Papilloma))) 40.36%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40214](http://purl.obolibrary.org/obo/NCIT_C40214) (Cervical Large Cell Neuroendocrine Carcinoma))) 40.36%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C4021](http://purl.obolibrary.org/obo/NCIT_C4021) (Chondroblastic Osteosarcoma))) 40.36%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40209](http://purl.obolibrary.org/obo/NCIT_C40209) (Cervical Glandular Dysplasia))) 40.36%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40208](http://purl.obolibrary.org/obo/NCIT_C40208) (Cervical Villoglandular Adenocarcinoma))) 40.36%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40206](http://purl.obolibrary.org/obo/NCIT_C40206) (Cervical Mucinous Adenocarcinoma, Minimal Deviation Type))) 40.36%
 
 

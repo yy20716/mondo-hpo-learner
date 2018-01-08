@@ -12,14 +12,14 @@
 - [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) 33.03%
 - [UBERON:0000990](http://purl.obolibrary.org/obo/UBERON_0000990) (reproductive system) 33.03%
 - [UBERON:0000991](http://purl.obolibrary.org/obo/UBERON_0000991) (gonad) and [UBERON:0003134](http://purl.obolibrary.org/obo/UBERON_0003134) (female reproductive organ) 33.03%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([NCIT:C38975](http://purl.obolibrary.org/obo/NCIT_C38975) (Agrin Pathway))) 33.03%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([NCIT:C38971](http://purl.obolibrary.org/obo/NCIT_C38971) (Regulation of Apoptosis Pathway))) 33.03%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([NCIT:C3892](http://purl.obolibrary.org/obo/NCIT_C3892) (Mu Heavy Chain Disease))) 33.03%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([NCIT:C38850](http://purl.obolibrary.org/obo/NCIT_C38850) (Phosphatidylinositol Signaling System Pathway))) 33.03%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([NCIT:C38834](http://purl.obolibrary.org/obo/NCIT_C38834) (MAPK Signaling Pathway))) 33.03%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([NCIT:C38829](http://purl.obolibrary.org/obo/NCIT_C38829) (Focal Adhesion Pathway))) 33.03%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([NCIT:C38828](http://purl.obolibrary.org/obo/NCIT_C38828) (Inositol Phosphate Metabolism Pathway))) 33.03%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([NCIT:C3880](http://purl.obolibrary.org/obo/NCIT_C3880) (Eyelid Nevus))) 33.03%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([NCIT:C38784](http://purl.obolibrary.org/obo/NCIT_C38784) (Apoptosis Pathway))) 33.03%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([NCIT:C38660](http://purl.obolibrary.org/obo/NCIT_C38660) (Neoplastic Large B-Lymphocyte with Pale Cytoplasm))) 33.03%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([NCIT:C3866](http://purl.obolibrary.org/obo/NCIT_C3866) (Esophageal Leiomyoma))) 33.03%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([NCIT:C38658](http://purl.obolibrary.org/obo/NCIT_C38658) (Transformed Peripheral B-Lymphocyte))) 33.03%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([NCIT:C38657](http://purl.obolibrary.org/obo/NCIT_C38657) (Neoplastic Immunoblast-Like B-Lymphocyte))) 33.03%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([NCIT:C38656](http://purl.obolibrary.org/obo/NCIT_C38656) (ALK Kinase Overexpression))) 33.03%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([NCIT:C38655](http://purl.obolibrary.org/obo/NCIT_C38655) (Bulky Disease))) 33.03%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([NCIT:C38650](http://purl.obolibrary.org/obo/NCIT_C38650) (Defective Mu Heavy Chain Present))) 33.03%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([NCIT:C38649](http://purl.obolibrary.org/obo/NCIT_C38649) (Vacuolated Plasma Cells in the Bone Marrow))) 33.03%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([NCIT:C38648](http://purl.obolibrary.org/obo/NCIT_C38648) (Negative Bone Marrow and Peripheral Blood))) 33.03%
 
 

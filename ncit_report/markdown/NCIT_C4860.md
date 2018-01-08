@@ -9,17 +9,17 @@
 - Thing 52.89%
 - [NCIT:C12964](http://purl.obolibrary.org/obo/NCIT_C12964) (Connective and Soft Tissue) 39.32%
 - [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38174](http://purl.obolibrary.org/obo/NCIT_C38174) (IRF4/MUM1 Messenger RNA Overexpression))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38173](http://purl.obolibrary.org/obo/NCIT_C38173) (BCL2 Gene mRNA Overexpression))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38172](http://purl.obolibrary.org/obo/NCIT_C38172) (Cyclin D2 Messenger RNA Overexpression))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38171](http://purl.obolibrary.org/obo/NCIT_C38171) (PKCbeta1 Messenger RNA Overexpression))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38170](http://purl.obolibrary.org/obo/NCIT_C38170) (LMO2 Messenger RNA Overexpression))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38169](http://purl.obolibrary.org/obo/NCIT_C38169) (A-myb Messenger RNA Overexpression))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38168](http://purl.obolibrary.org/obo/NCIT_C38168) (BCL-6 Messenger RNA Overexpression))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38167](http://purl.obolibrary.org/obo/NCIT_C38167) (CD10 Messenger RNA Overexpression))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38158](http://purl.obolibrary.org/obo/NCIT_C38158) (Metachronous Wilms Tumor))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38157](http://purl.obolibrary.org/obo/NCIT_C38157) (Metachronous Osteosarcoma))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38155](http://purl.obolibrary.org/obo/NCIT_C38155) (Recurrent Disease))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38111](http://purl.obolibrary.org/obo/NCIT_C38111) (Skin Sarcomatoid Basal Cell Carcinoma))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37999](http://purl.obolibrary.org/obo/NCIT_C37999) (Palpitation))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37973](http://purl.obolibrary.org/obo/NCIT_C37973) (Hypocalcemia))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37943](http://purl.obolibrary.org/obo/NCIT_C37943) (Dizziness))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37935](http://purl.obolibrary.org/obo/NCIT_C37935) (Cough))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37930](http://purl.obolibrary.org/obo/NCIT_C37930) (Constipation))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3791](http://purl.obolibrary.org/obo/NCIT_C3791) (Central Neurocytoma))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37905](http://purl.obolibrary.org/obo/NCIT_C37905) (Gain of Chromosome 14))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37883](http://purl.obolibrary.org/obo/NCIT_C37883) (BCR-PDGFRAlpha Fusion Protein Expression))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37882](http://purl.obolibrary.org/obo/NCIT_C37882) (t(4;22)(q12;q11)))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37881](http://purl.obolibrary.org/obo/NCIT_C37881) (BCR-FGFR1 Fusion Protein Expression))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37880](http://purl.obolibrary.org/obo/NCIT_C37880) (t(8;22)(p11;q11)))) 39.20%
+- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37876](http://purl.obolibrary.org/obo/NCIT_C37876) (Renal Cell Carcinoma Associated with t(X;17)(p11.2;q25)))) 39.20%
 
 
