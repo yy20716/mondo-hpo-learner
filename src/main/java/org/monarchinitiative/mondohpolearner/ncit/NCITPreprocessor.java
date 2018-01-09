@@ -93,6 +93,8 @@ public class NCITPreprocessor extends Preprocessor {
 
 	private void visitSomeClassNode(Model model, Resource aClassIRI, Resource beginClassIRI) {
 		Collection<Resource> someClassIRIs = someClassRsrcMap.get(aClassIRI);
+		if (someClassIRIs.isEmpty()) return;
+		
 		for (Resource someClassIRI: someClassIRIs) {
 			Resource b1 = generateDummyResource(model, someClassIRI);
 			model.add(b1, RDF.type, someClassIRI);
@@ -104,6 +106,8 @@ public class NCITPreprocessor extends Preprocessor {
 			} else {
 				classEqEntityMap.put(curieUtil.getCurie(beginClassIRI.getURI()).get(), b1.getURI());
 			}
+			
+			visitIntUniClassNode(model, someClassIRI, beginClassIRI);
 		}
 	}
 
@@ -181,17 +185,6 @@ public class NCITPreprocessor extends Preprocessor {
 					classParamMap.put(eachClass, new OWLNamedIndividualImpl(IRI.create(eqEntity)));
 				}
 			}
-
-			/*
-			int i = 0;
-			for (String eachClass : classParamMap.keySet()) {
-				logger.info(eachClass + " - " + classParamMap.get(eachClass));
-				if ( classParamMap.get(eachClass).size() > 1 && eachClass.contains("NCIT")) {
-					i+= 1;
-				}
-			}
-			logger.info("i: " + i);
-			*/
 			
 			File file = new File(Processor.hpofilewithAbox);
 			FileUtils.deleteQuietly(file);
