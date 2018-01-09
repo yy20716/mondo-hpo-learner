@@ -1,0 +1,25 @@
+
+### [NCIT:C3766](http://purl.obolibrary.org/obo/NCIT_C3766)
+**Label:** Clear Cell Adenocarcinoma
+
+**Subclasses:** [NCIT:C4524](http://purl.obolibrary.org/obo/NCIT_C4524) (Multilocular Cystic Renal Cell Carcinoma), [NCIT:C54664](http://purl.obolibrary.org/obo/NCIT_C54664) (Hidradenocarcinoma), [NCIT:C5775](http://purl.obolibrary.org/obo/NCIT_C5775) (Extrahepatic Bile Duct Clear Cell Adenocarcinoma), [NCIT:C7735](http://purl.obolibrary.org/obo/NCIT_C7735) (Vaginal Clear Cell Adenocarcinoma), [NCIT:C5754](http://purl.obolibrary.org/obo/NCIT_C5754) (Clear Cell Hepatocellular Carcinoma), [NCIT:C4033](http://purl.obolibrary.org/obo/NCIT_C4033) (Clear Cell Renal Cell Carcinoma), [NCIT:C8028](http://purl.obolibrary.org/obo/NCIT_C8028) (Endometrial Clear Cell Adenocarcinoma), [NCIT:C40307](http://purl.obolibrary.org/obo/NCIT_C40307) (Vulvar Clear Cell Hidradenocarcinoma), [NCIT:C6344](http://purl.obolibrary.org/obo/NCIT_C6344) (Cervical Clear Cell Adenocarcinoma), [NCIT:C27414](http://purl.obolibrary.org/obo/NCIT_C27414) (Ampulla of Vater Clear Cell Adenocarcinoma), [NCIT:C40139](http://purl.obolibrary.org/obo/NCIT_C40139) (Uterine Ligament Clear Cell Adenocarcinoma), [NCIT:C7980](http://purl.obolibrary.org/obo/NCIT_C7980) (Ovarian Clear Cell Cystadenocarcinoma), [NCIT:C27843](http://purl.obolibrary.org/obo/NCIT_C27843) (Endometrial Endometrioid Adenocarcinoma with Clear Cell Change), [NCIT:C6280](http://purl.obolibrary.org/obo/NCIT_C6280) (Fallopian Tube Clear Cell Adenocarcinoma), [NCIT:C40078](http://purl.obolibrary.org/obo/NCIT_C40078) (Ovarian Clear Cell Adenocarcinoma), [NCIT:C6172](http://purl.obolibrary.org/obo/NCIT_C6172) (Urethral Clear Cell Adenocarcinoma), [NCIT:C36261](http://purl.obolibrary.org/obo/NCIT_C36261) (Non-Hereditary Clear Cell Renal Cell Carcinoma), [NCIT:C43605](http://purl.obolibrary.org/obo/NCIT_C43605) (Gallbladder Clear Cell Adenocarcinoma), [NCIT:C36260](http://purl.obolibrary.org/obo/NCIT_C36260) (Hereditary Clear Cell Renal Cell Carcinoma), [NCIT:C43848](http://purl.obolibrary.org/obo/NCIT_C43848) (Clear Cell Intrahepatic Cholangiocarcinoma), [NCIT:C35853](http://purl.obolibrary.org/obo/NCIT_C35853) (Grade 3 Clear Cell Renal Cell Carcinoma), [NCIT:C35852](http://purl.obolibrary.org/obo/NCIT_C35852) (Grade 2 Clear Cell Renal Cell Carcinoma), [NCIT:C35851](http://purl.obolibrary.org/obo/NCIT_C35851) (Grade 1 Clear Cell Renal Cell Carcinoma), [NCIT:C35854](http://purl.obolibrary.org/obo/NCIT_C35854) (Grade 4 Clear Cell Renal Cell Carcinoma), 
+
+**Class expressions from DL-Learner:**
+
+- Thing 53.00%
+- [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) 39.60%
+- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 39.25%
+- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) 38.93%
+- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and (not ([NCIT:C3994](http://purl.obolibrary.org/obo/NCIT_C3994) (Stage IV Colon Cancer AJCC v6))) 38.93%
+- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and (not ([NCIT:C3993](http://purl.obolibrary.org/obo/NCIT_C3993) (Stage II Colon Cancer AJCC v6))) 38.93%
+- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and (not ([NCIT:C39914](http://purl.obolibrary.org/obo/NCIT_C39914) (Gain of Chromosome 12p))) 38.93%
+- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and (not ([NCIT:C3991](http://purl.obolibrary.org/obo/NCIT_C3991) (Thrombocytopenia Due to Immune Destruction))) 38.93%
+- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and (not ([NCIT:C39909](http://purl.obolibrary.org/obo/NCIT_C39909) (Gain of Chromosome 18q))) 38.93%
+- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and (not ([NCIT:C39907](http://purl.obolibrary.org/obo/NCIT_C39907) (Seminal Vesicle Cystadenoma))) 38.93%
+- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and (not ([NCIT:C39906](http://purl.obolibrary.org/obo/NCIT_C39906) (Seminal Vesicle Adenocarcinoma))) 38.93%
+- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and (not ([NCIT:C39905](http://purl.obolibrary.org/obo/NCIT_C39905) (Prostate Stromal Proliferation of Uncertain Malignant Potential))) 38.93%
+- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and (not ([NCIT:C39903](http://purl.obolibrary.org/obo/NCIT_C39903) (Prostate Adenocarcinoma with Focal Neuroendocrine Differentiation))) 38.93%
+- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and (not ([NCIT:C39902](http://purl.obolibrary.org/obo/NCIT_C39902) (Prostate Basal Cell Carcinoma))) 38.93%
+- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and (not ([NCIT:C39901](http://purl.obolibrary.org/obo/NCIT_C39901) (Prostatic Duct Urothelial Carcinoma))) 38.93%
+
+

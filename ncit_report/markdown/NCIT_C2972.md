@@ -1,0 +1,25 @@
+
+### [NCIT:C2972](http://purl.obolibrary.org/obo/NCIT_C2972)
+**Label:** Cystadenoma
+
+**Subclasses:** [NCIT:C4711](http://purl.obolibrary.org/obo/NCIT_C4711) (Borderline Cystadenoma), [NCIT:C3783](http://purl.obolibrary.org/obo/NCIT_C3783) (Serous Cystadenoma), [NCIT:C4511](http://purl.obolibrary.org/obo/NCIT_C4511) (Ovarian Serous Cystadenoma), [NCIT:C2974](http://purl.obolibrary.org/obo/NCIT_C2974) (Papillary Cystadenoma), [NCIT:C2973](http://purl.obolibrary.org/obo/NCIT_C2973) (Mucinous Cystadenoma), [NCIT:C4512](http://purl.obolibrary.org/obo/NCIT_C4512) (Ovarian Mucinous Cystadenoma), [NCIT:C4374](http://purl.obolibrary.org/obo/NCIT_C4374) (Pancreatic Cystadenoma), [NCIT:C4177](http://purl.obolibrary.org/obo/NCIT_C4177) (Borderline Serous Cystadenoma), [NCIT:C4178](http://purl.obolibrary.org/obo/NCIT_C4178) (Borderline Papillary Cystadenoma), [NCIT:C65203](http://purl.obolibrary.org/obo/NCIT_C65203) (Clear Cell Papillary Cystadenoma), [NCIT:C45604](http://purl.obolibrary.org/obo/NCIT_C45604) (Lung Mucinous Cystadenoma), [NCIT:C4180](http://purl.obolibrary.org/obo/NCIT_C4180) (Papillary Serous Cystadenoma), [NCIT:C4060](http://purl.obolibrary.org/obo/NCIT_C4060) (Ovarian Cystadenoma), [NCIT:C40142](http://purl.obolibrary.org/obo/NCIT_C40142) (Uterine Ligament Papillary Cystadenoma Associated with von Hippel-Lindau Disease), [NCIT:C95546](http://purl.obolibrary.org/obo/NCIT_C95546) (Pancreatic Acinar Cell Cystadenoma), [NCIT:C35833](http://purl.obolibrary.org/obo/NCIT_C35833) (Salivary Gland Cystadenoma), [NCIT:C5712](http://purl.obolibrary.org/obo/NCIT_C5712) (Pancreatic Serous Cystadenoma), [NCIT:C39907](http://purl.obolibrary.org/obo/NCIT_C39907) (Seminal Vesicle Cystadenoma), [NCIT:C7278](http://purl.obolibrary.org/obo/NCIT_C7278) (Ovarian Papillary Cystadenoma), [NCIT:C4186](http://purl.obolibrary.org/obo/NCIT_C4186) (Borderline Papillary Mucinous Cystadenoma), [NCIT:C4183](http://purl.obolibrary.org/obo/NCIT_C4183) (Borderline Papillary Serous Cystadenoma), [NCIT:C95471](http://purl.obolibrary.org/obo/NCIT_C95471) (Pancreatic Macrocystic Serous Cystadenoma), [NCIT:C4184](http://purl.obolibrary.org/obo/NCIT_C4184) (Papillary Mucinous Cystadenoma), [NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma), [NCIT:C126476](http://purl.obolibrary.org/obo/NCIT_C126476) (Broad Ligament Serous Cystadenoma), [NCIT:C126310](http://purl.obolibrary.org/obo/NCIT_C126310) (Ovarian Seromucinous Cystadenoma), 
+
+**Class expressions from DL-Learner:**
+
+- [NCIT:C62273](http://purl.obolibrary.org/obo/NCIT_C62273) (Mixed Neoplastic Glandular and Squamous Cell Population) 54.55%
+- [NCIT:C41457](http://purl.obolibrary.org/obo/NCIT_C41457) (Well-Circumscribed Lesion) 54.55%
+- Thing 52.66%
+- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) 39.90%
+- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 39.90%
+- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 39.90%
+- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C39963](http://purl.obolibrary.org/obo/NCIT_C39963) (Penile Bowenoid Papulosis))) 39.90%
+- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C39961](http://purl.obolibrary.org/obo/NCIT_C39961) (Penile Basal Cell Carcinoma))) 39.90%
+- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C39959](http://purl.obolibrary.org/obo/NCIT_C39959) (Mixed Squamous Cell Carcinoma of the Penis))) 39.90%
+- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C39957](http://purl.obolibrary.org/obo/NCIT_C39957) (Epididymal Adenocarcinoma))) 39.90%
+- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C39956](http://purl.obolibrary.org/obo/NCIT_C39956) (Rete Testis Adenoma))) 39.90%
+- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C3994](http://purl.obolibrary.org/obo/NCIT_C3994) (Stage IV Colon Cancer AJCC v6))) 39.90%
+- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C3993](http://purl.obolibrary.org/obo/NCIT_C3993) (Stage II Colon Cancer AJCC v6))) 39.90%
+- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C39914](http://purl.obolibrary.org/obo/NCIT_C39914) (Gain of Chromosome 12p))) 39.90%
+- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C3991](http://purl.obolibrary.org/obo/NCIT_C3991) (Thrombocytopenia Due to Immune Destruction))) 39.90%
+
+

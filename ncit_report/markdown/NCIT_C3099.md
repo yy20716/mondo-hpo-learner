@@ -1,0 +1,25 @@
+
+### [NCIT:C3099](http://purl.obolibrary.org/obo/NCIT_C3099)
+**Label:** Hepatocellular Carcinoma
+
+**Subclasses:** [NCIT:C96790](http://purl.obolibrary.org/obo/NCIT_C96790) (Moderately Differentiated Hepatocellular Carcinoma), [NCIT:C96791](http://purl.obolibrary.org/obo/NCIT_C96791) (Poorly Differentiated Hepatocellular Carcinoma), [NCIT:C5763](http://purl.obolibrary.org/obo/NCIT_C5763) (Stage IV Hepatocellular Carcinoma AJCC v6), [NCIT:C96772](http://purl.obolibrary.org/obo/NCIT_C96772) (Early Hepatocellular Carcinoma), [NCIT:C4131](http://purl.obolibrary.org/obo/NCIT_C4131) (Fibrolamellar Carcinoma), [NCIT:C5760](http://purl.obolibrary.org/obo/NCIT_C5760) (Stage III Hepatocellular Carcinoma AJCC v6), [NCIT:C9046](http://purl.obolibrary.org/obo/NCIT_C9046) (Recurrent Childhood Hepatocellular Carcinoma), [NCIT:C9264](http://purl.obolibrary.org/obo/NCIT_C9264) (Recurrent Hepatocellular Carcinoma), [NCIT:C27635](http://purl.obolibrary.org/obo/NCIT_C27635) (Transplant-Related Hepatocellular Carcinoma), [NCIT:C9067](http://purl.obolibrary.org/obo/NCIT_C9067) (Recurrent Adult Hepatocellular Carcinoma), [NCIT:C90510](http://purl.obolibrary.org/obo/NCIT_C90510) (Hepatocellular Carcinoma by AJCC v6 Stage), [NCIT:C91228](http://purl.obolibrary.org/obo/NCIT_C91228) (Hepatocellular Carcinoma by AJCC v7 Stage), [NCIT:C5709](http://purl.obolibrary.org/obo/NCIT_C5709) (Stage II Childhood Hepatocellular Carcinoma AJCC v6 and v7), [NCIT:C134516](http://purl.obolibrary.org/obo/NCIT_C134516) (Stage I Hepatocellular Carcinoma AJCC v8), [NCIT:C134515](http://purl.obolibrary.org/obo/NCIT_C134515) (Hepatocellular Carcinoma by AJCC v8 Stage), [NCIT:C134519](http://purl.obolibrary.org/obo/NCIT_C134519) (Stage II Hepatocellular Carcinoma AJCC v8), [NCIT:C5708](http://purl.obolibrary.org/obo/NCIT_C5708) (Stage III Childhood Hepatocellular Carcinoma AJCC v7), [NCIT:C27388](http://purl.obolibrary.org/obo/NCIT_C27388) (Scirrhous Hepatocellular Carcinoma), [NCIT:C7956](http://purl.obolibrary.org/obo/NCIT_C7956) (Adult Hepatocellular Carcinoma), [NCIT:C134520](http://purl.obolibrary.org/obo/NCIT_C134520) (Stage III Hepatocellular Carcinoma AJCC v8), [NCIT:C5758](http://purl.obolibrary.org/obo/NCIT_C5758) (Stage I Hepatocellular Carcinoma AJCC v6 and v7), [NCIT:C7838](http://purl.obolibrary.org/obo/NCIT_C7838) (Stage IV Childhood Hepatocellular Carcinoma AJCC v7), [NCIT:C5759](http://purl.obolibrary.org/obo/NCIT_C5759) (Stage II Hepatocellular Carcinoma AJCC v6 and v7), [NCIT:C27686](http://purl.obolibrary.org/obo/NCIT_C27686) (Hepatitis Virus-Related Hepatocellular Carcinoma), [NCIT:C7955](http://purl.obolibrary.org/obo/NCIT_C7955) (Childhood Hepatocellular Carcinoma), [NCIT:C134523](http://purl.obolibrary.org/obo/NCIT_C134523) (Stage IV Hepatocellular Carcinoma AJCC v8), [NCIT:C5710](http://purl.obolibrary.org/obo/NCIT_C5710) (Stage I Childhood Hepatocellular Carcinoma AJCC v6 and v7), [NCIT:C5754](http://purl.obolibrary.org/obo/NCIT_C5754) (Clear Cell Hepatocellular Carcinoma), [NCIT:C114992](http://purl.obolibrary.org/obo/NCIT_C114992) (Adult Fibrolamellar Carcinoma), [NCIT:C27924](http://purl.obolibrary.org/obo/NCIT_C27924) (Alcohol-Related Hepatocellular Carcinoma), [NCIT:C90180](http://purl.obolibrary.org/obo/NCIT_C90180) (Stage III Hepatocellular Carcinoma AJCC v7), [NCIT:C27688](http://purl.obolibrary.org/obo/NCIT_C27688) (Hepatitis C Virus-Related Hepatocellular Carcinoma), [NCIT:C27922](http://purl.obolibrary.org/obo/NCIT_C27922) (Aflatoxins-Related Hepatocellular Carcinoma), [NCIT:C90181](http://purl.obolibrary.org/obo/NCIT_C90181) (Stage IV Hepatocellular Carcinoma AJCC v7), [NCIT:C96789](http://purl.obolibrary.org/obo/NCIT_C96789) (Well Differentiated Hepatocellular Carcinoma), 
+
+**Class expressions from DL-Learner:**
+
+- Thing 56.35%
+- [NCIT:C9232](http://purl.obolibrary.org/obo/NCIT_C9232) (Weight Change) 50.79%
+- [NCIT:C3832](http://purl.obolibrary.org/obo/NCIT_C3832) (Malaise) 50.79%
+- [NCIT:C36692](http://purl.obolibrary.org/obo/NCIT_C36692) (PTEN Gene Inactivation) 50.79%
+- [NCIT:C36671](http://purl.obolibrary.org/obo/NCIT_C36671) (Gain of Chromosome 10) 50.79%
+- [NCIT:C36670](http://purl.obolibrary.org/obo/NCIT_C36670) (Gain of Chromosome 16) 50.79%
+- [NCIT:C36669](http://purl.obolibrary.org/obo/NCIT_C36669) (Gain of Chromosome 6) 50.79%
+- [NCIT:C36667](http://purl.obolibrary.org/obo/NCIT_C36667) (Loss of Chromosome 4q) 50.79%
+- [NCIT:C36664](http://purl.obolibrary.org/obo/NCIT_C36664) (Aberrant DNA Methylation) 50.79%
+- [NCIT:C36659](http://purl.obolibrary.org/obo/NCIT_C36659) (CTNNB1 Gene Mutation) 50.79%
+- [NCIT:C36631](http://purl.obolibrary.org/obo/NCIT_C36631) (Loss of Chromosome 17) 50.79%
+- [NCIT:C36559](http://purl.obolibrary.org/obo/NCIT_C36559) (Gain of Chromosome 20) 50.79%
+- [NCIT:C36539](http://purl.obolibrary.org/obo/NCIT_C36539) (Gain of Chromosome X) 50.79%
+- [NCIT:C36515](http://purl.obolibrary.org/obo/NCIT_C36515) (Loss of Chromosome 16q) 50.79%
+- [NCIT:C36503](http://purl.obolibrary.org/obo/NCIT_C36503) (Loss of Chromosome 8p) 50.79%
+
+

@@ -1,0 +1,25 @@
+
+### [NCIT:C4501](http://purl.obolibrary.org/obo/NCIT_C4501)
+**Label:** Malignant Lipomatous Neoplasm
+
+**Subclasses:** [NCIT:C8816](http://purl.obolibrary.org/obo/NCIT_C8816) (Metastatic Liposarcoma), [NCIT:C8817](http://purl.obolibrary.org/obo/NCIT_C8817) (Primary Liposarcoma), [NCIT:C6614](http://purl.obolibrary.org/obo/NCIT_C6614) (Mediastinal Liposarcoma), [NCIT:C6419](http://purl.obolibrary.org/obo/NCIT_C6419) (Ovarian Liposarcoma), [NCIT:C5488](http://purl.obolibrary.org/obo/NCIT_C5488) (Gastric Liposarcoma), [NCIT:C5187](http://purl.obolibrary.org/obo/NCIT_C5187) (Breast Liposarcoma), [NCIT:C4253](http://purl.obolibrary.org/obo/NCIT_C4253) (Mixed Liposarcoma), [NCIT:C4250](http://purl.obolibrary.org/obo/NCIT_C4250) (Well Differentiated Liposarcoma), [NCIT:C40321](http://purl.obolibrary.org/obo/NCIT_C40321) (Vulvar Liposarcoma), [NCIT:C3705](http://purl.obolibrary.org/obo/NCIT_C3705) (Pleomorphic Liposarcoma), [NCIT:C3704](http://purl.obolibrary.org/obo/NCIT_C3704) (Dedifferentiated Liposarcoma), [NCIT:C5705](http://purl.obolibrary.org/obo/NCIT_C5705) (Esophageal Liposarcoma), [NCIT:C8818](http://purl.obolibrary.org/obo/NCIT_C8818) (Recurrent Liposarcoma), [NCIT:C27489](http://purl.obolibrary.org/obo/NCIT_C27489) (Spindle Cell Liposarcoma), [NCIT:C5615](http://purl.obolibrary.org/obo/NCIT_C5615) (Cutaneous Liposarcoma), [NCIT:C5235](http://purl.obolibrary.org/obo/NCIT_C5235) (Ovarian Myxoid Liposarcoma), [NCIT:C7811](http://purl.obolibrary.org/obo/NCIT_C7811) (Adult Liposarcoma), [NCIT:C27781](http://purl.obolibrary.org/obo/NCIT_C27781) (Myxoid Liposarcoma), [NCIT:C3194](http://purl.obolibrary.org/obo/NCIT_C3194) (Liposarcoma), [NCIT:C7598](http://purl.obolibrary.org/obo/NCIT_C7598) (Bone Liposarcoma), [NCIT:C6185](http://purl.obolibrary.org/obo/NCIT_C6185) (Kidney Liposarcoma), [NCIT:C6021](http://purl.obolibrary.org/obo/NCIT_C6021) (Laryngeal Liposarcoma), [NCIT:C95038](http://purl.obolibrary.org/obo/NCIT_C95038) (Thymoliposarcoma), [NCIT:C8091](http://purl.obolibrary.org/obo/NCIT_C8091) (Childhood Liposarcoma), [NCIT:C6508](http://purl.obolibrary.org/obo/NCIT_C6508) (Inflammatory Liposarcoma), 
+
+**Class expressions from DL-Learner:**
+
+- [NCIT:C32991](http://purl.obolibrary.org/obo/NCIT_C32991) (Lipocyte) 56.25%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39584](http://purl.obolibrary.org/obo/NCIT_C39584) (T-Cell Large Granular Lymphocyte Leukemia, Common Variant))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39583](http://purl.obolibrary.org/obo/NCIT_C39583) (FAS Apoptosis Pathway Deregulation))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C3958](http://purl.obolibrary.org/obo/NCIT_C3958) (Disseminated Peritoneal Leiomyomatosis))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39573](http://purl.obolibrary.org/obo/NCIT_C39573) (T-Lymphocyte with a Post-Thymic Immunophenotype))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39572](http://purl.obolibrary.org/obo/NCIT_C39572) (Neoplastic Cerebriform T-Prolymphocyte))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39571](http://purl.obolibrary.org/obo/NCIT_C39571) (Neoplastic Small T-Prolymphocyte))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39569](http://purl.obolibrary.org/obo/NCIT_C39569) (Cytoplasmic Protrusions Present))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39565](http://purl.obolibrary.org/obo/NCIT_C39565) (Coarse Azurophilic Granules Present))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C3950](http://purl.obolibrary.org/obo/NCIT_C3950) (Oral Mucosa Lobular Capillary Hemangioma))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C3939](http://purl.obolibrary.org/obo/NCIT_C3939) (Bannayan Syndrome))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39301](http://purl.obolibrary.org/obo/NCIT_C39301) (CD4+/CD56+ Neoplastic Medium-Sized Cell))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39300](http://purl.obolibrary.org/obo/NCIT_C39300) (Precursor Natural Killer Cell))) 53.32%
+- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39294](http://purl.obolibrary.org/obo/NCIT_C39294) (Schistosoma Hematobium Infection))) 53.32%
+
+
