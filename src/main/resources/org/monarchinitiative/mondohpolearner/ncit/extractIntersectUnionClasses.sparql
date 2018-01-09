@@ -3,6 +3,6 @@ prefix owl:   <http://www.w3.org/2002/07/owl#>
 prefix xsd:   <http://www.w3.org/2001/XMLSchema#>
 prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 
-SELECT distinct ?a ?b WHERE {
-	?a owl:someValuesFrom ?b .
-} 
+select distinct ?a ?b where {
+        ?a owl:intersectionOf/rdf:rest*/rdf:first/owl:unionOf* ?b .
+}
