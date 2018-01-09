@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) 54.55%
-- [NCIT:C53596](http://purl.obolibrary.org/obo/NCIT_C53596) (Epithelial Component Present) 53.81%
-- Thing 53.75%
-- [NCIT:C61611](http://purl.obolibrary.org/obo/NCIT_C61611) (Tissue of Mullerian Origin Present) 52.27%
-- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) 52.27%
-- [NCIT:C54727](http://purl.obolibrary.org/obo/NCIT_C54727) (Sarcomatous Component Present) 52.27%
-- [NCIT:C61466](http://purl.obolibrary.org/obo/NCIT_C61466) (Malignant Component Present) and [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) 52.27%
-- [NCIT:C61466](http://purl.obolibrary.org/obo/NCIT_C61466) (Malignant Component Present) and [NCIT:C61541](http://purl.obolibrary.org/obo/NCIT_C61541) (Atypical Glandular Epithelium Resembling the Normal Endometrium Present) 52.27%
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) 52.27%
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and [NCIT:C61541](http://purl.obolibrary.org/obo/NCIT_C61541) (Atypical Glandular Epithelium Resembling the Normal Endometrium Present) 52.27%
-- [NCIT:C61466](http://purl.obolibrary.org/obo/NCIT_C61466) (Malignant Component Present) 50.12%
-- [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) 45.37%
-- [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([NCIT:C38998](http://purl.obolibrary.org/obo/NCIT_C38998) (BAD Regulation Pathway))) 45.37%
-- [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([NCIT:C38997](http://purl.obolibrary.org/obo/NCIT_C38997) (Cancer Susceptibility Pathway))) 45.37%
-- [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([NCIT:C38996](http://purl.obolibrary.org/obo/NCIT_C38996) (ATM Signaling Pathway))) 45.37%
+- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) 75.00%
+- [NCIT:C61466](http://purl.obolibrary.org/obo/NCIT_C61466) (Malignant Component Present) and [NCIT:C61541](http://purl.obolibrary.org/obo/NCIT_C61541) (Atypical Glandular Epithelium Resembling the Normal Endometrium Present) 75.00%
+- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) 75.00%
+- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and [NCIT:C61541](http://purl.obolibrary.org/obo/NCIT_C61541) (Atypical Glandular Epithelium Resembling the Normal Endometrium Present) 75.00%
+- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 75.00%
+- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 75.00%
+- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 75.00%
+- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 75.00%
+- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 75.00%
+- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 75.00%
+- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 75.00%
+- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 75.00%
+- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 75.00%
+- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 75.00%
+- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 75.00%
 
 

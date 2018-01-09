@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.60%
-- [NCIT:C37181](http://purl.obolibrary.org/obo/NCIT_C37181) (Neoplastic Monoblast) 51.52%
-- [NCIT:C37076](http://purl.obolibrary.org/obo/NCIT_C37076) (Neoplastic Neutrophilic Precursor) 51.52%
-- [NCIT:C37075](http://purl.obolibrary.org/obo/NCIT_C37075) (Neoplastic Promonocyte) 51.52%
-- [NCIT:C37041](http://purl.obolibrary.org/obo/NCIT_C37041) (Neoplastic Monocyte) 51.52%
-- [NCIT:C37040](http://purl.obolibrary.org/obo/NCIT_C37040) (Abnormal Monocyte) 51.52%
-- [NCIT:C37032](http://purl.obolibrary.org/obo/NCIT_C37032) (Abnormal Eosinophil) 51.52%
-- [NCIT:C37040](http://purl.obolibrary.org/obo/NCIT_C37040) (Abnormal Monocyte) and [NCIT:C41063](http://purl.obolibrary.org/obo/NCIT_C41063) (Neoplastic Myeloid Cell) 51.52%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) 36.87%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39874](http://purl.obolibrary.org/obo/NCIT_C39874) (Urethral Verrucous Carcinoma))) 36.87%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39873](http://purl.obolibrary.org/obo/NCIT_C39873) (Urethral Glandular Metaplasia))) 36.87%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39872](http://purl.obolibrary.org/obo/NCIT_C39872) (Urethral Villous Adenoma))) 36.87%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39866](http://purl.obolibrary.org/obo/NCIT_C39866) (Female Urethral Malignant Neoplasm))) 36.87%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39864](http://purl.obolibrary.org/obo/NCIT_C39864) (Carcinoma of Cowper Glands))) 36.87%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39862](http://purl.obolibrary.org/obo/NCIT_C39862) (Human Papillomavirus-Related Urethral Squamous Cell Carcinoma))) 36.87%
+- [NCIT:C42726](http://purl.obolibrary.org/obo/NCIT_C42726) (Neoplastic Granulocytes and Precursors 20 Percent or More of Bone Marrow Cells) 52.94%
+- [NCIT:C37181](http://purl.obolibrary.org/obo/NCIT_C37181) (Neoplastic Monoblast) 52.94%
+- [NCIT:C37076](http://purl.obolibrary.org/obo/NCIT_C37076) (Neoplastic Neutrophilic Precursor) 52.94%
+- [NCIT:C37075](http://purl.obolibrary.org/obo/NCIT_C37075) (Neoplastic Promonocyte) 52.94%
+- [NCIT:C37041](http://purl.obolibrary.org/obo/NCIT_C37041) (Neoplastic Monocyte) 52.94%
+- [NCIT:C37040](http://purl.obolibrary.org/obo/NCIT_C37040) (Abnormal Monocyte) 52.94%
+- [NCIT:C37032](http://purl.obolibrary.org/obo/NCIT_C37032) (Abnormal Eosinophil) 52.94%
+- [NCIT:C36239](http://purl.obolibrary.org/obo/NCIT_C36239) (Neoplastic Monocytes and Precursors 20 Percent or More of Bone Marrow Cells) 52.94%
+- [NCIT:C36233](http://purl.obolibrary.org/obo/NCIT_C36233) (Bone Marrow Eosinophilia) 52.94%
+- [NCIT:C36156](http://purl.obolibrary.org/obo/NCIT_C36156) (Favorable Clinical Outcome) 52.94%
+- [NCIT:C29957](http://purl.obolibrary.org/obo/NCIT_C29957) (MYH11 Gene) 52.94%
+- [NCIT:C18584](http://purl.obolibrary.org/obo/NCIT_C18584) (CBFB Gene) 52.94%
+- [NCIT:C101051](http://purl.obolibrary.org/obo/NCIT_C101051) (CBFB/MYH11 Fusion Gene) 52.94%
+- [NCIT:C3015](http://purl.obolibrary.org/obo/NCIT_C3015) (Eosinophilia) and [NCIT:C35508](http://purl.obolibrary.org/obo/NCIT_C35508) (Abnormal Bone Marrow Test Result) 52.94%
+- [NCIT:C36233](http://purl.obolibrary.org/obo/NCIT_C36233) (Bone Marrow Eosinophilia) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 52.94%
 
 

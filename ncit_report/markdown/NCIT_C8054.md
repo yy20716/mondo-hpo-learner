@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 55.06%
-- [NCIT:C36836](http://purl.obolibrary.org/obo/NCIT_C36836) (Malignant Thyroid Gland Follicular Cell) 51.25%
-- [NCIT:C36835](http://purl.obolibrary.org/obo/NCIT_C36835) (Neoplastic Thyroid Gland Follicular Cell) and [NCIT:C36929](http://purl.obolibrary.org/obo/NCIT_C36929) (Malignant Endocrine Cell) 51.25%
-- [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) and [NCIT:C36835](http://purl.obolibrary.org/obo/NCIT_C36835) (Neoplastic Thyroid Gland Follicular Cell) 51.25%
-- [NCIT:C36794](http://purl.obolibrary.org/obo/NCIT_C36794) (Dysplastic Glandular Cell) and [NCIT:C36835](http://purl.obolibrary.org/obo/NCIT_C36835) (Neoplastic Thyroid Gland Follicular Cell) 51.25%
-- [NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell) and [NCIT:C36835](http://purl.obolibrary.org/obo/NCIT_C36835) (Neoplastic Thyroid Gland Follicular Cell) 51.25%
-- [NCIT:C36773](http://purl.obolibrary.org/obo/NCIT_C36773) (Adenocarcinoma Cell) and [NCIT:C36835](http://purl.obolibrary.org/obo/NCIT_C36835) (Neoplastic Thyroid Gland Follicular Cell) 51.25%
-- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36835](http://purl.obolibrary.org/obo/NCIT_C36835) (Neoplastic Thyroid Gland Follicular Cell) 51.25%
-- [NCIT:C36794](http://purl.obolibrary.org/obo/NCIT_C36794) (Dysplastic Glandular Cell) and [NCIT:C36835](http://purl.obolibrary.org/obo/NCIT_C36835) (Neoplastic Thyroid Gland Follicular Cell) and [NCIT:C36929](http://purl.obolibrary.org/obo/NCIT_C36929) (Malignant Endocrine Cell) 51.25%
-- [NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell) and [NCIT:C36794](http://purl.obolibrary.org/obo/NCIT_C36794) (Dysplastic Glandular Cell) and [NCIT:C36835](http://purl.obolibrary.org/obo/NCIT_C36835) (Neoplastic Thyroid Gland Follicular Cell) 51.25%
-- [NCIT:C36773](http://purl.obolibrary.org/obo/NCIT_C36773) (Adenocarcinoma Cell) and [NCIT:C36835](http://purl.obolibrary.org/obo/NCIT_C36835) (Neoplastic Thyroid Gland Follicular Cell) and [NCIT:C36929](http://purl.obolibrary.org/obo/NCIT_C36929) (Malignant Endocrine Cell) 51.25%
-- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) and [NCIT:C36835](http://purl.obolibrary.org/obo/NCIT_C36835) (Neoplastic Thyroid Gland Follicular Cell) 51.25%
-- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36794](http://purl.obolibrary.org/obo/NCIT_C36794) (Dysplastic Glandular Cell) and [NCIT:C36835](http://purl.obolibrary.org/obo/NCIT_C36835) (Neoplastic Thyroid Gland Follicular Cell) 51.25%
-- [NCIT:C36835](http://purl.obolibrary.org/obo/NCIT_C36835) (Neoplastic Thyroid Gland Follicular Cell) 36.61%
-- [NCIT:C36835](http://purl.obolibrary.org/obo/NCIT_C36835) (Neoplastic Thyroid Gland Follicular Cell) and (not ([NCIT:C36509](http://purl.obolibrary.org/obo/NCIT_C36509) (Monosomy 17))) 36.61%
+- [NCIT:C46007](http://purl.obolibrary.org/obo/NCIT_C46007) (PPAR-gamma Rearrangement) 53.57%
+- [NCIT:C45934](http://purl.obolibrary.org/obo/NCIT_C45934) (HRAS Gene Mutation) 53.57%
+- [NCIT:C41381](http://purl.obolibrary.org/obo/NCIT_C41381) (NRAS Gene Mutation) 53.57%
+- [NCIT:C36692](http://purl.obolibrary.org/obo/NCIT_C36692) (PTEN Gene Inactivation) 53.57%
+- [NCIT:C24689](http://purl.obolibrary.org/obo/NCIT_C24689) (PPARG Gene) 53.57%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C21571](http://purl.obolibrary.org/obo/NCIT_C21571) (RARA Gene))) 53.57%
+- Thing 52.43%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) 38.93%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C36972](http://purl.obolibrary.org/obo/NCIT_C36972) (Monovacuolated Lipoblast))) 38.93%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C36966](http://purl.obolibrary.org/obo/NCIT_C36966) (Malignant Glomus Cell))) 38.93%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C36959](http://purl.obolibrary.org/obo/NCIT_C36959) (Neoplastic Fibroblast-Like Cell))) 38.93%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C36957](http://purl.obolibrary.org/obo/NCIT_C36957) (Neoplastic Spindle-Shaped Myofibroblast))) 38.93%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C36953](http://purl.obolibrary.org/obo/NCIT_C36953) (Bizarre Cell with Evidence of Skeletal Muscle Differentiation))) 38.93%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C36951](http://purl.obolibrary.org/obo/NCIT_C36951) (Round Cell with Primitive Myoblastic Differentiation))) 38.93%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C36944](http://purl.obolibrary.org/obo/NCIT_C36944) (Malignant Small Undifferentiated Cell))) 38.93%
 
 

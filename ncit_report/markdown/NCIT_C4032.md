@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.75%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) 37.63%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40314](http://purl.obolibrary.org/obo/NCIT_C40314) (Vulvar Trichoepithelioma))) 37.63%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40312](http://purl.obolibrary.org/obo/NCIT_C40312) (Vulvar Nodular Hidradenoma))) 37.63%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40311](http://purl.obolibrary.org/obo/NCIT_C40311) (Vulvar Syringoma))) 37.63%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40309](http://purl.obolibrary.org/obo/NCIT_C40309) (Vulvar Sebaceous Carcinoma))) 37.63%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40308](http://purl.obolibrary.org/obo/NCIT_C40308) (Vulvar Apocrine Adenocarcinoma))) 37.63%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40307](http://purl.obolibrary.org/obo/NCIT_C40307) (Vulvar Clear Cell Hidradenocarcinoma))) 37.63%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40306](http://purl.obolibrary.org/obo/NCIT_C40306) (Vulvar Eccrine Porocarcinoma))) 37.63%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40301](http://purl.obolibrary.org/obo/NCIT_C40301) (Adenoma of Minor Vestibular Glands))) 37.63%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40299](http://purl.obolibrary.org/obo/NCIT_C40299) (Bartholin Gland Adenoma))) 37.63%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40298](http://purl.obolibrary.org/obo/NCIT_C40298) (Bartholin Gland Small Cell Carcinoma))) 37.63%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40297](http://purl.obolibrary.org/obo/NCIT_C40297) (Bartholin Gland Transitional Cell Carcinoma))) 37.63%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40296](http://purl.obolibrary.org/obo/NCIT_C40296) (Bartholin Gland Adenosquamous Carcinoma))) 37.63%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40295](http://purl.obolibrary.org/obo/NCIT_C40295) (Bartholin Gland Adenoid Cystic Carcinoma))) 37.63%
+- [NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q) 58.33%
+- [NCIT:C36636](http://purl.obolibrary.org/obo/NCIT_C36636) (Loss of Chromosome 9p) 58.33%
+- [NCIT:C36505](http://purl.obolibrary.org/obo/NCIT_C36505) (Loss of Chromosome 11p) 58.33%
+- [NCIT:C36503](http://purl.obolibrary.org/obo/NCIT_C36503) (Loss of Chromosome 8p) 58.33%
+- [NCIT:C36499](http://purl.obolibrary.org/obo/NCIT_C36499) (Loss of Chromosome 17p) 58.33%
+- [NCIT:C2999](http://purl.obolibrary.org/obo/NCIT_C2999) (Dysuria) 58.33%
+- [NCIT:C36315](http://purl.obolibrary.org/obo/NCIT_C36315) (Chromosomal Loss) 57.64%
+- Thing 51.59%
+- [NCIT:C6825](http://purl.obolibrary.org/obo/NCIT_C6825) (Numerical Chromosomal Abnormality) 50.98%
+- [NCIT:C2950](http://purl.obolibrary.org/obo/NCIT_C2950) (Cytogenetic Abnormality) 48.10%
+- [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 46.62%
+- [NCIT:C36286](http://purl.obolibrary.org/obo/NCIT_C36286) (Urinary System Finding) 33.33%
+- [NCIT:C5035](http://purl.obolibrary.org/obo/NCIT_C5035) (Genitourinary Signs and Symptoms) 27.23%
+- [NCIT:C100104](http://purl.obolibrary.org/obo/NCIT_C100104) (Sign or Symptom) 14.19%
+- [NCIT:C36278](http://purl.obolibrary.org/obo/NCIT_C36278) (Finding by Site or System) 12.36%
 
 

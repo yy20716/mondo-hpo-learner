@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.49%
-- [NCIT:C28077](http://purl.obolibrary.org/obo/NCIT_C28077) (Grade 1) 52.63%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) 37.99%
-- [CL:0000186](http://purl.obolibrary.org/obo/CL_0000186) (myofibroblast cell) 37.99%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C40093](http://purl.obolibrary.org/obo/NCIT_C40093) (Ovarian Squamous Cell Carcinoma))) 37.99%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 37.99%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 37.99%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 37.99%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 37.99%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 37.99%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 37.99%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 37.99%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 37.99%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 37.99%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 37.99%
+- [NCIT:C41431](http://purl.obolibrary.org/obo/NCIT_C41431) (Thick-Walled Hyalinized Vessels Present) 53.85%
+- [NCIT:C41424](http://purl.obolibrary.org/obo/NCIT_C41424) (Loss of Merlin Expression) 53.85%
+- [NCIT:C36686](http://purl.obolibrary.org/obo/NCIT_C36686) (NF2 Gene Inactivation) 53.85%
+- [NCIT:C36108](http://purl.obolibrary.org/obo/NCIT_C36108) (Encapsulated Mass) 53.85%
+- [NCIT:C36104](http://purl.obolibrary.org/obo/NCIT_C36104) (Aggressive Clinical Course) 53.85%
+- [NCIT:C28077](http://purl.obolibrary.org/obo/NCIT_C28077) (Grade 1) 53.85%
+- [NCIT:C41461](http://purl.obolibrary.org/obo/NCIT_C41461) (Hyalinized Vessels Present) and [NCIT:C53682](http://purl.obolibrary.org/obo/NCIT_C53682) (Thick-Walled Vessels Present) 53.85%
+- Thing 52.34%
+- [NCIT:C53682](http://purl.obolibrary.org/obo/NCIT_C53682) (Thick-Walled Vessels Present) 39.20%
+- [NCIT:C41461](http://purl.obolibrary.org/obo/NCIT_C41461) (Hyalinized Vessels Present) 39.20%
+- [NCIT:C53682](http://purl.obolibrary.org/obo/NCIT_C53682) (Thick-Walled Vessels Present) and (not ([NCIT:C36429](http://purl.obolibrary.org/obo/NCIT_C36429) (del(12p13)))) 39.20%
+- [NCIT:C53682](http://purl.obolibrary.org/obo/NCIT_C53682) (Thick-Walled Vessels Present) and (not ([NCIT:C36428](http://purl.obolibrary.org/obo/NCIT_C36428) (Trisomy 8q))) 39.20%
+- [NCIT:C53682](http://purl.obolibrary.org/obo/NCIT_C53682) (Thick-Walled Vessels Present) and (not ([NCIT:C36427](http://purl.obolibrary.org/obo/NCIT_C36427) (t(8;8)(p11-12;q12)))) 39.20%
+- [NCIT:C53682](http://purl.obolibrary.org/obo/NCIT_C53682) (Thick-Walled Vessels Present) and (not ([NCIT:C36426](http://purl.obolibrary.org/obo/NCIT_C36426) (inv(14)))) 39.20%
+- [NCIT:C53682](http://purl.obolibrary.org/obo/NCIT_C53682) (Thick-Walled Vessels Present) and (not ([NCIT:C36425](http://purl.obolibrary.org/obo/NCIT_C36425) (Trisomy 3))) 39.20%
 
 

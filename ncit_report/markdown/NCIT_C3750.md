@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.67%
-- [NCIT:C36163](http://purl.obolibrary.org/obo/NCIT_C36163) (Metastatic/Recurrent Disease) 52.38%
-- [NCIT:C36105](http://purl.obolibrary.org/obo/NCIT_C36105) (Indolent Clinical Course) 52.38%
-- [NCIT:C28079](http://purl.obolibrary.org/obo/NCIT_C28079) (Grade 3) 52.38%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) 37.74%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40114](http://purl.obolibrary.org/obo/NCIT_C40114) (Fallopian Tube Serous Cystadenofibroma))) 37.74%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40112](http://purl.obolibrary.org/obo/NCIT_C40112) (Fallopian Tube Papilloma))) 37.74%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40110](http://purl.obolibrary.org/obo/NCIT_C40110) (Borderline Fallopian Tube Endometrioid Tumor))) 37.74%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 37.74%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 37.74%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40104](http://purl.obolibrary.org/obo/NCIT_C40104) (Fallopian Tube Transitional Cell Carcinoma))) 37.74%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40103](http://purl.obolibrary.org/obo/NCIT_C40103) (Fallopian Tube Mucinous Adenocarcinoma))) 37.74%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40093](http://purl.obolibrary.org/obo/NCIT_C40093) (Ovarian Squamous Cell Carcinoma))) 37.74%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 37.74%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 37.74%
+- [NCIT:C36392](http://purl.obolibrary.org/obo/NCIT_C36392) (t(X;17)(p11.2;q25)) 55.00%
+- [NCIT:C6823](http://purl.obolibrary.org/obo/NCIT_C6823) (Unbalanced Translocation) and (not ([NCIT:C36478](http://purl.obolibrary.org/obo/NCIT_C36478) (Unbalanced Translocation of Chromosome 1))) 55.00%
+- Thing 52.05%
+- [NCIT:C6823](http://purl.obolibrary.org/obo/NCIT_C6823) (Unbalanced Translocation) 40.36%
+- [NCIT:C6823](http://purl.obolibrary.org/obo/NCIT_C6823) (Unbalanced Translocation) and (not ([NCIT:C37001](http://purl.obolibrary.org/obo/NCIT_C37001) (Centrocyte-Like Cell))) 40.36%
+- [NCIT:C6823](http://purl.obolibrary.org/obo/NCIT_C6823) (Unbalanced Translocation) and (not ([NCIT:C37000](http://purl.obolibrary.org/obo/NCIT_C37000) (Lymphoplasmacytoid Cell))) 40.36%
+- [NCIT:C6823](http://purl.obolibrary.org/obo/NCIT_C6823) (Unbalanced Translocation) and (not ([NCIT:C36991](http://purl.obolibrary.org/obo/NCIT_C36991) (Neoplastic Small to Medium-Sized B-Lymphocyte with Pale Cytoplasm))) 40.36%
+- [NCIT:C6823](http://purl.obolibrary.org/obo/NCIT_C6823) (Unbalanced Translocation) and (not ([NCIT:C36985](http://purl.obolibrary.org/obo/NCIT_C36985) (Neoplastic Chondroblast))) 40.36%
+- [NCIT:C6823](http://purl.obolibrary.org/obo/NCIT_C6823) (Unbalanced Translocation) and (not ([NCIT:C36981](http://purl.obolibrary.org/obo/NCIT_C36981) (Ganglion-Like Cell))) 40.36%
+- [NCIT:C6823](http://purl.obolibrary.org/obo/NCIT_C6823) (Unbalanced Translocation) and (not ([NCIT:C36975](http://purl.obolibrary.org/obo/NCIT_C36975) (Signet Ring Lipoblast))) 40.36%
+- [NCIT:C6823](http://purl.obolibrary.org/obo/NCIT_C6823) (Unbalanced Translocation) and (not ([NCIT:C36974](http://purl.obolibrary.org/obo/NCIT_C36974) (Pleomorphic Lipoblast))) 40.36%
+- [NCIT:C6823](http://purl.obolibrary.org/obo/NCIT_C6823) (Unbalanced Translocation) and (not ([NCIT:C36973](http://purl.obolibrary.org/obo/NCIT_C36973) (Multivacuolated Lipoblast))) 40.36%
+- [NCIT:C6823](http://purl.obolibrary.org/obo/NCIT_C6823) (Unbalanced Translocation) and (not ([NCIT:C36972](http://purl.obolibrary.org/obo/NCIT_C36972) (Monovacuolated Lipoblast))) 40.36%
+- [NCIT:C6823](http://purl.obolibrary.org/obo/NCIT_C6823) (Unbalanced Translocation) and (not ([NCIT:C36966](http://purl.obolibrary.org/obo/NCIT_C36966) (Malignant Glomus Cell))) 40.36%
+- [NCIT:C6823](http://purl.obolibrary.org/obo/NCIT_C6823) (Unbalanced Translocation) and (not ([NCIT:C36959](http://purl.obolibrary.org/obo/NCIT_C36959) (Neoplastic Fibroblast-Like Cell))) 40.36%
 
 

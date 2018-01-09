@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.53%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) 36.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40167](http://purl.obolibrary.org/obo/NCIT_C40167) (Uterine Corpus Bizarre Leiomyoma))) 36.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40166](http://purl.obolibrary.org/obo/NCIT_C40166) (Uterine Corpus Myxoid Leiomyoma))) 36.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40165](http://purl.obolibrary.org/obo/NCIT_C40165) (Uterine Corpus Apoplectic Leiomyoma))) 36.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40164](http://purl.obolibrary.org/obo/NCIT_C40164) (Uterine Corpus Epithelioid Leiomyoma))) 36.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40163](http://purl.obolibrary.org/obo/NCIT_C40163) (Uterine Corpus Cellular Leiomyoma))) 36.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40162](http://purl.obolibrary.org/obo/NCIT_C40162) (Uterine Corpus Leiomyoma, Mitotically Active Variant))) 36.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40161](http://purl.obolibrary.org/obo/NCIT_C40161) (JAZF1-SUZ12 Fusion Protein Expression))) 36.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40160](http://purl.obolibrary.org/obo/NCIT_C40160) (t(7;17)(p15;q21)))) 36.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40156](http://purl.obolibrary.org/obo/NCIT_C40156) (Endometrial Undifferentiated Carcinoma))) 36.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40155](http://purl.obolibrary.org/obo/NCIT_C40155) (Endometrial Small Cell Carcinoma))) 36.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40154](http://purl.obolibrary.org/obo/NCIT_C40154) (Endometrial Transitional Cell Carcinoma))) 36.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40153](http://purl.obolibrary.org/obo/NCIT_C40153) (Endometrial Mixed Adenocarcinoma))) 36.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40152](http://purl.obolibrary.org/obo/NCIT_C40152) (Serous Endometrial Intraepithelial Carcinoma))) 36.92%
+- [NCIT:C37188](http://purl.obolibrary.org/obo/NCIT_C37188) (del(6q25-27)) 55.00%
+- [NCIT:C36538](http://purl.obolibrary.org/obo/NCIT_C36538) (del(6q23)) 55.00%
+- [NCIT:C36449](http://purl.obolibrary.org/obo/NCIT_C36449) (Clonal BCL6 Gene Rearrangement) 55.00%
+- [NCIT:C36442](http://purl.obolibrary.org/obo/NCIT_C36442) (Clonal BCL2 Gene Rearrangement) 55.00%
+- [NCIT:C36423](http://purl.obolibrary.org/obo/NCIT_C36423) (del(6q21)) 55.00%
+- [NCIT:C27752](http://purl.obolibrary.org/obo/NCIT_C27752) (t(2;18)(p12;q21)) 55.00%
+- [NCIT:C27748](http://purl.obolibrary.org/obo/NCIT_C27748) (t(9;14)(p13;q32)) 55.00%
+- [NCIT:C27213](http://purl.obolibrary.org/obo/NCIT_C27213) (t(14;18)(q32;q21)) 55.00%
+- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and [NCIT:C36333](http://purl.obolibrary.org/obo/NCIT_C36333) (Clonal Gene Rearrangement) 55.00%
+- Thing 52.05%
+- [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 46.26%
+- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) 40.36%
+- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C37208](http://purl.obolibrary.org/obo/NCIT_C37208) (Rearrangement of 2p23))) 40.36%
+- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C37207](http://purl.obolibrary.org/obo/NCIT_C37207) (ZAP70 Messenger RNA Overexpression))) 40.36%
+- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C37206](http://purl.obolibrary.org/obo/NCIT_C37206) (Small Lymphocytic Lymphoma with Unmutated Immunoglobulin Heavy Chain Variable-Region Gene))) 40.36%
 
 

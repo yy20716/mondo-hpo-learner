@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C32542](http://purl.obolibrary.org/obo/NCIT_C32542) (Esophageal Squamous Cell))) 53.33%
-- Thing 53.10%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) 38.69%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39250](http://purl.obolibrary.org/obo/NCIT_C39250) (Mucosal Healing Pathway))) 38.69%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39247](http://purl.obolibrary.org/obo/NCIT_C39247) (Telomere Pathway))) 38.69%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39246](http://purl.obolibrary.org/obo/NCIT_C39246) (T Cell Receptor Signaling Pathway BioCarta))) 38.69%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39236](http://purl.obolibrary.org/obo/NCIT_C39236) (Sprouty Regulation of Tyrosine Kinase Signaling Pathway))) 38.69%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39217](http://purl.obolibrary.org/obo/NCIT_C39217) (Ras Signaling Pathway))) 38.69%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39208](http://purl.obolibrary.org/obo/NCIT_C39208) (Rac1 Cell Motility Signaling Pathway))) 38.69%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39197](http://purl.obolibrary.org/obo/NCIT_C39197) (PPAR-alpha Gene Regulation Pathway))) 38.69%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39194](http://purl.obolibrary.org/obo/NCIT_C39194) (Phospholipase C Signaling Pathway))) 38.69%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39184](http://purl.obolibrary.org/obo/NCIT_C39184) (PDGF Signaling Pathway))) 38.69%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39168](http://purl.obolibrary.org/obo/NCIT_C39168) (NO2-Dependent IL12 Pathway))) 38.69%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39167](http://purl.obolibrary.org/obo/NCIT_C39167) (Nitric Oxide Pathway))) 38.69%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39164](http://purl.obolibrary.org/obo/NCIT_C39164) (Nerve Growth Factor Pathway))) 38.69%
+- [NCIT:C54206](http://purl.obolibrary.org/obo/NCIT_C54206) (Endophytic Tumor Growth) 57.14%
+- [NCIT:C54201](http://purl.obolibrary.org/obo/NCIT_C54201) (Exophytic Papillary Lesion) 57.14%
+- [NCIT:C35911](http://purl.obolibrary.org/obo/NCIT_C35911) (Papillary Pattern) 57.14%
+- [NCIT:C35265](http://purl.obolibrary.org/obo/NCIT_C35265) (Acanthosis) 57.14%
+- [NCIT:C27851](http://purl.obolibrary.org/obo/NCIT_C27851) (Human Papillomavirus Infection) 57.14%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C32542](http://purl.obolibrary.org/obo/NCIT_C32542) (Esophageal Squamous Cell))) 57.14%
+- Thing 51.72%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) 42.50%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C36478](http://purl.obolibrary.org/obo/NCIT_C36478) (Unbalanced Translocation of Chromosome 1))) 42.50%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C36477](http://purl.obolibrary.org/obo/NCIT_C36477) (i(17q)))) 42.50%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C36476](http://purl.obolibrary.org/obo/NCIT_C36476) (Trisomy 7))) 42.50%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C36475](http://purl.obolibrary.org/obo/NCIT_C36475) (Trisomy 6))) 42.50%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C36474](http://purl.obolibrary.org/obo/NCIT_C36474) (Ring Chromosome 1))) 42.50%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C36473](http://purl.obolibrary.org/obo/NCIT_C36473) (der(15;21)(q10;q10)))) 42.50%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C36472](http://purl.obolibrary.org/obo/NCIT_C36472) (del(19p12)))) 42.50%
 
 

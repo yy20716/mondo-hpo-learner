@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.00%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 54.00%
-- [NCIT:C37115](http://purl.obolibrary.org/obo/NCIT_C37115) (Serous Adenocarcinoma Cell) 52.00%
-- [NCIT:C37116](http://purl.obolibrary.org/obo/NCIT_C37116) (Neoplastic Epithelial Cell with Intracytoplasmic Mucin) 39.36%
-- [NCIT:C37117](http://purl.obolibrary.org/obo/NCIT_C37117) (Adenocarcinoma Cell with Intracytoplasmic Mucin) and (not ([NCIT:C36777](http://purl.obolibrary.org/obo/NCIT_C36777) (Signet Ring Adenocarcinoma Cell))) 37.36%
-- [NCIT:C37117](http://purl.obolibrary.org/obo/NCIT_C37117) (Adenocarcinoma Cell with Intracytoplasmic Mucin) 30.87%
-- [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) and [NCIT:C37116](http://purl.obolibrary.org/obo/NCIT_C37116) (Neoplastic Epithelial Cell with Intracytoplasmic Mucin) 30.87%
-- [NCIT:C36794](http://purl.obolibrary.org/obo/NCIT_C36794) (Dysplastic Glandular Cell) and [NCIT:C37116](http://purl.obolibrary.org/obo/NCIT_C37116) (Neoplastic Epithelial Cell with Intracytoplasmic Mucin) 30.87%
-- [NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell) and [NCIT:C37116](http://purl.obolibrary.org/obo/NCIT_C37116) (Neoplastic Epithelial Cell with Intracytoplasmic Mucin) 30.87%
-- [NCIT:C36773](http://purl.obolibrary.org/obo/NCIT_C36773) (Adenocarcinoma Cell) and [NCIT:C37116](http://purl.obolibrary.org/obo/NCIT_C37116) (Neoplastic Epithelial Cell with Intracytoplasmic Mucin) 30.87%
-- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C37116](http://purl.obolibrary.org/obo/NCIT_C37116) (Neoplastic Epithelial Cell with Intracytoplasmic Mucin) 30.87%
-- [NCIT:C37117](http://purl.obolibrary.org/obo/NCIT_C37117) (Adenocarcinoma Cell with Intracytoplasmic Mucin) and (not ([NCIT:C39799](http://purl.obolibrary.org/obo/NCIT_C39799) (Loss of Chromosome 21))) 30.87%
-- [NCIT:C37117](http://purl.obolibrary.org/obo/NCIT_C37117) (Adenocarcinoma Cell with Intracytoplasmic Mucin) and (not ([NCIT:C39798](http://purl.obolibrary.org/obo/NCIT_C39798) (Loss of Chromosome 2))) 30.87%
-- [NCIT:C37117](http://purl.obolibrary.org/obo/NCIT_C37117) (Adenocarcinoma Cell with Intracytoplasmic Mucin) and (not ([NCIT:C39795](http://purl.obolibrary.org/obo/NCIT_C39795) (Loss of Chromosome 14q))) 30.87%
-- [NCIT:C37117](http://purl.obolibrary.org/obo/NCIT_C37117) (Adenocarcinoma Cell with Intracytoplasmic Mucin) and (not ([NCIT:C39788](http://purl.obolibrary.org/obo/NCIT_C39788) (MET Gene Mutation))) 30.87%
+- [NCIT:C26945](http://purl.obolibrary.org/obo/NCIT_C26945) (Vaginal Hemorrhage) 75.00%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C40122](http://purl.obolibrary.org/obo/NCIT_C40122) (Pelvic Pain))) 75.00%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C35272](http://purl.obolibrary.org/obo/NCIT_C35272) (Lower Abdominal Pain))) 75.00%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) 60.36%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 60.36%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 60.36%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 60.36%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 60.36%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 60.36%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 60.36%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not (CARO:0010000)) 60.36%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 60.36%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null))) 60.36%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 52.52%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 51.92%
 
 

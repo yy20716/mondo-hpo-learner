@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0000996](http://purl.obolibrary.org/obo/UBERON_0000996) (vagina) 55.56%
-- [NCIT:C36117](http://purl.obolibrary.org/obo/NCIT_C36117) (Invasive Lesion) 55.56%
-- [NCIT:C27851](http://purl.obolibrary.org/obo/NCIT_C27851) (Human Papillomavirus Infection) 55.56%
-- Thing 52.40%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3832](http://purl.obolibrary.org/obo/NCIT_C3832) (Malaise))) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38317](http://purl.obolibrary.org/obo/NCIT_C38317) (GNAS Gene))) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3826](http://purl.obolibrary.org/obo/NCIT_C3826) (Juvenile Polyp))) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38184](http://purl.obolibrary.org/obo/NCIT_C38184) (ALK Gene))) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38176](http://purl.obolibrary.org/obo/NCIT_C38176) (BCL2 Gene Translocation))) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38175](http://purl.obolibrary.org/obo/NCIT_C38175) (CD44 Messenger RNA Overexpression))) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38174](http://purl.obolibrary.org/obo/NCIT_C38174) (IRF4/MUM1 Messenger RNA Overexpression))) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38173](http://purl.obolibrary.org/obo/NCIT_C38173) (BCL2 Gene mRNA Overexpression))) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38172](http://purl.obolibrary.org/obo/NCIT_C38172) (Cyclin D2 Messenger RNA Overexpression))) 40.91%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38171](http://purl.obolibrary.org/obo/NCIT_C38171) (PKCbeta1 Messenger RNA Overexpression))) 40.91%
+- [UBERON:0000996](http://purl.obolibrary.org/obo/UBERON_0000996) (vagina) 75.00%
+- [NCIT:C27851](http://purl.obolibrary.org/obo/NCIT_C27851) (Human Papillomavirus Infection) 75.00%
+- Thing 50.92%
+- [NCIT:C3439](http://purl.obolibrary.org/obo/NCIT_C3439) (Viral Infection) 47.36%
+- [NCIT:C26726](http://purl.obolibrary.org/obo/NCIT_C26726) (Infectious Disorder) 37.50%
+- [NCIT:C93210](http://purl.obolibrary.org/obo/NCIT_C93210) (Inflammatory Disorder) 37.13%
+- [NCIT:C53547](http://purl.obolibrary.org/obo/NCIT_C53547) (Non-Neoplastic Disorder by Special Category) 33.57%
+- [NCIT:C53529](http://purl.obolibrary.org/obo/NCIT_C53529) (Non-Neoplastic Disorder) 30.39%
+- [NCIT:C2991](http://purl.obolibrary.org/obo/NCIT_C2991) (Disease or Disorder) 27.10%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 26.36%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 26.28%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 26.21%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 26.13%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 26.12%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 26.03%
 
 

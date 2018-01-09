@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C48586](http://purl.obolibrary.org/obo/NCIT_C48586) (Slow Growing Painless Mass) 53.57%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) 53.57%
-- Thing 53.00%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) 38.93%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39825](http://purl.obolibrary.org/obo/NCIT_C39825) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant with Heterologous Elements))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39821](http://purl.obolibrary.org/obo/NCIT_C39821) (Infiltrating Bladder Lymphoepithelioma-Like Carcinoma))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39820](http://purl.obolibrary.org/obo/NCIT_C39820) (Infiltrating Bladder Urothelial Carcinoma, Microcystic Variant))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39819](http://purl.obolibrary.org/obo/NCIT_C39819) (Infiltrating Bladder Urothelial Carcinoma, Nested Variant))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39818](http://purl.obolibrary.org/obo/NCIT_C39818) (Infiltrating Bladder Urothelial Carcinoma with Trophoblastic Differentiation))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39817](http://purl.obolibrary.org/obo/NCIT_C39817) (Infiltrating Bladder Urothelial Carcinoma with Glandular Differentiation))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39816](http://purl.obolibrary.org/obo/NCIT_C39816) (Infiltrating Bladder Urothelial Carcinoma with Squamous Differentiation))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39815](http://purl.obolibrary.org/obo/NCIT_C39815) (Cellular Congenital Mesoblastic Nephroma))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39814](http://purl.obolibrary.org/obo/NCIT_C39814) (Classic Congenital Mesoblastic Nephroma))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39813](http://purl.obolibrary.org/obo/NCIT_C39813) (SMARCB1 Gene Inactivation))) 38.93%
+- [NCIT:C48586](http://purl.obolibrary.org/obo/NCIT_C48586) (Slow Growing Painless Mass) 66.67%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) 66.67%
+- [NCIT:C48586](http://purl.obolibrary.org/obo/NCIT_C48586) (Slow Growing Painless Mass) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 66.67%
+- [NCIT:C48586](http://purl.obolibrary.org/obo/NCIT_C48586) (Slow Growing Painless Mass) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 66.67%
+- [NCIT:C48586](http://purl.obolibrary.org/obo/NCIT_C48586) (Slow Growing Painless Mass) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 66.67%
+- [NCIT:C48586](http://purl.obolibrary.org/obo/NCIT_C48586) (Slow Growing Painless Mass) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 66.67%
+- [NCIT:C48586](http://purl.obolibrary.org/obo/NCIT_C48586) (Slow Growing Painless Mass) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 66.67%
+- [NCIT:C48586](http://purl.obolibrary.org/obo/NCIT_C48586) (Slow Growing Painless Mass) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 66.67%
+- [NCIT:C48586](http://purl.obolibrary.org/obo/NCIT_C48586) (Slow Growing Painless Mass) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 66.67%
+- [NCIT:C48586](http://purl.obolibrary.org/obo/NCIT_C48586) (Slow Growing Painless Mass) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 66.67%
+- [NCIT:C48586](http://purl.obolibrary.org/obo/NCIT_C48586) (Slow Growing Painless Mass) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 66.67%
+- [NCIT:C48586](http://purl.obolibrary.org/obo/NCIT_C48586) (Slow Growing Painless Mass) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 66.67%
+- [NCIT:C48586](http://purl.obolibrary.org/obo/NCIT_C48586) (Slow Growing Painless Mass) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 66.67%
+- [NCIT:C48586](http://purl.obolibrary.org/obo/NCIT_C48586) (Slow Growing Painless Mass) and (not ([UBERON:2001431](http://purl.obolibrary.org/obo/UBERON_2001431) (primitive olfactory epithelium))) 66.67%
+- [NCIT:C48586](http://purl.obolibrary.org/obo/NCIT_C48586) (Slow Growing Painless Mass) and (not ([UBERON:2001073](http://purl.obolibrary.org/obo/UBERON_2001073) (axial vasculature))) 66.67%
 
 

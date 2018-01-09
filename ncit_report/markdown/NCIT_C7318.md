@@ -2,24 +2,24 @@
 ### [NCIT:C7318](http://purl.obolibrary.org/obo/NCIT_C7318)
 **Label:** Acute Monoblastic and Monocytic Leukemia
 
-**Subclasses:** [NCIT:C7171](http://purl.obolibrary.org/obo/NCIT_C7171) (Acute Monoblastic Leukemia), [NCIT:C9163](http://purl.obolibrary.org/obo/NCIT_C9163) (Childhood Acute Monocytic Leukemia), [NCIT:C7319](http://purl.obolibrary.org/obo/NCIT_C7319) (Adult Acute Monoblastic and Monocytic Leukemia), [NCIT:C9162](http://purl.obolibrary.org/obo/NCIT_C9162) (Childhood Acute Monoblastic Leukemia), [NCIT:C4861](http://purl.obolibrary.org/obo/NCIT_C4861) (Acute Monocytic Leukemia), [NCIT:C7940](http://purl.obolibrary.org/obo/NCIT_C7940) (Childhood Acute Monoblastic and Monocytic Leukemia), [NCIT:C5630](http://purl.obolibrary.org/obo/NCIT_C5630) (Aleukemic Monocytic Leukemia Cutis), [NCIT:C9156](http://purl.obolibrary.org/obo/NCIT_C9156) (Adult Acute Monoblastic Leukemia), [NCIT:C8263](http://purl.obolibrary.org/obo/NCIT_C8263) (Adult Acute Monocytic Leukemia), 
+**Subclasses:** [NCIT:C7319](http://purl.obolibrary.org/obo/NCIT_C7319) (Adult Acute Monoblastic and Monocytic Leukemia), [NCIT:C7171](http://purl.obolibrary.org/obo/NCIT_C7171) (Acute Monoblastic Leukemia), [NCIT:C9163](http://purl.obolibrary.org/obo/NCIT_C9163) (Childhood Acute Monocytic Leukemia), [NCIT:C9162](http://purl.obolibrary.org/obo/NCIT_C9162) (Childhood Acute Monoblastic Leukemia), [NCIT:C4861](http://purl.obolibrary.org/obo/NCIT_C4861) (Acute Monocytic Leukemia), [NCIT:C7940](http://purl.obolibrary.org/obo/NCIT_C7940) (Childhood Acute Monoblastic and Monocytic Leukemia), [NCIT:C5630](http://purl.obolibrary.org/obo/NCIT_C5630) (Aleukemic Monocytic Leukemia Cutis), [NCIT:C9156](http://purl.obolibrary.org/obo/NCIT_C9156) (Adult Acute Monoblastic Leukemia), [NCIT:C8263](http://purl.obolibrary.org/obo/NCIT_C8263) (Adult Acute Monocytic Leukemia), 
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.58%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) 37.86%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40161](http://purl.obolibrary.org/obo/NCIT_C40161) (JAZF1-SUZ12 Fusion Protein Expression))) 37.86%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40160](http://purl.obolibrary.org/obo/NCIT_C40160) (t(7;17)(p15;q21)))) 37.86%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40156](http://purl.obolibrary.org/obo/NCIT_C40156) (Endometrial Undifferentiated Carcinoma))) 37.86%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40155](http://purl.obolibrary.org/obo/NCIT_C40155) (Endometrial Small Cell Carcinoma))) 37.86%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40154](http://purl.obolibrary.org/obo/NCIT_C40154) (Endometrial Transitional Cell Carcinoma))) 37.86%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40153](http://purl.obolibrary.org/obo/NCIT_C40153) (Endometrial Mixed Adenocarcinoma))) 37.86%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40152](http://purl.obolibrary.org/obo/NCIT_C40152) (Serous Endometrial Intraepithelial Carcinoma))) 37.86%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40151](http://purl.obolibrary.org/obo/NCIT_C40151) (Grade 3 Endometrial Mucinous Adenocarcinoma))) 37.86%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40150](http://purl.obolibrary.org/obo/NCIT_C40150) (Grade 2 Endometrial Mucinous Adenocarcinoma))) 37.86%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40149](http://purl.obolibrary.org/obo/NCIT_C40149) (Grade 1 Endometrial Mucinous Adenocarcinoma))) 37.86%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40148](http://purl.obolibrary.org/obo/NCIT_C40148) (Grade 3 Endometrial Endometrioid Adenocarcinoma))) 37.86%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40147](http://purl.obolibrary.org/obo/NCIT_C40147) (Grade 2 Endometrial Endometrioid Adenocarcinoma))) 37.86%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40146](http://purl.obolibrary.org/obo/NCIT_C40146) (Grade 1 Endometrial Endometrioid Adenocarcinoma))) 37.86%
+- [NCIT:C42780](http://purl.obolibrary.org/obo/NCIT_C42780) (Bone Marrow Stem Cell with Some Commitment to Monocytic Differentiation) 57.14%
+- [NCIT:C38328](http://purl.obolibrary.org/obo/NCIT_C38328) (Unfavorable Clinical Outcome) 57.14%
+- [NCIT:C37181](http://purl.obolibrary.org/obo/NCIT_C37181) (Neoplastic Monoblast) 57.14%
+- [NCIT:C37075](http://purl.obolibrary.org/obo/NCIT_C37075) (Neoplastic Promonocyte) 57.14%
+- [NCIT:C37041](http://purl.obolibrary.org/obo/NCIT_C37041) (Neoplastic Monocyte) 57.14%
+- [NCIT:C37040](http://purl.obolibrary.org/obo/NCIT_C37040) (Abnormal Monocyte) 57.14%
+- [NCIT:C35788](http://purl.obolibrary.org/obo/NCIT_C35788) (Hypercellular Bone Marrow) 57.14%
+- Thing 51.72%
+- [NCIT:C41063](http://purl.obolibrary.org/obo/NCIT_C41063) (Neoplastic Myeloid Cell) 41.30%
+- [NCIT:C37042](http://purl.obolibrary.org/obo/NCIT_C37042) (Abnormal Myeloid Cell) 36.74%
+- [NCIT:C42719](http://purl.obolibrary.org/obo/NCIT_C42719) (Cells of Monocytic Lineage 80 Percent or More of Bone Marrow Leukemic Cells) 36.01%
+- [NCIT:C37060](http://purl.obolibrary.org/obo/NCIT_C37060) (Neoplastic Hematopoietic and Lymphoid Cell) 29.76%
+- [NCIT:C36987](http://purl.obolibrary.org/obo/NCIT_C36987) (Abnormal Hematopoietic and Lymphoid Cell) 28.80%
+- [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) 25.73%
+- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 25.52%
 
 

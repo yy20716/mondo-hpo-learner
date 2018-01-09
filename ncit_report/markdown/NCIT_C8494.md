@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.20%
-- [NCIT:C19195](http://purl.obolibrary.org/obo/NCIT_C19195) (MSH6 Gene) 53.12%
-- [NCIT:C18591](http://purl.obolibrary.org/obo/NCIT_C18591) (PMS2 Gene) 53.12%
-- [NCIT:C18590](http://purl.obolibrary.org/obo/NCIT_C18590) (PMS1 Gene) 53.12%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C18482](http://purl.obolibrary.org/obo/NCIT_C18482) (MLH1 Gene))) 48.10%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C18481](http://purl.obolibrary.org/obo/NCIT_C18481) (MSH2 Gene))) 48.10%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) 44.73%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C40201](http://purl.obolibrary.org/obo/NCIT_C40201) (Cervical Serous Adenocarcinoma))) 44.73%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C4020](http://purl.obolibrary.org/obo/NCIT_C4020) (Fibroblastic Osteosarcoma))) 44.73%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C40199](http://purl.obolibrary.org/obo/NCIT_C40199) (Cervical Squamous Intraepithelial Neoplasia 1))) 44.73%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C40198](http://purl.obolibrary.org/obo/NCIT_C40198) (Cervical Squamous Intraepithelial Neoplasia 2))) 44.73%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C40194](http://purl.obolibrary.org/obo/NCIT_C40194) (Cervical Squamotransitional Carcinoma))) 44.73%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C40193](http://purl.obolibrary.org/obo/NCIT_C40193) (Cervical Lymphoepithelioma-Like Carcinoma))) 44.73%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C40191](http://purl.obolibrary.org/obo/NCIT_C40191) (Cervical Warty Carcinoma))) 44.73%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C40190](http://purl.obolibrary.org/obo/NCIT_C40190) (Cervical Verrucous Carcinoma))) 44.73%
+- [NCIT:C19195](http://purl.obolibrary.org/obo/NCIT_C19195) (MSH6 Gene) 53.57%
+- [NCIT:C18591](http://purl.obolibrary.org/obo/NCIT_C18591) (PMS2 Gene) 53.57%
+- [NCIT:C18590](http://purl.obolibrary.org/obo/NCIT_C18590) (PMS1 Gene) 53.57%
+- Thing 52.43%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C18482](http://purl.obolibrary.org/obo/NCIT_C18482) (MLH1 Gene))) 49.44%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C18481](http://purl.obolibrary.org/obo/NCIT_C18481) (MSH2 Gene))) 49.44%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) 46.07%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C37041](http://purl.obolibrary.org/obo/NCIT_C37041) (Neoplastic Monocyte))) 46.07%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C3704](http://purl.obolibrary.org/obo/NCIT_C3704) (Dedifferentiated Liposarcoma))) 46.07%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C37039](http://purl.obolibrary.org/obo/NCIT_C37039) (Large Atypical Platelet))) 46.07%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C37032](http://purl.obolibrary.org/obo/NCIT_C37032) (Abnormal Eosinophil))) 46.07%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C37030](http://purl.obolibrary.org/obo/NCIT_C37030) (Toxic Neutrophil))) 46.07%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C37027](http://purl.obolibrary.org/obo/NCIT_C37027) (Popcorn Cell))) 46.07%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C37026](http://purl.obolibrary.org/obo/NCIT_C37026) (Hodgkin-Like Cell))) 46.07%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C37025](http://purl.obolibrary.org/obo/NCIT_C37025) (Mummified Cell))) 46.07%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.46%
-- [NCIT:C90530](http://purl.obolibrary.org/obo/NCIT_C90530) (AJCC v7 Stage) 51.61%
-- [NCIT:C90529](http://purl.obolibrary.org/obo/NCIT_C90529) (AJCC v6 Stage) 51.61%
-- [NCIT:C27966](http://purl.obolibrary.org/obo/NCIT_C27966) (Stage I) 51.61%
-- [NCIT:C25785](http://purl.obolibrary.org/obo/NCIT_C25785) (KRAS Gene) 51.61%
-- [NCIT:C18363](http://purl.obolibrary.org/obo/NCIT_C18363) (BRAF Gene) 51.61%
-- [NCIT:C17567](http://purl.obolibrary.org/obo/NCIT_C17567) (APC Gene) 51.61%
-- [NCIT:C17359](http://purl.obolibrary.org/obo/NCIT_C17359) (TP53 Gene) 51.61%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C25786](http://purl.obolibrary.org/obo/NCIT_C25786) (NRAS Gene))) 36.97%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C17060](http://purl.obolibrary.org/obo/NCIT_C17060) (HRAS Gene))) 36.97%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) 30.48%
-- [NCIT:C18437](http://purl.obolibrary.org/obo/NCIT_C18437) (G Protein Gene) 30.48%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C40223](http://purl.obolibrary.org/obo/NCIT_C40223) (Uterine Corpus Low Grade Endometrial Stromal Sarcoma))) 30.48%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C40222](http://purl.obolibrary.org/obo/NCIT_C40222) (Low Grade Endometrioid Stromal Sarcoma of the Cervix))) 30.48%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C40215](http://purl.obolibrary.org/obo/NCIT_C40215) (Cervical Mullerian Papilloma))) 30.48%
+- [NCIT:C9232](http://purl.obolibrary.org/obo/NCIT_C9232) (Weight Change) 57.14%
+- [NCIT:C37930](http://purl.obolibrary.org/obo/NCIT_C37930) (Constipation) 57.14%
+- [NCIT:C3445](http://purl.obolibrary.org/obo/NCIT_C3445) (Weight Loss) 57.14%
+- [NCIT:C27966](http://purl.obolibrary.org/obo/NCIT_C27966) (Stage I) 57.14%
+- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C27054](http://purl.obolibrary.org/obo/NCIT_C27054) (Rectal Hemorrhage))) 57.14%
+- Thing 51.72%
+- [NCIT:C100104](http://purl.obolibrary.org/obo/NCIT_C100104) (Sign or Symptom) 48.80%
+- [NCIT:C78438](http://purl.obolibrary.org/obo/NCIT_C78438) (Lower Gastrointestinal Hemorrhage) 42.50%
+- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) 42.50%
+- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) 42.50%
+- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C37129](http://purl.obolibrary.org/obo/NCIT_C37129) (Fibrillary Neoplastic Astrocyte))) 42.50%
+- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C37115](http://purl.obolibrary.org/obo/NCIT_C37115) (Serous Adenocarcinoma Cell))) 42.50%
+- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C37108](http://purl.obolibrary.org/obo/NCIT_C37108) (Adenocarcinoma Spindle Cell))) 42.50%
+- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C37091](http://purl.obolibrary.org/obo/NCIT_C37091) (Vacuolated Endothelial Cell))) 42.50%
+- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C37085](http://purl.obolibrary.org/obo/NCIT_C37085) (Undifferentiated Carcinoma Cell))) 42.50%
 
 

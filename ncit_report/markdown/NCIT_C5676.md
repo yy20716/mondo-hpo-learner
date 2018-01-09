@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.49%
-- [NCIT:C62273](http://purl.obolibrary.org/obo/NCIT_C62273) (Mixed Neoplastic Glandular and Squamous Cell Population) 52.63%
-- [NCIT:C41457](http://purl.obolibrary.org/obo/NCIT_C41457) (Well-Circumscribed Lesion) 52.63%
-- [NCIT:C40560](http://purl.obolibrary.org/obo/NCIT_C40560) (Exophytic Polypoid Lesion) 52.63%
-- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) 37.99%
-- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40093](http://purl.obolibrary.org/obo/NCIT_C40093) (Ovarian Squamous Cell Carcinoma))) 37.99%
-- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 37.99%
-- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 37.99%
-- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 37.99%
-- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 37.99%
-- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 37.99%
-- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 37.99%
-- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 37.99%
-- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 37.99%
-- [NCIT:C61544](http://purl.obolibrary.org/obo/NCIT_C61544) (Mixed Epithelial Cell Population) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 37.99%
+- [NCIT:C40560](http://purl.obolibrary.org/obo/NCIT_C40560) (Exophytic Polypoid Lesion) 60.00%
+- Thing 51.45%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 32.35%
+- [UBERON:0006799](http://purl.obolibrary.org/obo/UBERON_0006799) (glandular epithelium) 30.41%
+- [NCIT:C33923](http://purl.obolibrary.org/obo/NCIT_C33923) (Glandular Cell) 28.90%
+- [NCIT:C8366](http://purl.obolibrary.org/obo/NCIT_C8366) (Intraepithelial Neoplasia) 27.68%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 22.52%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 21.44%
+- [NCIT:C3824](http://purl.obolibrary.org/obo/NCIT_C3824) (Lesion) 16.25%
+- [CL:0000066](http://purl.obolibrary.org/obo/CL_0000066) (epithelial cell) 15.16%
+- [CL:0000548](http://purl.obolibrary.org/obo/CL_0000548) (animal cell) 12.97%
+- [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) 12.97%
+- [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) (native cell) 12.76%
+- [GO:0005623](http://purl.obolibrary.org/obo/GO_0005623) (cell) 12.76%
+- [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000) (cell) 12.72%
 
 

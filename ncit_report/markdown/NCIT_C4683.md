@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.40%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C36957](http://purl.obolibrary.org/obo/NCIT_C36957) (Neoplastic Spindle-Shaped Myofibroblast))) 38.13%
-- [NCIT:C48682](http://purl.obolibrary.org/obo/NCIT_C48682) (Neoplastic Fibroblast) 37.18%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) 31.65%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) 31.65%
-- [NCIT:C36954](http://purl.obolibrary.org/obo/NCIT_C36954) (Neoplastic Connective and Soft Tissue Spindle Cell) and [NCIT:C48682](http://purl.obolibrary.org/obo/NCIT_C48682) (Neoplastic Fibroblast) 31.65%
-- [NCIT:C36823](http://purl.obolibrary.org/obo/NCIT_C36823) (Neoplastic Spindle Cell) and [NCIT:C48682](http://purl.obolibrary.org/obo/NCIT_C48682) (Neoplastic Fibroblast) 31.65%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40271](http://purl.obolibrary.org/obo/NCIT_C40271) (Low Grade Endometrioid Stromal Sarcoma of the Vagina))) 31.65%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C4027](http://purl.obolibrary.org/obo/NCIT_C4027) (Paget Disease of the Vulva))) 31.65%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40264](http://purl.obolibrary.org/obo/NCIT_C40264) (Vaginal Undifferentiated Carcinoma))) 31.65%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40263](http://purl.obolibrary.org/obo/NCIT_C40263) (Vaginal Small Cell Carcinoma))) 31.65%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40261](http://purl.obolibrary.org/obo/NCIT_C40261) (Vaginal Adenoid Cystic Carcinoma))) 31.65%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40260](http://purl.obolibrary.org/obo/NCIT_C40260) (Vaginal Adenosquamous Carcinoma))) 31.65%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C4026](http://purl.obolibrary.org/obo/NCIT_C4026) (Ovarian Mucinous Cystadenocarcinoma))) 31.65%
-- [NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast) and (not ([NCIT:C40259](http://purl.obolibrary.org/obo/NCIT_C40259) (Vaginal Villous Adenoma))) 31.65%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C36474](http://purl.obolibrary.org/obo/NCIT_C36474) (Ring Chromosome 1))) 55.56%
+- Thing 51.95%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) 40.91%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C37071](http://purl.obolibrary.org/obo/NCIT_C37071) (Neoplastic T-Lymphoblast))) 40.91%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C37070](http://purl.obolibrary.org/obo/NCIT_C37070) (Neoplastic B-Lymphoblast))) 40.91%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C3707](http://purl.obolibrary.org/obo/NCIT_C3707) (Meningiomatosis))) 40.91%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C37068](http://purl.obolibrary.org/obo/NCIT_C37068) (Neoplastic Megakaryoblast))) 40.91%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C37063](http://purl.obolibrary.org/obo/NCIT_C37063) (Immature Malignant Mast Cell))) 40.91%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C37058](http://purl.obolibrary.org/obo/NCIT_C37058) (Ring Sideroblast))) 40.91%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C37055](http://purl.obolibrary.org/obo/NCIT_C37055) (Large Multinucleated Erythroid Cell))) 40.91%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C37052](http://purl.obolibrary.org/obo/NCIT_C37052) (Faggot Cell))) 40.91%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C37051](http://purl.obolibrary.org/obo/NCIT_C37051) (Dysplastic Granulocyte))) 40.91%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C3705](http://purl.obolibrary.org/obo/NCIT_C3705) (Pleomorphic Liposarcoma))) 40.91%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C37049](http://purl.obolibrary.org/obo/NCIT_C37049) (Hyperchromatic Megakaryocyte))) 40.91%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C37048](http://purl.obolibrary.org/obo/NCIT_C37048) (Monolobed Megakaryocyte))) 40.91%
 
 

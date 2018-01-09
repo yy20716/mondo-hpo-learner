@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.31%
-- [NCIT:C18022](http://purl.obolibrary.org/obo/NCIT_C18022) (CDKN2A Gene) 51.72%
-- [NCIT:C17359](http://purl.obolibrary.org/obo/NCIT_C17359) (TP53 Gene) 51.72%
-- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) 37.08%
-- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 37.08%
-- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 37.08%
-- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 37.08%
-- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 37.08%
-- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 37.08%
-- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 37.08%
-- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 37.08%
-- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 37.08%
-- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 37.08%
-- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C39963](http://purl.obolibrary.org/obo/NCIT_C39963) (Penile Bowenoid Papulosis))) 37.08%
-- [NCIT:C18593](http://purl.obolibrary.org/obo/NCIT_C18593) (Cyclin-Dependent Kinase Inhibitor Gene) and (not ([NCIT:C39961](http://purl.obolibrary.org/obo/NCIT_C39961) (Penile Basal Cell Carcinoma))) 37.08%
+- [NCIT:C41361](http://purl.obolibrary.org/obo/NCIT_C41361) (KRAS Gene Mutation) 55.00%
+- [NCIT:C39629](http://purl.obolibrary.org/obo/NCIT_C39629) (CDKN2A Gene Inactivation) 55.00%
+- [NCIT:C36638](http://purl.obolibrary.org/obo/NCIT_C36638) (ERBB2 Gene Amplification) 55.00%
+- [NCIT:C36329](http://purl.obolibrary.org/obo/NCIT_C36329) (TP53 Gene Inactivation) 55.00%
+- [NCIT:C25785](http://purl.obolibrary.org/obo/NCIT_C25785) (KRAS Gene) 55.00%
+- [NCIT:C18022](http://purl.obolibrary.org/obo/NCIT_C18022) (CDKN2A Gene) 55.00%
+- [NCIT:C17756](http://purl.obolibrary.org/obo/NCIT_C17756) (ERBB2 Gene) 55.00%
+- [NCIT:C17359](http://purl.obolibrary.org/obo/NCIT_C17359) (TP53 Gene) 55.00%
+- Thing 52.05%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) 40.36%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C3001](http://purl.obolibrary.org/obo/NCIT_C3001) (Eczema))) 40.36%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C2999](http://purl.obolibrary.org/obo/NCIT_C2999) (Dysuria))) 40.36%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C2998](http://purl.obolibrary.org/obo/NCIT_C2998) (Dyspnea))) 40.36%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C2997](http://purl.obolibrary.org/obo/NCIT_C2997) (Dyspareunia))) 40.36%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C29957](http://purl.obolibrary.org/obo/NCIT_C29957) (MYH11 Gene))) 40.36%
 
 

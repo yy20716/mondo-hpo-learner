@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.38%
-- [NCIT:C90530](http://purl.obolibrary.org/obo/NCIT_C90530) (AJCC v7 Stage) 51.67%
-- [NCIT:C90529](http://purl.obolibrary.org/obo/NCIT_C90529) (AJCC v6 Stage) 51.67%
-- [NCIT:C28079](http://purl.obolibrary.org/obo/NCIT_C28079) (Grade 3) 51.67%
-- [NCIT:C25785](http://purl.obolibrary.org/obo/NCIT_C25785) (KRAS Gene) 51.67%
-- [NCIT:C18363](http://purl.obolibrary.org/obo/NCIT_C18363) (BRAF Gene) 51.67%
-- [NCIT:C17567](http://purl.obolibrary.org/obo/NCIT_C17567) (APC Gene) 51.67%
-- [NCIT:C17359](http://purl.obolibrary.org/obo/NCIT_C17359) (TP53 Gene) 51.67%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C25786](http://purl.obolibrary.org/obo/NCIT_C25786) (NRAS Gene))) 37.02%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C17060](http://purl.obolibrary.org/obo/NCIT_C17060) (HRAS Gene))) 37.02%
-- [NCIT:C28051](http://purl.obolibrary.org/obo/NCIT_C28051) (Stage 0) 30.53%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) 30.53%
-- [NCIT:C18437](http://purl.obolibrary.org/obo/NCIT_C18437) (G Protein Gene) 30.53%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C39690](http://purl.obolibrary.org/obo/NCIT_C39690) (Papular Lesion))) 30.53%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) and (not ([NCIT:C39689](http://purl.obolibrary.org/obo/NCIT_C39689) (Multicentric Cutaneous Involvement))) 30.53%
+- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) 75.00%
+- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 75.00%
+- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 75.00%
+- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:4100000](http://purl.obolibrary.org/obo/UBERON_4100000) (skeletal element projection))) 75.00%
+- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 75.00%
+- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 75.00%
+- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 75.00%
+- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 75.00%
+- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 75.00%
+- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 75.00%
+- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 75.00%
+- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 75.00%
+- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 75.00%
+- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:2001431](http://purl.obolibrary.org/obo/UBERON_2001431) (primitive olfactory epithelium))) 75.00%
+- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:2001073](http://purl.obolibrary.org/obo/UBERON_2001073) (axial vasculature))) 75.00%
 
 

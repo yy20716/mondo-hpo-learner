@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C61107](http://purl.obolibrary.org/obo/NCIT_C61107) (Kidney and Ureter) 58.33%
-- [NCIT:C54419](http://purl.obolibrary.org/obo/NCIT_C54419) (Renal Pelvis and Ureter) 58.33%
-- [NCIT:C35457](http://purl.obolibrary.org/obo/NCIT_C35457) (Abnormal Urine Test Result) 58.33%
-- [NCIT:C34615](http://purl.obolibrary.org/obo/NCIT_C34615) (Flank Pain) 58.33%
-- [NCIT:C3090](http://purl.obolibrary.org/obo/NCIT_C3090) (Hematuria) 58.33%
-- [NCIT:C27970](http://purl.obolibrary.org/obo/NCIT_C27970) (Stage III) 58.33%
-- [NCIT:C61107](http://purl.obolibrary.org/obo/NCIT_C61107) (Kidney and Ureter) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 58.33%
-- [NCIT:C61107](http://purl.obolibrary.org/obo/NCIT_C61107) (Kidney and Ureter) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 58.33%
-- [NCIT:C61107](http://purl.obolibrary.org/obo/NCIT_C61107) (Kidney and Ureter) and (not ([UBERON:0034944](http://purl.obolibrary.org/obo/UBERON_0034944) (zone of organ))) 58.33%
-- [NCIT:C61107](http://purl.obolibrary.org/obo/NCIT_C61107) (Kidney and Ureter) and (not ([UBERON:0018664](http://purl.obolibrary.org/obo/UBERON_0018664) (neck of bone element))) 58.33%
-- [NCIT:C61107](http://purl.obolibrary.org/obo/NCIT_C61107) (Kidney and Ureter) and (not ([UBERON:0010199](http://purl.obolibrary.org/obo/UBERON_0010199) (bona-fide anatomical boundary))) 58.33%
-- [NCIT:C61107](http://purl.obolibrary.org/obo/NCIT_C61107) (Kidney and Ureter) and (not ([UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface))) 58.33%
-- [NCIT:C61107](http://purl.obolibrary.org/obo/NCIT_C61107) (Kidney and Ureter) and (not ([UBERON:0005913](http://purl.obolibrary.org/obo/UBERON_0005913) (zone of bone organ))) 58.33%
-- [NCIT:C61107](http://purl.obolibrary.org/obo/NCIT_C61107) (Kidney and Ureter) and (not ([UBERON:0005055](http://purl.obolibrary.org/obo/UBERON_0005055) (zone of long bone))) 58.33%
-- [NCIT:C61107](http://purl.obolibrary.org/obo/NCIT_C61107) (Kidney and Ureter) and (not ([UBERON:0004120](http://purl.obolibrary.org/obo/UBERON_0004120) (mesoderm-derived structure))) 58.33%
+- [NCIT:C34615](http://purl.obolibrary.org/obo/NCIT_C34615) (Flank Pain) 75.00%
+- [NCIT:C27970](http://purl.obolibrary.org/obo/NCIT_C27970) (Stage III) 75.00%
+- Thing 50.92%
+- [NCIT:C3303](http://purl.obolibrary.org/obo/NCIT_C3303) (Pain) 42.68%
+- [NCIT:C4876](http://purl.obolibrary.org/obo/NCIT_C4876) (Symptom) 40.81%
+- [NCIT:C28108](http://purl.obolibrary.org/obo/NCIT_C28108) (Disease Stage Qualifier) 39.43%
+- [NCIT:C41009](http://purl.obolibrary.org/obo/NCIT_C41009) (Qualifier) 36.79%
+- [NCIT:C27992](http://purl.obolibrary.org/obo/NCIT_C27992) (Disease Qualifier) 36.79%
+- [NCIT:C20189](http://purl.obolibrary.org/obo/NCIT_C20189) (Property or Attribute) 36.79%
+- [NCIT:C100104](http://purl.obolibrary.org/obo/NCIT_C100104) (Sign or Symptom) 30.85%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 26.78%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 26.36%
+- CP:0000037 0.00%
+- CP:0000035 0.00%
+- CP:0000028 0.00%
 
 

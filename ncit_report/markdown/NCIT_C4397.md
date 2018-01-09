@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.67%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) 37.74%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38457](http://purl.obolibrary.org/obo/NCIT_C38457) (Clonal BCL3 Gene Rearrangement))) 37.74%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38450](http://purl.obolibrary.org/obo/NCIT_C38450) (Colony-Stimulating Factor Overexpression))) 37.74%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38448](http://purl.obolibrary.org/obo/NCIT_C38448) (Lymphotoxin-Alpha Overexpression))) 37.74%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38447](http://purl.obolibrary.org/obo/NCIT_C38447) (Interleukin-13 Overexpression))) 37.74%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38446](http://purl.obolibrary.org/obo/NCIT_C38446) (Interleukin-10 Overexpression))) 37.74%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38445](http://purl.obolibrary.org/obo/NCIT_C38445) (Interleukin-9 Overexpression))) 37.74%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38444](http://purl.obolibrary.org/obo/NCIT_C38444) (Interleukin-7 Overexpression))) 37.74%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38443](http://purl.obolibrary.org/obo/NCIT_C38443) (Interleukin-6 Overexpression))) 37.74%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38442](http://purl.obolibrary.org/obo/NCIT_C38442) (Interleukin-5 Overexpression))) 37.74%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38441](http://purl.obolibrary.org/obo/NCIT_C38441) (Interleukin-2 Overexpression))) 37.74%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38439](http://purl.obolibrary.org/obo/NCIT_C38439) (Mature Lymphocyte))) 37.74%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38436](http://purl.obolibrary.org/obo/NCIT_C38436) (Mature B-Lymphocyte at the Germinal Center Stage of Differentiation))) 37.74%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C3843](http://purl.obolibrary.org/obo/NCIT_C3843) (Malignant Ovarian Cyst))) 37.74%
+- [NCIT:C54171](http://purl.obolibrary.org/obo/NCIT_C54171) (Osseous Component Present) 56.25%
+- [NCIT:C54168](http://purl.obolibrary.org/obo/NCIT_C54168) (Cartilaginous Component Present) 56.25%
+- [NCIT:C53597](http://purl.obolibrary.org/obo/NCIT_C53597) (Lipomatous Component Present) 56.25%
+- [NCIT:C41444](http://purl.obolibrary.org/obo/NCIT_C41444) (Secondary Lesion) 56.25%
+- [NCIT:C35998](http://purl.obolibrary.org/obo/NCIT_C35998) (Myxoid Stroma Formation) 56.25%
+- [NCIT:C35996](http://purl.obolibrary.org/obo/NCIT_C35996) (Stromal Change) and [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) 56.25%
+- [NCIT:C42075](http://purl.obolibrary.org/obo/NCIT_C42075) (Abnormal Tissue Present) 54.48%
+- Thing 51.84%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 48.46%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 47.34%
+- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 43.78%
+- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 43.53%
+- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) 41.61%
+- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) 41.61%
+- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C37145](http://purl.obolibrary.org/obo/NCIT_C37145) (Neoplastic Neuroblast))) 41.61%
 
 

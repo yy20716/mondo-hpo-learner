@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.40%
-- [CL:0002311](http://purl.obolibrary.org/obo/CL_0002311) (mammotroph) 52.78%
-- [CL:0000439](http://purl.obolibrary.org/obo/CL_0000439) (prolactin secreting cell) 52.78%
-- [CL:0000439](http://purl.obolibrary.org/obo/CL_0000439) (prolactin secreting cell) and [CL:0000638](http://purl.obolibrary.org/obo/CL_0000638) (acidophil cell of pars distalis of adenohypophysis) 52.78%
-- [CL:0000154](http://purl.obolibrary.org/obo/CL_0000154) (protein secreting cell) and [CL:0000638](http://purl.obolibrary.org/obo/CL_0000638) (acidophil cell of pars distalis of adenohypophysis) 52.78%
-- [NCIT:C45920](http://purl.obolibrary.org/obo/NCIT_C45920) (Adenohypophysial Cell) 38.13%
-- [CL:0000638](http://purl.obolibrary.org/obo/CL_0000638) (acidophil cell of pars distalis of adenohypophysis) 38.13%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 35.27%
-- [CL:0000154](http://purl.obolibrary.org/obo/CL_0000154) (protein secreting cell) 31.65%
-- [CL:0000163](http://purl.obolibrary.org/obo/CL_0000163) (endocrine cell) 21.78%
-- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 19.18%
-- [CL:0000167](http://purl.obolibrary.org/obo/CL_0000167) (peptide hormone secreting cell) 17.85%
-- [CL:0000151](http://purl.obolibrary.org/obo/CL_0000151) (secretory cell) 17.18%
-- [CL:0000150](http://purl.obolibrary.org/obo/CL_0000150) (glandular epithelial cell) 16.14%
-- [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) 15.12%
+- [CL:0002311](http://purl.obolibrary.org/obo/CL_0002311) (mammotroph) 66.67%
+- [CL:0000439](http://purl.obolibrary.org/obo/CL_0000439) (prolactin secreting cell) and [CL:0000638](http://purl.obolibrary.org/obo/CL_0000638) (acidophil cell of pars distalis of adenohypophysis) 66.67%
+- [CL:0000154](http://purl.obolibrary.org/obo/CL_0000154) (protein secreting cell) and [CL:0000638](http://purl.obolibrary.org/obo/CL_0000638) (acidophil cell of pars distalis of adenohypophysis) 66.67%
+- [CL:0000638](http://purl.obolibrary.org/obo/CL_0000638) (acidophil cell of pars distalis of adenohypophysis) 52.02%
+- Thing 51.13%
+- [CL:0000568](http://purl.obolibrary.org/obo/CL_0000568) (amine precursor uptake and decarboxylation cell) 31.74%
+- [CL:0000165](http://purl.obolibrary.org/obo/CL_0000165) (neuroendocrine cell) 29.17%
+- [CL:0000393](http://purl.obolibrary.org/obo/CL_0000393) (electrically responsive cell) 24.29%
+- [CL:0000211](http://purl.obolibrary.org/obo/CL_0000211) (electrically active cell) 24.29%
+- [CL:0000151](http://purl.obolibrary.org/obo/CL_0000151) (secretory cell) 22.92%
+- [CL:0002371](http://purl.obolibrary.org/obo/CL_0002371) (somatic cell) 19.72%
+- [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) 19.64%
+- [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) (native cell) 19.43%
+- [GO:0005623](http://purl.obolibrary.org/obo/GO_0005623) (cell) 19.42%
+- [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000) (cell) 19.39%
 
 

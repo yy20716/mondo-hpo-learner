@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0002046](http://purl.obolibrary.org/obo/UBERON_0002046) (thyroid gland) 55.00%
-- [UBERON:0000974](http://purl.obolibrary.org/obo/UBERON_0000974) (neck) 55.00%
-- [NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q) 55.00%
-- [NCIT:C39795](http://purl.obolibrary.org/obo/NCIT_C39795) (Loss of Chromosome 14q) 55.00%
-- [NCIT:C37312](http://purl.obolibrary.org/obo/NCIT_C37312) (Loss of Chromosome 11q) 55.00%
-- [NCIT:C36636](http://purl.obolibrary.org/obo/NCIT_C36636) (Loss of Chromosome 9p) 55.00%
-- [NCIT:C36515](http://purl.obolibrary.org/obo/NCIT_C36515) (Loss of Chromosome 16q) 55.00%
-- [NCIT:C36497](http://purl.obolibrary.org/obo/NCIT_C36497) (Loss of Chromosome 13q) 55.00%
-- Thing 52.53%
-- [NCIT:C36315](http://purl.obolibrary.org/obo/NCIT_C36315) (Chromosomal Loss) 47.50%
-- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) 40.36%
-- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) and (not ([NCIT:C38326](http://purl.obolibrary.org/obo/NCIT_C38326) (Immature Peripheral Gamma/Delta Cell of Cytotoxic Type))) 40.36%
-- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) and (not ([NCIT:C38323](http://purl.obolibrary.org/obo/NCIT_C38323) (Peripheral Epidermotropic T-Lymphocyte))) 40.36%
-- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) and (not ([NCIT:C38322](http://purl.obolibrary.org/obo/NCIT_C38322) (Marginal Zone B-Lymphocyte of Nodal Type))) 40.36%
-- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) and (not ([NCIT:C3832](http://purl.obolibrary.org/obo/NCIT_C3832) (Malaise))) 40.36%
+- [UBERON:0002046](http://purl.obolibrary.org/obo/UBERON_0002046) (thyroid gland) 75.00%
+- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) and (not ([NCIT:C47809](http://purl.obolibrary.org/obo/NCIT_C47809) (Thyroid Gland Epithelial Tissue))) 75.00%
+- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) and (not ([NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue))) 75.00%
+- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) 60.36%
+- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 60.36%
+- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 60.36%
+- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) and (not (CARO:0010000)) 60.36%
+- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 60.36%
+- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) and (not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null))) 60.36%
+- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 51.86%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 51.81%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 51.70%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 51.60%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 51.59%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 51.45%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.53%
-- [NCIT:C47805](http://purl.obolibrary.org/obo/NCIT_C47805) (Malignant Neuroendocrine Small Round Cell) 51.56%
-- [NCIT:C36935](http://purl.obolibrary.org/obo/NCIT_C36935) (Neoplastic Neuroendocrine Spindle Cell) 51.56%
-- [NCIT:C36855](http://purl.obolibrary.org/obo/NCIT_C36855) (Malignant Neuroendocrine Polygonal Cell) 51.56%
-- [NCIT:C36854](http://purl.obolibrary.org/obo/NCIT_C36854) (Malignant Neuroendocrine Spindle Cell) 51.56%
-- [NCIT:C36929](http://purl.obolibrary.org/obo/NCIT_C36929) (Malignant Endocrine Cell) and [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) 51.56%
-- [NCIT:C36825](http://purl.obolibrary.org/obo/NCIT_C36825) (Malignant Neuroendocrine Cell) and [NCIT:C53637](http://purl.obolibrary.org/obo/NCIT_C53637) (Malignant Spindle Cell) 51.56%
-- [NCIT:C36825](http://purl.obolibrary.org/obo/NCIT_C36825) (Malignant Neuroendocrine Cell) and [NCIT:C37107](http://purl.obolibrary.org/obo/NCIT_C37107) (Neoplastic Large Cell with Abundant Cytoplasm) 51.56%
-- [NCIT:C36825](http://purl.obolibrary.org/obo/NCIT_C36825) (Malignant Neuroendocrine Cell) and [NCIT:C37036](http://purl.obolibrary.org/obo/NCIT_C37036) (Neoplastic Epithelial Polygonal Cell) 51.56%
-- [NCIT:C36825](http://purl.obolibrary.org/obo/NCIT_C36825) (Malignant Neuroendocrine Cell) and [NCIT:C36935](http://purl.obolibrary.org/obo/NCIT_C36935) (Neoplastic Neuroendocrine Spindle Cell) 51.56%
-- [NCIT:C36825](http://purl.obolibrary.org/obo/NCIT_C36825) (Malignant Neuroendocrine Cell) and [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) 51.56%
-- [NCIT:C36825](http://purl.obolibrary.org/obo/NCIT_C36825) (Malignant Neuroendocrine Cell) and [NCIT:C36851](http://purl.obolibrary.org/obo/NCIT_C36851) (Neoplastic Polygonal Cell) 51.56%
-- [NCIT:C36825](http://purl.obolibrary.org/obo/NCIT_C36825) (Malignant Neuroendocrine Cell) and [NCIT:C36849](http://purl.obolibrary.org/obo/NCIT_C36849) (Neoplastic Epithelial Spindle Cell) 51.56%
-- [NCIT:C36823](http://purl.obolibrary.org/obo/NCIT_C36823) (Neoplastic Spindle Cell) and [NCIT:C36825](http://purl.obolibrary.org/obo/NCIT_C36825) (Malignant Neuroendocrine Cell) 51.56%
-- [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) and [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) 51.56%
+- [NCIT:C36935](http://purl.obolibrary.org/obo/NCIT_C36935) (Neoplastic Neuroendocrine Spindle Cell) 53.57%
+- [NCIT:C36855](http://purl.obolibrary.org/obo/NCIT_C36855) (Malignant Neuroendocrine Polygonal Cell) 53.57%
+- [NCIT:C36854](http://purl.obolibrary.org/obo/NCIT_C36854) (Malignant Neuroendocrine Spindle Cell) 53.57%
+- [NCIT:C36929](http://purl.obolibrary.org/obo/NCIT_C36929) (Malignant Endocrine Cell) and [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) 53.57%
+- [NCIT:C36825](http://purl.obolibrary.org/obo/NCIT_C36825) (Malignant Neuroendocrine Cell) and [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) 53.57%
+- [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) and [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) 53.57%
+- [NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell) and [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) 53.57%
+- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) 53.57%
+- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) and [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) 53.57%
+- Thing 52.43%
+- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) 38.93%
+- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C28452](http://purl.obolibrary.org/obo/NCIT_C28452) (Philadelphia Chromosome))) 38.93%
+- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C28391](http://purl.obolibrary.org/obo/NCIT_C28391) (B-Cell Differentiation))) 38.93%
+- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C28371](http://purl.obolibrary.org/obo/NCIT_C28371) (Cold Nodule))) 38.93%
+- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C28333](http://purl.obolibrary.org/obo/NCIT_C28333) (Non-Functional Pancreatic Delta Cell Neuroendocrine Tumor))) 38.93%
 
 

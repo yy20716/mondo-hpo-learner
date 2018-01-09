@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C53415](http://purl.obolibrary.org/obo/NCIT_C53415) (Locally Aggressive Lesion) 62.50%
-- [NCIT:C36105](http://purl.obolibrary.org/obo/NCIT_C36105) (Indolent Clinical Course) 62.50%
-- Thing 51.60%
-- [NCIT:C12964](http://purl.obolibrary.org/obo/NCIT_C12964) (Connective and Soft Tissue) 34.86%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 27.53%
-- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 27.45%
-- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 27.36%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 27.29%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 27.15%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 27.15%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 27.14%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 27.01%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 27.01%
-- [NCIT:C35461](http://purl.obolibrary.org/obo/NCIT_C35461) (Clinical Course of Disease) 21.20%
-- [NCIT:C3824](http://purl.obolibrary.org/obo/NCIT_C3824) (Lesion) 18.80%
+- [NCIT:C53415](http://purl.obolibrary.org/obo/NCIT_C53415) (Locally Aggressive Lesion) 75.00%
+- Thing 50.92%
+- [UBERON:0001474](http://purl.obolibrary.org/obo/UBERON_0001474) (bone element) 33.01%
+- [NCIT:C3824](http://purl.obolibrary.org/obo/NCIT_C3824) (Lesion) 31.25%
+- [UBERON:0004765](http://purl.obolibrary.org/obo/UBERON_0004765) (skeletal element) 30.36%
+- [UBERON:0000062](http://purl.obolibrary.org/obo/UBERON_0000062) (organ) 28.13%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 26.78%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 26.36%
+- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 26.31%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 26.28%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 26.21%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 26.13%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 26.12%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 26.03%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 26.02%
 
 

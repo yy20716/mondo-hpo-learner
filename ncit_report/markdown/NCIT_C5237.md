@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0000474](http://purl.obolibrary.org/obo/UBERON_0000474) (female reproductive system) 55.00%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:0015212](http://purl.obolibrary.org/obo/UBERON_0015212) (lateral structure))) 55.00%
-- Thing 52.53%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:0002119](http://purl.obolibrary.org/obo/UBERON_0002119) (left ovary))) 40.36%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:0002118](http://purl.obolibrary.org/obo/UBERON_0002118) (right ovary))) 40.36%
-- [UBERON:0003134](http://purl.obolibrary.org/obo/UBERON_0003134) (female reproductive organ) 33.87%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) 33.87%
-- [UBERON:0000990](http://purl.obolibrary.org/obo/UBERON_0000990) (reproductive system) 33.87%
-- [UBERON:0000991](http://purl.obolibrary.org/obo/UBERON_0000991) (gonad) and [UBERON:0003134](http://purl.obolibrary.org/obo/UBERON_0003134) (female reproductive organ) 33.87%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 33.87%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 33.87%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 33.87%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 33.87%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 33.87%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 33.87%
+- [UBERON:0000474](http://purl.obolibrary.org/obo/UBERON_0000474) (female reproductive system) 75.00%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) 53.87%
+- [UBERON:0000990](http://purl.obolibrary.org/obo/UBERON_0000990) (reproductive system) 53.87%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 51.81%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 51.70%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 51.60%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 51.59%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 51.45%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 51.44%
+- Thing 50.92%
+- [UBERON:0000991](http://purl.obolibrary.org/obo/UBERON_0000991) (gonad) 42.68%
+- [UBERON:0003133](http://purl.obolibrary.org/obo/UBERON_0003133) (reproductive organ) 36.47%
+- [UBERON:0000467](http://purl.obolibrary.org/obo/UBERON_0000467) (anatomical system) 32.81%
+- [UBERON:0005156](http://purl.obolibrary.org/obo/UBERON_0005156) (reproductive structure) 30.49%
+- [UBERON:0000062](http://purl.obolibrary.org/obo/UBERON_0000062) (organ) 28.13%
 
 

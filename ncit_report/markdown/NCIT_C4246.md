@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0002097](http://purl.obolibrary.org/obo/UBERON_0002097) (skin of body) 57.14%
-- [NCIT:C8957](http://purl.obolibrary.org/obo/NCIT_C8957) (Cutaneous Precancerous Condition) 57.14%
-- [NCIT:C53583](http://purl.obolibrary.org/obo/NCIT_C53583) (Tissue Differentiation Uncertain) 57.14%
-- [NCIT:C53415](http://purl.obolibrary.org/obo/NCIT_C53415) (Locally Aggressive Lesion) 57.14%
-- [NCIT:C3148](http://purl.obolibrary.org/obo/NCIT_C3148) (Actinic (Solar) Keratosis) 57.14%
-- [NCIT:C27531](http://purl.obolibrary.org/obo/NCIT_C27531) (Pre-Malignant Skin Epithelial Lesion) 57.14%
-- Thing 52.12%
-- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) 36.01%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 31.62%
-- [NCIT:C7342](http://purl.obolibrary.org/obo/NCIT_C7342) (Epithelial Skin Neoplasm) 29.50%
-- [NCIT:C12964](http://purl.obolibrary.org/obo/NCIT_C12964) (Connective and Soft Tissue) 29.50%
-- [NCIT:C9478](http://purl.obolibrary.org/obo/NCIT_C9478) (Atypia) 26.04%
-- [NCIT:C7422](http://purl.obolibrary.org/obo/NCIT_C7422) (Precancerous Condition by Site) 26.04%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 24.53%
-- [NCIT:C8278](http://purl.obolibrary.org/obo/NCIT_C8278) (Cancer-Related Condition) 18.61%
+- [NCIT:C3148](http://purl.obolibrary.org/obo/NCIT_C3148) (Actinic (Solar) Keratosis) 66.67%
+- [NCIT:C3148](http://purl.obolibrary.org/obo/NCIT_C3148) (Actinic (Solar) Keratosis) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 66.67%
+- [NCIT:C3148](http://purl.obolibrary.org/obo/NCIT_C3148) (Actinic (Solar) Keratosis) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 66.67%
+- [NCIT:C3148](http://purl.obolibrary.org/obo/NCIT_C3148) (Actinic (Solar) Keratosis) and (not ([UBERON:4100000](http://purl.obolibrary.org/obo/UBERON_4100000) (skeletal element projection))) 66.67%
+- [NCIT:C3148](http://purl.obolibrary.org/obo/NCIT_C3148) (Actinic (Solar) Keratosis) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 66.67%
+- [NCIT:C3148](http://purl.obolibrary.org/obo/NCIT_C3148) (Actinic (Solar) Keratosis) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 66.67%
+- [NCIT:C3148](http://purl.obolibrary.org/obo/NCIT_C3148) (Actinic (Solar) Keratosis) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 66.67%
+- [NCIT:C3148](http://purl.obolibrary.org/obo/NCIT_C3148) (Actinic (Solar) Keratosis) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 66.67%
+- [NCIT:C3148](http://purl.obolibrary.org/obo/NCIT_C3148) (Actinic (Solar) Keratosis) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 66.67%
+- [NCIT:C3148](http://purl.obolibrary.org/obo/NCIT_C3148) (Actinic (Solar) Keratosis) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 66.67%
+- [NCIT:C3148](http://purl.obolibrary.org/obo/NCIT_C3148) (Actinic (Solar) Keratosis) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 66.67%
+- [NCIT:C3148](http://purl.obolibrary.org/obo/NCIT_C3148) (Actinic (Solar) Keratosis) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 66.67%
+- [NCIT:C3148](http://purl.obolibrary.org/obo/NCIT_C3148) (Actinic (Solar) Keratosis) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 66.67%
+- [NCIT:C3148](http://purl.obolibrary.org/obo/NCIT_C3148) (Actinic (Solar) Keratosis) and (not ([UBERON:2001431](http://purl.obolibrary.org/obo/UBERON_2001431) (primitive olfactory epithelium))) 66.67%
+- [NCIT:C3148](http://purl.obolibrary.org/obo/NCIT_C3148) (Actinic (Solar) Keratosis) and (not ([UBERON:2001073](http://purl.obolibrary.org/obo/UBERON_2001073) (axial vasculature))) 66.67%
 
 

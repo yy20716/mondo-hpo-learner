@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.08%
-- [CL:0008007](http://purl.obolibrary.org/obo/CL_0008007) (visceral muscle cell) 51.92%
-- [CL:0008000](http://purl.obolibrary.org/obo/CL_0008000) (non-striated muscle cell) 51.92%
-- [CL:0000192](http://purl.obolibrary.org/obo/CL_0000192) (smooth muscle cell) 51.92%
-- [CL:0008000](http://purl.obolibrary.org/obo/CL_0008000) (non-striated muscle cell) and [CL:0008007](http://purl.obolibrary.org/obo/CL_0008007) (visceral muscle cell) 51.92%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) 35.47%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C35999](http://purl.obolibrary.org/obo/NCIT_C35999) (Mucoid Stroma Formation))) 35.47%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C35998](http://purl.obolibrary.org/obo/NCIT_C35998) (Myxoid Stroma Formation))) 35.47%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C35994](http://purl.obolibrary.org/obo/NCIT_C35994) (Pseudoangiomatoid Space Formation))) 35.47%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C35991](http://purl.obolibrary.org/obo/NCIT_C35991) (Red Blood Cells Extravasation))) 35.47%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C35990](http://purl.obolibrary.org/obo/NCIT_C35990) (Hemosiderin Deposition))) 35.47%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C35988](http://purl.obolibrary.org/obo/NCIT_C35988) (Metaplastic Bone Formation))) 35.47%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C35987](http://purl.obolibrary.org/obo/NCIT_C35987) (Emperipolesis))) 35.47%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C35985](http://purl.obolibrary.org/obo/NCIT_C35985) (Hemophagocytosis))) 35.47%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C35984](http://purl.obolibrary.org/obo/NCIT_C35984) (Lymphoplasmacytic Infiltrate))) 35.47%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) 100.00%
+- [NCIT:C20570](http://purl.obolibrary.org/obo/NCIT_C20570) (HMG Family Gene) 100.00%
+- [NCIT:C20577](http://purl.obolibrary.org/obo/NCIT_C20577) (HMGA2 Gene) 75.00%
+- [NCIT:C20576](http://purl.obolibrary.org/obo/NCIT_C20576) (HMGA1 Gene) 75.00%
+- [NCIT:C54362](http://purl.obolibrary.org/obo/NCIT_C54362) (Transcription Regulation Gene) 58.51%
+- [NCIT:C16612](http://purl.obolibrary.org/obo/NCIT_C16612) (Gene) 54.23%
+- Thing 50.92%
+- CP:0000037 0.00%
+- CP:0000035 0.00%
+- CP:0000028 0.00%
+- CP:0000027 0.00%
+- CP:0000000 0.00%
+- [CHEBI:36342](http://purl.obolibrary.org/obo/CHEBI_36342) (subatomic particle) 0.00%
+- [CHEBI:24431](http://purl.obolibrary.org/obo/CHEBI_24431) (chemical entity) 0.00%
+- CARO:0010000 0.00%
 
 

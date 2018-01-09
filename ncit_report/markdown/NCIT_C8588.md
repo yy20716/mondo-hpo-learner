@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0013411](http://purl.obolibrary.org/obo/UBERON_0013411) (cranial cavity) 53.57%
-- [UBERON:0000474](http://purl.obolibrary.org/obo/UBERON_0000474) (female reproductive system) 53.57%
-- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) 53.57%
-- [CL:0000039](http://purl.obolibrary.org/obo/CL_0000039) (germ line cell) 53.57%
-- Thing 53.00%
-- [UBERON:0000990](http://purl.obolibrary.org/obo/UBERON_0000990) (reproductive system) 47.97%
-- [UBERON:0000990](http://purl.obolibrary.org/obo/UBERON_0000990) (reproductive system) and (not ([NCIT:C3756](http://purl.obolibrary.org/obo/NCIT_C3756) (Mixed Embryonal Carcinoma and Teratoma))) 47.97%
-- [UBERON:0000990](http://purl.obolibrary.org/obo/UBERON_0000990) (reproductive system) and (not ([NCIT:C3742](http://purl.obolibrary.org/obo/NCIT_C3742) (Myofibromatosis))) 47.97%
-- [UBERON:0000990](http://purl.obolibrary.org/obo/UBERON_0000990) (reproductive system) and (not ([NCIT:C3741](http://purl.obolibrary.org/obo/NCIT_C3741) (Abdominal (Mesenteric) Fibromatosis))) 47.97%
-- [UBERON:0000990](http://purl.obolibrary.org/obo/UBERON_0000990) (reproductive system) and (not ([NCIT:C3740](http://purl.obolibrary.org/obo/NCIT_C3740) (Bone Desmoplastic Fibroma))) 47.97%
-- [UBERON:0000990](http://purl.obolibrary.org/obo/UBERON_0000990) (reproductive system) and (not ([NCIT:C3736](http://purl.obolibrary.org/obo/NCIT_C3736) (Adrenal Gland Myelolipoma))) 47.97%
-- [UBERON:0000990](http://purl.obolibrary.org/obo/UBERON_0000990) (reproductive system) and (not ([NCIT:C37312](http://purl.obolibrary.org/obo/NCIT_C37312) (Loss of Chromosome 11q))) 47.97%
-- [UBERON:0000990](http://purl.obolibrary.org/obo/UBERON_0000990) (reproductive system) and (not ([NCIT:C37304](http://purl.obolibrary.org/obo/NCIT_C37304) (Multicentric Thyroid Gland Papillary Carcinoma))) 47.97%
-- [UBERON:0000990](http://purl.obolibrary.org/obo/UBERON_0000990) (reproductive system) and (not ([NCIT:C37268](http://purl.obolibrary.org/obo/NCIT_C37268) (Atypical Small Acinar Proliferation of the Prostate Gland))) 47.97%
-- [UBERON:0000990](http://purl.obolibrary.org/obo/UBERON_0000990) (reproductive system) and (not ([NCIT:C37265](http://purl.obolibrary.org/obo/NCIT_C37265) (Malignant Mixed Epithelial Stromal Tumor of the Kidney))) 47.97%
+- [NCIT:C34333](http://purl.obolibrary.org/obo/NCIT_C34333) (Abdominal Mass) 75.00%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C40122](http://purl.obolibrary.org/obo/NCIT_C40122) (Pelvic Pain))) 75.00%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C35272](http://purl.obolibrary.org/obo/NCIT_C35272) (Lower Abdominal Pain))) 75.00%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) 60.36%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion))) 60.36%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 60.36%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 60.36%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 60.36%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 60.36%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 60.36%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 60.36%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not (CARO:0010000)) 60.36%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 60.36%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null))) 60.36%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 52.52%
 
 

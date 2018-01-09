@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.75%
-- [CL:0000062](http://purl.obolibrary.org/obo/CL_0000062) (osteoblast) 52.27%
-- [NCIT:C36900](http://purl.obolibrary.org/obo/NCIT_C36900) (Neoplastic Osteoblast) 39.90%
-- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) 37.63%
-- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40271](http://purl.obolibrary.org/obo/NCIT_C40271) (Low Grade Endometrioid Stromal Sarcoma of the Vagina))) 37.63%
-- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C4027](http://purl.obolibrary.org/obo/NCIT_C4027) (Paget Disease of the Vulva))) 37.63%
-- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40264](http://purl.obolibrary.org/obo/NCIT_C40264) (Vaginal Undifferentiated Carcinoma))) 37.63%
-- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40263](http://purl.obolibrary.org/obo/NCIT_C40263) (Vaginal Small Cell Carcinoma))) 37.63%
-- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40261](http://purl.obolibrary.org/obo/NCIT_C40261) (Vaginal Adenoid Cystic Carcinoma))) 37.63%
-- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40260](http://purl.obolibrary.org/obo/NCIT_C40260) (Vaginal Adenosquamous Carcinoma))) 37.63%
-- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C4026](http://purl.obolibrary.org/obo/NCIT_C4026) (Ovarian Mucinous Cystadenocarcinoma))) 37.63%
-- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40259](http://purl.obolibrary.org/obo/NCIT_C40259) (Vaginal Villous Adenoma))) 37.63%
-- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40258](http://purl.obolibrary.org/obo/NCIT_C40258) (Vaginal Tubulovillous Adenoma))) 37.63%
-- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40257](http://purl.obolibrary.org/obo/NCIT_C40257) (Vaginal Tubular Adenoma))) 37.63%
-- [NCIT:C36901](http://purl.obolibrary.org/obo/NCIT_C36901) (Malignant Osteoblast) and (not ([NCIT:C40255](http://purl.obolibrary.org/obo/NCIT_C40255) (Vaginal Mullerian Papilloma))) 37.63%
+- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) 75.00%
+- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 75.00%
+- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:4100000](http://purl.obolibrary.org/obo/UBERON_4100000) (skeletal element projection))) 75.00%
+- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 75.00%
+- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 75.00%
+- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 75.00%
+- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 75.00%
+- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 75.00%
+- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 75.00%
+- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 75.00%
+- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 75.00%
+- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 75.00%
+- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:2001431](http://purl.obolibrary.org/obo/UBERON_2001431) (primitive olfactory epithelium))) 75.00%
+- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:2001073](http://purl.obolibrary.org/obo/UBERON_2001073) (axial vasculature))) 75.00%
+- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:2001053](http://purl.obolibrary.org/obo/UBERON_2001053) (future internal carotid artery))) 75.00%
 
 

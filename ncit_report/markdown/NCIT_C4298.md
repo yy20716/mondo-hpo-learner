@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C47826](http://purl.obolibrary.org/obo/NCIT_C47826) (Diffuse Lesion) 53.57%
-- [NCIT:C36105](http://purl.obolibrary.org/obo/NCIT_C36105) (Indolent Clinical Course) 53.57%
-- [NCIT:C35981](http://purl.obolibrary.org/obo/NCIT_C35981) (Eosinophilic Infiltrate) 53.57%
-- Thing 53.00%
-- [NCIT:C35983](http://purl.obolibrary.org/obo/NCIT_C35983) (Lymphocytic Infiltrate) 38.93%
-- [NCIT:C35979](http://purl.obolibrary.org/obo/NCIT_C35979) (Acute Inflammatory Infiltrate) 38.93%
-- [NCIT:C35979](http://purl.obolibrary.org/obo/NCIT_C35979) (Acute Inflammatory Infiltrate) and (not ([NCIT:C40127](http://purl.obolibrary.org/obo/NCIT_C40127) (Fallopian Tube Leiomyoma))) 38.93%
-- [NCIT:C35979](http://purl.obolibrary.org/obo/NCIT_C35979) (Acute Inflammatory Infiltrate) and (not ([NCIT:C40125](http://purl.obolibrary.org/obo/NCIT_C40125) (Fallopian Tube Adenosarcoma))) 38.93%
-- [NCIT:C35979](http://purl.obolibrary.org/obo/NCIT_C35979) (Acute Inflammatory Infiltrate) and (not ([NCIT:C40124](http://purl.obolibrary.org/obo/NCIT_C40124) (Fallopian Tube Carcinosarcoma))) 38.93%
-- [NCIT:C35979](http://purl.obolibrary.org/obo/NCIT_C35979) (Acute Inflammatory Infiltrate) and (not ([NCIT:C40122](http://purl.obolibrary.org/obo/NCIT_C40122) (Pelvic Pain))) 38.93%
-- [NCIT:C35979](http://purl.obolibrary.org/obo/NCIT_C35979) (Acute Inflammatory Infiltrate) and (not ([NCIT:C40116](http://purl.obolibrary.org/obo/NCIT_C40116) (Fallopian Tube Metaplastic Papillary Tumor))) 38.93%
-- [NCIT:C35979](http://purl.obolibrary.org/obo/NCIT_C35979) (Acute Inflammatory Infiltrate) and (not ([NCIT:C40114](http://purl.obolibrary.org/obo/NCIT_C40114) (Fallopian Tube Serous Cystadenofibroma))) 38.93%
-- [NCIT:C35979](http://purl.obolibrary.org/obo/NCIT_C35979) (Acute Inflammatory Infiltrate) and (not ([NCIT:C40112](http://purl.obolibrary.org/obo/NCIT_C40112) (Fallopian Tube Papilloma))) 38.93%
-- [NCIT:C35979](http://purl.obolibrary.org/obo/NCIT_C35979) (Acute Inflammatory Infiltrate) and (not ([NCIT:C40110](http://purl.obolibrary.org/obo/NCIT_C40110) (Borderline Fallopian Tube Endometrioid Tumor))) 38.93%
-- [NCIT:C35979](http://purl.obolibrary.org/obo/NCIT_C35979) (Acute Inflammatory Infiltrate) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 38.93%
+- Thing 51.30%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) 47.86%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C36518](http://purl.obolibrary.org/obo/NCIT_C36518) (t(7;19)(q34;q13)))) 47.86%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C36517](http://purl.obolibrary.org/obo/NCIT_C36517) (t(v;11q23.3)))) 47.86%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C36516](http://purl.obolibrary.org/obo/NCIT_C36516) (Loss of Chromosome 10q))) 47.86%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C36515](http://purl.obolibrary.org/obo/NCIT_C36515) (Loss of Chromosome 16q))) 47.86%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C36512](http://purl.obolibrary.org/obo/NCIT_C36512) (Loss of Chromosome 10p))) 47.86%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C36509](http://purl.obolibrary.org/obo/NCIT_C36509) (Monosomy 17))) 47.86%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C36506](http://purl.obolibrary.org/obo/NCIT_C36506) (Loss of Chromosome 22q))) 47.86%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C36505](http://purl.obolibrary.org/obo/NCIT_C36505) (Loss of Chromosome 11p))) 47.86%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C36504](http://purl.obolibrary.org/obo/NCIT_C36504) (Loss of Chromosome 6))) 47.86%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C36503](http://purl.obolibrary.org/obo/NCIT_C36503) (Loss of Chromosome 8p))) 47.86%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C36502](http://purl.obolibrary.org/obo/NCIT_C36502) (Loss of Chromosome 3p))) 47.86%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C36501](http://purl.obolibrary.org/obo/NCIT_C36501) (Loss of Chromosome 1p))) 47.86%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C36500](http://purl.obolibrary.org/obo/NCIT_C36500) (Loss of Chromosome 6p))) 47.86%
 
 

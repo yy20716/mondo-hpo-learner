@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.20%
-- [UBERON:0012652](http://purl.obolibrary.org/obo/UBERON_0012652) (colorectum) 53.12%
-- [UBERON:0001555](http://purl.obolibrary.org/obo/UBERON_0001555) (digestive tract) 53.12%
-- [UBERON:0001052](http://purl.obolibrary.org/obo/UBERON_0001052) (rectum) 53.12%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 38.48%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38441](http://purl.obolibrary.org/obo/NCIT_C38441) (Interleukin-2 Overexpression))) 38.48%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38439](http://purl.obolibrary.org/obo/NCIT_C38439) (Mature Lymphocyte))) 38.48%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38436](http://purl.obolibrary.org/obo/NCIT_C38436) (Mature B-Lymphocyte at the Germinal Center Stage of Differentiation))) 38.48%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3843](http://purl.obolibrary.org/obo/NCIT_C3843) (Malignant Ovarian Cyst))) 38.48%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38423](http://purl.obolibrary.org/obo/NCIT_C38423) (Pleomorphic Reed-Sternberg Cell))) 38.48%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38408](http://purl.obolibrary.org/obo/NCIT_C38408) (Progressive Transformation of Germinal Centers))) 38.48%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38407](http://purl.obolibrary.org/obo/NCIT_C38407) (C-KIT Somatic Point Mutation))) 38.48%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38393](http://purl.obolibrary.org/obo/NCIT_C38393) (KMT2A-EEN Fusion Protein Expression))) 38.48%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38392](http://purl.obolibrary.org/obo/NCIT_C38392) (KMT2A-ELL Fusion Protein Expression))) 38.48%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C38391](http://purl.obolibrary.org/obo/NCIT_C38391) (KMT2A-ENL Fusion Protein Expression))) 38.48%
+- [UBERON:0001052](http://purl.obolibrary.org/obo/UBERON_0001052) (rectum) 75.00%
+- [NCIT:C40560](http://purl.obolibrary.org/obo/NCIT_C40560) (Exophytic Polypoid Lesion) 75.00%
+- Thing 50.92%
+- [UBERON:0004921](http://purl.obolibrary.org/obo/UBERON_0004921) (subdivision of digestive tract) 34.28%
+- [UBERON:0013522](http://purl.obolibrary.org/obo/UBERON_0013522) (subdivision of tube) 31.80%
+- [NCIT:C3824](http://purl.obolibrary.org/obo/NCIT_C3824) (Lesion) 31.25%
+- [UBERON:0000064](http://purl.obolibrary.org/obo/UBERON_0000064) (organ part) 27.65%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 26.78%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 26.36%
+- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 26.31%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 26.28%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 26.21%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 26.13%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 26.12%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 26.03%
 
 

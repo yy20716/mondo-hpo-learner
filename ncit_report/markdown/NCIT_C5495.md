@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.00%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37268](http://purl.obolibrary.org/obo/NCIT_C37268) (Atypical Small Acinar Proliferation of the Prostate Gland))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37265](http://purl.obolibrary.org/obo/NCIT_C37265) (Malignant Mixed Epithelial Stromal Tumor of the Kidney))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37264](http://purl.obolibrary.org/obo/NCIT_C37264) (Benign Mixed Epithelial Stromal Tumor of the Kidney))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37258](http://purl.obolibrary.org/obo/NCIT_C37258) (Paraganglioma-Like Dermal Melanocytic Tumor))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37253](http://purl.obolibrary.org/obo/NCIT_C37253) (HMGA2-LPP Fusion Protein Expression))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37252](http://purl.obolibrary.org/obo/NCIT_C37252) (EWSR1-PATZ1 Fusion Protein Expression))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37251](http://purl.obolibrary.org/obo/NCIT_C37251) (t(1;22)(p36.1;q12)))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37250](http://purl.obolibrary.org/obo/NCIT_C37250) (EWSR1-FEV Fusion Protein Expression))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37249](http://purl.obolibrary.org/obo/NCIT_C37249) (t(2;22)(q33;q12)))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37248](http://purl.obolibrary.org/obo/NCIT_C37248) (ASPL-TFE3 Fusion Protein Expression))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37244](http://purl.obolibrary.org/obo/NCIT_C37244) (FUS-ATF1 Fusion Protein Expression))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37243](http://purl.obolibrary.org/obo/NCIT_C37243) (ETV6-NTRK3 Fusion Protein Expression))) 38.93%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37242](http://purl.obolibrary.org/obo/NCIT_C37242) (HAS2-PLAG1 Fusion Protein Expression))) 38.93%
+- [UBERON:0001155](http://purl.obolibrary.org/obo/UBERON_0001155) (colon) 75.00%
+- [NCIT:C32931](http://purl.obolibrary.org/obo/NCIT_C32931) (Large Intestinal Wall Tissue) 75.00%
+- [UBERON:0000064](http://purl.obolibrary.org/obo/UBERON_0000064) (organ part) 53.74%
+- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 51.86%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 51.81%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 51.70%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 51.60%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 51.59%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 51.45%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 51.44%
+- Thing 50.92%
+- [UBERON:0001262](http://purl.obolibrary.org/obo/UBERON_0001262) (wall of intestine) 50.00%
+- [UBERON:0000328](http://purl.obolibrary.org/obo/UBERON_0000328) (gut wall) 45.41%
+- [UBERON:0000060](http://purl.obolibrary.org/obo/UBERON_0000060) (anatomical wall) 37.13%
+- [UBERON:0004921](http://purl.obolibrary.org/obo/UBERON_0004921) (subdivision of digestive tract) 34.28%
 
 

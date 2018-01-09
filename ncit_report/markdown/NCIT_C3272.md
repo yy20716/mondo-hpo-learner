@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C41413](http://purl.obolibrary.org/obo/NCIT_C41413) (Neoplastic Perineural Cell) and (not ([NCIT:C37154](http://purl.obolibrary.org/obo/NCIT_C37154) (Neoplastic Perineurial Cell))) 54.84%
-- [NCIT:C37152](http://purl.obolibrary.org/obo/NCIT_C37152) (Neoplastic Perineurial-Like Cell) 53.85%
-- [NCIT:C37151](http://purl.obolibrary.org/obo/NCIT_C37151) (Neoplastic Schwann Cell) 53.85%
-- [NCIT:C36959](http://purl.obolibrary.org/obo/NCIT_C36959) (Neoplastic Fibroblast-Like Cell) 53.85%
-- [NCIT:C28077](http://purl.obolibrary.org/obo/NCIT_C28077) (Grade 1) 53.85%
-- Thing 52.89%
-- [NCIT:C41413](http://purl.obolibrary.org/obo/NCIT_C41413) (Neoplastic Perineural Cell) 50.27%
-- [NCIT:C41413](http://purl.obolibrary.org/obo/NCIT_C41413) (Neoplastic Perineural Cell) and (not ([NCIT:C39689](http://purl.obolibrary.org/obo/NCIT_C39689) (Multicentric Cutaneous Involvement))) 50.27%
-- [NCIT:C41413](http://purl.obolibrary.org/obo/NCIT_C41413) (Neoplastic Perineural Cell) and (not ([NCIT:C39688](http://purl.obolibrary.org/obo/NCIT_C39688) (Localized Skin Lesion))) 50.27%
-- [NCIT:C41413](http://purl.obolibrary.org/obo/NCIT_C41413) (Neoplastic Perineural Cell) and (not ([NCIT:C39687](http://purl.obolibrary.org/obo/NCIT_C39687) (Activated Mature Cytotoxic T-Lymphocyte))) 50.27%
-- [NCIT:C41413](http://purl.obolibrary.org/obo/NCIT_C41413) (Neoplastic Perineural Cell) and (not ([NCIT:C39686](http://purl.obolibrary.org/obo/NCIT_C39686) (Activated Skin-Homing T-Lymphocyte))) 50.27%
-- [NCIT:C41413](http://purl.obolibrary.org/obo/NCIT_C41413) (Neoplastic Perineural Cell) and (not ([NCIT:C39682](http://purl.obolibrary.org/obo/NCIT_C39682) (Flower-Like T-Lymphocyte))) 50.27%
-- [NCIT:C41413](http://purl.obolibrary.org/obo/NCIT_C41413) (Neoplastic Perineural Cell) and (not ([NCIT:C39681](http://purl.obolibrary.org/obo/NCIT_C39681) (Neoplastic Small to Medium-Sized T-Lymphocyte with Irregular Nucleus))) 50.27%
-- [NCIT:C41413](http://purl.obolibrary.org/obo/NCIT_C41413) (Neoplastic Perineural Cell) and (not ([NCIT:C39680](http://purl.obolibrary.org/obo/NCIT_C39680) (Doughnut Cell))) 50.27%
-- [NCIT:C41413](http://purl.obolibrary.org/obo/NCIT_C41413) (Neoplastic Perineural Cell) and (not ([NCIT:C39679](http://purl.obolibrary.org/obo/NCIT_C39679) (Hallmark Cell))) 50.27%
+- [NCIT:C37152](http://purl.obolibrary.org/obo/NCIT_C37152) (Neoplastic Perineurial-Like Cell) 55.56%
+- [NCIT:C37151](http://purl.obolibrary.org/obo/NCIT_C37151) (Neoplastic Schwann Cell) 55.56%
+- [NCIT:C36959](http://purl.obolibrary.org/obo/NCIT_C36959) (Neoplastic Fibroblast-Like Cell) 55.56%
+- [NCIT:C28077](http://purl.obolibrary.org/obo/NCIT_C28077) (Grade 1) 55.56%
+- [NCIT:C17424](http://purl.obolibrary.org/obo/NCIT_C17424) (NF1 Gene) 55.56%
+- Thing 51.95%
+- [NCIT:C41413](http://purl.obolibrary.org/obo/NCIT_C41413) (Neoplastic Perineural Cell) 42.73%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) 40.91%
+- [CL:0000186](http://purl.obolibrary.org/obo/CL_0000186) (myofibroblast cell) 40.91%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C37030](http://purl.obolibrary.org/obo/NCIT_C37030) (Toxic Neutrophil))) 40.91%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C37027](http://purl.obolibrary.org/obo/NCIT_C37027) (Popcorn Cell))) 40.91%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C37026](http://purl.obolibrary.org/obo/NCIT_C37026) (Hodgkin-Like Cell))) 40.91%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C37025](http://purl.obolibrary.org/obo/NCIT_C37025) (Mummified Cell))) 40.91%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C37024](http://purl.obolibrary.org/obo/NCIT_C37024) (Reed-Sternberg-Like Cell))) 40.91%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C37023](http://purl.obolibrary.org/obo/NCIT_C37023) (Lacunar Reed-Sternberg Cell))) 40.91%
 
 

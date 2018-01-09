@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C41443](http://purl.obolibrary.org/obo/NCIT_C41443) (Nerve Tissue and Nerve Sheaths) 59.09%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) 59.09%
-- [CL:0000186](http://purl.obolibrary.org/obo/CL_0000186) (myofibroblast cell) 59.09%
-- [NCIT:C41442](http://purl.obolibrary.org/obo/NCIT_C41442) (Perineurial Cell) 54.55%
-- [NCIT:C41439](http://purl.obolibrary.org/obo/NCIT_C41439) (Nerve Sheath) 54.55%
-- [NCIT:C37154](http://purl.obolibrary.org/obo/NCIT_C37154) (Neoplastic Perineurial Cell) 54.55%
-- [NCIT:C12964](http://purl.obolibrary.org/obo/NCIT_C12964) (Connective and Soft Tissue) and [NCIT:C41443](http://purl.obolibrary.org/obo/NCIT_C41443) (Nerve Tissue and Nerve Sheaths) 54.55%
-- [NCIT:C12964](http://purl.obolibrary.org/obo/NCIT_C12964) (Connective and Soft Tissue) and [NCIT:C41406](http://purl.obolibrary.org/obo/NCIT_C41406) (Nerve Tissue, Neuroepithelial Tissue, and Nerve Sheaths) 54.55%
-- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and [NCIT:C41443](http://purl.obolibrary.org/obo/NCIT_C41443) (Nerve Tissue and Nerve Sheaths) 54.55%
-- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) and [NCIT:C41406](http://purl.obolibrary.org/obo/NCIT_C41406) (Nerve Tissue, Neuroepithelial Tissue, and Nerve Sheaths) 54.55%
-- Thing 52.66%
-- [NCIT:C41406](http://purl.obolibrary.org/obo/NCIT_C41406) (Nerve Tissue, Neuroepithelial Tissue, and Nerve Sheaths) 46.37%
-- [NCIT:C41413](http://purl.obolibrary.org/obo/NCIT_C41413) (Neoplastic Perineural Cell) 40.71%
-- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) 33.41%
-- [CL:0000183](http://purl.obolibrary.org/obo/CL_0000183) (contractile cell) 31.45%
+- [NCIT:C41442](http://purl.obolibrary.org/obo/NCIT_C41442) (Perineurial Cell) 60.00%
+- Thing 51.45%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) 45.36%
+- [CL:0000186](http://purl.obolibrary.org/obo/CL_0000186) (myofibroblast cell) 45.36%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C37084](http://purl.obolibrary.org/obo/NCIT_C37084) (Hyperchromatic Spindle Cell))) 45.36%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C37078](http://purl.obolibrary.org/obo/NCIT_C37078) (Pseudo-Gaucher Cell))) 45.36%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C37076](http://purl.obolibrary.org/obo/NCIT_C37076) (Neoplastic Neutrophilic Precursor))) 45.36%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C37075](http://purl.obolibrary.org/obo/NCIT_C37075) (Neoplastic Promonocyte))) 45.36%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C37074](http://purl.obolibrary.org/obo/NCIT_C37074) (Hypogranular Promyelocyte))) 45.36%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C37073](http://purl.obolibrary.org/obo/NCIT_C37073) (Hypergranular Promyelocyte))) 45.36%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C37071](http://purl.obolibrary.org/obo/NCIT_C37071) (Neoplastic T-Lymphoblast))) 45.36%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C37070](http://purl.obolibrary.org/obo/NCIT_C37070) (Neoplastic B-Lymphoblast))) 45.36%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C3707](http://purl.obolibrary.org/obo/NCIT_C3707) (Meningiomatosis))) 45.36%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C37068](http://purl.obolibrary.org/obo/NCIT_C37068) (Neoplastic Megakaryoblast))) 45.36%
+- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C37063](http://purl.obolibrary.org/obo/NCIT_C37063) (Immature Malignant Mast Cell))) 45.36%
 
 

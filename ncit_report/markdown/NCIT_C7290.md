@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) 54.25%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C3880](http://purl.obolibrary.org/obo/NCIT_C3880) (Eyelid Nevus))) 54.25%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C38784](http://purl.obolibrary.org/obo/NCIT_C38784) (Apoptosis Pathway))) 54.25%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C38770](http://purl.obolibrary.org/obo/NCIT_C38770) (Squamous Differentiation))) 54.25%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C38762](http://purl.obolibrary.org/obo/NCIT_C38762) (Thyroid Gland Mucoepidermoid Carcinoma))) 54.25%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C3876](http://purl.obolibrary.org/obo/NCIT_C3876) (Gastric Leiomyoma))) 54.25%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C38759](http://purl.obolibrary.org/obo/NCIT_C38759) (EBV Infection))) 54.25%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C38732](http://purl.obolibrary.org/obo/NCIT_C38732) (Defective Alpha Heavy Chain Present))) 54.25%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C38731](http://purl.obolibrary.org/obo/NCIT_C38731) (Villous Atrophy))) 54.25%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C38730](http://purl.obolibrary.org/obo/NCIT_C38730) (Lymphoepithelial Lesion))) 54.25%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C38727](http://purl.obolibrary.org/obo/NCIT_C38727) (Villous Lymphocyte))) 54.25%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C38721](http://purl.obolibrary.org/obo/NCIT_C38721) (Nuclear Pleomorphism))) 54.25%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C38710](http://purl.obolibrary.org/obo/NCIT_C38710) (Defective Gamma Heavy Chain Present))) 54.25%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C3870](http://purl.obolibrary.org/obo/NCIT_C3870) (Lymphangitic Carcinomatosis))) 54.25%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C38698](http://purl.obolibrary.org/obo/NCIT_C38698) (Hyperviscosity))) 54.25%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) 75.00%
+- [NCIT:C36601](http://purl.obolibrary.org/obo/NCIT_C36601) (Tetrasomy) and (not ([NCIT:C37867](http://purl.obolibrary.org/obo/NCIT_C37867) (Tetrasomy 7))) 75.00%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 75.00%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 75.00%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 75.00%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 75.00%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 75.00%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 75.00%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 75.00%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 75.00%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 75.00%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 75.00%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 75.00%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) and (not ([UBERON:2001431](http://purl.obolibrary.org/obo/UBERON_2001431) (primitive olfactory epithelium))) 75.00%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) and (not ([UBERON:2001073](http://purl.obolibrary.org/obo/UBERON_2001073) (axial vasculature))) 75.00%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0001016](http://purl.obolibrary.org/obo/UBERON_0001016) (nervous system) 62.50%
-- [NCIT:C41457](http://purl.obolibrary.org/obo/NCIT_C41457) (Well-Circumscribed Lesion) 62.50%
-- [CL:0002379](http://purl.obolibrary.org/obo/CL_0002379) (meningothelial cell) 62.50%
-- Thing 51.60%
-- [NCIT:C37155](http://purl.obolibrary.org/obo/NCIT_C37155) (Neoplastic Meningothelial Cell) 32.91%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 27.01%
-- [CL:0000710](http://purl.obolibrary.org/obo/CL_0000710) (neurecto-epithelial cell) 24.29%
-- [CL:0002077](http://purl.obolibrary.org/obo/CL_0002077) (ecto-epithelial cell) 23.68%
-- [CL:0000075](http://purl.obolibrary.org/obo/CL_0000075) (columnar/cuboidal epithelial cell) 22.93%
-- [CL:0002371](http://purl.obolibrary.org/obo/CL_0002371) (somatic cell) 16.57%
-- [CL:0000548](http://purl.obolibrary.org/obo/CL_0000548) (animal cell) 16.42%
-- [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) 16.42%
-- [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) (native cell) 16.21%
-- [GO:0005623](http://purl.obolibrary.org/obo/GO_0005623) (cell) 16.20%
-- [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000) (cell) 16.13%
+- [UBERON:0001016](http://purl.obolibrary.org/obo/UBERON_0001016) (nervous system) 75.00%
+- [NCIT:C41457](http://purl.obolibrary.org/obo/NCIT_C41457) (Well-Circumscribed Lesion) 75.00%
+- Thing 50.92%
+- [UBERON:0000467](http://purl.obolibrary.org/obo/UBERON_0000467) (anatomical system) 32.81%
+- [NCIT:C3824](http://purl.obolibrary.org/obo/NCIT_C3824) (Lesion) 31.25%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 26.78%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 26.36%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 26.28%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 26.21%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 26.13%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 26.12%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 26.03%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 26.02%
+- CP:0000037 0.00%
+- CP:0000035 0.00%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.53%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) 36.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40128](http://purl.obolibrary.org/obo/NCIT_C40128) (Fallopian Tube Leiomyosarcoma))) 36.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40127](http://purl.obolibrary.org/obo/NCIT_C40127) (Fallopian Tube Leiomyoma))) 36.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40125](http://purl.obolibrary.org/obo/NCIT_C40125) (Fallopian Tube Adenosarcoma))) 36.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40124](http://purl.obolibrary.org/obo/NCIT_C40124) (Fallopian Tube Carcinosarcoma))) 36.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40122](http://purl.obolibrary.org/obo/NCIT_C40122) (Pelvic Pain))) 36.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40116](http://purl.obolibrary.org/obo/NCIT_C40116) (Fallopian Tube Metaplastic Papillary Tumor))) 36.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40114](http://purl.obolibrary.org/obo/NCIT_C40114) (Fallopian Tube Serous Cystadenofibroma))) 36.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40112](http://purl.obolibrary.org/obo/NCIT_C40112) (Fallopian Tube Papilloma))) 36.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40110](http://purl.obolibrary.org/obo/NCIT_C40110) (Borderline Fallopian Tube Endometrioid Tumor))) 36.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 36.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 36.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40104](http://purl.obolibrary.org/obo/NCIT_C40104) (Fallopian Tube Transitional Cell Carcinoma))) 36.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40103](http://purl.obolibrary.org/obo/NCIT_C40103) (Fallopian Tube Mucinous Adenocarcinoma))) 36.92%
+- [NCIT:C36445](http://purl.obolibrary.org/obo/NCIT_C36445) (Clonal Immunoglobulin Light Chain Gene Rearrangement) 57.14%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) 54.02%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C27886](http://purl.obolibrary.org/obo/NCIT_C27886) (Type 1 Papillary Renal Cell Carcinoma))) 54.02%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C27882](http://purl.obolibrary.org/obo/NCIT_C27882) (Bladder Low Grade Intraurothelial Neoplasia))) 54.02%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C27876](http://purl.obolibrary.org/obo/NCIT_C27876) (Non-Invasive Bladder Papillary Urothelial Carcinoma, High Grade))) 54.02%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C27854](http://purl.obolibrary.org/obo/NCIT_C27854) (Angiofollicular Lymphoid Hyperplasia, Plasma Cell Type))) 54.02%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C27853](http://purl.obolibrary.org/obo/NCIT_C27853) (Angiofollicular Lymphoid Hyperplasia, Hyaline-Vascular Type))) 54.02%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C27851](http://purl.obolibrary.org/obo/NCIT_C27851) (Human Papillomavirus Infection))) 54.02%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C27850](http://purl.obolibrary.org/obo/NCIT_C27850) (Endometrial Endometrioid Adenocarcinoma with Spindled Epithelial Cells))) 54.02%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C27849](http://purl.obolibrary.org/obo/NCIT_C27849) (Oxyphilic Endometrial Endometrioid Adenocarcinoma))) 54.02%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C27846](http://purl.obolibrary.org/obo/NCIT_C27846) (Villoglandular Endometrial Endometrioid Adenocarcinoma))) 54.02%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C27845](http://purl.obolibrary.org/obo/NCIT_C27845) (Endometrial Endometrioid Adenocarcinoma with an Undifferentiated Carcinomatous Component))) 54.02%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C27844](http://purl.obolibrary.org/obo/NCIT_C27844) (Endometrial Endometrioid Adenocarcinoma with a Poorly Differentiated Carcinomatous Component))) 54.02%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C27843](http://purl.obolibrary.org/obo/NCIT_C27843) (Endometrial Endometrioid Adenocarcinoma with Clear Cell Change))) 54.02%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C27839](http://purl.obolibrary.org/obo/NCIT_C27839) (Endometrial Endometrioid Adenocarcinoma, Secretory Variant))) 54.02%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell) 54.55%
-- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) 54.55%
-- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and [NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell) 54.55%
-- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) 54.55%
-- Thing 52.66%
-- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) 39.90%
-- [NCIT:C36769](http://purl.obolibrary.org/obo/NCIT_C36769) (Abnormal Myoepithelial Cell) 39.90%
-- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 39.90%
-- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 39.90%
-- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 39.90%
-- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 39.90%
-- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 39.90%
-- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 39.90%
-- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40034](http://purl.obolibrary.org/obo/NCIT_C40034) (Ovarian Mucinous Adenocarcinofibroma))) 39.90%
-- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40032](http://purl.obolibrary.org/obo/NCIT_C40032) (Ovarian Serous Cystadenofibroma))) 39.90%
+- [NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell) 66.67%
+- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) 66.67%
+- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and [NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell) 66.67%
+- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) 66.67%
+- [NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 66.67%
+- [NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 66.67%
+- [NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell) and (not ([UBERON:4100000](http://purl.obolibrary.org/obo/UBERON_4100000) (skeletal element projection))) 66.67%
+- [NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 66.67%
+- [NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 66.67%
+- [NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 66.67%
+- [NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 66.67%
+- [NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 66.67%
+- [NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 66.67%
+- [NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 66.67%
+- [NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 66.67%
 
 

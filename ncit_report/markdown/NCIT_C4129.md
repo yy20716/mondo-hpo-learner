@@ -2,24 +2,24 @@
 ### [NCIT:C4129](http://purl.obolibrary.org/obo/NCIT_C4129)
 **Label:** Bile Duct Mucinous Cystic Neoplasm
 
-**Subclasses:** [NCIT:C5851](http://purl.obolibrary.org/obo/NCIT_C5851) (Extrahepatic Bile Duct Mucinous Cystic Neoplasm), [NCIT:C96835](http://purl.obolibrary.org/obo/NCIT_C96835) (Intrahepatic Bile Duct Mucinous Cystic Neoplasm), [NCIT:C96946](http://purl.obolibrary.org/obo/NCIT_C96946) (Extrahepatic Bile Duct Mucinous Cystic Neoplasm with an Associated Invasive Carcinoma), [NCIT:C96836](http://purl.obolibrary.org/obo/NCIT_C96836) (Bile Duct Mucinous Cystic Neoplasm with Low Grade Intraepithelial Neoplasia), [NCIT:C96947](http://purl.obolibrary.org/obo/NCIT_C96947) (Intrahepatic Bile Duct Mucinous Cystic Neoplasm with an Associated Invasive Carcinoma), [NCIT:C4130](http://purl.obolibrary.org/obo/NCIT_C4130) (Bile Duct Mucinous Cystic Neoplasm with an Associated Invasive Carcinoma), [NCIT:C96838](http://purl.obolibrary.org/obo/NCIT_C96838) (Bile Duct Mucinous Cystic Neoplasm with High Grade Intraepithelial Neoplasia), 
+**Subclasses:** [NCIT:C5851](http://purl.obolibrary.org/obo/NCIT_C5851) (Extrahepatic Bile Duct Mucinous Cystic Neoplasm), [NCIT:C96835](http://purl.obolibrary.org/obo/NCIT_C96835) (Intrahepatic Bile Duct Mucinous Cystic Neoplasm), [NCIT:C96836](http://purl.obolibrary.org/obo/NCIT_C96836) (Bile Duct Mucinous Cystic Neoplasm with Low Grade Intraepithelial Neoplasia), [NCIT:C96946](http://purl.obolibrary.org/obo/NCIT_C96946) (Extrahepatic Bile Duct Mucinous Cystic Neoplasm with an Associated Invasive Carcinoma), [NCIT:C96947](http://purl.obolibrary.org/obo/NCIT_C96947) (Intrahepatic Bile Duct Mucinous Cystic Neoplasm with an Associated Invasive Carcinoma), [NCIT:C4130](http://purl.obolibrary.org/obo/NCIT_C4130) (Bile Duct Mucinous Cystic Neoplasm with an Associated Invasive Carcinoma), [NCIT:C96838](http://purl.obolibrary.org/obo/NCIT_C96838) (Bile Duct Mucinous Cystic Neoplasm with High Grade Intraepithelial Neoplasia), 
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C34333](http://purl.obolibrary.org/obo/NCIT_C34333) (Abdominal Mass) 57.14%
-- Thing 52.12%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) 42.50%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 42.50%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 42.50%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 42.50%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 42.50%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 42.50%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 42.50%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 42.50%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 42.50%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C39963](http://purl.obolibrary.org/obo/NCIT_C39963) (Penile Bowenoid Papulosis))) 42.50%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C39961](http://purl.obolibrary.org/obo/NCIT_C39961) (Penile Basal Cell Carcinoma))) 42.50%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C39959](http://purl.obolibrary.org/obo/NCIT_C39959) (Mixed Squamous Cell Carcinoma of the Penis))) 42.50%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C39957](http://purl.obolibrary.org/obo/NCIT_C39957) (Epididymal Adenocarcinoma))) 42.50%
+- [NCIT:C34333](http://purl.obolibrary.org/obo/NCIT_C34333) (Abdominal Mass) 58.33%
+- Thing 51.59%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) 43.69%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C36134](http://purl.obolibrary.org/obo/NCIT_C36134) (Undifferentiated Lesion))) 43.69%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C36133](http://purl.obolibrary.org/obo/NCIT_C36133) (Well Differentiated Lesion))) 43.69%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C36132](http://purl.obolibrary.org/obo/NCIT_C36132) (Poorly Differentiated Lesion))) 43.69%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C36131](http://purl.obolibrary.org/obo/NCIT_C36131) (Moderately Differentiated Lesion))) 43.69%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C36130](http://purl.obolibrary.org/obo/NCIT_C36130) (Low Grade Lesion))) 43.69%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C36129](http://purl.obolibrary.org/obo/NCIT_C36129) (High Grade Lesion))) 43.69%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C36128](http://purl.obolibrary.org/obo/NCIT_C36128) (Comedo Necrosis))) 43.69%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C36123](http://purl.obolibrary.org/obo/NCIT_C36123) (Necrotic Lesion))) 43.69%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C36122](http://purl.obolibrary.org/obo/NCIT_C36122) (Benign Cellular Infiltrate))) 43.69%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C36121](http://purl.obolibrary.org/obo/NCIT_C36121) (Villous Pattern))) 43.69%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C36118](http://purl.obolibrary.org/obo/NCIT_C36118) (In Situ Lesion))) 43.69%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C36117](http://purl.obolibrary.org/obo/NCIT_C36117) (Invasive Lesion))) 43.69%
 
 

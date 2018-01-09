@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C32052](http://purl.obolibrary.org/obo/NCIT_C32052) (Alpha Cell))) 54.17%
-- Thing 52.77%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) 39.52%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C3596](http://purl.obolibrary.org/obo/NCIT_C3596) (Benign Hypopharyngeal Neoplasm))) 39.52%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35956](http://purl.obolibrary.org/obo/NCIT_C35956) (Fibrinoid Necrosis))) 39.52%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35955](http://purl.obolibrary.org/obo/NCIT_C35955) (Absence of Stromal Invasion))) 39.52%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35954](http://purl.obolibrary.org/obo/NCIT_C35954) (Stromal Invasion))) 39.52%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35951](http://purl.obolibrary.org/obo/NCIT_C35951) (Keratin Pearls Formation))) 39.52%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35946](http://purl.obolibrary.org/obo/NCIT_C35946) (Multilayered Rosette Formation))) 39.52%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35944](http://purl.obolibrary.org/obo/NCIT_C35944) (Ependymal Rosette Formation))) 39.52%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35942](http://purl.obolibrary.org/obo/NCIT_C35942) (Homer Wright Rosette Formation))) 39.52%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35941](http://purl.obolibrary.org/obo/NCIT_C35941) (Flexner-Wintersteiner Rosette Formation))) 39.52%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35938](http://purl.obolibrary.org/obo/NCIT_C35938) (Epithelioid Differentiation))) 39.52%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35937](http://purl.obolibrary.org/obo/NCIT_C35937) (Rhabdomyosarcomatous Differentiation))) 39.52%
-- [NCIT:C12573](http://purl.obolibrary.org/obo/NCIT_C12573) (Endocrine Cell of the Digestive System) and (not ([NCIT:C35933](http://purl.obolibrary.org/obo/NCIT_C35933) (Distantly Metastatic Malignant Neoplasm))) 39.52%
+- [UBERON:0001043](http://purl.obolibrary.org/obo/UBERON_0001043) (esophagus) 75.00%
+- [NCIT:C2980](http://purl.obolibrary.org/obo/NCIT_C2980) (Dysphagia) 75.00%
+- Thing 50.92%
+- [NCIT:C3368](http://purl.obolibrary.org/obo/NCIT_C3368) (Digestive System Signs and Symptoms) 38.36%
+- [NCIT:C36279](http://purl.obolibrary.org/obo/NCIT_C36279) (Digestive System Finding) 37.13%
+- [NCIT:C100104](http://purl.obolibrary.org/obo/NCIT_C100104) (Sign or Symptom) 30.85%
+- [NCIT:C36278](http://purl.obolibrary.org/obo/NCIT_C36278) (Finding by Site or System) 29.03%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 26.78%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 26.36%
+- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 26.31%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 26.28%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 26.21%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 26.13%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 26.12%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 26.03%
 
 

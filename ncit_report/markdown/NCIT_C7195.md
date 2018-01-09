@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.92%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) 37.44%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40193](http://purl.obolibrary.org/obo/NCIT_C40193) (Cervical Lymphoepithelioma-Like Carcinoma))) 37.44%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40191](http://purl.obolibrary.org/obo/NCIT_C40191) (Cervical Warty Carcinoma))) 37.44%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40190](http://purl.obolibrary.org/obo/NCIT_C40190) (Cervical Verrucous Carcinoma))) 37.44%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C4019](http://purl.obolibrary.org/obo/NCIT_C4019) (Paget Disease and Intraductal Carcinoma of the Breast))) 37.44%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40189](http://purl.obolibrary.org/obo/NCIT_C40189) (Cervical Basaloid Carcinoma))) 37.44%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40187](http://purl.obolibrary.org/obo/NCIT_C40187) (Cervical Keratinizing Squamous Cell Carcinoma))) 37.44%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40182](http://purl.obolibrary.org/obo/NCIT_C40182) (Uterine Corpus Carcinofibroma))) 37.44%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40177](http://purl.obolibrary.org/obo/NCIT_C40177) (Uterine Corpus Smooth Muscle Tumor of Uncertain Malignant Potential))) 37.44%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40175](http://purl.obolibrary.org/obo/NCIT_C40175) (Uterine Corpus Myxoid Leiomyosarcoma))) 37.44%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40174](http://purl.obolibrary.org/obo/NCIT_C40174) (Uterine Corpus Epithelioid Leiomyosarcoma))) 37.44%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40170](http://purl.obolibrary.org/obo/NCIT_C40170) (Uterine Corpus Diffuse Leiomyomatosis))) 37.44%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40168](http://purl.obolibrary.org/obo/NCIT_C40168) (Uterine Corpus Lipoleiomyoma))) 37.44%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C40167](http://purl.obolibrary.org/obo/NCIT_C40167) (Uterine Corpus Bizarre Leiomyoma))) 37.44%
+- [NCIT:C37026](http://purl.obolibrary.org/obo/NCIT_C37026) (Hodgkin-Like Cell) 54.55%
+- [NCIT:C37024](http://purl.obolibrary.org/obo/NCIT_C37024) (Reed-Sternberg-Like Cell) 54.55%
+- [NCIT:C36448](http://purl.obolibrary.org/obo/NCIT_C36448) (Clonal T-Cell Receptor Gamma Chain Gene Rearrangement) 54.55%
+- [NCIT:C36447](http://purl.obolibrary.org/obo/NCIT_C36447) (Clonal T-Cell Receptor Beta Chain Gene Rearrangement) 54.55%
+- Thing 52.16%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) 49.92%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12))) 49.92%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36599](http://purl.obolibrary.org/obo/NCIT_C36599) (Loss of Chromosome Y))) 49.92%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36598](http://purl.obolibrary.org/obo/NCIT_C36598) (Loss of Chromosome 18))) 49.92%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36597](http://purl.obolibrary.org/obo/NCIT_C36597) (Loss of Chromosome 1))) 49.92%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36596](http://purl.obolibrary.org/obo/NCIT_C36596) (Gain of Chromosome 6q))) 49.92%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36595](http://purl.obolibrary.org/obo/NCIT_C36595) (Loss of Chromosome 16p))) 49.92%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36594](http://purl.obolibrary.org/obo/NCIT_C36594) (del(6q21q25)))) 49.92%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36593](http://purl.obolibrary.org/obo/NCIT_C36593) (Increased NFkappaB Pathway Activation))) 49.92%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36592](http://purl.obolibrary.org/obo/NCIT_C36592) (Gain of Chromosome 9q34))) 49.92%
 
 

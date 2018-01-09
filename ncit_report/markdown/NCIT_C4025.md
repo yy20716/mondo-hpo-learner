@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.53%
-- [NCIT:C39629](http://purl.obolibrary.org/obo/NCIT_C39629) (CDKN2A Gene Inactivation) 51.56%
-- [NCIT:C36704](http://purl.obolibrary.org/obo/NCIT_C36704) (FHIT Gene Inactivation) 51.56%
-- [NCIT:C36683](http://purl.obolibrary.org/obo/NCIT_C36683) (APC Gene Inactivation) 51.56%
-- [NCIT:C36667](http://purl.obolibrary.org/obo/NCIT_C36667) (Loss of Chromosome 4q) 51.56%
-- [NCIT:C36649](http://purl.obolibrary.org/obo/NCIT_C36649) (EGFR Gene Amplification) 51.56%
-- [NCIT:C36644](http://purl.obolibrary.org/obo/NCIT_C36644) (Loss of E-cadherin Expression) 51.56%
-- [NCIT:C36638](http://purl.obolibrary.org/obo/NCIT_C36638) (ERBB2 Gene Amplification) 51.56%
-- [NCIT:C36502](http://purl.obolibrary.org/obo/NCIT_C36502) (Loss of Chromosome 3p) 51.56%
-- [NCIT:C36496](http://purl.obolibrary.org/obo/NCIT_C36496) (Loss of Chromosome 18q) 51.56%
-- [NCIT:C36488](http://purl.obolibrary.org/obo/NCIT_C36488) (Gain of Chromosome 8q) 51.56%
-- [NCIT:C36480](http://purl.obolibrary.org/obo/NCIT_C36480) (Gain of Chromosome 20q) 51.56%
-- [NCIT:C36329](http://purl.obolibrary.org/obo/NCIT_C36329) (TP53 Gene Inactivation) 51.56%
-- [NCIT:C27712](http://purl.obolibrary.org/obo/NCIT_C27712) (Loss of Chromosome 5q) 51.56%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) 36.92%
+- [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 54.41%
+- [NCIT:C39629](http://purl.obolibrary.org/obo/NCIT_C39629) (CDKN2A Gene Inactivation) 53.57%
+- [NCIT:C36704](http://purl.obolibrary.org/obo/NCIT_C36704) (FHIT Gene Inactivation) 53.57%
+- [NCIT:C36683](http://purl.obolibrary.org/obo/NCIT_C36683) (APC Gene Inactivation) 53.57%
+- [NCIT:C36667](http://purl.obolibrary.org/obo/NCIT_C36667) (Loss of Chromosome 4q) 53.57%
+- [NCIT:C36649](http://purl.obolibrary.org/obo/NCIT_C36649) (EGFR Gene Amplification) 53.57%
+- [NCIT:C36644](http://purl.obolibrary.org/obo/NCIT_C36644) (Loss of E-cadherin Expression) 53.57%
+- [NCIT:C36638](http://purl.obolibrary.org/obo/NCIT_C36638) (ERBB2 Gene Amplification) 53.57%
+- [NCIT:C36502](http://purl.obolibrary.org/obo/NCIT_C36502) (Loss of Chromosome 3p) 53.57%
+- [NCIT:C36496](http://purl.obolibrary.org/obo/NCIT_C36496) (Loss of Chromosome 18q) 53.57%
+- [NCIT:C36488](http://purl.obolibrary.org/obo/NCIT_C36488) (Gain of Chromosome 8q) 53.57%
+- [NCIT:C36480](http://purl.obolibrary.org/obo/NCIT_C36480) (Gain of Chromosome 20q) 53.57%
+- [NCIT:C36329](http://purl.obolibrary.org/obo/NCIT_C36329) (TP53 Gene Inactivation) 53.57%
+- [NCIT:C27712](http://purl.obolibrary.org/obo/NCIT_C27712) (Loss of Chromosome 5q) 53.57%
+- [NCIT:C17359](http://purl.obolibrary.org/obo/NCIT_C17359) (TP53 Gene) 53.57%
 
 

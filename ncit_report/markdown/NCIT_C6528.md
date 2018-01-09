@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C41839](http://purl.obolibrary.org/obo/NCIT_C41839) (Perivascular Arrangement of Tumor Cells) 58.33%
-- [CL:0000669](http://purl.obolibrary.org/obo/CL_0000669) (pericyte cell) 58.33%
-- [CL:0000630](http://purl.obolibrary.org/obo/CL_0000630) (supportive cell) 58.33%
-- Thing 51.96%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) 37.20%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 36.18%
-- [NCIT:C41405](http://purl.obolibrary.org/obo/NCIT_C41405) (Neuron, Neuroepithelial Cell, and Supporting Cell of the Nervous System) 33.33%
-- [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000) (cell) 31.28%
-- [GO:0005575](http://purl.obolibrary.org/obo/GO_0005575) (cellular_component) 30.93%
-- [NCIT:C12964](http://purl.obolibrary.org/obo/NCIT_C12964) (Connective and Soft Tissue) 30.69%
-- [CL:0000183](http://purl.obolibrary.org/obo/CL_0000183) (contractile cell) 24.14%
-- [CL:0002371](http://purl.obolibrary.org/obo/CL_0002371) (somatic cell) 12.40%
-- [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) 12.25%
-- [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) (native cell) 12.04%
-- [GO:0005623](http://purl.obolibrary.org/obo/GO_0005623) (cell) 12.03%
+- [NCIT:C41839](http://purl.obolibrary.org/obo/NCIT_C41839) (Perivascular Arrangement of Tumor Cells) 75.00%
+- [CL:0000669](http://purl.obolibrary.org/obo/CL_0000669) (pericyte cell) 75.00%
+- Thing 50.92%
+- [CL:0000630](http://purl.obolibrary.org/obo/CL_0000630) (supportive cell) 47.36%
+- [CL:0000183](http://purl.obolibrary.org/obo/CL_0000183) (contractile cell) 37.13%
+- [CL:0002320](http://purl.obolibrary.org/obo/CL_0002320) (connective tissue cell) 35.21%
+- [CL:0002371](http://purl.obolibrary.org/obo/CL_0002371) (somatic cell) 28.05%
+- [CL:0000548](http://purl.obolibrary.org/obo/CL_0000548) (animal cell) 27.97%
+- [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) 27.97%
+- [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) (native cell) 27.76%
+- [GO:0005623](http://purl.obolibrary.org/obo/GO_0005623) (cell) 27.76%
+- [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000) (cell) 27.72%
+- [GO:0005575](http://purl.obolibrary.org/obo/GO_0005575) (cellular_component) 27.56%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 26.78%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 26.36%
 
 

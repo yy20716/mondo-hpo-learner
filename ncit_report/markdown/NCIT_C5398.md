@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0001017](http://purl.obolibrary.org/obo/UBERON_0001017) (central nervous system) 55.56%
-- [NCIT:C36105](http://purl.obolibrary.org/obo/NCIT_C36105) (Indolent Clinical Course) 55.56%
-- [NCIT:C28082](http://purl.obolibrary.org/obo/NCIT_C28082) (Grade 4) 55.56%
-- [NCIT:C128698](http://purl.obolibrary.org/obo/NCIT_C128698) (Unclassifiable Lesion) 55.56%
-- Thing 52.40%
-- [NCIT:C53987](http://purl.obolibrary.org/obo/NCIT_C53987) (Malignant Neuroectodermal Cell) 30.56%
-- [NCIT:C28099](http://purl.obolibrary.org/obo/NCIT_C28099) (Disease Morphology Qualifier) 25.97%
-- [NCIT:C28076](http://purl.obolibrary.org/obo/NCIT_C28076) (Disease Grade Qualifier) 25.97%
-- [CL:0002321](http://purl.obolibrary.org/obo/CL_0002321) (embryonic cell) 24.45%
-- [NCIT:C103223](http://purl.obolibrary.org/obo/NCIT_C103223) (Genetic Finding) 22.22%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 19.30%
-- [NCIT:C41009](http://purl.obolibrary.org/obo/NCIT_C41009) (Qualifier) 17.34%
-- [NCIT:C27992](http://purl.obolibrary.org/obo/NCIT_C27992) (Disease Qualifier) 17.34%
-- [NCIT:C20189](http://purl.obolibrary.org/obo/NCIT_C20189) (Property or Attribute) 17.34%
-- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 14.46%
+- [NCIT:C128698](http://purl.obolibrary.org/obo/NCIT_C128698) (Unclassifiable Lesion) 75.00%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 52.52%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 51.92%
+- Thing 50.92%
+- [NCIT:C103223](http://purl.obolibrary.org/obo/NCIT_C103223) (Genetic Finding) 41.67%
+- [NCIT:C3824](http://purl.obolibrary.org/obo/NCIT_C3824) (Lesion) 31.25%
+- [NCIT:C36292](http://purl.obolibrary.org/obo/NCIT_C36292) (Laboratory Test Result) 28.88%
+- [NCIT:C77140](http://purl.obolibrary.org/obo/NCIT_C77140) (Clinical Test Result) 28.80%
+- CP:0000037 0.00%
+- CP:0000035 0.00%
+- CP:0000028 0.00%
+- CP:0000027 0.00%
+- CP:0000000 0.00%
+- [CHEBI:36342](http://purl.obolibrary.org/obo/CHEBI_36342) (subatomic particle) 0.00%
+- [CHEBI:24431](http://purl.obolibrary.org/obo/CHEBI_24431) (chemical entity) 0.00%
 
 

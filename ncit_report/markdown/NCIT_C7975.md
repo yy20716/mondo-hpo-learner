@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.38%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) 37.02%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 37.02%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 37.02%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 37.02%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 37.02%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 37.02%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39963](http://purl.obolibrary.org/obo/NCIT_C39963) (Penile Bowenoid Papulosis))) 37.02%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39961](http://purl.obolibrary.org/obo/NCIT_C39961) (Penile Basal Cell Carcinoma))) 37.02%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39959](http://purl.obolibrary.org/obo/NCIT_C39959) (Mixed Squamous Cell Carcinoma of the Penis))) 37.02%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39957](http://purl.obolibrary.org/obo/NCIT_C39957) (Epididymal Adenocarcinoma))) 37.02%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39956](http://purl.obolibrary.org/obo/NCIT_C39956) (Rete Testis Adenoma))) 37.02%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C3994](http://purl.obolibrary.org/obo/NCIT_C3994) (Stage IV Colon Cancer AJCC v6))) 37.02%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C3993](http://purl.obolibrary.org/obo/NCIT_C3993) (Stage II Colon Cancer AJCC v6))) 37.02%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39914](http://purl.obolibrary.org/obo/NCIT_C39914) (Gain of Chromosome 12p))) 37.02%
+- [NCIT:C3442](http://purl.obolibrary.org/obo/NCIT_C3442) (Vomiting) 55.00%
+- [NCIT:C3258](http://purl.obolibrary.org/obo/NCIT_C3258) (Nausea) 55.00%
+- [NCIT:C3143](http://purl.obolibrary.org/obo/NCIT_C3143) (Jaundice) 55.00%
+- Thing 52.05%
+- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) 50.82%
+- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C36856](http://purl.obolibrary.org/obo/NCIT_C36856) (Mucin-Producing Adenocarcinoma Cell))) 50.82%
+- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C36855](http://purl.obolibrary.org/obo/NCIT_C36855) (Malignant Neuroendocrine Polygonal Cell))) 50.82%
+- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C36854](http://purl.obolibrary.org/obo/NCIT_C36854) (Malignant Neuroendocrine Spindle Cell))) 50.82%
+- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C36850](http://purl.obolibrary.org/obo/NCIT_C36850) (Polygonal Adenocarcinoma Cell with Eosinophilic Cytoplasm))) 50.82%
+- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C3685](http://purl.obolibrary.org/obo/NCIT_C3685) (Microcystic Adenoma))) 50.82%
+- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C36848](http://purl.obolibrary.org/obo/NCIT_C36848) (Anaplastic Carcinoma Cell))) 50.82%
+- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C36847](http://purl.obolibrary.org/obo/NCIT_C36847) (Hemosiderin-Laden Macrophage))) 50.82%
+- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C36842](http://purl.obolibrary.org/obo/NCIT_C36842) (Giant Astrocyte))) 50.82%
+- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C36836](http://purl.obolibrary.org/obo/NCIT_C36836) (Malignant Thyroid Gland Follicular Cell))) 50.82%
+- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C36834](http://purl.obolibrary.org/obo/NCIT_C36834) (Tingible Body Macrophage))) 50.82%
 
 

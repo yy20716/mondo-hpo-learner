@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.20%
-- [UBERON:0003902](http://purl.obolibrary.org/obo/UBERON_0003902) (retinal neural layer) 53.12%
-- [NCIT:C42604](http://purl.obolibrary.org/obo/NCIT_C42604) (Neoplastic Retinal Cell) 53.12%
-- [NCIT:C42600](http://purl.obolibrary.org/obo/NCIT_C42600) (RB-E2F Pathway Deregulation) 53.12%
-- [NCIT:C36861](http://purl.obolibrary.org/obo/NCIT_C36861) (Malignant Small Hyperchromatic Cell) 53.12%
-- [NCIT:C36673](http://purl.obolibrary.org/obo/NCIT_C36673) (NMYC Gene Amplification) 53.12%
-- [NCIT:C36497](http://purl.obolibrary.org/obo/NCIT_C36497) (Loss of Chromosome 13q) 53.12%
-- [NCIT:C36343](http://purl.obolibrary.org/obo/NCIT_C36343) (Tumor-Suppressor Pathway Deregulation) 53.12%
-- [NCIT:C36339](http://purl.obolibrary.org/obo/NCIT_C36339) (Cell Cycle Deregulation) 53.12%
-- [NCIT:C36328](http://purl.obolibrary.org/obo/NCIT_C36328) (RB1 Gene Inactivation) 53.12%
-- [NCIT:C17360](http://purl.obolibrary.org/obo/NCIT_C17360) (RB1 Gene) 53.12%
-- [CL:0000210](http://purl.obolibrary.org/obo/CL_0000210) (photoreceptor cell) 53.12%
-- [CL:0000006](http://purl.obolibrary.org/obo/CL_0000006) (neuronal receptor cell) 53.12%
-- [CL:0000197](http://purl.obolibrary.org/obo/CL_0000197) (receptor cell) and [CL:0002319](http://purl.obolibrary.org/obo/CL_0002319) (neural cell) 53.12%
-- [CL:0000197](http://purl.obolibrary.org/obo/CL_0000197) (receptor cell) and [CL:0000540](http://purl.obolibrary.org/obo/CL_0000540) (neuron) 53.12%
+- [NCIT:C42600](http://purl.obolibrary.org/obo/NCIT_C42600) (RB-E2F Pathway Deregulation) 54.55%
+- [NCIT:C36861](http://purl.obolibrary.org/obo/NCIT_C36861) (Malignant Small Hyperchromatic Cell) 54.55%
+- [NCIT:C36673](http://purl.obolibrary.org/obo/NCIT_C36673) (NMYC Gene Amplification) 54.55%
+- [NCIT:C36497](http://purl.obolibrary.org/obo/NCIT_C36497) (Loss of Chromosome 13q) 54.55%
+- [NCIT:C36343](http://purl.obolibrary.org/obo/NCIT_C36343) (Tumor-Suppressor Pathway Deregulation) 54.55%
+- [NCIT:C36339](http://purl.obolibrary.org/obo/NCIT_C36339) (Cell Cycle Deregulation) 54.55%
+- [NCIT:C36328](http://purl.obolibrary.org/obo/NCIT_C36328) (RB1 Gene Inactivation) 54.55%
+- [NCIT:C35942](http://purl.obolibrary.org/obo/NCIT_C35942) (Homer Wright Rosette Formation) 54.55%
+- [NCIT:C35941](http://purl.obolibrary.org/obo/NCIT_C35941) (Flexner-Wintersteiner Rosette Formation) 54.55%
+- [NCIT:C17360](http://purl.obolibrary.org/obo/NCIT_C17360) (RB1 Gene) 54.55%
+- Thing 52.16%
+- [NCIT:C36340](http://purl.obolibrary.org/obo/NCIT_C36340) (Molecular Pathway Deregulation) 32.66%
+- [NCIT:C35940](http://purl.obolibrary.org/obo/NCIT_C35940) (Rosette Formation) 32.66%
+- [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 27.68%
+- [NCIT:C3672](http://purl.obolibrary.org/obo/NCIT_C3672) (Calcification) 26.91%
 
 

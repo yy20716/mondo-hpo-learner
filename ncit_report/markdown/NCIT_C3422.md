@@ -9,17 +9,17 @@
 - [NCIT:C61387](http://purl.obolibrary.org/obo/NCIT_C61387) (Malignant Round Germ Cell) 66.67%
 - [NCIT:C61064](http://purl.obolibrary.org/obo/NCIT_C61064) (Malignant Round Germ Cell with Glycogen-Rich Cytoplasm and Round Nucleus) 66.67%
 - [NCIT:C54145](http://purl.obolibrary.org/obo/NCIT_C54145) (Mixture of Germ Cell Neoplastic Components Present) 66.67%
-- Thing 51.39%
+- Thing 51.13%
 - [NCIT:C54241](http://purl.obolibrary.org/obo/NCIT_C54241) (Mixture of Morphologic Patterns) 45.53%
 - [NCIT:C54110](http://purl.obolibrary.org/obo/NCIT_C54110) (Malignant Germ Cell) 41.67%
 - [NCIT:C54103](http://purl.obolibrary.org/obo/NCIT_C54103) (Abnormal Germ Cell) 37.08%
 - [NCIT:C36903](http://purl.obolibrary.org/obo/NCIT_C36903) (Neoplastic Germ Cell) 37.08%
-- [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) 36.85%
+- [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) 36.84%
 - [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 36.68%
 - [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) 35.56%
 - [NCIT:C36799](http://purl.obolibrary.org/obo/NCIT_C36799) (Abnormal Trophoblastic Cell) 35.56%
-- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) 19.91%
-- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 19.25%
-- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 19.15%
+- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) 19.90%
+- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 19.23%
+- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 19.13%
 
 

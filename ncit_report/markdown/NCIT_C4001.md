@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.00%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40286](http://purl.obolibrary.org/obo/NCIT_C40286) (Vulvar Basaloid Carcinoma))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40284](http://purl.obolibrary.org/obo/NCIT_C40284) (Vulvar Keratinizing Squamous Cell Carcinoma))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40275](http://purl.obolibrary.org/obo/NCIT_C40275) (Benign Vaginal Mixed Epithelial and Mesenchymal Neoplasm))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40272](http://purl.obolibrary.org/obo/NCIT_C40272) (Vaginal Undifferentiated Sarcoma))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40271](http://purl.obolibrary.org/obo/NCIT_C40271) (Low Grade Endometrioid Stromal Sarcoma of the Vagina))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C4027](http://purl.obolibrary.org/obo/NCIT_C4027) (Paget Disease of the Vulva))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40264](http://purl.obolibrary.org/obo/NCIT_C40264) (Vaginal Undifferentiated Carcinoma))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40263](http://purl.obolibrary.org/obo/NCIT_C40263) (Vaginal Small Cell Carcinoma))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40261](http://purl.obolibrary.org/obo/NCIT_C40261) (Vaginal Adenoid Cystic Carcinoma))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40260](http://purl.obolibrary.org/obo/NCIT_C40260) (Vaginal Adenosquamous Carcinoma))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C4026](http://purl.obolibrary.org/obo/NCIT_C4026) (Ovarian Mucinous Cystadenocarcinoma))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40259](http://purl.obolibrary.org/obo/NCIT_C40259) (Vaginal Villous Adenoma))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40258](http://purl.obolibrary.org/obo/NCIT_C40258) (Vaginal Tubulovillous Adenoma))) 37.36%
+- [NCIT:C7740](http://purl.obolibrary.org/obo/NCIT_C7740) (Peau d'orange) 58.33%
+- [NCIT:C36258](http://purl.obolibrary.org/obo/NCIT_C36258) (Lymphatic Spread) 58.33%
+- [NCIT:C3327](http://purl.obolibrary.org/obo/NCIT_C3327) (Skin Discoloration) 58.33%
+- [NCIT:C26901](http://purl.obolibrary.org/obo/NCIT_C26901) (Erythema) 58.33%
+- [NCIT:C3002](http://purl.obolibrary.org/obo/NCIT_C3002) (Edema) and (not ([NCIT:C3307](http://purl.obolibrary.org/obo/NCIT_C3307) (Papilledema))) 58.33%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 54.36%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 53.32%
+- Thing 51.59%
+- [NCIT:C3002](http://purl.obolibrary.org/obo/NCIT_C3002) (Edema) 43.69%
+- [NCIT:C3002](http://purl.obolibrary.org/obo/NCIT_C3002) (Edema) and (not ([NCIT:C37141](http://purl.obolibrary.org/obo/NCIT_C37141) (Neoplastic Oligodendrocyte))) 43.69%
+- [NCIT:C3002](http://purl.obolibrary.org/obo/NCIT_C3002) (Edema) and (not ([NCIT:C37139](http://purl.obolibrary.org/obo/NCIT_C37139) (Xanthomatous Astrocyte))) 43.69%
+- [NCIT:C3002](http://purl.obolibrary.org/obo/NCIT_C3002) (Edema) and (not ([NCIT:C37138](http://purl.obolibrary.org/obo/NCIT_C37138) (Neoplastic Piloid Astrocyte))) 43.69%
+- [NCIT:C3002](http://purl.obolibrary.org/obo/NCIT_C3002) (Edema) and (not ([NCIT:C37137](http://purl.obolibrary.org/obo/NCIT_C37137) (Poorly Differentiated Neoplastic Astrocyte))) 43.69%
+- [NCIT:C3002](http://purl.obolibrary.org/obo/NCIT_C3002) (Edema) and (not ([NCIT:C37136](http://purl.obolibrary.org/obo/NCIT_C37136) (Anaplastic Astrocyte))) 43.69%
+- [NCIT:C3002](http://purl.obolibrary.org/obo/NCIT_C3002) (Edema) and (not ([NCIT:C37135](http://purl.obolibrary.org/obo/NCIT_C37135) (Neoplastic Astrocyte with Few Flaccid Processes))) 43.69%
 
 

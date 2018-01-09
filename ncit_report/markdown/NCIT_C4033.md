@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.16%
-- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) 37.21%
-- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and (not ([NCIT:C40298](http://purl.obolibrary.org/obo/NCIT_C40298) (Bartholin Gland Small Cell Carcinoma))) 37.21%
-- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and (not ([NCIT:C40297](http://purl.obolibrary.org/obo/NCIT_C40297) (Bartholin Gland Transitional Cell Carcinoma))) 37.21%
-- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and (not ([NCIT:C40296](http://purl.obolibrary.org/obo/NCIT_C40296) (Bartholin Gland Adenosquamous Carcinoma))) 37.21%
-- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and (not ([NCIT:C40295](http://purl.obolibrary.org/obo/NCIT_C40295) (Bartholin Gland Adenoid Cystic Carcinoma))) 37.21%
-- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and (not ([NCIT:C40293](http://purl.obolibrary.org/obo/NCIT_C40293) (Bartholin Gland Squamous Cell Carcinoma))) 37.21%
-- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and (not ([NCIT:C40290](http://purl.obolibrary.org/obo/NCIT_C40290) (Vestibular Micropapillomatosis))) 37.21%
-- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and (not ([NCIT:C40287](http://purl.obolibrary.org/obo/NCIT_C40287) (Vulvar Warty Carcinoma))) 37.21%
-- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and (not ([NCIT:C40286](http://purl.obolibrary.org/obo/NCIT_C40286) (Vulvar Basaloid Carcinoma))) 37.21%
-- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and (not ([NCIT:C40284](http://purl.obolibrary.org/obo/NCIT_C40284) (Vulvar Keratinizing Squamous Cell Carcinoma))) 37.21%
-- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and (not ([NCIT:C40275](http://purl.obolibrary.org/obo/NCIT_C40275) (Benign Vaginal Mixed Epithelial and Mesenchymal Neoplasm))) 37.21%
-- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and (not ([NCIT:C40272](http://purl.obolibrary.org/obo/NCIT_C40272) (Vaginal Undifferentiated Sarcoma))) 37.21%
-- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and (not ([NCIT:C40271](http://purl.obolibrary.org/obo/NCIT_C40271) (Low Grade Endometrioid Stromal Sarcoma of the Vagina))) 37.21%
-- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and (not ([NCIT:C4027](http://purl.obolibrary.org/obo/NCIT_C4027) (Paget Disease of the Vulva))) 37.21%
+- [NCIT:C61143](http://purl.obolibrary.org/obo/NCIT_C61143) (Delicate Vascular Network Formation) 60.00%
+- [NCIT:C39786](http://purl.obolibrary.org/obo/NCIT_C39786) (Bilateral Disease) 60.00%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 53.98%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 53.03%
+- Thing 51.45%
+- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 45.13%
+- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 44.93%
+- [NCIT:C41454](http://purl.obolibrary.org/obo/NCIT_C41454) (Cystic Change) 38.87%
+- [NCIT:C3672](http://purl.obolibrary.org/obo/NCIT_C3672) (Calcification) 32.36%
+- [NCIT:C9442](http://purl.obolibrary.org/obo/NCIT_C9442) (Deposit) 26.67%
+- [NCIT:C36184](http://purl.obolibrary.org/obo/NCIT_C36184) (Necrotic Change) 26.67%
+- [NCIT:C35963](http://purl.obolibrary.org/obo/NCIT_C35963) (Vascular Morphologic Change) 20.91%
+- [NCIT:C35461](http://purl.obolibrary.org/obo/NCIT_C35461) (Clinical Course of Disease) 18.70%
+- CP:0000037 0.00%
+- CP:0000035 0.00%
 
 

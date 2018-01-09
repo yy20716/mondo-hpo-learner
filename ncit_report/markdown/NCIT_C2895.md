@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C37115](http://purl.obolibrary.org/obo/NCIT_C37115) (Serous Adenocarcinoma Cell) 55.56%
-- [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) and [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 55.56%
-- [NCIT:C36794](http://purl.obolibrary.org/obo/NCIT_C36794) (Dysplastic Glandular Cell) and [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 55.56%
-- [NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell) and [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 55.56%
-- [NCIT:C36773](http://purl.obolibrary.org/obo/NCIT_C36773) (Adenocarcinoma Cell) and [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 55.56%
-- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 55.56%
-- [NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell) and [NCIT:C36794](http://purl.obolibrary.org/obo/NCIT_C36794) (Dysplastic Glandular Cell) and [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 55.56%
-- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) and [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 55.56%
-- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36794](http://purl.obolibrary.org/obo/NCIT_C36794) (Dysplastic Glandular Cell) and [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 55.56%
-- Thing 52.40%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 40.91%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C3718](http://purl.obolibrary.org/obo/NCIT_C3718) (Wilms Tumor-Aniridia-Genitourinary Anomalies-Mental Retardation Syndrome))) 40.91%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C37179](http://purl.obolibrary.org/obo/NCIT_C37179) (Neoplastic Myeloblast without Azurophilic Granules))) 40.91%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C37178](http://purl.obolibrary.org/obo/NCIT_C37178) (Neoplastic Myeloblast with Azurophilic Granules))) 40.91%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C37177](http://purl.obolibrary.org/obo/NCIT_C37177) (Neoplastic Medium-Sized Myeloblast with Basophilic Agranular Cytoplasm))) 40.91%
+- [UBERON:0000474](http://purl.obolibrary.org/obo/UBERON_0000474) (female reproductive system) 62.50%
+- [NCIT:C33246](http://purl.obolibrary.org/obo/NCIT_C33246) (Ovarian Tissue) 62.50%
+- Thing 51.30%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) 47.86%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([NCIT:C131913](http://purl.obolibrary.org/obo/NCIT_C131913) (High-Grade B-Cell Lymphoma with MYC, BCL2, and BCL6 Rearrangements))) 47.86%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([NCIT:C131906](http://purl.obolibrary.org/obo/NCIT_C131906) (EBV-Positive Mucocutaneous Ulcer))) 47.86%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([NCIT:C131875](http://purl.obolibrary.org/obo/NCIT_C131875) (Recurrent Childhood T Acute Lymphoblastic Leukemia))) 47.86%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([NCIT:C131613](http://purl.obolibrary.org/obo/NCIT_C131613) (Infratentorial and Spinal Cord Ependymal Tumor))) 47.86%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([NCIT:C131605](http://purl.obolibrary.org/obo/NCIT_C131605) (Cervical and Thoracic Spinal Cord Ependymal Tumor))) 47.86%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([NCIT:C131603](http://purl.obolibrary.org/obo/NCIT_C131603) (Thoracic Spinal Cord Ependymal Tumor))) 47.86%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([NCIT:C131601](http://purl.obolibrary.org/obo/NCIT_C131601) (Cervical Spinal Cord Ependymal Tumor))) 47.86%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([NCIT:C131592](http://purl.obolibrary.org/obo/NCIT_C131592) (Cerebellar, Brain Stem, and Cervical Spinal Cord Ependymal Tumor))) 47.86%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([NCIT:C131585](http://purl.obolibrary.org/obo/NCIT_C131585) (Cerebellar and Brain Stem Ependymal Tumor))) 47.86%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([NCIT:C131576](http://purl.obolibrary.org/obo/NCIT_C131576) (Cerebellar Ependymal Tumor))) 47.86%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([NCIT:C131506](http://purl.obolibrary.org/obo/NCIT_C131506) (Childhood Melanoma))) 47.86%
 
 

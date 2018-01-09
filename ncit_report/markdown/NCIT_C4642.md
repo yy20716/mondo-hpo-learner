@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.60%
-- [NCIT:C28082](http://purl.obolibrary.org/obo/NCIT_C28082) (Grade 4) 51.52%
-- [NCIT:C14158](http://purl.obolibrary.org/obo/NCIT_C14158) (High Grade) 51.52%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C14161](http://purl.obolibrary.org/obo/NCIT_C14161) (Low Grade))) 51.52%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) 36.87%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40124](http://purl.obolibrary.org/obo/NCIT_C40124) (Fallopian Tube Carcinosarcoma))) 36.87%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40122](http://purl.obolibrary.org/obo/NCIT_C40122) (Pelvic Pain))) 36.87%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40116](http://purl.obolibrary.org/obo/NCIT_C40116) (Fallopian Tube Metaplastic Papillary Tumor))) 36.87%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40114](http://purl.obolibrary.org/obo/NCIT_C40114) (Fallopian Tube Serous Cystadenofibroma))) 36.87%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40112](http://purl.obolibrary.org/obo/NCIT_C40112) (Fallopian Tube Papilloma))) 36.87%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40110](http://purl.obolibrary.org/obo/NCIT_C40110) (Borderline Fallopian Tube Endometrioid Tumor))) 36.87%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 36.87%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 36.87%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40104](http://purl.obolibrary.org/obo/NCIT_C40104) (Fallopian Tube Transitional Cell Carcinoma))) 36.87%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40103](http://purl.obolibrary.org/obo/NCIT_C40103) (Fallopian Tube Mucinous Adenocarcinoma))) 36.87%
+- [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) (brain) 66.67%
+- [NCIT:C36681](http://purl.obolibrary.org/obo/NCIT_C36681) (MDM2 Gene Amplification) 66.67%
+- [NCIT:C36329](http://purl.obolibrary.org/obo/NCIT_C36329) (TP53 Gene Inactivation) 66.67%
+- Thing 51.13%
+- [NCIT:C36327](http://purl.obolibrary.org/obo/NCIT_C36327) (Gene Abnormality) 39.17%
+- [NCIT:C36391](http://purl.obolibrary.org/obo/NCIT_C36391) (Molecular Genetic Variation) 38.48%
+- [NCIT:C97926](http://purl.obolibrary.org/obo/NCIT_C97926) (Molecular Sequence Variation) 38.33%
+- [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 36.46%
+- [NCIT:C45581](http://purl.obolibrary.org/obo/NCIT_C45581) (Gene Amplification Abnormality) 28.14%
+- [NCIT:C36344](http://purl.obolibrary.org/obo/NCIT_C36344) (Oncogene Deregulation) 28.14%
+- [NCIT:C36334](http://purl.obolibrary.org/obo/NCIT_C36334) (Tumor-Suppressor Gene Inactivation) 27.58%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 17.87%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 17.80%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 17.79%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 17.70%
 
 

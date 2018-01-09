@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [CL:0000115](http://purl.obolibrary.org/obo/CL_0000115) (endothelial cell) 54.17%
-- Thing 52.77%
-- [UBERON:0004852](http://purl.obolibrary.org/obo/UBERON_0004852) (cardiovascular system endothelium) and (not ([UBERON:0004111](http://purl.obolibrary.org/obo/UBERON_0004111) (anatomical conduit))) 43.69%
-- [UBERON:0004852](http://purl.obolibrary.org/obo/UBERON_0004852) (cardiovascular system endothelium) and (not ([UBERON:0001981](http://purl.obolibrary.org/obo/UBERON_0001981) (blood vessel))) 43.69%
-- [UBERON:0004852](http://purl.obolibrary.org/obo/UBERON_0004852) (cardiovascular system endothelium) and (not ([UBERON:0000055](http://purl.obolibrary.org/obo/UBERON_0000055) (vessel))) 43.69%
-- [UBERON:0004852](http://purl.obolibrary.org/obo/UBERON_0004852) (cardiovascular system endothelium) and (not ([UBERON:0005911](http://purl.obolibrary.org/obo/UBERON_0005911) (endo-epithelium))) 39.96%
-- [UBERON:0004852](http://purl.obolibrary.org/obo/UBERON_0004852) (cardiovascular system endothelium) and (not ([UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure))) 39.96%
-- [UBERON:0004852](http://purl.obolibrary.org/obo/UBERON_0004852) (cardiovascular system endothelium) and (not ([UBERON:0003835](http://purl.obolibrary.org/obo/UBERON_0003835) (abdominal segment blood vessel))) 39.96%
-- [UBERON:0004852](http://purl.obolibrary.org/obo/UBERON_0004852) (cardiovascular system endothelium) and (not ([UBERON:0003513](http://purl.obolibrary.org/obo/UBERON_0003513) (trunk blood vessel))) 39.96%
-- [UBERON:0004852](http://purl.obolibrary.org/obo/UBERON_0004852) (cardiovascular system endothelium) and (not ([UBERON:0003497](http://purl.obolibrary.org/obo/UBERON_0003497) (abdomen blood vessel))) 39.96%
-- [UBERON:0004852](http://purl.obolibrary.org/obo/UBERON_0004852) (cardiovascular system endothelium) and (not ([UBERON:0000077](http://purl.obolibrary.org/obo/UBERON_0000077) (mixed endoderm/mesoderm-derived structure))) 39.96%
-- [UBERON:0004638](http://purl.obolibrary.org/obo/UBERON_0004638) (blood vessel endothelium) and (not ([UBERON:0004111](http://purl.obolibrary.org/obo/UBERON_0004111) (anatomical conduit))) 39.52%
-- [UBERON:0004638](http://purl.obolibrary.org/obo/UBERON_0004638) (blood vessel endothelium) and (not ([UBERON:0001981](http://purl.obolibrary.org/obo/UBERON_0001981) (blood vessel))) 39.52%
-- [UBERON:0004638](http://purl.obolibrary.org/obo/UBERON_0004638) (blood vessel endothelium) and (not ([UBERON:0000055](http://purl.obolibrary.org/obo/UBERON_0000055) (vessel))) 39.52%
-- [UBERON:0004852](http://purl.obolibrary.org/obo/UBERON_0004852) (cardiovascular system endothelium) 37.20%
+- [UBERON:0002097](http://purl.obolibrary.org/obo/UBERON_0002097) (skin of body) 75.00%
+- [NCIT:C51137](http://purl.obolibrary.org/obo/NCIT_C51137) (Deep Lesion) 75.00%
+- Thing 50.92%
+- [NCIT:C3824](http://purl.obolibrary.org/obo/NCIT_C3824) (Lesion) 31.25%
+- [UBERON:0000062](http://purl.obolibrary.org/obo/UBERON_0000062) (organ) 28.13%
+- [UBERON:0004121](http://purl.obolibrary.org/obo/UBERON_0004121) (ectoderm-derived structure) 27.97%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 26.78%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 26.36%
+- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 26.31%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 26.28%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 26.21%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 26.13%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 26.12%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 26.03%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 26.02%
 
 

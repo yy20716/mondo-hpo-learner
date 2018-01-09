@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.16%
-- [NCIT:C47805](http://purl.obolibrary.org/obo/NCIT_C47805) (Malignant Neuroendocrine Small Round Cell) 51.85%
-- [NCIT:C60534](http://purl.obolibrary.org/obo/NCIT_C60534) (Neoplastic Neuroendocrine Small Cell) 37.21%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) 37.21%
-- [NCIT:C36929](http://purl.obolibrary.org/obo/NCIT_C36929) (Malignant Endocrine Cell) and [NCIT:C60534](http://purl.obolibrary.org/obo/NCIT_C60534) (Neoplastic Neuroendocrine Small Cell) 37.21%
-- [NCIT:C36860](http://purl.obolibrary.org/obo/NCIT_C36860) (Malignant Small Cell) and [NCIT:C60534](http://purl.obolibrary.org/obo/NCIT_C60534) (Neoplastic Neuroendocrine Small Cell) 37.21%
-- [NCIT:C36825](http://purl.obolibrary.org/obo/NCIT_C36825) (Malignant Neuroendocrine Cell) and [NCIT:C60534](http://purl.obolibrary.org/obo/NCIT_C60534) (Neoplastic Neuroendocrine Small Cell) 37.21%
-- [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) and [NCIT:C60534](http://purl.obolibrary.org/obo/NCIT_C60534) (Neoplastic Neuroendocrine Small Cell) 37.21%
-- [NCIT:C36795](http://purl.obolibrary.org/obo/NCIT_C36795) (Malignant Epithelial Small Cell) and [NCIT:C60534](http://purl.obolibrary.org/obo/NCIT_C60534) (Neoplastic Neuroendocrine Small Cell) 37.21%
-- [NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell) and [NCIT:C60534](http://purl.obolibrary.org/obo/NCIT_C60534) (Neoplastic Neuroendocrine Small Cell) 37.21%
-- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C60534](http://purl.obolibrary.org/obo/NCIT_C60534) (Neoplastic Neuroendocrine Small Cell) 37.21%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C40243](http://purl.obolibrary.org/obo/NCIT_C40243) (Vaginal Keratinizing Squamous Cell Carcinoma))) 37.21%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C40239](http://purl.obolibrary.org/obo/NCIT_C40239) (Cervical Melanoma))) 37.21%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C40236](http://purl.obolibrary.org/obo/NCIT_C40236) (Cervical Wilms Tumor))) 37.21%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C40231](http://purl.obolibrary.org/obo/NCIT_C40231) (Cervical Adenomyoma))) 37.21%
+- [NCIT:C60881](http://purl.obolibrary.org/obo/NCIT_C60881) (Cytoplasmic Membrane-Bound Granules Present) 54.55%
+- Thing 52.16%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 40.20%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) 39.90%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C37026](http://purl.obolibrary.org/obo/NCIT_C37026) (Hodgkin-Like Cell))) 39.90%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C37025](http://purl.obolibrary.org/obo/NCIT_C37025) (Mummified Cell))) 39.90%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C37024](http://purl.obolibrary.org/obo/NCIT_C37024) (Reed-Sternberg-Like Cell))) 39.90%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C37023](http://purl.obolibrary.org/obo/NCIT_C37023) (Lacunar Reed-Sternberg Cell))) 39.90%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C37021](http://purl.obolibrary.org/obo/NCIT_C37021) (Hodgkin Cell))) 39.90%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C37020](http://purl.obolibrary.org/obo/NCIT_C37020) (Neoplastic Large Cleaved Follicle Center Cell))) 39.90%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C37019](http://purl.obolibrary.org/obo/NCIT_C37019) (Neoplastic T-Cell Large Granular Lymphocyte))) 39.90%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C37017](http://purl.obolibrary.org/obo/NCIT_C37017) (Anaplastic Large T-Lymphocyte))) 39.90%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C37015](http://purl.obolibrary.org/obo/NCIT_C37015) (Anaplastic Large B-Lymphocyte))) 39.90%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C37014](http://purl.obolibrary.org/obo/NCIT_C37014) (Neoplastic Centroblast))) 39.90%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C37012](http://purl.obolibrary.org/obo/NCIT_C37012) (Neoplastic T-Immunoblast))) 39.90%
 
 

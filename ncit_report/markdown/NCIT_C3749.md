@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.84%
-- [NCIT:C28079](http://purl.obolibrary.org/obo/NCIT_C28079) (Grade 3) 52.17%
-- [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188) (cell of skeletal muscle) 37.53%
-- [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188) (cell of skeletal muscle) and (not ([NCIT:C3972](http://purl.obolibrary.org/obo/NCIT_C3972) (Prostate Fibroma))) 37.53%
-- [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188) (cell of skeletal muscle) and (not ([NCIT:C39719](http://purl.obolibrary.org/obo/NCIT_C39719) (PDGFRalpha Protein Overexpression))) 37.53%
-- [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188) (cell of skeletal muscle) and (not ([NCIT:C39718](http://purl.obolibrary.org/obo/NCIT_C39718) (PDGFRA Gene Mutation))) 37.53%
-- [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188) (cell of skeletal muscle) and (not ([NCIT:C39717](http://purl.obolibrary.org/obo/NCIT_C39717) (MDM2 Gene Mutation))) 37.53%
-- [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188) (cell of skeletal muscle) and (not ([NCIT:C39716](http://purl.obolibrary.org/obo/NCIT_C39716) (EGFR Protein Overexpression))) 37.53%
-- [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188) (cell of skeletal muscle) and (not ([NCIT:C39715](http://purl.obolibrary.org/obo/NCIT_C39715) (CD30-Positive Neoplastic Cells Present))) 37.53%
-- [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188) (cell of skeletal muscle) and (not ([NCIT:C39712](http://purl.obolibrary.org/obo/NCIT_C39712) (KIT Gene Mutation))) 37.53%
-- [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188) (cell of skeletal muscle) and (not ([NCIT:C39711](http://purl.obolibrary.org/obo/NCIT_C39711) (C-KIT Tyrosine Kinase Protein Overexpression))) 37.53%
-- [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188) (cell of skeletal muscle) and (not ([NCIT:C39709](http://purl.obolibrary.org/obo/NCIT_C39709) (Confluent Sheets of Anaplastic T-Lymphocytes Present))) 37.53%
-- [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188) (cell of skeletal muscle) and (not ([NCIT:C39708](http://purl.obolibrary.org/obo/NCIT_C39708) (Cerebriform-Like Lymphocyte))) 37.53%
-- [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188) (cell of skeletal muscle) and (not ([NCIT:C3970](http://purl.obolibrary.org/obo/NCIT_C3970) (Kidney Cyst))) 37.53%
-- [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188) (cell of skeletal muscle) and (not ([NCIT:C39695](http://purl.obolibrary.org/obo/NCIT_C39695) (Extranodal Disease))) 37.53%
+- [NCIT:C36951](http://purl.obolibrary.org/obo/NCIT_C36951) (Round Cell with Primitive Myoblastic Differentiation) 75.00%
+- [NCIT:C36950](http://purl.obolibrary.org/obo/NCIT_C36950) (Round Striated Muscle Cell) 75.00%
+- [NCIT:C37099](http://purl.obolibrary.org/obo/NCIT_C37099) (Neoplastic Round Cell) and [NCIT:C49198](http://purl.obolibrary.org/obo/NCIT_C49198) (Malignant Rhabdomyoblast) 75.00%
+- [NCIT:C37099](http://purl.obolibrary.org/obo/NCIT_C37099) (Neoplastic Round Cell) and [NCIT:C49197](http://purl.obolibrary.org/obo/NCIT_C49197) (Malignant Skeletal Muscle Cell) 75.00%
+- [NCIT:C37099](http://purl.obolibrary.org/obo/NCIT_C37099) (Neoplastic Round Cell) and [NCIT:C49167](http://purl.obolibrary.org/obo/NCIT_C49167) (Neoplastic Skeletal Muscle Cell) 75.00%
+- [NCIT:C37099](http://purl.obolibrary.org/obo/NCIT_C37099) (Neoplastic Round Cell) and [NCIT:C48787](http://purl.obolibrary.org/obo/NCIT_C48787) (Malignant Connective and Soft Tissue Cell) 75.00%
+- [NCIT:C36950](http://purl.obolibrary.org/obo/NCIT_C36950) (Round Striated Muscle Cell) and [NCIT:C37099](http://purl.obolibrary.org/obo/NCIT_C37099) (Neoplastic Round Cell) 75.00%
+- [NCIT:C36947](http://purl.obolibrary.org/obo/NCIT_C36947) (Neoplastic Striated Muscle Cell) and [NCIT:C37099](http://purl.obolibrary.org/obo/NCIT_C37099) (Neoplastic Round Cell) 75.00%
+- [NCIT:C36936](http://purl.obolibrary.org/obo/NCIT_C36936) (Neoplastic Muscle Cell) and [NCIT:C37099](http://purl.obolibrary.org/obo/NCIT_C37099) (Neoplastic Round Cell) 75.00%
+- [NCIT:C36887](http://purl.obolibrary.org/obo/NCIT_C36887) (Neoplastic Connective and Soft Tissue Cell) and [NCIT:C37099](http://purl.obolibrary.org/obo/NCIT_C37099) (Neoplastic Round Cell) 75.00%
+- [NCIT:C36843](http://purl.obolibrary.org/obo/NCIT_C36843) (Abnormal Connective and Soft Tissue Cell) and [NCIT:C37099](http://purl.obolibrary.org/obo/NCIT_C37099) (Neoplastic Round Cell) 75.00%
+- [NCIT:C36744](http://purl.obolibrary.org/obo/NCIT_C36744) (Rhabdomyoblast) and [NCIT:C37099](http://purl.obolibrary.org/obo/NCIT_C37099) (Neoplastic Round Cell) 75.00%
+- [NCIT:C37099](http://purl.obolibrary.org/obo/NCIT_C37099) (Neoplastic Round Cell) and (not ([NCIT:C53487](http://purl.obolibrary.org/obo/NCIT_C53487) (Malignant Small Round Cell))) 75.00%
+- [NCIT:C37099](http://purl.obolibrary.org/obo/NCIT_C37099) (Neoplastic Round Cell) and (not ([NCIT:C37100](http://purl.obolibrary.org/obo/NCIT_C37100) (Neoplastic Small Round Cell))) 75.00%
+- [NCIT:C37099](http://purl.obolibrary.org/obo/NCIT_C37099) (Neoplastic Round Cell) and (not ([NCIT:C36860](http://purl.obolibrary.org/obo/NCIT_C36860) (Malignant Small Cell))) 75.00%
 
 

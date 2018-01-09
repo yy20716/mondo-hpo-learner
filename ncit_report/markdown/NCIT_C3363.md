@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0002330](http://purl.obolibrary.org/obo/UBERON_0002330) (exocrine system) 57.14%
-- [UBERON:0002097](http://purl.obolibrary.org/obo/UBERON_0002097) (skin of body) 57.14%
-- [CL:2000021](http://purl.obolibrary.org/obo/CL_2000021) (sebaceous gland native cell) 57.14%
-- [CL:0000317](http://purl.obolibrary.org/obo/CL_0000317) (sebum secreting cell) 57.14%
-- [CL:0000152](http://purl.obolibrary.org/obo/CL_0000152) (exocrine cell) 57.14%
-- Thing 52.12%
-- [UBERON:0001821](http://purl.obolibrary.org/obo/UBERON_0001821) (sebaceous gland) 42.50%
-- [UBERON:0001821](http://purl.obolibrary.org/obo/UBERON_0001821) (sebaceous gland) and (not ([NCIT:C17270](http://purl.obolibrary.org/obo/NCIT_C17270) (Phosphatidylinositol 3 Kinase))) 42.50%
-- [UBERON:0001821](http://purl.obolibrary.org/obo/UBERON_0001821) (sebaceous gland) and (not ([NCIT:C17260](http://purl.obolibrary.org/obo/NCIT_C17260) (Wound Repair))) 42.50%
-- [UBERON:0001821](http://purl.obolibrary.org/obo/UBERON_0001821) (sebaceous gland) and (not ([NCIT:C17220](http://purl.obolibrary.org/obo/NCIT_C17220) (Tumor Marker))) 42.50%
-- [UBERON:0001821](http://purl.obolibrary.org/obo/UBERON_0001821) (sebaceous gland) and (not ([NCIT:C17208](http://purl.obolibrary.org/obo/NCIT_C17208) (Transcription))) 42.50%
-- [UBERON:0001821](http://purl.obolibrary.org/obo/UBERON_0001821) (sebaceous gland) and (not ([NCIT:C17161](http://purl.obolibrary.org/obo/NCIT_C17161) (Spermatogenesis))) 42.50%
-- [UBERON:0001821](http://purl.obolibrary.org/obo/UBERON_0001821) (sebaceous gland) and (not ([NCIT:C17106](http://purl.obolibrary.org/obo/NCIT_C17106) (RNA Splicing))) 42.50%
-- [UBERON:0001821](http://purl.obolibrary.org/obo/UBERON_0001821) (sebaceous gland) and (not ([NCIT:C17087](http://purl.obolibrary.org/obo/NCIT_C17087) (Reproduction))) 42.50%
-- [UBERON:0001821](http://purl.obolibrary.org/obo/UBERON_0001821) (sebaceous gland) and (not ([NCIT:C17084](http://purl.obolibrary.org/obo/NCIT_C17084) (REL Gene))) 42.50%
+- [CL:2000021](http://purl.obolibrary.org/obo/CL_2000021) (sebaceous gland native cell) 62.50%
+- [CL:0000317](http://purl.obolibrary.org/obo/CL_0000317) (sebum secreting cell) 62.50%
+- [CL:0000152](http://purl.obolibrary.org/obo/CL_0000152) (exocrine cell) and [CL:2000021](http://purl.obolibrary.org/obo/CL_2000021) (sebaceous gland native cell) 62.50%
+- [CL:0000152](http://purl.obolibrary.org/obo/CL_0000152) (exocrine cell) and (not ([CL:0002064](http://purl.obolibrary.org/obo/CL_0002064) (pancreatic acinar cell))) 62.50%
+- Thing 51.30%
+- [CL:0000152](http://purl.obolibrary.org/obo/CL_0000152) (exocrine cell) 47.86%
+- [CL:0000152](http://purl.obolibrary.org/obo/CL_0000152) (exocrine cell) and (not ([NCIT:C36116](http://purl.obolibrary.org/obo/NCIT_C36116) (Borderline Lesion))) 47.86%
+- [CL:0000152](http://purl.obolibrary.org/obo/CL_0000152) (exocrine cell) and (not ([NCIT:C36113](http://purl.obolibrary.org/obo/NCIT_C36113) (Anaplastic Lesion))) 47.86%
+- [CL:0000152](http://purl.obolibrary.org/obo/CL_0000152) (exocrine cell) and (not ([NCIT:C36109](http://purl.obolibrary.org/obo/NCIT_C36109) (Superficial Lesion))) 47.86%
+- [CL:0000152](http://purl.obolibrary.org/obo/CL_0000152) (exocrine cell) and (not ([NCIT:C36108](http://purl.obolibrary.org/obo/NCIT_C36108) (Encapsulated Mass))) 47.86%
+- [CL:0000152](http://purl.obolibrary.org/obo/CL_0000152) (exocrine cell) and (not ([NCIT:C36107](http://purl.obolibrary.org/obo/NCIT_C36107) (Hereditary Female Breast Carcinoma))) 47.86%
+- [CL:0000152](http://purl.obolibrary.org/obo/CL_0000152) (exocrine cell) and (not ([NCIT:C36106](http://purl.obolibrary.org/obo/NCIT_C36106) (Hereditary Male Breast Carcinoma))) 47.86%
+- [CL:0000152](http://purl.obolibrary.org/obo/CL_0000152) (exocrine cell) and (not ([NCIT:C36105](http://purl.obolibrary.org/obo/NCIT_C36105) (Indolent Clinical Course))) 47.86%
+- [CL:0000152](http://purl.obolibrary.org/obo/CL_0000152) (exocrine cell) and (not ([NCIT:C36104](http://purl.obolibrary.org/obo/NCIT_C36104) (Aggressive Clinical Course))) 47.86%
+- [CL:0000152](http://purl.obolibrary.org/obo/CL_0000152) (exocrine cell) and (not ([NCIT:C36103](http://purl.obolibrary.org/obo/NCIT_C36103) (Rapidly Enlarging Mass))) 47.86%
 
 

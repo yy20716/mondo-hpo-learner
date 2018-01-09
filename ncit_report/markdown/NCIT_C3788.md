@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.08%
-- [NCIT:C28077](http://purl.obolibrary.org/obo/NCIT_C28077) (Grade 1) 51.92%
-- [NCIT:C41405](http://purl.obolibrary.org/obo/NCIT_C41405) (Neuron, Neuroepithelial Cell, and Supporting Cell of the Nervous System) 39.20%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) 30.79%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q))) 30.79%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39874](http://purl.obolibrary.org/obo/NCIT_C39874) (Urethral Verrucous Carcinoma))) 30.79%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39873](http://purl.obolibrary.org/obo/NCIT_C39873) (Urethral Glandular Metaplasia))) 30.79%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39872](http://purl.obolibrary.org/obo/NCIT_C39872) (Urethral Villous Adenoma))) 30.79%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39866](http://purl.obolibrary.org/obo/NCIT_C39866) (Female Urethral Malignant Neoplasm))) 30.79%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39864](http://purl.obolibrary.org/obo/NCIT_C39864) (Carcinoma of Cowper Glands))) 30.79%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39862](http://purl.obolibrary.org/obo/NCIT_C39862) (Human Papillomavirus-Related Urethral Squamous Cell Carcinoma))) 30.79%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39859](http://purl.obolibrary.org/obo/NCIT_C39859) (Bladder Inverted Papilloma))) 30.79%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39856](http://purl.obolibrary.org/obo/NCIT_C39856) (Urothelial Dysplasia))) 30.79%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39845](http://purl.obolibrary.org/obo/NCIT_C39845) (Bladder Urachal Squamous Cell Carcinoma))) 30.79%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C39844](http://purl.obolibrary.org/obo/NCIT_C39844) (Bladder Urachal Urothelial Carcinoma))) 30.79%
+- [NCIT:C36474](http://purl.obolibrary.org/obo/NCIT_C36474) (Ring Chromosome 1) 52.94%
+- [NCIT:C28077](http://purl.obolibrary.org/obo/NCIT_C28077) (Grade 1) 52.94%
+- Thing 52.68%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) 38.30%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C38176](http://purl.obolibrary.org/obo/NCIT_C38176) (BCL2 Gene Translocation))) 38.30%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C38175](http://purl.obolibrary.org/obo/NCIT_C38175) (CD44 Messenger RNA Overexpression))) 38.30%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C38174](http://purl.obolibrary.org/obo/NCIT_C38174) (IRF4/MUM1 Messenger RNA Overexpression))) 38.30%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C38173](http://purl.obolibrary.org/obo/NCIT_C38173) (BCL2 Gene mRNA Overexpression))) 38.30%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C38172](http://purl.obolibrary.org/obo/NCIT_C38172) (Cyclin D2 Messenger RNA Overexpression))) 38.30%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C38171](http://purl.obolibrary.org/obo/NCIT_C38171) (PKCbeta1 Messenger RNA Overexpression))) 38.30%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C38170](http://purl.obolibrary.org/obo/NCIT_C38170) (LMO2 Messenger RNA Overexpression))) 38.30%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C38169](http://purl.obolibrary.org/obo/NCIT_C38169) (A-myb Messenger RNA Overexpression))) 38.30%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C38168](http://purl.obolibrary.org/obo/NCIT_C38168) (BCL-6 Messenger RNA Overexpression))) 38.30%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C38167](http://purl.obolibrary.org/obo/NCIT_C38167) (CD10 Messenger RNA Overexpression))) 38.30%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C38158](http://purl.obolibrary.org/obo/NCIT_C38158) (Metachronous Wilms Tumor))) 38.30%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36899](http://purl.obolibrary.org/obo/NCIT_C36899) (Neoplastic Stellate Cell) 55.00%
-- [NCIT:C36105](http://purl.obolibrary.org/obo/NCIT_C36105) (Indolent Clinical Course) 55.00%
-- [NCIT:C35998](http://purl.obolibrary.org/obo/NCIT_C35998) (Myxoid Stroma Formation) 55.00%
-- [NCIT:C35996](http://purl.obolibrary.org/obo/NCIT_C35996) (Stromal Change) and [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) 55.00%
-- Thing 52.53%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) 40.36%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C38642](http://purl.obolibrary.org/obo/NCIT_C38642) (Lymphoblasts 25 Percent or Less of Bone Marrow Nucleated Cells))) 40.36%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C38635](http://purl.obolibrary.org/obo/NCIT_C38635) (inv(22q12)))) 40.36%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C38536](http://purl.obolibrary.org/obo/NCIT_C38536) (CREB1 Gene))) 40.36%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C38467](http://purl.obolibrary.org/obo/NCIT_C38467) (Interfollicular Area of the Lymph Node))) 40.36%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C38459](http://purl.obolibrary.org/obo/NCIT_C38459) (API2-MLT Fusion Protein Expression))) 40.36%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C38457](http://purl.obolibrary.org/obo/NCIT_C38457) (Clonal BCL3 Gene Rearrangement))) 40.36%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C38450](http://purl.obolibrary.org/obo/NCIT_C38450) (Colony-Stimulating Factor Overexpression))) 40.36%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C38448](http://purl.obolibrary.org/obo/NCIT_C38448) (Lymphotoxin-Alpha Overexpression))) 40.36%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C38447](http://purl.obolibrary.org/obo/NCIT_C38447) (Interleukin-13 Overexpression))) 40.36%
+- [NCIT:C36899](http://purl.obolibrary.org/obo/NCIT_C36899) (Neoplastic Stellate Cell) 60.00%
+- [NCIT:C35998](http://purl.obolibrary.org/obo/NCIT_C35998) (Myxoid Stroma Formation) 60.00%
+- [NCIT:C35996](http://purl.obolibrary.org/obo/NCIT_C35996) (Stromal Change) and [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) 60.00%
+- Thing 51.45%
+- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) 45.36%
+- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C36557](http://purl.obolibrary.org/obo/NCIT_C36557) (del(13q32-qter)))) 45.36%
+- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C36556](http://purl.obolibrary.org/obo/NCIT_C36556) (del(13q12-13)))) 45.36%
+- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C36555](http://purl.obolibrary.org/obo/NCIT_C36555) (del(8p21-pter)))) 45.36%
+- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C36554](http://purl.obolibrary.org/obo/NCIT_C36554) (del(3p21-23)))) 45.36%
+- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C36553](http://purl.obolibrary.org/obo/NCIT_C36553) (Gain of Chromosome 1q21-31))) 45.36%
+- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C36552](http://purl.obolibrary.org/obo/NCIT_C36552) (Gain of Chromosome 1p31))) 45.36%
+- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C36551](http://purl.obolibrary.org/obo/NCIT_C36551) (Gain of Chromosome 7q32))) 45.36%
+- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C36550](http://purl.obolibrary.org/obo/NCIT_C36550) (Gain of Chromosome 7p))) 45.36%
+- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C36549](http://purl.obolibrary.org/obo/NCIT_C36549) (Loss of Chromosome 11))) 45.36%
+- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C36548](http://purl.obolibrary.org/obo/NCIT_C36548) (Loss of Chromosome 2q))) 45.36%
 
 

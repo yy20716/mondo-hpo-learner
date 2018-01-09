@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.16%
-- [NCIT:C36879](http://purl.obolibrary.org/obo/NCIT_C36879) (Lobular Carcinoma Cell) 51.85%
-- [NCIT:C36878](http://purl.obolibrary.org/obo/NCIT_C36878) (Neoplastic Lobular Epithelial Cell) 51.85%
-- [NCIT:C36877](http://purl.obolibrary.org/obo/NCIT_C36877) (Neoplastic Ductal Epithelial Cell) 51.85%
-- [NCIT:C36858](http://purl.obolibrary.org/obo/NCIT_C36858) (Ductal Carcinoma Cell) 51.85%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) 37.21%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39834](http://purl.obolibrary.org/obo/NCIT_C39834) (Bladder Squamous Papilloma))) 37.21%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39833](http://purl.obolibrary.org/obo/NCIT_C39833) (Schistosoma Hematobium-Related Bladder Verrucous Carcinoma))) 37.21%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39829](http://purl.obolibrary.org/obo/NCIT_C39829) (Infiltrating Bladder Urothelial Carcinoma with Giant Cells))) 37.21%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39826](http://purl.obolibrary.org/obo/NCIT_C39826) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant without Heterologous Elements))) 37.21%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39825](http://purl.obolibrary.org/obo/NCIT_C39825) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant with Heterologous Elements))) 37.21%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39821](http://purl.obolibrary.org/obo/NCIT_C39821) (Infiltrating Bladder Lymphoepithelioma-Like Carcinoma))) 37.21%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39820](http://purl.obolibrary.org/obo/NCIT_C39820) (Infiltrating Bladder Urothelial Carcinoma, Microcystic Variant))) 37.21%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39819](http://purl.obolibrary.org/obo/NCIT_C39819) (Infiltrating Bladder Urothelial Carcinoma, Nested Variant))) 37.21%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39818](http://purl.obolibrary.org/obo/NCIT_C39818) (Infiltrating Bladder Urothelial Carcinoma with Trophoblastic Differentiation))) 37.21%
+- [NCIT:C36879](http://purl.obolibrary.org/obo/NCIT_C36879) (Lobular Carcinoma Cell) 55.00%
+- [NCIT:C36878](http://purl.obolibrary.org/obo/NCIT_C36878) (Neoplastic Lobular Epithelial Cell) 55.00%
+- [NCIT:C36877](http://purl.obolibrary.org/obo/NCIT_C36877) (Neoplastic Ductal Epithelial Cell) 55.00%
+- [NCIT:C36858](http://purl.obolibrary.org/obo/NCIT_C36858) (Ductal Carcinoma Cell) 55.00%
+- [NCIT:C36654](http://purl.obolibrary.org/obo/NCIT_C36654) (CDH1 Gene Inactivation) 55.00%
+- [NCIT:C36644](http://purl.obolibrary.org/obo/NCIT_C36644) (Loss of E-cadherin Expression) 55.00%
+- [NCIT:C36515](http://purl.obolibrary.org/obo/NCIT_C36515) (Loss of Chromosome 16q) 55.00%
+- [NCIT:C33756](http://purl.obolibrary.org/obo/NCIT_C33756) (Terminal Ductal Lobular Unit Cell) 55.00%
+- [NCIT:C12480](http://purl.obolibrary.org/obo/NCIT_C12480) (Terminal Ductal Lobular Unit) 55.00%
+- [NCIT:C12370](http://purl.obolibrary.org/obo/NCIT_C12370) (Mammary Gland Tissue) and [UBERON:0006799](http://purl.obolibrary.org/obo/UBERON_0006799) (glandular epithelium) 55.00%
+- [NCIT:C12370](http://purl.obolibrary.org/obo/NCIT_C12370) (Mammary Gland Tissue) and [UBERON:0000483](http://purl.obolibrary.org/obo/UBERON_0000483) (epithelium) 55.00%
+- Thing 52.05%
+- [NCIT:C12370](http://purl.obolibrary.org/obo/NCIT_C12370) (Mammary Gland Tissue) 40.36%
+- [NCIT:C12370](http://purl.obolibrary.org/obo/NCIT_C12370) (Mammary Gland Tissue) and (not ([CL:0002573](http://purl.obolibrary.org/obo/CL_0002573) (Schwann cell))) 40.36%
+- [NCIT:C12370](http://purl.obolibrary.org/obo/NCIT_C12370) (Mammary Gland Tissue) and (not ([CL:0002572](http://purl.obolibrary.org/obo/CL_0002572) (vertebral mesenchymal stem cell))) 40.36%
 
 

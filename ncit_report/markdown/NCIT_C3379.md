@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.84%
-- [CL:0000502](http://purl.obolibrary.org/obo/CL_0000502) (type D enteroendocrine cell) and (not ([CL:0000173](http://purl.obolibrary.org/obo/CL_0000173) (pancreatic D cell))) 52.17%
-- [CL:0000502](http://purl.obolibrary.org/obo/CL_0000502) (type D enteroendocrine cell) 37.53%
-- [CL:0000164](http://purl.obolibrary.org/obo/CL_0000164) (enteroendocrine cell) 37.53%
-- [CL:0000502](http://purl.obolibrary.org/obo/CL_0000502) (type D enteroendocrine cell) and (not ([NCIT:C40142](http://purl.obolibrary.org/obo/NCIT_C40142) (Uterine Ligament Papillary Cystadenoma Associated with von Hippel-Lindau Disease))) 37.53%
-- [CL:0000502](http://purl.obolibrary.org/obo/CL_0000502) (type D enteroendocrine cell) and (not ([NCIT:C40141](http://purl.obolibrary.org/obo/NCIT_C40141) (Wolffian Adnexal Tumor))) 37.53%
-- [CL:0000502](http://purl.obolibrary.org/obo/CL_0000502) (type D enteroendocrine cell) and (not ([NCIT:C40139](http://purl.obolibrary.org/obo/NCIT_C40139) (Uterine Ligament Clear Cell Adenocarcinoma))) 37.53%
-- [CL:0000502](http://purl.obolibrary.org/obo/CL_0000502) (type D enteroendocrine cell) and (not ([NCIT:C40138](http://purl.obolibrary.org/obo/NCIT_C40138) (Uterine Ligament Endometrioid Adenocarcinoma))) 37.53%
-- [CL:0000502](http://purl.obolibrary.org/obo/CL_0000502) (type D enteroendocrine cell) and (not ([NCIT:C40137](http://purl.obolibrary.org/obo/NCIT_C40137) (Uterine Ligament Mucinous Adenocarcinoma))) 37.53%
-- [CL:0000502](http://purl.obolibrary.org/obo/CL_0000502) (type D enteroendocrine cell) and (not ([NCIT:C40129](http://purl.obolibrary.org/obo/NCIT_C40129) (Fallopian Tube Adenomatoid Tumor))) 37.53%
-- [CL:0000502](http://purl.obolibrary.org/obo/CL_0000502) (type D enteroendocrine cell) and (not ([NCIT:C40128](http://purl.obolibrary.org/obo/NCIT_C40128) (Fallopian Tube Leiomyosarcoma))) 37.53%
-- [CL:0000502](http://purl.obolibrary.org/obo/CL_0000502) (type D enteroendocrine cell) and (not ([NCIT:C40127](http://purl.obolibrary.org/obo/NCIT_C40127) (Fallopian Tube Leiomyoma))) 37.53%
-- [CL:0000502](http://purl.obolibrary.org/obo/CL_0000502) (type D enteroendocrine cell) and (not ([NCIT:C40125](http://purl.obolibrary.org/obo/NCIT_C40125) (Fallopian Tube Adenosarcoma))) 37.53%
-- [CL:0000502](http://purl.obolibrary.org/obo/CL_0000502) (type D enteroendocrine cell) and (not ([NCIT:C40124](http://purl.obolibrary.org/obo/NCIT_C40124) (Fallopian Tube Carcinosarcoma))) 37.53%
-- [CL:0000502](http://purl.obolibrary.org/obo/CL_0000502) (type D enteroendocrine cell) and (not ([NCIT:C40122](http://purl.obolibrary.org/obo/NCIT_C40122) (Pelvic Pain))) 37.53%
+- [NCIT:C9232](http://purl.obolibrary.org/obo/NCIT_C9232) (Weight Change) 55.56%
+- [NCIT:C60704](http://purl.obolibrary.org/obo/NCIT_C60704) (Somatostatin Positive Neoplastic Cells Present) 55.56%
+- [NCIT:C35925](http://purl.obolibrary.org/obo/NCIT_C35925) (Tubular Pattern) 55.56%
+- [NCIT:C35916](http://purl.obolibrary.org/obo/NCIT_C35916) (Insular Pattern) 55.56%
+- [NCIT:C3445](http://purl.obolibrary.org/obo/NCIT_C3445) (Weight Loss) 55.56%
+- [NCIT:C2987](http://purl.obolibrary.org/obo/NCIT_C2987) (Diarrhea) 55.56%
+- [NCIT:C27709](http://purl.obolibrary.org/obo/NCIT_C27709) (Psammoma Body Formation) 55.56%
+- Thing 51.95%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 49.48%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 48.28%
+- [NCIT:C35929](http://purl.obolibrary.org/obo/NCIT_C35929) (Glandular Pattern) 40.91%
+- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) 40.91%
+- [NCIT:C35929](http://purl.obolibrary.org/obo/NCIT_C35929) (Glandular Pattern) and (not ([NCIT:C36652](http://purl.obolibrary.org/obo/NCIT_C36652) (CCND1 Gene Amplification))) 40.91%
+- [NCIT:C35929](http://purl.obolibrary.org/obo/NCIT_C35929) (Glandular Pattern) and (not ([NCIT:C36651](http://purl.obolibrary.org/obo/NCIT_C36651) (FGFR2 Gene Amplification))) 40.91%
+- [NCIT:C35929](http://purl.obolibrary.org/obo/NCIT_C35929) (Glandular Pattern) and (not ([NCIT:C36650](http://purl.obolibrary.org/obo/NCIT_C36650) (FGFR1 Gene Amplification))) 40.91%
 
 

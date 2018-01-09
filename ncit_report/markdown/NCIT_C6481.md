@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.16%
-- [NCIT:C99873](http://purl.obolibrary.org/obo/NCIT_C99873) (CLTC/ALK Fusion Gene) 51.85%
-- [NCIT:C38184](http://purl.obolibrary.org/obo/NCIT_C38184) (ALK Gene) 51.85%
-- [NCIT:C20577](http://purl.obolibrary.org/obo/NCIT_C20577) (HMGA2 Gene) 51.85%
-- [NCIT:C101085](http://purl.obolibrary.org/obo/NCIT_C101085) (TPM4/ALK Fusion Gene) 51.85%
-- [NCIT:C101083](http://purl.obolibrary.org/obo/NCIT_C101083) (TPM3/ALK Fusion Gene) 51.85%
-- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C20576](http://purl.obolibrary.org/obo/NCIT_C20576) (HMGA1 Gene))) 51.85%
-- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) 37.21%
-- [NCIT:C20570](http://purl.obolibrary.org/obo/NCIT_C20570) (HMG Family Gene) 37.21%
-- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 37.21%
-- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 37.21%
-- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40034](http://purl.obolibrary.org/obo/NCIT_C40034) (Ovarian Mucinous Adenocarcinofibroma))) 37.21%
-- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40032](http://purl.obolibrary.org/obo/NCIT_C40032) (Ovarian Serous Cystadenofibroma))) 37.21%
-- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40029](http://purl.obolibrary.org/obo/NCIT_C40029) (Borderline Ovarian Serous Cystadenofibroma))) 37.21%
-- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40021](http://purl.obolibrary.org/obo/NCIT_C40021) (Ovarian Lymphoma))) 37.21%
+- [NCIT:C99873](http://purl.obolibrary.org/obo/NCIT_C99873) (CLTC/ALK Fusion Gene) 52.94%
+- [NCIT:C38184](http://purl.obolibrary.org/obo/NCIT_C38184) (ALK Gene) 52.94%
+- [NCIT:C20577](http://purl.obolibrary.org/obo/NCIT_C20577) (HMGA2 Gene) 52.94%
+- [NCIT:C101085](http://purl.obolibrary.org/obo/NCIT_C101085) (TPM4/ALK Fusion Gene) 52.94%
+- [NCIT:C101083](http://purl.obolibrary.org/obo/NCIT_C101083) (TPM3/ALK Fusion Gene) 52.94%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C20576](http://purl.obolibrary.org/obo/NCIT_C20576) (HMGA1 Gene))) 52.94%
+- Thing 52.68%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) 38.30%
+- [NCIT:C20570](http://purl.obolibrary.org/obo/NCIT_C20570) (HMG Family Gene) 38.30%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C37203](http://purl.obolibrary.org/obo/NCIT_C37203) (Small Lymphocytic Lymphoma with Immunoglobulin Heavy Chain Variable-Region Gene Somatic Hypermutation))) 38.30%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C37202](http://purl.obolibrary.org/obo/NCIT_C37202) (Chronic Lymphocytic Leukemia with Immunoglobulin Heavy Chain Variable-Region Gene Somatic Hypermutation))) 38.30%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C37196](http://purl.obolibrary.org/obo/NCIT_C37196) (Primary Systemic Anaplastic Large Cell Lymphoma, ALK-Negative))) 38.30%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C37195](http://purl.obolibrary.org/obo/NCIT_C37195) (Primary Systemic Anaplastic Large Cell Lymphoma, ALK-Positive))) 38.30%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C37191](http://purl.obolibrary.org/obo/NCIT_C37191) (Trisomy 11))) 38.30%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C37189](http://purl.obolibrary.org/obo/NCIT_C37189) (del(17q25)))) 38.30%
 
 

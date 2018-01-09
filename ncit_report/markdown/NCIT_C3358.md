@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 52.89%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) 39.32%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 34.79%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) 32.71%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) 32.71%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 32.71%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 32.71%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 32.71%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 32.71%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 32.71%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 32.71%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 32.71%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 32.71%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 32.71%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39963](http://purl.obolibrary.org/obo/NCIT_C39963) (Penile Bowenoid Papulosis))) 32.71%
+- [NCIT:C41457](http://purl.obolibrary.org/obo/NCIT_C41457) (Well-Circumscribed Lesion) 66.67%
+- Thing 51.13%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 34.78%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) 34.34%
+- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) 31.74%
+- [CL:0000183](http://purl.obolibrary.org/obo/CL_0000183) (contractile cell) 28.79%
+- [CL:0000393](http://purl.obolibrary.org/obo/CL_0000393) (electrically responsive cell) 24.29%
+- [CL:0000211](http://purl.obolibrary.org/obo/CL_0000211) (electrically active cell) 24.29%
+- [CL:0002371](http://purl.obolibrary.org/obo/CL_0002371) (somatic cell) 19.72%
+- [CL:0000548](http://purl.obolibrary.org/obo/CL_0000548) (animal cell) 19.64%
+- [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) 19.64%
+- [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) (native cell) 19.43%
+- [GO:0005623](http://purl.obolibrary.org/obo/GO_0005623) (cell) 19.42%
+- [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000) (cell) 19.39%
+- [GO:0005575](http://purl.obolibrary.org/obo/GO_0005575) (cellular_component) 19.23%
 
 

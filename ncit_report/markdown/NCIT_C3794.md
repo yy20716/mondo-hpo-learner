@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C41608](http://purl.obolibrary.org/obo/NCIT_C41608) (Endocrine-Stromal Cell) 53.85%
-- Thing 52.89%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 39.20%
-- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36563](http://purl.obolibrary.org/obo/NCIT_C36563) (t(1;3)(p36;q23-25)))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36562](http://purl.obolibrary.org/obo/NCIT_C36562) (Rearrangement of 12q13))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36561](http://purl.obolibrary.org/obo/NCIT_C36561) (Rearrangement of 1p11-q11))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36560](http://purl.obolibrary.org/obo/NCIT_C36560) (del(11p15)))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36559](http://purl.obolibrary.org/obo/NCIT_C36559) (Gain of Chromosome 20))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36558](http://purl.obolibrary.org/obo/NCIT_C36558) (Gain of Chromosome 1))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36557](http://purl.obolibrary.org/obo/NCIT_C36557) (del(13q32-qter)))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36556](http://purl.obolibrary.org/obo/NCIT_C36556) (del(13q12-13)))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36555](http://purl.obolibrary.org/obo/NCIT_C36555) (del(8p21-pter)))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36554](http://purl.obolibrary.org/obo/NCIT_C36554) (del(3p21-23)))) 39.20%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36553](http://purl.obolibrary.org/obo/NCIT_C36553) (Gain of Chromosome 1q21-31))) 39.20%
+- [NCIT:C41608](http://purl.obolibrary.org/obo/NCIT_C41608) (Endocrine-Stromal Cell) 66.67%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([NCIT:C33246](http://purl.obolibrary.org/obo/NCIT_C33246) (Ovarian Tissue))) 66.67%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) 52.02%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([CHEBI:23004](http://purl.obolibrary.org/obo/CHEBI_23004) (carbamoyl group))) 52.02%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([CHEBI:22868](http://purl.obolibrary.org/obo/CHEBI_22868) (bile salt))) 52.02%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion))) 52.02%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 52.02%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 52.02%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 52.02%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 52.02%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 52.02%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 52.02%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not (CARO:0010000)) 52.02%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 52.02%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null))) 52.02%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 55.13%
-- [NCIT:C28079](http://purl.obolibrary.org/obo/NCIT_C28079) (Grade 3) 51.22%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) 36.57%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39813](http://purl.obolibrary.org/obo/NCIT_C39813) (SMARCB1 Gene Inactivation))) 36.57%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39812](http://purl.obolibrary.org/obo/NCIT_C39812) (Metanephric Adenofibroma))) 36.57%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39811](http://purl.obolibrary.org/obo/NCIT_C39811) (t(5;11)(q35;q13)))) 36.57%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39810](http://purl.obolibrary.org/obo/NCIT_C39810) (Type 2 Renal Papillary Adenoma))) 36.57%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39809](http://purl.obolibrary.org/obo/NCIT_C39809) (Type 1 Renal Papillary Adenoma))) 36.57%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39808](http://purl.obolibrary.org/obo/NCIT_C39808) (Asymptomatic Mass))) 36.57%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39807](http://purl.obolibrary.org/obo/NCIT_C39807) (Mucinous Tubular and Spindle Cell Carcinoma of the Kidney))) 36.57%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39806](http://purl.obolibrary.org/obo/NCIT_C39806) (NONO-TFE3 Fusion Protein Expression))) 36.57%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39805](http://purl.obolibrary.org/obo/NCIT_C39805) (PSF-TFE3 Fusion Protein Expression))) 36.57%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39803](http://purl.obolibrary.org/obo/NCIT_C39803) (PRCC-TFE3 Fusion Protein Expression))) 36.57%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39802](http://purl.obolibrary.org/obo/NCIT_C39802) (Renal Cell Carcinoma Associated with inv(X)(p11;q12)))) 36.57%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39801](http://purl.obolibrary.org/obo/NCIT_C39801) (inv(X)(p11;q12)))) 36.57%
+- [NCIT:C37026](http://purl.obolibrary.org/obo/NCIT_C37026) (Hodgkin-Like Cell) 56.25%
+- [NCIT:C28079](http://purl.obolibrary.org/obo/NCIT_C28079) (Grade 3) 56.25%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast))) 56.25%
+- Thing 51.84%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) 41.61%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C37175](http://purl.obolibrary.org/obo/NCIT_C37175) (Neutrophil with Pseudo Chediak-Higashi Granules))) 41.61%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C37174](http://purl.obolibrary.org/obo/NCIT_C37174) (Neutrophil with Cytoplasmic Hypogranularity))) 41.61%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C37172](http://purl.obolibrary.org/obo/NCIT_C37172) (Hypolobated Neutrophil))) 41.61%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C37169](http://purl.obolibrary.org/obo/NCIT_C37169) (Multilobated Neoplastic B-Lymphocyte))) 41.61%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C37165](http://purl.obolibrary.org/obo/NCIT_C37165) (Atypical Lymphocyte))) 41.61%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C37161](http://purl.obolibrary.org/obo/NCIT_C37161) (Small Meningothelial Cell))) 41.61%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C37160](http://purl.obolibrary.org/obo/NCIT_C37160) (Meningothelial Cell with Clear Cytoplasm))) 41.61%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C37159](http://purl.obolibrary.org/obo/NCIT_C37159) (Eosinophilic Meningothelial Cell))) 41.61%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C37157](http://purl.obolibrary.org/obo/NCIT_C37157) (Meningothelial Cell with Elongated Processes))) 41.61%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C37156](http://purl.obolibrary.org/obo/NCIT_C37156) (Spindle-Shaped Meningothelial Cell))) 41.61%
 
 

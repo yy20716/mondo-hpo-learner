@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0018303](http://purl.obolibrary.org/obo/UBERON_0018303) (adrenal tissue) 60.00%
-- [UBERON:0003693](http://purl.obolibrary.org/obo/UBERON_0003693) (retroperitoneal space) 60.00%
-- Thing 51.79%
-- [UBERON:0006858](http://purl.obolibrary.org/obo/UBERON_0006858) (adrenal/interrenal gland) 38.87%
-- [UBERON:0002369](http://purl.obolibrary.org/obo/UBERON_0002369) (adrenal gland) 38.87%
-- [UBERON:0006858](http://purl.obolibrary.org/obo/UBERON_0006858) (adrenal/interrenal gland) and [UBERON:0015212](http://purl.obolibrary.org/obo/UBERON_0015212) (lateral structure) 38.87%
-- [UBERON:0005177](http://purl.obolibrary.org/obo/UBERON_0005177) (trunk region element) and [UBERON:0006858](http://purl.obolibrary.org/obo/UBERON_0006858) (adrenal/interrenal gland) 38.87%
-- [UBERON:0005173](http://purl.obolibrary.org/obo/UBERON_0005173) (abdominal segment element) and [UBERON:0006858](http://purl.obolibrary.org/obo/UBERON_0006858) (adrenal/interrenal gland) 38.87%
-- [UBERON:0005172](http://purl.obolibrary.org/obo/UBERON_0005172) (abdomen element) and [UBERON:0006858](http://purl.obolibrary.org/obo/UBERON_0006858) (adrenal/interrenal gland) 38.87%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 32.47%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 32.46%
-- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) 24.58%
-- [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) 23.51%
-- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 23.35%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 22.15%
+- [UBERON:0018303](http://purl.obolibrary.org/obo/UBERON_0018303) (adrenal tissue) 75.00%
+- [UBERON:0010313](http://purl.obolibrary.org/obo/UBERON_0010313) (neural crest-derived structure) 58.45%
+- [UBERON:0010314](http://purl.obolibrary.org/obo/UBERON_0010314) (structure with developmental contribution from neural crest) 54.59%
+- [UBERON:0004121](http://purl.obolibrary.org/obo/UBERON_0004121) (ectoderm-derived structure) 54.20%
+- [UBERON:0006858](http://purl.obolibrary.org/obo/UBERON_0006858) (adrenal/interrenal gland) 53.87%
+- [UBERON:0002369](http://purl.obolibrary.org/obo/UBERON_0002369) (adrenal gland) 53.87%
+- [UBERON:0004120](http://purl.obolibrary.org/obo/UBERON_0004120) (mesoderm-derived structure) 53.58%
+- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 51.86%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 51.81%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 51.70%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 51.60%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 51.59%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 51.45%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 51.44%
+- Thing 50.92%
 
 

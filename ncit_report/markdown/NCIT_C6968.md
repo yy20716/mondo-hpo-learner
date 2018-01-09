@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0002240](http://purl.obolibrary.org/obo/UBERON_0002240) (spinal cord) 54.17%
-- [UBERON:0001017](http://purl.obolibrary.org/obo/UBERON_0001017) (central nervous system) 54.17%
-- [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) (brain) 54.17%
-- [NCIT:C36105](http://purl.obolibrary.org/obo/NCIT_C36105) (Indolent Clinical Course) 54.17%
-- [NCIT:C28082](http://purl.obolibrary.org/obo/NCIT_C28082) (Grade 4) 54.17%
-- [NCIT:C128698](http://purl.obolibrary.org/obo/NCIT_C128698) (Unclassifiable Lesion) 54.17%
-- [NCIT:C12512](http://purl.obolibrary.org/obo/NCIT_C12512) (Supratentorial Brain) 54.17%
-- Thing 52.77%
-- [UBERON:0005174](http://purl.obolibrary.org/obo/UBERON_0005174) (dorsal region element) 29.17%
-- [NCIT:C53987](http://purl.obolibrary.org/obo/NCIT_C53987) (Malignant Neuroectodermal Cell) 29.17%
-- [NCIT:C28099](http://purl.obolibrary.org/obo/NCIT_C28099) (Disease Morphology Qualifier) 24.58%
-- [NCIT:C28076](http://purl.obolibrary.org/obo/NCIT_C28076) (Disease Grade Qualifier) 24.58%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 24.01%
-- [CL:0002321](http://purl.obolibrary.org/obo/CL_0002321) (embryonic cell) 23.06%
-- [UBERON:0002308](http://purl.obolibrary.org/obo/UBERON_0002308) (nucleus of brain) 21.84%
+- [NCIT:C28082](http://purl.obolibrary.org/obo/NCIT_C28082) (Grade 4) 75.00%
+- [NCIT:C12512](http://purl.obolibrary.org/obo/NCIT_C12512) (Supratentorial Brain) 75.00%
+- Thing 50.92%
+- [NCIT:C28099](http://purl.obolibrary.org/obo/NCIT_C28099) (Disease Morphology Qualifier) 45.41%
+- [NCIT:C28076](http://purl.obolibrary.org/obo/NCIT_C28076) (Disease Grade Qualifier) 45.41%
+- [UBERON:0002308](http://purl.obolibrary.org/obo/UBERON_0002308) (nucleus of brain) 40.81%
+- [UBERON:0000125](http://purl.obolibrary.org/obo/UBERON_0000125) (neural nucleus) 40.08%
+- [NCIT:C41009](http://purl.obolibrary.org/obo/NCIT_C41009) (Qualifier) 36.79%
+- [NCIT:C27992](http://purl.obolibrary.org/obo/NCIT_C27992) (Disease Qualifier) 36.79%
+- [NCIT:C20189](http://purl.obolibrary.org/obo/NCIT_C20189) (Property or Attribute) 36.79%
+- [UBERON:0011215](http://purl.obolibrary.org/obo/UBERON_0011215) (central nervous system cell part cluster) 33.57%
+- [UBERON:0005162](http://purl.obolibrary.org/obo/UBERON_0005162) (multi cell part structure) 31.11%
+- [UBERON:0000477](http://purl.obolibrary.org/obo/UBERON_0000477) (anatomical cluster) 29.81%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 26.13%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 26.03%
 
 

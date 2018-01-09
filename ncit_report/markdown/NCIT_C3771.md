@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.00%
-- [NCIT:C36879](http://purl.obolibrary.org/obo/NCIT_C36879) (Lobular Carcinoma Cell) 52.00%
-- [NCIT:C36878](http://purl.obolibrary.org/obo/NCIT_C36878) (Neoplastic Lobular Epithelial Cell) 52.00%
-- [NCIT:C36877](http://purl.obolibrary.org/obo/NCIT_C36877) (Neoplastic Ductal Epithelial Cell) 52.00%
-- [NCIT:C36858](http://purl.obolibrary.org/obo/NCIT_C36858) (Ductal Carcinoma Cell) 52.00%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39688](http://purl.obolibrary.org/obo/NCIT_C39688) (Localized Skin Lesion))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39687](http://purl.obolibrary.org/obo/NCIT_C39687) (Activated Mature Cytotoxic T-Lymphocyte))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39686](http://purl.obolibrary.org/obo/NCIT_C39686) (Activated Skin-Homing T-Lymphocyte))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39682](http://purl.obolibrary.org/obo/NCIT_C39682) (Flower-Like T-Lymphocyte))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39681](http://purl.obolibrary.org/obo/NCIT_C39681) (Neoplastic Small to Medium-Sized T-Lymphocyte with Irregular Nucleus))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39680](http://purl.obolibrary.org/obo/NCIT_C39680) (Doughnut Cell))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39679](http://purl.obolibrary.org/obo/NCIT_C39679) (Hallmark Cell))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39674](http://purl.obolibrary.org/obo/NCIT_C39674) (Anaplastic Large Cell Lymphoma, Giant Cell Rich Subtype))) 37.36%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C39657](http://purl.obolibrary.org/obo/NCIT_C39657) (Neoplastic T-Lymphocyte with Clear Cytoplasm))) 37.36%
+- [NCIT:C36879](http://purl.obolibrary.org/obo/NCIT_C36879) (Lobular Carcinoma Cell) 55.56%
+- [NCIT:C36878](http://purl.obolibrary.org/obo/NCIT_C36878) (Neoplastic Lobular Epithelial Cell) 55.56%
+- [NCIT:C36877](http://purl.obolibrary.org/obo/NCIT_C36877) (Neoplastic Ductal Epithelial Cell) 55.56%
+- [NCIT:C36858](http://purl.obolibrary.org/obo/NCIT_C36858) (Ductal Carcinoma Cell) 55.56%
+- [NCIT:C36654](http://purl.obolibrary.org/obo/NCIT_C36654) (CDH1 Gene Inactivation) 55.56%
+- [NCIT:C36644](http://purl.obolibrary.org/obo/NCIT_C36644) (Loss of E-cadherin Expression) 55.56%
+- [NCIT:C36515](http://purl.obolibrary.org/obo/NCIT_C36515) (Loss of Chromosome 16q) 55.56%
+- [NCIT:C18249](http://purl.obolibrary.org/obo/NCIT_C18249) (CDH1 Gene) 55.56%
+- [NCIT:C20988](http://purl.obolibrary.org/obo/NCIT_C20988) (Cell Adhesion Molecule Gene) and (not ([NCIT:C20999](http://purl.obolibrary.org/obo/NCIT_C20999) (CD44 Gene))) 55.56%
+- Thing 51.95%
+- [NCIT:C20988](http://purl.obolibrary.org/obo/NCIT_C20988) (Cell Adhesion Molecule Gene) 40.91%
+- [NCIT:C20988](http://purl.obolibrary.org/obo/NCIT_C20988) (Cell Adhesion Molecule Gene) and (not ([NCIT:C37084](http://purl.obolibrary.org/obo/NCIT_C37084) (Hyperchromatic Spindle Cell))) 40.91%
+- [NCIT:C20988](http://purl.obolibrary.org/obo/NCIT_C20988) (Cell Adhesion Molecule Gene) and (not ([NCIT:C37078](http://purl.obolibrary.org/obo/NCIT_C37078) (Pseudo-Gaucher Cell))) 40.91%
+- [NCIT:C20988](http://purl.obolibrary.org/obo/NCIT_C20988) (Cell Adhesion Molecule Gene) and (not ([NCIT:C37076](http://purl.obolibrary.org/obo/NCIT_C37076) (Neoplastic Neutrophilic Precursor))) 40.91%
+- [NCIT:C20988](http://purl.obolibrary.org/obo/NCIT_C20988) (Cell Adhesion Molecule Gene) and (not ([NCIT:C37075](http://purl.obolibrary.org/obo/NCIT_C37075) (Neoplastic Promonocyte))) 40.91%
 
 

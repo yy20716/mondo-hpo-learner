@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 52.12%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) 42.50%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40271](http://purl.obolibrary.org/obo/NCIT_C40271) (Low Grade Endometrioid Stromal Sarcoma of the Vagina))) 42.50%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C4027](http://purl.obolibrary.org/obo/NCIT_C4027) (Paget Disease of the Vulva))) 42.50%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40264](http://purl.obolibrary.org/obo/NCIT_C40264) (Vaginal Undifferentiated Carcinoma))) 42.50%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40263](http://purl.obolibrary.org/obo/NCIT_C40263) (Vaginal Small Cell Carcinoma))) 42.50%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40261](http://purl.obolibrary.org/obo/NCIT_C40261) (Vaginal Adenoid Cystic Carcinoma))) 42.50%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40260](http://purl.obolibrary.org/obo/NCIT_C40260) (Vaginal Adenosquamous Carcinoma))) 42.50%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C4026](http://purl.obolibrary.org/obo/NCIT_C4026) (Ovarian Mucinous Cystadenocarcinoma))) 42.50%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40259](http://purl.obolibrary.org/obo/NCIT_C40259) (Vaginal Villous Adenoma))) 42.50%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40258](http://purl.obolibrary.org/obo/NCIT_C40258) (Vaginal Tubulovillous Adenoma))) 42.50%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40257](http://purl.obolibrary.org/obo/NCIT_C40257) (Vaginal Tubular Adenoma))) 42.50%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40255](http://purl.obolibrary.org/obo/NCIT_C40255) (Vaginal Mullerian Papilloma))) 42.50%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40252](http://purl.obolibrary.org/obo/NCIT_C40252) (Vaginal Mucinous Adenocarcinoma))) 42.50%
-- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C40251](http://purl.obolibrary.org/obo/NCIT_C40251) (Vaginal Endometrioid Adenocarcinoma))) 42.50%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([NCIT:C43249](http://purl.obolibrary.org/obo/NCIT_C43249) (Mature Tissue Histiocyte))) 52.02%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([CL:0002319](http://purl.obolibrary.org/obo/CL_0002319) (neural cell))) 52.02%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([CL:0000881](http://purl.obolibrary.org/obo/CL_0000881) (perivascular macrophage))) 52.02%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([CL:0000878](http://purl.obolibrary.org/obo/CL_0000878) (central nervous system macrophage))) 52.02%
+- Thing 51.13%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) 45.53%
+- [CL:0000864](http://purl.obolibrary.org/obo/CL_0000864) (tissue-resident macrophage) and (not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null))) 45.53%
+- [CL:0000235](http://purl.obolibrary.org/obo/CL_0000235) (macrophage) 41.67%
+- [CL:0000234](http://purl.obolibrary.org/obo/CL_0000234) (phagocyte) 41.67%
+- [CL:0000234](http://purl.obolibrary.org/obo/CL_0000234) (phagocyte) and [CL:0002371](http://purl.obolibrary.org/obo/CL_0002371) (somatic cell) 41.67%
+- [CL:0000234](http://purl.obolibrary.org/obo/CL_0000234) (phagocyte) and [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) 41.67%
+- [CL:0002371](http://purl.obolibrary.org/obo/CL_0002371) (somatic cell) 37.64%
+- [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) 37.54%
+- [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) (native cell) 37.24%
+- [GO:0005623](http://purl.obolibrary.org/obo/GO_0005623) (cell) 37.23%
 
 

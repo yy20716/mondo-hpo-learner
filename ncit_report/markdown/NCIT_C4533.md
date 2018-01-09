@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.40%
-- [NCIT:C36117](http://purl.obolibrary.org/obo/NCIT_C36117) (Invasive Lesion) 52.78%
-- [NCIT:C36105](http://purl.obolibrary.org/obo/NCIT_C36105) (Indolent Clinical Course) 52.78%
-- [NCIT:C34661](http://purl.obolibrary.org/obo/NCIT_C34661) (Headache) 52.78%
-- [NCIT:C3442](http://purl.obolibrary.org/obo/NCIT_C3442) (Vomiting) 52.78%
-- [NCIT:C53534](http://purl.obolibrary.org/obo/NCIT_C53534) (Non-Neoplastic Vision Disorder) 38.13%
-- [NCIT:C35040](http://purl.obolibrary.org/obo/NCIT_C35040) (Strabismus) 38.13%
-- [NCIT:C35040](http://purl.obolibrary.org/obo/NCIT_C35040) (Strabismus) and (not ([NCIT:C39689](http://purl.obolibrary.org/obo/NCIT_C39689) (Multicentric Cutaneous Involvement))) 38.13%
-- [NCIT:C35040](http://purl.obolibrary.org/obo/NCIT_C35040) (Strabismus) and (not ([NCIT:C39688](http://purl.obolibrary.org/obo/NCIT_C39688) (Localized Skin Lesion))) 38.13%
-- [NCIT:C35040](http://purl.obolibrary.org/obo/NCIT_C35040) (Strabismus) and (not ([NCIT:C39687](http://purl.obolibrary.org/obo/NCIT_C39687) (Activated Mature Cytotoxic T-Lymphocyte))) 38.13%
-- [NCIT:C35040](http://purl.obolibrary.org/obo/NCIT_C35040) (Strabismus) and (not ([NCIT:C39686](http://purl.obolibrary.org/obo/NCIT_C39686) (Activated Skin-Homing T-Lymphocyte))) 38.13%
-- [NCIT:C35040](http://purl.obolibrary.org/obo/NCIT_C35040) (Strabismus) and (not ([NCIT:C39682](http://purl.obolibrary.org/obo/NCIT_C39682) (Flower-Like T-Lymphocyte))) 38.13%
-- [NCIT:C35040](http://purl.obolibrary.org/obo/NCIT_C35040) (Strabismus) and (not ([NCIT:C39681](http://purl.obolibrary.org/obo/NCIT_C39681) (Neoplastic Small to Medium-Sized T-Lymphocyte with Irregular Nucleus))) 38.13%
-- [NCIT:C35040](http://purl.obolibrary.org/obo/NCIT_C35040) (Strabismus) and (not ([NCIT:C39680](http://purl.obolibrary.org/obo/NCIT_C39680) (Doughnut Cell))) 38.13%
-- [NCIT:C35040](http://purl.obolibrary.org/obo/NCIT_C35040) (Strabismus) and (not ([NCIT:C39679](http://purl.obolibrary.org/obo/NCIT_C39679) (Hallmark Cell))) 38.13%
+- [NCIT:C36117](http://purl.obolibrary.org/obo/NCIT_C36117) (Invasive Lesion) 62.50%
+- Thing 51.30%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 40.58%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 39.85%
+- [NCIT:C26791](http://purl.obolibrary.org/obo/NCIT_C26791) (Hemorrhage) 29.17%
+- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 28.48%
+- [NCIT:C42078](http://purl.obolibrary.org/obo/NCIT_C42078) (Lesion by Morphology) 26.37%
+- [NCIT:C36295](http://purl.obolibrary.org/obo/NCIT_C36295) (Other Finding) 22.71%
+- [NCIT:C3824](http://purl.obolibrary.org/obo/NCIT_C3824) (Lesion) 18.75%
+- [NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell) 18.13%
+- [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) 17.96%
+- [NCIT:C36753](http://purl.obolibrary.org/obo/NCIT_C36753) (Neoplastic Epithelial Cell) 16.95%
+- [NCIT:C36745](http://purl.obolibrary.org/obo/NCIT_C36745) (Abnormal Epithelial Cell) 16.94%
+- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) 15.73%
+- [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) 14.98%
 
 

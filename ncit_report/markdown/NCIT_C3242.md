@@ -2,24 +2,24 @@
 ### [NCIT:C3242](http://purl.obolibrary.org/obo/NCIT_C3242)
 **Label:** Plasma Cell Myeloma
 
-**Subclasses:** [NCIT:C4734](http://purl.obolibrary.org/obo/NCIT_C4734) (Non-Secretory Plasma Cell Myeloma), [NCIT:C7149](http://purl.obolibrary.org/obo/NCIT_C7149) (Smoldering Plasma Cell Myeloma), [NCIT:C7765](http://purl.obolibrary.org/obo/NCIT_C7765) (Osteosclerotic Plasma Cell Myeloma), [NCIT:C7242](http://purl.obolibrary.org/obo/NCIT_C7242) (Plasma Cell Myeloma Post-Transplant Lymphoproliferative Disorder), 
+**Subclasses:** [NCIT:C4734](http://purl.obolibrary.org/obo/NCIT_C4734) (Non-Secretory Plasma Cell Myeloma), [NCIT:C7765](http://purl.obolibrary.org/obo/NCIT_C7765) (Osteosclerotic Plasma Cell Myeloma), [NCIT:C7149](http://purl.obolibrary.org/obo/NCIT_C7149) (Smoldering Plasma Cell Myeloma), [NCIT:C7242](http://purl.obolibrary.org/obo/NCIT_C7242) (Plasma Cell Myeloma Post-Transplant Lymphoproliferative Disorder), 
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.67%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) 37.74%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39593](http://purl.obolibrary.org/obo/NCIT_C39593) (Peripheral Blood Involvement))) 37.74%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39589](http://purl.obolibrary.org/obo/NCIT_C39589) (Angioinvasion))) 37.74%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39588](http://purl.obolibrary.org/obo/NCIT_C39588) (Serum Soluble Fas Ligand Level Increased))) 37.74%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39586](http://purl.obolibrary.org/obo/NCIT_C39586) (T-Cell Large Granular Lymphocyte Leukemia Expressing the T-Cell Receptor Gamma-Delta))) 37.74%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39584](http://purl.obolibrary.org/obo/NCIT_C39584) (T-Cell Large Granular Lymphocyte Leukemia, Common Variant))) 37.74%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39583](http://purl.obolibrary.org/obo/NCIT_C39583) (FAS Apoptosis Pathway Deregulation))) 37.74%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C3958](http://purl.obolibrary.org/obo/NCIT_C3958) (Disseminated Peritoneal Leiomyomatosis))) 37.74%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39573](http://purl.obolibrary.org/obo/NCIT_C39573) (T-Lymphocyte with a Post-Thymic Immunophenotype))) 37.74%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39572](http://purl.obolibrary.org/obo/NCIT_C39572) (Neoplastic Cerebriform T-Prolymphocyte))) 37.74%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39571](http://purl.obolibrary.org/obo/NCIT_C39571) (Neoplastic Small T-Prolymphocyte))) 37.74%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39569](http://purl.obolibrary.org/obo/NCIT_C39569) (Cytoplasmic Protrusions Present))) 37.74%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39565](http://purl.obolibrary.org/obo/NCIT_C39565) (Coarse Azurophilic Granules Present))) 37.74%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C3950](http://purl.obolibrary.org/obo/NCIT_C3950) (Oral Mucosa Lobular Capillary Hemangioma))) 37.74%
+- [NCIT:C41032](http://purl.obolibrary.org/obo/NCIT_C41032) (Bone Marrow-Homing Plasma Cell) 58.33%
+- [NCIT:C27490](http://purl.obolibrary.org/obo/NCIT_C27490) (t(11;14)(q13;q32)) 58.33%
+- Thing 51.59%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) 43.69%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C37149](http://purl.obolibrary.org/obo/NCIT_C37149) (Rhabdoid Cell))) 43.69%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C37147](http://purl.obolibrary.org/obo/NCIT_C37147) (Neoplastic Oligodendrocyte-Like Cell))) 43.69%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C37145](http://purl.obolibrary.org/obo/NCIT_C37145) (Neoplastic Neuroblast))) 43.69%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C37144](http://purl.obolibrary.org/obo/NCIT_C37144) (Neoplastic Elongated Glial Cell))) 43.69%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C37141](http://purl.obolibrary.org/obo/NCIT_C37141) (Neoplastic Oligodendrocyte))) 43.69%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C37139](http://purl.obolibrary.org/obo/NCIT_C37139) (Xanthomatous Astrocyte))) 43.69%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C37138](http://purl.obolibrary.org/obo/NCIT_C37138) (Neoplastic Piloid Astrocyte))) 43.69%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C37137](http://purl.obolibrary.org/obo/NCIT_C37137) (Poorly Differentiated Neoplastic Astrocyte))) 43.69%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C37136](http://purl.obolibrary.org/obo/NCIT_C37136) (Anaplastic Astrocyte))) 43.69%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C37135](http://purl.obolibrary.org/obo/NCIT_C37135) (Neoplastic Astrocyte with Few Flaccid Processes))) 43.69%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C37132](http://purl.obolibrary.org/obo/NCIT_C37132) (Gemistocytic Neoplastic Astrocyte))) 43.69%
 
 

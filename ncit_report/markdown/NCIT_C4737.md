@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.46%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) 36.97%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39800](http://purl.obolibrary.org/obo/NCIT_C39800) (Sickle Cell Trait))) 36.97%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39799](http://purl.obolibrary.org/obo/NCIT_C39799) (Loss of Chromosome 21))) 36.97%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39798](http://purl.obolibrary.org/obo/NCIT_C39798) (Loss of Chromosome 2))) 36.97%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39795](http://purl.obolibrary.org/obo/NCIT_C39795) (Loss of Chromosome 14q))) 36.97%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39788](http://purl.obolibrary.org/obo/NCIT_C39788) (MET Gene Mutation))) 36.97%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39787](http://purl.obolibrary.org/obo/NCIT_C39787) (Multiple Tumor Masses))) 36.97%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39786](http://purl.obolibrary.org/obo/NCIT_C39786) (Bilateral Disease))) 36.97%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39783](http://purl.obolibrary.org/obo/NCIT_C39783) (Retinal Hemangioblastoma))) 36.97%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39752](http://purl.obolibrary.org/obo/NCIT_C39752) (Refractory Disease))) 36.97%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39751](http://purl.obolibrary.org/obo/NCIT_C39751) (Glioblastoma, IDH-Mutant))) 36.97%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39748](http://purl.obolibrary.org/obo/NCIT_C39748) (Lymphoblast-Like Neoplastic B-Lymphocyte))) 36.97%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39747](http://purl.obolibrary.org/obo/NCIT_C39747) (Pleomorphic Variant Mantle Cell Lymphoma))) 36.97%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39743](http://purl.obolibrary.org/obo/NCIT_C39743) (Fascicular Pattern))) 36.97%
+- [NCIT:C39614](http://purl.obolibrary.org/obo/NCIT_C39614) (Neoplastic Medium-Sized to Large T-Lymphocyte) 57.14%
+- [NCIT:C36992](http://purl.obolibrary.org/obo/NCIT_C36992) (Neoplastic Medium-Sized to Large Lymphocyte) 57.14%
+- [NCIT:C39602](http://purl.obolibrary.org/obo/NCIT_C39602) (Pleomorphic Medium-Sized to Large T-Lymphocyte) 53.57%
+- [NCIT:C39600](http://purl.obolibrary.org/obo/NCIT_C39600) (Neoplastic Medium-Sized T-Lymphocyte) 53.57%
+- [NCIT:C37017](http://purl.obolibrary.org/obo/NCIT_C37017) (Anaplastic Large T-Lymphocyte) 53.57%
+- [NCIT:C36997](http://purl.obolibrary.org/obo/NCIT_C36997) (Pleomorphic T-Lymphocyte) 53.57%
+- [NCIT:C36995](http://purl.obolibrary.org/obo/NCIT_C36995) (Pleomorphic Lymphocyte) 53.57%
+- Thing 52.43%
+- [NCIT:C39566](http://purl.obolibrary.org/obo/NCIT_C39566) (Neoplastic T-Lymphocyte and Neoplastic Natural Killer Cell) 45.45%
+- [NCIT:C39606](http://purl.obolibrary.org/obo/NCIT_C39606) (Neoplastic Small to Medium-Sized T-Lymphocyte) 38.93%
+- [NCIT:C39606](http://purl.obolibrary.org/obo/NCIT_C39606) (Neoplastic Small to Medium-Sized T-Lymphocyte) and (not ([NCIT:C37157](http://purl.obolibrary.org/obo/NCIT_C37157) (Meningothelial Cell with Elongated Processes))) 38.93%
+- [NCIT:C39606](http://purl.obolibrary.org/obo/NCIT_C39606) (Neoplastic Small to Medium-Sized T-Lymphocyte) and (not ([NCIT:C37156](http://purl.obolibrary.org/obo/NCIT_C37156) (Spindle-Shaped Meningothelial Cell))) 38.93%
+- [NCIT:C39606](http://purl.obolibrary.org/obo/NCIT_C39606) (Neoplastic Small to Medium-Sized T-Lymphocyte) and (not ([NCIT:C37154](http://purl.obolibrary.org/obo/NCIT_C37154) (Neoplastic Perineurial Cell))) 38.93%
+- [NCIT:C39606](http://purl.obolibrary.org/obo/NCIT_C39606) (Neoplastic Small to Medium-Sized T-Lymphocyte) and (not ([NCIT:C37152](http://purl.obolibrary.org/obo/NCIT_C37152) (Neoplastic Perineurial-Like Cell))) 38.93%
+- [NCIT:C39606](http://purl.obolibrary.org/obo/NCIT_C39606) (Neoplastic Small to Medium-Sized T-Lymphocyte) and (not ([NCIT:C37151](http://purl.obolibrary.org/obo/NCIT_C37151) (Neoplastic Schwann Cell))) 38.93%
 
 
