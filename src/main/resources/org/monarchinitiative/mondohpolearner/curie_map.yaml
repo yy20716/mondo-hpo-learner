@@ -27,6 +27,7 @@
 'AQTLTrait': 'http://identifiers.org/animalqtltrait/'  # FIXME - should get integrated into Upheno
 'MONDO': 'http://purl.obolibrary.org/obo/MONDO_' # MONDO
 'BFO': 'http://purl.obolibrary.org/obo/BFO_' # BFO: Basic Formal Ontology
+'CARO': 'http://purl.obolibrary.org/obo/CARO_'
 'CHEBI' : 'http://purl.obolibrary.org/obo/CHEBI_' # ChEBI: Chemicals of Biological Interest
 'CHR' : 'http://purl.obolibrary.org/obo/CHR_'  # CHR: Chromosome Ontology
 'CL' : 'http://purl.obolibrary.org/obo/CL_'  # CL: Cell Ontology (cell types)  [y]
