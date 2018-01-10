@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C2956](http://purl.obolibrary.org/obo/NCIT_C2956) (Colorectal Neoplasm) 54.65%
-- [NCIT:C3263](http://purl.obolibrary.org/obo/NCIT_C3263) (Neoplasm by Site) 54.40%
-- [NCIT:C3262](http://purl.obolibrary.org/obo/NCIT_C3262) (Neoplasm) 54.28%
-- [NCIT:C27551](http://purl.obolibrary.org/obo/NCIT_C27551) (Disorder by Site) 53.93%
-- [NCIT:C2991](http://purl.obolibrary.org/obo/NCIT_C2991) (Disease or Disorder) 53.63%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 52.35%
-- Thing 51.13%
-- [NCIT:C3141](http://purl.obolibrary.org/obo/NCIT_C3141) (Intestinal Neoplasm) 51.01%
-- [NCIT:C3052](http://purl.obolibrary.org/obo/NCIT_C3052) (Digestive System Neoplasm) 43.05%
-- [NCIT:C4978](http://purl.obolibrary.org/obo/NCIT_C4978) (Malignant Colorectal Neoplasm) 39.03%
-- [NCIT:C4741](http://purl.obolibrary.org/obo/NCIT_C4741) (Neoplasm by Morphology) 37.03%
-- [NCIT:C4572](http://purl.obolibrary.org/obo/NCIT_C4572) (Malignant Intestinal Neoplasm) 35.56%
-- [NCIT:C36207](http://purl.obolibrary.org/obo/NCIT_C36207) (Digestive System Adenoma) 32.48%
-- [NCIT:C4890](http://purl.obolibrary.org/obo/NCIT_C4890) (Malignant Digestive System Neoplasm) 26.67%
-- [NCIT:C3268](http://purl.obolibrary.org/obo/NCIT_C3268) (Nervous System Neoplasm) 23.88%
+- Thing 53.25%
+- [NCIT:C18591](http://purl.obolibrary.org/obo/NCIT_C18591) (PMS2 Gene) 53.12%
+- [NCIT:C18482](http://purl.obolibrary.org/obo/NCIT_C18482) (MLH1 Gene) 53.12%
+- [NCIT:C18481](http://purl.obolibrary.org/obo/NCIT_C18481) (MSH2 Gene) 53.12%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C19195](http://purl.obolibrary.org/obo/NCIT_C19195) (MSH6 Gene))) 48.10%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C18590](http://purl.obolibrary.org/obo/NCIT_C18590) (PMS1 Gene))) 48.10%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) 44.73%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39909](http://purl.obolibrary.org/obo/NCIT_C39909) (Gain of Chromosome 18q))) 44.73%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39907](http://purl.obolibrary.org/obo/NCIT_C39907) (Seminal Vesicle Cystadenoma))) 44.73%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39906](http://purl.obolibrary.org/obo/NCIT_C39906) (Seminal Vesicle Adenocarcinoma))) 44.73%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39905](http://purl.obolibrary.org/obo/NCIT_C39905) (Prostate Stromal Proliferation of Uncertain Malignant Potential))) 44.73%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39903](http://purl.obolibrary.org/obo/NCIT_C39903) (Prostate Adenocarcinoma with Focal Neuroendocrine Differentiation))) 44.73%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39902](http://purl.obolibrary.org/obo/NCIT_C39902) (Prostate Basal Cell Carcinoma))) 44.73%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39901](http://purl.obolibrary.org/obo/NCIT_C39901) (Prostatic Duct Urothelial Carcinoma))) 44.73%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39899](http://purl.obolibrary.org/obo/NCIT_C39899) (Secondary Prostate Urothelial Carcinoma))) 44.73%
 
 

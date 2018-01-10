@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C19195](http://purl.obolibrary.org/obo/NCIT_C19195) (MSH6 Gene) 53.57%
-- [NCIT:C18591](http://purl.obolibrary.org/obo/NCIT_C18591) (PMS2 Gene) 53.57%
-- [NCIT:C18590](http://purl.obolibrary.org/obo/NCIT_C18590) (PMS1 Gene) 53.57%
-- Thing 52.43%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C18482](http://purl.obolibrary.org/obo/NCIT_C18482) (MLH1 Gene))) 49.44%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C18481](http://purl.obolibrary.org/obo/NCIT_C18481) (MSH2 Gene))) 49.44%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) 46.07%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C37041](http://purl.obolibrary.org/obo/NCIT_C37041) (Neoplastic Monocyte))) 46.07%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C3704](http://purl.obolibrary.org/obo/NCIT_C3704) (Dedifferentiated Liposarcoma))) 46.07%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C37039](http://purl.obolibrary.org/obo/NCIT_C37039) (Large Atypical Platelet))) 46.07%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C37032](http://purl.obolibrary.org/obo/NCIT_C37032) (Abnormal Eosinophil))) 46.07%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C37030](http://purl.obolibrary.org/obo/NCIT_C37030) (Toxic Neutrophil))) 46.07%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C37027](http://purl.obolibrary.org/obo/NCIT_C37027) (Popcorn Cell))) 46.07%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C37026](http://purl.obolibrary.org/obo/NCIT_C37026) (Hodgkin-Like Cell))) 46.07%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C37025](http://purl.obolibrary.org/obo/NCIT_C37025) (Mummified Cell))) 46.07%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) 59.53%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39748](http://purl.obolibrary.org/obo/NCIT_C39748) (Lymphoblast-Like Neoplastic B-Lymphocyte))) 59.53%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39747](http://purl.obolibrary.org/obo/NCIT_C39747) (Pleomorphic Variant Mantle Cell Lymphoma))) 59.53%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39743](http://purl.obolibrary.org/obo/NCIT_C39743) (Fascicular Pattern))) 59.53%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39741](http://purl.obolibrary.org/obo/NCIT_C39741) (Retroperitoneal Inflammatory Myofibroblastic Tumor))) 59.53%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39740](http://purl.obolibrary.org/obo/NCIT_C39740) (Lung Inflammatory Myofibroblastic Tumor))) 59.53%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39739](http://purl.obolibrary.org/obo/NCIT_C39739) (Negative Peripheral Blood))) 59.53%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39725](http://purl.obolibrary.org/obo/NCIT_C39725) (Immunodeficiency))) 59.53%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39721](http://purl.obolibrary.org/obo/NCIT_C39721) (Abundance of Small Lymphocytes))) 59.53%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39720](http://purl.obolibrary.org/obo/NCIT_C39720) (Classical Reed-Sternberg Cell))) 59.53%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C3972](http://purl.obolibrary.org/obo/NCIT_C3972) (Prostate Fibroma))) 59.53%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39719](http://purl.obolibrary.org/obo/NCIT_C39719) (PDGFRalpha Protein Overexpression))) 59.53%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39718](http://purl.obolibrary.org/obo/NCIT_C39718) (PDGFRA Gene Mutation))) 59.53%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39717](http://purl.obolibrary.org/obo/NCIT_C39717) (MDM2 Gene Mutation))) 59.53%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39716](http://purl.obolibrary.org/obo/NCIT_C39716) (EGFR Protein Overexpression))) 59.53%
 
 

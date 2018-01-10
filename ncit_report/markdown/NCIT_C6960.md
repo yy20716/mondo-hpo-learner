@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [CL:0000128](http://purl.obolibrary.org/obo/CL_0000128) (oligodendrocyte) 60.00%
-- Thing 51.45%
-- [CL:0000126](http://purl.obolibrary.org/obo/CL_0000126) (macroglial cell) 45.36%
-- [CL:0000126](http://purl.obolibrary.org/obo/CL_0000126) (macroglial cell) and (not ([NCIT:C37149](http://purl.obolibrary.org/obo/NCIT_C37149) (Rhabdoid Cell))) 45.36%
-- [CL:0000126](http://purl.obolibrary.org/obo/CL_0000126) (macroglial cell) and (not ([NCIT:C37147](http://purl.obolibrary.org/obo/NCIT_C37147) (Neoplastic Oligodendrocyte-Like Cell))) 45.36%
-- [CL:0000126](http://purl.obolibrary.org/obo/CL_0000126) (macroglial cell) and (not ([NCIT:C37145](http://purl.obolibrary.org/obo/NCIT_C37145) (Neoplastic Neuroblast))) 45.36%
-- [CL:0000126](http://purl.obolibrary.org/obo/CL_0000126) (macroglial cell) and (not ([NCIT:C37144](http://purl.obolibrary.org/obo/NCIT_C37144) (Neoplastic Elongated Glial Cell))) 45.36%
-- [CL:0000126](http://purl.obolibrary.org/obo/CL_0000126) (macroglial cell) and (not ([NCIT:C37141](http://purl.obolibrary.org/obo/NCIT_C37141) (Neoplastic Oligodendrocyte))) 45.36%
-- [CL:0000126](http://purl.obolibrary.org/obo/CL_0000126) (macroglial cell) and (not ([NCIT:C37139](http://purl.obolibrary.org/obo/NCIT_C37139) (Xanthomatous Astrocyte))) 45.36%
-- [CL:0000126](http://purl.obolibrary.org/obo/CL_0000126) (macroglial cell) and (not ([NCIT:C37138](http://purl.obolibrary.org/obo/NCIT_C37138) (Neoplastic Piloid Astrocyte))) 45.36%
-- [CL:0000126](http://purl.obolibrary.org/obo/CL_0000126) (macroglial cell) and (not ([NCIT:C37137](http://purl.obolibrary.org/obo/NCIT_C37137) (Poorly Differentiated Neoplastic Astrocyte))) 45.36%
-- [CL:0000126](http://purl.obolibrary.org/obo/CL_0000126) (macroglial cell) and (not ([NCIT:C37136](http://purl.obolibrary.org/obo/NCIT_C37136) (Anaplastic Astrocyte))) 45.36%
-- [CL:0000126](http://purl.obolibrary.org/obo/CL_0000126) (macroglial cell) and (not ([NCIT:C37135](http://purl.obolibrary.org/obo/NCIT_C37135) (Neoplastic Astrocyte with Few Flaccid Processes))) 45.36%
-- [CL:0000126](http://purl.obolibrary.org/obo/CL_0000126) (macroglial cell) and (not ([NCIT:C37132](http://purl.obolibrary.org/obo/NCIT_C37132) (Gemistocytic Neoplastic Astrocyte))) 45.36%
-- [CL:0000126](http://purl.obolibrary.org/obo/CL_0000126) (macroglial cell) and (not ([NCIT:C37129](http://purl.obolibrary.org/obo/NCIT_C37129) (Fibrillary Neoplastic Astrocyte))) 45.36%
+- Thing 54.81%
+- [NCIT:C79099](http://purl.obolibrary.org/obo/NCIT_C79099) (1p/19q Codeletion) 51.43%
+- [NCIT:C6833](http://purl.obolibrary.org/obo/NCIT_C6833) (Double Minutes) 51.43%
+- [NCIT:C41428](http://purl.obolibrary.org/obo/NCIT_C41428) (Increased Cellularity Present) 51.43%
+- [NCIT:C38328](http://purl.obolibrary.org/obo/NCIT_C38328) (Unfavorable Clinical Outcome) 51.43%
+- [NCIT:C36636](http://purl.obolibrary.org/obo/NCIT_C36636) (Loss of Chromosome 9p) 51.43%
+- [NCIT:C36524](http://purl.obolibrary.org/obo/NCIT_C36524) (Loss of Chromosome 7) 51.43%
+- [NCIT:C36512](http://purl.obolibrary.org/obo/NCIT_C36512) (Loss of Chromosome 10p) 51.43%
+- [NCIT:C36506](http://purl.obolibrary.org/obo/NCIT_C36506) (Loss of Chromosome 22q) 51.43%
+- [NCIT:C36505](http://purl.obolibrary.org/obo/NCIT_C36505) (Loss of Chromosome 11p) 51.43%
+- [NCIT:C36504](http://purl.obolibrary.org/obo/NCIT_C36504) (Loss of Chromosome 6) 51.43%
+- [NCIT:C36490](http://purl.obolibrary.org/obo/NCIT_C36490) (Loss of Chromosome 14) 51.43%
+- [NCIT:C36454](http://purl.obolibrary.org/obo/NCIT_C36454) (Gain of Chromosome 7) 51.43%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) 36.78%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C3994](http://purl.obolibrary.org/obo/NCIT_C3994) (Stage IV Colon Cancer AJCC v6))) 36.78%
 
 

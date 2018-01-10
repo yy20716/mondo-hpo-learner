@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36252](http://purl.obolibrary.org/obo/NCIT_C36252) (Ineffective Hematopoiesis) 58.33%
-- [NCIT:C35788](http://purl.obolibrary.org/obo/NCIT_C35788) (Hypercellular Bone Marrow) 58.33%
-- [NCIT:C35877](http://purl.obolibrary.org/obo/NCIT_C35877) (Abnormal Hematology Test Result) 54.41%
-- [NCIT:C36289](http://purl.obolibrary.org/obo/NCIT_C36289) (Hematopoietic System Finding) 53.79%
-- Thing 51.59%
-- [NCIT:C36278](http://purl.obolibrary.org/obo/NCIT_C36278) (Finding by Site or System) 50.68%
-- [NCIT:C77140](http://purl.obolibrary.org/obo/NCIT_C77140) (Clinical Test Result) 50.17%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 45.64%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 44.70%
-- [UBERON:0002371](http://purl.obolibrary.org/obo/UBERON_0002371) (bone marrow) 43.69%
-- [UBERON:0002371](http://purl.obolibrary.org/obo/UBERON_0002371) (bone marrow) and (not ([NCIT:C35788](http://purl.obolibrary.org/obo/NCIT_C35788) (Hypercellular Bone Marrow))) 43.69%
-- [UBERON:0002371](http://purl.obolibrary.org/obo/UBERON_0002371) (bone marrow) and (not ([NCIT:C3578](http://purl.obolibrary.org/obo/NCIT_C3578) (Metastatic Malignant Neoplasm in the Mediastinum))) 43.69%
-- [UBERON:0002371](http://purl.obolibrary.org/obo/UBERON_0002371) (bone marrow) and (not ([NCIT:C35758](http://purl.obolibrary.org/obo/NCIT_C35758) (Stage 0 Large Cell Lung Carcinoma AJCC v6 and v7))) 43.69%
-- [UBERON:0002371](http://purl.obolibrary.org/obo/UBERON_0002371) (bone marrow) and (not ([NCIT:C35738](http://purl.obolibrary.org/obo/NCIT_C35738) (Salivary Gland Sebaceous Adenoma))) 43.69%
-- [UBERON:0002371](http://purl.obolibrary.org/obo/UBERON_0002371) (bone marrow) and (not ([NCIT:C35737](http://purl.obolibrary.org/obo/NCIT_C35737) (Salivary Gland Adenosquamous Carcinoma))) 43.69%
+- Thing 57.09%
+- [NCIT:C37175](http://purl.obolibrary.org/obo/NCIT_C37175) (Neutrophil with Pseudo Chediak-Higashi Granules) 50.66%
+- [NCIT:C37174](http://purl.obolibrary.org/obo/NCIT_C37174) (Neutrophil with Cytoplasmic Hypogranularity) 50.66%
+- [NCIT:C37172](http://purl.obolibrary.org/obo/NCIT_C37172) (Hypolobated Neutrophil) 50.66%
+- [NCIT:C36724](http://purl.obolibrary.org/obo/NCIT_C36724) (Neutrophil with Pseudo Pelger-Huet Nucleus) 50.66%
+- [NCIT:C37031](http://purl.obolibrary.org/obo/NCIT_C37031) (Dysplastic Neutrophil) 48.93%
+- [NCIT:C37031](http://purl.obolibrary.org/obo/NCIT_C37031) (Dysplastic Neutrophil) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 48.93%
+- [NCIT:C37031](http://purl.obolibrary.org/obo/NCIT_C37031) (Dysplastic Neutrophil) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 48.93%
+- [NCIT:C37031](http://purl.obolibrary.org/obo/NCIT_C37031) (Dysplastic Neutrophil) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 48.93%
+- [NCIT:C37031](http://purl.obolibrary.org/obo/NCIT_C37031) (Dysplastic Neutrophil) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 48.93%
+- [NCIT:C37031](http://purl.obolibrary.org/obo/NCIT_C37031) (Dysplastic Neutrophil) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 48.93%
+- [NCIT:C37031](http://purl.obolibrary.org/obo/NCIT_C37031) (Dysplastic Neutrophil) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 48.93%
+- [NCIT:C37031](http://purl.obolibrary.org/obo/NCIT_C37031) (Dysplastic Neutrophil) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 48.93%
+- [NCIT:C37031](http://purl.obolibrary.org/obo/NCIT_C37031) (Dysplastic Neutrophil) and (not ([NCIT:C40034](http://purl.obolibrary.org/obo/NCIT_C40034) (Ovarian Mucinous Adenocarcinofibroma))) 48.93%
+- [NCIT:C37031](http://purl.obolibrary.org/obo/NCIT_C37031) (Dysplastic Neutrophil) and (not ([NCIT:C40032](http://purl.obolibrary.org/obo/NCIT_C40032) (Ovarian Serous Cystadenofibroma))) 48.93%
 
 

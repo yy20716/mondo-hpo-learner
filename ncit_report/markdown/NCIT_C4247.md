@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C6833](http://purl.obolibrary.org/obo/NCIT_C6833) (Double Minutes) 53.33%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C36474](http://purl.obolibrary.org/obo/NCIT_C36474) (Ring Chromosome 1))) 53.33%
-- Thing 52.52%
-- [NCIT:C2950](http://purl.obolibrary.org/obo/NCIT_C2950) (Cytogenetic Abnormality) 46.21%
-- [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 44.01%
-- [NCIT:C6825](http://purl.obolibrary.org/obo/NCIT_C6825) (Numerical Chromosomal Abnormality) 42.50%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) 38.69%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C37108](http://purl.obolibrary.org/obo/NCIT_C37108) (Adenocarcinoma Spindle Cell))) 38.69%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C37091](http://purl.obolibrary.org/obo/NCIT_C37091) (Vacuolated Endothelial Cell))) 38.69%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C37085](http://purl.obolibrary.org/obo/NCIT_C37085) (Undifferentiated Carcinoma Cell))) 38.69%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C37084](http://purl.obolibrary.org/obo/NCIT_C37084) (Hyperchromatic Spindle Cell))) 38.69%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C37078](http://purl.obolibrary.org/obo/NCIT_C37078) (Pseudo-Gaucher Cell))) 38.69%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C37076](http://purl.obolibrary.org/obo/NCIT_C37076) (Neoplastic Neutrophilic Precursor))) 38.69%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C37075](http://purl.obolibrary.org/obo/NCIT_C37075) (Neoplastic Promonocyte))) 38.69%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C37074](http://purl.obolibrary.org/obo/NCIT_C37074) (Hypogranular Promyelocyte))) 38.69%
+- Thing 53.73%
+- [NCIT:C6833](http://purl.obolibrary.org/obo/NCIT_C6833) (Double Minutes) 52.38%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C36474](http://purl.obolibrary.org/obo/NCIT_C36474) (Ring Chromosome 1))) 52.38%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) 37.74%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 37.74%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 37.74%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 37.74%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 37.74%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 37.74%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 37.74%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C40034](http://purl.obolibrary.org/obo/NCIT_C40034) (Ovarian Mucinous Adenocarcinofibroma))) 37.74%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C40032](http://purl.obolibrary.org/obo/NCIT_C40032) (Ovarian Serous Cystadenofibroma))) 37.74%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C40029](http://purl.obolibrary.org/obo/NCIT_C40029) (Borderline Ovarian Serous Cystadenofibroma))) 37.74%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C40021](http://purl.obolibrary.org/obo/NCIT_C40021) (Ovarian Lymphoma))) 37.74%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 37.74%
 
 

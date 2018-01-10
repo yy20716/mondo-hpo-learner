@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C43574](http://purl.obolibrary.org/obo/NCIT_C43574) (Neuroendocrine Differentiation) 75.00%
-- [NCIT:C42585](http://purl.obolibrary.org/obo/NCIT_C42585) (Epithelial Differentiation) 69.61%
-- [NCIT:C42095](http://purl.obolibrary.org/obo/NCIT_C42095) (Tissue Differentiation) 62.91%
-- [NCIT:C43573](http://purl.obolibrary.org/obo/NCIT_C43573) (Glandular Differentiation) 53.87%
-- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 53.63%
-- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 53.48%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 52.52%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 51.92%
-- Thing 50.92%
-- CP:0000037 0.00%
-- CP:0000035 0.00%
-- CP:0000028 0.00%
-- CP:0000027 0.00%
-- CP:0000000 0.00%
-- [CHEBI:36342](http://purl.obolibrary.org/obo/CHEBI_36342) (subatomic particle) 0.00%
+- [NCIT:C60710](http://purl.obolibrary.org/obo/NCIT_C60710) (Submucosal Tumor Growth) 55.56%
+- [NCIT:C60704](http://purl.obolibrary.org/obo/NCIT_C60704) (Somatostatin Positive Neoplastic Cells Present) 55.56%
+- [NCIT:C60676](http://purl.obolibrary.org/obo/NCIT_C60676) (Serotonin Positive Neoplastic Cells Present) 55.56%
+- [NCIT:C60674](http://purl.obolibrary.org/obo/NCIT_C60674) (Chromogranin A Positive Neoplastic Cells Present) 55.56%
+- [NCIT:C43574](http://purl.obolibrary.org/obo/NCIT_C43574) (Neuroendocrine Differentiation) 55.56%
+- [NCIT:C36777](http://purl.obolibrary.org/obo/NCIT_C36777) (Signet Ring Adenocarcinoma Cell) 55.56%
+- [NCIT:C36104](http://purl.obolibrary.org/obo/NCIT_C36104) (Aggressive Clinical Course) 55.56%
+- [NCIT:C12487](http://purl.obolibrary.org/obo/NCIT_C12487) (Signet Ring Cell) and [NCIT:C37117](http://purl.obolibrary.org/obo/NCIT_C37117) (Adenocarcinoma Cell with Intracytoplasmic Mucin) 55.56%
+- [NCIT:C12487](http://purl.obolibrary.org/obo/NCIT_C12487) (Signet Ring Cell) and [NCIT:C37116](http://purl.obolibrary.org/obo/NCIT_C37116) (Neoplastic Epithelial Cell with Intracytoplasmic Mucin) 55.56%
+- [NCIT:C12487](http://purl.obolibrary.org/obo/NCIT_C12487) (Signet Ring Cell) and [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) 55.56%
+- [NCIT:C12487](http://purl.obolibrary.org/obo/NCIT_C12487) (Signet Ring Cell) and [NCIT:C36794](http://purl.obolibrary.org/obo/NCIT_C36794) (Dysplastic Glandular Cell) 55.56%
+- [NCIT:C12487](http://purl.obolibrary.org/obo/NCIT_C12487) (Signet Ring Cell) and [NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell) 55.56%
+- [NCIT:C12487](http://purl.obolibrary.org/obo/NCIT_C12487) (Signet Ring Cell) and [NCIT:C36773](http://purl.obolibrary.org/obo/NCIT_C36773) (Adenocarcinoma Cell) 55.56%
+- [NCIT:C12487](http://purl.obolibrary.org/obo/NCIT_C12487) (Signet Ring Cell) and [NCIT:C36764](http://purl.obolibrary.org/obo/NCIT_C36764) (Abnormal Glandular Cell) 55.56%
+- [NCIT:C12487](http://purl.obolibrary.org/obo/NCIT_C12487) (Signet Ring Cell) and [NCIT:C36763](http://purl.obolibrary.org/obo/NCIT_C36763) (Neoplastic Glandular Cell) 55.56%
 
 

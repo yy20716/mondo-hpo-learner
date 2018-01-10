@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 52.91%
-- [NCIT:C28077](http://purl.obolibrary.org/obo/NCIT_C28077) (Grade 1) 52.50%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) 37.86%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37078](http://purl.obolibrary.org/obo/NCIT_C37078) (Pseudo-Gaucher Cell))) 37.86%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37076](http://purl.obolibrary.org/obo/NCIT_C37076) (Neoplastic Neutrophilic Precursor))) 37.86%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37075](http://purl.obolibrary.org/obo/NCIT_C37075) (Neoplastic Promonocyte))) 37.86%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37074](http://purl.obolibrary.org/obo/NCIT_C37074) (Hypogranular Promyelocyte))) 37.86%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37073](http://purl.obolibrary.org/obo/NCIT_C37073) (Hypergranular Promyelocyte))) 37.86%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37071](http://purl.obolibrary.org/obo/NCIT_C37071) (Neoplastic T-Lymphoblast))) 37.86%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37070](http://purl.obolibrary.org/obo/NCIT_C37070) (Neoplastic B-Lymphoblast))) 37.86%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C3707](http://purl.obolibrary.org/obo/NCIT_C3707) (Meningiomatosis))) 37.86%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37068](http://purl.obolibrary.org/obo/NCIT_C37068) (Neoplastic Megakaryoblast))) 37.86%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37063](http://purl.obolibrary.org/obo/NCIT_C37063) (Immature Malignant Mast Cell))) 37.86%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37058](http://purl.obolibrary.org/obo/NCIT_C37058) (Ring Sideroblast))) 37.86%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37055](http://purl.obolibrary.org/obo/NCIT_C37055) (Large Multinucleated Erythroid Cell))) 37.86%
+- Thing 53.73%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 39.99%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 38.41%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) 37.74%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C3993](http://purl.obolibrary.org/obo/NCIT_C3993) (Stage II Colon Cancer AJCC v6))) 37.74%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39914](http://purl.obolibrary.org/obo/NCIT_C39914) (Gain of Chromosome 12p))) 37.74%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C3991](http://purl.obolibrary.org/obo/NCIT_C3991) (Thrombocytopenia Due to Immune Destruction))) 37.74%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39909](http://purl.obolibrary.org/obo/NCIT_C39909) (Gain of Chromosome 18q))) 37.74%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39907](http://purl.obolibrary.org/obo/NCIT_C39907) (Seminal Vesicle Cystadenoma))) 37.74%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39906](http://purl.obolibrary.org/obo/NCIT_C39906) (Seminal Vesicle Adenocarcinoma))) 37.74%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39905](http://purl.obolibrary.org/obo/NCIT_C39905) (Prostate Stromal Proliferation of Uncertain Malignant Potential))) 37.74%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39903](http://purl.obolibrary.org/obo/NCIT_C39903) (Prostate Adenocarcinoma with Focal Neuroendocrine Differentiation))) 37.74%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39902](http://purl.obolibrary.org/obo/NCIT_C39902) (Prostate Basal Cell Carcinoma))) 37.74%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39901](http://purl.obolibrary.org/obo/NCIT_C39901) (Prostatic Duct Urothelial Carcinoma))) 37.74%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39899](http://purl.obolibrary.org/obo/NCIT_C39899) (Secondary Prostate Urothelial Carcinoma))) 37.74%
 
 

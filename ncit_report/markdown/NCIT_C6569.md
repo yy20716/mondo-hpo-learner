@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C53637](http://purl.obolibrary.org/obo/NCIT_C53637) (Malignant Spindle Cell))) 66.67%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C49021](http://purl.obolibrary.org/obo/NCIT_C49021) (Malignant Spindle-Shaped Fibroblast))) 66.67%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C36955](http://purl.obolibrary.org/obo/NCIT_C36955) (Neoplastic Spindle-Shaped Fibroblast))) 66.67%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C36954](http://purl.obolibrary.org/obo/NCIT_C36954) (Neoplastic Connective and Soft Tissue Spindle Cell))) 66.67%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C36823](http://purl.obolibrary.org/obo/NCIT_C36823) (Neoplastic Spindle Cell))) 66.67%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) 52.02%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([CHEBI:23019](http://purl.obolibrary.org/obo/CHEBI_23019) (carbonyl group))) 52.02%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([CHEBI:23004](http://purl.obolibrary.org/obo/CHEBI_23004) (carbamoyl group))) 52.02%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([CHEBI:22868](http://purl.obolibrary.org/obo/CHEBI_22868) (bile salt))) 52.02%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion))) 52.02%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 52.02%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 52.02%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 52.02%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 52.02%
-- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 52.02%
+- [NCIT:C99413](http://purl.obolibrary.org/obo/NCIT_C99413) (ETV6/NTRK3 Fusion Gene) 53.57%
+- [NCIT:C41428](http://purl.obolibrary.org/obo/NCIT_C41428) (Increased Cellularity Present) 53.57%
+- [NCIT:C37243](http://purl.obolibrary.org/obo/NCIT_C37243) (ETV6-NTRK3 Fusion Protein Expression) 53.57%
+- [NCIT:C37191](http://purl.obolibrary.org/obo/NCIT_C37191) (Trisomy 11) 53.57%
+- [NCIT:C36387](http://purl.obolibrary.org/obo/NCIT_C36387) (t(12;15)(p13;q25)) 53.57%
+- [NCIT:C36130](http://purl.obolibrary.org/obo/NCIT_C36130) (Low Grade Lesion) 53.57%
+- [NCIT:C35961](http://purl.obolibrary.org/obo/NCIT_C35961) (Low Mitotic Activity) 53.57%
+- [NCIT:C24647](http://purl.obolibrary.org/obo/NCIT_C24647) (NTRK3 Gene) 53.57%
+- Thing 53.04%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) 38.93%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36687](http://purl.obolibrary.org/obo/NCIT_C36687) (VHL Gene Inactivation))) 38.93%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36686](http://purl.obolibrary.org/obo/NCIT_C36686) (NF2 Gene Inactivation))) 38.93%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36685](http://purl.obolibrary.org/obo/NCIT_C36685) (NF1 Gene Inactivation))) 38.93%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36684](http://purl.obolibrary.org/obo/NCIT_C36684) (WT1 Gene Inactivation))) 38.93%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36683](http://purl.obolibrary.org/obo/NCIT_C36683) (APC Gene Inactivation))) 38.93%
 
 

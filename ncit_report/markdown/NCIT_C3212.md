@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C37000](http://purl.obolibrary.org/obo/NCIT_C37000) (Lymphoplasmacytoid Cell) 53.85%
-- [NCIT:C36452](http://purl.obolibrary.org/obo/NCIT_C36452) (Clonal Immunoglobulin Lambda Light Chain Gene Rearrangement) 53.85%
-- [NCIT:C36444](http://purl.obolibrary.org/obo/NCIT_C36444) (Clonal Immunoglobulin Heavy Chain Gene Rearrangement) 53.85%
-- Thing 52.34%
-- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) 43.05%
-- [NCIT:C36445](http://purl.obolibrary.org/obo/NCIT_C36445) (Clonal Immunoglobulin Light Chain Gene Rearrangement) 39.20%
-- [NCIT:C36445](http://purl.obolibrary.org/obo/NCIT_C36445) (Clonal Immunoglobulin Light Chain Gene Rearrangement) and (not ([NCIT:C30168](http://purl.obolibrary.org/obo/NCIT_C30168) (Phosphatidylinositol 4,5-Bisphosphate 3-Kinase Catalytic Subunit Alpha Isoform))) 39.20%
-- [NCIT:C36445](http://purl.obolibrary.org/obo/NCIT_C36445) (Clonal Immunoglobulin Light Chain Gene Rearrangement) and (not ([NCIT:C30164](http://purl.obolibrary.org/obo/NCIT_C30164) (Platelet-Derived Growth Factor Receptor Beta))) 39.20%
-- [NCIT:C36445](http://purl.obolibrary.org/obo/NCIT_C36445) (Clonal Immunoglobulin Light Chain Gene Rearrangement) and (not ([NCIT:C30163](http://purl.obolibrary.org/obo/NCIT_C30163) (Platelet-Derived Growth Factor Receptor Alpha))) 39.20%
-- [NCIT:C36445](http://purl.obolibrary.org/obo/NCIT_C36445) (Clonal Immunoglobulin Light Chain Gene Rearrangement) and (not ([NCIT:C3016](http://purl.obolibrary.org/obo/NCIT_C3016) (Eosinophilic Granuloma))) 39.20%
-- [NCIT:C36445](http://purl.obolibrary.org/obo/NCIT_C36445) (Clonal Immunoglobulin Light Chain Gene Rearrangement) and (not ([NCIT:C3014](http://purl.obolibrary.org/obo/NCIT_C3014) (Endometriosis))) 39.20%
-- [NCIT:C36445](http://purl.obolibrary.org/obo/NCIT_C36445) (Clonal Immunoglobulin Light Chain Gene Rearrangement) and (not ([NCIT:C30085](http://purl.obolibrary.org/obo/NCIT_C30085) (Muscle Contraction))) 39.20%
-- [NCIT:C36445](http://purl.obolibrary.org/obo/NCIT_C36445) (Clonal Immunoglobulin Light Chain Gene Rearrangement) and (not ([NCIT:C3007](http://purl.obolibrary.org/obo/NCIT_C3007) (Enchondroma))) 39.20%
-- [NCIT:C36445](http://purl.obolibrary.org/obo/NCIT_C36445) (Clonal Immunoglobulin Light Chain Gene Rearrangement) and (not ([NCIT:C3001](http://purl.obolibrary.org/obo/NCIT_C3001) (Eczema))) 39.20%
-- [NCIT:C36445](http://purl.obolibrary.org/obo/NCIT_C36445) (Clonal Immunoglobulin Light Chain Gene Rearrangement) and (not ([NCIT:C2999](http://purl.obolibrary.org/obo/NCIT_C2999) (Dysuria))) 39.20%
+- Thing 53.64%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39620](http://purl.obolibrary.org/obo/NCIT_C39620) (Dermatopathic Lymphadenopathy))) 52.50%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) 37.86%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40138](http://purl.obolibrary.org/obo/NCIT_C40138) (Uterine Ligament Endometrioid Adenocarcinoma))) 37.86%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40137](http://purl.obolibrary.org/obo/NCIT_C40137) (Uterine Ligament Mucinous Adenocarcinoma))) 37.86%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40129](http://purl.obolibrary.org/obo/NCIT_C40129) (Fallopian Tube Adenomatoid Tumor))) 37.86%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40128](http://purl.obolibrary.org/obo/NCIT_C40128) (Fallopian Tube Leiomyosarcoma))) 37.86%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40127](http://purl.obolibrary.org/obo/NCIT_C40127) (Fallopian Tube Leiomyoma))) 37.86%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40125](http://purl.obolibrary.org/obo/NCIT_C40125) (Fallopian Tube Adenosarcoma))) 37.86%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40124](http://purl.obolibrary.org/obo/NCIT_C40124) (Fallopian Tube Carcinosarcoma))) 37.86%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40122](http://purl.obolibrary.org/obo/NCIT_C40122) (Pelvic Pain))) 37.86%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40116](http://purl.obolibrary.org/obo/NCIT_C40116) (Fallopian Tube Metaplastic Papillary Tumor))) 37.86%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40114](http://purl.obolibrary.org/obo/NCIT_C40114) (Fallopian Tube Serous Cystadenofibroma))) 37.86%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40112](http://purl.obolibrary.org/obo/NCIT_C40112) (Fallopian Tube Papilloma))) 37.86%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40110](http://purl.obolibrary.org/obo/NCIT_C40110) (Borderline Fallopian Tube Endometrioid Tumor))) 37.86%
 
 

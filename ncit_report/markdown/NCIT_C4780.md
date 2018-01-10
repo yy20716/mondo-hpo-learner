@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0002465](http://purl.obolibrary.org/obo/UBERON_0002465) (lymphoid system) 62.50%
-- [UBERON:0000047](http://purl.obolibrary.org/obo/UBERON_0000047) (simple eye) 62.50%
-- [UBERON:0000019](http://purl.obolibrary.org/obo/UBERON_0000019) (camera-type eye) 62.50%
-- [UBERON:0000970](http://purl.obolibrary.org/obo/UBERON_0000970) (eye) and [UBERON:0015212](http://purl.obolibrary.org/obo/UBERON_0015212) (lateral structure) 62.50%
-- [UBERON:0000970](http://purl.obolibrary.org/obo/UBERON_0000970) (eye) and [UBERON:0010314](http://purl.obolibrary.org/obo/UBERON_0010314) (structure with developmental contribution from neural crest) 62.50%
-- [UBERON:0000970](http://purl.obolibrary.org/obo/UBERON_0000970) (eye) and [UBERON:0004121](http://purl.obolibrary.org/obo/UBERON_0004121) (ectoderm-derived structure) 62.50%
-- [UBERON:0000047](http://purl.obolibrary.org/obo/UBERON_0000047) (simple eye) and [UBERON:0015212](http://purl.obolibrary.org/obo/UBERON_0015212) (lateral structure) 62.50%
-- [UBERON:0000047](http://purl.obolibrary.org/obo/UBERON_0000047) (simple eye) and [UBERON:0010314](http://purl.obolibrary.org/obo/UBERON_0010314) (structure with developmental contribution from neural crest) 62.50%
-- [UBERON:0000047](http://purl.obolibrary.org/obo/UBERON_0000047) (simple eye) and [UBERON:0004121](http://purl.obolibrary.org/obo/UBERON_0004121) (ectoderm-derived structure) 62.50%
-- Thing 51.30%
-- [UBERON:0000970](http://purl.obolibrary.org/obo/UBERON_0000970) (eye) 47.86%
-- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 26.81%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 26.70%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 26.60%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 26.59%
+- [UBERON:0000964](http://purl.obolibrary.org/obo/UBERON_0000964) (cornea) 53.57%
+- CARO:0000003 and [UBERON:0010314](http://purl.obolibrary.org/obo/UBERON_0010314) (structure with developmental contribution from neural crest) 53.57%
+- CARO:0000003 and [UBERON:0010313](http://purl.obolibrary.org/obo/UBERON_0010313) (neural crest-derived structure) 53.57%
+- CARO:0000003 and [UBERON:0004121](http://purl.obolibrary.org/obo/UBERON_0004121) (ectoderm-derived structure) 53.57%
+- CARO:0000003 and [UBERON:0003102](http://purl.obolibrary.org/obo/UBERON_0003102) (surface structure) 53.57%
+- Thing 53.04%
+- CARO:0000003 and [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 38.93%
+- CARO:0000003 and [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 38.93%
+- CARO:0000003 and [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 38.93%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 37.79%
+- CARO:0000003 32.44%
+- CARO:0000003 and [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 32.44%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) and CARO:0000003 32.44%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) and CARO:0000003 32.44%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) and CARO:0000003 32.44%
 
 

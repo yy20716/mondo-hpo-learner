@@ -2,24 +2,24 @@
 ### [NCIT:C3267](http://purl.obolibrary.org/obo/NCIT_C3267)
 **Label:** Wilms Tumor
 
-**Subclasses:** [NCIT:C27730](http://purl.obolibrary.org/obo/NCIT_C27730) (Childhood Kidney Wilms Tumor), [NCIT:C6952](http://purl.obolibrary.org/obo/NCIT_C6952) (Anaplastic Kidney Wilms Tumor), [NCIT:C7843](http://purl.obolibrary.org/obo/NCIT_C7843) (Stage IV Kidney Wilms Tumor), [NCIT:C6897](http://purl.obolibrary.org/obo/NCIT_C6897) (Cystic Partially Differentiated Nephroblastoma), [NCIT:C7842](http://purl.obolibrary.org/obo/NCIT_C7842) (Stage III Kidney Wilms Tumor), [NCIT:C6951](http://purl.obolibrary.org/obo/NCIT_C6951) (Nonanaplastic Kidney Wilms Tumor), [NCIT:C7845](http://purl.obolibrary.org/obo/NCIT_C7845) (Recurrent Kidney Wilms Tumor), [NCIT:C40407](http://purl.obolibrary.org/obo/NCIT_C40407) (Kidney Wilms Tumor), [NCIT:C9149](http://purl.obolibrary.org/obo/NCIT_C9149) (Mixed Cell Type Kidney Wilms Tumor), [NCIT:C9147](http://purl.obolibrary.org/obo/NCIT_C9147) (Blastema Predominant Kidney Wilms Tumor), [NCIT:C7841](http://purl.obolibrary.org/obo/NCIT_C7841) (Stage II Kidney Wilms Tumor), [NCIT:C9148](http://purl.obolibrary.org/obo/NCIT_C9148) (Stromal Predominant Kidney Wilms Tumor), [NCIT:C7840](http://purl.obolibrary.org/obo/NCIT_C7840) (Stage I Kidney Wilms Tumor), [NCIT:C8496](http://purl.obolibrary.org/obo/NCIT_C8496) (Hereditary Wilms Tumor), [NCIT:C9146](http://purl.obolibrary.org/obo/NCIT_C9146) (Epithelial Predominant Kidney Wilms Tumor), [NCIT:C40236](http://purl.obolibrary.org/obo/NCIT_C40236) (Cervical Wilms Tumor), [NCIT:C40443](http://purl.obolibrary.org/obo/NCIT_C40443) (Ovarian Wilms Tumor), [NCIT:C6180](http://purl.obolibrary.org/obo/NCIT_C6180) (Adult Kidney Wilms Tumor), [NCIT:C38158](http://purl.obolibrary.org/obo/NCIT_C38158) (Metachronous Wilms Tumor), 
+**Subclasses:** [NCIT:C27730](http://purl.obolibrary.org/obo/NCIT_C27730) (Childhood Kidney Wilms Tumor), [NCIT:C6897](http://purl.obolibrary.org/obo/NCIT_C6897) (Cystic Partially Differentiated Nephroblastoma), [NCIT:C7843](http://purl.obolibrary.org/obo/NCIT_C7843) (Stage IV Kidney Wilms Tumor), [NCIT:C6952](http://purl.obolibrary.org/obo/NCIT_C6952) (Anaplastic Kidney Wilms Tumor), [NCIT:C6951](http://purl.obolibrary.org/obo/NCIT_C6951) (Nonanaplastic Kidney Wilms Tumor), [NCIT:C7842](http://purl.obolibrary.org/obo/NCIT_C7842) (Stage III Kidney Wilms Tumor), [NCIT:C7845](http://purl.obolibrary.org/obo/NCIT_C7845) (Recurrent Kidney Wilms Tumor), [NCIT:C9149](http://purl.obolibrary.org/obo/NCIT_C9149) (Mixed Cell Type Kidney Wilms Tumor), [NCIT:C40407](http://purl.obolibrary.org/obo/NCIT_C40407) (Kidney Wilms Tumor), [NCIT:C9147](http://purl.obolibrary.org/obo/NCIT_C9147) (Blastema Predominant Kidney Wilms Tumor), [NCIT:C7841](http://purl.obolibrary.org/obo/NCIT_C7841) (Stage II Kidney Wilms Tumor), [NCIT:C9148](http://purl.obolibrary.org/obo/NCIT_C9148) (Stromal Predominant Kidney Wilms Tumor), [NCIT:C7840](http://purl.obolibrary.org/obo/NCIT_C7840) (Stage I Kidney Wilms Tumor), [NCIT:C8496](http://purl.obolibrary.org/obo/NCIT_C8496) (Hereditary Wilms Tumor), [NCIT:C9146](http://purl.obolibrary.org/obo/NCIT_C9146) (Epithelial Predominant Kidney Wilms Tumor), [NCIT:C40236](http://purl.obolibrary.org/obo/NCIT_C40236) (Cervical Wilms Tumor), [NCIT:C40443](http://purl.obolibrary.org/obo/NCIT_C40443) (Ovarian Wilms Tumor), [NCIT:C6180](http://purl.obolibrary.org/obo/NCIT_C6180) (Adult Kidney Wilms Tumor), [NCIT:C38158](http://purl.obolibrary.org/obo/NCIT_C38158) (Metachronous Wilms Tumor), 
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C18262](http://purl.obolibrary.org/obo/NCIT_C18262) (WT1 Gene) 60.00%
-- Thing 51.45%
-- [CL:0000354](http://purl.obolibrary.org/obo/CL_0000354) (blastemal cell) 45.36%
-- [CL:0000354](http://purl.obolibrary.org/obo/CL_0000354) (blastemal cell) and (not ([NCIT:C36551](http://purl.obolibrary.org/obo/NCIT_C36551) (Gain of Chromosome 7q32))) 45.36%
-- [CL:0000354](http://purl.obolibrary.org/obo/CL_0000354) (blastemal cell) and (not ([NCIT:C36550](http://purl.obolibrary.org/obo/NCIT_C36550) (Gain of Chromosome 7p))) 45.36%
-- [CL:0000354](http://purl.obolibrary.org/obo/CL_0000354) (blastemal cell) and (not ([NCIT:C36549](http://purl.obolibrary.org/obo/NCIT_C36549) (Loss of Chromosome 11))) 45.36%
-- [CL:0000354](http://purl.obolibrary.org/obo/CL_0000354) (blastemal cell) and (not ([NCIT:C36548](http://purl.obolibrary.org/obo/NCIT_C36548) (Loss of Chromosome 2q))) 45.36%
-- [CL:0000354](http://purl.obolibrary.org/obo/CL_0000354) (blastemal cell) and (not ([NCIT:C36547](http://purl.obolibrary.org/obo/NCIT_C36547) (Loss of Chromosome 2p))) 45.36%
-- [CL:0000354](http://purl.obolibrary.org/obo/CL_0000354) (blastemal cell) and (not ([NCIT:C36545](http://purl.obolibrary.org/obo/NCIT_C36545) (Gain of Chromosome 5q))) 45.36%
-- [CL:0000354](http://purl.obolibrary.org/obo/CL_0000354) (blastemal cell) and (not ([NCIT:C36542](http://purl.obolibrary.org/obo/NCIT_C36542) (Loss of Chromosome 16))) 45.36%
-- [CL:0000354](http://purl.obolibrary.org/obo/CL_0000354) (blastemal cell) and (not ([NCIT:C36540](http://purl.obolibrary.org/obo/NCIT_C36540) (Rearrangement of 8q11-13))) 45.36%
-- [CL:0000354](http://purl.obolibrary.org/obo/CL_0000354) (blastemal cell) and (not ([NCIT:C36539](http://purl.obolibrary.org/obo/NCIT_C36539) (Gain of Chromosome X))) 45.36%
-- [CL:0000354](http://purl.obolibrary.org/obo/CL_0000354) (blastemal cell) and (not ([NCIT:C36538](http://purl.obolibrary.org/obo/NCIT_C36538) (del(6q23)))) 45.36%
-- [CL:0000354](http://purl.obolibrary.org/obo/CL_0000354) (blastemal cell) and (not ([NCIT:C36536](http://purl.obolibrary.org/obo/NCIT_C36536) (Loss of Chromosome 13))) 45.36%
-- [CL:0000354](http://purl.obolibrary.org/obo/CL_0000354) (blastemal cell) and (not ([NCIT:C36534](http://purl.obolibrary.org/obo/NCIT_C36534) (del(7q21-32)))) 45.36%
+- [NCIT:C61289](http://purl.obolibrary.org/obo/NCIT_C61289) (Blastemal Pattern) 56.90%
+- Thing 54.38%
+- [NCIT:C61292](http://purl.obolibrary.org/obo/NCIT_C61292) (Serpentine Blastemal Pattern) 51.72%
+- [NCIT:C61291](http://purl.obolibrary.org/obo/NCIT_C61291) (Nodular Blastemal Pattern) 51.72%
+- [NCIT:C61290](http://purl.obolibrary.org/obo/NCIT_C61290) (Diffuse Blastemal Pattern) 51.72%
+- [NCIT:C60643](http://purl.obolibrary.org/obo/NCIT_C60643) (Adulthood Lesion) 51.72%
+- [NCIT:C41457](http://purl.obolibrary.org/obo/NCIT_C41457) (Well-Circumscribed Lesion) 51.72%
+- [NCIT:C36113](http://purl.obolibrary.org/obo/NCIT_C36113) (Anaplastic Lesion) 51.72%
+- [NCIT:C35928](http://purl.obolibrary.org/obo/NCIT_C35928) (Triphasic Pattern) 51.72%
+- [NCIT:C35925](http://purl.obolibrary.org/obo/NCIT_C35925) (Tubular Pattern) 51.72%
+- [NCIT:C35911](http://purl.obolibrary.org/obo/NCIT_C35911) (Papillary Pattern) 51.72%
+- [NCIT:C35907](http://purl.obolibrary.org/obo/NCIT_C35907) (Biphasic Pattern) 51.72%
+- [NCIT:C34333](http://purl.obolibrary.org/obo/NCIT_C34333) (Abdominal Mass) 51.72%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 38.58%
+- [NCIT:C35943](http://purl.obolibrary.org/obo/NCIT_C35943) (Pseudorosette Formation) 37.08%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C35918](http://purl.obolibrary.org/obo/NCIT_C35918) (Organoid Pattern) 62.50%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C35914](http://purl.obolibrary.org/obo/NCIT_C35914) (Gyriform Trabecular Pattern))) 62.50%
-- Thing 51.30%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) 47.86%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37241](http://purl.obolibrary.org/obo/NCIT_C37241) (COL1A2-PLAG1 Fusion Protein Expression))) 47.86%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37240](http://purl.obolibrary.org/obo/NCIT_C37240) (PAX7-FOXO1 Fusion Protein Expression))) 47.86%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C3724](http://purl.obolibrary.org/obo/NCIT_C3724) (Cystic Hygroma))) 47.86%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37239](http://purl.obolibrary.org/obo/NCIT_C37239) (PAX3-FOXO1 Fusion Protein Expression))) 47.86%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37238](http://purl.obolibrary.org/obo/NCIT_C37238) (FUS-DDIT3 Fusion Protein Expression))) 47.86%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37237](http://purl.obolibrary.org/obo/NCIT_C37237) (EWSR1-WT1 Fusion Protein Expression))) 47.86%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37231](http://purl.obolibrary.org/obo/NCIT_C37231) (EWSR1-ETV4 Fusion Protein Expression))) 47.86%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37230](http://purl.obolibrary.org/obo/NCIT_C37230) (EWSR1-ETV1 Fusion Protein Expression))) 47.86%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37229](http://purl.obolibrary.org/obo/NCIT_C37229) (EWSR1-ERG Fusion Protein Expression))) 47.86%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37228](http://purl.obolibrary.org/obo/NCIT_C37228) (KMT2A-AF4 Fusion Protein Expression))) 47.86%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37227](http://purl.obolibrary.org/obo/NCIT_C37227) (ETV6-RUNX1 Fusion Protein Expression))) 47.86%
+- Thing 53.73%
+- [NCIT:C36133](http://purl.obolibrary.org/obo/NCIT_C36133) (Well Differentiated Lesion) 52.38%
+- [NCIT:C36132](http://purl.obolibrary.org/obo/NCIT_C36132) (Poorly Differentiated Lesion) 52.38%
+- [NCIT:C36130](http://purl.obolibrary.org/obo/NCIT_C36130) (Low Grade Lesion) 52.38%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 38.41%
+- [NCIT:C41425](http://purl.obolibrary.org/obo/NCIT_C41425) (Nodular Lesion) 37.74%
+- [NCIT:C41425](http://purl.obolibrary.org/obo/NCIT_C41425) (Nodular Lesion) and (not ([NCIT:C39896](http://purl.obolibrary.org/obo/NCIT_C39896) (Prostate Ductal Adenocarcinoma, Papillary Pattern))) 37.74%
+- [NCIT:C41425](http://purl.obolibrary.org/obo/NCIT_C41425) (Nodular Lesion) and (not ([NCIT:C39895](http://purl.obolibrary.org/obo/NCIT_C39895) (Prostate Ductal Adenocarcinoma, Cribriform Pattern))) 37.74%
+- [NCIT:C41425](http://purl.obolibrary.org/obo/NCIT_C41425) (Nodular Lesion) and (not ([NCIT:C3989](http://purl.obolibrary.org/obo/NCIT_C3989) (Parathyroid Hyperplasia))) 37.74%
+- [NCIT:C41425](http://purl.obolibrary.org/obo/NCIT_C41425) (Nodular Lesion) and (not ([NCIT:C39885](http://purl.obolibrary.org/obo/NCIT_C39885) (Acinar Prostate Adenocarcinoma, Lymphoepithelioma-Like Variant))) 37.74%
+- [NCIT:C41425](http://purl.obolibrary.org/obo/NCIT_C41425) (Nodular Lesion) and (not ([NCIT:C39880](http://purl.obolibrary.org/obo/NCIT_C39880) (Acinar Prostate Adenocarcinoma, Atrophic Variant))) 37.74%
+- [NCIT:C41425](http://purl.obolibrary.org/obo/NCIT_C41425) (Nodular Lesion) and (not ([NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q))) 37.74%
+- [NCIT:C41425](http://purl.obolibrary.org/obo/NCIT_C41425) (Nodular Lesion) and (not ([NCIT:C39874](http://purl.obolibrary.org/obo/NCIT_C39874) (Urethral Verrucous Carcinoma))) 37.74%
+- [NCIT:C41425](http://purl.obolibrary.org/obo/NCIT_C41425) (Nodular Lesion) and (not ([NCIT:C39873](http://purl.obolibrary.org/obo/NCIT_C39873) (Urethral Glandular Metaplasia))) 37.74%
+- [NCIT:C41425](http://purl.obolibrary.org/obo/NCIT_C41425) (Nodular Lesion) and (not ([NCIT:C39872](http://purl.obolibrary.org/obo/NCIT_C39872) (Urethral Villous Adenoma))) 37.74%
 
 

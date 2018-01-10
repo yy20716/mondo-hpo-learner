@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C60303](http://purl.obolibrary.org/obo/NCIT_C60303) (Malignant Spindle Transitional Cell) 57.14%
-- [NCIT:C36104](http://purl.obolibrary.org/obo/NCIT_C36104) (Aggressive Clinical Course) 57.14%
-- [NCIT:C35907](http://purl.obolibrary.org/obo/NCIT_C35907) (Biphasic Pattern) 57.14%
-- [NCIT:C12866](http://purl.obolibrary.org/obo/NCIT_C12866) (Transitional Cell) 57.14%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and [NCIT:C53637](http://purl.obolibrary.org/obo/NCIT_C53637) (Malignant Spindle Cell) 57.14%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and [NCIT:C37109](http://purl.obolibrary.org/obo/NCIT_C37109) (Malignant Epithelial Spindle Cell) 57.14%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and [NCIT:C36849](http://purl.obolibrary.org/obo/NCIT_C36849) (Neoplastic Epithelial Spindle Cell) 57.14%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and [NCIT:C36823](http://purl.obolibrary.org/obo/NCIT_C36823) (Neoplastic Spindle Cell) 57.14%
-- Thing 51.72%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) 42.50%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C3704](http://purl.obolibrary.org/obo/NCIT_C3704) (Dedifferentiated Liposarcoma))) 42.50%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C37039](http://purl.obolibrary.org/obo/NCIT_C37039) (Large Atypical Platelet))) 42.50%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C37032](http://purl.obolibrary.org/obo/NCIT_C37032) (Abnormal Eosinophil))) 42.50%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C37030](http://purl.obolibrary.org/obo/NCIT_C37030) (Toxic Neutrophil))) 42.50%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C37027](http://purl.obolibrary.org/obo/NCIT_C37027) (Popcorn Cell))) 42.50%
+- [NCIT:C60303](http://purl.obolibrary.org/obo/NCIT_C60303) (Malignant Spindle Transitional Cell) 55.56%
+- [NCIT:C54559](http://purl.obolibrary.org/obo/NCIT_C54559) (Heterologous Elements Present) 55.56%
+- [NCIT:C36104](http://purl.obolibrary.org/obo/NCIT_C36104) (Aggressive Clinical Course) 55.56%
+- [NCIT:C35907](http://purl.obolibrary.org/obo/NCIT_C35907) (Biphasic Pattern) 55.56%
+- [NCIT:C34615](http://purl.obolibrary.org/obo/NCIT_C34615) (Flank Pain) 55.56%
+- [NCIT:C12866](http://purl.obolibrary.org/obo/NCIT_C12866) (Transitional Cell) 55.56%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and [NCIT:C53637](http://purl.obolibrary.org/obo/NCIT_C53637) (Malignant Spindle Cell) 55.56%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and [NCIT:C37109](http://purl.obolibrary.org/obo/NCIT_C37109) (Malignant Epithelial Spindle Cell) 55.56%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and [NCIT:C36849](http://purl.obolibrary.org/obo/NCIT_C36849) (Neoplastic Epithelial Spindle Cell) 55.56%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and [NCIT:C36823](http://purl.obolibrary.org/obo/NCIT_C36823) (Neoplastic Spindle Cell) 55.56%
+- Thing 52.44%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) 40.91%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39816](http://purl.obolibrary.org/obo/NCIT_C39816) (Infiltrating Bladder Urothelial Carcinoma with Squamous Differentiation))) 40.91%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39815](http://purl.obolibrary.org/obo/NCIT_C39815) (Cellular Congenital Mesoblastic Nephroma))) 40.91%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39814](http://purl.obolibrary.org/obo/NCIT_C39814) (Classic Congenital Mesoblastic Nephroma))) 40.91%
 
 

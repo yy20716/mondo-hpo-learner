@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C60643](http://purl.obolibrary.org/obo/NCIT_C60643) (Adulthood Lesion) 75.00%
-- [NCIT:C35788](http://purl.obolibrary.org/obo/NCIT_C35788) (Hypercellular Bone Marrow) 75.00%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 52.52%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 51.92%
-- Thing 50.92%
-- [NCIT:C35508](http://purl.obolibrary.org/obo/NCIT_C35508) (Abnormal Bone Marrow Test Result) 32.91%
-- [NCIT:C3824](http://purl.obolibrary.org/obo/NCIT_C3824) (Lesion) 31.25%
-- [NCIT:C35877](http://purl.obolibrary.org/obo/NCIT_C35877) (Abnormal Hematology Test Result) 30.70%
-- [NCIT:C36289](http://purl.obolibrary.org/obo/NCIT_C36289) (Hematopoietic System Finding) 30.42%
-- [NCIT:C35553](http://purl.obolibrary.org/obo/NCIT_C35553) (Abnormal Blood Chemistry and Hematology Test Result) 30.05%
-- [NCIT:C26683](http://purl.obolibrary.org/obo/NCIT_C26683) (Abnormal Laboratory Test Result) 29.66%
-- [NCIT:C36278](http://purl.obolibrary.org/obo/NCIT_C36278) (Finding by Site or System) 29.03%
-- [NCIT:C36292](http://purl.obolibrary.org/obo/NCIT_C36292) (Laboratory Test Result) 28.88%
-- [NCIT:C77140](http://purl.obolibrary.org/obo/NCIT_C77140) (Clinical Test Result) 28.80%
-- CP:0000037 0.00%
+- [NCIT:C60643](http://purl.obolibrary.org/obo/NCIT_C60643) (Adulthood Lesion) 62.50%
+- [NCIT:C36156](http://purl.obolibrary.org/obo/NCIT_C36156) (Favorable Clinical Outcome) 62.50%
+- [NCIT:C35788](http://purl.obolibrary.org/obo/NCIT_C35788) (Hypercellular Bone Marrow) 62.50%
+- [NCIT:C2992](http://purl.obolibrary.org/obo/NCIT_C2992) (Disseminated Intravascular Coagulation) 62.50%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 52.71%
+- Thing 51.63%
+- [NCIT:C2902](http://purl.obolibrary.org/obo/NCIT_C2902) (Coagulation Disorder) 47.86%
+- [NCIT:C2902](http://purl.obolibrary.org/obo/NCIT_C2902) (Coagulation Disorder) and (not ([NCIT:C36435](http://purl.obolibrary.org/obo/NCIT_C36435) (t(1;2)(q25;p23)))) 47.86%
+- [NCIT:C2902](http://purl.obolibrary.org/obo/NCIT_C2902) (Coagulation Disorder) and (not ([NCIT:C36433](http://purl.obolibrary.org/obo/NCIT_C36433) (Trisomy 5))) 47.86%
+- [NCIT:C2902](http://purl.obolibrary.org/obo/NCIT_C2902) (Coagulation Disorder) and (not ([NCIT:C36432](http://purl.obolibrary.org/obo/NCIT_C36432) (i(7q)))) 47.86%
+- [NCIT:C2902](http://purl.obolibrary.org/obo/NCIT_C2902) (Coagulation Disorder) and (not ([NCIT:C36429](http://purl.obolibrary.org/obo/NCIT_C36429) (del(12p13)))) 47.86%
+- [NCIT:C2902](http://purl.obolibrary.org/obo/NCIT_C2902) (Coagulation Disorder) and (not ([NCIT:C36428](http://purl.obolibrary.org/obo/NCIT_C36428) (Trisomy 8q))) 47.86%
+- [NCIT:C2902](http://purl.obolibrary.org/obo/NCIT_C2902) (Coagulation Disorder) and (not ([NCIT:C36427](http://purl.obolibrary.org/obo/NCIT_C36427) (t(8;8)(p11-12;q12)))) 47.86%
+- [NCIT:C2902](http://purl.obolibrary.org/obo/NCIT_C2902) (Coagulation Disorder) and (not ([NCIT:C36426](http://purl.obolibrary.org/obo/NCIT_C36426) (inv(14)))) 47.86%
+- [NCIT:C2902](http://purl.obolibrary.org/obo/NCIT_C2902) (Coagulation Disorder) and (not ([NCIT:C36425](http://purl.obolibrary.org/obo/NCIT_C36425) (Trisomy 3))) 47.86%
 
 

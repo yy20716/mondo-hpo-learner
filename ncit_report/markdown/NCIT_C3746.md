@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 50.92%
-- [NCIT:C12964](http://purl.obolibrary.org/obo/NCIT_C12964) (Connective and Soft Tissue) 47.36%
-- [NCIT:C36860](http://purl.obolibrary.org/obo/NCIT_C36860) (Malignant Small Cell) 40.81%
-- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) 28.23%
-- [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) 27.48%
-- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 27.36%
-- [UBERON:0000479](http://purl.obolibrary.org/obo/UBERON_0000479) (tissue) 27.35%
-- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 26.31%
-- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 26.28%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 26.21%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 26.13%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 26.12%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 26.03%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 26.02%
-- CP:0000037 0.00%
+- Thing 53.55%
+- [NCIT:C99213](http://purl.obolibrary.org/obo/NCIT_C99213) (EWSR1/WT1 Fusion Gene) 52.63%
+- [NCIT:C36104](http://purl.obolibrary.org/obo/NCIT_C36104) (Aggressive Clinical Course) 52.63%
+- [NCIT:C34333](http://purl.obolibrary.org/obo/NCIT_C34333) (Abdominal Mass) 52.63%
+- [NCIT:C18322](http://purl.obolibrary.org/obo/NCIT_C18322) (EWSR1 Gene) 52.63%
+- [NCIT:C121919](http://purl.obolibrary.org/obo/NCIT_C121919) (HEY1/NCOA2 Fusion Gene) 52.63%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) 37.99%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39859](http://purl.obolibrary.org/obo/NCIT_C39859) (Bladder Inverted Papilloma))) 37.99%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39856](http://purl.obolibrary.org/obo/NCIT_C39856) (Urothelial Dysplasia))) 37.99%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39845](http://purl.obolibrary.org/obo/NCIT_C39845) (Bladder Urachal Squamous Cell Carcinoma))) 37.99%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39844](http://purl.obolibrary.org/obo/NCIT_C39844) (Bladder Urachal Urothelial Carcinoma))) 37.99%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39834](http://purl.obolibrary.org/obo/NCIT_C39834) (Bladder Squamous Papilloma))) 37.99%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39833](http://purl.obolibrary.org/obo/NCIT_C39833) (Schistosoma Hematobium-Related Bladder Verrucous Carcinoma))) 37.99%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39829](http://purl.obolibrary.org/obo/NCIT_C39829) (Infiltrating Bladder Urothelial Carcinoma with Giant Cells))) 37.99%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39826](http://purl.obolibrary.org/obo/NCIT_C39826) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant without Heterologous Elements))) 37.99%
 
 

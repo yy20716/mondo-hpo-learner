@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C8360](http://purl.obolibrary.org/obo/NCIT_C8360) (Intestinal Metaplasia) 75.00%
-- [NCIT:C35929](http://purl.obolibrary.org/obo/NCIT_C35929) (Glandular Pattern) and (not ([NCIT:C60918](http://purl.obolibrary.org/obo/NCIT_C60918) (Microglandular Pattern))) 75.00%
-- [NCIT:C35929](http://purl.obolibrary.org/obo/NCIT_C35929) (Glandular Pattern) 60.36%
-- [NCIT:C35929](http://purl.obolibrary.org/obo/NCIT_C35929) (Glandular Pattern) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 60.36%
-- [NCIT:C35929](http://purl.obolibrary.org/obo/NCIT_C35929) (Glandular Pattern) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 60.36%
-- [NCIT:C35929](http://purl.obolibrary.org/obo/NCIT_C35929) (Glandular Pattern) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 60.36%
-- [NCIT:C35929](http://purl.obolibrary.org/obo/NCIT_C35929) (Glandular Pattern) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 60.36%
-- [NCIT:C35929](http://purl.obolibrary.org/obo/NCIT_C35929) (Glandular Pattern) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 60.36%
-- [NCIT:C35929](http://purl.obolibrary.org/obo/NCIT_C35929) (Glandular Pattern) and (not (CARO:0010000)) 60.36%
-- [NCIT:C35929](http://purl.obolibrary.org/obo/NCIT_C35929) (Glandular Pattern) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 60.36%
-- [NCIT:C35929](http://purl.obolibrary.org/obo/NCIT_C35929) (Glandular Pattern) and (not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null))) 60.36%
-- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 53.63%
-- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 53.48%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 52.52%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 51.92%
+- [NCIT:C8360](http://purl.obolibrary.org/obo/NCIT_C8360) (Intestinal Metaplasia) 58.33%
+- [NCIT:C35925](http://purl.obolibrary.org/obo/NCIT_C35925) (Tubular Pattern) 58.33%
+- [NCIT:C35922](http://purl.obolibrary.org/obo/NCIT_C35922) (Acinar Pattern) 58.33%
+- [NCIT:C35920](http://purl.obolibrary.org/obo/NCIT_C35920) (Cribriform Pattern) 58.33%
+- [NCIT:C35911](http://purl.obolibrary.org/obo/NCIT_C35911) (Papillary Pattern) 58.33%
+- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 56.28%
+- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 56.03%
+- [NCIT:C35886](http://purl.obolibrary.org/obo/NCIT_C35886) (Morphologic Architectural Pattern) 55.53%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 54.36%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 53.32%
+- Thing 51.99%
+- [NCIT:C35929](http://purl.obolibrary.org/obo/NCIT_C35929) (Glandular Pattern) 43.69%
+- [NCIT:C35929](http://purl.obolibrary.org/obo/NCIT_C35929) (Glandular Pattern) and (not ([NCIT:C40193](http://purl.obolibrary.org/obo/NCIT_C40193) (Cervical Lymphoepithelioma-Like Carcinoma))) 43.69%
+- [NCIT:C35929](http://purl.obolibrary.org/obo/NCIT_C35929) (Glandular Pattern) and (not ([NCIT:C40191](http://purl.obolibrary.org/obo/NCIT_C40191) (Cervical Warty Carcinoma))) 43.69%
+- [NCIT:C35929](http://purl.obolibrary.org/obo/NCIT_C35929) (Glandular Pattern) and (not ([NCIT:C40190](http://purl.obolibrary.org/obo/NCIT_C40190) (Cervical Verrucous Carcinoma))) 43.69%
 
 

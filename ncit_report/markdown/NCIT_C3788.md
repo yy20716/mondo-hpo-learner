@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36474](http://purl.obolibrary.org/obo/NCIT_C36474) (Ring Chromosome 1) 52.94%
-- [NCIT:C28077](http://purl.obolibrary.org/obo/NCIT_C28077) (Grade 1) 52.94%
-- Thing 52.68%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) 38.30%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C38176](http://purl.obolibrary.org/obo/NCIT_C38176) (BCL2 Gene Translocation))) 38.30%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C38175](http://purl.obolibrary.org/obo/NCIT_C38175) (CD44 Messenger RNA Overexpression))) 38.30%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C38174](http://purl.obolibrary.org/obo/NCIT_C38174) (IRF4/MUM1 Messenger RNA Overexpression))) 38.30%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C38173](http://purl.obolibrary.org/obo/NCIT_C38173) (BCL2 Gene mRNA Overexpression))) 38.30%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C38172](http://purl.obolibrary.org/obo/NCIT_C38172) (Cyclin D2 Messenger RNA Overexpression))) 38.30%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C38171](http://purl.obolibrary.org/obo/NCIT_C38171) (PKCbeta1 Messenger RNA Overexpression))) 38.30%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C38170](http://purl.obolibrary.org/obo/NCIT_C38170) (LMO2 Messenger RNA Overexpression))) 38.30%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C38169](http://purl.obolibrary.org/obo/NCIT_C38169) (A-myb Messenger RNA Overexpression))) 38.30%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C38168](http://purl.obolibrary.org/obo/NCIT_C38168) (BCL-6 Messenger RNA Overexpression))) 38.30%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C38167](http://purl.obolibrary.org/obo/NCIT_C38167) (CD10 Messenger RNA Overexpression))) 38.30%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C38158](http://purl.obolibrary.org/obo/NCIT_C38158) (Metachronous Wilms Tumor))) 38.30%
+- Thing 53.25%
+- [NCIT:C36474](http://purl.obolibrary.org/obo/NCIT_C36474) (Ring Chromosome 1) 53.12%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) 38.48%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C39787](http://purl.obolibrary.org/obo/NCIT_C39787) (Multiple Tumor Masses))) 38.48%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C39786](http://purl.obolibrary.org/obo/NCIT_C39786) (Bilateral Disease))) 38.48%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C39783](http://purl.obolibrary.org/obo/NCIT_C39783) (Retinal Hemangioblastoma))) 38.48%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C39752](http://purl.obolibrary.org/obo/NCIT_C39752) (Refractory Disease))) 38.48%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C39751](http://purl.obolibrary.org/obo/NCIT_C39751) (Glioblastoma, IDH-Mutant))) 38.48%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C39748](http://purl.obolibrary.org/obo/NCIT_C39748) (Lymphoblast-Like Neoplastic B-Lymphocyte))) 38.48%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C39747](http://purl.obolibrary.org/obo/NCIT_C39747) (Pleomorphic Variant Mantle Cell Lymphoma))) 38.48%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C39743](http://purl.obolibrary.org/obo/NCIT_C39743) (Fascicular Pattern))) 38.48%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C39741](http://purl.obolibrary.org/obo/NCIT_C39741) (Retroperitoneal Inflammatory Myofibroblastic Tumor))) 38.48%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C39740](http://purl.obolibrary.org/obo/NCIT_C39740) (Lung Inflammatory Myofibroblastic Tumor))) 38.48%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C39739](http://purl.obolibrary.org/obo/NCIT_C39739) (Negative Peripheral Blood))) 38.48%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C39725](http://purl.obolibrary.org/obo/NCIT_C39725) (Immunodeficiency))) 38.48%
 
 

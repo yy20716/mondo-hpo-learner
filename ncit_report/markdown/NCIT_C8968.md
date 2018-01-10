@@ -11,15 +11,15 @@
 - [NCIT:C36449](http://purl.obolibrary.org/obo/NCIT_C36449) (Clonal BCL6 Gene Rearrangement) 53.57%
 - [NCIT:C36442](http://purl.obolibrary.org/obo/NCIT_C36442) (Clonal BCL2 Gene Rearrangement) 53.57%
 - [NCIT:C36423](http://purl.obolibrary.org/obo/NCIT_C36423) (del(6q21)) 53.57%
-- [NCIT:C28078](http://purl.obolibrary.org/obo/NCIT_C28078) (Grade 2) 53.57%
 - [NCIT:C27752](http://purl.obolibrary.org/obo/NCIT_C27752) (t(2;18)(p12;q21)) 53.57%
 - [NCIT:C27748](http://purl.obolibrary.org/obo/NCIT_C27748) (t(9;14)(p13;q32)) 53.57%
 - [NCIT:C27213](http://purl.obolibrary.org/obo/NCIT_C27213) (t(14;18)(q32;q21)) 53.57%
 - [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and [NCIT:C36333](http://purl.obolibrary.org/obo/NCIT_C36333) (Clonal Gene Rearrangement) 53.57%
-- Thing 52.43%
+- Thing 53.04%
 - [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) 38.93%
-- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C36884](http://purl.obolibrary.org/obo/NCIT_C36884) (Malignant Polygonal Cell with Abundant Granular Cytoplasm))) 38.93%
-- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C36880](http://purl.obolibrary.org/obo/NCIT_C36880) (Adenocarcinoma Cell with Eosinophilic Granular Cytoplasm))) 38.93%
-- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C3688](http://purl.obolibrary.org/obo/NCIT_C3688) (Trabecular Adenoma))) 38.93%
+- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C40142](http://purl.obolibrary.org/obo/NCIT_C40142) (Uterine Ligament Papillary Cystadenoma Associated with von Hippel-Lindau Disease))) 38.93%
+- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C40141](http://purl.obolibrary.org/obo/NCIT_C40141) (Wolffian Adnexal Tumor))) 38.93%
+- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C40139](http://purl.obolibrary.org/obo/NCIT_C40139) (Uterine Ligament Clear Cell Adenocarcinoma))) 38.93%
+- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C40138](http://purl.obolibrary.org/obo/NCIT_C40138) (Uterine Ligament Endometrioid Adenocarcinoma))) 38.93%
 
 

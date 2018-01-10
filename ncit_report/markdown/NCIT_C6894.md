@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C41428](http://purl.obolibrary.org/obo/NCIT_C41428) (Increased Cellularity Present) 58.33%
-- [NCIT:C36113](http://purl.obolibrary.org/obo/NCIT_C36113) (Anaplastic Lesion) 58.33%
-- Thing 51.59%
-- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 47.40%
-- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 47.17%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 45.64%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 44.70%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) 43.69%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36655](http://purl.obolibrary.org/obo/NCIT_C36655) (Polysomy 3))) 43.69%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36654](http://purl.obolibrary.org/obo/NCIT_C36654) (CDH1 Gene Inactivation))) 43.69%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36652](http://purl.obolibrary.org/obo/NCIT_C36652) (CCND1 Gene Amplification))) 43.69%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36651](http://purl.obolibrary.org/obo/NCIT_C36651) (FGFR2 Gene Amplification))) 43.69%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36650](http://purl.obolibrary.org/obo/NCIT_C36650) (FGFR1 Gene Amplification))) 43.69%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36649](http://purl.obolibrary.org/obo/NCIT_C36649) (EGFR Gene Amplification))) 43.69%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36648](http://purl.obolibrary.org/obo/NCIT_C36648) (der(1;16)(q10;p10)))) 43.69%
+- [NCIT:C51147](http://purl.obolibrary.org/obo/NCIT_C51147) (Malignant Spindle-Shaped to Round Cell) 56.25%
+- [NCIT:C37123](http://purl.obolibrary.org/obo/NCIT_C37123) (Neoplastic Spindle-Shaped to Round Cell) and [NCIT:C48787](http://purl.obolibrary.org/obo/NCIT_C48787) (Malignant Connective and Soft Tissue Cell) 56.25%
+- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C37123](http://purl.obolibrary.org/obo/NCIT_C37123) (Neoplastic Spindle-Shaped to Round Cell) 56.25%
+- Thing 52.30%
+- [NCIT:C37123](http://purl.obolibrary.org/obo/NCIT_C37123) (Neoplastic Spindle-Shaped to Round Cell) 41.61%
+- [NCIT:C37123](http://purl.obolibrary.org/obo/NCIT_C37123) (Neoplastic Spindle-Shaped to Round Cell) and (not ([NCIT:C39069](http://purl.obolibrary.org/obo/NCIT_C39069) (ErbB3 Receptor Recycling Pathway))) 41.61%
+- [NCIT:C37123](http://purl.obolibrary.org/obo/NCIT_C37123) (Neoplastic Spindle-Shaped to Round Cell) and (not ([NCIT:C39067](http://purl.obolibrary.org/obo/NCIT_C39067) (EPO Signaling Pathway))) 41.61%
+- [NCIT:C37123](http://purl.obolibrary.org/obo/NCIT_C37123) (Neoplastic Spindle-Shaped to Round Cell) and (not ([NCIT:C39066](http://purl.obolibrary.org/obo/NCIT_C39066) (Erythropoietin Neuroprotection Pathway))) 41.61%
+- [NCIT:C37123](http://purl.obolibrary.org/obo/NCIT_C37123) (Neoplastic Spindle-Shaped to Round Cell) and (not ([NCIT:C39059](http://purl.obolibrary.org/obo/NCIT_C39059) (Map Kinase Inactivation of SMRT Corepressor Pathway))) 41.61%
+- [NCIT:C37123](http://purl.obolibrary.org/obo/NCIT_C37123) (Neoplastic Spindle-Shaped to Round Cell) and (not ([NCIT:C39058](http://purl.obolibrary.org/obo/NCIT_C39058) (EGF Signaling Pathway))) 41.61%
+- [NCIT:C37123](http://purl.obolibrary.org/obo/NCIT_C37123) (Neoplastic Spindle-Shaped to Round Cell) and (not ([NCIT:C39056](http://purl.obolibrary.org/obo/NCIT_C39056) (Vesicle Transport Pathway))) 41.61%
+- [NCIT:C37123](http://purl.obolibrary.org/obo/NCIT_C37123) (Neoplastic Spindle-Shaped to Round Cell) and (not ([NCIT:C39055](http://purl.obolibrary.org/obo/NCIT_C39055) (Phospholipid Signaling Pathway))) 41.61%
+- [NCIT:C37123](http://purl.obolibrary.org/obo/NCIT_C37123) (Neoplastic Spindle-Shaped to Round Cell) and (not ([NCIT:C39054](http://purl.obolibrary.org/obo/NCIT_C39054) (Extracellular Matrix Binding Pathway))) 41.61%
+- [NCIT:C37123](http://purl.obolibrary.org/obo/NCIT_C37123) (Neoplastic Spindle-Shaped to Round Cell) and (not ([NCIT:C39040](http://purl.obolibrary.org/obo/NCIT_C39040) (CTCF Pathway))) 41.61%
+- [NCIT:C37123](http://purl.obolibrary.org/obo/NCIT_C37123) (Neoplastic Spindle-Shaped to Round Cell) and (not ([NCIT:C39021](http://purl.obolibrary.org/obo/NCIT_C39021) (Cell Migration Pathway))) 41.61%
 
 

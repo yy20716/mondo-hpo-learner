@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C54171](http://purl.obolibrary.org/obo/NCIT_C54171) (Osseous Component Present) 56.25%
-- [NCIT:C54168](http://purl.obolibrary.org/obo/NCIT_C54168) (Cartilaginous Component Present) 56.25%
-- [NCIT:C53597](http://purl.obolibrary.org/obo/NCIT_C53597) (Lipomatous Component Present) 56.25%
-- [NCIT:C36108](http://purl.obolibrary.org/obo/NCIT_C36108) (Encapsulated Mass) 56.25%
-- [NCIT:C35998](http://purl.obolibrary.org/obo/NCIT_C35998) (Myxoid Stroma Formation) 56.25%
-- [NCIT:C35996](http://purl.obolibrary.org/obo/NCIT_C35996) (Stromal Change) and [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) 56.25%
-- [NCIT:C42075](http://purl.obolibrary.org/obo/NCIT_C42075) (Abnormal Tissue Present) 54.48%
-- Thing 51.84%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 48.46%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 47.34%
-- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 43.78%
-- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 43.53%
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) 41.61%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) 41.61%
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C37049](http://purl.obolibrary.org/obo/NCIT_C37049) (Hyperchromatic Megakaryocyte))) 41.61%
+- Thing 53.45%
+- [NCIT:C20577](http://purl.obolibrary.org/obo/NCIT_C20577) (HMGA2 Gene) 52.78%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C20576](http://purl.obolibrary.org/obo/NCIT_C20576) (HMGA1 Gene))) 52.78%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) 38.13%
+- [NCIT:C20570](http://purl.obolibrary.org/obo/NCIT_C20570) (HMG Family Gene) 38.13%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40125](http://purl.obolibrary.org/obo/NCIT_C40125) (Fallopian Tube Adenosarcoma))) 38.13%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40124](http://purl.obolibrary.org/obo/NCIT_C40124) (Fallopian Tube Carcinosarcoma))) 38.13%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40122](http://purl.obolibrary.org/obo/NCIT_C40122) (Pelvic Pain))) 38.13%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40116](http://purl.obolibrary.org/obo/NCIT_C40116) (Fallopian Tube Metaplastic Papillary Tumor))) 38.13%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40114](http://purl.obolibrary.org/obo/NCIT_C40114) (Fallopian Tube Serous Cystadenofibroma))) 38.13%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40112](http://purl.obolibrary.org/obo/NCIT_C40112) (Fallopian Tube Papilloma))) 38.13%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40110](http://purl.obolibrary.org/obo/NCIT_C40110) (Borderline Fallopian Tube Endometrioid Tumor))) 38.13%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 38.13%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 38.13%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) and (not ([NCIT:C40104](http://purl.obolibrary.org/obo/NCIT_C40104) (Fallopian Tube Transitional Cell Carcinoma))) 38.13%
 
 

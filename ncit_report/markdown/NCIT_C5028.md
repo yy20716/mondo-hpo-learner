@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C54206](http://purl.obolibrary.org/obo/NCIT_C54206) (Endophytic Tumor Growth) 57.14%
-- [NCIT:C54201](http://purl.obolibrary.org/obo/NCIT_C54201) (Exophytic Papillary Lesion) 57.14%
-- [NCIT:C35911](http://purl.obolibrary.org/obo/NCIT_C35911) (Papillary Pattern) 57.14%
-- [NCIT:C35265](http://purl.obolibrary.org/obo/NCIT_C35265) (Acanthosis) 57.14%
-- [NCIT:C27851](http://purl.obolibrary.org/obo/NCIT_C27851) (Human Papillomavirus Infection) 57.14%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C32542](http://purl.obolibrary.org/obo/NCIT_C32542) (Esophageal Squamous Cell))) 57.14%
-- Thing 51.72%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) 42.50%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C36478](http://purl.obolibrary.org/obo/NCIT_C36478) (Unbalanced Translocation of Chromosome 1))) 42.50%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C36477](http://purl.obolibrary.org/obo/NCIT_C36477) (i(17q)))) 42.50%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C36476](http://purl.obolibrary.org/obo/NCIT_C36476) (Trisomy 7))) 42.50%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C36475](http://purl.obolibrary.org/obo/NCIT_C36475) (Trisomy 6))) 42.50%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C36474](http://purl.obolibrary.org/obo/NCIT_C36474) (Ring Chromosome 1))) 42.50%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C36473](http://purl.obolibrary.org/obo/NCIT_C36473) (der(15;21)(q10;q10)))) 42.50%
-- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C36472](http://purl.obolibrary.org/obo/NCIT_C36472) (del(19p12)))) 42.50%
+- Thing 53.35%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C32542](http://purl.obolibrary.org/obo/NCIT_C32542) (Esophageal Squamous Cell))) 52.94%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) 38.30%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39629](http://purl.obolibrary.org/obo/NCIT_C39629) (CDKN2A Gene Inactivation))) 38.30%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39628](http://purl.obolibrary.org/obo/NCIT_C39628) (Single Cell Exocytosis))) 38.30%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39627](http://purl.obolibrary.org/obo/NCIT_C39627) (Pautrier Microabscess Present))) 38.30%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39626](http://purl.obolibrary.org/obo/NCIT_C39626) (Epidermotropic Lymphocytic Infiltrate))) 38.30%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39625](http://purl.obolibrary.org/obo/NCIT_C39625) (Extracutaneous Dissemination of Disease))) 38.30%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39624](http://purl.obolibrary.org/obo/NCIT_C39624) (Skin Plaque))) 38.30%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39622](http://purl.obolibrary.org/obo/NCIT_C39622) (Scaly Skin Eruption))) 38.30%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39620](http://purl.obolibrary.org/obo/NCIT_C39620) (Dermatopathic Lymphadenopathy))) 38.30%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39618](http://purl.obolibrary.org/obo/NCIT_C39618) (Subcutaneous Nodule))) 38.30%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39617](http://purl.obolibrary.org/obo/NCIT_C39617) (Subcutaneous Involvement))) 38.30%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39616](http://purl.obolibrary.org/obo/NCIT_C39616) (Karyorrhexis))) 38.30%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) and (not ([NCIT:C39615](http://purl.obolibrary.org/obo/NCIT_C39615) (Sinusoidal Infiltration))) 38.30%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36704](http://purl.obolibrary.org/obo/NCIT_C36704) (FHIT Gene Inactivation) 58.33%
-- [NCIT:C36695](http://purl.obolibrary.org/obo/NCIT_C36695) (LKB1 Gene Inactivation) 58.33%
-- [NCIT:C36683](http://purl.obolibrary.org/obo/NCIT_C36683) (APC Gene Inactivation) 58.33%
-- [NCIT:C36665](http://purl.obolibrary.org/obo/NCIT_C36665) (KRAS Gene Amplification) 58.33%
-- [CL:0002328](http://purl.obolibrary.org/obo/CL_0002328) (bronchial epithelial cell) and (not ([CL:0000158](http://purl.obolibrary.org/obo/CL_0000158) (Clara cell))) 58.33%
-- Thing 51.59%
-- [NCIT:C36334](http://purl.obolibrary.org/obo/NCIT_C36334) (Tumor-Suppressor Gene Inactivation) 43.90%
-- [CL:0002328](http://purl.obolibrary.org/obo/CL_0002328) (bronchial epithelial cell) 43.69%
-- [CL:0002328](http://purl.obolibrary.org/obo/CL_0002328) (bronchial epithelial cell) and (not ([NCIT:C37091](http://purl.obolibrary.org/obo/NCIT_C37091) (Vacuolated Endothelial Cell))) 43.69%
-- [CL:0002328](http://purl.obolibrary.org/obo/CL_0002328) (bronchial epithelial cell) and (not ([NCIT:C37085](http://purl.obolibrary.org/obo/NCIT_C37085) (Undifferentiated Carcinoma Cell))) 43.69%
-- [CL:0002328](http://purl.obolibrary.org/obo/CL_0002328) (bronchial epithelial cell) and (not ([NCIT:C37084](http://purl.obolibrary.org/obo/NCIT_C37084) (Hyperchromatic Spindle Cell))) 43.69%
-- [CL:0002328](http://purl.obolibrary.org/obo/CL_0002328) (bronchial epithelial cell) and (not ([NCIT:C37078](http://purl.obolibrary.org/obo/NCIT_C37078) (Pseudo-Gaucher Cell))) 43.69%
-- [CL:0002328](http://purl.obolibrary.org/obo/CL_0002328) (bronchial epithelial cell) and (not ([NCIT:C37076](http://purl.obolibrary.org/obo/NCIT_C37076) (Neoplastic Neutrophilic Precursor))) 43.69%
-- [CL:0002328](http://purl.obolibrary.org/obo/CL_0002328) (bronchial epithelial cell) and (not ([NCIT:C37075](http://purl.obolibrary.org/obo/NCIT_C37075) (Neoplastic Promonocyte))) 43.69%
-- [CL:0002328](http://purl.obolibrary.org/obo/CL_0002328) (bronchial epithelial cell) and (not ([NCIT:C37074](http://purl.obolibrary.org/obo/NCIT_C37074) (Hypogranular Promyelocyte))) 43.69%
+- [NCIT:C37935](http://purl.obolibrary.org/obo/NCIT_C37935) (Cough) 55.00%
+- [NCIT:C3676](http://purl.obolibrary.org/obo/NCIT_C3676) (Alteration in Respiration) 55.00%
+- [NCIT:C36704](http://purl.obolibrary.org/obo/NCIT_C36704) (FHIT Gene Inactivation) 55.00%
+- [NCIT:C36695](http://purl.obolibrary.org/obo/NCIT_C36695) (LKB1 Gene Inactivation) 55.00%
+- [NCIT:C36683](http://purl.obolibrary.org/obo/NCIT_C36683) (APC Gene Inactivation) 55.00%
+- [NCIT:C36665](http://purl.obolibrary.org/obo/NCIT_C36665) (KRAS Gene Amplification) 55.00%
+- [NCIT:C3094](http://purl.obolibrary.org/obo/NCIT_C3094) (Hemoptysis) 55.00%
+- [NCIT:C2998](http://purl.obolibrary.org/obo/NCIT_C2998) (Dyspnea) 55.00%
+- [CL:0002632](http://purl.obolibrary.org/obo/CL_0002632) (epithelial cell of lower respiratory tract) 55.00%
+- [CL:0002368](http://purl.obolibrary.org/obo/CL_0002368) (respiratory epithelial cell) 55.00%
+- [CL:0002328](http://purl.obolibrary.org/obo/CL_0002328) (bronchial epithelial cell) 55.00%
+- [CL:0002202](http://purl.obolibrary.org/obo/CL_0002202) (epithelial cell of tracheobronchial tree) 55.00%
+- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C35292](http://purl.obolibrary.org/obo/NCIT_C35292) (Low Grade Fever))) 55.00%
+- Thing 52.57%
+- [NCIT:C85403](http://purl.obolibrary.org/obo/NCIT_C85403) (Respiratory System Signs and Symptoms) 45.36%
 
 

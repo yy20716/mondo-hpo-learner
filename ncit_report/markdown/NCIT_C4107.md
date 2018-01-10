@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C54387](http://purl.obolibrary.org/obo/NCIT_C54387) (Malignant Epithelial Large Cell with Vesicular Nucleus and Distinct Nucleolus) and (not ([NCIT:C60664](http://purl.obolibrary.org/obo/NCIT_C60664) (Malignant Epithelial Cell with Vesicular Nucleus, Distinct Nucleolus, and Abundant Pink Cytoplasm))) 66.67%
-- [NCIT:C54387](http://purl.obolibrary.org/obo/NCIT_C54387) (Malignant Epithelial Large Cell with Vesicular Nucleus and Distinct Nucleolus) 52.02%
-- [NCIT:C54387](http://purl.obolibrary.org/obo/NCIT_C54387) (Malignant Epithelial Large Cell with Vesicular Nucleus and Distinct Nucleolus) and (not ([CHEBI:23019](http://purl.obolibrary.org/obo/CHEBI_23019) (carbonyl group))) 52.02%
-- [NCIT:C54387](http://purl.obolibrary.org/obo/NCIT_C54387) (Malignant Epithelial Large Cell with Vesicular Nucleus and Distinct Nucleolus) and (not ([CHEBI:23004](http://purl.obolibrary.org/obo/CHEBI_23004) (carbamoyl group))) 52.02%
-- [NCIT:C54387](http://purl.obolibrary.org/obo/NCIT_C54387) (Malignant Epithelial Large Cell with Vesicular Nucleus and Distinct Nucleolus) and (not ([CHEBI:22868](http://purl.obolibrary.org/obo/CHEBI_22868) (bile salt))) 52.02%
-- [NCIT:C54387](http://purl.obolibrary.org/obo/NCIT_C54387) (Malignant Epithelial Large Cell with Vesicular Nucleus and Distinct Nucleolus) and (not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion))) 52.02%
-- [NCIT:C54387](http://purl.obolibrary.org/obo/NCIT_C54387) (Malignant Epithelial Large Cell with Vesicular Nucleus and Distinct Nucleolus) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 52.02%
-- [NCIT:C54387](http://purl.obolibrary.org/obo/NCIT_C54387) (Malignant Epithelial Large Cell with Vesicular Nucleus and Distinct Nucleolus) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 52.02%
-- [NCIT:C54387](http://purl.obolibrary.org/obo/NCIT_C54387) (Malignant Epithelial Large Cell with Vesicular Nucleus and Distinct Nucleolus) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 52.02%
-- [NCIT:C54387](http://purl.obolibrary.org/obo/NCIT_C54387) (Malignant Epithelial Large Cell with Vesicular Nucleus and Distinct Nucleolus) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 52.02%
-- [NCIT:C54387](http://purl.obolibrary.org/obo/NCIT_C54387) (Malignant Epithelial Large Cell with Vesicular Nucleus and Distinct Nucleolus) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 52.02%
-- [NCIT:C54387](http://purl.obolibrary.org/obo/NCIT_C54387) (Malignant Epithelial Large Cell with Vesicular Nucleus and Distinct Nucleolus) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 52.02%
-- [NCIT:C54387](http://purl.obolibrary.org/obo/NCIT_C54387) (Malignant Epithelial Large Cell with Vesicular Nucleus and Distinct Nucleolus) and (not (CARO:0010000)) 52.02%
-- [NCIT:C54387](http://purl.obolibrary.org/obo/NCIT_C54387) (Malignant Epithelial Large Cell with Vesicular Nucleus and Distinct Nucleolus) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 52.02%
-- [NCIT:C54387](http://purl.obolibrary.org/obo/NCIT_C54387) (Malignant Epithelial Large Cell with Vesicular Nucleus and Distinct Nucleolus) and (not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null))) 52.02%
+- [NCIT:C9232](http://purl.obolibrary.org/obo/NCIT_C9232) (Weight Change) 53.85%
+- [NCIT:C38665](http://purl.obolibrary.org/obo/NCIT_C38665) (Chest Pain) 53.85%
+- [NCIT:C3858](http://purl.obolibrary.org/obo/NCIT_C3858) (Mental and Behavioral Signs and Symptoms) 53.85%
+- [NCIT:C37935](http://purl.obolibrary.org/obo/NCIT_C37935) (Cough) 53.85%
+- [NCIT:C3676](http://purl.obolibrary.org/obo/NCIT_C3676) (Alteration in Respiration) 53.85%
+- [NCIT:C3445](http://purl.obolibrary.org/obo/NCIT_C3445) (Weight Loss) 53.85%
+- [NCIT:C3094](http://purl.obolibrary.org/obo/NCIT_C3094) (Hemoptysis) 53.85%
+- [NCIT:C3036](http://purl.obolibrary.org/obo/NCIT_C3036) (Fatigue) 53.85%
+- [NCIT:C2998](http://purl.obolibrary.org/obo/NCIT_C2998) (Dyspnea) 53.85%
+- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C35292](http://purl.obolibrary.org/obo/NCIT_C35292) (Low Grade Fever))) 53.85%
+- Thing 52.93%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 52.32%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 50.85%
+- [NCIT:C100104](http://purl.obolibrary.org/obo/NCIT_C100104) (Sign or Symptom) 47.32%
+- [NCIT:C85403](http://purl.obolibrary.org/obo/NCIT_C85403) (Respiratory System Signs and Symptoms) 43.05%
 
 

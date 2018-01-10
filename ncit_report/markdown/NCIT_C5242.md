@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36665](http://purl.obolibrary.org/obo/NCIT_C36665) (KRAS Gene Amplification) 66.67%
-- [NCIT:C25785](http://purl.obolibrary.org/obo/NCIT_C25785) (KRAS Gene) 66.67%
-- Thing 51.13%
-- [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) 45.53%
-- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) 41.67%
-- [NCIT:C18437](http://purl.obolibrary.org/obo/NCIT_C18437) (G Protein Gene) 41.67%
-- [NCIT:C53596](http://purl.obolibrary.org/obo/NCIT_C53596) (Epithelial Component Present) 39.03%
-- [NCIT:C20921](http://purl.obolibrary.org/obo/NCIT_C20921) (Signaling Pathway Gene) 29.17%
-- [NCIT:C45581](http://purl.obolibrary.org/obo/NCIT_C45581) (Gene Amplification Abnormality) 28.14%
-- [NCIT:C36344](http://purl.obolibrary.org/obo/NCIT_C36344) (Oncogene Deregulation) 28.14%
-- [NCIT:C36327](http://purl.obolibrary.org/obo/NCIT_C36327) (Gene Abnormality) 20.79%
-- [NCIT:C36391](http://purl.obolibrary.org/obo/NCIT_C36391) (Molecular Genetic Variation) 20.30%
-- [NCIT:C97926](http://purl.obolibrary.org/obo/NCIT_C97926) (Molecular Sequence Variation) 20.20%
-- [NCIT:C16612](http://purl.obolibrary.org/obo/NCIT_C16612) (Gene) 19.66%
-- [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 18.88%
+- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) 55.56%
+- [NCIT:C38328](http://purl.obolibrary.org/obo/NCIT_C38328) (Unfavorable Clinical Outcome) 55.56%
+- [NCIT:C61466](http://purl.obolibrary.org/obo/NCIT_C61466) (Malignant Component Present) and [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) 55.56%
+- [NCIT:C61466](http://purl.obolibrary.org/obo/NCIT_C61466) (Malignant Component Present) and [NCIT:C61541](http://purl.obolibrary.org/obo/NCIT_C61541) (Atypical Glandular Epithelium Resembling the Normal Endometrium Present) 55.56%
+- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) 55.56%
+- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and [NCIT:C61541](http://purl.obolibrary.org/obo/NCIT_C61541) (Atypical Glandular Epithelium Resembling the Normal Endometrium Present) 55.56%
+- Thing 52.44%
+- [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) 51.94%
+- [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([NCIT:C39872](http://purl.obolibrary.org/obo/NCIT_C39872) (Urethral Villous Adenoma))) 51.94%
+- [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([NCIT:C39866](http://purl.obolibrary.org/obo/NCIT_C39866) (Female Urethral Malignant Neoplasm))) 51.94%
+- [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([NCIT:C39864](http://purl.obolibrary.org/obo/NCIT_C39864) (Carcinoma of Cowper Glands))) 51.94%
+- [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([NCIT:C39862](http://purl.obolibrary.org/obo/NCIT_C39862) (Human Papillomavirus-Related Urethral Squamous Cell Carcinoma))) 51.94%
+- [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([NCIT:C39859](http://purl.obolibrary.org/obo/NCIT_C39859) (Bladder Inverted Papilloma))) 51.94%
+- [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([NCIT:C39856](http://purl.obolibrary.org/obo/NCIT_C39856) (Urothelial Dysplasia))) 51.94%
+- [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([NCIT:C39845](http://purl.obolibrary.org/obo/NCIT_C39845) (Bladder Urachal Squamous Cell Carcinoma))) 51.94%
 
 

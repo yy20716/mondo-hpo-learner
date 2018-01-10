@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 52.25%
-- [NCIT:C2954](http://purl.obolibrary.org/obo/NCIT_C2954) (Colon Polyp) 39.52%
-- [NCIT:C2954](http://purl.obolibrary.org/obo/NCIT_C2954) (Colon Polyp) and (not ([NCIT:C36870](http://purl.obolibrary.org/obo/NCIT_C36870) (Epithelioid Melanocyte))) 39.52%
-- [NCIT:C2954](http://purl.obolibrary.org/obo/NCIT_C2954) (Colon Polyp) and (not ([NCIT:C36869](http://purl.obolibrary.org/obo/NCIT_C36869) (Spindle Melanocyte))) 39.52%
-- [NCIT:C2954](http://purl.obolibrary.org/obo/NCIT_C2954) (Colon Polyp) and (not ([NCIT:C36863](http://purl.obolibrary.org/obo/NCIT_C36863) (Balloon Nevus Cell))) 39.52%
-- [NCIT:C2954](http://purl.obolibrary.org/obo/NCIT_C2954) (Colon Polyp) and (not ([NCIT:C36861](http://purl.obolibrary.org/obo/NCIT_C36861) (Malignant Small Hyperchromatic Cell))) 39.52%
-- [NCIT:C2954](http://purl.obolibrary.org/obo/NCIT_C2954) (Colon Polyp) and (not ([NCIT:C36858](http://purl.obolibrary.org/obo/NCIT_C36858) (Ductal Carcinoma Cell))) 39.52%
-- [NCIT:C2954](http://purl.obolibrary.org/obo/NCIT_C2954) (Colon Polyp) and (not ([NCIT:C36856](http://purl.obolibrary.org/obo/NCIT_C36856) (Mucin-Producing Adenocarcinoma Cell))) 39.52%
-- [NCIT:C2954](http://purl.obolibrary.org/obo/NCIT_C2954) (Colon Polyp) and (not ([NCIT:C36855](http://purl.obolibrary.org/obo/NCIT_C36855) (Malignant Neuroendocrine Polygonal Cell))) 39.52%
-- [NCIT:C2954](http://purl.obolibrary.org/obo/NCIT_C2954) (Colon Polyp) and (not ([NCIT:C36854](http://purl.obolibrary.org/obo/NCIT_C36854) (Malignant Neuroendocrine Spindle Cell))) 39.52%
-- [NCIT:C2954](http://purl.obolibrary.org/obo/NCIT_C2954) (Colon Polyp) and (not ([NCIT:C36850](http://purl.obolibrary.org/obo/NCIT_C36850) (Polygonal Adenocarcinoma Cell with Eosinophilic Cytoplasm))) 39.52%
-- [NCIT:C2954](http://purl.obolibrary.org/obo/NCIT_C2954) (Colon Polyp) and (not ([NCIT:C3685](http://purl.obolibrary.org/obo/NCIT_C3685) (Microcystic Adenoma))) 39.52%
-- [NCIT:C2954](http://purl.obolibrary.org/obo/NCIT_C2954) (Colon Polyp) and (not ([NCIT:C36848](http://purl.obolibrary.org/obo/NCIT_C36848) (Anaplastic Carcinoma Cell))) 39.52%
-- [NCIT:C2954](http://purl.obolibrary.org/obo/NCIT_C2954) (Colon Polyp) and (not ([NCIT:C36847](http://purl.obolibrary.org/obo/NCIT_C36847) (Hemosiderin-Laden Macrophage))) 39.52%
-- [NCIT:C2954](http://purl.obolibrary.org/obo/NCIT_C2954) (Colon Polyp) and (not ([NCIT:C36842](http://purl.obolibrary.org/obo/NCIT_C36842) (Giant Astrocyte))) 39.52%
+- Thing 53.35%
+- [NCIT:C38665](http://purl.obolibrary.org/obo/NCIT_C38665) (Chest Pain) 52.94%
+- [NCIT:C37935](http://purl.obolibrary.org/obo/NCIT_C37935) (Cough) 52.94%
+- [NCIT:C27165](http://purl.obolibrary.org/obo/NCIT_C27165) (Respiratory Distress) 52.94%
+- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C35292](http://purl.obolibrary.org/obo/NCIT_C35292) (Low Grade Fever))) 52.94%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 39.99%
+- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) 38.30%
+- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) 38.30%
+- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39691](http://purl.obolibrary.org/obo/NCIT_C39691) (Partial Spontaneous Regression))) 38.30%
+- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39690](http://purl.obolibrary.org/obo/NCIT_C39690) (Papular Lesion))) 38.30%
+- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39689](http://purl.obolibrary.org/obo/NCIT_C39689) (Multicentric Cutaneous Involvement))) 38.30%
+- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39688](http://purl.obolibrary.org/obo/NCIT_C39688) (Localized Skin Lesion))) 38.30%
+- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39687](http://purl.obolibrary.org/obo/NCIT_C39687) (Activated Mature Cytotoxic T-Lymphocyte))) 38.30%
+- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39686](http://purl.obolibrary.org/obo/NCIT_C39686) (Activated Skin-Homing T-Lymphocyte))) 38.30%
+- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39682](http://purl.obolibrary.org/obo/NCIT_C39682) (Flower-Like T-Lymphocyte))) 38.30%
 
 

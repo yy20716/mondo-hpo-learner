@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0004237](http://purl.obolibrary.org/obo/UBERON_0004237) (blood vessel smooth muscle) and (not ([UBERON:0004695](http://purl.obolibrary.org/obo/UBERON_0004695) (arterial system smooth muscle))) 75.00%
-- [UBERON:0004237](http://purl.obolibrary.org/obo/UBERON_0004237) (blood vessel smooth muscle) and (not ([UBERON:0004178](http://purl.obolibrary.org/obo/UBERON_0004178) (aorta smooth muscle tissue))) 75.00%
-- [UBERON:0004237](http://purl.obolibrary.org/obo/UBERON_0004237) (blood vessel smooth muscle) 60.36%
-- [UBERON:0004237](http://purl.obolibrary.org/obo/UBERON_0004237) (blood vessel smooth muscle) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 60.36%
-- [UBERON:0004237](http://purl.obolibrary.org/obo/UBERON_0004237) (blood vessel smooth muscle) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 60.36%
-- [UBERON:0004237](http://purl.obolibrary.org/obo/UBERON_0004237) (blood vessel smooth muscle) and (not (CARO:0010000)) 60.36%
-- [UBERON:0004237](http://purl.obolibrary.org/obo/UBERON_0004237) (blood vessel smooth muscle) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 60.36%
-- [UBERON:0004237](http://purl.obolibrary.org/obo/UBERON_0004237) (blood vessel smooth muscle) and (not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null))) 60.36%
-- [UBERON:0004120](http://purl.obolibrary.org/obo/UBERON_0004120) (mesoderm-derived structure) 53.58%
-- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 51.86%
-- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 51.81%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 51.70%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 51.60%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 51.59%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 51.45%
+- [UBERON:0001981](http://purl.obolibrary.org/obo/UBERON_0001981) (blood vessel) 65.36%
+- [UBERON:0003920](http://purl.obolibrary.org/obo/UBERON_0003920) (venous blood vessel) and [UBERON:0013768](http://purl.obolibrary.org/obo/UBERON_0013768) (great vessel of heart) 65.00%
+- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and [UBERON:0013768](http://purl.obolibrary.org/obo/UBERON_0013768) (great vessel of heart) 65.00%
+- [UBERON:0013768](http://purl.obolibrary.org/obo/UBERON_0013768) (great vessel of heart) 64.72%
+- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) 64.72%
+- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36855](http://purl.obolibrary.org/obo/NCIT_C36855) (Malignant Neuroendocrine Polygonal Cell))) 64.72%
+- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36854](http://purl.obolibrary.org/obo/NCIT_C36854) (Malignant Neuroendocrine Spindle Cell))) 64.72%
+- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36850](http://purl.obolibrary.org/obo/NCIT_C36850) (Polygonal Adenocarcinoma Cell with Eosinophilic Cytoplasm))) 64.72%
+- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C3685](http://purl.obolibrary.org/obo/NCIT_C3685) (Microcystic Adenoma))) 64.72%
+- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36848](http://purl.obolibrary.org/obo/NCIT_C36848) (Anaplastic Carcinoma Cell))) 64.72%
+- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36847](http://purl.obolibrary.org/obo/NCIT_C36847) (Hemosiderin-Laden Macrophage))) 64.72%
+- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36842](http://purl.obolibrary.org/obo/NCIT_C36842) (Giant Astrocyte))) 64.72%
+- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36836](http://purl.obolibrary.org/obo/NCIT_C36836) (Malignant Thyroid Gland Follicular Cell))) 64.72%
+- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36834](http://purl.obolibrary.org/obo/NCIT_C36834) (Tingible Body Macrophage))) 64.72%
+- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36833](http://purl.obolibrary.org/obo/NCIT_C36833) (Lipid-Laden Macrophage))) 64.72%
 
 

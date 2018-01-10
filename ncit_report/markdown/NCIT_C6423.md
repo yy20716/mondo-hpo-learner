@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C35918](http://purl.obolibrary.org/obo/NCIT_C35918) (Organoid Pattern) 62.50%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C35914](http://purl.obolibrary.org/obo/NCIT_C35914) (Gyriform Trabecular Pattern))) 62.50%
-- Thing 51.30%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) 47.86%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37048](http://purl.obolibrary.org/obo/NCIT_C37048) (Monolobed Megakaryocyte))) 47.86%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37045](http://purl.obolibrary.org/obo/NCIT_C37045) (Giant Megakaryocyte))) 47.86%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37044](http://purl.obolibrary.org/obo/NCIT_C37044) (Large Megakaryocyte))) 47.86%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37041](http://purl.obolibrary.org/obo/NCIT_C37041) (Neoplastic Monocyte))) 47.86%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C3704](http://purl.obolibrary.org/obo/NCIT_C3704) (Dedifferentiated Liposarcoma))) 47.86%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37039](http://purl.obolibrary.org/obo/NCIT_C37039) (Large Atypical Platelet))) 47.86%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37032](http://purl.obolibrary.org/obo/NCIT_C37032) (Abnormal Eosinophil))) 47.86%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37030](http://purl.obolibrary.org/obo/NCIT_C37030) (Toxic Neutrophil))) 47.86%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37027](http://purl.obolibrary.org/obo/NCIT_C37027) (Popcorn Cell))) 47.86%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37026](http://purl.obolibrary.org/obo/NCIT_C37026) (Hodgkin-Like Cell))) 47.86%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37025](http://purl.obolibrary.org/obo/NCIT_C37025) (Mummified Cell))) 47.86%
+- [UBERON:0001158](http://purl.obolibrary.org/obo/UBERON_0001158) (descending colon) 58.33%
+- [UBERON:0001157](http://purl.obolibrary.org/obo/UBERON_0001157) (transverse colon) 58.33%
+- [UBERON:0001046](http://purl.obolibrary.org/obo/UBERON_0001046) (hindgut) 58.33%
+- [UBERON:0000168](http://purl.obolibrary.org/obo/UBERON_0000168) (proximal-distal subdivision of colon) 57.49%
+- [UBERON:0000168](http://purl.obolibrary.org/obo/UBERON_0000168) (proximal-distal subdivision of colon) and (not ([NCIT:C18261](http://purl.obolibrary.org/obo/NCIT_C18261) (VHL Gene))) 57.49%
+- [UBERON:0000168](http://purl.obolibrary.org/obo/UBERON_0000168) (proximal-distal subdivision of colon) and (not ([NCIT:C18258](http://purl.obolibrary.org/obo/NCIT_C18258) (SMAD4 Gene))) 57.49%
+- [UBERON:0000168](http://purl.obolibrary.org/obo/UBERON_0000168) (proximal-distal subdivision of colon) and (not ([NCIT:C18257](http://purl.obolibrary.org/obo/NCIT_C18257) (RET Gene))) 57.49%
+- [UBERON:0000168](http://purl.obolibrary.org/obo/UBERON_0000168) (proximal-distal subdivision of colon) and (not ([NCIT:C18256](http://purl.obolibrary.org/obo/NCIT_C18256) (PTEN Gene))) 57.49%
+- [UBERON:0000168](http://purl.obolibrary.org/obo/UBERON_0000168) (proximal-distal subdivision of colon) and (not ([NCIT:C18255](http://purl.obolibrary.org/obo/NCIT_C18255) (PTCH1 Gene))) 57.49%
+- [UBERON:0000168](http://purl.obolibrary.org/obo/UBERON_0000168) (proximal-distal subdivision of colon) and (not ([NCIT:C18254](http://purl.obolibrary.org/obo/NCIT_C18254) (MEN1 Gene))) 57.49%
+- [UBERON:0000168](http://purl.obolibrary.org/obo/UBERON_0000168) (proximal-distal subdivision of colon) and (not ([NCIT:C18253](http://purl.obolibrary.org/obo/NCIT_C18253) (STK11 Gene))) 57.49%
+- [UBERON:0000168](http://purl.obolibrary.org/obo/UBERON_0000168) (proximal-distal subdivision of colon) and (not ([NCIT:C18249](http://purl.obolibrary.org/obo/NCIT_C18249) (CDH1 Gene))) 57.49%
+- [UBERON:0000168](http://purl.obolibrary.org/obo/UBERON_0000168) (proximal-distal subdivision of colon) and (not ([NCIT:C18213](http://purl.obolibrary.org/obo/NCIT_C18213) (Stable Disease))) 57.49%
+- [UBERON:0000168](http://purl.obolibrary.org/obo/UBERON_0000168) (proximal-distal subdivision of colon) and (not ([NCIT:C18144](http://purl.obolibrary.org/obo/NCIT_C18144) (Homologous Recombination))) 57.49%
+- [UBERON:0000168](http://purl.obolibrary.org/obo/UBERON_0000168) (proximal-distal subdivision of colon) and (not ([NCIT:C18139](http://purl.obolibrary.org/obo/NCIT_C18139) (ERG Gene))) 57.49%
 
 

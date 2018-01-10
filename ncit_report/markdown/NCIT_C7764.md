@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C38439](http://purl.obolibrary.org/obo/NCIT_C38439) (Mature Lymphocyte) 75.00%
-- [NCIT:C37165](http://purl.obolibrary.org/obo/NCIT_C37165) (Atypical Lymphocyte) 75.00%
-- Thing 50.92%
-- [CL:0000542](http://purl.obolibrary.org/obo/CL_0000542) (lymphocyte) 32.07%
-- [CL:0002087](http://purl.obolibrary.org/obo/CL_0002087) (nongranular leukocyte) 32.00%
-- [CL:0002242](http://purl.obolibrary.org/obo/CL_0002242) (nucleate cell) 31.62%
-- [CL:0000738](http://purl.obolibrary.org/obo/CL_0000738) (leukocyte) 31.40%
-- [CL:0000219](http://purl.obolibrary.org/obo/CL_0000219) (motile cell) 31.06%
-- [CL:0002371](http://purl.obolibrary.org/obo/CL_0002371) (somatic cell) 28.05%
-- [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) 27.97%
-- [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) (native cell) 27.76%
-- [GO:0005623](http://purl.obolibrary.org/obo/GO_0005623) (cell) 27.76%
-- [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000) (cell) 27.72%
-- [GO:0005575](http://purl.obolibrary.org/obo/GO_0005575) (cellular_component) 27.56%
-- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 27.36%
+- [NCIT:C54247](http://purl.obolibrary.org/obo/NCIT_C54247) (Skin Ulcer) 53.33%
+- [NCIT:C38439](http://purl.obolibrary.org/obo/NCIT_C38439) (Mature Lymphocyte) 53.33%
+- [NCIT:C3426](http://purl.obolibrary.org/obo/NCIT_C3426) (Ulcer) and [NCIT:C61375](http://purl.obolibrary.org/obo/NCIT_C61375) (Tissue Breakdown) 53.33%
+- [NCIT:C3426](http://purl.obolibrary.org/obo/NCIT_C3426) (Ulcer) and [NCIT:C50845](http://purl.obolibrary.org/obo/NCIT_C50845) (Skin Erosion) 53.33%
+- [NCIT:C3426](http://purl.obolibrary.org/obo/NCIT_C3426) (Ulcer) and [NCIT:C50443](http://purl.obolibrary.org/obo/NCIT_C50443) (Erosion) 53.33%
+- Thing 53.15%
+- [NCIT:C61375](http://purl.obolibrary.org/obo/NCIT_C61375) (Tissue Breakdown) 38.69%
+- [NCIT:C50845](http://purl.obolibrary.org/obo/NCIT_C50845) (Skin Erosion) 38.69%
+- [NCIT:C50773](http://purl.obolibrary.org/obo/NCIT_C50773) (Tissue Damage) 38.69%
+- [NCIT:C50443](http://purl.obolibrary.org/obo/NCIT_C50443) (Erosion) 38.69%
+- [NCIT:C3426](http://purl.obolibrary.org/obo/NCIT_C3426) (Ulcer) 38.69%
+- [NCIT:C36281](http://purl.obolibrary.org/obo/NCIT_C36281) (Integumentary System Finding) and [NCIT:C61375](http://purl.obolibrary.org/obo/NCIT_C61375) (Tissue Breakdown) 38.69%
+- [NCIT:C36281](http://purl.obolibrary.org/obo/NCIT_C36281) (Integumentary System Finding) and [NCIT:C50443](http://purl.obolibrary.org/obo/NCIT_C50443) (Erosion) 38.69%
+- [NCIT:C36278](http://purl.obolibrary.org/obo/NCIT_C36278) (Finding by Site or System) and [NCIT:C61375](http://purl.obolibrary.org/obo/NCIT_C61375) (Tissue Breakdown) 38.69%
+- [NCIT:C36278](http://purl.obolibrary.org/obo/NCIT_C36278) (Finding by Site or System) and [NCIT:C50443](http://purl.obolibrary.org/obo/NCIT_C50443) (Erosion) 38.69%
 
 

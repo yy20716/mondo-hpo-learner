@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 51.59%
-- [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) 47.22%
-- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 46.95%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) 43.69%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C3636](http://purl.obolibrary.org/obo/NCIT_C3636) (Benign Lymph Node Neoplasm))) 43.69%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C36359](http://purl.obolibrary.org/obo/NCIT_C36359) (t(1;7)(p33;q35)))) 43.69%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C36358](http://purl.obolibrary.org/obo/NCIT_C36358) (t(5;14)(q31.1;q32.3)))) 43.69%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C36357](http://purl.obolibrary.org/obo/NCIT_C36357) (t(14;19)(q32;q13.1)))) 43.69%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C36356](http://purl.obolibrary.org/obo/NCIT_C36356) (t(14;14)(q11;q32)))) 43.69%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C36354](http://purl.obolibrary.org/obo/NCIT_C36354) (t(3;14)(q27;q32)))) 43.69%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C36353](http://purl.obolibrary.org/obo/NCIT_C36353) (t(7;10)(q34;q24)))) 43.69%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C36352](http://purl.obolibrary.org/obo/NCIT_C36352) (t(10;14)(q24;q11)))) 43.69%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C36351](http://purl.obolibrary.org/obo/NCIT_C36351) (t(11;14)(p13;q11)))) 43.69%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C36350](http://purl.obolibrary.org/obo/NCIT_C36350) (t(11;14)(p15;q11)))) 43.69%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C36349](http://purl.obolibrary.org/obo/NCIT_C36349) (t(7;9)(q34;q34.3)))) 43.69%
+- Thing 54.88%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([CL:1001428](http://purl.obolibrary.org/obo/CL_1001428) (bladder urothelial cell))) 52.78%
+- [NCIT:C54557](http://purl.obolibrary.org/obo/NCIT_C54557) (Renal Pelvis Urothelial Cell) 51.39%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 51.39%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) 43.60%
+- [CL:0000244](http://purl.obolibrary.org/obo/CL_0000244) (transitional epithelial cell) 43.60%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40314](http://purl.obolibrary.org/obo/NCIT_C40314) (Vulvar Trichoepithelioma))) 43.60%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40312](http://purl.obolibrary.org/obo/NCIT_C40312) (Vulvar Nodular Hidradenoma))) 43.60%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40311](http://purl.obolibrary.org/obo/NCIT_C40311) (Vulvar Syringoma))) 43.60%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40309](http://purl.obolibrary.org/obo/NCIT_C40309) (Vulvar Sebaceous Carcinoma))) 43.60%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40308](http://purl.obolibrary.org/obo/NCIT_C40308) (Vulvar Apocrine Adenocarcinoma))) 43.60%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40307](http://purl.obolibrary.org/obo/NCIT_C40307) (Vulvar Clear Cell Hidradenocarcinoma))) 43.60%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40306](http://purl.obolibrary.org/obo/NCIT_C40306) (Vulvar Eccrine Porocarcinoma))) 43.60%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40301](http://purl.obolibrary.org/obo/NCIT_C40301) (Adenoma of Minor Vestibular Glands))) 43.60%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C40299](http://purl.obolibrary.org/obo/NCIT_C40299) (Bartholin Gland Adenoma))) 43.60%
 
 

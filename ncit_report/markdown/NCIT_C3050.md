@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C60703](http://purl.obolibrary.org/obo/NCIT_C60703) (Gastrin Positive Neoplastic Cells Present) 66.67%
-- [NCIT:C35943](http://purl.obolibrary.org/obo/NCIT_C35943) (Pseudorosette Formation) and (not ([NCIT:C41626](http://purl.obolibrary.org/obo/NCIT_C41626) (Perivascular Pseudorosette Formation))) 66.67%
-- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 54.27%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 53.08%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 52.35%
-- [NCIT:C35943](http://purl.obolibrary.org/obo/NCIT_C35943) (Pseudorosette Formation) 52.02%
-- [NCIT:C35943](http://purl.obolibrary.org/obo/NCIT_C35943) (Pseudorosette Formation) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 52.02%
-- [NCIT:C35943](http://purl.obolibrary.org/obo/NCIT_C35943) (Pseudorosette Formation) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 52.02%
-- [NCIT:C35943](http://purl.obolibrary.org/obo/NCIT_C35943) (Pseudorosette Formation) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 52.02%
-- [NCIT:C35943](http://purl.obolibrary.org/obo/NCIT_C35943) (Pseudorosette Formation) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 52.02%
-- [NCIT:C35943](http://purl.obolibrary.org/obo/NCIT_C35943) (Pseudorosette Formation) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 52.02%
-- [NCIT:C35943](http://purl.obolibrary.org/obo/NCIT_C35943) (Pseudorosette Formation) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 52.02%
-- [NCIT:C35943](http://purl.obolibrary.org/obo/NCIT_C35943) (Pseudorosette Formation) and (not (CARO:0010000)) 52.02%
-- [NCIT:C35943](http://purl.obolibrary.org/obo/NCIT_C35943) (Pseudorosette Formation) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 52.02%
-- [NCIT:C35943](http://purl.obolibrary.org/obo/NCIT_C35943) (Pseudorosette Formation) and (not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null))) 52.02%
+- [NCIT:C60703](http://purl.obolibrary.org/obo/NCIT_C60703) (Gastrin Positive Neoplastic Cells Present) 58.33%
+- [NCIT:C45861](http://purl.obolibrary.org/obo/NCIT_C45861) (del(18q21)) 58.33%
+- [NCIT:C36502](http://purl.obolibrary.org/obo/NCIT_C36502) (Loss of Chromosome 3p) 58.33%
+- [NCIT:C18254](http://purl.obolibrary.org/obo/NCIT_C18254) (MEN1 Gene) 58.33%
+- Thing 51.99%
+- [NCIT:C35943](http://purl.obolibrary.org/obo/NCIT_C35943) (Pseudorosette Formation) 43.69%
+- [NCIT:C35943](http://purl.obolibrary.org/obo/NCIT_C35943) (Pseudorosette Formation) and (not ([NCIT:C39807](http://purl.obolibrary.org/obo/NCIT_C39807) (Mucinous Tubular and Spindle Cell Carcinoma of the Kidney))) 43.69%
+- [NCIT:C35943](http://purl.obolibrary.org/obo/NCIT_C35943) (Pseudorosette Formation) and (not ([NCIT:C39806](http://purl.obolibrary.org/obo/NCIT_C39806) (NONO-TFE3 Fusion Protein Expression))) 43.69%
+- [NCIT:C35943](http://purl.obolibrary.org/obo/NCIT_C35943) (Pseudorosette Formation) and (not ([NCIT:C39805](http://purl.obolibrary.org/obo/NCIT_C39805) (PSF-TFE3 Fusion Protein Expression))) 43.69%
+- [NCIT:C35943](http://purl.obolibrary.org/obo/NCIT_C35943) (Pseudorosette Formation) and (not ([NCIT:C39803](http://purl.obolibrary.org/obo/NCIT_C39803) (PRCC-TFE3 Fusion Protein Expression))) 43.69%
+- [NCIT:C35943](http://purl.obolibrary.org/obo/NCIT_C35943) (Pseudorosette Formation) and (not ([NCIT:C39802](http://purl.obolibrary.org/obo/NCIT_C39802) (Renal Cell Carcinoma Associated with inv(X)(p11;q12)))) 43.69%
+- [NCIT:C35943](http://purl.obolibrary.org/obo/NCIT_C35943) (Pseudorosette Formation) and (not ([NCIT:C39801](http://purl.obolibrary.org/obo/NCIT_C39801) (inv(X)(p11;q12)))) 43.69%
+- [NCIT:C35943](http://purl.obolibrary.org/obo/NCIT_C35943) (Pseudorosette Formation) and (not ([NCIT:C39800](http://purl.obolibrary.org/obo/NCIT_C39800) (Sickle Cell Trait))) 43.69%
+- [NCIT:C35943](http://purl.obolibrary.org/obo/NCIT_C35943) (Pseudorosette Formation) and (not ([NCIT:C39799](http://purl.obolibrary.org/obo/NCIT_C39799) (Loss of Chromosome 21))) 43.69%
+- [NCIT:C35943](http://purl.obolibrary.org/obo/NCIT_C35943) (Pseudorosette Formation) and (not ([NCIT:C39798](http://purl.obolibrary.org/obo/NCIT_C39798) (Loss of Chromosome 2))) 43.69%
 
 

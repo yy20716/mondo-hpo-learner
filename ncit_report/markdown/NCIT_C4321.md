@@ -8,7 +8,7 @@
 
 - [NCIT:C37132](http://purl.obolibrary.org/obo/NCIT_C37132) (Gemistocytic Neoplastic Astrocyte) 66.67%
 - [NCIT:C35989](http://purl.obolibrary.org/obo/NCIT_C35989) (Nuclear Atypia) 66.67%
-- Thing 51.13%
+- Thing 51.41%
 - [NCIT:C41454](http://purl.obolibrary.org/obo/NCIT_C41454) (Cystic Change) 45.53%
 - [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 36.96%
 - [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 36.82%

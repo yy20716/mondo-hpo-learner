@@ -15,11 +15,11 @@
 - [NCIT:C27748](http://purl.obolibrary.org/obo/NCIT_C27748) (t(9;14)(p13;q32)) 54.55%
 - [NCIT:C27213](http://purl.obolibrary.org/obo/NCIT_C27213) (t(14;18)(q32;q21)) 54.55%
 - [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and [NCIT:C36333](http://purl.obolibrary.org/obo/NCIT_C36333) (Clonal Gene Rearrangement) 54.55%
-- Thing 52.16%
+- Thing 52.70%
 - [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 42.63%
 - [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) 39.90%
-- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C37218](http://purl.obolibrary.org/obo/NCIT_C37218) (AML1-ETO Fusion Protein Expression))) 39.90%
-- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C37217](http://purl.obolibrary.org/obo/NCIT_C37217) (FIP1L1-PDGFRalpha Fusion Protein Expression))) 39.90%
-- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C37216](http://purl.obolibrary.org/obo/NCIT_C37216) (CLTC-ALK Fusion Protein Expression))) 39.90%
+- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C39866](http://purl.obolibrary.org/obo/NCIT_C39866) (Female Urethral Malignant Neoplasm))) 39.90%
+- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C39864](http://purl.obolibrary.org/obo/NCIT_C39864) (Carcinoma of Cowper Glands))) 39.90%
+- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C39862](http://purl.obolibrary.org/obo/NCIT_C39862) (Human Papillomavirus-Related Urethral Squamous Cell Carcinoma))) 39.90%
 
 

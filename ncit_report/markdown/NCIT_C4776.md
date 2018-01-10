@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36122](http://purl.obolibrary.org/obo/NCIT_C36122) (Benign Cellular Infiltrate) 66.67%
-- Thing 51.13%
-- [NCIT:C42077](http://purl.obolibrary.org/obo/NCIT_C42077) (Cellular Infiltrate) 28.45%
-- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) 19.90%
-- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 19.23%
-- [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) 19.15%
-- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 19.13%
-- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 19.03%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 18.45%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 18.02%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 17.87%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 17.80%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 17.79%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 17.70%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 17.69%
+- [NCIT:C36122](http://purl.obolibrary.org/obo/NCIT_C36122) (Benign Cellular Infiltrate) 58.33%
+- Thing 51.99%
+- [UBERON:0003703](http://purl.obolibrary.org/obo/UBERON_0003703) (extrahepatic bile duct) 33.33%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 28.26%
+- [UBERON:0002394](http://purl.obolibrary.org/obo/UBERON_0002394) (bile duct) 24.14%
+- [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) 20.18%
+- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 20.01%
+- [CL:0000066](http://purl.obolibrary.org/obo/CL_0000066) (epithelial cell) 14.84%
+- [NCIT:C36753](http://purl.obolibrary.org/obo/NCIT_C36753) (Neoplastic Epithelial Cell) 12.79%
+- [NCIT:C36745](http://purl.obolibrary.org/obo/NCIT_C36745) (Abnormal Epithelial Cell) 12.77%
+- [CL:0000548](http://purl.obolibrary.org/obo/CL_0000548) (animal cell) 12.16%
+- [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) 12.16%
+- [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) (native cell) 12.02%
+- [GO:0005623](http://purl.obolibrary.org/obo/GO_0005623) (cell) 12.01%
+- [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000) (cell) 11.93%
 
 

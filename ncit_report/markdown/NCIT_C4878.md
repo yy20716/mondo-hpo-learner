@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C17359](http://purl.obolibrary.org/obo/NCIT_C17359) (TP53 Gene) 75.00%
-- [UBERON:0002048](http://purl.obolibrary.org/obo/UBERON_0002048) (lung) 53.87%
-- [UBERON:0000171](http://purl.obolibrary.org/obo/UBERON_0000171) (respiration organ) 53.87%
-- [UBERON:0000171](http://purl.obolibrary.org/obo/UBERON_0000171) (respiration organ) and [UBERON:0015212](http://purl.obolibrary.org/obo/UBERON_0015212) (lateral structure) 53.87%
-- [UBERON:0000171](http://purl.obolibrary.org/obo/UBERON_0000171) (respiration organ) and [UBERON:0005181](http://purl.obolibrary.org/obo/UBERON_0005181) (thoracic segment organ) 53.87%
-- [UBERON:0000171](http://purl.obolibrary.org/obo/UBERON_0000171) (respiration organ) and [UBERON:0005178](http://purl.obolibrary.org/obo/UBERON_0005178) (thoracic cavity element) 53.87%
-- [UBERON:0000171](http://purl.obolibrary.org/obo/UBERON_0000171) (respiration organ) and [UBERON:0005177](http://purl.obolibrary.org/obo/UBERON_0005177) (trunk region element) 53.87%
-- [UBERON:0000171](http://purl.obolibrary.org/obo/UBERON_0000171) (respiration organ) and [UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure) 53.87%
-- Thing 50.92%
-- [NCIT:C20917](http://purl.obolibrary.org/obo/NCIT_C20917) (Cell Cycle Gene) 40.81%
-- [UBERON:0015212](http://purl.obolibrary.org/obo/UBERON_0015212) (lateral structure) 31.25%
-- [UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure) 28.86%
-- [UBERON:0000062](http://purl.obolibrary.org/obo/UBERON_0000062) (organ) 28.13%
-- [NCIT:C16612](http://purl.obolibrary.org/obo/NCIT_C16612) (Gene) 27.99%
-- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 26.31%
+- Thing 58.14%
+- [NCIT:C98357](http://purl.obolibrary.org/obo/NCIT_C98357) (EGFR Gene Mutation) 50.50%
+- [NCIT:C78718](http://purl.obolibrary.org/obo/NCIT_C78718) (Wheezing) 50.50%
+- [NCIT:C45566](http://purl.obolibrary.org/obo/NCIT_C45566) (Gain of Chromosome 3q24-qter) 50.50%
+- [NCIT:C41361](http://purl.obolibrary.org/obo/NCIT_C41361) (KRAS Gene Mutation) 50.50%
+- [NCIT:C39914](http://purl.obolibrary.org/obo/NCIT_C39914) (Gain of Chromosome 12p) 50.50%
+- [NCIT:C37935](http://purl.obolibrary.org/obo/NCIT_C37935) (Cough) 50.50%
+- [NCIT:C3676](http://purl.obolibrary.org/obo/NCIT_C3676) (Alteration in Respiration) 50.50%
+- [NCIT:C36704](http://purl.obolibrary.org/obo/NCIT_C36704) (FHIT Gene Inactivation) 50.50%
+- [NCIT:C36695](http://purl.obolibrary.org/obo/NCIT_C36695) (LKB1 Gene Inactivation) 50.50%
+- [NCIT:C36683](http://purl.obolibrary.org/obo/NCIT_C36683) (APC Gene Inactivation) 50.50%
+- [NCIT:C36673](http://purl.obolibrary.org/obo/NCIT_C36673) (NMYC Gene Amplification) 50.50%
+- [NCIT:C36667](http://purl.obolibrary.org/obo/NCIT_C36667) (Loss of Chromosome 4q) 50.50%
+- [NCIT:C36665](http://purl.obolibrary.org/obo/NCIT_C36665) (KRAS Gene Amplification) 50.50%
+- [NCIT:C36659](http://purl.obolibrary.org/obo/NCIT_C36659) (CTNNB1 Gene Mutation) 50.50%
 
 

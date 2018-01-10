@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C62214](http://purl.obolibrary.org/obo/NCIT_C62214) (Intraductal Lesion) 60.00%
-- [NCIT:C35911](http://purl.obolibrary.org/obo/NCIT_C35911) (Papillary Pattern) 60.00%
-- Thing 51.45%
-- [UBERON:0004820](http://purl.obolibrary.org/obo/UBERON_0004820) (bile duct epithelium) 38.87%
-- [UBERON:0034932](http://purl.obolibrary.org/obo/UBERON_0034932) (epithelium of biliary system) 35.00%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 32.35%
-- [NCIT:C8366](http://purl.obolibrary.org/obo/NCIT_C8366) (Intraepithelial Neoplasia) 27.68%
-- [NCIT:C42078](http://purl.obolibrary.org/obo/NCIT_C42078) (Lesion by Morphology) 23.87%
-- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 23.63%
-- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 23.48%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 22.52%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 21.44%
-- [NCIT:C3341](http://purl.obolibrary.org/obo/NCIT_C3341) (Precancerous Condition) 20.21%
-- [NCIT:C8278](http://purl.obolibrary.org/obo/NCIT_C8278) (Cancer-Related Condition) 19.45%
-- [NCIT:C3824](http://purl.obolibrary.org/obo/NCIT_C3824) (Lesion) 16.25%
+- [UBERON:0004820](http://purl.obolibrary.org/obo/UBERON_0004820) (bile duct epithelium) 63.64%
+- [UBERON:0004823](http://purl.obolibrary.org/obo/UBERON_0004823) (intrahepatic bile duct epithelium) 54.55%
+- [UBERON:0004822](http://purl.obolibrary.org/obo/UBERON_0004822) (extrahepatic bile duct epithelium) 54.55%
+- Thing 52.70%
+- [UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure) 44.10%
+- [UBERON:0002394](http://purl.obolibrary.org/obo/UBERON_0002394) (bile duct) 41.02%
+- [UBERON:0003704](http://purl.obolibrary.org/obo/UBERON_0003704) (intrahepatic bile duct) and (not ([UBERON:0035050](http://purl.obolibrary.org/obo/UBERON_0035050) (excretory duct))) 39.90%
+- [UBERON:0003704](http://purl.obolibrary.org/obo/UBERON_0003704) (intrahepatic bile duct) and (not ([UBERON:0014716](http://purl.obolibrary.org/obo/UBERON_0014716) (interlobular duct))) 39.90%
+- [UBERON:0003704](http://purl.obolibrary.org/obo/UBERON_0003704) (intrahepatic bile duct) and (not ([UBERON:0001282](http://purl.obolibrary.org/obo/UBERON_0001282) (intralobular bile duct))) 39.90%
+- [UBERON:0003704](http://purl.obolibrary.org/obo/UBERON_0003704) (intrahepatic bile duct) and (not ([UBERON:0001246](http://purl.obolibrary.org/obo/UBERON_0001246) (interlobular bile duct))) 39.90%
+- [UBERON:0005911](http://purl.obolibrary.org/obo/UBERON_0005911) (endo-epithelium) 34.05%
+- [UBERON:0003704](http://purl.obolibrary.org/obo/UBERON_0003704) (intrahepatic bile duct) 33.41%
+- [UBERON:0003704](http://purl.obolibrary.org/obo/UBERON_0003704) (intrahepatic bile duct) and (not (Error15)) 33.41%
+- [UBERON:0003704](http://purl.obolibrary.org/obo/UBERON_0003704) (intrahepatic bile duct) and (not (Error14)) 33.41%
+- [UBERON:0003704](http://purl.obolibrary.org/obo/UBERON_0003704) (intrahepatic bile duct) and (not (Error13)) 33.41%
 
 

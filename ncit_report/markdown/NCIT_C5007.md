@@ -15,11 +15,11 @@
 - [NCIT:C27748](http://purl.obolibrary.org/obo/NCIT_C27748) (t(9;14)(p13;q32)) 55.00%
 - [NCIT:C27213](http://purl.obolibrary.org/obo/NCIT_C27213) (t(14;18)(q32;q21)) 55.00%
 - [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and [NCIT:C36333](http://purl.obolibrary.org/obo/NCIT_C36333) (Clonal Gene Rearrangement) 55.00%
-- Thing 52.05%
+- Thing 52.57%
 - [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 46.26%
 - [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) 40.36%
-- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C37208](http://purl.obolibrary.org/obo/NCIT_C37208) (Rearrangement of 2p23))) 40.36%
-- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C37207](http://purl.obolibrary.org/obo/NCIT_C37207) (ZAP70 Messenger RNA Overexpression))) 40.36%
-- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C37206](http://purl.obolibrary.org/obo/NCIT_C37206) (Small Lymphocytic Lymphoma with Unmutated Immunoglobulin Heavy Chain Variable-Region Gene))) 40.36%
+- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C39608](http://purl.obolibrary.org/obo/NCIT_C39608) (Coagulative Necrosis))) 40.36%
+- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C39602](http://purl.obolibrary.org/obo/NCIT_C39602) (Pleomorphic Medium-Sized to Large T-Lymphocyte))) 40.36%
+- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C39600](http://purl.obolibrary.org/obo/NCIT_C39600) (Neoplastic Medium-Sized T-Lymphocyte))) 40.36%
 
 

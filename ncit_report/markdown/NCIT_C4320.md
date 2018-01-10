@@ -11,7 +11,7 @@
 - [NCIT:C39640](http://purl.obolibrary.org/obo/NCIT_C39640) (Mucinous Degeneration) 60.00%
 - [NCIT:C37135](http://purl.obolibrary.org/obo/NCIT_C37135) (Neoplastic Astrocyte with Few Flaccid Processes) 60.00%
 - [NCIT:C35989](http://purl.obolibrary.org/obo/NCIT_C35989) (Nuclear Atypia) 60.00%
-- Thing 51.45%
+- Thing 51.82%
 - [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 45.13%
 - [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 44.93%
 - [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 43.56%

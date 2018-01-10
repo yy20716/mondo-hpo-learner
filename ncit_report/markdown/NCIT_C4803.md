@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C27054](http://purl.obolibrary.org/obo/NCIT_C27054) (Rectal Hemorrhage))) 66.67%
-- [NCIT:C78438](http://purl.obolibrary.org/obo/NCIT_C78438) (Lower Gastrointestinal Hemorrhage) 52.02%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) 52.02%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([CHEBI:23004](http://purl.obolibrary.org/obo/CHEBI_23004) (carbamoyl group))) 52.02%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([CHEBI:22868](http://purl.obolibrary.org/obo/CHEBI_22868) (bile salt))) 52.02%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion))) 52.02%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 52.02%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 52.02%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 52.02%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 52.02%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 52.02%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 52.02%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not (CARO:0010000)) 52.02%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 52.02%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null))) 52.02%
+- [UBERON:0012273](http://purl.obolibrary.org/obo/UBERON_0012273) (periampullary region of duodenum) 60.00%
+- [UBERON:0002114](http://purl.obolibrary.org/obo/UBERON_0002114) (duodenum) 60.00%
+- [NCIT:C79469](http://purl.obolibrary.org/obo/NCIT_C79469) (Digestive System Obstruction) 60.00%
+- [NCIT:C60698](http://purl.obolibrary.org/obo/NCIT_C60698) (Biliary Obstruction) 60.00%
+- [NCIT:C3284](http://purl.obolibrary.org/obo/NCIT_C3284) (Obstruction) and [NCIT:C36279](http://purl.obolibrary.org/obo/NCIT_C36279) (Digestive System Finding) 60.00%
+- [NCIT:C3284](http://purl.obolibrary.org/obo/NCIT_C3284) (Obstruction) and [NCIT:C36278](http://purl.obolibrary.org/obo/NCIT_C36278) (Finding by Site or System) 60.00%
+- Thing 51.82%
+- [NCIT:C3284](http://purl.obolibrary.org/obo/NCIT_C3284) (Obstruction) 45.36%
+- [NCIT:C3284](http://purl.obolibrary.org/obo/NCIT_C3284) (Obstruction) and (not ([NCIT:C39627](http://purl.obolibrary.org/obo/NCIT_C39627) (Pautrier Microabscess Present))) 45.36%
+- [NCIT:C3284](http://purl.obolibrary.org/obo/NCIT_C3284) (Obstruction) and (not ([NCIT:C39626](http://purl.obolibrary.org/obo/NCIT_C39626) (Epidermotropic Lymphocytic Infiltrate))) 45.36%
+- [NCIT:C3284](http://purl.obolibrary.org/obo/NCIT_C3284) (Obstruction) and (not ([NCIT:C39625](http://purl.obolibrary.org/obo/NCIT_C39625) (Extracutaneous Dissemination of Disease))) 45.36%
+- [NCIT:C3284](http://purl.obolibrary.org/obo/NCIT_C3284) (Obstruction) and (not ([NCIT:C39624](http://purl.obolibrary.org/obo/NCIT_C39624) (Skin Plaque))) 45.36%
+- [NCIT:C3284](http://purl.obolibrary.org/obo/NCIT_C3284) (Obstruction) and (not ([NCIT:C39622](http://purl.obolibrary.org/obo/NCIT_C39622) (Scaly Skin Eruption))) 45.36%
+- [NCIT:C3284](http://purl.obolibrary.org/obo/NCIT_C3284) (Obstruction) and (not ([NCIT:C39620](http://purl.obolibrary.org/obo/NCIT_C39620) (Dermatopathic Lymphadenopathy))) 45.36%
+- [NCIT:C3284](http://purl.obolibrary.org/obo/NCIT_C3284) (Obstruction) and (not ([NCIT:C39618](http://purl.obolibrary.org/obo/NCIT_C39618) (Subcutaneous Nodule))) 45.36%
 
 

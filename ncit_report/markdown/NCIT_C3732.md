@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C55828](http://purl.obolibrary.org/obo/NCIT_C55828) (Tubular Structures of Glycogen-Rich Non-Ciliated Cells Present) 75.00%
-- [NCIT:C36659](http://purl.obolibrary.org/obo/NCIT_C36659) (CTNNB1 Gene Mutation) 75.00%
-- [NCIT:C55828](http://purl.obolibrary.org/obo/NCIT_C55828) (Tubular Structures of Glycogen-Rich Non-Ciliated Cells Present) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 75.00%
-- [NCIT:C55828](http://purl.obolibrary.org/obo/NCIT_C55828) (Tubular Structures of Glycogen-Rich Non-Ciliated Cells Present) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 75.00%
-- [NCIT:C55828](http://purl.obolibrary.org/obo/NCIT_C55828) (Tubular Structures of Glycogen-Rich Non-Ciliated Cells Present) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 75.00%
-- [NCIT:C55828](http://purl.obolibrary.org/obo/NCIT_C55828) (Tubular Structures of Glycogen-Rich Non-Ciliated Cells Present) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 75.00%
-- [NCIT:C55828](http://purl.obolibrary.org/obo/NCIT_C55828) (Tubular Structures of Glycogen-Rich Non-Ciliated Cells Present) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 75.00%
-- [NCIT:C55828](http://purl.obolibrary.org/obo/NCIT_C55828) (Tubular Structures of Glycogen-Rich Non-Ciliated Cells Present) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 75.00%
-- [NCIT:C55828](http://purl.obolibrary.org/obo/NCIT_C55828) (Tubular Structures of Glycogen-Rich Non-Ciliated Cells Present) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 75.00%
-- [NCIT:C55828](http://purl.obolibrary.org/obo/NCIT_C55828) (Tubular Structures of Glycogen-Rich Non-Ciliated Cells Present) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 75.00%
-- [NCIT:C55828](http://purl.obolibrary.org/obo/NCIT_C55828) (Tubular Structures of Glycogen-Rich Non-Ciliated Cells Present) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 75.00%
-- [NCIT:C55828](http://purl.obolibrary.org/obo/NCIT_C55828) (Tubular Structures of Glycogen-Rich Non-Ciliated Cells Present) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 75.00%
-- [NCIT:C55828](http://purl.obolibrary.org/obo/NCIT_C55828) (Tubular Structures of Glycogen-Rich Non-Ciliated Cells Present) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 75.00%
-- [NCIT:C55828](http://purl.obolibrary.org/obo/NCIT_C55828) (Tubular Structures of Glycogen-Rich Non-Ciliated Cells Present) and (not ([UBERON:2001431](http://purl.obolibrary.org/obo/UBERON_2001431) (primitive olfactory epithelium))) 75.00%
-- [NCIT:C55828](http://purl.obolibrary.org/obo/NCIT_C55828) (Tubular Structures of Glycogen-Rich Non-Ciliated Cells Present) and (not ([UBERON:2001073](http://purl.obolibrary.org/obo/UBERON_2001073) (axial vasculature))) 75.00%
+- [NCIT:C55828](http://purl.obolibrary.org/obo/NCIT_C55828) (Tubular Structures of Glycogen-Rich Non-Ciliated Cells Present) 60.00%
+- Thing 51.82%
+- [NCIT:C61294](http://purl.obolibrary.org/obo/NCIT_C61294) (Tubular Structures Present) 45.36%
+- [NCIT:C61294](http://purl.obolibrary.org/obo/NCIT_C61294) (Tubular Structures Present) and (not ([NCIT:C39016](http://purl.obolibrary.org/obo/NCIT_C39016) (EGF Receptor Downregulation by CBL Pathway))) 45.36%
+- [NCIT:C61294](http://purl.obolibrary.org/obo/NCIT_C61294) (Tubular Structures Present) and (not ([NCIT:C39013](http://purl.obolibrary.org/obo/NCIT_C39013) (Estrogen Receptor Regulation by CARM1 Pathway))) 45.36%
+- [NCIT:C61294](http://purl.obolibrary.org/obo/NCIT_C61294) (Tubular Structures Present) and (not ([NCIT:C39011](http://purl.obolibrary.org/obo/NCIT_C39011) (Cardiac Hypertrophy Pathway))) 45.36%
+- [NCIT:C61294](http://purl.obolibrary.org/obo/NCIT_C61294) (Tubular Structures Present) and (not ([NCIT:C3901](http://purl.obolibrary.org/obo/NCIT_C3901) (Compound Nevus))) 45.36%
+- [NCIT:C61294](http://purl.obolibrary.org/obo/NCIT_C61294) (Tubular Structures Present) and (not ([NCIT:C39006](http://purl.obolibrary.org/obo/NCIT_C39006) (Bioactive Peptide Signaling Pathway))) 45.36%
+- [NCIT:C61294](http://purl.obolibrary.org/obo/NCIT_C61294) (Tubular Structures Present) and (not ([NCIT:C39004](http://purl.obolibrary.org/obo/NCIT_C39004) (B-Cell Survival Pathway))) 45.36%
+- [NCIT:C61294](http://purl.obolibrary.org/obo/NCIT_C61294) (Tubular Structures Present) and (not ([NCIT:C38999](http://purl.obolibrary.org/obo/NCIT_C38999) (BARD1 Pathway))) 45.36%
+- [NCIT:C61294](http://purl.obolibrary.org/obo/NCIT_C61294) (Tubular Structures Present) and (not ([NCIT:C38998](http://purl.obolibrary.org/obo/NCIT_C38998) (BAD Regulation Pathway))) 45.36%
+- [NCIT:C61294](http://purl.obolibrary.org/obo/NCIT_C61294) (Tubular Structures Present) and (not ([NCIT:C38997](http://purl.obolibrary.org/obo/NCIT_C38997) (Cancer Susceptibility Pathway))) 45.36%
+- [NCIT:C61294](http://purl.obolibrary.org/obo/NCIT_C61294) (Tubular Structures Present) and (not ([NCIT:C38996](http://purl.obolibrary.org/obo/NCIT_C38996) (ATM Signaling Pathway))) 45.36%
+- [NCIT:C61294](http://purl.obolibrary.org/obo/NCIT_C61294) (Tubular Structures Present) and (not ([NCIT:C38995](http://purl.obolibrary.org/obo/NCIT_C38995) (Angiotensin II Signaling Pathway))) 45.36%
+- [NCIT:C61294](http://purl.obolibrary.org/obo/NCIT_C61294) (Tubular Structures Present) and (not ([NCIT:C38992](http://purl.obolibrary.org/obo/NCIT_C38992) (Ribosomal Biogenesis Pathway))) 45.36%
 
 

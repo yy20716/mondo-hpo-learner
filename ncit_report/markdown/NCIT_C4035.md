@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36017](http://purl.obolibrary.org/obo/NCIT_C36017) (Nuclear Inclusion) and (not ([NCIT:C36020](http://purl.obolibrary.org/obo/NCIT_C36020) (Dutcher Body))) 54.55%
-- Thing 53.05%
-- [NCIT:C99856](http://purl.obolibrary.org/obo/NCIT_C99856) (GOLGA5/RET Fusion Gene) 52.27%
-- [NCIT:C99853](http://purl.obolibrary.org/obo/NCIT_C99853) (TRIM33/RET Fusion Gene) 52.27%
-- [NCIT:C99850](http://purl.obolibrary.org/obo/NCIT_C99850) (TRIM24/RET Fusion Gene) 52.27%
-- [NCIT:C99847](http://purl.obolibrary.org/obo/NCIT_C99847) (NCOA4/RET Fusion Gene) 52.27%
-- [NCIT:C99845](http://purl.obolibrary.org/obo/NCIT_C99845) (PRKAR1A/RET Fusion Gene) 52.27%
-- [NCIT:C99721](http://purl.obolibrary.org/obo/NCIT_C99721) (ERC1/RET Fusion Gene) 52.27%
-- [NCIT:C99399](http://purl.obolibrary.org/obo/NCIT_C99399) (PCM1/RET Fusion Gene) 52.27%
-- [NCIT:C99386](http://purl.obolibrary.org/obo/NCIT_C99386) (TPM3/NTRK1 Fusion Gene) 52.27%
-- [NCIT:C47829](http://purl.obolibrary.org/obo/NCIT_C47829) (Nuclear Grooves) 52.27%
-- [NCIT:C47827](http://purl.obolibrary.org/obo/NCIT_C47827) (Nuclear Pseudoinclusion) 52.27%
-- [NCIT:C46006](http://purl.obolibrary.org/obo/NCIT_C46006) (NTRK1 Gene Rearrangement) 52.27%
-- [NCIT:C46005](http://purl.obolibrary.org/obo/NCIT_C46005) (RET/PTC Rearrangement) 52.27%
-- [NCIT:C45934](http://purl.obolibrary.org/obo/NCIT_C45934) (HRAS Gene Mutation) 52.27%
+- Thing 54.67%
+- [NCIT:C99856](http://purl.obolibrary.org/obo/NCIT_C99856) (GOLGA5/RET Fusion Gene) 51.52%
+- [NCIT:C99853](http://purl.obolibrary.org/obo/NCIT_C99853) (TRIM33/RET Fusion Gene) 51.52%
+- [NCIT:C99850](http://purl.obolibrary.org/obo/NCIT_C99850) (TRIM24/RET Fusion Gene) 51.52%
+- [NCIT:C99847](http://purl.obolibrary.org/obo/NCIT_C99847) (NCOA4/RET Fusion Gene) 51.52%
+- [NCIT:C99845](http://purl.obolibrary.org/obo/NCIT_C99845) (PRKAR1A/RET Fusion Gene) 51.52%
+- [NCIT:C99721](http://purl.obolibrary.org/obo/NCIT_C99721) (ERC1/RET Fusion Gene) 51.52%
+- [NCIT:C99399](http://purl.obolibrary.org/obo/NCIT_C99399) (PCM1/RET Fusion Gene) 51.52%
+- [NCIT:C99386](http://purl.obolibrary.org/obo/NCIT_C99386) (TPM3/NTRK1 Fusion Gene) 51.52%
+- [NCIT:C47826](http://purl.obolibrary.org/obo/NCIT_C47826) (Diffuse Lesion) 51.52%
+- [NCIT:C45964](http://purl.obolibrary.org/obo/NCIT_C45964) (Lesion with Diameter of 10mm or Less) 51.52%
+- [NCIT:C36180](http://purl.obolibrary.org/obo/NCIT_C36180) (Multifocal Lesion) 51.52%
+- [NCIT:C36108](http://purl.obolibrary.org/obo/NCIT_C36108) (Encapsulated Mass) 51.52%
+- [NCIT:C18573](http://purl.obolibrary.org/obo/NCIT_C18573) (CCDC6/RET Fusion Gene) 51.52%
+- [NCIT:C18257](http://purl.obolibrary.org/obo/NCIT_C18257) (RET Gene) 51.52%
 
 

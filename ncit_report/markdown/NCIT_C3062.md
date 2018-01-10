@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C32052](http://purl.obolibrary.org/obo/NCIT_C32052) (Alpha Cell) 75.00%
-- [NCIT:C32052](http://purl.obolibrary.org/obo/NCIT_C32052) (Alpha Cell) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 75.00%
-- [NCIT:C32052](http://purl.obolibrary.org/obo/NCIT_C32052) (Alpha Cell) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 75.00%
-- [NCIT:C32052](http://purl.obolibrary.org/obo/NCIT_C32052) (Alpha Cell) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 75.00%
-- [NCIT:C32052](http://purl.obolibrary.org/obo/NCIT_C32052) (Alpha Cell) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 75.00%
-- [NCIT:C32052](http://purl.obolibrary.org/obo/NCIT_C32052) (Alpha Cell) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 75.00%
-- [NCIT:C32052](http://purl.obolibrary.org/obo/NCIT_C32052) (Alpha Cell) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 75.00%
-- [NCIT:C32052](http://purl.obolibrary.org/obo/NCIT_C32052) (Alpha Cell) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 75.00%
-- [NCIT:C32052](http://purl.obolibrary.org/obo/NCIT_C32052) (Alpha Cell) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 75.00%
-- [NCIT:C32052](http://purl.obolibrary.org/obo/NCIT_C32052) (Alpha Cell) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 75.00%
-- [NCIT:C32052](http://purl.obolibrary.org/obo/NCIT_C32052) (Alpha Cell) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 75.00%
-- [NCIT:C32052](http://purl.obolibrary.org/obo/NCIT_C32052) (Alpha Cell) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 75.00%
-- [NCIT:C32052](http://purl.obolibrary.org/obo/NCIT_C32052) (Alpha Cell) and (not ([UBERON:2001431](http://purl.obolibrary.org/obo/UBERON_2001431) (primitive olfactory epithelium))) 75.00%
-- [NCIT:C32052](http://purl.obolibrary.org/obo/NCIT_C32052) (Alpha Cell) and (not ([UBERON:2001073](http://purl.obolibrary.org/obo/UBERON_2001073) (axial vasculature))) 75.00%
-- [NCIT:C32052](http://purl.obolibrary.org/obo/NCIT_C32052) (Alpha Cell) and (not ([UBERON:2001053](http://purl.obolibrary.org/obo/UBERON_2001053) (future internal carotid artery))) 75.00%
+- [NCIT:C32052](http://purl.obolibrary.org/obo/NCIT_C32052) (Alpha Cell) 56.25%
+- Thing 52.30%
+- [NCIT:C32885](http://purl.obolibrary.org/obo/NCIT_C32885) (Islet Cell) 41.61%
+- [NCIT:C32885](http://purl.obolibrary.org/obo/NCIT_C32885) (Islet Cell) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 41.61%
+- [NCIT:C32885](http://purl.obolibrary.org/obo/NCIT_C32885) (Islet Cell) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 41.61%
+- [NCIT:C32885](http://purl.obolibrary.org/obo/NCIT_C32885) (Islet Cell) and (not ([NCIT:C40034](http://purl.obolibrary.org/obo/NCIT_C40034) (Ovarian Mucinous Adenocarcinofibroma))) 41.61%
+- [NCIT:C32885](http://purl.obolibrary.org/obo/NCIT_C32885) (Islet Cell) and (not ([NCIT:C40032](http://purl.obolibrary.org/obo/NCIT_C40032) (Ovarian Serous Cystadenofibroma))) 41.61%
+- [NCIT:C32885](http://purl.obolibrary.org/obo/NCIT_C32885) (Islet Cell) and (not ([NCIT:C40029](http://purl.obolibrary.org/obo/NCIT_C40029) (Borderline Ovarian Serous Cystadenofibroma))) 41.61%
+- [NCIT:C32885](http://purl.obolibrary.org/obo/NCIT_C32885) (Islet Cell) and (not ([NCIT:C40021](http://purl.obolibrary.org/obo/NCIT_C40021) (Ovarian Lymphoma))) 41.61%
+- [NCIT:C32885](http://purl.obolibrary.org/obo/NCIT_C32885) (Islet Cell) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 41.61%
+- [NCIT:C32885](http://purl.obolibrary.org/obo/NCIT_C32885) (Islet Cell) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 41.61%
+- [NCIT:C32885](http://purl.obolibrary.org/obo/NCIT_C32885) (Islet Cell) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 41.61%
+- [NCIT:C32885](http://purl.obolibrary.org/obo/NCIT_C32885) (Islet Cell) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 41.61%
+- [NCIT:C32885](http://purl.obolibrary.org/obo/NCIT_C32885) (Islet Cell) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 41.61%
+- [NCIT:C32885](http://purl.obolibrary.org/obo/NCIT_C32885) (Islet Cell) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 41.61%
 
 

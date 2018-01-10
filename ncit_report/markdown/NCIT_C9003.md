@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C46128](http://purl.obolibrary.org/obo/NCIT_C46128) (Capsular Invasion) 55.56%
-- [NCIT:C41457](http://purl.obolibrary.org/obo/NCIT_C41457) (Well-Circumscribed Lesion) 55.56%
-- [NCIT:C36501](http://purl.obolibrary.org/obo/NCIT_C36501) (Loss of Chromosome 1p) 55.56%
-- [NCIT:C36483](http://purl.obolibrary.org/obo/NCIT_C36483) (Gain of Chromosome 9q) 55.56%
-- [NCIT:C36482](http://purl.obolibrary.org/obo/NCIT_C36482) (Gain of Chromosome 1q) 55.56%
-- [NCIT:C36108](http://purl.obolibrary.org/obo/NCIT_C36108) (Encapsulated Mass) 55.56%
-- Thing 51.95%
-- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) 40.91%
-- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([NCIT:C37017](http://purl.obolibrary.org/obo/NCIT_C37017) (Anaplastic Large T-Lymphocyte))) 40.91%
-- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([NCIT:C37015](http://purl.obolibrary.org/obo/NCIT_C37015) (Anaplastic Large B-Lymphocyte))) 40.91%
-- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([NCIT:C37014](http://purl.obolibrary.org/obo/NCIT_C37014) (Neoplastic Centroblast))) 40.91%
-- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([NCIT:C37012](http://purl.obolibrary.org/obo/NCIT_C37012) (Neoplastic T-Immunoblast))) 40.91%
-- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast))) 40.91%
-- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([NCIT:C37006](http://purl.obolibrary.org/obo/NCIT_C37006) (Neoplastic Medium-Sized B-Lymphocyte with Eccentric Basophilic Cytoplasm))) 40.91%
-- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([NCIT:C37003](http://purl.obolibrary.org/obo/NCIT_C37003) (Neoplastic Monocytoid B-Lymphocyte))) 40.91%
+- [NCIT:C48358](http://purl.obolibrary.org/obo/NCIT_C48358) (Adrenal Cortical Cell) 54.55%
+- [NCIT:C46128](http://purl.obolibrary.org/obo/NCIT_C46128) (Capsular Invasion) 54.55%
+- [NCIT:C45980](http://purl.obolibrary.org/obo/NCIT_C45980) (Absence of a Hormonal Syndrome) 54.55%
+- [NCIT:C41457](http://purl.obolibrary.org/obo/NCIT_C41457) (Well-Circumscribed Lesion) 54.55%
+- [NCIT:C36501](http://purl.obolibrary.org/obo/NCIT_C36501) (Loss of Chromosome 1p) 54.55%
+- [NCIT:C36483](http://purl.obolibrary.org/obo/NCIT_C36483) (Gain of Chromosome 9q) 54.55%
+- [NCIT:C36482](http://purl.obolibrary.org/obo/NCIT_C36482) (Gain of Chromosome 1q) 54.55%
+- [NCIT:C36108](http://purl.obolibrary.org/obo/NCIT_C36108) (Encapsulated Mass) 54.55%
+- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([NCIT:C39589](http://purl.obolibrary.org/obo/NCIT_C39589) (Angioinvasion))) 54.55%
+- Thing 52.70%
+- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) 39.90%
+- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([NCIT:C39862](http://purl.obolibrary.org/obo/NCIT_C39862) (Human Papillomavirus-Related Urethral Squamous Cell Carcinoma))) 39.90%
+- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([NCIT:C39859](http://purl.obolibrary.org/obo/NCIT_C39859) (Bladder Inverted Papilloma))) 39.90%
+- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([NCIT:C39856](http://purl.obolibrary.org/obo/NCIT_C39856) (Urothelial Dysplasia))) 39.90%
+- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([NCIT:C39845](http://purl.obolibrary.org/obo/NCIT_C39845) (Bladder Urachal Squamous Cell Carcinoma))) 39.90%
 
 

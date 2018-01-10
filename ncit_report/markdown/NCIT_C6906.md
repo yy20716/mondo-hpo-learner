@@ -10,7 +10,7 @@
 - [NCIT:C129500](http://purl.obolibrary.org/obo/NCIT_C129500) (Loss of BRG1 Protein Expression) 66.67%
 - [NCIT:C121966](http://purl.obolibrary.org/obo/NCIT_C121966) (Loss of INI 1 Protein Expression) 66.67%
 - [NCIT:C38440](http://purl.obolibrary.org/obo/NCIT_C38440) (Abnormal Immunology Test Result) 53.75%
-- Thing 51.13%
+- Thing 51.41%
 - [NCIT:C26683](http://purl.obolibrary.org/obo/NCIT_C26683) (Abnormal Laboratory Test Result) 39.93%
 - [NCIT:C36292](http://purl.obolibrary.org/obo/NCIT_C36292) (Laboratory Test Result) 38.82%
 - [NCIT:C77140](http://purl.obolibrary.org/obo/NCIT_C77140) (Clinical Test Result) 38.71%
@@ -20,6 +20,6 @@
 - [NCIT:C6825](http://purl.obolibrary.org/obo/NCIT_C6825) (Numerical Chromosomal Abnormality) 20.83%
 - [NCIT:C2950](http://purl.obolibrary.org/obo/NCIT_C2950) (Cytogenetic Abnormality) 19.54%
 - [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 18.88%
-- CP:0000037 0.00%
+- Error3 0.00%
 
 

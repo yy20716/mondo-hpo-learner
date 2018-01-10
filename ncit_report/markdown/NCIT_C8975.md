@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) 75.00%
-- [NCIT:C61466](http://purl.obolibrary.org/obo/NCIT_C61466) (Malignant Component Present) and [NCIT:C61541](http://purl.obolibrary.org/obo/NCIT_C61541) (Atypical Glandular Epithelium Resembling the Normal Endometrium Present) 75.00%
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) 75.00%
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and [NCIT:C61541](http://purl.obolibrary.org/obo/NCIT_C61541) (Atypical Glandular Epithelium Resembling the Normal Endometrium Present) 75.00%
-- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 75.00%
-- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 75.00%
-- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 75.00%
-- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 75.00%
-- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 75.00%
-- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 75.00%
-- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 75.00%
-- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 75.00%
-- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 75.00%
-- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 75.00%
-- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 75.00%
+- [NCIT:C40122](http://purl.obolibrary.org/obo/NCIT_C40122) (Pelvic Pain) 56.25%
+- [NCIT:C35272](http://purl.obolibrary.org/obo/NCIT_C35272) (Lower Abdominal Pain) 56.25%
+- [NCIT:C34333](http://purl.obolibrary.org/obo/NCIT_C34333) (Abdominal Mass) 56.25%
+- [NCIT:C26945](http://purl.obolibrary.org/obo/NCIT_C26945) (Vaginal Hemorrhage) 56.25%
+- Thing 52.30%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) 41.61%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C39162](http://purl.obolibrary.org/obo/NCIT_C39162) (NFAT Pathway))) 41.61%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C39152](http://purl.obolibrary.org/obo/NCIT_C39152) (Hepatocyte Growth Factor Receptor Signaling Pathway BioCarta))) 41.61%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C39147](http://purl.obolibrary.org/obo/NCIT_C39147) (Calpain-2 Cell Motility Pathway))) 41.61%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C39146](http://purl.obolibrary.org/obo/NCIT_C39146) (MAPKinase Signaling Pathway))) 41.61%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C39141](http://purl.obolibrary.org/obo/NCIT_C39141) (Longevity Pathway))) 41.61%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C39135](http://purl.obolibrary.org/obo/NCIT_C39135) (Keratinocyte Differentiation Pathway))) 41.61%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C39130](http://purl.obolibrary.org/obo/NCIT_C39130) (Insulin Signaling Pathway))) 41.61%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C39128](http://purl.obolibrary.org/obo/NCIT_C39128) (IL7 Signaling Pathway))) 41.61%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C39124](http://purl.obolibrary.org/obo/NCIT_C39124) (IL3 Signaling Pathway))) 41.61%
 
 

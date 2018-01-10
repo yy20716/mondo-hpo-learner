@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 51.59%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39620](http://purl.obolibrary.org/obo/NCIT_C39620) (Dermatopathic Lymphadenopathy))) 58.33%
+- Thing 51.99%
 - [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 44.70%
 - [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) 43.69%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C36683](http://purl.obolibrary.org/obo/NCIT_C36683) (APC Gene Inactivation))) 43.69%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C36681](http://purl.obolibrary.org/obo/NCIT_C36681) (MDM2 Gene Amplification))) 43.69%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C36679](http://purl.obolibrary.org/obo/NCIT_C36679) (HRAS Gene Amplification))) 43.69%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C36678](http://purl.obolibrary.org/obo/NCIT_C36678) (FOS Gene Amplification))) 43.69%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C36673](http://purl.obolibrary.org/obo/NCIT_C36673) (NMYC Gene Amplification))) 43.69%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C36671](http://purl.obolibrary.org/obo/NCIT_C36671) (Gain of Chromosome 10))) 43.69%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C36670](http://purl.obolibrary.org/obo/NCIT_C36670) (Gain of Chromosome 16))) 43.69%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C36669](http://purl.obolibrary.org/obo/NCIT_C36669) (Gain of Chromosome 6))) 43.69%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C36667](http://purl.obolibrary.org/obo/NCIT_C36667) (Loss of Chromosome 4q))) 43.69%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C36666](http://purl.obolibrary.org/obo/NCIT_C36666) (Fibroblast Growth Factor 1 Overexpression))) 43.69%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C36665](http://purl.obolibrary.org/obo/NCIT_C36665) (KRAS Gene Amplification))) 43.69%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C36664](http://purl.obolibrary.org/obo/NCIT_C36664) (Aberrant DNA Methylation))) 43.69%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40124](http://purl.obolibrary.org/obo/NCIT_C40124) (Fallopian Tube Carcinosarcoma))) 43.69%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40122](http://purl.obolibrary.org/obo/NCIT_C40122) (Pelvic Pain))) 43.69%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40116](http://purl.obolibrary.org/obo/NCIT_C40116) (Fallopian Tube Metaplastic Papillary Tumor))) 43.69%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40114](http://purl.obolibrary.org/obo/NCIT_C40114) (Fallopian Tube Serous Cystadenofibroma))) 43.69%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40112](http://purl.obolibrary.org/obo/NCIT_C40112) (Fallopian Tube Papilloma))) 43.69%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40110](http://purl.obolibrary.org/obo/NCIT_C40110) (Borderline Fallopian Tube Endometrioid Tumor))) 43.69%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 43.69%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 43.69%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40104](http://purl.obolibrary.org/obo/NCIT_C40104) (Fallopian Tube Transitional Cell Carcinoma))) 43.69%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40103](http://purl.obolibrary.org/obo/NCIT_C40103) (Fallopian Tube Mucinous Adenocarcinoma))) 43.69%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C40093](http://purl.obolibrary.org/obo/NCIT_C40093) (Ovarian Squamous Cell Carcinoma))) 43.69%
 
 

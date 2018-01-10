@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C46128](http://purl.obolibrary.org/obo/NCIT_C46128) (Capsular Invasion) 75.00%
-- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([NCIT:C39589](http://purl.obolibrary.org/obo/NCIT_C39589) (Angioinvasion))) 75.00%
-- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) 60.36%
-- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 60.36%
-- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 60.36%
-- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 60.36%
-- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 60.36%
-- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 60.36%
-- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not (CARO:0010000)) 60.36%
-- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 60.36%
-- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null))) 60.36%
-- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 53.63%
-- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 53.48%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 52.52%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 51.92%
+- [NCIT:C48272](http://purl.obolibrary.org/obo/NCIT_C48272) (Neoplastic Parathyroid Gland Oncocyte) and (not ([NCIT:C60433](http://purl.obolibrary.org/obo/NCIT_C60433) (Adenocarcinoma Cell with Abundant Cytoplasm))) 66.67%
+- [NCIT:C48272](http://purl.obolibrary.org/obo/NCIT_C48272) (Neoplastic Parathyroid Gland Oncocyte) and (not ([NCIT:C48273](http://purl.obolibrary.org/obo/NCIT_C48273) (Malignant Parathyroid Gland Oncocyte))) 66.67%
+- [NCIT:C48272](http://purl.obolibrary.org/obo/NCIT_C48272) (Neoplastic Parathyroid Gland Oncocyte) and (not ([NCIT:C48266](http://purl.obolibrary.org/obo/NCIT_C48266) (Malignant Parathyroid Gland Cell))) 66.67%
+- [NCIT:C48272](http://purl.obolibrary.org/obo/NCIT_C48272) (Neoplastic Parathyroid Gland Oncocyte) and (not ([NCIT:C36942](http://purl.obolibrary.org/obo/NCIT_C36942) (Malignant Oncocyte))) 66.67%
+- [NCIT:C48272](http://purl.obolibrary.org/obo/NCIT_C48272) (Neoplastic Parathyroid Gland Oncocyte) and (not ([NCIT:C36929](http://purl.obolibrary.org/obo/NCIT_C36929) (Malignant Endocrine Cell))) 66.67%
+- [NCIT:C48272](http://purl.obolibrary.org/obo/NCIT_C48272) (Neoplastic Parathyroid Gland Oncocyte) and (not ([NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell))) 66.67%
+- [NCIT:C48272](http://purl.obolibrary.org/obo/NCIT_C48272) (Neoplastic Parathyroid Gland Oncocyte) and (not ([NCIT:C36794](http://purl.obolibrary.org/obo/NCIT_C36794) (Dysplastic Glandular Cell))) 66.67%
+- [NCIT:C48272](http://purl.obolibrary.org/obo/NCIT_C48272) (Neoplastic Parathyroid Gland Oncocyte) and (not ([NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell))) 66.67%
+- [NCIT:C48272](http://purl.obolibrary.org/obo/NCIT_C48272) (Neoplastic Parathyroid Gland Oncocyte) and (not ([NCIT:C36773](http://purl.obolibrary.org/obo/NCIT_C36773) (Adenocarcinoma Cell))) 66.67%
+- [NCIT:C48272](http://purl.obolibrary.org/obo/NCIT_C48272) (Neoplastic Parathyroid Gland Oncocyte) and (not ([NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell))) 66.67%
+- [NCIT:C48272](http://purl.obolibrary.org/obo/NCIT_C48272) (Neoplastic Parathyroid Gland Oncocyte) 52.02%
+- [NCIT:C48272](http://purl.obolibrary.org/obo/NCIT_C48272) (Neoplastic Parathyroid Gland Oncocyte) and (not (Error20)) 52.02%
+- [NCIT:C48272](http://purl.obolibrary.org/obo/NCIT_C48272) (Neoplastic Parathyroid Gland Oncocyte) and (not (Error2)) 52.02%
+- [NCIT:C48272](http://purl.obolibrary.org/obo/NCIT_C48272) (Neoplastic Parathyroid Gland Oncocyte) and (not (Error19)) 52.02%
+- [NCIT:C48272](http://purl.obolibrary.org/obo/NCIT_C48272) (Neoplastic Parathyroid Gland Oncocyte) and (not (Error18)) 52.02%
 
 

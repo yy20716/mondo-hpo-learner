@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 51.59%
-- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) 43.69%
-- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast))) 43.69%
-- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C37006](http://purl.obolibrary.org/obo/NCIT_C37006) (Neoplastic Medium-Sized B-Lymphocyte with Eccentric Basophilic Cytoplasm))) 43.69%
-- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C37003](http://purl.obolibrary.org/obo/NCIT_C37003) (Neoplastic Monocytoid B-Lymphocyte))) 43.69%
-- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C37002](http://purl.obolibrary.org/obo/NCIT_C37002) (Neoplastic Small Cleaved Follicle Center Cell))) 43.69%
-- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C37001](http://purl.obolibrary.org/obo/NCIT_C37001) (Centrocyte-Like Cell))) 43.69%
-- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C37000](http://purl.obolibrary.org/obo/NCIT_C37000) (Lymphoplasmacytoid Cell))) 43.69%
-- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C36991](http://purl.obolibrary.org/obo/NCIT_C36991) (Neoplastic Small to Medium-Sized B-Lymphocyte with Pale Cytoplasm))) 43.69%
-- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C36985](http://purl.obolibrary.org/obo/NCIT_C36985) (Neoplastic Chondroblast))) 43.69%
-- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C36981](http://purl.obolibrary.org/obo/NCIT_C36981) (Ganglion-Like Cell))) 43.69%
-- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C36975](http://purl.obolibrary.org/obo/NCIT_C36975) (Signet Ring Lipoblast))) 43.69%
-- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C36974](http://purl.obolibrary.org/obo/NCIT_C36974) (Pleomorphic Lipoblast))) 43.69%
-- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C36973](http://purl.obolibrary.org/obo/NCIT_C36973) (Multivacuolated Lipoblast))) 43.69%
-- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C36972](http://purl.obolibrary.org/obo/NCIT_C36972) (Monovacuolated Lipoblast))) 43.69%
+- Thing 53.25%
+- [UBERON:0006858](http://purl.obolibrary.org/obo/UBERON_0006858) (adrenal/interrenal gland) 53.12%
+- [UBERON:0002517](http://purl.obolibrary.org/obo/UBERON_0002517) (basicranium) 53.12%
+- [UBERON:0002369](http://purl.obolibrary.org/obo/UBERON_0002369) (adrenal gland) 53.12%
+- [UBERON:0001759](http://purl.obolibrary.org/obo/UBERON_0001759) (vagus nerve) 53.12%
+- [UBERON:0001756](http://purl.obolibrary.org/obo/UBERON_0001756) (middle ear) 53.12%
+- [UBERON:0000974](http://purl.obolibrary.org/obo/UBERON_0000974) (neck) 53.12%
+- [UBERON:0000011](http://purl.obolibrary.org/obo/UBERON_0000011) (parasympathetic nervous system) 53.12%
+- [NCIT:C48586](http://purl.obolibrary.org/obo/NCIT_C48586) (Slow Growing Painless Mass) 53.12%
+- [NCIT:C47814](http://purl.obolibrary.org/obo/NCIT_C47814) (Vocal Cord Paralysis) 53.12%
+- [NCIT:C47813](http://purl.obolibrary.org/obo/NCIT_C47813) (Hoarseness) 53.12%
+- [NCIT:C38665](http://purl.obolibrary.org/obo/NCIT_C38665) (Chest Pain) 53.12%
+- [NCIT:C37935](http://purl.obolibrary.org/obo/NCIT_C37935) (Cough) 53.12%
+- [NCIT:C2980](http://purl.obolibrary.org/obo/NCIT_C2980) (Dysphagia) 53.12%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) 53.12%
 
 

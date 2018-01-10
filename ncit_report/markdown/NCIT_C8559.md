@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C47835](http://purl.obolibrary.org/obo/NCIT_C47835) (Nesting (Zellballen) Growth Pattern) 66.67%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C35914](http://purl.obolibrary.org/obo/NCIT_C35914) (Gyriform Trabecular Pattern))) 66.67%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) 52.02%
-- [NCIT:C35892](http://purl.obolibrary.org/obo/NCIT_C35892) (Nested Pattern) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([CHEBI:22868](http://purl.obolibrary.org/obo/CHEBI_22868) (bile salt))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not (CARO:0010000)) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null))) 52.02%
+- [NCIT:C48560](http://purl.obolibrary.org/obo/NCIT_C48560) (Malignant Chromaffin Cell) 60.00%
+- [NCIT:C36929](http://purl.obolibrary.org/obo/NCIT_C36929) (Malignant Endocrine Cell) and [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) 60.00%
+- [NCIT:C36825](http://purl.obolibrary.org/obo/NCIT_C36825) (Malignant Neuroendocrine Cell) and [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) 60.00%
+- [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) and [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) 60.00%
+- [NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell) and [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) 60.00%
+- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) 60.00%
+- Thing 51.82%
+- [NCIT:C36825](http://purl.obolibrary.org/obo/NCIT_C36825) (Malignant Neuroendocrine Cell) 46.73%
+- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) 45.36%
+- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C40320](http://purl.obolibrary.org/obo/NCIT_C40320) (Vulvar Alveolar Soft Part Sarcoma))) 45.36%
+- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C40318](http://purl.obolibrary.org/obo/NCIT_C40318) (Vulvar Leiomyosarcoma))) 45.36%
+- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C40314](http://purl.obolibrary.org/obo/NCIT_C40314) (Vulvar Trichoepithelioma))) 45.36%
+- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C40312](http://purl.obolibrary.org/obo/NCIT_C40312) (Vulvar Nodular Hidradenoma))) 45.36%
+- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C40311](http://purl.obolibrary.org/obo/NCIT_C40311) (Vulvar Syringoma))) 45.36%
+- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C40309](http://purl.obolibrary.org/obo/NCIT_C40309) (Vulvar Sebaceous Carcinoma))) 45.36%
 
 

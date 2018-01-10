@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C42084](http://purl.obolibrary.org/obo/NCIT_C42084) (Neoplastic Mature Ganglion Cell) 66.67%
-- [NCIT:C42063](http://purl.obolibrary.org/obo/NCIT_C42063) (Schwannian Stroma Predominant Component of the Tumor Volume) 66.67%
-- [NCIT:C36156](http://purl.obolibrary.org/obo/NCIT_C36156) (Favorable Clinical Outcome) 66.67%
-- [NCIT:C42063](http://purl.obolibrary.org/obo/NCIT_C42063) (Schwannian Stroma Predominant Component of the Tumor Volume) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 66.67%
-- [NCIT:C42063](http://purl.obolibrary.org/obo/NCIT_C42063) (Schwannian Stroma Predominant Component of the Tumor Volume) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 66.67%
-- [NCIT:C42063](http://purl.obolibrary.org/obo/NCIT_C42063) (Schwannian Stroma Predominant Component of the Tumor Volume) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 66.67%
-- [NCIT:C42063](http://purl.obolibrary.org/obo/NCIT_C42063) (Schwannian Stroma Predominant Component of the Tumor Volume) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 66.67%
-- [NCIT:C42063](http://purl.obolibrary.org/obo/NCIT_C42063) (Schwannian Stroma Predominant Component of the Tumor Volume) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 66.67%
-- [NCIT:C42063](http://purl.obolibrary.org/obo/NCIT_C42063) (Schwannian Stroma Predominant Component of the Tumor Volume) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 66.67%
-- [NCIT:C42063](http://purl.obolibrary.org/obo/NCIT_C42063) (Schwannian Stroma Predominant Component of the Tumor Volume) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 66.67%
-- [NCIT:C42063](http://purl.obolibrary.org/obo/NCIT_C42063) (Schwannian Stroma Predominant Component of the Tumor Volume) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 66.67%
-- [NCIT:C42063](http://purl.obolibrary.org/obo/NCIT_C42063) (Schwannian Stroma Predominant Component of the Tumor Volume) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 66.67%
-- [NCIT:C42063](http://purl.obolibrary.org/obo/NCIT_C42063) (Schwannian Stroma Predominant Component of the Tumor Volume) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 66.67%
-- [NCIT:C42063](http://purl.obolibrary.org/obo/NCIT_C42063) (Schwannian Stroma Predominant Component of the Tumor Volume) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 66.67%
-- [NCIT:C42063](http://purl.obolibrary.org/obo/NCIT_C42063) (Schwannian Stroma Predominant Component of the Tumor Volume) and (not ([UBERON:2001431](http://purl.obolibrary.org/obo/UBERON_2001431) (primitive olfactory epithelium))) 66.67%
+- [UBERON:0003693](http://purl.obolibrary.org/obo/UBERON_0003693) (retroperitoneal space) 58.33%
+- [UBERON:0001155](http://purl.obolibrary.org/obo/UBERON_0001155) (colon) 58.33%
+- [NCIT:C47826](http://purl.obolibrary.org/obo/NCIT_C47826) (Diffuse Lesion) 58.33%
+- [NCIT:C42084](http://purl.obolibrary.org/obo/NCIT_C42084) (Neoplastic Mature Ganglion Cell) 58.33%
+- [NCIT:C42063](http://purl.obolibrary.org/obo/NCIT_C42063) (Schwannian Stroma Predominant Component of the Tumor Volume) 58.33%
+- [NCIT:C36156](http://purl.obolibrary.org/obo/NCIT_C36156) (Favorable Clinical Outcome) 58.33%
+- Thing 51.99%
+- [NCIT:C42062](http://purl.obolibrary.org/obo/NCIT_C42062) (Schwannian Stroma More than 50 Percent of the Tumor Volume) 43.69%
+- [NCIT:C42062](http://purl.obolibrary.org/obo/NCIT_C42062) (Schwannian Stroma More than 50 Percent of the Tumor Volume) and (not ([NCIT:C39902](http://purl.obolibrary.org/obo/NCIT_C39902) (Prostate Basal Cell Carcinoma))) 43.69%
+- [NCIT:C42062](http://purl.obolibrary.org/obo/NCIT_C42062) (Schwannian Stroma More than 50 Percent of the Tumor Volume) and (not ([NCIT:C39901](http://purl.obolibrary.org/obo/NCIT_C39901) (Prostatic Duct Urothelial Carcinoma))) 43.69%
+- [NCIT:C42062](http://purl.obolibrary.org/obo/NCIT_C42062) (Schwannian Stroma More than 50 Percent of the Tumor Volume) and (not ([NCIT:C39899](http://purl.obolibrary.org/obo/NCIT_C39899) (Secondary Prostate Urothelial Carcinoma))) 43.69%
+- [NCIT:C42062](http://purl.obolibrary.org/obo/NCIT_C42062) (Schwannian Stroma More than 50 Percent of the Tumor Volume) and (not ([NCIT:C39897](http://purl.obolibrary.org/obo/NCIT_C39897) (Prostate Ductal Adenocarcinoma, Solid Pattern))) 43.69%
+- [NCIT:C42062](http://purl.obolibrary.org/obo/NCIT_C42062) (Schwannian Stroma More than 50 Percent of the Tumor Volume) and (not ([NCIT:C39896](http://purl.obolibrary.org/obo/NCIT_C39896) (Prostate Ductal Adenocarcinoma, Papillary Pattern))) 43.69%
+- [NCIT:C42062](http://purl.obolibrary.org/obo/NCIT_C42062) (Schwannian Stroma More than 50 Percent of the Tumor Volume) and (not ([NCIT:C39895](http://purl.obolibrary.org/obo/NCIT_C39895) (Prostate Ductal Adenocarcinoma, Cribriform Pattern))) 43.69%
+- [NCIT:C42062](http://purl.obolibrary.org/obo/NCIT_C42062) (Schwannian Stroma More than 50 Percent of the Tumor Volume) and (not ([NCIT:C3989](http://purl.obolibrary.org/obo/NCIT_C3989) (Parathyroid Hyperplasia))) 43.69%
 
 

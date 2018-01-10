@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C28077](http://purl.obolibrary.org/obo/NCIT_C28077) (Grade 1) 55.56%
-- Thing 51.95%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) 40.91%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37058](http://purl.obolibrary.org/obo/NCIT_C37058) (Ring Sideroblast))) 40.91%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37055](http://purl.obolibrary.org/obo/NCIT_C37055) (Large Multinucleated Erythroid Cell))) 40.91%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37052](http://purl.obolibrary.org/obo/NCIT_C37052) (Faggot Cell))) 40.91%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37051](http://purl.obolibrary.org/obo/NCIT_C37051) (Dysplastic Granulocyte))) 40.91%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C3705](http://purl.obolibrary.org/obo/NCIT_C3705) (Pleomorphic Liposarcoma))) 40.91%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37049](http://purl.obolibrary.org/obo/NCIT_C37049) (Hyperchromatic Megakaryocyte))) 40.91%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37048](http://purl.obolibrary.org/obo/NCIT_C37048) (Monolobed Megakaryocyte))) 40.91%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37045](http://purl.obolibrary.org/obo/NCIT_C37045) (Giant Megakaryocyte))) 40.91%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37044](http://purl.obolibrary.org/obo/NCIT_C37044) (Large Megakaryocyte))) 40.91%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37041](http://purl.obolibrary.org/obo/NCIT_C37041) (Neoplastic Monocyte))) 40.91%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C3704](http://purl.obolibrary.org/obo/NCIT_C3704) (Dedifferentiated Liposarcoma))) 40.91%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37039](http://purl.obolibrary.org/obo/NCIT_C37039) (Large Atypical Platelet))) 40.91%
+- [UBERON:0005388](http://purl.obolibrary.org/obo/UBERON_0005388) (photoreceptor array) 54.55%
+- [UBERON:0002037](http://purl.obolibrary.org/obo/UBERON_0002037) (cerebellum) 54.55%
+- [UBERON:0001017](http://purl.obolibrary.org/obo/UBERON_0001017) (central nervous system) 54.55%
+- [UBERON:0000966](http://purl.obolibrary.org/obo/UBERON_0000966) (retina) 54.55%
+- [NCIT:C13219](http://purl.obolibrary.org/obo/NCIT_C13219) (Chromosome 3) 54.55%
+- Thing 52.70%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) 39.90%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39264](http://purl.obolibrary.org/obo/NCIT_C39264) (Angiogenesis Pathway))) 39.90%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39258](http://purl.obolibrary.org/obo/NCIT_C39258) (TPO Signaling Pathway))) 39.90%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39253](http://purl.obolibrary.org/obo/NCIT_C39253) (Interferon Signaling Modulation Pathway))) 39.90%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39250](http://purl.obolibrary.org/obo/NCIT_C39250) (Mucosal Healing Pathway))) 39.90%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39247](http://purl.obolibrary.org/obo/NCIT_C39247) (Telomere Pathway))) 39.90%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39246](http://purl.obolibrary.org/obo/NCIT_C39246) (T Cell Receptor Signaling Pathway BioCarta))) 39.90%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39236](http://purl.obolibrary.org/obo/NCIT_C39236) (Sprouty Regulation of Tyrosine Kinase Signaling Pathway))) 39.90%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39217](http://purl.obolibrary.org/obo/NCIT_C39217) (Ras Signaling Pathway))) 39.90%
 
 

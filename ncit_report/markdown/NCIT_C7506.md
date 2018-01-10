@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 52.91%
-- [NCIT:C37175](http://purl.obolibrary.org/obo/NCIT_C37175) (Neutrophil with Pseudo Chediak-Higashi Granules) 52.50%
-- [NCIT:C37174](http://purl.obolibrary.org/obo/NCIT_C37174) (Neutrophil with Cytoplasmic Hypogranularity) 52.50%
-- [NCIT:C36724](http://purl.obolibrary.org/obo/NCIT_C36724) (Neutrophil with Pseudo Pelger-Huet Nucleus) 52.50%
-- [NCIT:C37173](http://purl.obolibrary.org/obo/NCIT_C37173) (Neutrophil with Abnormal Cytoplasmic Granulation) 45.82%
-- [NCIT:C37173](http://purl.obolibrary.org/obo/NCIT_C37173) (Neutrophil with Abnormal Cytoplasmic Granulation) and (not ([NCIT:C36679](http://purl.obolibrary.org/obo/NCIT_C36679) (HRAS Gene Amplification))) 45.82%
-- [NCIT:C37173](http://purl.obolibrary.org/obo/NCIT_C37173) (Neutrophil with Abnormal Cytoplasmic Granulation) and (not ([NCIT:C36678](http://purl.obolibrary.org/obo/NCIT_C36678) (FOS Gene Amplification))) 45.82%
-- [NCIT:C37173](http://purl.obolibrary.org/obo/NCIT_C37173) (Neutrophil with Abnormal Cytoplasmic Granulation) and (not ([NCIT:C36673](http://purl.obolibrary.org/obo/NCIT_C36673) (NMYC Gene Amplification))) 45.82%
-- [NCIT:C37173](http://purl.obolibrary.org/obo/NCIT_C37173) (Neutrophil with Abnormal Cytoplasmic Granulation) and (not ([NCIT:C36671](http://purl.obolibrary.org/obo/NCIT_C36671) (Gain of Chromosome 10))) 45.82%
-- [NCIT:C37173](http://purl.obolibrary.org/obo/NCIT_C37173) (Neutrophil with Abnormal Cytoplasmic Granulation) and (not ([NCIT:C36670](http://purl.obolibrary.org/obo/NCIT_C36670) (Gain of Chromosome 16))) 45.82%
-- [NCIT:C37173](http://purl.obolibrary.org/obo/NCIT_C37173) (Neutrophil with Abnormal Cytoplasmic Granulation) and (not ([NCIT:C36669](http://purl.obolibrary.org/obo/NCIT_C36669) (Gain of Chromosome 6))) 45.82%
-- [NCIT:C37173](http://purl.obolibrary.org/obo/NCIT_C37173) (Neutrophil with Abnormal Cytoplasmic Granulation) and (not ([NCIT:C36667](http://purl.obolibrary.org/obo/NCIT_C36667) (Loss of Chromosome 4q))) 45.82%
-- [NCIT:C37173](http://purl.obolibrary.org/obo/NCIT_C37173) (Neutrophil with Abnormal Cytoplasmic Granulation) and (not ([NCIT:C36666](http://purl.obolibrary.org/obo/NCIT_C36666) (Fibroblast Growth Factor 1 Overexpression))) 45.82%
-- [NCIT:C37173](http://purl.obolibrary.org/obo/NCIT_C37173) (Neutrophil with Abnormal Cytoplasmic Granulation) and (not ([NCIT:C36665](http://purl.obolibrary.org/obo/NCIT_C36665) (KRAS Gene Amplification))) 45.82%
-- [NCIT:C37173](http://purl.obolibrary.org/obo/NCIT_C37173) (Neutrophil with Abnormal Cytoplasmic Granulation) and (not ([NCIT:C36664](http://purl.obolibrary.org/obo/NCIT_C36664) (Aberrant DNA Methylation))) 45.82%
+- Thing 54.31%
+- [NCIT:C37175](http://purl.obolibrary.org/obo/NCIT_C37175) (Neutrophil with Pseudo Chediak-Higashi Granules) 51.79%
+- [NCIT:C37174](http://purl.obolibrary.org/obo/NCIT_C37174) (Neutrophil with Cytoplasmic Hypogranularity) 51.79%
+- [NCIT:C36724](http://purl.obolibrary.org/obo/NCIT_C36724) (Neutrophil with Pseudo Pelger-Huet Nucleus) 51.79%
+- [NCIT:C37173](http://purl.obolibrary.org/obo/NCIT_C37173) (Neutrophil with Abnormal Cytoplasmic Granulation) 44.40%
+- [NCIT:C37173](http://purl.obolibrary.org/obo/NCIT_C37173) (Neutrophil with Abnormal Cytoplasmic Granulation) and (not ([NCIT:C40149](http://purl.obolibrary.org/obo/NCIT_C40149) (Grade 1 Endometrial Mucinous Adenocarcinoma))) 44.40%
+- [NCIT:C37173](http://purl.obolibrary.org/obo/NCIT_C37173) (Neutrophil with Abnormal Cytoplasmic Granulation) and (not ([NCIT:C40148](http://purl.obolibrary.org/obo/NCIT_C40148) (Grade 3 Endometrial Endometrioid Adenocarcinoma))) 44.40%
+- [NCIT:C37173](http://purl.obolibrary.org/obo/NCIT_C37173) (Neutrophil with Abnormal Cytoplasmic Granulation) and (not ([NCIT:C40147](http://purl.obolibrary.org/obo/NCIT_C40147) (Grade 2 Endometrial Endometrioid Adenocarcinoma))) 44.40%
+- [NCIT:C37173](http://purl.obolibrary.org/obo/NCIT_C37173) (Neutrophil with Abnormal Cytoplasmic Granulation) and (not ([NCIT:C40146](http://purl.obolibrary.org/obo/NCIT_C40146) (Grade 1 Endometrial Endometrioid Adenocarcinoma))) 44.40%
+- [NCIT:C37173](http://purl.obolibrary.org/obo/NCIT_C37173) (Neutrophil with Abnormal Cytoplasmic Granulation) and (not ([NCIT:C40142](http://purl.obolibrary.org/obo/NCIT_C40142) (Uterine Ligament Papillary Cystadenoma Associated with von Hippel-Lindau Disease))) 44.40%
+- [NCIT:C37173](http://purl.obolibrary.org/obo/NCIT_C37173) (Neutrophil with Abnormal Cytoplasmic Granulation) and (not ([NCIT:C40141](http://purl.obolibrary.org/obo/NCIT_C40141) (Wolffian Adnexal Tumor))) 44.40%
+- [NCIT:C37173](http://purl.obolibrary.org/obo/NCIT_C37173) (Neutrophil with Abnormal Cytoplasmic Granulation) and (not ([NCIT:C40139](http://purl.obolibrary.org/obo/NCIT_C40139) (Uterine Ligament Clear Cell Adenocarcinoma))) 44.40%
+- [NCIT:C37173](http://purl.obolibrary.org/obo/NCIT_C37173) (Neutrophil with Abnormal Cytoplasmic Granulation) and (not ([NCIT:C40138](http://purl.obolibrary.org/obo/NCIT_C40138) (Uterine Ligament Endometrioid Adenocarcinoma))) 44.40%
+- [NCIT:C37173](http://purl.obolibrary.org/obo/NCIT_C37173) (Neutrophil with Abnormal Cytoplasmic Granulation) and (not ([NCIT:C40137](http://purl.obolibrary.org/obo/NCIT_C40137) (Uterine Ligament Mucinous Adenocarcinoma))) 44.40%
+- [NCIT:C37173](http://purl.obolibrary.org/obo/NCIT_C37173) (Neutrophil with Abnormal Cytoplasmic Granulation) and (not ([NCIT:C40129](http://purl.obolibrary.org/obo/NCIT_C40129) (Fallopian Tube Adenomatoid Tumor))) 44.40%
 
 

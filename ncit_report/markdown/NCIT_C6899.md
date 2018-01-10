@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C35925](http://purl.obolibrary.org/obo/NCIT_C35925) (Tubular Pattern) 66.67%
-- [NCIT:C35891](http://purl.obolibrary.org/obo/NCIT_C35891) (Lobulated Growth Pattern) 66.67%
-- [NCIT:C53625](http://purl.obolibrary.org/obo/NCIT_C53625) (Spindle Cell Component Present) and (not ([NCIT:C53965](http://purl.obolibrary.org/obo/NCIT_C53965) (Spindle Cell Osteo-Fibrous Component Present))) 66.67%
-- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 54.44%
-- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 54.27%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 53.08%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 52.35%
-- [NCIT:C53625](http://purl.obolibrary.org/obo/NCIT_C53625) (Spindle Cell Component Present) 52.02%
-- [NCIT:C53625](http://purl.obolibrary.org/obo/NCIT_C53625) (Spindle Cell Component Present) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 52.02%
-- [NCIT:C53625](http://purl.obolibrary.org/obo/NCIT_C53625) (Spindle Cell Component Present) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 52.02%
-- [NCIT:C53625](http://purl.obolibrary.org/obo/NCIT_C53625) (Spindle Cell Component Present) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 52.02%
-- [NCIT:C53625](http://purl.obolibrary.org/obo/NCIT_C53625) (Spindle Cell Component Present) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 52.02%
-- [NCIT:C53625](http://purl.obolibrary.org/obo/NCIT_C53625) (Spindle Cell Component Present) and (not (CARO:0010000)) 52.02%
-- [NCIT:C53625](http://purl.obolibrary.org/obo/NCIT_C53625) (Spindle Cell Component Present) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 52.02%
-- [NCIT:C53625](http://purl.obolibrary.org/obo/NCIT_C53625) (Spindle Cell Component Present) and (not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null))) 52.02%
+- [NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell) 58.33%
+- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) 58.33%
+- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and [NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell) 58.33%
+- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) 58.33%
+- Thing 51.99%
+- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) 43.69%
+- [NCIT:C36769](http://purl.obolibrary.org/obo/NCIT_C36769) (Abnormal Myoepithelial Cell) 43.69%
+- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 43.69%
+- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 43.69%
+- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40104](http://purl.obolibrary.org/obo/NCIT_C40104) (Fallopian Tube Transitional Cell Carcinoma))) 43.69%
+- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40103](http://purl.obolibrary.org/obo/NCIT_C40103) (Fallopian Tube Mucinous Adenocarcinoma))) 43.69%
+- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40093](http://purl.obolibrary.org/obo/NCIT_C40093) (Ovarian Squamous Cell Carcinoma))) 43.69%
+- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 43.69%
+- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 43.69%
+- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 43.69%
 
 

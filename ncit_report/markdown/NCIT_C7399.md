@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C40560](http://purl.obolibrary.org/obo/NCIT_C40560) (Exophytic Polypoid Lesion) 66.67%
-- [NCIT:C36121](http://purl.obolibrary.org/obo/NCIT_C36121) (Villous Pattern) 66.67%
-- [NCIT:C35925](http://purl.obolibrary.org/obo/NCIT_C35925) (Tubular Pattern) 66.67%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 53.08%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 52.35%
-- Thing 51.13%
-- [NCIT:C35886](http://purl.obolibrary.org/obo/NCIT_C35886) (Morphologic Architectural Pattern) 42.10%
-- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 36.96%
-- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 36.82%
-- [NCIT:C3824](http://purl.obolibrary.org/obo/NCIT_C3824) (Lesion) 22.92%
-- CP:0000037 0.00%
-- CP:0000035 0.00%
-- CP:0000028 0.00%
-- CP:0000027 0.00%
-- CP:0000000 0.00%
+- [UBERON:0001255](http://purl.obolibrary.org/obo/UBERON_0001255) (urinary bladder) 53.85%
+- [UBERON:0001153](http://purl.obolibrary.org/obo/UBERON_0001153) (caecum) 53.85%
+- [UBERON:0004120](http://purl.obolibrary.org/obo/UBERON_0004120) (mesoderm-derived structure) and [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) 53.85%
+- Thing 52.93%
+- [UBERON:0009856](http://purl.obolibrary.org/obo/UBERON_0009856) (sac) 43.05%
+- [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) 39.20%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) 39.20%
+- [UBERON:0005177](http://purl.obolibrary.org/obo/UBERON_0005177) (trunk region element) and [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) 39.20%
+- [UBERON:0002075](http://purl.obolibrary.org/obo/UBERON_0002075) (viscus) and [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) 39.20%
+- [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) and (not ([NCIT:C39880](http://purl.obolibrary.org/obo/NCIT_C39880) (Acinar Prostate Adenocarcinoma, Atrophic Variant))) 39.20%
+- [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) and (not ([NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q))) 39.20%
+- [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) and (not ([NCIT:C39874](http://purl.obolibrary.org/obo/NCIT_C39874) (Urethral Verrucous Carcinoma))) 39.20%
+- [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) and (not ([NCIT:C39873](http://purl.obolibrary.org/obo/NCIT_C39873) (Urethral Glandular Metaplasia))) 39.20%
+- [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) and (not ([NCIT:C39872](http://purl.obolibrary.org/obo/NCIT_C39872) (Urethral Villous Adenoma))) 39.20%
+- [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) and (not ([NCIT:C39866](http://purl.obolibrary.org/obo/NCIT_C39866) (Female Urethral Malignant Neoplasm))) 39.20%
 
 

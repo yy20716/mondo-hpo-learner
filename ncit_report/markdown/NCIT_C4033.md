@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C61143](http://purl.obolibrary.org/obo/NCIT_C61143) (Delicate Vascular Network Formation) 60.00%
-- [NCIT:C39786](http://purl.obolibrary.org/obo/NCIT_C39786) (Bilateral Disease) 60.00%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 53.98%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 53.03%
-- Thing 51.45%
-- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 45.13%
-- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 44.93%
-- [NCIT:C41454](http://purl.obolibrary.org/obo/NCIT_C41454) (Cystic Change) 38.87%
-- [NCIT:C3672](http://purl.obolibrary.org/obo/NCIT_C3672) (Calcification) 32.36%
-- [NCIT:C9442](http://purl.obolibrary.org/obo/NCIT_C9442) (Deposit) 26.67%
-- [NCIT:C36184](http://purl.obolibrary.org/obo/NCIT_C36184) (Necrotic Change) 26.67%
-- [NCIT:C35963](http://purl.obolibrary.org/obo/NCIT_C35963) (Vascular Morphologic Change) 20.91%
-- [NCIT:C35461](http://purl.obolibrary.org/obo/NCIT_C35461) (Clinical Course of Disease) 18.70%
-- CP:0000037 0.00%
-- CP:0000035 0.00%
+- [NCIT:C61143](http://purl.obolibrary.org/obo/NCIT_C61143) (Delicate Vascular Network Formation) 53.57%
+- [NCIT:C53974](http://purl.obolibrary.org/obo/NCIT_C53974) (Non-Hereditary Lesion) 53.57%
+- [NCIT:C39795](http://purl.obolibrary.org/obo/NCIT_C39795) (Loss of Chromosome 14q) 53.57%
+- [NCIT:C39786](http://purl.obolibrary.org/obo/NCIT_C39786) (Bilateral Disease) 53.57%
+- [NCIT:C38328](http://purl.obolibrary.org/obo/NCIT_C38328) (Unfavorable Clinical Outcome) 53.57%
+- [NCIT:C36687](http://purl.obolibrary.org/obo/NCIT_C36687) (VHL Gene Inactivation) 53.57%
+- [NCIT:C36649](http://purl.obolibrary.org/obo/NCIT_C36649) (EGFR Gene Amplification) 53.57%
+- [NCIT:C36636](http://purl.obolibrary.org/obo/NCIT_C36636) (Loss of Chromosome 9p) 53.57%
+- [NCIT:C36586](http://purl.obolibrary.org/obo/NCIT_C36586) (Loss of Chromosome 3) 53.57%
+- [NCIT:C36329](http://purl.obolibrary.org/obo/NCIT_C36329) (TP53 Gene Inactivation) 53.57%
+- [NCIT:C18261](http://purl.obolibrary.org/obo/NCIT_C18261) (VHL Gene) 53.57%
+- Thing 53.04%
+- [NCIT:C41454](http://purl.obolibrary.org/obo/NCIT_C41454) (Cystic Change) 32.44%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 28.59%
+- [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 26.85%
 
 

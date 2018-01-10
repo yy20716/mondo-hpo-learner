@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) 60.82%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36663](http://purl.obolibrary.org/obo/NCIT_C36663) (Fibroblast Growth Factor 2 Overexpression))) 60.82%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36662](http://purl.obolibrary.org/obo/NCIT_C36662) (Transforming Growth Factor-Beta Overexpression))) 60.82%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36660](http://purl.obolibrary.org/obo/NCIT_C36660) (Monoclonal Hepatocyte Population Present))) 60.82%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36659](http://purl.obolibrary.org/obo/NCIT_C36659) (CTNNB1 Gene Mutation))) 60.82%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36658](http://purl.obolibrary.org/obo/NCIT_C36658) (Gain of Chromosome Xq))) 60.82%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36657](http://purl.obolibrary.org/obo/NCIT_C36657) (Polysomy 17))) 60.82%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36656](http://purl.obolibrary.org/obo/NCIT_C36656) (Polysomy 10))) 60.82%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36655](http://purl.obolibrary.org/obo/NCIT_C36655) (Polysomy 3))) 60.82%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36654](http://purl.obolibrary.org/obo/NCIT_C36654) (CDH1 Gene Inactivation))) 60.82%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36652](http://purl.obolibrary.org/obo/NCIT_C36652) (CCND1 Gene Amplification))) 60.82%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36651](http://purl.obolibrary.org/obo/NCIT_C36651) (FGFR2 Gene Amplification))) 60.82%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36650](http://purl.obolibrary.org/obo/NCIT_C36650) (FGFR1 Gene Amplification))) 60.82%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36649](http://purl.obolibrary.org/obo/NCIT_C36649) (EGFR Gene Amplification))) 60.82%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36648](http://purl.obolibrary.org/obo/NCIT_C36648) (der(1;16)(q10;p10)))) 60.82%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) 54.17%
+- Thing 53.99%
+- [NCIT:C39625](http://purl.obolibrary.org/obo/NCIT_C39625) (Extracutaneous Dissemination of Disease) 52.08%
+- [NCIT:C39624](http://purl.obolibrary.org/obo/NCIT_C39624) (Skin Plaque) 52.08%
+- [NCIT:C39622](http://purl.obolibrary.org/obo/NCIT_C39622) (Scaly Skin Eruption) 52.08%
+- [NCIT:C39620](http://purl.obolibrary.org/obo/NCIT_C39620) (Dermatopathic Lymphadenopathy) 52.08%
+- [NCIT:C36158](http://purl.obolibrary.org/obo/NCIT_C36158) (Chronic Clinical Course) 52.08%
+- [NCIT:C3344](http://purl.obolibrary.org/obo/NCIT_C3344) (Pruritus) 52.08%
+- Error2 52.08%
+- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) 37.44%
+- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) and (not ([NCIT:C40129](http://purl.obolibrary.org/obo/NCIT_C40129) (Fallopian Tube Adenomatoid Tumor))) 37.44%
+- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) and (not ([NCIT:C40128](http://purl.obolibrary.org/obo/NCIT_C40128) (Fallopian Tube Leiomyosarcoma))) 37.44%
+- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) and (not ([NCIT:C40127](http://purl.obolibrary.org/obo/NCIT_C40127) (Fallopian Tube Leiomyoma))) 37.44%
+- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) and (not ([NCIT:C40125](http://purl.obolibrary.org/obo/NCIT_C40125) (Fallopian Tube Adenosarcoma))) 37.44%
+- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) and (not ([NCIT:C40124](http://purl.obolibrary.org/obo/NCIT_C40124) (Fallopian Tube Carcinosarcoma))) 37.44%
 
 

@@ -12,14 +12,14 @@
 - [NCIT:C36396](http://purl.obolibrary.org/obo/NCIT_C36396) (Trisomy 8) 53.33%
 - [NCIT:C35524](http://purl.obolibrary.org/obo/NCIT_C35524) (Leukocytosis) 53.33%
 - [NCIT:C2863](http://purl.obolibrary.org/obo/NCIT_C2863) (Granulocytopenia) 53.33%
-- Thing 52.52%
+- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C3991](http://purl.obolibrary.org/obo/NCIT_C3991) (Thrombocytopenia Due to Immune Destruction))) 53.33%
+- Thing 53.15%
 - [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) 38.69%
 - [NCIT:C26816](http://purl.obolibrary.org/obo/NCIT_C26816) (Leukopenia) 38.69%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C37177](http://purl.obolibrary.org/obo/NCIT_C37177) (Neoplastic Medium-Sized Myeloblast with Basophilic Agranular Cytoplasm))) 38.69%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C37176](http://purl.obolibrary.org/obo/NCIT_C37176) (Neoplastic Myeloblast with Abundant Basophilic Cytoplasm))) 38.69%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C37175](http://purl.obolibrary.org/obo/NCIT_C37175) (Neutrophil with Pseudo Chediak-Higashi Granules))) 38.69%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C37174](http://purl.obolibrary.org/obo/NCIT_C37174) (Neutrophil with Cytoplasmic Hypogranularity))) 38.69%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C37172](http://purl.obolibrary.org/obo/NCIT_C37172) (Hypolobated Neutrophil))) 38.69%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C37169](http://purl.obolibrary.org/obo/NCIT_C37169) (Multilobated Neoplastic B-Lymphocyte))) 38.69%
+- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 38.69%
+- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 38.69%
+- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 38.69%
+- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 38.69%
+- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 38.69%
 
 

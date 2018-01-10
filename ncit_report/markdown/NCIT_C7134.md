@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) 75.00%
-- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 75.00%
-- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:4100000](http://purl.obolibrary.org/obo/UBERON_4100000) (skeletal element projection))) 75.00%
-- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 75.00%
-- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 75.00%
-- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 75.00%
-- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 75.00%
-- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 75.00%
-- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 75.00%
-- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 75.00%
-- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 75.00%
-- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 75.00%
-- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:2001431](http://purl.obolibrary.org/obo/UBERON_2001431) (primitive olfactory epithelium))) 75.00%
-- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:2001073](http://purl.obolibrary.org/obo/UBERON_2001073) (axial vasculature))) 75.00%
-- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) and (not ([UBERON:2001053](http://purl.obolibrary.org/obo/UBERON_2001053) (future internal carotid artery))) 75.00%
+- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C36140](http://purl.obolibrary.org/obo/NCIT_C36140) (Grade 4 Lesion))) 62.50%
+- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) 55.80%
+- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C38323](http://purl.obolibrary.org/obo/NCIT_C38323) (Peripheral Epidermotropic T-Lymphocyte))) 55.80%
+- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C38322](http://purl.obolibrary.org/obo/NCIT_C38322) (Marginal Zone B-Lymphocyte of Nodal Type))) 55.80%
+- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C3832](http://purl.obolibrary.org/obo/NCIT_C3832) (Malaise))) 55.80%
+- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C38317](http://purl.obolibrary.org/obo/NCIT_C38317) (GNAS Gene))) 55.80%
+- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C3826](http://purl.obolibrary.org/obo/NCIT_C3826) (Juvenile Polyp))) 55.80%
+- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C38184](http://purl.obolibrary.org/obo/NCIT_C38184) (ALK Gene))) 55.80%
+- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C38176](http://purl.obolibrary.org/obo/NCIT_C38176) (BCL2 Gene Translocation))) 55.80%
+- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C38175](http://purl.obolibrary.org/obo/NCIT_C38175) (CD44 Messenger RNA Overexpression))) 55.80%
+- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C38174](http://purl.obolibrary.org/obo/NCIT_C38174) (IRF4/MUM1 Messenger RNA Overexpression))) 55.80%
+- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C38173](http://purl.obolibrary.org/obo/NCIT_C38173) (BCL2 Gene mRNA Overexpression))) 55.80%
+- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C38172](http://purl.obolibrary.org/obo/NCIT_C38172) (Cyclin D2 Messenger RNA Overexpression))) 55.80%
+- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C38171](http://purl.obolibrary.org/obo/NCIT_C38171) (PKCbeta1 Messenger RNA Overexpression))) 55.80%
+- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C38170](http://purl.obolibrary.org/obo/NCIT_C38170) (LMO2 Messenger RNA Overexpression))) 55.80%
 
 

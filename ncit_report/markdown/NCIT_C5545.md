@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) (prostate gland) 75.00%
-- [UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure) and [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) 75.00%
-- [UBERON:0000077](http://purl.obolibrary.org/obo/UBERON_0000077) (mixed endoderm/mesoderm-derived structure) and [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) 75.00%
-- [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) and (not ([UBERON:0010186](http://purl.obolibrary.org/obo/UBERON_0010186) (male urethral gland))) 75.00%
-- [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) and (not ([UBERON:0006868](http://purl.obolibrary.org/obo/UBERON_0006868) (seminal fluid secreting gland))) 75.00%
-- [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) and (not ([UBERON:0002366](http://purl.obolibrary.org/obo/UBERON_0002366) (bulbo-urethral gland))) 75.00%
-- [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) and (not ([UBERON:0002365](http://purl.obolibrary.org/obo/UBERON_0002365) (exocrine gland))) 75.00%
-- [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) and (not ([UBERON:0001338](http://purl.obolibrary.org/obo/UBERON_0001338) (urethral gland))) 75.00%
-- [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) and (not ([UBERON:0000414](http://purl.obolibrary.org/obo/UBERON_0000414) (mucous gland))) 75.00%
-- [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) (prostate gland) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 75.00%
-- [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) (prostate gland) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 75.00%
-- [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) (prostate gland) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 75.00%
-- [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) (prostate gland) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 75.00%
-- [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) (prostate gland) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 75.00%
-- [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) (prostate gland) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 75.00%
+- [NCIT:C60308](http://purl.obolibrary.org/obo/NCIT_C60308) (More than 10 Mitoses per 10HPF) 58.33%
+- Thing 51.99%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) 43.69%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36972](http://purl.obolibrary.org/obo/NCIT_C36972) (Monovacuolated Lipoblast))) 43.69%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36966](http://purl.obolibrary.org/obo/NCIT_C36966) (Malignant Glomus Cell))) 43.69%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36959](http://purl.obolibrary.org/obo/NCIT_C36959) (Neoplastic Fibroblast-Like Cell))) 43.69%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36957](http://purl.obolibrary.org/obo/NCIT_C36957) (Neoplastic Spindle-Shaped Myofibroblast))) 43.69%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36953](http://purl.obolibrary.org/obo/NCIT_C36953) (Bizarre Cell with Evidence of Skeletal Muscle Differentiation))) 43.69%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36951](http://purl.obolibrary.org/obo/NCIT_C36951) (Round Cell with Primitive Myoblastic Differentiation))) 43.69%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36944](http://purl.obolibrary.org/obo/NCIT_C36944) (Malignant Small Undifferentiated Cell))) 43.69%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36923](http://purl.obolibrary.org/obo/NCIT_C36923) (Neoplastic Endocrine Null Cell))) 43.69%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36921](http://purl.obolibrary.org/obo/NCIT_C36921) (Neoplastic Gonadotroph Cell))) 43.69%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36908](http://purl.obolibrary.org/obo/NCIT_C36908) (Apocrine Carcinoma Cell))) 43.69%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36899](http://purl.obolibrary.org/obo/NCIT_C36899) (Neoplastic Stellate Cell))) 43.69%
+- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36896](http://purl.obolibrary.org/obo/NCIT_C36896) (Neoplastic Leydig Cell))) 43.69%
 
 

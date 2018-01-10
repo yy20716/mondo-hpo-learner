@@ -7,7 +7,7 @@
 **Class expressions from DL-Learner:**
 
 - [NCIT:C61558](http://purl.obolibrary.org/obo/NCIT_C61558) (Myomatous Stroma Formation) 66.67%
-- Thing 51.13%
+- Thing 51.41%
 - [NCIT:C36937](http://purl.obolibrary.org/obo/NCIT_C36937) (Neoplastic Smooth Muscle Cell) 37.08%
 - [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) 36.84%
 - [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 36.68%

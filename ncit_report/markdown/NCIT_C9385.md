@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0004810](http://purl.obolibrary.org/obo/UBERON_0004810) (nephron tubule epithelium) 62.50%
-- [NCIT:C61147](http://purl.obolibrary.org/obo/NCIT_C61147) (Renal Tubular Epithelial Cell) 62.50%
-- [NCIT:C34615](http://purl.obolibrary.org/obo/NCIT_C34615) (Flank Pain) 62.50%
-- Thing 51.30%
-- [UBERON:0004211](http://purl.obolibrary.org/obo/UBERON_0004211) (nephron epithelium) 50.00%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 39.46%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 39.28%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 39.27%
-- [UBERON:0009773](http://purl.obolibrary.org/obo/UBERON_0009773) (renal tubule) 37.50%
-- [UBERON:0001231](http://purl.obolibrary.org/obo/UBERON_0001231) (nephron tubule) 37.50%
-- [UBERON:0004211](http://purl.obolibrary.org/obo/UBERON_0004211) (nephron epithelium) and [UBERON:0009773](http://purl.obolibrary.org/obo/UBERON_0009773) (renal tubule) 37.50%
-- [UBERON:0004111](http://purl.obolibrary.org/obo/UBERON_0004111) (anatomical conduit) and [UBERON:0004211](http://purl.obolibrary.org/obo/UBERON_0004211) (nephron epithelium) 37.50%
-- [UBERON:0003914](http://purl.obolibrary.org/obo/UBERON_0003914) (epithelial tube) and [UBERON:0004211](http://purl.obolibrary.org/obo/UBERON_0004211) (nephron epithelium) 37.50%
-- [UBERON:0000025](http://purl.obolibrary.org/obo/UBERON_0000025) (tube) and [UBERON:0004211](http://purl.obolibrary.org/obo/UBERON_0004211) (nephron epithelium) 37.50%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 26.70%
+- Thing 56.81%
+- [NCIT:C39799](http://purl.obolibrary.org/obo/NCIT_C39799) (Loss of Chromosome 21) 50.71%
+- [NCIT:C39798](http://purl.obolibrary.org/obo/NCIT_C39798) (Loss of Chromosome 2) 50.71%
+- [NCIT:C39795](http://purl.obolibrary.org/obo/NCIT_C39795) (Loss of Chromosome 14q) 50.71%
+- [NCIT:C37867](http://purl.obolibrary.org/obo/NCIT_C37867) (Tetrasomy 7) 50.71%
+- [NCIT:C37866](http://purl.obolibrary.org/obo/NCIT_C37866) (Trisomy 16) 50.71%
+- [NCIT:C37865](http://purl.obolibrary.org/obo/NCIT_C37865) (Trisomy 17) 50.71%
+- [NCIT:C36636](http://purl.obolibrary.org/obo/NCIT_C36636) (Loss of Chromosome 9p) 50.71%
+- [NCIT:C36631](http://purl.obolibrary.org/obo/NCIT_C36631) (Loss of Chromosome 17) 50.71%
+- [NCIT:C36599](http://purl.obolibrary.org/obo/NCIT_C36599) (Loss of Chromosome Y) 50.71%
+- [NCIT:C36597](http://purl.obolibrary.org/obo/NCIT_C36597) (Loss of Chromosome 1) 50.71%
+- [NCIT:C36586](http://purl.obolibrary.org/obo/NCIT_C36586) (Loss of Chromosome 3) 50.71%
+- [NCIT:C36585](http://purl.obolibrary.org/obo/NCIT_C36585) (Loss of Chromosome 10) 50.71%
+- [NCIT:C36536](http://purl.obolibrary.org/obo/NCIT_C36536) (Loss of Chromosome 13) 50.71%
+- [NCIT:C36504](http://purl.obolibrary.org/obo/NCIT_C36504) (Loss of Chromosome 6) 50.71%
 
 

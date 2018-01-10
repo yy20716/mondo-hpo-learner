@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C38328](http://purl.obolibrary.org/obo/NCIT_C38328) (Unfavorable Clinical Outcome) 56.25%
-- [NCIT:C36252](http://purl.obolibrary.org/obo/NCIT_C36252) (Ineffective Hematopoiesis) 56.25%
-- [NCIT:C2863](http://purl.obolibrary.org/obo/NCIT_C2863) (Granulocytopenia) 56.25%
-- Thing 51.84%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) 41.61%
-- [NCIT:C26816](http://purl.obolibrary.org/obo/NCIT_C26816) (Leukopenia) 41.61%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C37025](http://purl.obolibrary.org/obo/NCIT_C37025) (Mummified Cell))) 41.61%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C37024](http://purl.obolibrary.org/obo/NCIT_C37024) (Reed-Sternberg-Like Cell))) 41.61%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C37023](http://purl.obolibrary.org/obo/NCIT_C37023) (Lacunar Reed-Sternberg Cell))) 41.61%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C37021](http://purl.obolibrary.org/obo/NCIT_C37021) (Hodgkin Cell))) 41.61%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C37020](http://purl.obolibrary.org/obo/NCIT_C37020) (Neoplastic Large Cleaved Follicle Center Cell))) 41.61%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C37019](http://purl.obolibrary.org/obo/NCIT_C37019) (Neoplastic T-Cell Large Granular Lymphocyte))) 41.61%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C37017](http://purl.obolibrary.org/obo/NCIT_C37017) (Anaplastic Large T-Lymphocyte))) 41.61%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C37015](http://purl.obolibrary.org/obo/NCIT_C37015) (Anaplastic Large B-Lymphocyte))) 41.61%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C37014](http://purl.obolibrary.org/obo/NCIT_C37014) (Neoplastic Centroblast))) 41.61%
+- Thing 54.38%
+- [NCIT:C36450](http://purl.obolibrary.org/obo/NCIT_C36450) (Clonal Antigen Receptor Gene Rearrangement) 53.65%
+- [NCIT:C36445](http://purl.obolibrary.org/obo/NCIT_C36445) (Clonal Immunoglobulin Light Chain Gene Rearrangement) 53.45%
+- [NCIT:C36452](http://purl.obolibrary.org/obo/NCIT_C36452) (Clonal Immunoglobulin Lambda Light Chain Gene Rearrangement) 51.72%
+- [NCIT:C36451](http://purl.obolibrary.org/obo/NCIT_C36451) (Clonal Immunoglobulin Kappa Light Chain Gene Rearrangement) 51.72%
+- [NCIT:C36448](http://purl.obolibrary.org/obo/NCIT_C36448) (Clonal T-Cell Receptor Gamma Chain Gene Rearrangement) 51.72%
+- [NCIT:C36447](http://purl.obolibrary.org/obo/NCIT_C36447) (Clonal T-Cell Receptor Beta Chain Gene Rearrangement) 51.72%
+- [NCIT:C36444](http://purl.obolibrary.org/obo/NCIT_C36444) (Clonal Immunoglobulin Heavy Chain Gene Rearrangement) 51.72%
+- [NCIT:C122623](http://purl.obolibrary.org/obo/NCIT_C122623) (KMT2A Gene Rearrangement) 51.72%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) 48.47%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 48.47%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 48.47%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 48.47%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 48.47%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C40034](http://purl.obolibrary.org/obo/NCIT_C40034) (Ovarian Mucinous Adenocarcinofibroma))) 48.47%
 
 

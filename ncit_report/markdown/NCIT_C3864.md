@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0001155](http://purl.obolibrary.org/obo/UBERON_0001155) (colon) 75.00%
-- [NCIT:C40560](http://purl.obolibrary.org/obo/NCIT_C40560) (Exophytic Polypoid Lesion) 75.00%
-- Thing 50.92%
-- [UBERON:0004921](http://purl.obolibrary.org/obo/UBERON_0004921) (subdivision of digestive tract) 34.28%
-- [UBERON:0013522](http://purl.obolibrary.org/obo/UBERON_0013522) (subdivision of tube) 31.80%
-- [NCIT:C3824](http://purl.obolibrary.org/obo/NCIT_C3824) (Lesion) 31.25%
-- [UBERON:0000064](http://purl.obolibrary.org/obo/UBERON_0000064) (organ part) 27.65%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 26.78%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 26.36%
-- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 26.31%
-- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 26.28%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 26.21%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 26.13%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 26.12%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 26.03%
+- [UBERON:0001153](http://purl.obolibrary.org/obo/UBERON_0001153) (caecum) 62.50%
+- Thing 51.63%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) 47.86%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C3991](http://purl.obolibrary.org/obo/NCIT_C3991) (Thrombocytopenia Due to Immune Destruction))) 47.86%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C39909](http://purl.obolibrary.org/obo/NCIT_C39909) (Gain of Chromosome 18q))) 47.86%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C39907](http://purl.obolibrary.org/obo/NCIT_C39907) (Seminal Vesicle Cystadenoma))) 47.86%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C39906](http://purl.obolibrary.org/obo/NCIT_C39906) (Seminal Vesicle Adenocarcinoma))) 47.86%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C39905](http://purl.obolibrary.org/obo/NCIT_C39905) (Prostate Stromal Proliferation of Uncertain Malignant Potential))) 47.86%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C39903](http://purl.obolibrary.org/obo/NCIT_C39903) (Prostate Adenocarcinoma with Focal Neuroendocrine Differentiation))) 47.86%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C39902](http://purl.obolibrary.org/obo/NCIT_C39902) (Prostate Basal Cell Carcinoma))) 47.86%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C39901](http://purl.obolibrary.org/obo/NCIT_C39901) (Prostatic Duct Urothelial Carcinoma))) 47.86%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C39899](http://purl.obolibrary.org/obo/NCIT_C39899) (Secondary Prostate Urothelial Carcinoma))) 47.86%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C39897](http://purl.obolibrary.org/obo/NCIT_C39897) (Prostate Ductal Adenocarcinoma, Solid Pattern))) 47.86%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C39896](http://purl.obolibrary.org/obo/NCIT_C39896) (Prostate Ductal Adenocarcinoma, Papillary Pattern))) 47.86%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C39895](http://purl.obolibrary.org/obo/NCIT_C39895) (Prostate Ductal Adenocarcinoma, Cribriform Pattern))) 47.86%
 
 

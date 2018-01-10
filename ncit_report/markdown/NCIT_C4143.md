@@ -9,17 +9,17 @@
 - [NCIT:C40560](http://purl.obolibrary.org/obo/NCIT_C40560) (Exophytic Polypoid Lesion) 56.25%
 - [NCIT:C36121](http://purl.obolibrary.org/obo/NCIT_C36121) (Villous Pattern) 56.25%
 - [NCIT:C35925](http://purl.obolibrary.org/obo/NCIT_C35925) (Tubular Pattern) 56.25%
-- Thing 51.84%
+- Thing 52.30%
 - [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 34.28%
+- [UBERON:0006799](http://purl.obolibrary.org/obo/UBERON_0006799) (glandular epithelium) 31.25%
 - [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 28.56%
-- [UBERON:0006799](http://purl.obolibrary.org/obo/UBERON_0006799) (glandular epithelium) 26.66%
 - [NCIT:C33923](http://purl.obolibrary.org/obo/NCIT_C33923) (Glandular Cell) 25.15%
 - [NCIT:C8366](http://purl.obolibrary.org/obo/NCIT_C8366) (Intraepithelial Neoplasia) 23.93%
-- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 23.19%
-- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 23.02%
 - [NCIT:C4086](http://purl.obolibrary.org/obo/NCIT_C4086) (Dysplasia) 22.92%
-- [NCIT:C35886](http://purl.obolibrary.org/obo/NCIT_C35886) (Morphologic Architectural Pattern) 21.27%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 13.94%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 15.16%
+- [CL:0000066](http://purl.obolibrary.org/obo/CL_0000066) (epithelial cell) 12.76%
 - [NCIT:C3824](http://purl.obolibrary.org/obo/NCIT_C3824) (Lesion) 12.50%
+- [CL:0000548](http://purl.obolibrary.org/obo/CL_0000548) (animal cell) 10.07%
+- [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) 10.07%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0000474](http://purl.obolibrary.org/obo/UBERON_0000474) (female reproductive system) 75.00%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) 53.87%
-- [UBERON:0000990](http://purl.obolibrary.org/obo/UBERON_0000990) (reproductive system) 53.87%
-- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 51.81%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 51.70%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 51.60%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 51.59%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 51.45%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 51.44%
-- Thing 50.92%
-- [UBERON:0000991](http://purl.obolibrary.org/obo/UBERON_0000991) (gonad) 42.68%
-- [UBERON:0003133](http://purl.obolibrary.org/obo/UBERON_0003133) (reproductive organ) 36.47%
-- [UBERON:0000467](http://purl.obolibrary.org/obo/UBERON_0000467) (anatomical system) 32.81%
-- [UBERON:0005156](http://purl.obolibrary.org/obo/UBERON_0005156) (reproductive structure) 30.49%
-- [UBERON:0000062](http://purl.obolibrary.org/obo/UBERON_0000062) (organ) 28.13%
+- [UBERON:0003134](http://purl.obolibrary.org/obo/UBERON_0003134) (female reproductive organ) 54.17%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) 54.17%
+- [UBERON:0000474](http://purl.obolibrary.org/obo/UBERON_0000474) (female reproductive system) 54.17%
+- [NCIT:C61450](http://purl.obolibrary.org/obo/NCIT_C61450) (Neoplastic Sex Cord-Stromal Cell Resembling Steroid Hormone-Secreting Cell) 54.17%
+- [NCIT:C36895](http://purl.obolibrary.org/obo/NCIT_C36895) (Neoplastic Sertoli Cell) 54.17%
+- [NCIT:C33246](http://purl.obolibrary.org/obo/NCIT_C33246) (Ovarian Tissue) 54.17%
+- [UBERON:0000991](http://purl.obolibrary.org/obo/UBERON_0000991) (gonad) and [UBERON:0003134](http://purl.obolibrary.org/obo/UBERON_0003134) (female reproductive organ) 54.17%
+- Thing 52.82%
+- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) 39.96%
+- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) 39.52%
+- [UBERON:0000991](http://purl.obolibrary.org/obo/UBERON_0000991) (gonad) 33.03%
+- [UBERON:0000990](http://purl.obolibrary.org/obo/UBERON_0000990) (reproductive system) 33.03%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) 33.03%
+- [UBERON:0003133](http://purl.obolibrary.org/obo/UBERON_0003133) (reproductive organ) 29.17%
+- [NCIT:C37150](http://purl.obolibrary.org/obo/NCIT_C37150) (Neoplastic Stromal Cell) 24.58%
 
 

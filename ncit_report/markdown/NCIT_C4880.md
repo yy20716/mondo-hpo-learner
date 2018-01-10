@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C53415](http://purl.obolibrary.org/obo/NCIT_C53415) (Locally Aggressive Lesion) 75.00%
-- Thing 50.92%
-- [UBERON:0001474](http://purl.obolibrary.org/obo/UBERON_0001474) (bone element) 33.01%
-- [NCIT:C3824](http://purl.obolibrary.org/obo/NCIT_C3824) (Lesion) 31.25%
-- [UBERON:0004765](http://purl.obolibrary.org/obo/UBERON_0004765) (skeletal element) 30.36%
-- [UBERON:0000062](http://purl.obolibrary.org/obo/UBERON_0000062) (organ) 28.13%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 26.78%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 26.36%
-- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 26.31%
-- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 26.28%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 26.21%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 26.13%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 26.12%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 26.03%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 26.02%
+- Thing 55.15%
+- [NCIT:C53415](http://purl.obolibrary.org/obo/NCIT_C53415) (Locally Aggressive Lesion) 51.25%
+- [NCIT:C41457](http://purl.obolibrary.org/obo/NCIT_C41457) (Well-Circumscribed Lesion) 51.25%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 38.71%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 36.65%
+- [NCIT:C53696](http://purl.obolibrary.org/obo/NCIT_C53696) (Lesion with Diameter of 2cm or Less) 36.61%
+- [NCIT:C51138](http://purl.obolibrary.org/obo/NCIT_C51138) (Lesion with Diameter Greater than 2cm) 36.61%
+- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) 36.61%
+- [NCIT:C53696](http://purl.obolibrary.org/obo/NCIT_C53696) (Lesion with Diameter of 2cm or Less) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 36.61%
+- [NCIT:C53696](http://purl.obolibrary.org/obo/NCIT_C53696) (Lesion with Diameter of 2cm or Less) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 36.61%
+- [NCIT:C53696](http://purl.obolibrary.org/obo/NCIT_C53696) (Lesion with Diameter of 2cm or Less) and (not ([NCIT:C40104](http://purl.obolibrary.org/obo/NCIT_C40104) (Fallopian Tube Transitional Cell Carcinoma))) 36.61%
+- [NCIT:C53696](http://purl.obolibrary.org/obo/NCIT_C53696) (Lesion with Diameter of 2cm or Less) and (not ([NCIT:C40103](http://purl.obolibrary.org/obo/NCIT_C40103) (Fallopian Tube Mucinous Adenocarcinoma))) 36.61%
+- [NCIT:C53696](http://purl.obolibrary.org/obo/NCIT_C53696) (Lesion with Diameter of 2cm or Less) and (not ([NCIT:C40093](http://purl.obolibrary.org/obo/NCIT_C40093) (Ovarian Squamous Cell Carcinoma))) 36.61%
+- [NCIT:C53696](http://purl.obolibrary.org/obo/NCIT_C53696) (Lesion with Diameter of 2cm or Less) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 36.61%
+- [NCIT:C53696](http://purl.obolibrary.org/obo/NCIT_C53696) (Lesion with Diameter of 2cm or Less) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 36.61%
 
 

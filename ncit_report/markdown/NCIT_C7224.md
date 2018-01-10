@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast) 75.00%
-- [NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 75.00%
-- [NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 75.00%
-- [NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 75.00%
-- [NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 75.00%
-- [NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 75.00%
-- [NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 75.00%
-- [NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 75.00%
-- [NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 75.00%
-- [NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 75.00%
-- [NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 75.00%
-- [NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 75.00%
-- [NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast) and (not ([UBERON:2001431](http://purl.obolibrary.org/obo/UBERON_2001431) (primitive olfactory epithelium))) 75.00%
-- [NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast) and (not ([UBERON:2001073](http://purl.obolibrary.org/obo/UBERON_2001073) (axial vasculature))) 75.00%
-- [NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast) and (not ([UBERON:2001053](http://purl.obolibrary.org/obo/UBERON_2001053) (future internal carotid artery))) 75.00%
+- [UBERON:0000167](http://purl.obolibrary.org/obo/UBERON_0000167) (oral cavity) 62.50%
+- [NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast) 62.50%
+- Thing 51.63%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) 47.86%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C40214](http://purl.obolibrary.org/obo/NCIT_C40214) (Cervical Large Cell Neuroendocrine Carcinoma))) 47.86%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C4021](http://purl.obolibrary.org/obo/NCIT_C4021) (Chondroblastic Osteosarcoma))) 47.86%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C40209](http://purl.obolibrary.org/obo/NCIT_C40209) (Cervical Glandular Dysplasia))) 47.86%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C40208](http://purl.obolibrary.org/obo/NCIT_C40208) (Cervical Villoglandular Adenocarcinoma))) 47.86%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C40206](http://purl.obolibrary.org/obo/NCIT_C40206) (Cervical Mucinous Adenocarcinoma, Minimal Deviation Type))) 47.86%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C40205](http://purl.obolibrary.org/obo/NCIT_C40205) (Cervical Mucinous Adenocarcinoma, Signet Ring Cell Type))) 47.86%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C40203](http://purl.obolibrary.org/obo/NCIT_C40203) (Cervical Mucinous Adenocarcinoma, Intestinal-Type))) 47.86%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C40201](http://purl.obolibrary.org/obo/NCIT_C40201) (Cervical Serous Adenocarcinoma))) 47.86%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C4020](http://purl.obolibrary.org/obo/NCIT_C4020) (Fibroblastic Osteosarcoma))) 47.86%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C40199](http://purl.obolibrary.org/obo/NCIT_C40199) (Cervical Squamous Intraepithelial Neoplasia 1))) 47.86%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C40198](http://purl.obolibrary.org/obo/NCIT_C40198) (Cervical Squamous Intraepithelial Neoplasia 2))) 47.86%
 
 

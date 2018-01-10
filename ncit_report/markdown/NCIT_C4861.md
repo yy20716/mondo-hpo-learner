@@ -10,7 +10,7 @@
 - [NCIT:C36416](http://purl.obolibrary.org/obo/NCIT_C36416) (t(8;16)(p11;p13)) 62.50%
 - [NCIT:C36242](http://purl.obolibrary.org/obo/NCIT_C36242) (Neoplastic Promonocytes in Bone Marrow Markedly Increased) 62.50%
 - [NCIT:C35985](http://purl.obolibrary.org/obo/NCIT_C35985) (Hemophagocytosis) 62.50%
-- Thing 51.30%
+- Thing 51.63%
 - [NCIT:C42719](http://purl.obolibrary.org/obo/NCIT_C42719) (Cells of Monocytic Lineage 80 Percent or More of Bone Marrow Leukemic Cells) 41.37%
 - [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 26.92%
 - [NCIT:C41063](http://purl.obolibrary.org/obo/NCIT_C41063) (Neoplastic Myeloid Cell) 23.97%

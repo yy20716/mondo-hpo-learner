@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0000996](http://purl.obolibrary.org/obo/UBERON_0000996) (vagina) 66.67%
-- [UBERON:0000474](http://purl.obolibrary.org/obo/UBERON_0000474) (female reproductive system) 66.67%
-- [UBERON:0001344](http://purl.obolibrary.org/obo/UBERON_0001344) (epithelium of vagina) and (not ([UBERON:0006923](http://purl.obolibrary.org/obo/UBERON_0006923) (vagina squamous epithelium))) 66.67%
-- [UBERON:0001344](http://purl.obolibrary.org/obo/UBERON_0001344) (epithelium of vagina) and (not ([UBERON:0006915](http://purl.obolibrary.org/obo/UBERON_0006915) (stratified squamous epithelium))) 66.67%
-- [UBERON:0001344](http://purl.obolibrary.org/obo/UBERON_0001344) (epithelium of vagina) and (not ([UBERON:0006914](http://purl.obolibrary.org/obo/UBERON_0006914) (squamous epithelium))) 66.67%
-- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 52.21%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 52.09%
-- [UBERON:0001344](http://purl.obolibrary.org/obo/UBERON_0001344) (epithelium of vagina) 52.02%
-- [UBERON:0001344](http://purl.obolibrary.org/obo/UBERON_0001344) (epithelium of vagina) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 52.02%
-- [UBERON:0001344](http://purl.obolibrary.org/obo/UBERON_0001344) (epithelium of vagina) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 52.02%
-- [UBERON:0001344](http://purl.obolibrary.org/obo/UBERON_0001344) (epithelium of vagina) and (not (CARO:0010000)) 52.02%
-- [UBERON:0001344](http://purl.obolibrary.org/obo/UBERON_0001344) (epithelium of vagina) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 52.02%
-- [UBERON:0001344](http://purl.obolibrary.org/obo/UBERON_0001344) (epithelium of vagina) and (not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null))) 52.02%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 51.96%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 51.95%
+- [NCIT:C35220](http://purl.obolibrary.org/obo/NCIT_C35220) (Postcoital Bleeding) 53.85%
+- [NCIT:C26945](http://purl.obolibrary.org/obo/NCIT_C26945) (Vaginal Hemorrhage) 53.85%
+- Thing 52.93%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) and (not ([NCIT:C34937](http://purl.obolibrary.org/obo/NCIT_C34937) (Postmenopausal Hemorrhage))) 48.52%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) and (not ([NCIT:C34818](http://purl.obolibrary.org/obo/NCIT_C34818) (Metrorrhagia))) 48.52%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) 43.05%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) and (not ([NCIT:C40021](http://purl.obolibrary.org/obo/NCIT_C40021) (Ovarian Lymphoma))) 43.05%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 43.05%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 43.05%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 43.05%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 43.05%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 43.05%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 43.05%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 43.05%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 43.05%
 
 

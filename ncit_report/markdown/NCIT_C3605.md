@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0000948](http://purl.obolibrary.org/obo/UBERON_0000948) (heart) 75.00%
-- [UBERON:0007100](http://purl.obolibrary.org/obo/UBERON_0007100) (primary circulatory organ) and [UBERON:0010314](http://purl.obolibrary.org/obo/UBERON_0010314) (structure with developmental contribution from neural crest) 75.00%
-- [UBERON:0005181](http://purl.obolibrary.org/obo/UBERON_0005181) (thoracic segment organ) and [UBERON:0007100](http://purl.obolibrary.org/obo/UBERON_0007100) (primary circulatory organ) 75.00%
-- [UBERON:0005177](http://purl.obolibrary.org/obo/UBERON_0005177) (trunk region element) and [UBERON:0007100](http://purl.obolibrary.org/obo/UBERON_0007100) (primary circulatory organ) 75.00%
-- [UBERON:0004120](http://purl.obolibrary.org/obo/UBERON_0004120) (mesoderm-derived structure) and [UBERON:0007100](http://purl.obolibrary.org/obo/UBERON_0007100) (primary circulatory organ) 75.00%
-- [UBERON:0000948](http://purl.obolibrary.org/obo/UBERON_0000948) (heart) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 75.00%
-- [UBERON:0000948](http://purl.obolibrary.org/obo/UBERON_0000948) (heart) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 75.00%
-- [UBERON:0000948](http://purl.obolibrary.org/obo/UBERON_0000948) (heart) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 75.00%
-- [UBERON:0000948](http://purl.obolibrary.org/obo/UBERON_0000948) (heart) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 75.00%
-- [UBERON:0000948](http://purl.obolibrary.org/obo/UBERON_0000948) (heart) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 75.00%
-- [UBERON:0000948](http://purl.obolibrary.org/obo/UBERON_0000948) (heart) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 75.00%
-- [UBERON:0000948](http://purl.obolibrary.org/obo/UBERON_0000948) (heart) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 75.00%
-- [UBERON:0000948](http://purl.obolibrary.org/obo/UBERON_0000948) (heart) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 75.00%
-- [UBERON:0000948](http://purl.obolibrary.org/obo/UBERON_0000948) (heart) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 75.00%
-- [UBERON:0000948](http://purl.obolibrary.org/obo/UBERON_0000948) (heart) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 75.00%
+- [CL:0002494](http://purl.obolibrary.org/obo/CL_0002494) (cardiocyte) 53.33%
+- [CL:0000746](http://purl.obolibrary.org/obo/CL_0000746) (cardiac muscle cell) 53.33%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and [CL:0002494](http://purl.obolibrary.org/obo/CL_0002494) (cardiocyte) 53.33%
+- Thing 53.15%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 39.30%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 39.29%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) 38.69%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C3994](http://purl.obolibrary.org/obo/NCIT_C3994) (Stage IV Colon Cancer AJCC v6))) 38.69%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C3993](http://purl.obolibrary.org/obo/NCIT_C3993) (Stage II Colon Cancer AJCC v6))) 38.69%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39914](http://purl.obolibrary.org/obo/NCIT_C39914) (Gain of Chromosome 12p))) 38.69%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C3991](http://purl.obolibrary.org/obo/NCIT_C3991) (Thrombocytopenia Due to Immune Destruction))) 38.69%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39909](http://purl.obolibrary.org/obo/NCIT_C39909) (Gain of Chromosome 18q))) 38.69%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39907](http://purl.obolibrary.org/obo/NCIT_C39907) (Seminal Vesicle Cystadenoma))) 38.69%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39906](http://purl.obolibrary.org/obo/NCIT_C39906) (Seminal Vesicle Adenocarcinoma))) 38.69%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39905](http://purl.obolibrary.org/obo/NCIT_C39905) (Prostate Stromal Proliferation of Uncertain Malignant Potential))) 38.69%
 
 

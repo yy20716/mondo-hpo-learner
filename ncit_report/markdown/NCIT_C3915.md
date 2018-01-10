@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C60707](http://purl.obolibrary.org/obo/NCIT_C60707) (Neuron-Specific Enolase Positive Neoplastic Cells Present) 58.33%
-- [NCIT:C36104](http://purl.obolibrary.org/obo/NCIT_C36104) (Aggressive Clinical Course) 58.33%
-- Thing 51.59%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) 43.69%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36973](http://purl.obolibrary.org/obo/NCIT_C36973) (Multivacuolated Lipoblast))) 43.69%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36972](http://purl.obolibrary.org/obo/NCIT_C36972) (Monovacuolated Lipoblast))) 43.69%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36966](http://purl.obolibrary.org/obo/NCIT_C36966) (Malignant Glomus Cell))) 43.69%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36959](http://purl.obolibrary.org/obo/NCIT_C36959) (Neoplastic Fibroblast-Like Cell))) 43.69%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36957](http://purl.obolibrary.org/obo/NCIT_C36957) (Neoplastic Spindle-Shaped Myofibroblast))) 43.69%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36953](http://purl.obolibrary.org/obo/NCIT_C36953) (Bizarre Cell with Evidence of Skeletal Muscle Differentiation))) 43.69%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36951](http://purl.obolibrary.org/obo/NCIT_C36951) (Round Cell with Primitive Myoblastic Differentiation))) 43.69%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36944](http://purl.obolibrary.org/obo/NCIT_C36944) (Malignant Small Undifferentiated Cell))) 43.69%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36923](http://purl.obolibrary.org/obo/NCIT_C36923) (Neoplastic Endocrine Null Cell))) 43.69%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36921](http://purl.obolibrary.org/obo/NCIT_C36921) (Neoplastic Gonadotroph Cell))) 43.69%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36908](http://purl.obolibrary.org/obo/NCIT_C36908) (Apocrine Carcinoma Cell))) 43.69%
+- Thing 55.98%
+- [NCIT:C48592](http://purl.obolibrary.org/obo/NCIT_C48592) (Gastrointestinal Hemorrhage) 52.78%
+- [NCIT:C119722](http://purl.obolibrary.org/obo/NCIT_C119722) (Digestive System Hemorrhage) 52.78%
+- [NCIT:C26791](http://purl.obolibrary.org/obo/NCIT_C26791) (Hemorrhage) and [NCIT:C36279](http://purl.obolibrary.org/obo/NCIT_C36279) (Digestive System Finding) 52.78%
+- [NCIT:C26791](http://purl.obolibrary.org/obo/NCIT_C26791) (Hemorrhage) and [NCIT:C3368](http://purl.obolibrary.org/obo/NCIT_C3368) (Digestive System Signs and Symptoms) 52.78%
+- [NCIT:C100104](http://purl.obolibrary.org/obo/NCIT_C100104) (Sign or Symptom) and [NCIT:C26791](http://purl.obolibrary.org/obo/NCIT_C26791) (Hemorrhage) 52.78%
+- [NCIT:C100104](http://purl.obolibrary.org/obo/NCIT_C100104) (Sign or Symptom) and [NCIT:C26791](http://purl.obolibrary.org/obo/NCIT_C26791) (Hemorrhage) and [NCIT:C36279](http://purl.obolibrary.org/obo/NCIT_C36279) (Digestive System Finding) 52.78%
+- [NCIT:C100104](http://purl.obolibrary.org/obo/NCIT_C100104) (Sign or Symptom) and [NCIT:C26791](http://purl.obolibrary.org/obo/NCIT_C26791) (Hemorrhage) and [NCIT:C36278](http://purl.obolibrary.org/obo/NCIT_C36278) (Finding by Site or System) 52.78%
+- [NCIT:C78438](http://purl.obolibrary.org/obo/NCIT_C78438) (Lower Gastrointestinal Hemorrhage) 51.85%
+- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) 51.85%
+- [NCIT:C78660](http://purl.obolibrary.org/obo/NCIT_C78660) (Upper Gastrointestinal Hemorrhage) 50.93%
+- [NCIT:C54582](http://purl.obolibrary.org/obo/NCIT_C54582) (Gastric Hemorrhage) 50.93%
+- [NCIT:C36633](http://purl.obolibrary.org/obo/NCIT_C36633) (Gain of Chromosome 6p) 50.93%
+- [NCIT:C36571](http://purl.obolibrary.org/obo/NCIT_C36571) (Loss of Chromosome 4) 50.93%
+- [NCIT:C36516](http://purl.obolibrary.org/obo/NCIT_C36516) (Loss of Chromosome 10q) 50.93%
 
 

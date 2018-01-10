@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0004670](http://purl.obolibrary.org/obo/UBERON_0004670) (ependyma) 75.00%
-- [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) (brain) 75.00%
-- [UBERON:0004121](http://purl.obolibrary.org/obo/UBERON_0004121) (ectoderm-derived structure) 54.20%
-- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 51.86%
-- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 51.81%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 51.70%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 51.60%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 51.59%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 51.45%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 51.44%
-- Thing 50.92%
-- [UBERON:0010371](http://purl.obolibrary.org/obo/UBERON_0010371) (ecto-epithelium) 32.54%
-- [UBERON:0000483](http://purl.obolibrary.org/obo/UBERON_0000483) (epithelium) 28.57%
-- [UBERON:0000062](http://purl.obolibrary.org/obo/UBERON_0000062) (organ) 28.13%
-- [UBERON:0000479](http://purl.obolibrary.org/obo/UBERON_0000479) (tissue) 27.35%
+- [UBERON:0004670](http://purl.obolibrary.org/obo/UBERON_0004670) (ependyma) 53.85%
+- [UBERON:0002308](http://purl.obolibrary.org/obo/UBERON_0002308) (nucleus of brain) 53.85%
+- [UBERON:0002298](http://purl.obolibrary.org/obo/UBERON_0002298) (brainstem) 53.85%
+- [UBERON:0002037](http://purl.obolibrary.org/obo/UBERON_0002037) (cerebellum) 53.85%
+- [UBERON:0001869](http://purl.obolibrary.org/obo/UBERON_0001869) (cerebral hemisphere) 53.85%
+- [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) (brain) 53.85%
+- [UBERON:0000125](http://purl.obolibrary.org/obo/UBERON_0000125) (neural nucleus) 53.85%
+- [NCIT:C12512](http://purl.obolibrary.org/obo/NCIT_C12512) (Supratentorial Brain) 53.85%
+- [NCIT:C12509](http://purl.obolibrary.org/obo/NCIT_C12509) (Infratentorial Brain) 53.85%
+- Thing 52.93%
+- [UBERON:0002616](http://purl.obolibrary.org/obo/UBERON_0002616) (regional part of brain) and [UBERON:0010314](http://purl.obolibrary.org/obo/UBERON_0010314) (structure with developmental contribution from neural crest) 48.52%
+- [UBERON:0002616](http://purl.obolibrary.org/obo/UBERON_0002616) (regional part of brain) 42.16%
+- [UBERON:0004121](http://purl.obolibrary.org/obo/UBERON_0004121) (ectoderm-derived structure) 37.13%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 32.55%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 31.91%
 
 

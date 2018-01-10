@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C37026](http://purl.obolibrary.org/obo/NCIT_C37026) (Hodgkin-Like Cell) 56.25%
-- [NCIT:C28079](http://purl.obolibrary.org/obo/NCIT_C28079) (Grade 3) 56.25%
-- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast))) 56.25%
-- Thing 51.84%
-- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) 41.61%
-- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C37175](http://purl.obolibrary.org/obo/NCIT_C37175) (Neutrophil with Pseudo Chediak-Higashi Granules))) 41.61%
-- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C37174](http://purl.obolibrary.org/obo/NCIT_C37174) (Neutrophil with Cytoplasmic Hypogranularity))) 41.61%
-- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C37172](http://purl.obolibrary.org/obo/NCIT_C37172) (Hypolobated Neutrophil))) 41.61%
-- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C37169](http://purl.obolibrary.org/obo/NCIT_C37169) (Multilobated Neoplastic B-Lymphocyte))) 41.61%
-- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C37165](http://purl.obolibrary.org/obo/NCIT_C37165) (Atypical Lymphocyte))) 41.61%
-- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C37161](http://purl.obolibrary.org/obo/NCIT_C37161) (Small Meningothelial Cell))) 41.61%
-- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C37160](http://purl.obolibrary.org/obo/NCIT_C37160) (Meningothelial Cell with Clear Cytoplasm))) 41.61%
-- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C37159](http://purl.obolibrary.org/obo/NCIT_C37159) (Eosinophilic Meningothelial Cell))) 41.61%
-- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C37157](http://purl.obolibrary.org/obo/NCIT_C37157) (Meningothelial Cell with Elongated Processes))) 41.61%
-- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C37156](http://purl.obolibrary.org/obo/NCIT_C37156) (Spindle-Shaped Meningothelial Cell))) 41.61%
+- [NCIT:C37026](http://purl.obolibrary.org/obo/NCIT_C37026) (Hodgkin-Like Cell) 57.14%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast))) 57.14%
+- Thing 52.15%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) 42.50%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C39819](http://purl.obolibrary.org/obo/NCIT_C39819) (Infiltrating Bladder Urothelial Carcinoma, Nested Variant))) 42.50%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C39818](http://purl.obolibrary.org/obo/NCIT_C39818) (Infiltrating Bladder Urothelial Carcinoma with Trophoblastic Differentiation))) 42.50%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C39817](http://purl.obolibrary.org/obo/NCIT_C39817) (Infiltrating Bladder Urothelial Carcinoma with Glandular Differentiation))) 42.50%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C39816](http://purl.obolibrary.org/obo/NCIT_C39816) (Infiltrating Bladder Urothelial Carcinoma with Squamous Differentiation))) 42.50%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C39815](http://purl.obolibrary.org/obo/NCIT_C39815) (Cellular Congenital Mesoblastic Nephroma))) 42.50%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C39814](http://purl.obolibrary.org/obo/NCIT_C39814) (Classic Congenital Mesoblastic Nephroma))) 42.50%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C39813](http://purl.obolibrary.org/obo/NCIT_C39813) (SMARCB1 Gene Inactivation))) 42.50%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C39812](http://purl.obolibrary.org/obo/NCIT_C39812) (Metanephric Adenofibroma))) 42.50%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C39811](http://purl.obolibrary.org/obo/NCIT_C39811) (t(5;11)(q35;q13)))) 42.50%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C39810](http://purl.obolibrary.org/obo/NCIT_C39810) (Type 2 Renal Papillary Adenoma))) 42.50%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C39809](http://purl.obolibrary.org/obo/NCIT_C39809) (Type 1 Renal Papillary Adenoma))) 42.50%
 
 

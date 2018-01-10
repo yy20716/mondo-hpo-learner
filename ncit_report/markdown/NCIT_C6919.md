@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 51.59%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 45.64%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 44.70%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) 43.69%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37041](http://purl.obolibrary.org/obo/NCIT_C37041) (Neoplastic Monocyte))) 43.69%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C3704](http://purl.obolibrary.org/obo/NCIT_C3704) (Dedifferentiated Liposarcoma))) 43.69%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37039](http://purl.obolibrary.org/obo/NCIT_C37039) (Large Atypical Platelet))) 43.69%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37032](http://purl.obolibrary.org/obo/NCIT_C37032) (Abnormal Eosinophil))) 43.69%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37030](http://purl.obolibrary.org/obo/NCIT_C37030) (Toxic Neutrophil))) 43.69%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37027](http://purl.obolibrary.org/obo/NCIT_C37027) (Popcorn Cell))) 43.69%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37026](http://purl.obolibrary.org/obo/NCIT_C37026) (Hodgkin-Like Cell))) 43.69%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37025](http://purl.obolibrary.org/obo/NCIT_C37025) (Mummified Cell))) 43.69%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37024](http://purl.obolibrary.org/obo/NCIT_C37024) (Reed-Sternberg-Like Cell))) 43.69%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37023](http://purl.obolibrary.org/obo/NCIT_C37023) (Lacunar Reed-Sternberg Cell))) 43.69%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37021](http://purl.obolibrary.org/obo/NCIT_C37021) (Hodgkin Cell))) 43.69%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39620](http://purl.obolibrary.org/obo/NCIT_C39620) (Dermatopathic Lymphadenopathy))) 57.14%
+- Thing 52.15%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 47.21%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 46.18%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) 42.50%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 42.50%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 42.50%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39963](http://purl.obolibrary.org/obo/NCIT_C39963) (Penile Bowenoid Papulosis))) 42.50%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39961](http://purl.obolibrary.org/obo/NCIT_C39961) (Penile Basal Cell Carcinoma))) 42.50%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39959](http://purl.obolibrary.org/obo/NCIT_C39959) (Mixed Squamous Cell Carcinoma of the Penis))) 42.50%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39957](http://purl.obolibrary.org/obo/NCIT_C39957) (Epididymal Adenocarcinoma))) 42.50%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39956](http://purl.obolibrary.org/obo/NCIT_C39956) (Rete Testis Adenoma))) 42.50%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C3994](http://purl.obolibrary.org/obo/NCIT_C3994) (Stage IV Colon Cancer AJCC v6))) 42.50%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C3993](http://purl.obolibrary.org/obo/NCIT_C3993) (Stage II Colon Cancer AJCC v6))) 42.50%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39914](http://purl.obolibrary.org/obo/NCIT_C39914) (Gain of Chromosome 12p))) 42.50%
 
 

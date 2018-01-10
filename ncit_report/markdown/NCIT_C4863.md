@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) (prostate gland) 75.00%
-- [UBERON:0000428](http://purl.obolibrary.org/obo/UBERON_0000428) (prostate epithelium) 75.00%
-- [UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure) and [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) 75.00%
-- [UBERON:0000077](http://purl.obolibrary.org/obo/UBERON_0000077) (mixed endoderm/mesoderm-derived structure) and [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) 75.00%
-- [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) and (not ([UBERON:0010186](http://purl.obolibrary.org/obo/UBERON_0010186) (male urethral gland))) 75.00%
-- [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) and (not ([UBERON:0006868](http://purl.obolibrary.org/obo/UBERON_0006868) (seminal fluid secreting gland))) 75.00%
-- [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) and (not ([UBERON:0002366](http://purl.obolibrary.org/obo/UBERON_0002366) (bulbo-urethral gland))) 75.00%
-- [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) and (not ([UBERON:0002365](http://purl.obolibrary.org/obo/UBERON_0002365) (exocrine gland))) 75.00%
-- [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) and (not ([UBERON:0001338](http://purl.obolibrary.org/obo/UBERON_0001338) (urethral gland))) 75.00%
-- [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) and (not ([UBERON:0000414](http://purl.obolibrary.org/obo/UBERON_0000414) (mucous gland))) 75.00%
-- [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) (prostate gland) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 75.00%
-- [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) (prostate gland) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 75.00%
-- [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) (prostate gland) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 75.00%
-- [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) (prostate gland) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 75.00%
-- [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) (prostate gland) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 75.00%
+- Thing 55.46%
+- [NCIT:C82366](http://purl.obolibrary.org/obo/NCIT_C82366) (ERG Gene Rearrangement) 51.11%
+- [NCIT:C82365](http://purl.obolibrary.org/obo/NCIT_C82365) (TMPRSS2-ERG Fusion Protein Expression) 51.11%
+- [NCIT:C79904](http://purl.obolibrary.org/obo/NCIT_C79904) (TMPRSS2/ERG Fusion Gene) 51.11%
+- [NCIT:C60371](http://purl.obolibrary.org/obo/NCIT_C60371) (Absence of Basal Cell Layer) 51.11%
+- [NCIT:C60359](http://purl.obolibrary.org/obo/NCIT_C60359) (Prostatic Crystalloids Present) 51.11%
+- [NCIT:C60308](http://purl.obolibrary.org/obo/NCIT_C60308) (More than 10 Mitoses per 10HPF) 51.11%
+- [NCIT:C54062](http://purl.obolibrary.org/obo/NCIT_C54062) (Hereditary Lesion) 51.11%
+- [NCIT:C48260](http://purl.obolibrary.org/obo/NCIT_C48260) (Perineural Invasion) 51.11%
+- [NCIT:C40557](http://purl.obolibrary.org/obo/NCIT_C40557) (Metastatic Lesion) 51.11%
+- [NCIT:C39909](http://purl.obolibrary.org/obo/NCIT_C39909) (Gain of Chromosome 18q) 51.11%
+- [NCIT:C38644](http://purl.obolibrary.org/obo/NCIT_C38644) (Bone Pain) 51.11%
+- [NCIT:C36692](http://purl.obolibrary.org/obo/NCIT_C36692) (PTEN Gene Inactivation) 51.11%
+- [NCIT:C36658](http://purl.obolibrary.org/obo/NCIT_C36658) (Gain of Chromosome Xq) 51.11%
+- [NCIT:C36516](http://purl.obolibrary.org/obo/NCIT_C36516) (Loss of Chromosome 10q) 51.11%
 
 

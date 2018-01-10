@@ -8,7 +8,7 @@
 
 - [NCIT:C38423](http://purl.obolibrary.org/obo/NCIT_C38423) (Pleomorphic Reed-Sternberg Cell) 75.00%
 - [NCIT:C36104](http://purl.obolibrary.org/obo/NCIT_C36104) (Aggressive Clinical Course) 75.00%
-- Thing 50.92%
+- Thing 51.15%
 - [NCIT:C12660](http://purl.obolibrary.org/obo/NCIT_C12660) (Reed-Sternberg Cell) 43.90%
 - [NCIT:C37008](http://purl.obolibrary.org/obo/NCIT_C37008) (Neoplastic Large Lymphocyte) 35.66%
 - [NCIT:C35461](http://purl.obolibrary.org/obo/NCIT_C35461) (Clinical Course of Disease) 33.70%

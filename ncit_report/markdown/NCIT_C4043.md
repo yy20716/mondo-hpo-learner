@@ -11,7 +11,7 @@
 - [NCIT:C2980](http://purl.obolibrary.org/obo/NCIT_C2980) (Dysphagia) 66.67%
 - [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 53.08%
 - [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 52.35%
-- Thing 51.13%
+- Thing 51.41%
 - [NCIT:C85403](http://purl.obolibrary.org/obo/NCIT_C85403) (Respiratory System Signs and Symptoms) 41.67%
 - [NCIT:C45233](http://purl.obolibrary.org/obo/NCIT_C45233) (Respiratory System Finding) 41.67%
 - [NCIT:C100104](http://purl.obolibrary.org/obo/NCIT_C100104) (Sign or Symptom) 41.61%
@@ -19,7 +19,7 @@
 - [NCIT:C3368](http://purl.obolibrary.org/obo/NCIT_C3368) (Digestive System Signs and Symptoms) 30.03%
 - [NCIT:C36279](http://purl.obolibrary.org/obo/NCIT_C36279) (Digestive System Finding) 28.79%
 - [NCIT:C34808](http://purl.obolibrary.org/obo/NCIT_C34808) (Mass) 27.85%
-- CP:0000037 0.00%
-- CP:0000035 0.00%
+- Error3 0.00%
+- Error20 0.00%
 
 

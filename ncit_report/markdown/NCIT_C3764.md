@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 51.13%
-- [NCIT:C33923](http://purl.obolibrary.org/obo/NCIT_C33923) (Glandular Cell) 35.56%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 34.78%
-- [NCIT:C36764](http://purl.obolibrary.org/obo/NCIT_C36764) (Abnormal Glandular Cell) 23.07%
-- [CL:0000066](http://purl.obolibrary.org/obo/CL_0000066) (epithelial cell) 21.82%
-- [NCIT:C36753](http://purl.obolibrary.org/obo/NCIT_C36753) (Neoplastic Epithelial Cell) 21.12%
-- [NCIT:C36745](http://purl.obolibrary.org/obo/NCIT_C36745) (Abnormal Epithelial Cell) 21.10%
-- [CL:0000548](http://purl.obolibrary.org/obo/CL_0000548) (animal cell) 19.64%
-- [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) 19.64%
-- [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) (native cell) 19.43%
-- [GO:0005623](http://purl.obolibrary.org/obo/GO_0005623) (cell) 19.42%
-- [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000) (cell) 19.39%
-- [GO:0005575](http://purl.obolibrary.org/obo/GO_0005575) (cellular_component) 19.23%
-- [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) 19.15%
-- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 19.03%
+- Thing 53.73%
+- [NCIT:C3884](http://purl.obolibrary.org/obo/NCIT_C3884) (Skin Cyst) 52.38%
+- [NCIT:C3134](http://purl.obolibrary.org/obo/NCIT_C3134) (Epidermal Inclusion Cyst) 52.38%
+- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C27054](http://purl.obolibrary.org/obo/NCIT_C27054) (Rectal Hemorrhage))) 52.38%
+- [NCIT:C78438](http://purl.obolibrary.org/obo/NCIT_C78438) (Lower Gastrointestinal Hemorrhage) 37.74%
+- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) 37.74%
+- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C40021](http://purl.obolibrary.org/obo/NCIT_C40021) (Ovarian Lymphoma))) 37.74%
+- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 37.74%
+- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 37.74%
+- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 37.74%
+- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 37.74%
+- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 37.74%
+- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 37.74%
+- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 37.74%
+- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 37.74%
 
 

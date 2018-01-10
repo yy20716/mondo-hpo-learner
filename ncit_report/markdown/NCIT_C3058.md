@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C35989](http://purl.obolibrary.org/obo/NCIT_C35989) (Nuclear Atypia) 55.00%
-- [NCIT:C34661](http://purl.obolibrary.org/obo/NCIT_C34661) (Headache) 55.00%
-- [NCIT:C2962](http://purl.obolibrary.org/obo/NCIT_C2962) (Seizure) 55.00%
-- [NCIT:C28082](http://purl.obolibrary.org/obo/NCIT_C28082) (Grade 4) 55.00%
-- Thing 52.05%
-- [NCIT:C41455](http://purl.obolibrary.org/obo/NCIT_C41455) (Microvascular Proliferation) 40.36%
-- [NCIT:C41455](http://purl.obolibrary.org/obo/NCIT_C41455) (Microvascular Proliferation) and (not ([NCIT:C37205](http://purl.obolibrary.org/obo/NCIT_C37205) (Chronic Lymphocytic Leukemia with Unmutated Immunoglobulin Heavy Chain Variable-Region Gene))) 40.36%
-- [NCIT:C41455](http://purl.obolibrary.org/obo/NCIT_C41455) (Microvascular Proliferation) and (not ([NCIT:C37203](http://purl.obolibrary.org/obo/NCIT_C37203) (Small Lymphocytic Lymphoma with Immunoglobulin Heavy Chain Variable-Region Gene Somatic Hypermutation))) 40.36%
-- [NCIT:C41455](http://purl.obolibrary.org/obo/NCIT_C41455) (Microvascular Proliferation) and (not ([NCIT:C37202](http://purl.obolibrary.org/obo/NCIT_C37202) (Chronic Lymphocytic Leukemia with Immunoglobulin Heavy Chain Variable-Region Gene Somatic Hypermutation))) 40.36%
-- [NCIT:C41455](http://purl.obolibrary.org/obo/NCIT_C41455) (Microvascular Proliferation) and (not ([NCIT:C37196](http://purl.obolibrary.org/obo/NCIT_C37196) (Primary Systemic Anaplastic Large Cell Lymphoma, ALK-Negative))) 40.36%
-- [NCIT:C41455](http://purl.obolibrary.org/obo/NCIT_C41455) (Microvascular Proliferation) and (not ([NCIT:C37195](http://purl.obolibrary.org/obo/NCIT_C37195) (Primary Systemic Anaplastic Large Cell Lymphoma, ALK-Positive))) 40.36%
-- [NCIT:C41455](http://purl.obolibrary.org/obo/NCIT_C41455) (Microvascular Proliferation) and (not ([NCIT:C37191](http://purl.obolibrary.org/obo/NCIT_C37191) (Trisomy 11))) 40.36%
-- [NCIT:C41455](http://purl.obolibrary.org/obo/NCIT_C41455) (Microvascular Proliferation) and (not ([NCIT:C37189](http://purl.obolibrary.org/obo/NCIT_C37189) (del(17q25)))) 40.36%
-- [NCIT:C41455](http://purl.obolibrary.org/obo/NCIT_C41455) (Microvascular Proliferation) and (not ([NCIT:C37188](http://purl.obolibrary.org/obo/NCIT_C37188) (del(6q25-27)))) 40.36%
-- [NCIT:C41455](http://purl.obolibrary.org/obo/NCIT_C41455) (Microvascular Proliferation) and (not ([NCIT:C37185](http://purl.obolibrary.org/obo/NCIT_C37185) (Gain of Chromosome 12q13))) 40.36%
+- Thing 55.70%
+- [NCIT:C96868](http://purl.obolibrary.org/obo/NCIT_C96868) (PDGFRA Gene Amplification) 51.02%
+- [NCIT:C40558](http://purl.obolibrary.org/obo/NCIT_C40558) (Primary Lesion) 51.02%
+- [NCIT:C39719](http://purl.obolibrary.org/obo/NCIT_C39719) (PDGFRalpha Protein Overexpression) 51.02%
+- [NCIT:C39718](http://purl.obolibrary.org/obo/NCIT_C39718) (PDGFRA Gene Mutation) 51.02%
+- [NCIT:C39716](http://purl.obolibrary.org/obo/NCIT_C39716) (EGFR Protein Overexpression) 51.02%
+- [NCIT:C36692](http://purl.obolibrary.org/obo/NCIT_C36692) (PTEN Gene Inactivation) 51.02%
+- [NCIT:C36685](http://purl.obolibrary.org/obo/NCIT_C36685) (NF1 Gene Inactivation) 51.02%
+- [NCIT:C36681](http://purl.obolibrary.org/obo/NCIT_C36681) (MDM2 Gene Amplification) 51.02%
+- [NCIT:C36649](http://purl.obolibrary.org/obo/NCIT_C36649) (EGFR Gene Amplification) 51.02%
+- [NCIT:C36329](http://purl.obolibrary.org/obo/NCIT_C36329) (TP53 Gene Inactivation) 51.02%
+- [NCIT:C36180](http://purl.obolibrary.org/obo/NCIT_C36180) (Multifocal Lesion) 51.02%
+- [NCIT:C25939](http://purl.obolibrary.org/obo/NCIT_C25939) (Oxidoreductase Gene) 51.02%
+- [NCIT:C18345](http://purl.obolibrary.org/obo/NCIT_C18345) (MDM2 Gene) 51.02%
+- [NCIT:C17757](http://purl.obolibrary.org/obo/NCIT_C17757) (EGFR Gene) 51.02%
 
 

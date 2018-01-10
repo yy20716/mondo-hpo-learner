@@ -18,8 +18,8 @@
 - [NCIT:C37016](http://purl.obolibrary.org/obo/NCIT_C37016) (Neoplastic Large T-Lymphocyte) and [NCIT:C37018](http://purl.obolibrary.org/obo/NCIT_C37018) (Anaplastic Large Lymphocyte) 53.57%
 - [NCIT:C37008](http://purl.obolibrary.org/obo/NCIT_C37008) (Neoplastic Large Lymphocyte) and [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) 53.57%
 - [NCIT:C37016](http://purl.obolibrary.org/obo/NCIT_C37016) (Neoplastic Large T-Lymphocyte) and [NCIT:C37018](http://purl.obolibrary.org/obo/NCIT_C37018) (Anaplastic Large Lymphocyte) and [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) 53.57%
-- Thing 52.43%
+- Thing 53.04%
 - [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) 49.44%
-- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C13271](http://purl.obolibrary.org/obo/NCIT_C13271) (t(9;22)(q34.1;q11.2)))) 49.44%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C136815](http://purl.obolibrary.org/obo/NCIT_C136815) (Stage II Retroperitoneal Sarcoma AJCC v8))) 49.44%
 
 

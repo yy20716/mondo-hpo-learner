@@ -2,24 +2,24 @@
 ### [NCIT:C7596](http://purl.obolibrary.org/obo/NCIT_C7596)
 **Label:** Malignant Myoepithelioma
 
-**Subclasses:** [NCIT:C40395](http://purl.obolibrary.org/obo/NCIT_C40395) (Malignant Breast Myoepithelioma), [NCIT:C121787](http://purl.obolibrary.org/obo/NCIT_C121787) (Malignant Mixed Tumor, Not Otherwise Specified), [NCIT:C35700](http://purl.obolibrary.org/obo/NCIT_C35700) (Salivary Gland Myoepithelial Carcinoma), 
+**Subclasses:** [NCIT:C121787](http://purl.obolibrary.org/obo/NCIT_C121787) (Malignant Mixed Tumor, Not Otherwise Specified), [NCIT:C40395](http://purl.obolibrary.org/obo/NCIT_C40395) (Malignant Breast Myoepithelioma), [NCIT:C35700](http://purl.obolibrary.org/obo/NCIT_C35700) (Salivary Gland Myoepithelial Carcinoma), 
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell) 66.67%
-- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) 66.67%
-- [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) and [NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell) 66.67%
-- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36770](http://purl.obolibrary.org/obo/NCIT_C36770) (Neoplastic Myoepithelial Cell) 66.67%
-- [NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 66.67%
-- [NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 66.67%
-- [NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 66.67%
-- [NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 66.67%
-- [NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 66.67%
-- [NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 66.67%
-- [NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 66.67%
-- [NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 66.67%
-- [NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 66.67%
-- [NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 66.67%
-- [NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 66.67%
+- Thing 51.82%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) 45.36%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C3991](http://purl.obolibrary.org/obo/NCIT_C3991) (Thrombocytopenia Due to Immune Destruction))) 45.36%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39909](http://purl.obolibrary.org/obo/NCIT_C39909) (Gain of Chromosome 18q))) 45.36%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39907](http://purl.obolibrary.org/obo/NCIT_C39907) (Seminal Vesicle Cystadenoma))) 45.36%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39906](http://purl.obolibrary.org/obo/NCIT_C39906) (Seminal Vesicle Adenocarcinoma))) 45.36%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39905](http://purl.obolibrary.org/obo/NCIT_C39905) (Prostate Stromal Proliferation of Uncertain Malignant Potential))) 45.36%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39903](http://purl.obolibrary.org/obo/NCIT_C39903) (Prostate Adenocarcinoma with Focal Neuroendocrine Differentiation))) 45.36%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39902](http://purl.obolibrary.org/obo/NCIT_C39902) (Prostate Basal Cell Carcinoma))) 45.36%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39901](http://purl.obolibrary.org/obo/NCIT_C39901) (Prostatic Duct Urothelial Carcinoma))) 45.36%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39899](http://purl.obolibrary.org/obo/NCIT_C39899) (Secondary Prostate Urothelial Carcinoma))) 45.36%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39897](http://purl.obolibrary.org/obo/NCIT_C39897) (Prostate Ductal Adenocarcinoma, Solid Pattern))) 45.36%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39896](http://purl.obolibrary.org/obo/NCIT_C39896) (Prostate Ductal Adenocarcinoma, Papillary Pattern))) 45.36%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39895](http://purl.obolibrary.org/obo/NCIT_C39895) (Prostate Ductal Adenocarcinoma, Cribriform Pattern))) 45.36%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C3989](http://purl.obolibrary.org/obo/NCIT_C3989) (Parathyroid Hyperplasia))) 45.36%
 
 

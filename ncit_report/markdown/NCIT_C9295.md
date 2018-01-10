@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [CL:0002274](http://purl.obolibrary.org/obo/CL_0002274) (histamine secreting cell) 75.00%
-- [CL:0000097](http://purl.obolibrary.org/obo/CL_0000097) (mast cell) 75.00%
-- [NCIT:C37062](http://purl.obolibrary.org/obo/NCIT_C37062) (Neoplastic Mast Cell) 53.87%
-- Thing 50.92%
-- [CL:0000457](http://purl.obolibrary.org/obo/CL_0000457) (biogenic amine secreting cell) 45.41%
-- [CL:0000738](http://purl.obolibrary.org/obo/CL_0000738) (leukocyte) 31.40%
-- [CL:0000151](http://purl.obolibrary.org/obo/CL_0000151) (secretory cell) 31.25%
-- [CL:0000219](http://purl.obolibrary.org/obo/CL_0000219) (motile cell) 31.06%
-- [CL:0002371](http://purl.obolibrary.org/obo/CL_0002371) (somatic cell) 28.05%
-- [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) 27.97%
-- [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) (native cell) 27.76%
-- [GO:0005623](http://purl.obolibrary.org/obo/GO_0005623) (cell) 27.76%
-- [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000) (cell) 27.72%
-- [GO:0005575](http://purl.obolibrary.org/obo/GO_0005575) (cellular_component) 27.56%
-- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 27.36%
+- Thing 55.02%
+- [NCIT:C43257](http://purl.obolibrary.org/obo/NCIT_C43257) (Unifocal Disease) 52.63%
+- [NCIT:C43285](http://purl.obolibrary.org/obo/NCIT_C43285) (Unifocal Disease at Presentation) 51.32%
+- [NCIT:C39692](http://purl.obolibrary.org/obo/NCIT_C39692) (Complete Spontaneous Regression) 51.32%
+- [NCIT:C39625](http://purl.obolibrary.org/obo/NCIT_C39625) (Extracutaneous Dissemination of Disease) 51.32%
+- [NCIT:C36156](http://purl.obolibrary.org/obo/NCIT_C36156) (Favorable Clinical Outcome) 51.32%
+- [NCIT:C36105](http://purl.obolibrary.org/obo/NCIT_C36105) (Indolent Clinical Course) 51.32%
+- [NCIT:C36104](http://purl.obolibrary.org/obo/NCIT_C36104) (Aggressive Clinical Course) 51.32%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 45.46%
+- [NCIT:C36162](http://purl.obolibrary.org/obo/NCIT_C36162) (Localized Disease) 43.46%
+- [NCIT:C36162](http://purl.obolibrary.org/obo/NCIT_C36162) (Localized Disease) and (not ([NCIT:C39872](http://purl.obolibrary.org/obo/NCIT_C39872) (Urethral Villous Adenoma))) 43.46%
+- [NCIT:C36162](http://purl.obolibrary.org/obo/NCIT_C36162) (Localized Disease) and (not ([NCIT:C39866](http://purl.obolibrary.org/obo/NCIT_C39866) (Female Urethral Malignant Neoplasm))) 43.46%
+- [NCIT:C36162](http://purl.obolibrary.org/obo/NCIT_C36162) (Localized Disease) and (not ([NCIT:C39864](http://purl.obolibrary.org/obo/NCIT_C39864) (Carcinoma of Cowper Glands))) 43.46%
+- [NCIT:C36162](http://purl.obolibrary.org/obo/NCIT_C36162) (Localized Disease) and (not ([NCIT:C39862](http://purl.obolibrary.org/obo/NCIT_C39862) (Human Papillomavirus-Related Urethral Squamous Cell Carcinoma))) 43.46%
+- [NCIT:C36162](http://purl.obolibrary.org/obo/NCIT_C36162) (Localized Disease) and (not ([NCIT:C39859](http://purl.obolibrary.org/obo/NCIT_C39859) (Bladder Inverted Papilloma))) 43.46%
 
 

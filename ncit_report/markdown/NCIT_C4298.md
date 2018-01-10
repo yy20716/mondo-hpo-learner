@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 51.30%
+- Thing 51.63%
 - [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) 47.86%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C36518](http://purl.obolibrary.org/obo/NCIT_C36518) (t(7;19)(q34;q13)))) 47.86%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C36517](http://purl.obolibrary.org/obo/NCIT_C36517) (t(v;11q23.3)))) 47.86%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C36516](http://purl.obolibrary.org/obo/NCIT_C36516) (Loss of Chromosome 10q))) 47.86%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C36515](http://purl.obolibrary.org/obo/NCIT_C36515) (Loss of Chromosome 16q))) 47.86%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C36512](http://purl.obolibrary.org/obo/NCIT_C36512) (Loss of Chromosome 10p))) 47.86%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C36509](http://purl.obolibrary.org/obo/NCIT_C36509) (Monosomy 17))) 47.86%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C36506](http://purl.obolibrary.org/obo/NCIT_C36506) (Loss of Chromosome 22q))) 47.86%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C36505](http://purl.obolibrary.org/obo/NCIT_C36505) (Loss of Chromosome 11p))) 47.86%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C36504](http://purl.obolibrary.org/obo/NCIT_C36504) (Loss of Chromosome 6))) 47.86%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C36503](http://purl.obolibrary.org/obo/NCIT_C36503) (Loss of Chromosome 8p))) 47.86%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C36502](http://purl.obolibrary.org/obo/NCIT_C36502) (Loss of Chromosome 3p))) 47.86%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C36501](http://purl.obolibrary.org/obo/NCIT_C36501) (Loss of Chromosome 1p))) 47.86%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C36500](http://purl.obolibrary.org/obo/NCIT_C36500) (Loss of Chromosome 6p))) 47.86%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C39896](http://purl.obolibrary.org/obo/NCIT_C39896) (Prostate Ductal Adenocarcinoma, Papillary Pattern))) 47.86%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C39895](http://purl.obolibrary.org/obo/NCIT_C39895) (Prostate Ductal Adenocarcinoma, Cribriform Pattern))) 47.86%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C3989](http://purl.obolibrary.org/obo/NCIT_C3989) (Parathyroid Hyperplasia))) 47.86%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C39885](http://purl.obolibrary.org/obo/NCIT_C39885) (Acinar Prostate Adenocarcinoma, Lymphoepithelioma-Like Variant))) 47.86%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C39880](http://purl.obolibrary.org/obo/NCIT_C39880) (Acinar Prostate Adenocarcinoma, Atrophic Variant))) 47.86%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q))) 47.86%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C39874](http://purl.obolibrary.org/obo/NCIT_C39874) (Urethral Verrucous Carcinoma))) 47.86%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C39873](http://purl.obolibrary.org/obo/NCIT_C39873) (Urethral Glandular Metaplasia))) 47.86%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C39872](http://purl.obolibrary.org/obo/NCIT_C39872) (Urethral Villous Adenoma))) 47.86%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C39866](http://purl.obolibrary.org/obo/NCIT_C39866) (Female Urethral Malignant Neoplasm))) 47.86%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C39864](http://purl.obolibrary.org/obo/NCIT_C39864) (Carcinoma of Cowper Glands))) 47.86%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C39862](http://purl.obolibrary.org/obo/NCIT_C39862) (Human Papillomavirus-Related Urethral Squamous Cell Carcinoma))) 47.86%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C39859](http://purl.obolibrary.org/obo/NCIT_C39859) (Bladder Inverted Papilloma))) 47.86%
 
 

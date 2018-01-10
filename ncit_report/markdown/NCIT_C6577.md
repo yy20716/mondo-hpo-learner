@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36899](http://purl.obolibrary.org/obo/NCIT_C36899) (Neoplastic Stellate Cell) 60.00%
-- [NCIT:C35998](http://purl.obolibrary.org/obo/NCIT_C35998) (Myxoid Stroma Formation) 60.00%
-- [NCIT:C35996](http://purl.obolibrary.org/obo/NCIT_C35996) (Stromal Change) and [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) 60.00%
-- Thing 51.45%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) 45.36%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C36557](http://purl.obolibrary.org/obo/NCIT_C36557) (del(13q32-qter)))) 45.36%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C36556](http://purl.obolibrary.org/obo/NCIT_C36556) (del(13q12-13)))) 45.36%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C36555](http://purl.obolibrary.org/obo/NCIT_C36555) (del(8p21-pter)))) 45.36%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C36554](http://purl.obolibrary.org/obo/NCIT_C36554) (del(3p21-23)))) 45.36%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C36553](http://purl.obolibrary.org/obo/NCIT_C36553) (Gain of Chromosome 1q21-31))) 45.36%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C36552](http://purl.obolibrary.org/obo/NCIT_C36552) (Gain of Chromosome 1p31))) 45.36%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C36551](http://purl.obolibrary.org/obo/NCIT_C36551) (Gain of Chromosome 7q32))) 45.36%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C36550](http://purl.obolibrary.org/obo/NCIT_C36550) (Gain of Chromosome 7p))) 45.36%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C36549](http://purl.obolibrary.org/obo/NCIT_C36549) (Loss of Chromosome 11))) 45.36%
-- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) and (not ([NCIT:C36548](http://purl.obolibrary.org/obo/NCIT_C36548) (Loss of Chromosome 2q))) 45.36%
+- [UBERON:0002081](http://purl.obolibrary.org/obo/UBERON_0002081) (cardiac atrium) and [UBERON:0015212](http://purl.obolibrary.org/obo/UBERON_0015212) (lateral structure) 56.67%
+- [UBERON:0035554](http://purl.obolibrary.org/obo/UBERON_0035554) (right cardiac chamber) 53.33%
+- [UBERON:0035553](http://purl.obolibrary.org/obo/UBERON_0035553) (left cardiac chamber) 53.33%
+- [UBERON:0005090](http://purl.obolibrary.org/obo/UBERON_0005090) (muscle structure) 53.33%
+- [UBERON:0002082](http://purl.obolibrary.org/obo/UBERON_0002082) (cardiac ventricle) 53.33%
+- [UBERON:0002079](http://purl.obolibrary.org/obo/UBERON_0002079) (left cardiac atrium) 53.33%
+- [UBERON:0002078](http://purl.obolibrary.org/obo/UBERON_0002078) (right cardiac atrium) 53.33%
+- [UBERON:0001630](http://purl.obolibrary.org/obo/UBERON_0001630) (muscle organ) 53.33%
+- [UBERON:0002081](http://purl.obolibrary.org/obo/UBERON_0002081) (cardiac atrium) and [UBERON:0035554](http://purl.obolibrary.org/obo/UBERON_0035554) (right cardiac chamber) 53.33%
+- [UBERON:0002081](http://purl.obolibrary.org/obo/UBERON_0002081) (cardiac atrium) and [UBERON:0035553](http://purl.obolibrary.org/obo/UBERON_0035553) (left cardiac chamber) 53.33%
+- [UBERON:0004151](http://purl.obolibrary.org/obo/UBERON_0004151) (cardiac chamber) 53.30%
+- Thing 53.15%
+- [UBERON:0002081](http://purl.obolibrary.org/obo/UBERON_0002081) (cardiac atrium) 47.49%
+- [UBERON:0002081](http://purl.obolibrary.org/obo/UBERON_0002081) (cardiac atrium) and (not ([NCIT:C40182](http://purl.obolibrary.org/obo/NCIT_C40182) (Uterine Corpus Carcinofibroma))) 47.49%
+- [UBERON:0002081](http://purl.obolibrary.org/obo/UBERON_0002081) (cardiac atrium) and (not ([NCIT:C40177](http://purl.obolibrary.org/obo/NCIT_C40177) (Uterine Corpus Smooth Muscle Tumor of Uncertain Malignant Potential))) 47.49%
 
 

@@ -9,17 +9,17 @@
 - [NCIT:C36449](http://purl.obolibrary.org/obo/NCIT_C36449) (Clonal BCL6 Gene Rearrangement) 55.00%
 - [NCIT:C36442](http://purl.obolibrary.org/obo/NCIT_C36442) (Clonal BCL2 Gene Rearrangement) 55.00%
 - [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and [NCIT:C36333](http://purl.obolibrary.org/obo/NCIT_C36333) (Clonal Gene Rearrangement) 55.00%
-- Thing 52.05%
+- Thing 52.57%
 - [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) 40.36%
-- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C37188](http://purl.obolibrary.org/obo/NCIT_C37188) (del(6q25-27)))) 40.36%
-- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C37185](http://purl.obolibrary.org/obo/NCIT_C37185) (Gain of Chromosome 12q13))) 40.36%
-- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C37183](http://purl.obolibrary.org/obo/NCIT_C37183) (Neoplastic B-Prolymphocyte))) 40.36%
-- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C37181](http://purl.obolibrary.org/obo/NCIT_C37181) (Neoplastic Monoblast))) 40.36%
-- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C37180](http://purl.obolibrary.org/obo/NCIT_C37180) (Medium-Sized Neoplastic Myeloblast with Coarse Cytoplasmic Basophilic Granules))) 40.36%
-- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C3718](http://purl.obolibrary.org/obo/NCIT_C3718) (Wilms Tumor-Aniridia-Genitourinary Anomalies-Mental Retardation Syndrome))) 40.36%
-- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C37179](http://purl.obolibrary.org/obo/NCIT_C37179) (Neoplastic Myeloblast without Azurophilic Granules))) 40.36%
-- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C37178](http://purl.obolibrary.org/obo/NCIT_C37178) (Neoplastic Myeloblast with Azurophilic Granules))) 40.36%
-- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C37177](http://purl.obolibrary.org/obo/NCIT_C37177) (Neoplastic Medium-Sized Myeloblast with Basophilic Agranular Cytoplasm))) 40.36%
-- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C37176](http://purl.obolibrary.org/obo/NCIT_C37176) (Neoplastic Myeloblast with Abundant Basophilic Cytoplasm))) 40.36%
+- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C39588](http://purl.obolibrary.org/obo/NCIT_C39588) (Serum Soluble Fas Ligand Level Increased))) 40.36%
+- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C39586](http://purl.obolibrary.org/obo/NCIT_C39586) (T-Cell Large Granular Lymphocyte Leukemia Expressing the T-Cell Receptor Gamma-Delta))) 40.36%
+- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C39584](http://purl.obolibrary.org/obo/NCIT_C39584) (T-Cell Large Granular Lymphocyte Leukemia, Common Variant))) 40.36%
+- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C39583](http://purl.obolibrary.org/obo/NCIT_C39583) (FAS Apoptosis Pathway Deregulation))) 40.36%
+- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C3958](http://purl.obolibrary.org/obo/NCIT_C3958) (Disseminated Peritoneal Leiomyomatosis))) 40.36%
+- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C39573](http://purl.obolibrary.org/obo/NCIT_C39573) (T-Lymphocyte with a Post-Thymic Immunophenotype))) 40.36%
+- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C39572](http://purl.obolibrary.org/obo/NCIT_C39572) (Neoplastic Cerebriform T-Prolymphocyte))) 40.36%
+- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C39571](http://purl.obolibrary.org/obo/NCIT_C39571) (Neoplastic Small T-Prolymphocyte))) 40.36%
+- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C39569](http://purl.obolibrary.org/obo/NCIT_C39569) (Cytoplasmic Protrusions Present))) 40.36%
+- [NCIT:C132020](http://purl.obolibrary.org/obo/NCIT_C132020) (BCL6 Gene Rearrangement) and (not ([NCIT:C39565](http://purl.obolibrary.org/obo/NCIT_C39565) (Coarse Azurophilic Granules Present))) 40.36%
 
 

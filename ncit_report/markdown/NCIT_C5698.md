@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0001052](http://purl.obolibrary.org/obo/UBERON_0001052) (rectum) 75.00%
-- [NCIT:C32931](http://purl.obolibrary.org/obo/NCIT_C32931) (Large Intestinal Wall Tissue) 75.00%
-- [UBERON:0000064](http://purl.obolibrary.org/obo/UBERON_0000064) (organ part) 53.74%
-- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 51.86%
-- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 51.81%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 51.70%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 51.60%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 51.59%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 51.45%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 51.44%
-- Thing 50.92%
-- [UBERON:0001262](http://purl.obolibrary.org/obo/UBERON_0001262) (wall of intestine) 50.00%
-- [UBERON:0000328](http://purl.obolibrary.org/obo/UBERON_0000328) (gut wall) 45.41%
-- [UBERON:0000060](http://purl.obolibrary.org/obo/UBERON_0000060) (anatomical wall) 37.13%
-- [UBERON:0004921](http://purl.obolibrary.org/obo/UBERON_0004921) (subdivision of digestive tract) 34.28%
+- [NCIT:C32931](http://purl.obolibrary.org/obo/NCIT_C32931) (Large Intestinal Wall Tissue) 66.67%
+- [UBERON:0001262](http://purl.obolibrary.org/obo/UBERON_0001262) (wall of intestine) and (not ([UBERON:0001168](http://purl.obolibrary.org/obo/UBERON_0001168) (wall of small intestine))) 66.67%
+- [NCIT:C32931](http://purl.obolibrary.org/obo/NCIT_C32931) (Large Intestinal Wall Tissue) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 66.67%
+- [NCIT:C32931](http://purl.obolibrary.org/obo/NCIT_C32931) (Large Intestinal Wall Tissue) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 66.67%
+- [NCIT:C32931](http://purl.obolibrary.org/obo/NCIT_C32931) (Large Intestinal Wall Tissue) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 66.67%
+- [NCIT:C32931](http://purl.obolibrary.org/obo/NCIT_C32931) (Large Intestinal Wall Tissue) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 66.67%
+- [NCIT:C32931](http://purl.obolibrary.org/obo/NCIT_C32931) (Large Intestinal Wall Tissue) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 66.67%
+- [NCIT:C32931](http://purl.obolibrary.org/obo/NCIT_C32931) (Large Intestinal Wall Tissue) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 66.67%
+- [NCIT:C32931](http://purl.obolibrary.org/obo/NCIT_C32931) (Large Intestinal Wall Tissue) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 66.67%
+- [NCIT:C32931](http://purl.obolibrary.org/obo/NCIT_C32931) (Large Intestinal Wall Tissue) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 66.67%
+- [NCIT:C32931](http://purl.obolibrary.org/obo/NCIT_C32931) (Large Intestinal Wall Tissue) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 66.67%
+- [NCIT:C32931](http://purl.obolibrary.org/obo/NCIT_C32931) (Large Intestinal Wall Tissue) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 66.67%
+- [NCIT:C32931](http://purl.obolibrary.org/obo/NCIT_C32931) (Large Intestinal Wall Tissue) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 66.67%
+- [NCIT:C32931](http://purl.obolibrary.org/obo/NCIT_C32931) (Large Intestinal Wall Tissue) and (not ([UBERON:2001431](http://purl.obolibrary.org/obo/UBERON_2001431) (primitive olfactory epithelium))) 66.67%
+- [NCIT:C32931](http://purl.obolibrary.org/obo/NCIT_C32931) (Large Intestinal Wall Tissue) and (not ([UBERON:2001073](http://purl.obolibrary.org/obo/UBERON_2001073) (axial vasculature))) 66.67%
 
 

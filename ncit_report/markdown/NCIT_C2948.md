@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C68658](http://purl.obolibrary.org/obo/NCIT_C68658) (Malignant Trophoblastic Cell) 75.00%
-- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) 75.00%
-- [NCIT:C61405](http://purl.obolibrary.org/obo/NCIT_C61405) (Malignant Intermediate Type Trophoblastic Cell) 58.33%
-- [NCIT:C54119](http://purl.obolibrary.org/obo/NCIT_C54119) (Malignant Syncytiotrophoblastic Giant Cell) 58.33%
-- [NCIT:C54118](http://purl.obolibrary.org/obo/NCIT_C54118) (Malignant Cytotrophoblastic Cell) 58.33%
-- [NCIT:C37142](http://purl.obolibrary.org/obo/NCIT_C37142) (Neoplastic Intermediate Type Trophoblastic Cell) and [NCIT:C68658](http://purl.obolibrary.org/obo/NCIT_C68658) (Malignant Trophoblastic Cell) 58.33%
-- [NCIT:C37140](http://purl.obolibrary.org/obo/NCIT_C37140) (Neoplastic Cytotrophoblastic Cell) and [NCIT:C68658](http://purl.obolibrary.org/obo/NCIT_C68658) (Malignant Trophoblastic Cell) 58.33%
-- [NCIT:C36906](http://purl.obolibrary.org/obo/NCIT_C36906) (Neoplastic Syncytiotrophoblastic Cell) and [NCIT:C68658](http://purl.obolibrary.org/obo/NCIT_C68658) (Malignant Trophoblastic Cell) 58.33%
-- [NCIT:C36802](http://purl.obolibrary.org/obo/NCIT_C36802) (Abnormal Intermediate Type Trophoblastic Cell) and [NCIT:C68658](http://purl.obolibrary.org/obo/NCIT_C68658) (Malignant Trophoblastic Cell) 58.33%
-- [NCIT:C36801](http://purl.obolibrary.org/obo/NCIT_C36801) (Abnormal Cytotrophoblastic Cell) and [NCIT:C68658](http://purl.obolibrary.org/obo/NCIT_C68658) (Malignant Trophoblastic Cell) 58.33%
-- [NCIT:C36800](http://purl.obolibrary.org/obo/NCIT_C36800) (Abnormal Syncytiotrophoblastic Cell) and [NCIT:C68658](http://purl.obolibrary.org/obo/NCIT_C68658) (Malignant Trophoblastic Cell) 58.33%
-- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C37142](http://purl.obolibrary.org/obo/NCIT_C37142) (Neoplastic Intermediate Type Trophoblastic Cell) 58.33%
-- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C37140](http://purl.obolibrary.org/obo/NCIT_C37140) (Neoplastic Cytotrophoblastic Cell) 58.33%
-- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36906](http://purl.obolibrary.org/obo/NCIT_C36906) (Neoplastic Syncytiotrophoblastic Cell) 58.33%
-- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36802](http://purl.obolibrary.org/obo/NCIT_C36802) (Abnormal Intermediate Type Trophoblastic Cell) 58.33%
+- [NCIT:C68658](http://purl.obolibrary.org/obo/NCIT_C68658) (Malignant Trophoblastic Cell) 62.50%
+- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36803](http://purl.obolibrary.org/obo/NCIT_C36803) (Neoplastic Trophoblastic Cell) 62.50%
+- [NCIT:C61405](http://purl.obolibrary.org/obo/NCIT_C61405) (Malignant Intermediate Type Trophoblastic Cell) 54.17%
+- [NCIT:C61387](http://purl.obolibrary.org/obo/NCIT_C61387) (Malignant Round Germ Cell) 54.17%
+- [NCIT:C61064](http://purl.obolibrary.org/obo/NCIT_C61064) (Malignant Round Germ Cell with Glycogen-Rich Cytoplasm and Round Nucleus) 54.17%
+- [NCIT:C54127](http://purl.obolibrary.org/obo/NCIT_C54127) (Malignant Large Germ Cell with Abundant Cytoplasm) 54.17%
+- [NCIT:C54119](http://purl.obolibrary.org/obo/NCIT_C54119) (Malignant Syncytiotrophoblastic Giant Cell) 54.17%
+- [NCIT:C54118](http://purl.obolibrary.org/obo/NCIT_C54118) (Malignant Cytotrophoblastic Cell) 54.17%
+- [NCIT:C37162](http://purl.obolibrary.org/obo/NCIT_C37162) (Neoplastic Large Cell) and [NCIT:C54110](http://purl.obolibrary.org/obo/NCIT_C54110) (Malignant Germ Cell) 54.17%
+- [NCIT:C37142](http://purl.obolibrary.org/obo/NCIT_C37142) (Neoplastic Intermediate Type Trophoblastic Cell) and [NCIT:C68658](http://purl.obolibrary.org/obo/NCIT_C68658) (Malignant Trophoblastic Cell) 54.17%
+- [NCIT:C37140](http://purl.obolibrary.org/obo/NCIT_C37140) (Neoplastic Cytotrophoblastic Cell) and [NCIT:C68658](http://purl.obolibrary.org/obo/NCIT_C68658) (Malignant Trophoblastic Cell) 54.17%
+- [NCIT:C36906](http://purl.obolibrary.org/obo/NCIT_C36906) (Neoplastic Syncytiotrophoblastic Cell) and [NCIT:C68658](http://purl.obolibrary.org/obo/NCIT_C68658) (Malignant Trophoblastic Cell) 54.17%
+- [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) and [NCIT:C54110](http://purl.obolibrary.org/obo/NCIT_C54110) (Malignant Germ Cell) 54.17%
+- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and [NCIT:C37162](http://purl.obolibrary.org/obo/NCIT_C37162) (Neoplastic Large Cell) 54.17%
+- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and [NCIT:C36904](http://purl.obolibrary.org/obo/NCIT_C36904) (Neoplastic Large Germ Cell) 54.17%
 
 

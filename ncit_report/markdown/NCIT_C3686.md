@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C38666](http://purl.obolibrary.org/obo/NCIT_C38666) (Monomorphic Cellular Infiltrate) 75.00%
-- [NCIT:C42077](http://purl.obolibrary.org/obo/NCIT_C42077) (Cellular Infiltrate) 66.67%
-- [NCIT:C41610](http://purl.obolibrary.org/obo/NCIT_C41610) (Mixed Cellular Population) 53.87%
-- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 53.63%
-- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 53.48%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 52.52%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 51.92%
-- Thing 50.92%
-- CP:0000037 0.00%
-- CP:0000035 0.00%
-- CP:0000028 0.00%
-- CP:0000027 0.00%
-- CP:0000000 0.00%
-- [CHEBI:36342](http://purl.obolibrary.org/obo/CHEBI_36342) (subatomic particle) 0.00%
-- [CHEBI:24431](http://purl.obolibrary.org/obo/CHEBI_24431) (chemical entity) 0.00%
+- [CL:2000021](http://purl.obolibrary.org/obo/CL_2000021) (sebaceous gland native cell) 55.56%
+- [CL:0000317](http://purl.obolibrary.org/obo/CL_0000317) (sebum secreting cell) 55.56%
+- [CL:0000152](http://purl.obolibrary.org/obo/CL_0000152) (exocrine cell) 55.56%
+- [NCIT:C36782](http://purl.obolibrary.org/obo/NCIT_C36782) (Neoplastic Non-Cutaneous Basaloid Cell) and (not ([NCIT:C36783](http://purl.obolibrary.org/obo/NCIT_C36783) (Malignant Non-Cutaneous Basaloid Cell))) 55.56%
+- Thing 52.44%
+- [NCIT:C36782](http://purl.obolibrary.org/obo/NCIT_C36782) (Neoplastic Non-Cutaneous Basaloid Cell) 40.91%
+- [NCIT:C36782](http://purl.obolibrary.org/obo/NCIT_C36782) (Neoplastic Non-Cutaneous Basaloid Cell) and (not ([NCIT:C37129](http://purl.obolibrary.org/obo/NCIT_C37129) (Fibrillary Neoplastic Astrocyte))) 40.91%
+- [NCIT:C36782](http://purl.obolibrary.org/obo/NCIT_C36782) (Neoplastic Non-Cutaneous Basaloid Cell) and (not ([NCIT:C37115](http://purl.obolibrary.org/obo/NCIT_C37115) (Serous Adenocarcinoma Cell))) 40.91%
+- [NCIT:C36782](http://purl.obolibrary.org/obo/NCIT_C36782) (Neoplastic Non-Cutaneous Basaloid Cell) and (not ([NCIT:C37108](http://purl.obolibrary.org/obo/NCIT_C37108) (Adenocarcinoma Spindle Cell))) 40.91%
+- [NCIT:C36782](http://purl.obolibrary.org/obo/NCIT_C36782) (Neoplastic Non-Cutaneous Basaloid Cell) and (not ([NCIT:C37091](http://purl.obolibrary.org/obo/NCIT_C37091) (Vacuolated Endothelial Cell))) 40.91%
+- [NCIT:C36782](http://purl.obolibrary.org/obo/NCIT_C36782) (Neoplastic Non-Cutaneous Basaloid Cell) and (not ([NCIT:C37085](http://purl.obolibrary.org/obo/NCIT_C37085) (Undifferentiated Carcinoma Cell))) 40.91%
+- [NCIT:C36782](http://purl.obolibrary.org/obo/NCIT_C36782) (Neoplastic Non-Cutaneous Basaloid Cell) and (not ([NCIT:C37084](http://purl.obolibrary.org/obo/NCIT_C37084) (Hyperchromatic Spindle Cell))) 40.91%
+- [NCIT:C36782](http://purl.obolibrary.org/obo/NCIT_C36782) (Neoplastic Non-Cutaneous Basaloid Cell) and (not ([NCIT:C37078](http://purl.obolibrary.org/obo/NCIT_C37078) (Pseudo-Gaucher Cell))) 40.91%
+- [NCIT:C36782](http://purl.obolibrary.org/obo/NCIT_C36782) (Neoplastic Non-Cutaneous Basaloid Cell) and (not ([NCIT:C37076](http://purl.obolibrary.org/obo/NCIT_C37076) (Neoplastic Neutrophilic Precursor))) 40.91%
+- [NCIT:C36782](http://purl.obolibrary.org/obo/NCIT_C36782) (Neoplastic Non-Cutaneous Basaloid Cell) and (not ([NCIT:C37075](http://purl.obolibrary.org/obo/NCIT_C37075) (Neoplastic Promonocyte))) 40.91%
 
 

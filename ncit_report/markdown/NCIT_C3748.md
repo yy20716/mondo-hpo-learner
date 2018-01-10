@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 51.30%
-- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) 47.86%
-- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) and (not ([NCIT:C37014](http://purl.obolibrary.org/obo/NCIT_C37014) (Neoplastic Centroblast))) 47.86%
-- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) and (not ([NCIT:C37012](http://purl.obolibrary.org/obo/NCIT_C37012) (Neoplastic T-Immunoblast))) 47.86%
-- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) and (not ([NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast))) 47.86%
-- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) and (not ([NCIT:C37006](http://purl.obolibrary.org/obo/NCIT_C37006) (Neoplastic Medium-Sized B-Lymphocyte with Eccentric Basophilic Cytoplasm))) 47.86%
-- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) and (not ([NCIT:C37003](http://purl.obolibrary.org/obo/NCIT_C37003) (Neoplastic Monocytoid B-Lymphocyte))) 47.86%
-- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) and (not ([NCIT:C37002](http://purl.obolibrary.org/obo/NCIT_C37002) (Neoplastic Small Cleaved Follicle Center Cell))) 47.86%
-- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) and (not ([NCIT:C37001](http://purl.obolibrary.org/obo/NCIT_C37001) (Centrocyte-Like Cell))) 47.86%
-- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) and (not ([NCIT:C37000](http://purl.obolibrary.org/obo/NCIT_C37000) (Lymphoplasmacytoid Cell))) 47.86%
-- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) and (not ([NCIT:C36991](http://purl.obolibrary.org/obo/NCIT_C36991) (Neoplastic Small to Medium-Sized B-Lymphocyte with Pale Cytoplasm))) 47.86%
-- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) and (not ([NCIT:C36985](http://purl.obolibrary.org/obo/NCIT_C36985) (Neoplastic Chondroblast))) 47.86%
-- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) and (not ([NCIT:C36981](http://purl.obolibrary.org/obo/NCIT_C36981) (Ganglion-Like Cell))) 47.86%
-- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) and (not ([NCIT:C36975](http://purl.obolibrary.org/obo/NCIT_C36975) (Signet Ring Lipoblast))) 47.86%
-- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) and (not ([NCIT:C36974](http://purl.obolibrary.org/obo/NCIT_C36974) (Pleomorphic Lipoblast))) 47.86%
+- [NCIT:C38674](http://purl.obolibrary.org/obo/NCIT_C38674) (Widespread Disease) 57.14%
+- [NCIT:C36180](http://purl.obolibrary.org/obo/NCIT_C36180) (Multifocal Lesion) 57.14%
+- Thing 52.15%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) 42.50%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39786](http://purl.obolibrary.org/obo/NCIT_C39786) (Bilateral Disease))) 42.50%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39783](http://purl.obolibrary.org/obo/NCIT_C39783) (Retinal Hemangioblastoma))) 42.50%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39752](http://purl.obolibrary.org/obo/NCIT_C39752) (Refractory Disease))) 42.50%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39751](http://purl.obolibrary.org/obo/NCIT_C39751) (Glioblastoma, IDH-Mutant))) 42.50%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39748](http://purl.obolibrary.org/obo/NCIT_C39748) (Lymphoblast-Like Neoplastic B-Lymphocyte))) 42.50%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39747](http://purl.obolibrary.org/obo/NCIT_C39747) (Pleomorphic Variant Mantle Cell Lymphoma))) 42.50%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39743](http://purl.obolibrary.org/obo/NCIT_C39743) (Fascicular Pattern))) 42.50%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39741](http://purl.obolibrary.org/obo/NCIT_C39741) (Retroperitoneal Inflammatory Myofibroblastic Tumor))) 42.50%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39740](http://purl.obolibrary.org/obo/NCIT_C39740) (Lung Inflammatory Myofibroblastic Tumor))) 42.50%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39739](http://purl.obolibrary.org/obo/NCIT_C39739) (Negative Peripheral Blood))) 42.50%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39725](http://purl.obolibrary.org/obo/NCIT_C39725) (Immunodeficiency))) 42.50%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C36601](http://purl.obolibrary.org/obo/NCIT_C36601) (Tetrasomy))) 75.00%
-- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C37867](http://purl.obolibrary.org/obo/NCIT_C37867) (Tetrasomy 7))) 68.30%
-- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12))) 68.30%
-- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) 63.73%
-- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([CHEBI:25555](http://purl.obolibrary.org/obo/CHEBI_25555) (nitrogen atom))) 63.73%
-- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([CHEBI:23019](http://purl.obolibrary.org/obo/CHEBI_23019) (carbonyl group))) 63.73%
-- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([CHEBI:23004](http://purl.obolibrary.org/obo/CHEBI_23004) (carbamoyl group))) 63.73%
-- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([CHEBI:22868](http://purl.obolibrary.org/obo/CHEBI_22868) (bile salt))) 63.73%
-- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion))) 63.73%
-- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 63.73%
-- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 63.73%
-- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 63.73%
-- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 63.73%
-- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 63.73%
-- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 63.73%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C37867](http://purl.obolibrary.org/obo/NCIT_C37867) (Tetrasomy 7))) 62.05%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12))) 62.05%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) 57.48%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C39803](http://purl.obolibrary.org/obo/NCIT_C39803) (PRCC-TFE3 Fusion Protein Expression))) 57.48%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C39802](http://purl.obolibrary.org/obo/NCIT_C39802) (Renal Cell Carcinoma Associated with inv(X)(p11;q12)))) 57.48%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C39801](http://purl.obolibrary.org/obo/NCIT_C39801) (inv(X)(p11;q12)))) 57.48%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C39800](http://purl.obolibrary.org/obo/NCIT_C39800) (Sickle Cell Trait))) 57.48%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C39799](http://purl.obolibrary.org/obo/NCIT_C39799) (Loss of Chromosome 21))) 57.48%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C39798](http://purl.obolibrary.org/obo/NCIT_C39798) (Loss of Chromosome 2))) 57.48%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C39795](http://purl.obolibrary.org/obo/NCIT_C39795) (Loss of Chromosome 14q))) 57.48%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C39788](http://purl.obolibrary.org/obo/NCIT_C39788) (MET Gene Mutation))) 57.48%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C39787](http://purl.obolibrary.org/obo/NCIT_C39787) (Multiple Tumor Masses))) 57.48%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C39786](http://purl.obolibrary.org/obo/NCIT_C39786) (Bilateral Disease))) 57.48%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C39783](http://purl.obolibrary.org/obo/NCIT_C39783) (Retinal Hemangioblastoma))) 57.48%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C39752](http://purl.obolibrary.org/obo/NCIT_C39752) (Refractory Disease))) 57.48%
 
 

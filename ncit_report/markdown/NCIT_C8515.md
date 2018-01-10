@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C9232](http://purl.obolibrary.org/obo/NCIT_C9232) (Weight Change) 57.14%
-- [NCIT:C37930](http://purl.obolibrary.org/obo/NCIT_C37930) (Constipation) 57.14%
-- [NCIT:C3445](http://purl.obolibrary.org/obo/NCIT_C3445) (Weight Loss) 57.14%
-- [NCIT:C27970](http://purl.obolibrary.org/obo/NCIT_C27970) (Stage III) 57.14%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C27054](http://purl.obolibrary.org/obo/NCIT_C27054) (Rectal Hemorrhage))) 57.14%
-- Thing 51.72%
-- [NCIT:C100104](http://purl.obolibrary.org/obo/NCIT_C100104) (Sign or Symptom) 48.80%
-- [NCIT:C78438](http://purl.obolibrary.org/obo/NCIT_C78438) (Lower Gastrointestinal Hemorrhage) 42.50%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) 42.50%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) 42.50%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C3718](http://purl.obolibrary.org/obo/NCIT_C3718) (Wilms Tumor-Aniridia-Genitourinary Anomalies-Mental Retardation Syndrome))) 42.50%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C37179](http://purl.obolibrary.org/obo/NCIT_C37179) (Neoplastic Myeloblast without Azurophilic Granules))) 42.50%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C37178](http://purl.obolibrary.org/obo/NCIT_C37178) (Neoplastic Myeloblast with Azurophilic Granules))) 42.50%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C37177](http://purl.obolibrary.org/obo/NCIT_C37177) (Neoplastic Medium-Sized Myeloblast with Basophilic Agranular Cytoplasm))) 42.50%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C37176](http://purl.obolibrary.org/obo/NCIT_C37176) (Neoplastic Myeloblast with Abundant Basophilic Cytoplasm))) 42.50%
+- [NCIT:C78438](http://purl.obolibrary.org/obo/NCIT_C78438) (Lower Gastrointestinal Hemorrhage) 62.50%
+- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) 62.50%
+- [NCIT:C100104](http://purl.obolibrary.org/obo/NCIT_C100104) (Sign or Symptom) 59.23%
+- [NCIT:C60661](http://purl.obolibrary.org/obo/NCIT_C60661) (Tenesmus) 56.25%
+- [NCIT:C37930](http://purl.obolibrary.org/obo/NCIT_C37930) (Constipation) 56.25%
+- [NCIT:C27054](http://purl.obolibrary.org/obo/NCIT_C27054) (Rectal Hemorrhage) 56.25%
+- [NCIT:C5034](http://purl.obolibrary.org/obo/NCIT_C5034) (Disturbance in Bowel Function) 53.32%
+- [NCIT:C48592](http://purl.obolibrary.org/obo/NCIT_C48592) (Gastrointestinal Hemorrhage) 53.32%
+- [NCIT:C119722](http://purl.obolibrary.org/obo/NCIT_C119722) (Digestive System Hemorrhage) 53.32%
+- [NCIT:C48592](http://purl.obolibrary.org/obo/NCIT_C48592) (Gastrointestinal Hemorrhage) and (not ([NCIT:C39905](http://purl.obolibrary.org/obo/NCIT_C39905) (Prostate Stromal Proliferation of Uncertain Malignant Potential))) 53.32%
+- [NCIT:C48592](http://purl.obolibrary.org/obo/NCIT_C48592) (Gastrointestinal Hemorrhage) and (not ([NCIT:C39903](http://purl.obolibrary.org/obo/NCIT_C39903) (Prostate Adenocarcinoma with Focal Neuroendocrine Differentiation))) 53.32%
+- [NCIT:C48592](http://purl.obolibrary.org/obo/NCIT_C48592) (Gastrointestinal Hemorrhage) and (not ([NCIT:C39902](http://purl.obolibrary.org/obo/NCIT_C39902) (Prostate Basal Cell Carcinoma))) 53.32%
+- [NCIT:C48592](http://purl.obolibrary.org/obo/NCIT_C48592) (Gastrointestinal Hemorrhage) and (not ([NCIT:C39901](http://purl.obolibrary.org/obo/NCIT_C39901) (Prostatic Duct Urothelial Carcinoma))) 53.32%
+- [NCIT:C48592](http://purl.obolibrary.org/obo/NCIT_C48592) (Gastrointestinal Hemorrhage) and (not ([NCIT:C39899](http://purl.obolibrary.org/obo/NCIT_C39899) (Secondary Prostate Urothelial Carcinoma))) 53.32%
+- [NCIT:C48592](http://purl.obolibrary.org/obo/NCIT_C48592) (Gastrointestinal Hemorrhage) and (not ([NCIT:C39897](http://purl.obolibrary.org/obo/NCIT_C39897) (Prostate Ductal Adenocarcinoma, Solid Pattern))) 53.32%
 
 

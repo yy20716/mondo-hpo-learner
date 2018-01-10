@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36777](http://purl.obolibrary.org/obo/NCIT_C36777) (Signet Ring Adenocarcinoma Cell) 75.00%
-- [NCIT:C12487](http://purl.obolibrary.org/obo/NCIT_C12487) (Signet Ring Cell) and [NCIT:C37117](http://purl.obolibrary.org/obo/NCIT_C37117) (Adenocarcinoma Cell with Intracytoplasmic Mucin) 75.00%
-- [NCIT:C12487](http://purl.obolibrary.org/obo/NCIT_C12487) (Signet Ring Cell) and [NCIT:C37116](http://purl.obolibrary.org/obo/NCIT_C37116) (Neoplastic Epithelial Cell with Intracytoplasmic Mucin) 75.00%
-- [NCIT:C12487](http://purl.obolibrary.org/obo/NCIT_C12487) (Signet Ring Cell) and [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) 75.00%
-- [NCIT:C12487](http://purl.obolibrary.org/obo/NCIT_C12487) (Signet Ring Cell) and [NCIT:C36794](http://purl.obolibrary.org/obo/NCIT_C36794) (Dysplastic Glandular Cell) 75.00%
-- [NCIT:C12487](http://purl.obolibrary.org/obo/NCIT_C12487) (Signet Ring Cell) and [NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell) 75.00%
-- [NCIT:C12487](http://purl.obolibrary.org/obo/NCIT_C12487) (Signet Ring Cell) and [NCIT:C36773](http://purl.obolibrary.org/obo/NCIT_C36773) (Adenocarcinoma Cell) 75.00%
-- [NCIT:C12487](http://purl.obolibrary.org/obo/NCIT_C12487) (Signet Ring Cell) and [NCIT:C36764](http://purl.obolibrary.org/obo/NCIT_C36764) (Abnormal Glandular Cell) 75.00%
-- [NCIT:C12487](http://purl.obolibrary.org/obo/NCIT_C12487) (Signet Ring Cell) and [NCIT:C36763](http://purl.obolibrary.org/obo/NCIT_C36763) (Neoplastic Glandular Cell) 75.00%
-- [NCIT:C12487](http://purl.obolibrary.org/obo/NCIT_C12487) (Signet Ring Cell) and [NCIT:C36753](http://purl.obolibrary.org/obo/NCIT_C36753) (Neoplastic Epithelial Cell) 75.00%
-- [NCIT:C12487](http://purl.obolibrary.org/obo/NCIT_C12487) (Signet Ring Cell) and [NCIT:C36745](http://purl.obolibrary.org/obo/NCIT_C36745) (Abnormal Epithelial Cell) 75.00%
-- [NCIT:C12487](http://purl.obolibrary.org/obo/NCIT_C12487) (Signet Ring Cell) and [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) 75.00%
-- [NCIT:C12487](http://purl.obolibrary.org/obo/NCIT_C12487) (Signet Ring Cell) and [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) 75.00%
-- [NCIT:C36777](http://purl.obolibrary.org/obo/NCIT_C36777) (Signet Ring Adenocarcinoma Cell) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 75.00%
-- [NCIT:C36777](http://purl.obolibrary.org/obo/NCIT_C36777) (Signet Ring Adenocarcinoma Cell) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 75.00%
+- [NCIT:C18249](http://purl.obolibrary.org/obo/NCIT_C18249) (CDH1 Gene) 58.33%
+- [NCIT:C20988](http://purl.obolibrary.org/obo/NCIT_C20988) (Cell Adhesion Molecule Gene) and (not ([NCIT:C20999](http://purl.obolibrary.org/obo/NCIT_C20999) (CD44 Gene))) 58.33%
+- Thing 51.99%
+- [NCIT:C20988](http://purl.obolibrary.org/obo/NCIT_C20988) (Cell Adhesion Molecule Gene) 43.69%
+- [NCIT:C20988](http://purl.obolibrary.org/obo/NCIT_C20988) (Cell Adhesion Molecule Gene) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 43.69%
+- [NCIT:C20988](http://purl.obolibrary.org/obo/NCIT_C20988) (Cell Adhesion Molecule Gene) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 43.69%
+- [NCIT:C20988](http://purl.obolibrary.org/obo/NCIT_C20988) (Cell Adhesion Molecule Gene) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 43.69%
+- [NCIT:C20988](http://purl.obolibrary.org/obo/NCIT_C20988) (Cell Adhesion Molecule Gene) and (not ([NCIT:C40034](http://purl.obolibrary.org/obo/NCIT_C40034) (Ovarian Mucinous Adenocarcinofibroma))) 43.69%
+- [NCIT:C20988](http://purl.obolibrary.org/obo/NCIT_C20988) (Cell Adhesion Molecule Gene) and (not ([NCIT:C40032](http://purl.obolibrary.org/obo/NCIT_C40032) (Ovarian Serous Cystadenofibroma))) 43.69%
+- [NCIT:C20988](http://purl.obolibrary.org/obo/NCIT_C20988) (Cell Adhesion Molecule Gene) and (not ([NCIT:C40029](http://purl.obolibrary.org/obo/NCIT_C40029) (Borderline Ovarian Serous Cystadenofibroma))) 43.69%
+- [NCIT:C20988](http://purl.obolibrary.org/obo/NCIT_C20988) (Cell Adhesion Molecule Gene) and (not ([NCIT:C40021](http://purl.obolibrary.org/obo/NCIT_C40021) (Ovarian Lymphoma))) 43.69%
+- [NCIT:C20988](http://purl.obolibrary.org/obo/NCIT_C20988) (Cell Adhesion Molecule Gene) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 43.69%
+- [NCIT:C20988](http://purl.obolibrary.org/obo/NCIT_C20988) (Cell Adhesion Molecule Gene) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 43.69%
+- [NCIT:C20988](http://purl.obolibrary.org/obo/NCIT_C20988) (Cell Adhesion Molecule Gene) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 43.69%
+- [NCIT:C20988](http://purl.obolibrary.org/obo/NCIT_C20988) (Cell Adhesion Molecule Gene) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 43.69%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C41457](http://purl.obolibrary.org/obo/NCIT_C41457) (Well-Circumscribed Lesion) 66.67%
-- Thing 51.13%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 34.78%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) 34.34%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) 31.74%
-- [CL:0000183](http://purl.obolibrary.org/obo/CL_0000183) (contractile cell) 28.79%
-- [CL:0000393](http://purl.obolibrary.org/obo/CL_0000393) (electrically responsive cell) 24.29%
-- [CL:0000211](http://purl.obolibrary.org/obo/CL_0000211) (electrically active cell) 24.29%
-- [CL:0002371](http://purl.obolibrary.org/obo/CL_0002371) (somatic cell) 19.72%
-- [CL:0000548](http://purl.obolibrary.org/obo/CL_0000548) (animal cell) 19.64%
-- [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) 19.64%
-- [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) (native cell) 19.43%
-- [GO:0005623](http://purl.obolibrary.org/obo/GO_0005623) (cell) 19.42%
-- [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000) (cell) 19.39%
-- [GO:0005575](http://purl.obolibrary.org/obo/GO_0005575) (cellular_component) 19.23%
+- [NCIT:C49169](http://purl.obolibrary.org/obo/NCIT_C49169) (Neoplastic Large Striated Muscle Cell with Clear Cytoplasm) 55.00%
+- [NCIT:C36742](http://purl.obolibrary.org/obo/NCIT_C36742) (Spider Cell) 55.00%
+- Thing 52.57%
+- [NCIT:C36947](http://purl.obolibrary.org/obo/NCIT_C36947) (Neoplastic Striated Muscle Cell) 51.62%
+- [NCIT:C36744](http://purl.obolibrary.org/obo/NCIT_C36744) (Rhabdomyoblast) 45.62%
+- [NCIT:C36936](http://purl.obolibrary.org/obo/NCIT_C36936) (Neoplastic Muscle Cell) 44.25%
+- [NCIT:C49171](http://purl.obolibrary.org/obo/NCIT_C49171) (Primitive Skeletal Spindle Cell) 40.36%
+- [NCIT:C49171](http://purl.obolibrary.org/obo/NCIT_C49171) (Primitive Skeletal Spindle Cell) and (not ([NCIT:C40127](http://purl.obolibrary.org/obo/NCIT_C40127) (Fallopian Tube Leiomyoma))) 40.36%
+- [NCIT:C49171](http://purl.obolibrary.org/obo/NCIT_C49171) (Primitive Skeletal Spindle Cell) and (not ([NCIT:C40125](http://purl.obolibrary.org/obo/NCIT_C40125) (Fallopian Tube Adenosarcoma))) 40.36%
+- [NCIT:C49171](http://purl.obolibrary.org/obo/NCIT_C49171) (Primitive Skeletal Spindle Cell) and (not ([NCIT:C40124](http://purl.obolibrary.org/obo/NCIT_C40124) (Fallopian Tube Carcinosarcoma))) 40.36%
+- [NCIT:C49171](http://purl.obolibrary.org/obo/NCIT_C49171) (Primitive Skeletal Spindle Cell) and (not ([NCIT:C40122](http://purl.obolibrary.org/obo/NCIT_C40122) (Pelvic Pain))) 40.36%
+- [NCIT:C49171](http://purl.obolibrary.org/obo/NCIT_C49171) (Primitive Skeletal Spindle Cell) and (not ([NCIT:C40116](http://purl.obolibrary.org/obo/NCIT_C40116) (Fallopian Tube Metaplastic Papillary Tumor))) 40.36%
+- [NCIT:C49171](http://purl.obolibrary.org/obo/NCIT_C49171) (Primitive Skeletal Spindle Cell) and (not ([NCIT:C40114](http://purl.obolibrary.org/obo/NCIT_C40114) (Fallopian Tube Serous Cystadenofibroma))) 40.36%
+- [NCIT:C49171](http://purl.obolibrary.org/obo/NCIT_C49171) (Primitive Skeletal Spindle Cell) and (not ([NCIT:C40112](http://purl.obolibrary.org/obo/NCIT_C40112) (Fallopian Tube Papilloma))) 40.36%
+- [NCIT:C49171](http://purl.obolibrary.org/obo/NCIT_C49171) (Primitive Skeletal Spindle Cell) and (not ([NCIT:C40110](http://purl.obolibrary.org/obo/NCIT_C40110) (Borderline Fallopian Tube Endometrioid Tumor))) 40.36%
 
 

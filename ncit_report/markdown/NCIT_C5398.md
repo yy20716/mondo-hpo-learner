@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C128698](http://purl.obolibrary.org/obo/NCIT_C128698) (Unclassifiable Lesion) 75.00%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 52.52%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 51.92%
-- Thing 50.92%
-- [NCIT:C103223](http://purl.obolibrary.org/obo/NCIT_C103223) (Genetic Finding) 41.67%
-- [NCIT:C3824](http://purl.obolibrary.org/obo/NCIT_C3824) (Lesion) 31.25%
-- [NCIT:C36292](http://purl.obolibrary.org/obo/NCIT_C36292) (Laboratory Test Result) 28.88%
-- [NCIT:C77140](http://purl.obolibrary.org/obo/NCIT_C77140) (Clinical Test Result) 28.80%
-- CP:0000037 0.00%
-- CP:0000035 0.00%
-- CP:0000028 0.00%
-- CP:0000027 0.00%
-- CP:0000000 0.00%
-- [CHEBI:36342](http://purl.obolibrary.org/obo/CHEBI_36342) (subatomic particle) 0.00%
-- [CHEBI:24431](http://purl.obolibrary.org/obo/CHEBI_24431) (chemical entity) 0.00%
+- [UBERON:0014908](http://purl.obolibrary.org/obo/UBERON_0014908) (cerebellopontine angle) 57.14%
+- [UBERON:0005174](http://purl.obolibrary.org/obo/UBERON_0005174) (dorsal region element) 57.14%
+- [UBERON:0002308](http://purl.obolibrary.org/obo/UBERON_0002308) (nucleus of brain) 57.14%
+- [UBERON:0002240](http://purl.obolibrary.org/obo/UBERON_0002240) (spinal cord) 57.14%
+- [UBERON:0001869](http://purl.obolibrary.org/obo/UBERON_0001869) (cerebral hemisphere) 57.14%
+- [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) (brain) 57.14%
+- [UBERON:0000125](http://purl.obolibrary.org/obo/UBERON_0000125) (neural nucleus) 57.14%
+- [NCIT:C128698](http://purl.obolibrary.org/obo/NCIT_C128698) (Unclassifiable Lesion) 57.14%
+- [NCIT:C12512](http://purl.obolibrary.org/obo/NCIT_C12512) (Supratentorial Brain) 57.14%
+- [UBERON:0000489](http://purl.obolibrary.org/obo/UBERON_0000489) (cavitated compound organ) and [UBERON:0010314](http://purl.obolibrary.org/obo/UBERON_0010314) (structure with developmental contribution from neural crest) 57.14%
+- [UBERON:0000489](http://purl.obolibrary.org/obo/UBERON_0000489) (cavitated compound organ) and [UBERON:0005174](http://purl.obolibrary.org/obo/UBERON_0005174) (dorsal region element) 57.14%
+- [UBERON:0000489](http://purl.obolibrary.org/obo/UBERON_0000489) (cavitated compound organ) and [UBERON:0004121](http://purl.obolibrary.org/obo/UBERON_0004121) (ectoderm-derived structure) 57.14%
+- Thing 52.15%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 40.47%
+- [UBERON:0004121](http://purl.obolibrary.org/obo/UBERON_0004121) (ectoderm-derived structure) 40.04%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C8360](http://purl.obolibrary.org/obo/NCIT_C8360) (Intestinal Metaplasia) 75.00%
-- [NCIT:C36026](http://purl.obolibrary.org/obo/NCIT_C36026) (Diffuse Cellular Infiltrate) 75.00%
-- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 53.63%
-- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 53.48%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 52.52%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 51.92%
-- Thing 50.92%
-- [NCIT:C96363](http://purl.obolibrary.org/obo/NCIT_C96363) (Epithelial Metaplasia) 47.36%
-- [NCIT:C3236](http://purl.obolibrary.org/obo/NCIT_C3236) (Metaplasia) 40.81%
-- [NCIT:C42077](http://purl.obolibrary.org/obo/NCIT_C42077) (Cellular Infiltrate) 36.79%
-- CP:0000037 0.00%
-- CP:0000035 0.00%
-- CP:0000028 0.00%
-- CP:0000027 0.00%
-- CP:0000000 0.00%
+- [NCIT:C3190](http://purl.obolibrary.org/obo/NCIT_C3190) (Linitis Plastica) 56.25%
+- Thing 52.30%
+- [NCIT:C4910](http://purl.obolibrary.org/obo/NCIT_C4910) (Colon Carcinoma) 41.61%
+- [NCIT:C4910](http://purl.obolibrary.org/obo/NCIT_C4910) (Colon Carcinoma) and (not ([NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q))) 41.61%
+- [NCIT:C4910](http://purl.obolibrary.org/obo/NCIT_C4910) (Colon Carcinoma) and (not ([NCIT:C39874](http://purl.obolibrary.org/obo/NCIT_C39874) (Urethral Verrucous Carcinoma))) 41.61%
+- [NCIT:C4910](http://purl.obolibrary.org/obo/NCIT_C4910) (Colon Carcinoma) and (not ([NCIT:C39873](http://purl.obolibrary.org/obo/NCIT_C39873) (Urethral Glandular Metaplasia))) 41.61%
+- [NCIT:C4910](http://purl.obolibrary.org/obo/NCIT_C4910) (Colon Carcinoma) and (not ([NCIT:C39872](http://purl.obolibrary.org/obo/NCIT_C39872) (Urethral Villous Adenoma))) 41.61%
+- [NCIT:C4910](http://purl.obolibrary.org/obo/NCIT_C4910) (Colon Carcinoma) and (not ([NCIT:C39866](http://purl.obolibrary.org/obo/NCIT_C39866) (Female Urethral Malignant Neoplasm))) 41.61%
+- [NCIT:C4910](http://purl.obolibrary.org/obo/NCIT_C4910) (Colon Carcinoma) and (not ([NCIT:C39864](http://purl.obolibrary.org/obo/NCIT_C39864) (Carcinoma of Cowper Glands))) 41.61%
+- [NCIT:C4910](http://purl.obolibrary.org/obo/NCIT_C4910) (Colon Carcinoma) and (not ([NCIT:C39862](http://purl.obolibrary.org/obo/NCIT_C39862) (Human Papillomavirus-Related Urethral Squamous Cell Carcinoma))) 41.61%
+- [NCIT:C4910](http://purl.obolibrary.org/obo/NCIT_C4910) (Colon Carcinoma) and (not ([NCIT:C39859](http://purl.obolibrary.org/obo/NCIT_C39859) (Bladder Inverted Papilloma))) 41.61%
+- [NCIT:C4910](http://purl.obolibrary.org/obo/NCIT_C4910) (Colon Carcinoma) and (not ([NCIT:C39856](http://purl.obolibrary.org/obo/NCIT_C39856) (Urothelial Dysplasia))) 41.61%
+- [NCIT:C4910](http://purl.obolibrary.org/obo/NCIT_C4910) (Colon Carcinoma) and (not ([NCIT:C39845](http://purl.obolibrary.org/obo/NCIT_C39845) (Bladder Urachal Squamous Cell Carcinoma))) 41.61%
+- [NCIT:C4910](http://purl.obolibrary.org/obo/NCIT_C4910) (Colon Carcinoma) and (not ([NCIT:C39844](http://purl.obolibrary.org/obo/NCIT_C39844) (Bladder Urachal Urothelial Carcinoma))) 41.61%
+- [NCIT:C4910](http://purl.obolibrary.org/obo/NCIT_C4910) (Colon Carcinoma) and (not ([NCIT:C39834](http://purl.obolibrary.org/obo/NCIT_C39834) (Bladder Squamous Papilloma))) 41.61%
 
 

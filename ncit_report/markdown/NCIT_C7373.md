@@ -17,7 +17,7 @@
 - [NCIT:C36502](http://purl.obolibrary.org/obo/NCIT_C36502) (Loss of Chromosome 3p) 54.17%
 - [NCIT:C36497](http://purl.obolibrary.org/obo/NCIT_C36497) (Loss of Chromosome 13q) 54.17%
 - [NCIT:C35951](http://purl.obolibrary.org/obo/NCIT_C35951) (Keratin Pearls Formation) 54.17%
-- Thing 52.25%
+- Thing 52.82%
 - [NCIT:C36315](http://purl.obolibrary.org/obo/NCIT_C36315) (Chromosomal Loss) 48.06%
 - [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 44.14%
 - [NCIT:C6825](http://purl.obolibrary.org/obo/NCIT_C6825) (Numerical Chromosomal Abnormality) 40.19%

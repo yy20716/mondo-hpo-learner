@@ -2,13 +2,13 @@
 ### [NCIT:C6449](http://purl.obolibrary.org/obo/NCIT_C6449)
 **Label:** Benign Germ Cell Tumor
 
-**Subclasses:** [NCIT:C4516](http://purl.obolibrary.org/obo/NCIT_C4516) (Benign Ovarian Germ Cell Tumor), [NCIT:C5357](http://purl.obolibrary.org/obo/NCIT_C5357) (Benign Cardiac Germ Cell Tumor), [NCIT:C6445](http://purl.obolibrary.org/obo/NCIT_C6445) (Mediastinal Benign Germ Cell Tumor), [NCIT:C6553](http://purl.obolibrary.org/obo/NCIT_C6553) (Benign Childhood Germ Cell Tumor), [NCIT:C6751](http://purl.obolibrary.org/obo/NCIT_C6751) (Benign Extragonadal Germ Cell Tumor), 
+**Subclasses:** [NCIT:C4516](http://purl.obolibrary.org/obo/NCIT_C4516) (Benign Ovarian Germ Cell Tumor), [NCIT:C6445](http://purl.obolibrary.org/obo/NCIT_C6445) (Mediastinal Benign Germ Cell Tumor), [NCIT:C5357](http://purl.obolibrary.org/obo/NCIT_C5357) (Benign Cardiac Germ Cell Tumor), [NCIT:C6751](http://purl.obolibrary.org/obo/NCIT_C6751) (Benign Extragonadal Germ Cell Tumor), [NCIT:C6553](http://purl.obolibrary.org/obo/NCIT_C6553) (Benign Childhood Germ Cell Tumor), 
 
 **Class expressions from DL-Learner:**
 
 - [NCIT:C61414](http://purl.obolibrary.org/obo/NCIT_C61414) (Seminomatous Component Present) 62.50%
 - [NCIT:C41433](http://purl.obolibrary.org/obo/NCIT_C41433) (Geographic Necrosis) 62.50%
-- Thing 51.30%
+- Thing 51.63%
 - [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 41.94%
 - [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 41.77%
 - [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 40.58%

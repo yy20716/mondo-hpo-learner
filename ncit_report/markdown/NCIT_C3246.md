@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C39620](http://purl.obolibrary.org/obo/NCIT_C39620) (Dermatopathic Lymphadenopathy) 57.14%
-- Thing 51.72%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) 42.50%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37014](http://purl.obolibrary.org/obo/NCIT_C37014) (Neoplastic Centroblast))) 42.50%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37012](http://purl.obolibrary.org/obo/NCIT_C37012) (Neoplastic T-Immunoblast))) 42.50%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast))) 42.50%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37006](http://purl.obolibrary.org/obo/NCIT_C37006) (Neoplastic Medium-Sized B-Lymphocyte with Eccentric Basophilic Cytoplasm))) 42.50%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37003](http://purl.obolibrary.org/obo/NCIT_C37003) (Neoplastic Monocytoid B-Lymphocyte))) 42.50%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37002](http://purl.obolibrary.org/obo/NCIT_C37002) (Neoplastic Small Cleaved Follicle Center Cell))) 42.50%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37001](http://purl.obolibrary.org/obo/NCIT_C37001) (Centrocyte-Like Cell))) 42.50%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37000](http://purl.obolibrary.org/obo/NCIT_C37000) (Lymphoplasmacytoid Cell))) 42.50%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C36991](http://purl.obolibrary.org/obo/NCIT_C36991) (Neoplastic Small to Medium-Sized B-Lymphocyte with Pale Cytoplasm))) 42.50%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C36985](http://purl.obolibrary.org/obo/NCIT_C36985) (Neoplastic Chondroblast))) 42.50%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C36981](http://purl.obolibrary.org/obo/NCIT_C36981) (Ganglion-Like Cell))) 42.50%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C36975](http://purl.obolibrary.org/obo/NCIT_C36975) (Signet Ring Lipoblast))) 42.50%
+- [NCIT:C39625](http://purl.obolibrary.org/obo/NCIT_C39625) (Extracutaneous Dissemination of Disease) 55.00%
+- [NCIT:C39620](http://purl.obolibrary.org/obo/NCIT_C39620) (Dermatopathic Lymphadenopathy) 55.00%
+- [NCIT:C38323](http://purl.obolibrary.org/obo/NCIT_C38323) (Peripheral Epidermotropic T-Lymphocyte) 55.00%
+- [NCIT:C36158](http://purl.obolibrary.org/obo/NCIT_C36158) (Chronic Clinical Course) 55.00%
+- Error2 55.00%
+- Thing 52.57%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) 40.36%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39819](http://purl.obolibrary.org/obo/NCIT_C39819) (Infiltrating Bladder Urothelial Carcinoma, Nested Variant))) 40.36%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39818](http://purl.obolibrary.org/obo/NCIT_C39818) (Infiltrating Bladder Urothelial Carcinoma with Trophoblastic Differentiation))) 40.36%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39817](http://purl.obolibrary.org/obo/NCIT_C39817) (Infiltrating Bladder Urothelial Carcinoma with Glandular Differentiation))) 40.36%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39816](http://purl.obolibrary.org/obo/NCIT_C39816) (Infiltrating Bladder Urothelial Carcinoma with Squamous Differentiation))) 40.36%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39815](http://purl.obolibrary.org/obo/NCIT_C39815) (Cellular Congenital Mesoblastic Nephroma))) 40.36%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39814](http://purl.obolibrary.org/obo/NCIT_C39814) (Classic Congenital Mesoblastic Nephroma))) 40.36%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39813](http://purl.obolibrary.org/obo/NCIT_C39813) (SMARCB1 Gene Inactivation))) 40.36%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39812](http://purl.obolibrary.org/obo/NCIT_C39812) (Metanephric Adenofibroma))) 40.36%
 
 

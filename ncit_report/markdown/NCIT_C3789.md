@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36367](http://purl.obolibrary.org/obo/NCIT_C36367) (t(21;22)(q22;q12)) 57.14%
-- [NCIT:C27214](http://purl.obolibrary.org/obo/NCIT_C27214) (t(11;22)(q24;q12)) 57.14%
-- Thing 51.72%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) 42.50%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37132](http://purl.obolibrary.org/obo/NCIT_C37132) (Gemistocytic Neoplastic Astrocyte))) 42.50%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37129](http://purl.obolibrary.org/obo/NCIT_C37129) (Fibrillary Neoplastic Astrocyte))) 42.50%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37115](http://purl.obolibrary.org/obo/NCIT_C37115) (Serous Adenocarcinoma Cell))) 42.50%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37108](http://purl.obolibrary.org/obo/NCIT_C37108) (Adenocarcinoma Spindle Cell))) 42.50%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37091](http://purl.obolibrary.org/obo/NCIT_C37091) (Vacuolated Endothelial Cell))) 42.50%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37085](http://purl.obolibrary.org/obo/NCIT_C37085) (Undifferentiated Carcinoma Cell))) 42.50%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37084](http://purl.obolibrary.org/obo/NCIT_C37084) (Hyperchromatic Spindle Cell))) 42.50%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37078](http://purl.obolibrary.org/obo/NCIT_C37078) (Pseudo-Gaucher Cell))) 42.50%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37076](http://purl.obolibrary.org/obo/NCIT_C37076) (Neoplastic Neutrophilic Precursor))) 42.50%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37075](http://purl.obolibrary.org/obo/NCIT_C37075) (Neoplastic Promonocyte))) 42.50%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C37074](http://purl.obolibrary.org/obo/NCIT_C37074) (Hypogranular Promyelocyte))) 42.50%
+- [NCIT:C36367](http://purl.obolibrary.org/obo/NCIT_C36367) (t(21;22)(q22;q12)) 55.56%
+- [NCIT:C27214](http://purl.obolibrary.org/obo/NCIT_C27214) (t(11;22)(q24;q12)) 55.56%
+- Thing 52.44%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) 40.91%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39811](http://purl.obolibrary.org/obo/NCIT_C39811) (t(5;11)(q35;q13)))) 40.91%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39810](http://purl.obolibrary.org/obo/NCIT_C39810) (Type 2 Renal Papillary Adenoma))) 40.91%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39809](http://purl.obolibrary.org/obo/NCIT_C39809) (Type 1 Renal Papillary Adenoma))) 40.91%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39808](http://purl.obolibrary.org/obo/NCIT_C39808) (Asymptomatic Mass))) 40.91%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39807](http://purl.obolibrary.org/obo/NCIT_C39807) (Mucinous Tubular and Spindle Cell Carcinoma of the Kidney))) 40.91%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39806](http://purl.obolibrary.org/obo/NCIT_C39806) (NONO-TFE3 Fusion Protein Expression))) 40.91%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39805](http://purl.obolibrary.org/obo/NCIT_C39805) (PSF-TFE3 Fusion Protein Expression))) 40.91%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39803](http://purl.obolibrary.org/obo/NCIT_C39803) (PRCC-TFE3 Fusion Protein Expression))) 40.91%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39802](http://purl.obolibrary.org/obo/NCIT_C39802) (Renal Cell Carcinoma Associated with inv(X)(p11;q12)))) 40.91%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39801](http://purl.obolibrary.org/obo/NCIT_C39801) (inv(X)(p11;q12)))) 40.91%
+- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39800](http://purl.obolibrary.org/obo/NCIT_C39800) (Sickle Cell Trait))) 40.91%
 
 

@@ -8,18 +8,18 @@
 
 - [NCIT:C62342](http://purl.obolibrary.org/obo/NCIT_C62342) (Melanoma Cell with Large Nucleus and Abundant Pale Cytoplasm) 60.00%
 - [NCIT:C18363](http://purl.obolibrary.org/obo/NCIT_C18363) (BRAF Gene) 60.00%
-- Thing 51.45%
+- Thing 51.82%
 - [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) 45.36%
-- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C36966](http://purl.obolibrary.org/obo/NCIT_C36966) (Malignant Glomus Cell))) 45.36%
-- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C36959](http://purl.obolibrary.org/obo/NCIT_C36959) (Neoplastic Fibroblast-Like Cell))) 45.36%
-- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C36957](http://purl.obolibrary.org/obo/NCIT_C36957) (Neoplastic Spindle-Shaped Myofibroblast))) 45.36%
-- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C36953](http://purl.obolibrary.org/obo/NCIT_C36953) (Bizarre Cell with Evidence of Skeletal Muscle Differentiation))) 45.36%
-- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C36951](http://purl.obolibrary.org/obo/NCIT_C36951) (Round Cell with Primitive Myoblastic Differentiation))) 45.36%
-- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C36944](http://purl.obolibrary.org/obo/NCIT_C36944) (Malignant Small Undifferentiated Cell))) 45.36%
-- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C36923](http://purl.obolibrary.org/obo/NCIT_C36923) (Neoplastic Endocrine Null Cell))) 45.36%
-- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C36921](http://purl.obolibrary.org/obo/NCIT_C36921) (Neoplastic Gonadotroph Cell))) 45.36%
-- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C36908](http://purl.obolibrary.org/obo/NCIT_C36908) (Apocrine Carcinoma Cell))) 45.36%
-- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C36899](http://purl.obolibrary.org/obo/NCIT_C36899) (Neoplastic Stellate Cell))) 45.36%
-- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C36896](http://purl.obolibrary.org/obo/NCIT_C36896) (Neoplastic Leydig Cell))) 45.36%
+- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C39901](http://purl.obolibrary.org/obo/NCIT_C39901) (Prostatic Duct Urothelial Carcinoma))) 45.36%
+- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C39899](http://purl.obolibrary.org/obo/NCIT_C39899) (Secondary Prostate Urothelial Carcinoma))) 45.36%
+- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C39897](http://purl.obolibrary.org/obo/NCIT_C39897) (Prostate Ductal Adenocarcinoma, Solid Pattern))) 45.36%
+- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C39896](http://purl.obolibrary.org/obo/NCIT_C39896) (Prostate Ductal Adenocarcinoma, Papillary Pattern))) 45.36%
+- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C39895](http://purl.obolibrary.org/obo/NCIT_C39895) (Prostate Ductal Adenocarcinoma, Cribriform Pattern))) 45.36%
+- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C3989](http://purl.obolibrary.org/obo/NCIT_C3989) (Parathyroid Hyperplasia))) 45.36%
+- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C39885](http://purl.obolibrary.org/obo/NCIT_C39885) (Acinar Prostate Adenocarcinoma, Lymphoepithelioma-Like Variant))) 45.36%
+- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C39880](http://purl.obolibrary.org/obo/NCIT_C39880) (Acinar Prostate Adenocarcinoma, Atrophic Variant))) 45.36%
+- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q))) 45.36%
+- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C39874](http://purl.obolibrary.org/obo/NCIT_C39874) (Urethral Verrucous Carcinoma))) 45.36%
+- [NCIT:C62400](http://purl.obolibrary.org/obo/NCIT_C62400) (Large Melanoma Cell) and (not ([NCIT:C39873](http://purl.obolibrary.org/obo/NCIT_C39873) (Urethral Glandular Metaplasia))) 45.36%
 
 

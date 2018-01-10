@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36476](http://purl.obolibrary.org/obo/NCIT_C36476) (Trisomy 7) 60.00%
-- [NCIT:C35925](http://purl.obolibrary.org/obo/NCIT_C35925) (Tubular Pattern) 60.00%
-- [NCIT:C35380](http://purl.obolibrary.org/obo/NCIT_C35380) (Hemorrhagic Change) 60.00%
-- Thing 51.45%
-- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 45.13%
-- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 44.93%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 43.56%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 42.71%
-- [NCIT:C41454](http://purl.obolibrary.org/obo/NCIT_C41454) (Cystic Change) 38.87%
-- [NCIT:C36184](http://purl.obolibrary.org/obo/NCIT_C36184) (Necrotic Change) 26.67%
-- [NCIT:C3421](http://purl.obolibrary.org/obo/NCIT_C3421) (Trisomy) 22.13%
-- [NCIT:C2873](http://purl.obolibrary.org/obo/NCIT_C2873) (Aneuploidy) 18.57%
-- [NCIT:C35886](http://purl.obolibrary.org/obo/NCIT_C35886) (Morphologic Architectural Pattern) 16.20%
-- [NCIT:C6825](http://purl.obolibrary.org/obo/NCIT_C6825) (Numerical Chromosomal Abnormality) 14.17%
-- [NCIT:C2950](http://purl.obolibrary.org/obo/NCIT_C2950) (Cytogenetic Abnormality) 12.88%
+- Thing 53.55%
+- [NCIT:C37867](http://purl.obolibrary.org/obo/NCIT_C37867) (Tetrasomy 7) 52.63%
+- [NCIT:C37866](http://purl.obolibrary.org/obo/NCIT_C37866) (Trisomy 16) 52.63%
+- [NCIT:C37865](http://purl.obolibrary.org/obo/NCIT_C37865) (Trisomy 17) 52.63%
+- [NCIT:C36476](http://purl.obolibrary.org/obo/NCIT_C36476) (Trisomy 7) 52.63%
+- [NCIT:C36420](http://purl.obolibrary.org/obo/NCIT_C36420) (Trisomy 12) 52.63%
+- [NCIT:C36397](http://purl.obolibrary.org/obo/NCIT_C36397) (Trisomy 20) 52.63%
+- [NCIT:C36601](http://purl.obolibrary.org/obo/NCIT_C36601) (Tetrasomy) and (not ([NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12))) 52.63%
+- [NCIT:C3421](http://purl.obolibrary.org/obo/NCIT_C3421) (Trisomy) 40.27%
+- [NCIT:C36601](http://purl.obolibrary.org/obo/NCIT_C36601) (Tetrasomy) 37.99%
+- [NCIT:C36601](http://purl.obolibrary.org/obo/NCIT_C36601) (Tetrasomy) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 37.99%
+- [NCIT:C36601](http://purl.obolibrary.org/obo/NCIT_C36601) (Tetrasomy) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 37.99%
+- [NCIT:C36601](http://purl.obolibrary.org/obo/NCIT_C36601) (Tetrasomy) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 37.99%
+- [NCIT:C36601](http://purl.obolibrary.org/obo/NCIT_C36601) (Tetrasomy) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 37.99%
+- [NCIT:C36601](http://purl.obolibrary.org/obo/NCIT_C36601) (Tetrasomy) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 37.99%
 
 

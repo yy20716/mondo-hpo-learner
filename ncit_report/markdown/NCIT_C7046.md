@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C47835](http://purl.obolibrary.org/obo/NCIT_C47835) (Nesting (Zellballen) Growth Pattern) 66.67%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C35914](http://purl.obolibrary.org/obo/NCIT_C35914) (Gyriform Trabecular Pattern))) 66.67%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) 52.02%
-- [NCIT:C35892](http://purl.obolibrary.org/obo/NCIT_C35892) (Nested Pattern) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([CHEBI:22868](http://purl.obolibrary.org/obo/CHEBI_22868) (bile salt))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not (CARO:0010000)) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null))) 52.02%
+- [NCIT:C3090](http://purl.obolibrary.org/obo/NCIT_C3090) (Hematuria) 57.14%
+- [NCIT:C3117](http://purl.obolibrary.org/obo/NCIT_C3117) (Hypertension) and (not ([NCIT:C3119](http://purl.obolibrary.org/obo/NCIT_C3119) (Portal Hypertension))) 57.14%
+- Thing 52.15%
+- [NCIT:C54707](http://purl.obolibrary.org/obo/NCIT_C54707) (Blood Pressure Finding) 42.50%
+- [NCIT:C3117](http://purl.obolibrary.org/obo/NCIT_C3117) (Hypertension) 42.50%
+- [NCIT:C3117](http://purl.obolibrary.org/obo/NCIT_C3117) (Hypertension) and (not ([NCIT:C3972](http://purl.obolibrary.org/obo/NCIT_C3972) (Prostate Fibroma))) 42.50%
+- [NCIT:C3117](http://purl.obolibrary.org/obo/NCIT_C3117) (Hypertension) and (not ([NCIT:C39719](http://purl.obolibrary.org/obo/NCIT_C39719) (PDGFRalpha Protein Overexpression))) 42.50%
+- [NCIT:C3117](http://purl.obolibrary.org/obo/NCIT_C3117) (Hypertension) and (not ([NCIT:C39718](http://purl.obolibrary.org/obo/NCIT_C39718) (PDGFRA Gene Mutation))) 42.50%
+- [NCIT:C3117](http://purl.obolibrary.org/obo/NCIT_C3117) (Hypertension) and (not ([NCIT:C39717](http://purl.obolibrary.org/obo/NCIT_C39717) (MDM2 Gene Mutation))) 42.50%
+- [NCIT:C3117](http://purl.obolibrary.org/obo/NCIT_C3117) (Hypertension) and (not ([NCIT:C39716](http://purl.obolibrary.org/obo/NCIT_C39716) (EGFR Protein Overexpression))) 42.50%
+- [NCIT:C3117](http://purl.obolibrary.org/obo/NCIT_C3117) (Hypertension) and (not ([NCIT:C39715](http://purl.obolibrary.org/obo/NCIT_C39715) (CD30-Positive Neoplastic Cells Present))) 42.50%
+- [NCIT:C3117](http://purl.obolibrary.org/obo/NCIT_C3117) (Hypertension) and (not ([NCIT:C39712](http://purl.obolibrary.org/obo/NCIT_C39712) (KIT Gene Mutation))) 42.50%
+- [NCIT:C3117](http://purl.obolibrary.org/obo/NCIT_C3117) (Hypertension) and (not ([NCIT:C39711](http://purl.obolibrary.org/obo/NCIT_C39711) (C-KIT Tyrosine Kinase Protein Overexpression))) 42.50%
+- [NCIT:C3117](http://purl.obolibrary.org/obo/NCIT_C3117) (Hypertension) and (not ([NCIT:C39709](http://purl.obolibrary.org/obo/NCIT_C39709) (Confluent Sheets of Anaplastic T-Lymphocytes Present))) 42.50%
+- [NCIT:C3117](http://purl.obolibrary.org/obo/NCIT_C3117) (Hypertension) and (not ([NCIT:C39708](http://purl.obolibrary.org/obo/NCIT_C39708) (Cerebriform-Like Lymphocyte))) 42.50%
 
 
