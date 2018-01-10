@@ -14,7 +14,7 @@
 - [NCIT:C35883](http://purl.obolibrary.org/obo/NCIT_C35883) (Blast Cells Increased in Bone Marrow) and [NCIT:C42719](http://purl.obolibrary.org/obo/NCIT_C42719) (Cells of Monocytic Lineage 80 Percent or More of Bone Marrow Leukemic Cells) 75.00%
 - [NCIT:C35880](http://purl.obolibrary.org/obo/NCIT_C35880) (Blast Cells Present) and [NCIT:C42719](http://purl.obolibrary.org/obo/NCIT_C42719) (Cells of Monocytic Lineage 80 Percent or More of Bone Marrow Leukemic Cells) 75.00%
 - [NCIT:C42719](http://purl.obolibrary.org/obo/NCIT_C42719) (Cells of Monocytic Lineage 80 Percent or More of Bone Marrow Leukemic Cells) 53.87%
-- Thing 50.92%
+- Thing 51.15%
 - [NCIT:C37067](http://purl.obolibrary.org/obo/NCIT_C37067) (Neoplastic Myeloid Blast) 40.81%
 - [NCIT:C37064](http://purl.obolibrary.org/obo/NCIT_C37064) (Neoplastic Blast) 37.50%
 - [NCIT:C41063](http://purl.obolibrary.org/obo/NCIT_C41063) (Neoplastic Myeloid Cell) 36.47%

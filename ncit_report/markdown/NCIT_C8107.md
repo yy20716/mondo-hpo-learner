@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C34333](http://purl.obolibrary.org/obo/NCIT_C34333) (Abdominal Mass) 75.00%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C40122](http://purl.obolibrary.org/obo/NCIT_C40122) (Pelvic Pain))) 75.00%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C35272](http://purl.obolibrary.org/obo/NCIT_C35272) (Lower Abdominal Pain))) 75.00%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) 60.36%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion))) 60.36%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 60.36%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 60.36%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 60.36%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 60.36%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 60.36%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 60.36%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not (CARO:0010000)) 60.36%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 60.36%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null))) 60.36%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 52.52%
+- Thing 51.63%
+- [NCIT:C53644](http://purl.obolibrary.org/obo/NCIT_C53644) (Malignant Cell with Eosinophilic Cytoplasm) and (not ([NCIT:C61295](http://purl.obolibrary.org/obo/NCIT_C61295) (Neoplastic Epithelial Cell with Eosinophilic Cytoplasm))) 47.86%
+- [NCIT:C53644](http://purl.obolibrary.org/obo/NCIT_C53644) (Malignant Cell with Eosinophilic Cytoplasm) and (not ([NCIT:C61145](http://purl.obolibrary.org/obo/NCIT_C61145) (Adenocarcinoma Cell with Eosinophilic Cytoplasm))) 47.86%
+- [NCIT:C53644](http://purl.obolibrary.org/obo/NCIT_C53644) (Malignant Cell with Eosinophilic Cytoplasm) and (not ([NCIT:C61110](http://purl.obolibrary.org/obo/NCIT_C61110) (Large Adenocarcinoma Cell with Eosinophilic Cytoplasm))) 47.86%
+- [NCIT:C53644](http://purl.obolibrary.org/obo/NCIT_C53644) (Malignant Cell with Eosinophilic Cytoplasm) and (not ([NCIT:C60433](http://purl.obolibrary.org/obo/NCIT_C60433) (Adenocarcinoma Cell with Abundant Cytoplasm))) 47.86%
+- [NCIT:C53644](http://purl.obolibrary.org/obo/NCIT_C53644) (Malignant Cell with Eosinophilic Cytoplasm) and (not ([NCIT:C53666](http://purl.obolibrary.org/obo/NCIT_C53666) (Malignant Cell with Large Nucleus and Abundant Eosinophilic Cytoplasm))) 47.86%
+- [NCIT:C53644](http://purl.obolibrary.org/obo/NCIT_C53644) (Malignant Cell with Eosinophilic Cytoplasm) and (not ([NCIT:C37164](http://purl.obolibrary.org/obo/NCIT_C37164) (Neoplastic Polygonal Cell with Eosinophilic Cytoplasm))) 47.86%
+- [NCIT:C53644](http://purl.obolibrary.org/obo/NCIT_C53644) (Malignant Cell with Eosinophilic Cytoplasm) and (not ([NCIT:C37162](http://purl.obolibrary.org/obo/NCIT_C37162) (Neoplastic Large Cell))) 47.86%
+- [NCIT:C53644](http://purl.obolibrary.org/obo/NCIT_C53644) (Malignant Cell with Eosinophilic Cytoplasm) and (not ([NCIT:C37107](http://purl.obolibrary.org/obo/NCIT_C37107) (Neoplastic Large Cell with Abundant Cytoplasm))) 47.86%
+- [NCIT:C53644](http://purl.obolibrary.org/obo/NCIT_C53644) (Malignant Cell with Eosinophilic Cytoplasm) and (not ([NCIT:C37036](http://purl.obolibrary.org/obo/NCIT_C37036) (Neoplastic Epithelial Polygonal Cell))) 47.86%
+- [NCIT:C53644](http://purl.obolibrary.org/obo/NCIT_C53644) (Malignant Cell with Eosinophilic Cytoplasm) and (not ([NCIT:C36851](http://purl.obolibrary.org/obo/NCIT_C36851) (Neoplastic Polygonal Cell))) 47.86%
+- [NCIT:C53644](http://purl.obolibrary.org/obo/NCIT_C53644) (Malignant Cell with Eosinophilic Cytoplasm) and (not ([NCIT:C36850](http://purl.obolibrary.org/obo/NCIT_C36850) (Polygonal Adenocarcinoma Cell with Eosinophilic Cytoplasm))) 47.86%
+- [NCIT:C53644](http://purl.obolibrary.org/obo/NCIT_C53644) (Malignant Cell with Eosinophilic Cytoplasm) and (not ([NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell))) 47.86%
+- [NCIT:C53644](http://purl.obolibrary.org/obo/NCIT_C53644) (Malignant Cell with Eosinophilic Cytoplasm) and (not ([NCIT:C36794](http://purl.obolibrary.org/obo/NCIT_C36794) (Dysplastic Glandular Cell))) 47.86%
+- [NCIT:C53644](http://purl.obolibrary.org/obo/NCIT_C53644) (Malignant Cell with Eosinophilic Cytoplasm) and (not ([NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell))) 47.86%
 
 

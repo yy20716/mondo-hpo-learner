@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0001016](http://purl.obolibrary.org/obo/UBERON_0001016) (nervous system) 75.00%
-- [NCIT:C41457](http://purl.obolibrary.org/obo/NCIT_C41457) (Well-Circumscribed Lesion) 75.00%
-- Thing 50.92%
-- [UBERON:0000467](http://purl.obolibrary.org/obo/UBERON_0000467) (anatomical system) 32.81%
-- [NCIT:C3824](http://purl.obolibrary.org/obo/NCIT_C3824) (Lesion) 31.25%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 26.78%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 26.36%
-- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 26.28%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 26.21%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 26.13%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 26.12%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 26.03%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 26.02%
-- CP:0000037 0.00%
-- CP:0000035 0.00%
+- [UBERON:0008946](http://purl.obolibrary.org/obo/UBERON_0008946) (lung parenchyma) 58.33%
+- [UBERON:0007811](http://purl.obolibrary.org/obo/UBERON_0007811) (craniocervical region) 58.33%
+- [UBERON:0002048](http://purl.obolibrary.org/obo/UBERON_0002048) (lung) 58.33%
+- [UBERON:0001016](http://purl.obolibrary.org/obo/UBERON_0001016) (nervous system) 58.33%
+- [UBERON:0000171](http://purl.obolibrary.org/obo/UBERON_0000171) (respiration organ) 58.33%
+- [UBERON:0005178](http://purl.obolibrary.org/obo/UBERON_0005178) (thoracic cavity element) and [UBERON:0015212](http://purl.obolibrary.org/obo/UBERON_0015212) (lateral structure) 58.33%
+- [UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure) and [UBERON:0005178](http://purl.obolibrary.org/obo/UBERON_0005178) (thoracic cavity element) 58.33%
+- [UBERON:0000171](http://purl.obolibrary.org/obo/UBERON_0000171) (respiration organ) and [UBERON:0005178](http://purl.obolibrary.org/obo/UBERON_0005178) (thoracic cavity element) 58.33%
+- Thing 51.99%
+- [UBERON:0005178](http://purl.obolibrary.org/obo/UBERON_0005178) (thoracic cavity element) 43.69%
+- [UBERON:0005178](http://purl.obolibrary.org/obo/UBERON_0005178) (thoracic cavity element) and (not ([NCIT:C39834](http://purl.obolibrary.org/obo/NCIT_C39834) (Bladder Squamous Papilloma))) 43.69%
+- [UBERON:0005178](http://purl.obolibrary.org/obo/UBERON_0005178) (thoracic cavity element) and (not ([NCIT:C39833](http://purl.obolibrary.org/obo/NCIT_C39833) (Schistosoma Hematobium-Related Bladder Verrucous Carcinoma))) 43.69%
+- [UBERON:0005178](http://purl.obolibrary.org/obo/UBERON_0005178) (thoracic cavity element) and (not ([NCIT:C39829](http://purl.obolibrary.org/obo/NCIT_C39829) (Infiltrating Bladder Urothelial Carcinoma with Giant Cells))) 43.69%
+- [UBERON:0005178](http://purl.obolibrary.org/obo/UBERON_0005178) (thoracic cavity element) and (not ([NCIT:C39826](http://purl.obolibrary.org/obo/NCIT_C39826) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant without Heterologous Elements))) 43.69%
+- [UBERON:0005178](http://purl.obolibrary.org/obo/UBERON_0005178) (thoracic cavity element) and (not ([NCIT:C39825](http://purl.obolibrary.org/obo/NCIT_C39825) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant with Heterologous Elements))) 43.69%
 
 

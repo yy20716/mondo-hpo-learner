@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 52.98%
+- Thing 53.73%
 - [NCIT:C36448](http://purl.obolibrary.org/obo/NCIT_C36448) (Clonal T-Cell Receptor Gamma Chain Gene Rearrangement) 52.38%
 - [NCIT:C36447](http://purl.obolibrary.org/obo/NCIT_C36447) (Clonal T-Cell Receptor Beta Chain Gene Rearrangement) 52.38%
 - [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) 45.59%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C37084](http://purl.obolibrary.org/obo/NCIT_C37084) (Hyperchromatic Spindle Cell))) 45.59%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C37078](http://purl.obolibrary.org/obo/NCIT_C37078) (Pseudo-Gaucher Cell))) 45.59%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C37076](http://purl.obolibrary.org/obo/NCIT_C37076) (Neoplastic Neutrophilic Precursor))) 45.59%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C37075](http://purl.obolibrary.org/obo/NCIT_C37075) (Neoplastic Promonocyte))) 45.59%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C37074](http://purl.obolibrary.org/obo/NCIT_C37074) (Hypogranular Promyelocyte))) 45.59%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C37073](http://purl.obolibrary.org/obo/NCIT_C37073) (Hypergranular Promyelocyte))) 45.59%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C37071](http://purl.obolibrary.org/obo/NCIT_C37071) (Neoplastic T-Lymphoblast))) 45.59%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C37070](http://purl.obolibrary.org/obo/NCIT_C37070) (Neoplastic B-Lymphoblast))) 45.59%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C3707](http://purl.obolibrary.org/obo/NCIT_C3707) (Meningiomatosis))) 45.59%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C37068](http://purl.obolibrary.org/obo/NCIT_C37068) (Neoplastic Megakaryoblast))) 45.59%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C37063](http://purl.obolibrary.org/obo/NCIT_C37063) (Immature Malignant Mast Cell))) 45.59%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C39844](http://purl.obolibrary.org/obo/NCIT_C39844) (Bladder Urachal Urothelial Carcinoma))) 45.59%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C39834](http://purl.obolibrary.org/obo/NCIT_C39834) (Bladder Squamous Papilloma))) 45.59%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C39833](http://purl.obolibrary.org/obo/NCIT_C39833) (Schistosoma Hematobium-Related Bladder Verrucous Carcinoma))) 45.59%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C39829](http://purl.obolibrary.org/obo/NCIT_C39829) (Infiltrating Bladder Urothelial Carcinoma with Giant Cells))) 45.59%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C39826](http://purl.obolibrary.org/obo/NCIT_C39826) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant without Heterologous Elements))) 45.59%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C39825](http://purl.obolibrary.org/obo/NCIT_C39825) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant with Heterologous Elements))) 45.59%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C39821](http://purl.obolibrary.org/obo/NCIT_C39821) (Infiltrating Bladder Lymphoepithelioma-Like Carcinoma))) 45.59%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C39820](http://purl.obolibrary.org/obo/NCIT_C39820) (Infiltrating Bladder Urothelial Carcinoma, Microcystic Variant))) 45.59%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C39819](http://purl.obolibrary.org/obo/NCIT_C39819) (Infiltrating Bladder Urothelial Carcinoma, Nested Variant))) 45.59%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C39818](http://purl.obolibrary.org/obo/NCIT_C39818) (Infiltrating Bladder Urothelial Carcinoma with Trophoblastic Differentiation))) 45.59%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C39817](http://purl.obolibrary.org/obo/NCIT_C39817) (Infiltrating Bladder Urothelial Carcinoma with Glandular Differentiation))) 45.59%
 
 

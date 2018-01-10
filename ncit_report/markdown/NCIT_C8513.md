@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C9232](http://purl.obolibrary.org/obo/NCIT_C9232) (Weight Change) 57.14%
-- [NCIT:C37930](http://purl.obolibrary.org/obo/NCIT_C37930) (Constipation) 57.14%
-- [NCIT:C3445](http://purl.obolibrary.org/obo/NCIT_C3445) (Weight Loss) 57.14%
-- [NCIT:C27966](http://purl.obolibrary.org/obo/NCIT_C27966) (Stage I) 57.14%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C27054](http://purl.obolibrary.org/obo/NCIT_C27054) (Rectal Hemorrhage))) 57.14%
-- Thing 51.72%
-- [NCIT:C100104](http://purl.obolibrary.org/obo/NCIT_C100104) (Sign or Symptom) 48.80%
-- [NCIT:C78438](http://purl.obolibrary.org/obo/NCIT_C78438) (Lower Gastrointestinal Hemorrhage) 42.50%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) 42.50%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) 42.50%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C37129](http://purl.obolibrary.org/obo/NCIT_C37129) (Fibrillary Neoplastic Astrocyte))) 42.50%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C37115](http://purl.obolibrary.org/obo/NCIT_C37115) (Serous Adenocarcinoma Cell))) 42.50%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C37108](http://purl.obolibrary.org/obo/NCIT_C37108) (Adenocarcinoma Spindle Cell))) 42.50%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C37091](http://purl.obolibrary.org/obo/NCIT_C37091) (Vacuolated Endothelial Cell))) 42.50%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C37085](http://purl.obolibrary.org/obo/NCIT_C37085) (Undifferentiated Carcinoma Cell))) 42.50%
+- [NCIT:C78438](http://purl.obolibrary.org/obo/NCIT_C78438) (Lower Gastrointestinal Hemorrhage) 62.50%
+- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) 62.50%
+- [NCIT:C100104](http://purl.obolibrary.org/obo/NCIT_C100104) (Sign or Symptom) 59.23%
+- [NCIT:C60661](http://purl.obolibrary.org/obo/NCIT_C60661) (Tenesmus) 56.25%
+- [NCIT:C37930](http://purl.obolibrary.org/obo/NCIT_C37930) (Constipation) 56.25%
+- [NCIT:C27054](http://purl.obolibrary.org/obo/NCIT_C27054) (Rectal Hemorrhage) 56.25%
+- [NCIT:C5034](http://purl.obolibrary.org/obo/NCIT_C5034) (Disturbance in Bowel Function) 53.32%
+- [NCIT:C48592](http://purl.obolibrary.org/obo/NCIT_C48592) (Gastrointestinal Hemorrhage) 53.32%
+- [NCIT:C119722](http://purl.obolibrary.org/obo/NCIT_C119722) (Digestive System Hemorrhage) 53.32%
+- [NCIT:C48592](http://purl.obolibrary.org/obo/NCIT_C48592) (Gastrointestinal Hemorrhage) and (not ([NCIT:C40104](http://purl.obolibrary.org/obo/NCIT_C40104) (Fallopian Tube Transitional Cell Carcinoma))) 53.32%
+- [NCIT:C48592](http://purl.obolibrary.org/obo/NCIT_C48592) (Gastrointestinal Hemorrhage) and (not ([NCIT:C40103](http://purl.obolibrary.org/obo/NCIT_C40103) (Fallopian Tube Mucinous Adenocarcinoma))) 53.32%
+- [NCIT:C48592](http://purl.obolibrary.org/obo/NCIT_C48592) (Gastrointestinal Hemorrhage) and (not ([NCIT:C40093](http://purl.obolibrary.org/obo/NCIT_C40093) (Ovarian Squamous Cell Carcinoma))) 53.32%
+- [NCIT:C48592](http://purl.obolibrary.org/obo/NCIT_C48592) (Gastrointestinal Hemorrhage) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 53.32%
+- [NCIT:C48592](http://purl.obolibrary.org/obo/NCIT_C48592) (Gastrointestinal Hemorrhage) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 53.32%
+- [NCIT:C48592](http://purl.obolibrary.org/obo/NCIT_C48592) (Gastrointestinal Hemorrhage) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 53.32%
 
 

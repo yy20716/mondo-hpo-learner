@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C37026](http://purl.obolibrary.org/obo/NCIT_C37026) (Hodgkin-Like Cell) 54.55%
-- [NCIT:C37024](http://purl.obolibrary.org/obo/NCIT_C37024) (Reed-Sternberg-Like Cell) 54.55%
-- [NCIT:C36448](http://purl.obolibrary.org/obo/NCIT_C36448) (Clonal T-Cell Receptor Gamma Chain Gene Rearrangement) 54.55%
-- [NCIT:C36447](http://purl.obolibrary.org/obo/NCIT_C36447) (Clonal T-Cell Receptor Beta Chain Gene Rearrangement) 54.55%
-- Thing 52.16%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) 49.92%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12))) 49.92%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36599](http://purl.obolibrary.org/obo/NCIT_C36599) (Loss of Chromosome Y))) 49.92%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36598](http://purl.obolibrary.org/obo/NCIT_C36598) (Loss of Chromosome 18))) 49.92%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36597](http://purl.obolibrary.org/obo/NCIT_C36597) (Loss of Chromosome 1))) 49.92%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36596](http://purl.obolibrary.org/obo/NCIT_C36596) (Gain of Chromosome 6q))) 49.92%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36595](http://purl.obolibrary.org/obo/NCIT_C36595) (Loss of Chromosome 16p))) 49.92%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36594](http://purl.obolibrary.org/obo/NCIT_C36594) (del(6q21q25)))) 49.92%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36593](http://purl.obolibrary.org/obo/NCIT_C36593) (Increased NFkappaB Pathway Activation))) 49.92%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C36592](http://purl.obolibrary.org/obo/NCIT_C36592) (Gain of Chromosome 9q34))) 49.92%
+- Thing 54.07%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) 52.72%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C13208](http://purl.obolibrary.org/obo/NCIT_C13208) (Chromosome 13))) 52.72%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C13207](http://purl.obolibrary.org/obo/NCIT_C13207) (Chromosome 12))) 52.72%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C13206](http://purl.obolibrary.org/obo/NCIT_C13206) (Chromosome 11))) 52.72%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C13205](http://purl.obolibrary.org/obo/NCIT_C13205) (Chromosome 10))) 52.72%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C13204](http://purl.obolibrary.org/obo/NCIT_C13204) (Chromosome 1))) 52.72%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C132018](http://purl.obolibrary.org/obo/NCIT_C132018) (MYC Gene Rearrangement))) 52.72%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C13201](http://purl.obolibrary.org/obo/NCIT_C13201) (Chromatin))) 52.72%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C13197](http://purl.obolibrary.org/obo/NCIT_C13197) (Nucleus))) 52.72%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C131913](http://purl.obolibrary.org/obo/NCIT_C131913) (High-Grade B-Cell Lymphoma with MYC, BCL2, and BCL6 Rearrangements))) 52.72%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C131906](http://purl.obolibrary.org/obo/NCIT_C131906) (EBV-Positive Mucocutaneous Ulcer))) 52.72%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C131875](http://purl.obolibrary.org/obo/NCIT_C131875) (Recurrent Childhood T Acute Lymphoblastic Leukemia))) 52.72%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C131613](http://purl.obolibrary.org/obo/NCIT_C131613) (Infratentorial and Spinal Cord Ependymal Tumor))) 52.72%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C131605](http://purl.obolibrary.org/obo/NCIT_C131605) (Cervical and Thoracic Spinal Cord Ependymal Tumor))) 52.72%
 
 

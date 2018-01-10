@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0003357](http://purl.obolibrary.org/obo/UBERON_0003357) (epithelium of tongue) 75.00%
-- [UBERON:0001723](http://purl.obolibrary.org/obo/UBERON_0001723) (tongue) 75.00%
-- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 51.86%
-- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 51.81%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 51.70%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 51.60%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 51.59%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 51.45%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 51.44%
-- Thing 50.92%
-- [UBERON:0000020](http://purl.obolibrary.org/obo/UBERON_0000020) (sense organ) 42.68%
-- [UBERON:0013765](http://purl.obolibrary.org/obo/UBERON_0013765) (digestive system element) 33.84%
-- [UBERON:0000483](http://purl.obolibrary.org/obo/UBERON_0000483) (epithelium) 28.57%
-- [UBERON:0010314](http://purl.obolibrary.org/obo/UBERON_0010314) (structure with developmental contribution from neural crest) 28.25%
-- [UBERON:0000062](http://purl.obolibrary.org/obo/UBERON_0000062) (organ) 28.13%
+- [UBERON:0010032](http://purl.obolibrary.org/obo/UBERON_0010032) (anterior part of tongue) 66.67%
+- [UBERON:0003357](http://purl.obolibrary.org/obo/UBERON_0003357) (epithelium of tongue) 66.67%
+- [UBERON:0001723](http://purl.obolibrary.org/obo/UBERON_0001723) (tongue) 66.67%
+- [UBERON:0000020](http://purl.obolibrary.org/obo/UBERON_0000020) (sense organ) and [UBERON:0013765](http://purl.obolibrary.org/obo/UBERON_0013765) (digestive system element) 66.67%
+- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 54.26%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 54.14%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 54.11%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 53.68%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 53.64%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 53.27%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 53.26%
+- Thing 51.41%
+- [UBERON:0000020](http://purl.obolibrary.org/obo/UBERON_0000020) (sense organ) 45.53%
+- [UBERON:0000020](http://purl.obolibrary.org/obo/UBERON_0000020) (sense organ) and [UBERON:0010314](http://purl.obolibrary.org/obo/UBERON_0010314) (structure with developmental contribution from neural crest) 45.53%
+- [UBERON:0010314](http://purl.obolibrary.org/obo/UBERON_0010314) (structure with developmental contribution from neural crest) 43.43%
 
 

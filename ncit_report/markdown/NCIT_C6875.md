@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C60707](http://purl.obolibrary.org/obo/NCIT_C60707) (Neuron-Specific Enolase Positive Neoplastic Cells Present) 60.00%
-- [NCIT:C36104](http://purl.obolibrary.org/obo/NCIT_C36104) (Aggressive Clinical Course) 60.00%
-- Thing 51.45%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) 45.36%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C37049](http://purl.obolibrary.org/obo/NCIT_C37049) (Hyperchromatic Megakaryocyte))) 45.36%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C37048](http://purl.obolibrary.org/obo/NCIT_C37048) (Monolobed Megakaryocyte))) 45.36%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C37045](http://purl.obolibrary.org/obo/NCIT_C37045) (Giant Megakaryocyte))) 45.36%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C37044](http://purl.obolibrary.org/obo/NCIT_C37044) (Large Megakaryocyte))) 45.36%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C37041](http://purl.obolibrary.org/obo/NCIT_C37041) (Neoplastic Monocyte))) 45.36%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C3704](http://purl.obolibrary.org/obo/NCIT_C3704) (Dedifferentiated Liposarcoma))) 45.36%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C37039](http://purl.obolibrary.org/obo/NCIT_C37039) (Large Atypical Platelet))) 45.36%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C37032](http://purl.obolibrary.org/obo/NCIT_C37032) (Abnormal Eosinophil))) 45.36%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C37030](http://purl.obolibrary.org/obo/NCIT_C37030) (Toxic Neutrophil))) 45.36%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C37027](http://purl.obolibrary.org/obo/NCIT_C37027) (Popcorn Cell))) 45.36%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C37026](http://purl.obolibrary.org/obo/NCIT_C37026) (Hodgkin-Like Cell))) 45.36%
+- Thing 53.82%
+- [NCIT:C36824](http://purl.obolibrary.org/obo/NCIT_C36824) (Malignant Epithelial Giant Cell) 52.27%
+- [NCIT:C36788](http://purl.obolibrary.org/obo/NCIT_C36788) (Giant Epithelial Cell) 52.27%
+- [NCIT:C36914](http://purl.obolibrary.org/obo/NCIT_C36914) (Atypical Epithelial Cell) and [NCIT:C37162](http://purl.obolibrary.org/obo/NCIT_C37162) (Neoplastic Large Cell) 52.27%
+- [NCIT:C36822](http://purl.obolibrary.org/obo/NCIT_C36822) (Malignant Epithelial Large Cell) and [NCIT:C36914](http://purl.obolibrary.org/obo/NCIT_C36914) (Atypical Epithelial Cell) 52.27%
+- [NCIT:C36819](http://purl.obolibrary.org/obo/NCIT_C36819) (Neoplastic Multinucleated Giant Cell) and [NCIT:C36914](http://purl.obolibrary.org/obo/NCIT_C36914) (Atypical Epithelial Cell) 52.27%
+- [NCIT:C36819](http://purl.obolibrary.org/obo/NCIT_C36819) (Neoplastic Multinucleated Giant Cell) and [NCIT:C36822](http://purl.obolibrary.org/obo/NCIT_C36822) (Malignant Epithelial Large Cell) 52.27%
+- [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) and [NCIT:C36914](http://purl.obolibrary.org/obo/NCIT_C36914) (Atypical Epithelial Cell) 52.27%
+- [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) and [NCIT:C36819](http://purl.obolibrary.org/obo/NCIT_C36819) (Neoplastic Multinucleated Giant Cell) 52.27%
+- [NCIT:C36788](http://purl.obolibrary.org/obo/NCIT_C36788) (Giant Epithelial Cell) and [NCIT:C37162](http://purl.obolibrary.org/obo/NCIT_C37162) (Neoplastic Large Cell) 52.27%
+- [NCIT:C36788](http://purl.obolibrary.org/obo/NCIT_C36788) (Giant Epithelial Cell) and [NCIT:C36822](http://purl.obolibrary.org/obo/NCIT_C36822) (Malignant Epithelial Large Cell) 52.27%
+- [NCIT:C36788](http://purl.obolibrary.org/obo/NCIT_C36788) (Giant Epithelial Cell) and [NCIT:C36819](http://purl.obolibrary.org/obo/NCIT_C36819) (Neoplastic Multinucleated Giant Cell) 52.27%
+- [NCIT:C36788](http://purl.obolibrary.org/obo/NCIT_C36788) (Giant Epithelial Cell) and [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) 52.27%
+- [NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell) and [NCIT:C36914](http://purl.obolibrary.org/obo/NCIT_C36914) (Atypical Epithelial Cell) 52.27%
+- [NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell) and [NCIT:C36819](http://purl.obolibrary.org/obo/NCIT_C36819) (Neoplastic Multinucleated Giant Cell) 52.27%
 
 

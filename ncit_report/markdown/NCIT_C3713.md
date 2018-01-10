@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0002046](http://purl.obolibrary.org/obo/UBERON_0002046) (thyroid gland) 75.00%
-- [NCIT:C47826](http://purl.obolibrary.org/obo/NCIT_C47826) (Diffuse Lesion) 75.00%
-- Thing 50.92%
-- [NCIT:C3824](http://purl.obolibrary.org/obo/NCIT_C3824) (Lesion) 31.25%
-- [UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure) 28.86%
-- [UBERON:0010314](http://purl.obolibrary.org/obo/UBERON_0010314) (structure with developmental contribution from neural crest) 28.25%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 26.78%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 26.36%
-- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 26.31%
-- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 26.28%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 26.21%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 26.13%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 26.12%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 26.03%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 26.02%
+- [UBERON:0002046](http://purl.obolibrary.org/obo/UBERON_0002046) (thyroid gland) 55.56%
+- [UBERON:0001004](http://purl.obolibrary.org/obo/UBERON_0001004) (respiratory system) 55.56%
+- [NCIT:C62226](http://purl.obolibrary.org/obo/NCIT_C62226) (Juvenile Lesion) 55.56%
+- [NCIT:C62214](http://purl.obolibrary.org/obo/NCIT_C62214) (Intraductal Lesion) 55.56%
+- [NCIT:C47826](http://purl.obolibrary.org/obo/NCIT_C47826) (Diffuse Lesion) 55.56%
+- [NCIT:C36180](http://purl.obolibrary.org/obo/NCIT_C36180) (Multifocal Lesion) 55.56%
+- Thing 52.44%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) 40.91%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39162](http://purl.obolibrary.org/obo/NCIT_C39162) (NFAT Pathway))) 40.91%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39152](http://purl.obolibrary.org/obo/NCIT_C39152) (Hepatocyte Growth Factor Receptor Signaling Pathway BioCarta))) 40.91%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39147](http://purl.obolibrary.org/obo/NCIT_C39147) (Calpain-2 Cell Motility Pathway))) 40.91%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39146](http://purl.obolibrary.org/obo/NCIT_C39146) (MAPKinase Signaling Pathway))) 40.91%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39141](http://purl.obolibrary.org/obo/NCIT_C39141) (Longevity Pathway))) 40.91%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39135](http://purl.obolibrary.org/obo/NCIT_C39135) (Keratinocyte Differentiation Pathway))) 40.91%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C39130](http://purl.obolibrary.org/obo/NCIT_C39130) (Insulin Signaling Pathway))) 40.91%
 
 

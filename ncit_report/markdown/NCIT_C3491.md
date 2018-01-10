@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) 75.00%
-- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 75.00%
-- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 75.00%
-- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:4100000](http://purl.obolibrary.org/obo/UBERON_4100000) (skeletal element projection))) 75.00%
-- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 75.00%
-- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 75.00%
-- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 75.00%
-- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 75.00%
-- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 75.00%
-- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 75.00%
-- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 75.00%
-- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 75.00%
-- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 75.00%
-- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:2001431](http://purl.obolibrary.org/obo/UBERON_2001431) (primitive olfactory epithelium))) 75.00%
-- [NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability) and (not ([UBERON:2001073](http://purl.obolibrary.org/obo/UBERON_2001073) (axial vasculature))) 75.00%
+- [NCIT:C9232](http://purl.obolibrary.org/obo/NCIT_C9232) (Weight Change) 58.33%
+- [NCIT:C3445](http://purl.obolibrary.org/obo/NCIT_C3445) (Weight Loss) 58.33%
+- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C35292](http://purl.obolibrary.org/obo/NCIT_C35292) (Low Grade Fever))) 58.33%
+- Thing 51.99%
+- [NCIT:C100104](http://purl.obolibrary.org/obo/NCIT_C100104) (Sign or Symptom) 45.04%
+- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) 43.69%
+- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39741](http://purl.obolibrary.org/obo/NCIT_C39741) (Retroperitoneal Inflammatory Myofibroblastic Tumor))) 43.69%
+- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39740](http://purl.obolibrary.org/obo/NCIT_C39740) (Lung Inflammatory Myofibroblastic Tumor))) 43.69%
+- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39739](http://purl.obolibrary.org/obo/NCIT_C39739) (Negative Peripheral Blood))) 43.69%
+- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39725](http://purl.obolibrary.org/obo/NCIT_C39725) (Immunodeficiency))) 43.69%
+- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39721](http://purl.obolibrary.org/obo/NCIT_C39721) (Abundance of Small Lymphocytes))) 43.69%
+- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39720](http://purl.obolibrary.org/obo/NCIT_C39720) (Classical Reed-Sternberg Cell))) 43.69%
+- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C3972](http://purl.obolibrary.org/obo/NCIT_C3972) (Prostate Fibroma))) 43.69%
+- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39719](http://purl.obolibrary.org/obo/NCIT_C39719) (PDGFRalpha Protein Overexpression))) 43.69%
+- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39718](http://purl.obolibrary.org/obo/NCIT_C39718) (PDGFRA Gene Mutation))) 43.69%
 
 

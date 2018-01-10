@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C53637](http://purl.obolibrary.org/obo/NCIT_C53637) (Malignant Spindle Cell))) 66.67%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C49056](http://purl.obolibrary.org/obo/NCIT_C49056) (Malignant Mesenchymal Spindle Cell))) 66.67%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C36954](http://purl.obolibrary.org/obo/NCIT_C36954) (Neoplastic Connective and Soft Tissue Spindle Cell))) 66.67%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C36823](http://purl.obolibrary.org/obo/NCIT_C36823) (Neoplastic Spindle Cell))) 66.67%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) 52.02%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([CHEBI:23019](http://purl.obolibrary.org/obo/CHEBI_23019) (carbonyl group))) 52.02%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([CHEBI:23004](http://purl.obolibrary.org/obo/CHEBI_23004) (carbamoyl group))) 52.02%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([CHEBI:22868](http://purl.obolibrary.org/obo/CHEBI_22868) (bile salt))) 52.02%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion))) 52.02%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 52.02%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 52.02%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 52.02%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 52.02%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 52.02%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 52.02%
+- [NCIT:C54710](http://purl.obolibrary.org/obo/NCIT_C54710) (Mesenchymal Metaplasia) 64.73%
+- [NCIT:C54710](http://purl.obolibrary.org/obo/NCIT_C54710) (Mesenchymal Metaplasia) and (not ([NCIT:C38171](http://purl.obolibrary.org/obo/NCIT_C38171) (PKCbeta1 Messenger RNA Overexpression))) 64.73%
+- [NCIT:C54710](http://purl.obolibrary.org/obo/NCIT_C54710) (Mesenchymal Metaplasia) and (not ([NCIT:C38170](http://purl.obolibrary.org/obo/NCIT_C38170) (LMO2 Messenger RNA Overexpression))) 64.73%
+- [NCIT:C54710](http://purl.obolibrary.org/obo/NCIT_C54710) (Mesenchymal Metaplasia) and (not ([NCIT:C38169](http://purl.obolibrary.org/obo/NCIT_C38169) (A-myb Messenger RNA Overexpression))) 64.73%
+- [NCIT:C54710](http://purl.obolibrary.org/obo/NCIT_C54710) (Mesenchymal Metaplasia) and (not ([NCIT:C38168](http://purl.obolibrary.org/obo/NCIT_C38168) (BCL-6 Messenger RNA Overexpression))) 64.73%
+- [NCIT:C54710](http://purl.obolibrary.org/obo/NCIT_C54710) (Mesenchymal Metaplasia) and (not ([NCIT:C38167](http://purl.obolibrary.org/obo/NCIT_C38167) (CD10 Messenger RNA Overexpression))) 64.73%
+- [NCIT:C54710](http://purl.obolibrary.org/obo/NCIT_C54710) (Mesenchymal Metaplasia) and (not ([NCIT:C38158](http://purl.obolibrary.org/obo/NCIT_C38158) (Metachronous Wilms Tumor))) 64.73%
+- [NCIT:C54710](http://purl.obolibrary.org/obo/NCIT_C54710) (Mesenchymal Metaplasia) and (not ([NCIT:C38157](http://purl.obolibrary.org/obo/NCIT_C38157) (Metachronous Osteosarcoma))) 64.73%
+- [NCIT:C54710](http://purl.obolibrary.org/obo/NCIT_C54710) (Mesenchymal Metaplasia) and (not ([NCIT:C38155](http://purl.obolibrary.org/obo/NCIT_C38155) (Recurrent Disease))) 64.73%
+- [NCIT:C54710](http://purl.obolibrary.org/obo/NCIT_C54710) (Mesenchymal Metaplasia) and (not ([NCIT:C38111](http://purl.obolibrary.org/obo/NCIT_C38111) (Skin Sarcomatoid Basal Cell Carcinoma))) 64.73%
+- [NCIT:C54710](http://purl.obolibrary.org/obo/NCIT_C54710) (Mesenchymal Metaplasia) and (not ([NCIT:C38110](http://purl.obolibrary.org/obo/NCIT_C38110) (Skin Signet Ring Cell Basal Cell Carcinoma))) 64.73%
+- [NCIT:C54710](http://purl.obolibrary.org/obo/NCIT_C54710) (Mesenchymal Metaplasia) and (not ([NCIT:C38107](http://purl.obolibrary.org/obo/NCIT_C38107) (Dedifferentiated Dermatofibrosarcoma Protuberans))) 64.73%
+- [NCIT:C54710](http://purl.obolibrary.org/obo/NCIT_C54710) (Mesenchymal Metaplasia) and (not ([NCIT:C38106](http://purl.obolibrary.org/obo/NCIT_C38106) (Myxoid Dermatofibrosarcoma Protuberans))) 64.73%
+- [NCIT:C54710](http://purl.obolibrary.org/obo/NCIT_C54710) (Mesenchymal Metaplasia) and (not ([NCIT:C38043](http://purl.obolibrary.org/obo/NCIT_C38043) (Typhlitis))) 64.73%
+- [NCIT:C54710](http://purl.obolibrary.org/obo/NCIT_C54710) (Mesenchymal Metaplasia) and (not ([NCIT:C3804](http://purl.obolibrary.org/obo/NCIT_C3804) (Intradermal Nevus))) 64.73%
 
 

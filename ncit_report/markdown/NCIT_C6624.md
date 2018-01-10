@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0003728](http://purl.obolibrary.org/obo/UBERON_0003728) (mediastinum) 75.00%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 51.60%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 51.45%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 51.44%
-- Thing 50.92%
-- [UBERON:0002553](http://purl.obolibrary.org/obo/UBERON_0002553) (anatomical cavity) 35.91%
-- [UBERON:0001021](http://purl.obolibrary.org/obo/UBERON_0001021) (nerve) 34.62%
-- [UBERON:0000122](http://purl.obolibrary.org/obo/UBERON_0000122) (neuron projection bundle) 33.70%
-- [UBERON:0000464](http://purl.obolibrary.org/obo/UBERON_0000464) (anatomical space) 32.62%
-- [UBERON:0000466](http://purl.obolibrary.org/obo/UBERON_0000466) (immaterial anatomical entity) 32.14%
-- [BFO:0000141](http://purl.obolibrary.org/obo/BFO_0000141) (null) 32.14%
-- [UBERON:0005162](http://purl.obolibrary.org/obo/UBERON_0005162) (multi cell part structure) 31.11%
-- [UBERON:0000477](http://purl.obolibrary.org/obo/UBERON_0000477) (anatomical cluster) 29.81%
-- CP:0000037 0.00%
-- CP:0000035 0.00%
+- [UBERON:0003728](http://purl.obolibrary.org/obo/UBERON_0003728) (mediastinum) 57.14%
+- [NCIT:C47813](http://purl.obolibrary.org/obo/NCIT_C47813) (Hoarseness) 57.14%
+- [NCIT:C41457](http://purl.obolibrary.org/obo/NCIT_C41457) (Well-Circumscribed Lesion) 57.14%
+- [NCIT:C38665](http://purl.obolibrary.org/obo/NCIT_C38665) (Chest Pain) 57.14%
+- [NCIT:C37935](http://purl.obolibrary.org/obo/NCIT_C37935) (Cough) 57.14%
+- [NCIT:C2980](http://purl.obolibrary.org/obo/NCIT_C2980) (Dysphagia) 57.14%
+- Thing 52.15%
+- [NCIT:C100104](http://purl.obolibrary.org/obo/NCIT_C100104) (Sign or Symptom) 40.28%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 39.69%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 38.75%
+- [NCIT:C85403](http://purl.obolibrary.org/obo/NCIT_C85403) (Respiratory System Signs and Symptoms) 32.14%
+- [NCIT:C45233](http://purl.obolibrary.org/obo/NCIT_C45233) (Respiratory System Finding) 32.14%
+- [NCIT:C3303](http://purl.obolibrary.org/obo/NCIT_C3303) (Pain) 24.82%
+- [NCIT:C4876](http://purl.obolibrary.org/obo/NCIT_C4876) (Symptom) 22.95%
+- [NCIT:C53458](http://purl.obolibrary.org/obo/NCIT_C53458) (Sign) 22.22%
 
 

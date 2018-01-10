@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C62208](http://purl.obolibrary.org/obo/NCIT_C62208) (Eccrine Differentiation) 75.00%
-- [NCIT:C36329](http://purl.obolibrary.org/obo/NCIT_C36329) (TP53 Gene Inactivation) 75.00%
-- [NCIT:C43573](http://purl.obolibrary.org/obo/NCIT_C43573) (Glandular Differentiation) and [NCIT:C62285](http://purl.obolibrary.org/obo/NCIT_C62285) (Adnexal Differentiation) 60.36%
-- [NCIT:C43573](http://purl.obolibrary.org/obo/NCIT_C43573) (Glandular Differentiation) 53.87%
-- Thing 50.92%
-- [NCIT:C62285](http://purl.obolibrary.org/obo/NCIT_C62285) (Adnexal Differentiation) 43.90%
-- [NCIT:C42585](http://purl.obolibrary.org/obo/NCIT_C42585) (Epithelial Differentiation) 38.87%
-- [NCIT:C36334](http://purl.obolibrary.org/obo/NCIT_C36334) (Tumor-Suppressor Gene Inactivation) 35.91%
-- [NCIT:C42095](http://purl.obolibrary.org/obo/NCIT_C42095) (Tissue Differentiation) 34.13%
-- [NCIT:C36327](http://purl.obolibrary.org/obo/NCIT_C36327) (Gene Abnormality) 29.12%
-- [NCIT:C36391](http://purl.obolibrary.org/obo/NCIT_C36391) (Molecular Genetic Variation) 28.64%
-- [NCIT:C97926](http://purl.obolibrary.org/obo/NCIT_C97926) (Molecular Sequence Variation) 28.54%
-- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 27.56%
-- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 27.46%
-- [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 27.21%
+- [NCIT:C62208](http://purl.obolibrary.org/obo/NCIT_C62208) (Eccrine Differentiation) 60.00%
+- [NCIT:C4879](http://purl.obolibrary.org/obo/NCIT_C4879) (Benign Sweat Gland Neoplasm) 60.00%
+- [NCIT:C4170](http://purl.obolibrary.org/obo/NCIT_C4170) (Spiradenoma) 60.00%
+- [NCIT:C41444](http://purl.obolibrary.org/obo/NCIT_C41444) (Secondary Lesion) 60.00%
+- [NCIT:C36329](http://purl.obolibrary.org/obo/NCIT_C36329) (TP53 Gene Inactivation) 60.00%
+- [NCIT:C3398](http://purl.obolibrary.org/obo/NCIT_C3398) (Sweat Gland Neoplasm) and [NCIT:C7341](http://purl.obolibrary.org/obo/NCIT_C7341) (Benign Epithelial Skin Neoplasm) 60.00%
+- [NCIT:C3398](http://purl.obolibrary.org/obo/NCIT_C3398) (Sweat Gland Neoplasm) and [NCIT:C4615](http://purl.obolibrary.org/obo/NCIT_C4615) (Benign Skin Appendage Neoplasm) 60.00%
+- [NCIT:C3398](http://purl.obolibrary.org/obo/NCIT_C3398) (Sweat Gland Neoplasm) and [NCIT:C4092](http://purl.obolibrary.org/obo/NCIT_C4092) (Benign Epithelial Neoplasm) 60.00%
+- [NCIT:C2896](http://purl.obolibrary.org/obo/NCIT_C2896) (Benign Skin Neoplasm) and [NCIT:C3398](http://purl.obolibrary.org/obo/NCIT_C3398) (Sweat Gland Neoplasm) 60.00%
+- Thing 51.82%
+- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) 45.36%
+- [NCIT:C43573](http://purl.obolibrary.org/obo/NCIT_C43573) (Glandular Differentiation) and [NCIT:C62285](http://purl.obolibrary.org/obo/NCIT_C62285) (Adnexal Differentiation) 45.36%
+- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([CL:1000444](http://purl.obolibrary.org/obo/CL_1000444) (mesothelial cell of anterior chamber of eye))) 45.36%
+- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([CL:1000443](http://purl.obolibrary.org/obo/CL_1000443) (ciliary muscle cell))) 45.36%
+- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([CL:1000434](http://purl.obolibrary.org/obo/CL_1000434) (epithelial cell of external acoustic meatus))) 45.36%
 
 

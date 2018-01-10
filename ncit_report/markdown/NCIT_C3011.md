@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C54124](http://purl.obolibrary.org/obo/NCIT_C54124) (Schiller-Duval Body) 62.50%
-- [NCIT:C54122](http://purl.obolibrary.org/obo/NCIT_C54122) (Cytoplasmic Hyaline Globules Present) 62.50%
-- [NCIT:C35282](http://purl.obolibrary.org/obo/NCIT_C35282) (Alpha Fetoprotein Increased) 62.50%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 53.56%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 52.71%
-- Thing 51.30%
-- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 41.94%
-- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 41.77%
-- [NCIT:C35959](http://purl.obolibrary.org/obo/NCIT_C35959) (Mitotic Activity) 31.40%
-- [NCIT:C35553](http://purl.obolibrary.org/obo/NCIT_C35553) (Abnormal Blood Chemistry and Hematology Test Result) 17.55%
-- [NCIT:C26683](http://purl.obolibrary.org/obo/NCIT_C26683) (Abnormal Laboratory Test Result) 17.16%
-- [NCIT:C36292](http://purl.obolibrary.org/obo/NCIT_C36292) (Laboratory Test Result) 16.38%
-- [NCIT:C77140](http://purl.obolibrary.org/obo/NCIT_C77140) (Clinical Test Result) 16.30%
-- CP:0000037 0.00%
-- CP:0000035 0.00%
+- [NCIT:C60643](http://purl.obolibrary.org/obo/NCIT_C60643) (Adulthood Lesion) 54.55%
+- [NCIT:C54124](http://purl.obolibrary.org/obo/NCIT_C54124) (Schiller-Duval Body) 54.55%
+- [NCIT:C54123](http://purl.obolibrary.org/obo/NCIT_C54123) (Sinusoidal Growth Pattern) 54.55%
+- [NCIT:C54122](http://purl.obolibrary.org/obo/NCIT_C54122) (Cytoplasmic Hyaline Globules Present) 54.55%
+- [NCIT:C35931](http://purl.obolibrary.org/obo/NCIT_C35931) (Honeycomb Pattern) 54.55%
+- [NCIT:C35921](http://purl.obolibrary.org/obo/NCIT_C35921) (Pseudoglandular Pattern) 54.55%
+- [NCIT:C34333](http://purl.obolibrary.org/obo/NCIT_C34333) (Abdominal Mass) 54.55%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C40122](http://purl.obolibrary.org/obo/NCIT_C40122) (Pelvic Pain))) 54.55%
+- Thing 52.70%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 51.08%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 49.75%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) 39.90%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C40236](http://purl.obolibrary.org/obo/NCIT_C40236) (Cervical Wilms Tumor))) 39.90%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C40231](http://purl.obolibrary.org/obo/NCIT_C40231) (Cervical Adenomyoma))) 39.90%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C40230](http://purl.obolibrary.org/obo/NCIT_C40230) (Cervical Adenofibroma))) 39.90%
 
 

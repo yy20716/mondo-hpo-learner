@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 51.84%
-- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) 41.61%
-- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C35937](http://purl.obolibrary.org/obo/NCIT_C35937) (Rhabdomyosarcomatous Differentiation))) 41.61%
-- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C35933](http://purl.obolibrary.org/obo/NCIT_C35933) (Distantly Metastatic Malignant Neoplasm))) 41.61%
-- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C35931](http://purl.obolibrary.org/obo/NCIT_C35931) (Honeycomb Pattern))) 41.61%
-- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C3593](http://purl.obolibrary.org/obo/NCIT_C3593) (Benign Floor of the Mouth Neoplasm))) 41.61%
-- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C35928](http://purl.obolibrary.org/obo/NCIT_C35928) (Triphasic Pattern))) 41.61%
-- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C35927](http://purl.obolibrary.org/obo/NCIT_C35927) (Syncytial Pattern))) 41.61%
-- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C35926](http://purl.obolibrary.org/obo/NCIT_C35926) (Glomeruloid Vessels Present))) 41.61%
-- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C35925](http://purl.obolibrary.org/obo/NCIT_C35925) (Tubular Pattern))) 41.61%
-- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C35922](http://purl.obolibrary.org/obo/NCIT_C35922) (Acinar Pattern))) 41.61%
-- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C35921](http://purl.obolibrary.org/obo/NCIT_C35921) (Pseudoglandular Pattern))) 41.61%
-- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C35920](http://purl.obolibrary.org/obo/NCIT_C35920) (Cribriform Pattern))) 41.61%
-- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C35918](http://purl.obolibrary.org/obo/NCIT_C35918) (Organoid Pattern))) 41.61%
-- [NCIT:C36897](http://purl.obolibrary.org/obo/NCIT_C36897) (Malignant Primitive Germ Cell) and (not ([NCIT:C35916](http://purl.obolibrary.org/obo/NCIT_C35916) (Insular Pattern))) 41.61%
+- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([CL:0000019](http://purl.obolibrary.org/obo/CL_0000019) (sperm))) 55.00%
+- Thing 52.57%
+- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) 40.36%
+- [CL:0000039](http://purl.obolibrary.org/obo/CL_0000039) (germ line cell) 40.36%
+- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39897](http://purl.obolibrary.org/obo/NCIT_C39897) (Prostate Ductal Adenocarcinoma, Solid Pattern))) 40.36%
+- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39896](http://purl.obolibrary.org/obo/NCIT_C39896) (Prostate Ductal Adenocarcinoma, Papillary Pattern))) 40.36%
+- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39895](http://purl.obolibrary.org/obo/NCIT_C39895) (Prostate Ductal Adenocarcinoma, Cribriform Pattern))) 40.36%
+- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C3989](http://purl.obolibrary.org/obo/NCIT_C3989) (Parathyroid Hyperplasia))) 40.36%
+- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39885](http://purl.obolibrary.org/obo/NCIT_C39885) (Acinar Prostate Adenocarcinoma, Lymphoepithelioma-Like Variant))) 40.36%
+- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39880](http://purl.obolibrary.org/obo/NCIT_C39880) (Acinar Prostate Adenocarcinoma, Atrophic Variant))) 40.36%
+- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q))) 40.36%
+- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39874](http://purl.obolibrary.org/obo/NCIT_C39874) (Urethral Verrucous Carcinoma))) 40.36%
+- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39873](http://purl.obolibrary.org/obo/NCIT_C39873) (Urethral Glandular Metaplasia))) 40.36%
+- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39872](http://purl.obolibrary.org/obo/NCIT_C39872) (Urethral Villous Adenoma))) 40.36%
+- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39866](http://purl.obolibrary.org/obo/NCIT_C39866) (Female Urethral Malignant Neoplasm))) 40.36%
 
 

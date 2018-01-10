@@ -17,7 +17,7 @@
 - [NCIT:C3396](http://purl.obolibrary.org/obo/NCIT_C3396) (Superior Vena Cava Syndrome) 54.17%
 - [NCIT:C13225](http://purl.obolibrary.org/obo/NCIT_C13225) (Chromosome 9) 54.17%
 - [NCIT:C132019](http://purl.obolibrary.org/obo/NCIT_C132019) (BCL2 Gene Rearrangement) and [NCIT:C36333](http://purl.obolibrary.org/obo/NCIT_C36333) (Clonal Gene Rearrangement) 54.17%
-- Thing 52.25%
+- Thing 52.82%
 - [NCIT:C82325](http://purl.obolibrary.org/obo/NCIT_C82325) (Signaling Pathway Status) 33.03%
 - [NCIT:C36162](http://purl.obolibrary.org/obo/NCIT_C36162) (Localized Disease) 33.03%
 - [NCIT:C132019](http://purl.obolibrary.org/obo/NCIT_C132019) (BCL2 Gene Rearrangement) 33.03%

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0000995](http://purl.obolibrary.org/obo/UBERON_0000995) (uterus) 66.67%
-- [UBERON:0000002](http://purl.obolibrary.org/obo/UBERON_0000002) (uterine cervix) 66.67%
-- [UBERON:0001560](http://purl.obolibrary.org/obo/UBERON_0001560) (neck of organ) and [UBERON:0005156](http://purl.obolibrary.org/obo/UBERON_0005156) (reproductive structure) 66.67%
-- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 52.28%
-- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 52.21%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 52.09%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 51.96%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 51.95%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 51.78%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 51.77%
-- Thing 51.13%
-- [UBERON:0004801](http://purl.obolibrary.org/obo/UBERON_0004801) (cervix epithelium) 45.53%
-- [UBERON:0001560](http://purl.obolibrary.org/obo/UBERON_0001560) (neck of organ) 45.53%
-- [UBERON:0006955](http://purl.obolibrary.org/obo/UBERON_0006955) (uterine epithelium) 39.03%
-- [UBERON:0000064](http://purl.obolibrary.org/obo/UBERON_0000064) (organ part) 37.08%
+- Thing 51.99%
+- [UBERON:0004801](http://purl.obolibrary.org/obo/UBERON_0004801) (cervix epithelium) and (not ([UBERON:0010304](http://purl.obolibrary.org/obo/UBERON_0010304) (non-keratinized stratified squamous epithelium))) 43.69%
+- [UBERON:0004801](http://purl.obolibrary.org/obo/UBERON_0004801) (cervix epithelium) and (not ([UBERON:0006922](http://purl.obolibrary.org/obo/UBERON_0006922) (cervix squamous epithelium))) 43.69%
+- [UBERON:0004801](http://purl.obolibrary.org/obo/UBERON_0004801) (cervix epithelium) and (not ([UBERON:0006915](http://purl.obolibrary.org/obo/UBERON_0006915) (stratified squamous epithelium))) 43.69%
+- [UBERON:0004801](http://purl.obolibrary.org/obo/UBERON_0004801) (cervix epithelium) and (not ([UBERON:0006914](http://purl.obolibrary.org/obo/UBERON_0006914) (squamous epithelium))) 43.69%
+- [UBERON:0004801](http://purl.obolibrary.org/obo/UBERON_0004801) (cervix epithelium) and (not ([UBERON:0000486](http://purl.obolibrary.org/obo/UBERON_0000486) (multilaminar epithelium))) 43.69%
+- [UBERON:0006955](http://purl.obolibrary.org/obo/UBERON_0006955) (uterine epithelium) 37.20%
+- [UBERON:0004801](http://purl.obolibrary.org/obo/UBERON_0004801) (cervix epithelium) 37.20%
+- [UBERON:0004801](http://purl.obolibrary.org/obo/UBERON_0004801) (cervix epithelium) and (not (Error2)) 37.20%
+- [UBERON:0004801](http://purl.obolibrary.org/obo/UBERON_0004801) (cervix epithelium) and (not (Error19)) 37.20%
+- [UBERON:0004801](http://purl.obolibrary.org/obo/UBERON_0004801) (cervix epithelium) and (not (Error18)) 37.20%
+- [UBERON:0004801](http://purl.obolibrary.org/obo/UBERON_0004801) (cervix epithelium) and (not (Error17)) 37.20%
+- [UBERON:0004801](http://purl.obolibrary.org/obo/UBERON_0004801) (cervix epithelium) and (not (Error16)) 37.20%
+- [UBERON:0004801](http://purl.obolibrary.org/obo/UBERON_0004801) (cervix epithelium) and (not (Error15)) 37.20%
+- [UBERON:0004801](http://purl.obolibrary.org/obo/UBERON_0004801) (cervix epithelium) and (not (Error14)) 37.20%
 
 

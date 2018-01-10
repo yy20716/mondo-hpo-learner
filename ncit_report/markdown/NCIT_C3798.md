@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C41434](http://purl.obolibrary.org/obo/NCIT_C41434) (Malignant Perineural Cell) 53.85%
-- [NCIT:C41433](http://purl.obolibrary.org/obo/NCIT_C41433) (Geographic Necrosis) 53.85%
-- [NCIT:C41432](http://purl.obolibrary.org/obo/NCIT_C41432) (Pseudoencapsulated Mass) 53.85%
-- [NCIT:C37084](http://purl.obolibrary.org/obo/NCIT_C37084) (Hyperchromatic Spindle Cell) 53.85%
-- [NCIT:C36685](http://purl.obolibrary.org/obo/NCIT_C36685) (NF1 Gene Inactivation) 53.85%
-- [NCIT:C36491](http://purl.obolibrary.org/obo/NCIT_C36491) (Loss of Chromosome 22) 53.85%
-- [NCIT:C36329](http://purl.obolibrary.org/obo/NCIT_C36329) (TP53 Gene Inactivation) 53.85%
-- [NCIT:C36183](http://purl.obolibrary.org/obo/NCIT_C36183) (Firm Mass) 53.85%
-- [NCIT:C36104](http://purl.obolibrary.org/obo/NCIT_C36104) (Aggressive Clinical Course) 53.85%
-- [NCIT:C35903](http://purl.obolibrary.org/obo/NCIT_C35903) (Diffuse Pattern) 53.85%
-- [NCIT:C17424](http://purl.obolibrary.org/obo/NCIT_C17424) (NF1 Gene) 53.85%
-- Thing 52.34%
-- [NCIT:C41443](http://purl.obolibrary.org/obo/NCIT_C41443) (Nerve Tissue and Nerve Sheaths) 39.20%
-- [NCIT:C41443](http://purl.obolibrary.org/obo/NCIT_C41443) (Nerve Tissue and Nerve Sheaths) and (not ([NCIT:C36252](http://purl.obolibrary.org/obo/NCIT_C36252) (Ineffective Hematopoiesis))) 39.20%
-- [NCIT:C41443](http://purl.obolibrary.org/obo/NCIT_C41443) (Nerve Tissue and Nerve Sheaths) and (not ([NCIT:C36250](http://purl.obolibrary.org/obo/NCIT_C36250) (Auer Rods Present))) 39.20%
+- Thing 54.07%
+- [NCIT:C60643](http://purl.obolibrary.org/obo/NCIT_C60643) (Adulthood Lesion) 52.00%
+- [NCIT:C41433](http://purl.obolibrary.org/obo/NCIT_C41433) (Geographic Necrosis) 52.00%
+- [NCIT:C41432](http://purl.obolibrary.org/obo/NCIT_C41432) (Pseudoencapsulated Mass) 52.00%
+- [NCIT:C41415](http://purl.obolibrary.org/obo/NCIT_C41415) (Melanosomes Present) 52.00%
+- [NCIT:C40557](http://purl.obolibrary.org/obo/NCIT_C40557) (Metastatic Lesion) 52.00%
+- [NCIT:C38155](http://purl.obolibrary.org/obo/NCIT_C38155) (Recurrent Disease) 52.00%
+- [NCIT:C36183](http://purl.obolibrary.org/obo/NCIT_C36183) (Firm Mass) 52.00%
+- [NCIT:C36104](http://purl.obolibrary.org/obo/NCIT_C36104) (Aggressive Clinical Course) 52.00%
+- [NCIT:C35937](http://purl.obolibrary.org/obo/NCIT_C35937) (Rhabdomyosarcomatous Differentiation) 52.00%
+- [NCIT:C35903](http://purl.obolibrary.org/obo/NCIT_C35903) (Diffuse Pattern) 52.00%
+- [NCIT:C35571](http://purl.obolibrary.org/obo/NCIT_C35571) (Progressive Disease) 52.00%
+- [NCIT:C27709](http://purl.obolibrary.org/obo/NCIT_C27709) (Psammoma Body Formation) 52.00%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 37.43%
+- [NCIT:C35929](http://purl.obolibrary.org/obo/NCIT_C35929) (Glandular Pattern) 37.36%
 
 

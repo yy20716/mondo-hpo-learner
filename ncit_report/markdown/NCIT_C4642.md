@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) (brain) 66.67%
-- [NCIT:C36681](http://purl.obolibrary.org/obo/NCIT_C36681) (MDM2 Gene Amplification) 66.67%
-- [NCIT:C36329](http://purl.obolibrary.org/obo/NCIT_C36329) (TP53 Gene Inactivation) 66.67%
-- Thing 51.13%
-- [NCIT:C36327](http://purl.obolibrary.org/obo/NCIT_C36327) (Gene Abnormality) 39.17%
-- [NCIT:C36391](http://purl.obolibrary.org/obo/NCIT_C36391) (Molecular Genetic Variation) 38.48%
-- [NCIT:C97926](http://purl.obolibrary.org/obo/NCIT_C97926) (Molecular Sequence Variation) 38.33%
-- [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 36.46%
-- [NCIT:C45581](http://purl.obolibrary.org/obo/NCIT_C45581) (Gene Amplification Abnormality) 28.14%
-- [NCIT:C36344](http://purl.obolibrary.org/obo/NCIT_C36344) (Oncogene Deregulation) 28.14%
-- [NCIT:C36334](http://purl.obolibrary.org/obo/NCIT_C36334) (Tumor-Suppressor Gene Inactivation) 27.58%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 17.87%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 17.80%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 17.79%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 17.70%
+- [UBERON:0002308](http://purl.obolibrary.org/obo/UBERON_0002308) (nucleus of brain) 55.00%
+- [UBERON:0002037](http://purl.obolibrary.org/obo/UBERON_0002037) (cerebellum) 55.00%
+- [UBERON:0001894](http://purl.obolibrary.org/obo/UBERON_0001894) (diencephalon) 55.00%
+- [UBERON:0001869](http://purl.obolibrary.org/obo/UBERON_0001869) (cerebral hemisphere) 55.00%
+- [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) (brain) 55.00%
+- [UBERON:0000125](http://purl.obolibrary.org/obo/UBERON_0000125) (neural nucleus) 55.00%
+- [NCIT:C12512](http://purl.obolibrary.org/obo/NCIT_C12512) (Supratentorial Brain) 55.00%
+- [NCIT:C12509](http://purl.obolibrary.org/obo/NCIT_C12509) (Infratentorial Brain) 55.00%
+- Error11 55.00%
+- Thing 52.57%
+- [UBERON:0002616](http://purl.obolibrary.org/obo/UBERON_0002616) (regional part of brain) and [UBERON:0010314](http://purl.obolibrary.org/obo/UBERON_0010314) (structure with developmental contribution from neural crest) 50.82%
+- [UBERON:0002616](http://purl.obolibrary.org/obo/UBERON_0002616) (regional part of brain) 45.62%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 35.21%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 34.62%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 34.61%
 
 

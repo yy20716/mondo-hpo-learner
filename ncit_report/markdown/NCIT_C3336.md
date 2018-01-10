@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C84255](http://purl.obolibrary.org/obo/NCIT_C84255) (JAK2 Gene Mutation) 53.85%
-- [NCIT:C41058](http://purl.obolibrary.org/obo/NCIT_C41058) (Multipotent Bone Marrow Stem Cell) 53.85%
-- [NCIT:C36501](http://purl.obolibrary.org/obo/NCIT_C36501) (Loss of Chromosome 1p) 53.85%
-- [NCIT:C36497](http://purl.obolibrary.org/obo/NCIT_C36497) (Loss of Chromosome 13q) 53.85%
-- [NCIT:C36463](http://purl.obolibrary.org/obo/NCIT_C36463) (Gain of Chromosome 9) 53.85%
-- [NCIT:C36455](http://purl.obolibrary.org/obo/NCIT_C36455) (Gain of Chromosome 8) 53.85%
-- [NCIT:C36403](http://purl.obolibrary.org/obo/NCIT_C36403) (Loss of Chromosome 20q) 53.85%
-- [NCIT:C28452](http://purl.obolibrary.org/obo/NCIT_C28452) (Philadelphia Chromosome) 53.85%
-- [NCIT:C24529](http://purl.obolibrary.org/obo/NCIT_C24529) (JAK2 Gene) 53.85%
-- [NCIT:C13271](http://purl.obolibrary.org/obo/NCIT_C13271) (t(9;22)(q34.1;q11.2)) 53.85%
-- [CL:0000048](http://purl.obolibrary.org/obo/CL_0000048) (multi fate stem cell) and [NCIT:C42884](http://purl.obolibrary.org/obo/NCIT_C42884) (Bone Marrow Stem Cell with Variable Lineage Potential) 53.85%
-- [CL:0000048](http://purl.obolibrary.org/obo/CL_0000048) (multi fate stem cell) and [NCIT:C13456](http://purl.obolibrary.org/obo/NCIT_C13456) (Bone Marrow Stem Cell) 53.85%
-- [NCIT:C41058](http://purl.obolibrary.org/obo/NCIT_C41058) (Multipotent Bone Marrow Stem Cell) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 53.85%
-- [NCIT:C41058](http://purl.obolibrary.org/obo/NCIT_C41058) (Multipotent Bone Marrow Stem Cell) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 53.85%
-- [NCIT:C41058](http://purl.obolibrary.org/obo/NCIT_C41058) (Multipotent Bone Marrow Stem Cell) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 53.85%
+- Thing 54.95%
+- [NCIT:C37943](http://purl.obolibrary.org/obo/NCIT_C37943) (Dizziness) 51.35%
+- [NCIT:C36218](http://purl.obolibrary.org/obo/NCIT_C36218) (Leukoerythroblastosis) 51.35%
+- [NCIT:C35530](http://purl.obolibrary.org/obo/NCIT_C35530) (Thrombocytosis) 51.35%
+- [NCIT:C35267](http://purl.obolibrary.org/obo/NCIT_C35267) (Poikilocytosis) 51.35%
+- [NCIT:C35164](http://purl.obolibrary.org/obo/NCIT_C35164) (Neutrophilia) 51.35%
+- [NCIT:C34661](http://purl.obolibrary.org/obo/NCIT_C34661) (Headache) 51.35%
+- [NCIT:C34549](http://purl.obolibrary.org/obo/NCIT_C34549) (Disturbance of Skin Sensation) 51.35%
+- [NCIT:C3384](http://purl.obolibrary.org/obo/NCIT_C3384) (Splenomegaly) 51.35%
+- [NCIT:C28177](http://purl.obolibrary.org/obo/NCIT_C28177) (Paresthesia) 51.35%
+- [NCIT:C34414](http://purl.obolibrary.org/obo/NCIT_C34414) (Basophilia) and (not ([NCIT:C36253](http://purl.obolibrary.org/obo/NCIT_C36253) (Bone Marrow Basophilia))) 51.35%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 39.08%
+- [NCIT:C34414](http://purl.obolibrary.org/obo/NCIT_C34414) (Basophilia) 36.71%
+- [NCIT:C34414](http://purl.obolibrary.org/obo/NCIT_C34414) (Basophilia) and (not ([NCIT:C38635](http://purl.obolibrary.org/obo/NCIT_C38635) (inv(22q12)))) 36.71%
+- [NCIT:C34414](http://purl.obolibrary.org/obo/NCIT_C34414) (Basophilia) and (not ([NCIT:C38536](http://purl.obolibrary.org/obo/NCIT_C38536) (CREB1 Gene))) 36.71%
 
 

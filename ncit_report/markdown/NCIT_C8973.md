@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity))) 66.67%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([NCIT:C33921](http://purl.obolibrary.org/obo/NCIT_C33921) (Endometrial Stromal Cell))) 66.67%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) 52.02%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([CHEBI:23019](http://purl.obolibrary.org/obo/CHEBI_23019) (carbonyl group))) 52.02%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([CHEBI:23004](http://purl.obolibrary.org/obo/CHEBI_23004) (carbamoyl group))) 52.02%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([CHEBI:22868](http://purl.obolibrary.org/obo/CHEBI_22868) (bile salt))) 52.02%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion))) 52.02%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 52.02%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 52.02%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 52.02%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 52.02%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 52.02%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 52.02%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not (CARO:0010000)) 52.02%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 52.02%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) 55.56%
+- Thing 53.45%
+- [NCIT:C33921](http://purl.obolibrary.org/obo/NCIT_C33921) (Endometrial Stromal Cell) 52.78%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 52.78%
+- [CL:0000499](http://purl.obolibrary.org/obo/CL_0000499) (stromal cell) and [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 52.78%
+- [CL:0000499](http://purl.obolibrary.org/obo/CL_0000499) (stromal cell) and (not ([CL:0000214](http://purl.obolibrary.org/obo/CL_0000214) (synovial cell))) 40.91%
+- [CL:0000499](http://purl.obolibrary.org/obo/CL_0000499) (stromal cell) and (not ([CL:0000138](http://purl.obolibrary.org/obo/CL_0000138) (chondrocyte))) 40.91%
+- [CL:0000499](http://purl.obolibrary.org/obo/CL_0000499) (stromal cell) 37.18%
+- [CL:0000499](http://purl.obolibrary.org/obo/CL_0000499) (stromal cell) and (not ([NCIT:C39103](http://purl.obolibrary.org/obo/NCIT_C39103) (ERBB2 Signaling Pathway))) 37.18%
+- [CL:0000499](http://purl.obolibrary.org/obo/CL_0000499) (stromal cell) and (not ([NCIT:C39102](http://purl.obolibrary.org/obo/NCIT_C39102) (Skeletal Myogenesis Pathway))) 37.18%
+- [CL:0000499](http://purl.obolibrary.org/obo/CL_0000499) (stromal cell) and (not ([NCIT:C39101](http://purl.obolibrary.org/obo/NCIT_C39101) (Human Cytomegalovirus Infection Pathway))) 37.18%
+- [CL:0000499](http://purl.obolibrary.org/obo/CL_0000499) (stromal cell) and (not ([NCIT:C39094](http://purl.obolibrary.org/obo/NCIT_C39094) (Inhibition of Cellular Proliferation by Gleevec Pathway))) 37.18%
+- [CL:0000499](http://purl.obolibrary.org/obo/CL_0000499) (stromal cell) and (not ([NCIT:C39092](http://purl.obolibrary.org/obo/NCIT_C39092) (Growth Hormone Signaling Pathway))) 37.18%
+- [CL:0000499](http://purl.obolibrary.org/obo/CL_0000499) (stromal cell) and (not ([NCIT:C39091](http://purl.obolibrary.org/obo/NCIT_C39091) (Corticosteroid Cardioprotection Pathway))) 37.18%
+- [CL:0000499](http://purl.obolibrary.org/obo/CL_0000499) (stromal cell) and (not ([NCIT:C39088](http://purl.obolibrary.org/obo/NCIT_C39088) (G2/M Checkpoint Pathway))) 37.18%
 
 

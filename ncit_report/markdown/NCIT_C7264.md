@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C37002](http://purl.obolibrary.org/obo/NCIT_C37002) (Neoplastic Small Cleaved Follicle Center Cell) 66.67%
-- [NCIT:C36743](http://purl.obolibrary.org/obo/NCIT_C36743) (Neoplastic Centrocyte) and [NCIT:C38702](http://purl.obolibrary.org/obo/NCIT_C38702) (Neoplastic Small B-Lymphocyte) 66.67%
-- [NCIT:C36743](http://purl.obolibrary.org/obo/NCIT_C36743) (Neoplastic Centrocyte) and [NCIT:C36998](http://purl.obolibrary.org/obo/NCIT_C36998) (Neoplastic Small Lymphocyte) 66.67%
-- [NCIT:C37002](http://purl.obolibrary.org/obo/NCIT_C37002) (Neoplastic Small Cleaved Follicle Center Cell) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 66.67%
-- [NCIT:C37002](http://purl.obolibrary.org/obo/NCIT_C37002) (Neoplastic Small Cleaved Follicle Center Cell) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 66.67%
-- [NCIT:C37002](http://purl.obolibrary.org/obo/NCIT_C37002) (Neoplastic Small Cleaved Follicle Center Cell) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 66.67%
-- [NCIT:C37002](http://purl.obolibrary.org/obo/NCIT_C37002) (Neoplastic Small Cleaved Follicle Center Cell) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 66.67%
-- [NCIT:C37002](http://purl.obolibrary.org/obo/NCIT_C37002) (Neoplastic Small Cleaved Follicle Center Cell) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 66.67%
-- [NCIT:C37002](http://purl.obolibrary.org/obo/NCIT_C37002) (Neoplastic Small Cleaved Follicle Center Cell) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 66.67%
-- [NCIT:C37002](http://purl.obolibrary.org/obo/NCIT_C37002) (Neoplastic Small Cleaved Follicle Center Cell) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 66.67%
-- [NCIT:C37002](http://purl.obolibrary.org/obo/NCIT_C37002) (Neoplastic Small Cleaved Follicle Center Cell) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 66.67%
-- [NCIT:C37002](http://purl.obolibrary.org/obo/NCIT_C37002) (Neoplastic Small Cleaved Follicle Center Cell) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 66.67%
-- [NCIT:C37002](http://purl.obolibrary.org/obo/NCIT_C37002) (Neoplastic Small Cleaved Follicle Center Cell) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 66.67%
-- [NCIT:C37002](http://purl.obolibrary.org/obo/NCIT_C37002) (Neoplastic Small Cleaved Follicle Center Cell) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 66.67%
-- [NCIT:C37002](http://purl.obolibrary.org/obo/NCIT_C37002) (Neoplastic Small Cleaved Follicle Center Cell) and (not ([UBERON:2001431](http://purl.obolibrary.org/obo/UBERON_2001431) (primitive olfactory epithelium))) 66.67%
+- [NCIT:C37014](http://purl.obolibrary.org/obo/NCIT_C37014) (Neoplastic Centroblast) 62.50%
+- [NCIT:C37002](http://purl.obolibrary.org/obo/NCIT_C37002) (Neoplastic Small Cleaved Follicle Center Cell) 62.50%
+- [NCIT:C36743](http://purl.obolibrary.org/obo/NCIT_C36743) (Neoplastic Centrocyte) and [NCIT:C38702](http://purl.obolibrary.org/obo/NCIT_C38702) (Neoplastic Small B-Lymphocyte) 62.50%
+- [NCIT:C36743](http://purl.obolibrary.org/obo/NCIT_C36743) (Neoplastic Centrocyte) and [NCIT:C36998](http://purl.obolibrary.org/obo/NCIT_C36998) (Neoplastic Small Lymphocyte) 62.50%
+- [NCIT:C36743](http://purl.obolibrary.org/obo/NCIT_C36743) (Neoplastic Centrocyte) and (not ([NCIT:C37020](http://purl.obolibrary.org/obo/NCIT_C37020) (Neoplastic Large Cleaved Follicle Center Cell))) 62.50%
+- [NCIT:C45317](http://purl.obolibrary.org/obo/NCIT_C45317) (Neoplastic Follicle Center B-Cell) 60.36%
+- Thing 51.63%
+- [NCIT:C36743](http://purl.obolibrary.org/obo/NCIT_C36743) (Neoplastic Centrocyte) 47.86%
+- [NCIT:C36743](http://purl.obolibrary.org/obo/NCIT_C36743) (Neoplastic Centrocyte) and (not ([NCIT:C40029](http://purl.obolibrary.org/obo/NCIT_C40029) (Borderline Ovarian Serous Cystadenofibroma))) 47.86%
+- [NCIT:C36743](http://purl.obolibrary.org/obo/NCIT_C36743) (Neoplastic Centrocyte) and (not ([NCIT:C40021](http://purl.obolibrary.org/obo/NCIT_C40021) (Ovarian Lymphoma))) 47.86%
+- [NCIT:C36743](http://purl.obolibrary.org/obo/NCIT_C36743) (Neoplastic Centrocyte) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 47.86%
+- [NCIT:C36743](http://purl.obolibrary.org/obo/NCIT_C36743) (Neoplastic Centrocyte) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 47.86%
+- [NCIT:C36743](http://purl.obolibrary.org/obo/NCIT_C36743) (Neoplastic Centrocyte) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 47.86%
+- [NCIT:C36743](http://purl.obolibrary.org/obo/NCIT_C36743) (Neoplastic Centrocyte) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 47.86%
+- [NCIT:C36743](http://purl.obolibrary.org/obo/NCIT_C36743) (Neoplastic Centrocyte) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 47.86%
 
 

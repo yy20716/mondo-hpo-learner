@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C3442](http://purl.obolibrary.org/obo/NCIT_C3442) (Vomiting) 55.00%
-- [NCIT:C3258](http://purl.obolibrary.org/obo/NCIT_C3258) (Nausea) 55.00%
-- [NCIT:C3143](http://purl.obolibrary.org/obo/NCIT_C3143) (Jaundice) 55.00%
-- Thing 52.05%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) 50.82%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C36856](http://purl.obolibrary.org/obo/NCIT_C36856) (Mucin-Producing Adenocarcinoma Cell))) 50.82%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C36855](http://purl.obolibrary.org/obo/NCIT_C36855) (Malignant Neuroendocrine Polygonal Cell))) 50.82%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C36854](http://purl.obolibrary.org/obo/NCIT_C36854) (Malignant Neuroendocrine Spindle Cell))) 50.82%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C36850](http://purl.obolibrary.org/obo/NCIT_C36850) (Polygonal Adenocarcinoma Cell with Eosinophilic Cytoplasm))) 50.82%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C3685](http://purl.obolibrary.org/obo/NCIT_C3685) (Microcystic Adenoma))) 50.82%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C36848](http://purl.obolibrary.org/obo/NCIT_C36848) (Anaplastic Carcinoma Cell))) 50.82%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C36847](http://purl.obolibrary.org/obo/NCIT_C36847) (Hemosiderin-Laden Macrophage))) 50.82%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C36842](http://purl.obolibrary.org/obo/NCIT_C36842) (Giant Astrocyte))) 50.82%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C36836](http://purl.obolibrary.org/obo/NCIT_C36836) (Malignant Thyroid Gland Follicular Cell))) 50.82%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C36834](http://purl.obolibrary.org/obo/NCIT_C36834) (Tingible Body Macrophage))) 50.82%
+- [NCIT:C3442](http://purl.obolibrary.org/obo/NCIT_C3442) (Vomiting) 53.85%
+- [NCIT:C3258](http://purl.obolibrary.org/obo/NCIT_C3258) (Nausea) 53.85%
+- [NCIT:C3143](http://purl.obolibrary.org/obo/NCIT_C3143) (Jaundice) 53.85%
+- Thing 52.93%
+- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) 48.52%
+- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C35874](http://purl.obolibrary.org/obo/NCIT_C35874) (Endemic African Kaposi Sarcoma))) 48.52%
+- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C35860](http://purl.obolibrary.org/obo/NCIT_C35860) (Cartilaginous Metaplasia))) 48.52%
+- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C35859](http://purl.obolibrary.org/obo/NCIT_C35859) (Osseous Metaplasia))) 48.52%
+- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C35854](http://purl.obolibrary.org/obo/NCIT_C35854) (Grade 4 Clear Cell Renal Cell Carcinoma))) 48.52%
+- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C35853](http://purl.obolibrary.org/obo/NCIT_C35853) (Grade 3 Clear Cell Renal Cell Carcinoma))) 48.52%
+- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C35852](http://purl.obolibrary.org/obo/NCIT_C35852) (Grade 2 Clear Cell Renal Cell Carcinoma))) 48.52%
+- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C35851](http://purl.obolibrary.org/obo/NCIT_C35851) (Grade 1 Clear Cell Renal Cell Carcinoma))) 48.52%
+- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C35845](http://purl.obolibrary.org/obo/NCIT_C35845) (Basal Cell Hyperplasia))) 48.52%
+- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C35837](http://purl.obolibrary.org/obo/NCIT_C35837) (Salivary Gland Sialoblastoma))) 48.52%
+- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C35836](http://purl.obolibrary.org/obo/NCIT_C35836) (Salivary Gland Sialadenoma Papilliferum))) 48.52%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 51.44%
-- Thing 50.92%
-- [CL:0000746](http://purl.obolibrary.org/obo/CL_0000746) (cardiac muscle cell) 45.41%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) 42.68%
-- [CL:0002494](http://purl.obolibrary.org/obo/CL_0002494) (cardiocyte) 41.67%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) 40.08%
-- [CL:0000183](http://purl.obolibrary.org/obo/CL_0000183) (contractile cell) 37.13%
-- [CL:0000393](http://purl.obolibrary.org/obo/CL_0000393) (electrically responsive cell) 32.62%
-- [CL:0000211](http://purl.obolibrary.org/obo/CL_0000211) (electrically active cell) 32.62%
-- [CL:0002371](http://purl.obolibrary.org/obo/CL_0002371) (somatic cell) 28.05%
-- [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) 27.97%
-- [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) (native cell) 27.76%
-- [GO:0005623](http://purl.obolibrary.org/obo/GO_0005623) (cell) 27.76%
-- [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000) (cell) 27.72%
-- [GO:0005575](http://purl.obolibrary.org/obo/GO_0005575) (cellular_component) 27.56%
+- [CL:0000746](http://purl.obolibrary.org/obo/CL_0000746) (cardiac muscle cell) 62.50%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and [CL:0002494](http://purl.obolibrary.org/obo/CL_0002494) (cardiocyte) 62.50%
+- Thing 51.63%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) 47.86%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C40032](http://purl.obolibrary.org/obo/NCIT_C40032) (Ovarian Serous Cystadenofibroma))) 47.86%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C40029](http://purl.obolibrary.org/obo/NCIT_C40029) (Borderline Ovarian Serous Cystadenofibroma))) 47.86%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C40021](http://purl.obolibrary.org/obo/NCIT_C40021) (Ovarian Lymphoma))) 47.86%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 47.86%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 47.86%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 47.86%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 47.86%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 47.86%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 47.86%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 47.86%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 47.86%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 51.13%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 34.78%
-- [CL:0000542](http://purl.obolibrary.org/obo/CL_0000542) (lymphocyte) 23.74%
-- [CL:0002087](http://purl.obolibrary.org/obo/CL_0002087) (nongranular leukocyte) 23.67%
-- [CL:0002242](http://purl.obolibrary.org/obo/CL_0002242) (nucleate cell) 23.29%
-- [CL:0000738](http://purl.obolibrary.org/obo/CL_0000738) (leukocyte) 23.07%
-- [CL:0000219](http://purl.obolibrary.org/obo/CL_0000219) (motile cell) 22.73%
-- [CL:0000988](http://purl.obolibrary.org/obo/CL_0000988) (hematopoietic cell) 21.57%
-- [CL:0002371](http://purl.obolibrary.org/obo/CL_0002371) (somatic cell) 19.72%
-- [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) 19.64%
-- [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) (native cell) 19.43%
-- [GO:0005623](http://purl.obolibrary.org/obo/GO_0005623) (cell) 19.42%
-- [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000) (cell) 19.39%
-- [GO:0005575](http://purl.obolibrary.org/obo/GO_0005575) (cellular_component) 19.23%
-- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 19.03%
+- [UBERON:0006925](http://purl.obolibrary.org/obo/UBERON_0006925) (digestive system gland) 60.00%
+- [UBERON:0002107](http://purl.obolibrary.org/obo/UBERON_0002107) (liver) 60.00%
+- Thing 51.82%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 44.21%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 43.77%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 43.77%
+- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) 38.87%
+- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 34.26%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 34.14%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 34.11%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 33.68%
+- [UBERON:0005172](http://purl.obolibrary.org/obo/UBERON_0005172) (abdomen element) 32.36%
+- [NCIT:C12964](http://purl.obolibrary.org/obo/NCIT_C12964) (Connective and Soft Tissue) 32.36%
+- [CL:0000542](http://purl.obolibrary.org/obo/CL_0000542) (lymphocyte) 17.29%
+- [CL:0002087](http://purl.obolibrary.org/obo/CL_0002087) (nongranular leukocyte) 17.22%
 
 

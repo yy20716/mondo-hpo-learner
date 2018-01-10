@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 51.72%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) 42.50%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C37073](http://purl.obolibrary.org/obo/NCIT_C37073) (Hypergranular Promyelocyte))) 42.50%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C37071](http://purl.obolibrary.org/obo/NCIT_C37071) (Neoplastic T-Lymphoblast))) 42.50%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C37070](http://purl.obolibrary.org/obo/NCIT_C37070) (Neoplastic B-Lymphoblast))) 42.50%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C3707](http://purl.obolibrary.org/obo/NCIT_C3707) (Meningiomatosis))) 42.50%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C37068](http://purl.obolibrary.org/obo/NCIT_C37068) (Neoplastic Megakaryoblast))) 42.50%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C37063](http://purl.obolibrary.org/obo/NCIT_C37063) (Immature Malignant Mast Cell))) 42.50%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C37058](http://purl.obolibrary.org/obo/NCIT_C37058) (Ring Sideroblast))) 42.50%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C37055](http://purl.obolibrary.org/obo/NCIT_C37055) (Large Multinucleated Erythroid Cell))) 42.50%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C37052](http://purl.obolibrary.org/obo/NCIT_C37052) (Faggot Cell))) 42.50%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C37051](http://purl.obolibrary.org/obo/NCIT_C37051) (Dysplastic Granulocyte))) 42.50%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C3705](http://purl.obolibrary.org/obo/NCIT_C3705) (Pleomorphic Liposarcoma))) 42.50%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C37049](http://purl.obolibrary.org/obo/NCIT_C37049) (Hyperchromatic Megakaryocyte))) 42.50%
-- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C37048](http://purl.obolibrary.org/obo/NCIT_C37048) (Monolobed Megakaryocyte))) 42.50%
+- Thing 56.76%
+- [NCIT:C9232](http://purl.obolibrary.org/obo/NCIT_C9232) (Weight Change) 50.72%
+- [NCIT:C86917](http://purl.obolibrary.org/obo/NCIT_C86917) (Steatorrhea) 50.72%
+- [NCIT:C41371](http://purl.obolibrary.org/obo/NCIT_C41371) (Loss of Chromosome 12) 50.72%
+- [NCIT:C41367](http://purl.obolibrary.org/obo/NCIT_C41367) (AKT2 Gene Amplification) 50.72%
+- [NCIT:C41363](http://purl.obolibrary.org/obo/NCIT_C41363) (MAP2K4 Gene Inactivation) 50.72%
+- [NCIT:C41361](http://purl.obolibrary.org/obo/NCIT_C41361) (KRAS Gene Mutation) 50.72%
+- [NCIT:C40430](http://purl.obolibrary.org/obo/NCIT_C40430) (BRAF Gene Mutation) 50.72%
+- [NCIT:C39629](http://purl.obolibrary.org/obo/NCIT_C39629) (CDKN2A Gene Inactivation) 50.72%
+- [NCIT:C36698](http://purl.obolibrary.org/obo/NCIT_C36698) (MLH1 Gene Inactivation) 50.72%
+- [NCIT:C36697](http://purl.obolibrary.org/obo/NCIT_C36697) (MSH2 Gene Inactivation) 50.72%
+- [NCIT:C36693](http://purl.obolibrary.org/obo/NCIT_C36693) (SMAD4/DPC4 Gene Inactivation) 50.72%
+- [NCIT:C36683](http://purl.obolibrary.org/obo/NCIT_C36683) (APC Gene Inactivation) 50.72%
+- [NCIT:C36638](http://purl.obolibrary.org/obo/NCIT_C36638) (ERBB2 Gene Amplification) 50.72%
+- [NCIT:C36636](http://purl.obolibrary.org/obo/NCIT_C36636) (Loss of Chromosome 9p) 50.72%
 
 

@@ -8,18 +8,18 @@
 
 - [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([UBERON:0016410](http://purl.obolibrary.org/obo/UBERON_0016410) (male breast))) 75.00%
 - [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) 60.36%
-- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 60.36%
-- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 60.36%
-- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 60.36%
-- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not (CARO:0010000)) 60.36%
-- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 60.36%
-- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null))) 60.36%
-- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 51.86%
-- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 51.81%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 51.70%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 51.60%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 51.59%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 51.45%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 51.44%
+- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not (Error13)) 60.36%
+- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not (Error12)) 60.36%
+- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not (Error11)) 60.36%
+- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not (Error10)) 60.36%
+- [UBERON:0000310](http://purl.obolibrary.org/obo/UBERON_0000310) (breast) and (not (Error1)) 60.36%
+- [UBERON:0034929](http://purl.obolibrary.org/obo/UBERON_0034929) (external soft tissue zone) 53.87%
+- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 53.48%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 53.38%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 53.35%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 53.01%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 52.97%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 52.67%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 52.66%
 
 

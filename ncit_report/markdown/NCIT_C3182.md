@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C21571](http://purl.obolibrary.org/obo/NCIT_C21571) (RARA Gene) 55.56%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C24689](http://purl.obolibrary.org/obo/NCIT_C24689) (PPARG Gene))) 55.56%
-- Thing 51.95%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) 40.91%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C36707](http://purl.obolibrary.org/obo/NCIT_C36707) (TPM3-ALK Fusion Protein Expression))) 40.91%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C36706](http://purl.obolibrary.org/obo/NCIT_C36706) (NPM-ALK Fusion Protein Expression))) 40.91%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C36704](http://purl.obolibrary.org/obo/NCIT_C36704) (FHIT Gene Inactivation))) 40.91%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C36703](http://purl.obolibrary.org/obo/NCIT_C36703) (PMS2 Gene Inactivation))) 40.91%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C36702](http://purl.obolibrary.org/obo/NCIT_C36702) (PMS1 Gene Inactivation))) 40.91%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C36701](http://purl.obolibrary.org/obo/NCIT_C36701) (MSH6 Gene Inactivation))) 40.91%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C36698](http://purl.obolibrary.org/obo/NCIT_C36698) (MLH1 Gene Inactivation))) 40.91%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C36697](http://purl.obolibrary.org/obo/NCIT_C36697) (MSH2 Gene Inactivation))) 40.91%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C36695](http://purl.obolibrary.org/obo/NCIT_C36695) (LKB1 Gene Inactivation))) 40.91%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C36693](http://purl.obolibrary.org/obo/NCIT_C36693) (SMAD4/DPC4 Gene Inactivation))) 40.91%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C36692](http://purl.obolibrary.org/obo/NCIT_C36692) (PTEN Gene Inactivation))) 40.91%
+- [NCIT:C37072](http://purl.obolibrary.org/obo/NCIT_C37072) (Neoplastic Promyelocyte) 61.54%
+- [NCIT:C37072](http://purl.obolibrary.org/obo/NCIT_C37072) (Neoplastic Promyelocyte) and (not ([NCIT:C37180](http://purl.obolibrary.org/obo/NCIT_C37180) (Medium-Sized Neoplastic Myeloblast with Coarse Cytoplasmic Basophilic Granules))) 61.54%
+- [NCIT:C37072](http://purl.obolibrary.org/obo/NCIT_C37072) (Neoplastic Promyelocyte) and (not ([NCIT:C37179](http://purl.obolibrary.org/obo/NCIT_C37179) (Neoplastic Myeloblast without Azurophilic Granules))) 61.54%
+- [NCIT:C37072](http://purl.obolibrary.org/obo/NCIT_C37072) (Neoplastic Promyelocyte) and (not ([NCIT:C37178](http://purl.obolibrary.org/obo/NCIT_C37178) (Neoplastic Myeloblast with Azurophilic Granules))) 61.54%
+- [NCIT:C37072](http://purl.obolibrary.org/obo/NCIT_C37072) (Neoplastic Promyelocyte) and (not ([NCIT:C37177](http://purl.obolibrary.org/obo/NCIT_C37177) (Neoplastic Medium-Sized Myeloblast with Basophilic Agranular Cytoplasm))) 61.54%
+- [NCIT:C37072](http://purl.obolibrary.org/obo/NCIT_C37072) (Neoplastic Promyelocyte) and (not ([NCIT:C37176](http://purl.obolibrary.org/obo/NCIT_C37176) (Neoplastic Myeloblast with Abundant Basophilic Cytoplasm))) 61.54%
+- [NCIT:C37072](http://purl.obolibrary.org/obo/NCIT_C37072) (Neoplastic Promyelocyte) and (not ([NCIT:C37076](http://purl.obolibrary.org/obo/NCIT_C37076) (Neoplastic Neutrophilic Precursor))) 61.54%
+- [NCIT:C37072](http://purl.obolibrary.org/obo/NCIT_C37072) (Neoplastic Promyelocyte) and (not ([NCIT:C37067](http://purl.obolibrary.org/obo/NCIT_C37067) (Neoplastic Myeloid Blast))) 61.54%
+- [NCIT:C37072](http://purl.obolibrary.org/obo/NCIT_C37072) (Neoplastic Promyelocyte) and (not ([NCIT:C37066](http://purl.obolibrary.org/obo/NCIT_C37066) (Neoplastic Myeloblast with Basophilic Cytoplasm))) 61.54%
+- [NCIT:C37072](http://purl.obolibrary.org/obo/NCIT_C37072) (Neoplastic Promyelocyte) and (not ([NCIT:C37065](http://purl.obolibrary.org/obo/NCIT_C37065) (Neoplastic Myeloblast))) 61.54%
+- [NCIT:C37072](http://purl.obolibrary.org/obo/NCIT_C37072) (Neoplastic Promyelocyte) and (not ([NCIT:C37064](http://purl.obolibrary.org/obo/NCIT_C37064) (Neoplastic Blast))) 61.54%
+- [NCIT:C43230](http://purl.obolibrary.org/obo/NCIT_C43230) (Neoplastic Granulocyte) and (not ([NCIT:C37067](http://purl.obolibrary.org/obo/NCIT_C37067) (Neoplastic Myeloid Blast))) 56.21%
+- [NCIT:C43230](http://purl.obolibrary.org/obo/NCIT_C43230) (Neoplastic Granulocyte) and (not ([NCIT:C37065](http://purl.obolibrary.org/obo/NCIT_C37065) (Neoplastic Myeloblast))) 56.21%
+- [NCIT:C43230](http://purl.obolibrary.org/obo/NCIT_C43230) (Neoplastic Granulocyte) and (not ([NCIT:C37064](http://purl.obolibrary.org/obo/NCIT_C37064) (Neoplastic Blast))) 56.21%
+- [NCIT:C43230](http://purl.obolibrary.org/obo/NCIT_C43230) (Neoplastic Granulocyte) and (not (Error4)) and (not ([NCIT:C37064](http://purl.obolibrary.org/obo/NCIT_C37064) (Neoplastic Blast))) 56.21%
 
 

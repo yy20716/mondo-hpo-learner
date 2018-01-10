@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) 100.00%
-- [NCIT:C20570](http://purl.obolibrary.org/obo/NCIT_C20570) (HMG Family Gene) 100.00%
-- [NCIT:C20577](http://purl.obolibrary.org/obo/NCIT_C20577) (HMGA2 Gene) 75.00%
-- [NCIT:C20576](http://purl.obolibrary.org/obo/NCIT_C20576) (HMGA1 Gene) 75.00%
-- [NCIT:C54362](http://purl.obolibrary.org/obo/NCIT_C54362) (Transcription Regulation Gene) 58.51%
-- [NCIT:C16612](http://purl.obolibrary.org/obo/NCIT_C16612) (Gene) 54.23%
-- Thing 50.92%
-- CP:0000037 0.00%
-- CP:0000035 0.00%
-- CP:0000028 0.00%
-- CP:0000027 0.00%
-- CP:0000000 0.00%
-- [CHEBI:36342](http://purl.obolibrary.org/obo/CHEBI_36342) (subatomic particle) 0.00%
-- [CHEBI:24431](http://purl.obolibrary.org/obo/CHEBI_24431) (chemical entity) 0.00%
-- CARO:0010000 0.00%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) 59.09%
+- [NCIT:C20570](http://purl.obolibrary.org/obo/NCIT_C20570) (HMG Family Gene) 59.09%
+- [NCIT:C49120](http://purl.obolibrary.org/obo/NCIT_C49120) (Lipomatous Metaplasia) 54.55%
+- [NCIT:C41428](http://purl.obolibrary.org/obo/NCIT_C41428) (Increased Cellularity Present) 54.55%
+- [NCIT:C36000](http://purl.obolibrary.org/obo/NCIT_C36000) (Hyalinized Stroma Formation) 54.55%
+- [NCIT:C35998](http://purl.obolibrary.org/obo/NCIT_C35998) (Myxoid Stroma Formation) 54.55%
+- [NCIT:C35380](http://purl.obolibrary.org/obo/NCIT_C35380) (Hemorrhagic Change) 54.55%
+- [NCIT:C20577](http://purl.obolibrary.org/obo/NCIT_C20577) (HMGA2 Gene) 54.55%
+- [NCIT:C20576](http://purl.obolibrary.org/obo/NCIT_C20576) (HMGA1 Gene) 54.55%
+- [NCIT:C35996](http://purl.obolibrary.org/obo/NCIT_C35996) (Stromal Change) and [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) 54.55%
+- Thing 52.70%
+- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 43.62%
+- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 43.33%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 41.40%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 40.20%
 
 

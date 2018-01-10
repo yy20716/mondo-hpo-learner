@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C49072](http://purl.obolibrary.org/obo/NCIT_C49072) (Malignant Spindle-Shaped Fibrohistiocytic Cell) 56.25%
-- [NCIT:C49075](http://purl.obolibrary.org/obo/NCIT_C49075) (Neoplastic Spindle-Shaped Fibrohistiocytic Cell) and [NCIT:C53637](http://purl.obolibrary.org/obo/NCIT_C53637) (Malignant Spindle Cell) 56.25%
-- [NCIT:C49062](http://purl.obolibrary.org/obo/NCIT_C49062) (Malignant Fibrohistiocytic Cell) and [NCIT:C53637](http://purl.obolibrary.org/obo/NCIT_C53637) (Malignant Spindle Cell) 56.25%
-- [NCIT:C49062](http://purl.obolibrary.org/obo/NCIT_C49062) (Malignant Fibrohistiocytic Cell) and [NCIT:C49075](http://purl.obolibrary.org/obo/NCIT_C49075) (Neoplastic Spindle-Shaped Fibrohistiocytic Cell) 56.25%
-- [NCIT:C48787](http://purl.obolibrary.org/obo/NCIT_C48787) (Malignant Connective and Soft Tissue Cell) and [NCIT:C49075](http://purl.obolibrary.org/obo/NCIT_C49075) (Neoplastic Spindle-Shaped Fibrohistiocytic Cell) 56.25%
-- [NCIT:C36954](http://purl.obolibrary.org/obo/NCIT_C36954) (Neoplastic Connective and Soft Tissue Spindle Cell) and [NCIT:C49062](http://purl.obolibrary.org/obo/NCIT_C49062) (Malignant Fibrohistiocytic Cell) 56.25%
-- [NCIT:C36823](http://purl.obolibrary.org/obo/NCIT_C36823) (Neoplastic Spindle Cell) and [NCIT:C49062](http://purl.obolibrary.org/obo/NCIT_C49062) (Malignant Fibrohistiocytic Cell) 56.25%
-- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C49075](http://purl.obolibrary.org/obo/NCIT_C49075) (Neoplastic Spindle-Shaped Fibrohistiocytic Cell) 56.25%
-- Thing 51.84%
-- [NCIT:C49075](http://purl.obolibrary.org/obo/NCIT_C49075) (Neoplastic Spindle-Shaped Fibrohistiocytic Cell) 41.61%
-- [NCIT:C49062](http://purl.obolibrary.org/obo/NCIT_C49062) (Malignant Fibrohistiocytic Cell) 41.61%
-- [NCIT:C49075](http://purl.obolibrary.org/obo/NCIT_C49075) (Neoplastic Spindle-Shaped Fibrohistiocytic Cell) and (not ([NCIT:C38169](http://purl.obolibrary.org/obo/NCIT_C38169) (A-myb Messenger RNA Overexpression))) 41.61%
-- [NCIT:C49075](http://purl.obolibrary.org/obo/NCIT_C49075) (Neoplastic Spindle-Shaped Fibrohistiocytic Cell) and (not ([NCIT:C38168](http://purl.obolibrary.org/obo/NCIT_C38168) (BCL-6 Messenger RNA Overexpression))) 41.61%
-- [NCIT:C49075](http://purl.obolibrary.org/obo/NCIT_C49075) (Neoplastic Spindle-Shaped Fibrohistiocytic Cell) and (not ([NCIT:C38167](http://purl.obolibrary.org/obo/NCIT_C38167) (CD10 Messenger RNA Overexpression))) 41.61%
-- [NCIT:C49075](http://purl.obolibrary.org/obo/NCIT_C49075) (Neoplastic Spindle-Shaped Fibrohistiocytic Cell) and (not ([NCIT:C38158](http://purl.obolibrary.org/obo/NCIT_C38158) (Metachronous Wilms Tumor))) 41.61%
+- [NCIT:C98904](http://purl.obolibrary.org/obo/NCIT_C98904) (Connective and Soft Tissue Injury) 53.85%
+- [NCIT:C60643](http://purl.obolibrary.org/obo/NCIT_C60643) (Adulthood Lesion) 53.85%
+- [NCIT:C36129](http://purl.obolibrary.org/obo/NCIT_C36129) (High Grade Lesion) 53.85%
+- [NCIT:C35487](http://purl.obolibrary.org/obo/NCIT_C35487) (Bone Injury) 53.85%
+- [NCIT:C3047](http://purl.obolibrary.org/obo/NCIT_C3047) (Pathologic Fracture) 53.85%
+- [NCIT:C3046](http://purl.obolibrary.org/obo/NCIT_C3046) (Fracture) 53.85%
+- [NCIT:C110943](http://purl.obolibrary.org/obo/NCIT_C110943) (Musculoskeletal Injury) 53.85%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C122604](http://purl.obolibrary.org/obo/NCIT_C122604) (Infantile Lesion))) 53.85%
+- Thing 52.93%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 42.75%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 39.95%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) 39.20%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40168](http://purl.obolibrary.org/obo/NCIT_C40168) (Uterine Corpus Lipoleiomyoma))) 39.20%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40167](http://purl.obolibrary.org/obo/NCIT_C40167) (Uterine Corpus Bizarre Leiomyoma))) 39.20%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40166](http://purl.obolibrary.org/obo/NCIT_C40166) (Uterine Corpus Myxoid Leiomyoma))) 39.20%
 
 

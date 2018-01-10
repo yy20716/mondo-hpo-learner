@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [CL:0002309](http://purl.obolibrary.org/obo/CL_0002309) (corticotroph) 75.00%
-- [CL:0000467](http://purl.obolibrary.org/obo/CL_0000467) (adrenocorticotropic hormone secreting cell) and [CL:2000004](http://purl.obolibrary.org/obo/CL_2000004) (pituitary gland cell) 75.00%
-- [CL:0000467](http://purl.obolibrary.org/obo/CL_0000467) (adrenocorticotropic hormone secreting cell) and [CL:0002371](http://purl.obolibrary.org/obo/CL_0002371) (somatic cell) 75.00%
-- [CL:0000467](http://purl.obolibrary.org/obo/CL_0000467) (adrenocorticotropic hormone secreting cell) and [CL:0002319](http://purl.obolibrary.org/obo/CL_0002319) (neural cell) 75.00%
-- [CL:0000467](http://purl.obolibrary.org/obo/CL_0000467) (adrenocorticotropic hormone secreting cell) and [CL:0002077](http://purl.obolibrary.org/obo/CL_0002077) (ecto-epithelial cell) 75.00%
-- [CL:0000467](http://purl.obolibrary.org/obo/CL_0000467) (adrenocorticotropic hormone secreting cell) and [CL:0000710](http://purl.obolibrary.org/obo/CL_0000710) (neurecto-epithelial cell) 75.00%
-- [CL:0000467](http://purl.obolibrary.org/obo/CL_0000467) (adrenocorticotropic hormone secreting cell) and [CL:0000639](http://purl.obolibrary.org/obo/CL_0000639) (basophil cell of pars distalis of adenohypophysis) 75.00%
-- [CL:0000467](http://purl.obolibrary.org/obo/CL_0000467) (adrenocorticotropic hormone secreting cell) and [CL:0000637](http://purl.obolibrary.org/obo/CL_0000637) (chromophil cell of anterior pituitary gland) 75.00%
-- [CL:0000467](http://purl.obolibrary.org/obo/CL_0000467) (adrenocorticotropic hormone secreting cell) and [CL:0000568](http://purl.obolibrary.org/obo/CL_0000568) (amine precursor uptake and decarboxylation cell) 75.00%
-- [CL:0000467](http://purl.obolibrary.org/obo/CL_0000467) (adrenocorticotropic hormone secreting cell) and [CL:0000548](http://purl.obolibrary.org/obo/CL_0000548) (animal cell) 75.00%
-- [CL:0000393](http://purl.obolibrary.org/obo/CL_0000393) (electrically responsive cell) and [CL:0000467](http://purl.obolibrary.org/obo/CL_0000467) (adrenocorticotropic hormone secreting cell) 75.00%
-- [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) and [CL:0000467](http://purl.obolibrary.org/obo/CL_0000467) (adrenocorticotropic hormone secreting cell) 75.00%
-- [CL:0000211](http://purl.obolibrary.org/obo/CL_0000211) (electrically active cell) and [CL:0000467](http://purl.obolibrary.org/obo/CL_0000467) (adrenocorticotropic hormone secreting cell) 75.00%
-- [CL:0000166](http://purl.obolibrary.org/obo/CL_0000166) (chromaffin cell) and [CL:0000467](http://purl.obolibrary.org/obo/CL_0000467) (adrenocorticotropic hormone secreting cell) 75.00%
-- [CL:0000165](http://purl.obolibrary.org/obo/CL_0000165) (neuroendocrine cell) and [CL:0000467](http://purl.obolibrary.org/obo/CL_0000467) (adrenocorticotropic hormone secreting cell) 75.00%
+- [NCIT:C45944](http://purl.obolibrary.org/obo/NCIT_C45944) (Malignant Corticotroph Cell) 62.50%
+- [NCIT:C39629](http://purl.obolibrary.org/obo/NCIT_C39629) (CDKN2A Gene Inactivation) 62.50%
+- [NCIT:C36920](http://purl.obolibrary.org/obo/NCIT_C36920) (Neoplastic Corticotroph Cell) 62.50%
+- [CL:0002309](http://purl.obolibrary.org/obo/CL_0002309) (corticotroph) 62.50%
+- [CL:0000467](http://purl.obolibrary.org/obo/CL_0000467) (adrenocorticotropic hormone secreting cell) 62.50%
+- Thing 51.63%
+- [UBERON:0006799](http://purl.obolibrary.org/obo/UBERON_0006799) (glandular epithelium) 37.50%
+- [NCIT:C45973](http://purl.obolibrary.org/obo/NCIT_C45973) (Malignant Adenohypophysial Cell) 34.86%
+- [CL:0000639](http://purl.obolibrary.org/obo/CL_0000639) (basophil cell of pars distalis of adenohypophysis) 34.86%
+- [CL:0000568](http://purl.obolibrary.org/obo/CL_0000568) (amine precursor uptake and decarboxylation cell) 29.17%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 27.66%
+- [CL:0000165](http://purl.obolibrary.org/obo/CL_0000165) (neuroendocrine cell) 26.37%
+- [CL:0000393](http://purl.obolibrary.org/obo/CL_0000393) (electrically responsive cell) 23.97%
+- [CL:0000211](http://purl.obolibrary.org/obo/CL_0000211) (electrically active cell) 23.97%
+- [CL:0000151](http://purl.obolibrary.org/obo/CL_0000151) (secretory cell) 21.07%
 
 

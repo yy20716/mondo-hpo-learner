@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 53.63%
-- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 53.48%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 52.52%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 51.92%
-- Thing 50.92%
-- [NCIT:C8326](http://purl.obolibrary.org/obo/NCIT_C8326) (Cytologic Atypia) 47.36%
-- [NCIT:C9478](http://purl.obolibrary.org/obo/NCIT_C9478) (Atypia) 43.90%
-- [NCIT:C4086](http://purl.obolibrary.org/obo/NCIT_C4086) (Dysplasia) 41.67%
-- CP:0000037 0.00%
-- CP:0000035 0.00%
-- CP:0000028 0.00%
-- CP:0000027 0.00%
-- CP:0000000 0.00%
-- [CHEBI:36342](http://purl.obolibrary.org/obo/CHEBI_36342) (subatomic particle) 0.00%
-- [CHEBI:24431](http://purl.obolibrary.org/obo/CHEBI_24431) (chemical entity) 0.00%
+- [NCIT:C25785](http://purl.obolibrary.org/obo/NCIT_C25785) (KRAS Gene) 57.14%
+- [NCIT:C18363](http://purl.obolibrary.org/obo/NCIT_C18363) (BRAF Gene) 57.14%
+- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability))) 57.14%
+- Thing 52.15%
+- [NCIT:C48189](http://purl.obolibrary.org/obo/NCIT_C48189) (Genomic Instability) 42.50%
+- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) 42.50%
+- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C40137](http://purl.obolibrary.org/obo/NCIT_C40137) (Uterine Ligament Mucinous Adenocarcinoma))) 42.50%
+- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C40129](http://purl.obolibrary.org/obo/NCIT_C40129) (Fallopian Tube Adenomatoid Tumor))) 42.50%
+- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C40128](http://purl.obolibrary.org/obo/NCIT_C40128) (Fallopian Tube Leiomyosarcoma))) 42.50%
+- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C40127](http://purl.obolibrary.org/obo/NCIT_C40127) (Fallopian Tube Leiomyoma))) 42.50%
+- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C40125](http://purl.obolibrary.org/obo/NCIT_C40125) (Fallopian Tube Adenosarcoma))) 42.50%
+- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C40124](http://purl.obolibrary.org/obo/NCIT_C40124) (Fallopian Tube Carcinosarcoma))) 42.50%
+- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C40122](http://purl.obolibrary.org/obo/NCIT_C40122) (Pelvic Pain))) 42.50%
+- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C40116](http://purl.obolibrary.org/obo/NCIT_C40116) (Fallopian Tube Metaplastic Papillary Tumor))) 42.50%
+- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C40114](http://purl.obolibrary.org/obo/NCIT_C40114) (Fallopian Tube Serous Cystadenofibroma))) 42.50%
 
 

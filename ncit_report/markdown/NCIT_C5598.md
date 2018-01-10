@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0001245](http://purl.obolibrary.org/obo/UBERON_0001245) (anus) 75.00%
-- [NCIT:C5105](http://purl.obolibrary.org/obo/NCIT_C5105) (Colorectal Adenocarcinoma) 53.87%
-- Thing 50.92%
-- [NCIT:C2955](http://purl.obolibrary.org/obo/NCIT_C2955) (Colorectal Carcinoma) 47.36%
-- [NCIT:C96963](http://purl.obolibrary.org/obo/NCIT_C96963) (Digestive System Carcinoma) 36.18%
-- [NCIT:C2852](http://purl.obolibrary.org/obo/NCIT_C2852) (Adenocarcinoma) 31.62%
-- [NCIT:C7132](http://purl.obolibrary.org/obo/NCIT_C7132) (Glandular Cell Neoplasm) 31.02%
-- [NCIT:C2916](http://purl.obolibrary.org/obo/NCIT_C2916) (Carcinoma) 29.98%
-- [NCIT:C3709](http://purl.obolibrary.org/obo/NCIT_C3709) (Epithelial Neoplasm) 28.98%
-- [NCIT:C4741](http://purl.obolibrary.org/obo/NCIT_C4741) (Neoplasm by Morphology) 27.61%
-- [NCIT:C3263](http://purl.obolibrary.org/obo/NCIT_C3263) (Neoplasm by Site) 27.54%
-- [NCIT:C3262](http://purl.obolibrary.org/obo/NCIT_C3262) (Neoplasm) 27.47%
-- [NCIT:C27551](http://purl.obolibrary.org/obo/NCIT_C27551) (Disorder by Site) 27.27%
-- [NCIT:C2991](http://purl.obolibrary.org/obo/NCIT_C2991) (Disease or Disorder) 27.10%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 26.36%
+- [UBERON:0003342](http://purl.obolibrary.org/obo/UBERON_0003342) (mucosa of anal canal) 62.50%
+- [UBERON:0001245](http://purl.obolibrary.org/obo/UBERON_0001245) (anus) 62.50%
+- [UBERON:0000161](http://purl.obolibrary.org/obo/UBERON_0000161) (orifice) 62.50%
+- [NCIT:C25419](http://purl.obolibrary.org/obo/NCIT_C25419) (Anal Margin) 62.50%
+- [NCIT:C12680](http://purl.obolibrary.org/obo/NCIT_C12680) (Body Region) 62.50%
+- [UBERON:0001207](http://purl.obolibrary.org/obo/UBERON_0001207) (mucosa of large intestine) and [UBERON:0004121](http://purl.obolibrary.org/obo/UBERON_0004121) (ectoderm-derived structure) 62.50%
+- Thing 51.63%
+- [UBERON:0001207](http://purl.obolibrary.org/obo/UBERON_0001207) (mucosa of large intestine) 47.86%
+- [UBERON:0001207](http://purl.obolibrary.org/obo/UBERON_0001207) (mucosa of large intestine) and (not ([NCIT:C39618](http://purl.obolibrary.org/obo/NCIT_C39618) (Subcutaneous Nodule))) 47.86%
+- [UBERON:0001207](http://purl.obolibrary.org/obo/UBERON_0001207) (mucosa of large intestine) and (not ([NCIT:C39617](http://purl.obolibrary.org/obo/NCIT_C39617) (Subcutaneous Involvement))) 47.86%
+- [UBERON:0001207](http://purl.obolibrary.org/obo/UBERON_0001207) (mucosa of large intestine) and (not ([NCIT:C39616](http://purl.obolibrary.org/obo/NCIT_C39616) (Karyorrhexis))) 47.86%
+- [UBERON:0001207](http://purl.obolibrary.org/obo/UBERON_0001207) (mucosa of large intestine) and (not ([NCIT:C39615](http://purl.obolibrary.org/obo/NCIT_C39615) (Sinusoidal Infiltration))) 47.86%
+- [UBERON:0001207](http://purl.obolibrary.org/obo/UBERON_0001207) (mucosa of large intestine) and (not ([NCIT:C39609](http://purl.obolibrary.org/obo/NCIT_C39609) (Activated Natural Killer Cell))) 47.86%
+- [UBERON:0001207](http://purl.obolibrary.org/obo/UBERON_0001207) (mucosa of large intestine) and (not ([NCIT:C39608](http://purl.obolibrary.org/obo/NCIT_C39608) (Coagulative Necrosis))) 47.86%
+- [UBERON:0001207](http://purl.obolibrary.org/obo/UBERON_0001207) (mucosa of large intestine) and (not ([NCIT:C39602](http://purl.obolibrary.org/obo/NCIT_C39602) (Pleomorphic Medium-Sized to Large T-Lymphocyte))) 47.86%
 
 

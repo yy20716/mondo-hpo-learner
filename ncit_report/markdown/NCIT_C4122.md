@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0004645](http://purl.obolibrary.org/obo/UBERON_0004645) (urinary bladder urothelium) 75.00%
-- [NCIT:C12866](http://purl.obolibrary.org/obo/NCIT_C12866) (Transitional Cell) 75.00%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 51.60%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 51.45%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 51.44%
-- Thing 50.92%
-- [CL:0000066](http://purl.obolibrary.org/obo/CL_0000066) (epithelial cell) 30.16%
-- [CL:0000548](http://purl.obolibrary.org/obo/CL_0000548) (animal cell) 27.97%
-- [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) 27.97%
-- [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) (native cell) 27.76%
-- [GO:0005623](http://purl.obolibrary.org/obo/GO_0005623) (cell) 27.76%
-- [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000) (cell) 27.72%
-- [GO:0005575](http://purl.obolibrary.org/obo/GO_0005575) (cellular_component) 27.56%
-- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 26.28%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 26.21%
+- [NCIT:C39716](http://purl.obolibrary.org/obo/NCIT_C39716) (EGFR Protein Overexpression) 53.33%
+- [NCIT:C36639](http://purl.obolibrary.org/obo/NCIT_C36639) (ERBB2 Protein Overexpression) 53.33%
+- [NCIT:C36548](http://purl.obolibrary.org/obo/NCIT_C36548) (Loss of Chromosome 2q) 53.33%
+- [NCIT:C36516](http://purl.obolibrary.org/obo/NCIT_C36516) (Loss of Chromosome 10q) 53.33%
+- [NCIT:C36496](http://purl.obolibrary.org/obo/NCIT_C36496) (Loss of Chromosome 18q) 53.33%
+- [NCIT:C36489](http://purl.obolibrary.org/obo/NCIT_C36489) (Gain of Chromosome 5p) 53.33%
+- [NCIT:C36480](http://purl.obolibrary.org/obo/NCIT_C36480) (Gain of Chromosome 20q) 53.33%
+- [NCIT:C36329](http://purl.obolibrary.org/obo/NCIT_C36329) (TP53 Gene Inactivation) 53.33%
+- [NCIT:C27712](http://purl.obolibrary.org/obo/NCIT_C27712) (Loss of Chromosome 5q) 53.33%
+- [NCIT:C12866](http://purl.obolibrary.org/obo/NCIT_C12866) (Transitional Cell) 53.33%
+- Thing 53.15%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) 38.69%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39821](http://purl.obolibrary.org/obo/NCIT_C39821) (Infiltrating Bladder Lymphoepithelioma-Like Carcinoma))) 38.69%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39820](http://purl.obolibrary.org/obo/NCIT_C39820) (Infiltrating Bladder Urothelial Carcinoma, Microcystic Variant))) 38.69%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39819](http://purl.obolibrary.org/obo/NCIT_C39819) (Infiltrating Bladder Urothelial Carcinoma, Nested Variant))) 38.69%
 
 

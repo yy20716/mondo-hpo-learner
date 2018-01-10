@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36105](http://purl.obolibrary.org/obo/NCIT_C36105) (Indolent Clinical Course) 55.00%
-- [NCIT:C3384](http://purl.obolibrary.org/obo/NCIT_C3384) (Splenomegaly) 55.00%
-- [NCIT:C2863](http://purl.obolibrary.org/obo/NCIT_C2863) (Granulocytopenia) 55.00%
-- Thing 52.05%
-- [NCIT:C26816](http://purl.obolibrary.org/obo/NCIT_C26816) (Leukopenia) 40.36%
-- [NCIT:C26816](http://purl.obolibrary.org/obo/NCIT_C26816) (Leukopenia) and (not ([NCIT:C3707](http://purl.obolibrary.org/obo/NCIT_C3707) (Meningiomatosis))) 40.36%
-- [NCIT:C26816](http://purl.obolibrary.org/obo/NCIT_C26816) (Leukopenia) and (not ([NCIT:C37068](http://purl.obolibrary.org/obo/NCIT_C37068) (Neoplastic Megakaryoblast))) 40.36%
-- [NCIT:C26816](http://purl.obolibrary.org/obo/NCIT_C26816) (Leukopenia) and (not ([NCIT:C37063](http://purl.obolibrary.org/obo/NCIT_C37063) (Immature Malignant Mast Cell))) 40.36%
-- [NCIT:C26816](http://purl.obolibrary.org/obo/NCIT_C26816) (Leukopenia) and (not ([NCIT:C37058](http://purl.obolibrary.org/obo/NCIT_C37058) (Ring Sideroblast))) 40.36%
-- [NCIT:C26816](http://purl.obolibrary.org/obo/NCIT_C26816) (Leukopenia) and (not ([NCIT:C37055](http://purl.obolibrary.org/obo/NCIT_C37055) (Large Multinucleated Erythroid Cell))) 40.36%
-- [NCIT:C26816](http://purl.obolibrary.org/obo/NCIT_C26816) (Leukopenia) and (not ([NCIT:C37052](http://purl.obolibrary.org/obo/NCIT_C37052) (Faggot Cell))) 40.36%
-- [NCIT:C26816](http://purl.obolibrary.org/obo/NCIT_C26816) (Leukopenia) and (not ([NCIT:C37051](http://purl.obolibrary.org/obo/NCIT_C37051) (Dysplastic Granulocyte))) 40.36%
-- [NCIT:C26816](http://purl.obolibrary.org/obo/NCIT_C26816) (Leukopenia) and (not ([NCIT:C3705](http://purl.obolibrary.org/obo/NCIT_C3705) (Pleomorphic Liposarcoma))) 40.36%
-- [NCIT:C26816](http://purl.obolibrary.org/obo/NCIT_C26816) (Leukopenia) and (not ([NCIT:C37049](http://purl.obolibrary.org/obo/NCIT_C37049) (Hyperchromatic Megakaryocyte))) 40.36%
-- [NCIT:C26816](http://purl.obolibrary.org/obo/NCIT_C26816) (Leukopenia) and (not ([NCIT:C37048](http://purl.obolibrary.org/obo/NCIT_C37048) (Monolobed Megakaryocyte))) 40.36%
+- [NCIT:C12542](http://purl.obolibrary.org/obo/NCIT_C12542) (CD8-Positive T-Lymphocyte) 54.17%
+- Thing 52.82%
+- [CL:0000798](http://purl.obolibrary.org/obo/CL_0000798) (gamma-delta T cell) 39.52%
+- [CL:0000798](http://purl.obolibrary.org/obo/CL_0000798) (gamma-delta T cell) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 39.52%
+- [CL:0000798](http://purl.obolibrary.org/obo/CL_0000798) (gamma-delta T cell) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 39.52%
+- [CL:0000798](http://purl.obolibrary.org/obo/CL_0000798) (gamma-delta T cell) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 39.52%
+- [CL:0000798](http://purl.obolibrary.org/obo/CL_0000798) (gamma-delta T cell) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 39.52%
+- [CL:0000798](http://purl.obolibrary.org/obo/CL_0000798) (gamma-delta T cell) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 39.52%
+- [CL:0000798](http://purl.obolibrary.org/obo/CL_0000798) (gamma-delta T cell) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 39.52%
+- [CL:0000798](http://purl.obolibrary.org/obo/CL_0000798) (gamma-delta T cell) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 39.52%
+- [CL:0000798](http://purl.obolibrary.org/obo/CL_0000798) (gamma-delta T cell) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 39.52%
+- [CL:0000798](http://purl.obolibrary.org/obo/CL_0000798) (gamma-delta T cell) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 39.52%
+- [CL:0000798](http://purl.obolibrary.org/obo/CL_0000798) (gamma-delta T cell) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 39.52%
+- [CL:0000798](http://purl.obolibrary.org/obo/CL_0000798) (gamma-delta T cell) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 39.52%
+- [CL:0000798](http://purl.obolibrary.org/obo/CL_0000798) (gamma-delta T cell) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 39.52%
 
 

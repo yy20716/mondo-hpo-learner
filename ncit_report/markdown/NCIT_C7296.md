@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C3384](http://purl.obolibrary.org/obo/NCIT_C3384) (Splenomegaly) 75.00%
-- Thing 50.92%
-- [NCIT:C25553](http://purl.obolibrary.org/obo/NCIT_C25553) (Leukemic Cell) 32.91%
-- [NCIT:C36289](http://purl.obolibrary.org/obo/NCIT_C36289) (Hematopoietic System Finding) 30.42%
-- [NCIT:C37060](http://purl.obolibrary.org/obo/NCIT_C37060) (Neoplastic Hematopoietic and Lymphoid Cell) 29.81%
-- [NCIT:C36987](http://purl.obolibrary.org/obo/NCIT_C36987) (Abnormal Hematopoietic and Lymphoid Cell) 29.26%
-- [NCIT:C36278](http://purl.obolibrary.org/obo/NCIT_C36278) (Finding by Site or System) 29.03%
-- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) 28.23%
-- [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) 27.48%
-- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 27.36%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 26.78%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 26.36%
-- CP:0000037 0.00%
-- CP:0000035 0.00%
-- CP:0000028 0.00%
+- Thing 54.60%
+- [NCIT:C36714](http://purl.obolibrary.org/obo/NCIT_C36714) (p190 Fusion Protein Expression) 51.56%
+- [NCIT:C36713](http://purl.obolibrary.org/obo/NCIT_C36713) (p230 Fusion Protein Expression) 51.56%
+- [NCIT:C36712](http://purl.obolibrary.org/obo/NCIT_C36712) (p210 Fusion Protein Expression) 51.56%
+- [NCIT:C36424](http://purl.obolibrary.org/obo/NCIT_C36424) (del(17p13)) 51.56%
+- [NCIT:C36423](http://purl.obolibrary.org/obo/NCIT_C36423) (del(6q21)) 51.56%
+- [NCIT:C36422](http://purl.obolibrary.org/obo/NCIT_C36422) (del(11q22q23)) 51.56%
+- [NCIT:C36421](http://purl.obolibrary.org/obo/NCIT_C36421) (del(13q14)) 51.56%
+- [NCIT:C36357](http://purl.obolibrary.org/obo/NCIT_C36357) (t(14;19)(q32;q13.1)) 51.56%
+- [NCIT:C28452](http://purl.obolibrary.org/obo/NCIT_C28452) (Philadelphia Chromosome) 51.56%
+- [NCIT:C13271](http://purl.obolibrary.org/obo/NCIT_C13271) (t(9;22)(q34.1;q11.2)) 51.56%
+- [NCIT:C36715](http://purl.obolibrary.org/obo/NCIT_C36715) (BCR-ABL1 Fusion Protein Expression) 47.99%
+- [NCIT:C36715](http://purl.obolibrary.org/obo/NCIT_C36715) (BCR-ABL1 Fusion Protein Expression) and (not ([NCIT:C36558](http://purl.obolibrary.org/obo/NCIT_C36558) (Gain of Chromosome 1))) 47.99%
+- [NCIT:C36715](http://purl.obolibrary.org/obo/NCIT_C36715) (BCR-ABL1 Fusion Protein Expression) and (not ([NCIT:C36557](http://purl.obolibrary.org/obo/NCIT_C36557) (del(13q32-qter)))) 47.99%
+- [NCIT:C36715](http://purl.obolibrary.org/obo/NCIT_C36715) (BCR-ABL1 Fusion Protein Expression) and (not ([NCIT:C36556](http://purl.obolibrary.org/obo/NCIT_C36556) (del(13q12-13)))) 47.99%
 
 

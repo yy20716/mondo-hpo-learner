@@ -7,7 +7,7 @@
 **Class expressions from DL-Learner:**
 
 - [NCIT:C4786](http://purl.obolibrary.org/obo/NCIT_C4786) (Dementia) and (not ([NCIT:C2866](http://purl.obolibrary.org/obo/NCIT_C2866) (Alzheimer's Disease))) 55.00%
-- Thing 52.05%
+- Thing 52.57%
 - [NCIT:C92196](http://purl.obolibrary.org/obo/NCIT_C92196) (Cognitive Disorder) 40.36%
 - [NCIT:C4786](http://purl.obolibrary.org/obo/NCIT_C4786) (Dementia) 40.36%
 - [NCIT:C53547](http://purl.obolibrary.org/obo/NCIT_C53547) (Non-Neoplastic Disorder by Special Category) and [NCIT:C92196](http://purl.obolibrary.org/obo/NCIT_C92196) (Cognitive Disorder) 40.36%
@@ -20,6 +20,6 @@
 - [NCIT:C27551](http://purl.obolibrary.org/obo/NCIT_C27551) (Disorder by Site) and [NCIT:C92196](http://purl.obolibrary.org/obo/NCIT_C92196) (Cognitive Disorder) 40.36%
 - [NCIT:C27090](http://purl.obolibrary.org/obo/NCIT_C27090) (Degenerative Disorder) and [NCIT:C92196](http://purl.obolibrary.org/obo/NCIT_C92196) (Cognitive Disorder) 40.36%
 - [NCIT:C26835](http://purl.obolibrary.org/obo/NCIT_C26835) (Nervous System Disorder) and [NCIT:C92196](http://purl.obolibrary.org/obo/NCIT_C92196) (Cognitive Disorder) 40.36%
-- [NCIT:C4786](http://purl.obolibrary.org/obo/NCIT_C4786) (Dementia) and (not ([NCIT:C37137](http://purl.obolibrary.org/obo/NCIT_C37137) (Poorly Differentiated Neoplastic Astrocyte))) 40.36%
+- [NCIT:C4786](http://purl.obolibrary.org/obo/NCIT_C4786) (Dementia) and (not ([NCIT:C39808](http://purl.obolibrary.org/obo/NCIT_C39808) (Asymptomatic Mass))) 40.36%
 
 

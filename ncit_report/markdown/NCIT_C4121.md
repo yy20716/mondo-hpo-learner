@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C54208](http://purl.obolibrary.org/obo/NCIT_C54208) (Malignant Hyperchromatic Squamous Cell))) 66.67%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C54207](http://purl.obolibrary.org/obo/NCIT_C54207) (Malignant Small Squamous Cell))) 66.67%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C36860](http://purl.obolibrary.org/obo/NCIT_C36860) (Malignant Small Cell))) 66.67%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C36795](http://purl.obolibrary.org/obo/NCIT_C36795) (Malignant Epithelial Small Cell))) 66.67%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C36789](http://purl.obolibrary.org/obo/NCIT_C36789) (Dysplastic Squamous Cell))) 66.67%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C36772](http://purl.obolibrary.org/obo/NCIT_C36772) (Abnormal Squamous Cell))) 66.67%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C36771](http://purl.obolibrary.org/obo/NCIT_C36771) (Malignant Squamous Cell))) 66.67%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C36760](http://purl.obolibrary.org/obo/NCIT_C36760) (Neoplastic Squamous Cell))) 66.67%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) 52.02%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([CHEBI:23019](http://purl.obolibrary.org/obo/CHEBI_23019) (carbonyl group))) 52.02%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([CHEBI:23004](http://purl.obolibrary.org/obo/CHEBI_23004) (carbamoyl group))) 52.02%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([CHEBI:22868](http://purl.obolibrary.org/obo/CHEBI_22868) (bile salt))) 52.02%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion))) 52.02%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 52.02%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 52.02%
+- Thing 54.31%
+- [NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q) 51.79%
+- [NCIT:C39795](http://purl.obolibrary.org/obo/NCIT_C39795) (Loss of Chromosome 14q) 51.79%
+- [NCIT:C37312](http://purl.obolibrary.org/obo/NCIT_C37312) (Loss of Chromosome 11q) 51.79%
+- [NCIT:C36636](http://purl.obolibrary.org/obo/NCIT_C36636) (Loss of Chromosome 9p) 51.79%
+- [NCIT:C36515](http://purl.obolibrary.org/obo/NCIT_C36515) (Loss of Chromosome 16q) 51.79%
+- [NCIT:C36502](http://purl.obolibrary.org/obo/NCIT_C36502) (Loss of Chromosome 3p) 51.79%
+- [NCIT:C36497](http://purl.obolibrary.org/obo/NCIT_C36497) (Loss of Chromosome 13q) 51.79%
+- [NCIT:C35220](http://purl.obolibrary.org/obo/NCIT_C35220) (Postcoital Bleeding) 51.79%
+- [NCIT:C26945](http://purl.obolibrary.org/obo/NCIT_C26945) (Vaginal Hemorrhage) 51.79%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) and (not ([NCIT:C34937](http://purl.obolibrary.org/obo/NCIT_C34937) (Postmenopausal Hemorrhage))) 44.40%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) and (not ([NCIT:C34818](http://purl.obolibrary.org/obo/NCIT_C34818) (Metrorrhagia))) 44.40%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) 38.93%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) and (not ([NCIT:C36670](http://purl.obolibrary.org/obo/NCIT_C36670) (Gain of Chromosome 16))) 38.93%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) and (not ([NCIT:C36669](http://purl.obolibrary.org/obo/NCIT_C36669) (Gain of Chromosome 6))) 38.93%
 
 

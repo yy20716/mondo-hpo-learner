@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C48266](http://purl.obolibrary.org/obo/NCIT_C48266) (Malignant Parathyroid Gland Cell) 59.09%
-- Thing 53.05%
-- [NCIT:C48273](http://purl.obolibrary.org/obo/NCIT_C48273) (Malignant Parathyroid Gland Oncocyte) 52.27%
-- [NCIT:C48270](http://purl.obolibrary.org/obo/NCIT_C48270) (Malignant Parathyroid Gland Clear Cell) 52.27%
-- [NCIT:C48269](http://purl.obolibrary.org/obo/NCIT_C48269) (Malignant Parathyroid Gland Chief Cell) 52.27%
-- [NCIT:C48272](http://purl.obolibrary.org/obo/NCIT_C48272) (Neoplastic Parathyroid Gland Oncocyte) and [NCIT:C60433](http://purl.obolibrary.org/obo/NCIT_C60433) (Adenocarcinoma Cell with Abundant Cytoplasm) 52.27%
-- [NCIT:C48266](http://purl.obolibrary.org/obo/NCIT_C48266) (Malignant Parathyroid Gland Cell) and [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) 52.27%
-- [NCIT:C48266](http://purl.obolibrary.org/obo/NCIT_C48266) (Malignant Parathyroid Gland Cell) and [NCIT:C48272](http://purl.obolibrary.org/obo/NCIT_C48272) (Neoplastic Parathyroid Gland Oncocyte) 52.27%
-- [NCIT:C48266](http://purl.obolibrary.org/obo/NCIT_C48266) (Malignant Parathyroid Gland Cell) and [NCIT:C48268](http://purl.obolibrary.org/obo/NCIT_C48268) (Neoplastic Parathyroid Gland Chief Cell) 52.27%
-- [NCIT:C36942](http://purl.obolibrary.org/obo/NCIT_C36942) (Malignant Oncocyte) and [NCIT:C48272](http://purl.obolibrary.org/obo/NCIT_C48272) (Neoplastic Parathyroid Gland Oncocyte) 52.27%
-- [NCIT:C36929](http://purl.obolibrary.org/obo/NCIT_C36929) (Malignant Endocrine Cell) and [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) 52.27%
-- [NCIT:C36929](http://purl.obolibrary.org/obo/NCIT_C36929) (Malignant Endocrine Cell) and [NCIT:C48272](http://purl.obolibrary.org/obo/NCIT_C48272) (Neoplastic Parathyroid Gland Oncocyte) 52.27%
-- [NCIT:C36929](http://purl.obolibrary.org/obo/NCIT_C36929) (Malignant Endocrine Cell) and [NCIT:C48268](http://purl.obolibrary.org/obo/NCIT_C48268) (Neoplastic Parathyroid Gland Chief Cell) 52.27%
-- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) 52.27%
-- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and [NCIT:C48266](http://purl.obolibrary.org/obo/NCIT_C48266) (Malignant Parathyroid Gland Cell) 52.27%
+- [NCIT:C48266](http://purl.obolibrary.org/obo/NCIT_C48266) (Malignant Parathyroid Gland Cell) 58.33%
+- Thing 53.99%
+- [NCIT:C48273](http://purl.obolibrary.org/obo/NCIT_C48273) (Malignant Parathyroid Gland Oncocyte) 52.08%
+- [NCIT:C48270](http://purl.obolibrary.org/obo/NCIT_C48270) (Malignant Parathyroid Gland Clear Cell) 52.08%
+- [NCIT:C48269](http://purl.obolibrary.org/obo/NCIT_C48269) (Malignant Parathyroid Gland Chief Cell) 52.08%
+- [NCIT:C48272](http://purl.obolibrary.org/obo/NCIT_C48272) (Neoplastic Parathyroid Gland Oncocyte) and [NCIT:C60433](http://purl.obolibrary.org/obo/NCIT_C60433) (Adenocarcinoma Cell with Abundant Cytoplasm) 52.08%
+- [NCIT:C48266](http://purl.obolibrary.org/obo/NCIT_C48266) (Malignant Parathyroid Gland Cell) and [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) 52.08%
+- [NCIT:C48266](http://purl.obolibrary.org/obo/NCIT_C48266) (Malignant Parathyroid Gland Cell) and [NCIT:C48272](http://purl.obolibrary.org/obo/NCIT_C48272) (Neoplastic Parathyroid Gland Oncocyte) 52.08%
+- [NCIT:C48266](http://purl.obolibrary.org/obo/NCIT_C48266) (Malignant Parathyroid Gland Cell) and [NCIT:C48268](http://purl.obolibrary.org/obo/NCIT_C48268) (Neoplastic Parathyroid Gland Chief Cell) 52.08%
+- [NCIT:C36942](http://purl.obolibrary.org/obo/NCIT_C36942) (Malignant Oncocyte) and [NCIT:C48272](http://purl.obolibrary.org/obo/NCIT_C48272) (Neoplastic Parathyroid Gland Oncocyte) 52.08%
+- [NCIT:C36929](http://purl.obolibrary.org/obo/NCIT_C36929) (Malignant Endocrine Cell) and [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) 52.08%
+- [NCIT:C36929](http://purl.obolibrary.org/obo/NCIT_C36929) (Malignant Endocrine Cell) and [NCIT:C48272](http://purl.obolibrary.org/obo/NCIT_C48272) (Neoplastic Parathyroid Gland Oncocyte) 52.08%
+- [NCIT:C36929](http://purl.obolibrary.org/obo/NCIT_C36929) (Malignant Endocrine Cell) and [NCIT:C48268](http://purl.obolibrary.org/obo/NCIT_C48268) (Neoplastic Parathyroid Gland Chief Cell) 52.08%
+- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) 52.08%
+- [NCIT:C36815](http://purl.obolibrary.org/obo/NCIT_C36815) (Adenocarcinoma Clear Cell) and [NCIT:C48266](http://purl.obolibrary.org/obo/NCIT_C48266) (Malignant Parathyroid Gland Cell) 52.08%
 
 

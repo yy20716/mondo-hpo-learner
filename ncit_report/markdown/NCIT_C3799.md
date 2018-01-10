@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C41457](http://purl.obolibrary.org/obo/NCIT_C41457) (Well-Circumscribed Lesion) 66.67%
-- Thing 51.13%
-- [NCIT:C12471](http://purl.obolibrary.org/obo/NCIT_C12471) (Soft Tissue) 45.53%
-- [NCIT:C35504](http://purl.obolibrary.org/obo/NCIT_C35504) (Vascular Proliferation) 41.67%
-- [NCIT:C12964](http://purl.obolibrary.org/obo/NCIT_C12964) (Connective and Soft Tissue) 39.03%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 35.85%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 35.25%
-- [NCIT:C35963](http://purl.obolibrary.org/obo/NCIT_C35963) (Vascular Morphologic Change) 27.58%
-- [NCIT:C3824](http://purl.obolibrary.org/obo/NCIT_C3824) (Lesion) 22.92%
-- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 19.23%
-- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 19.13%
-- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 17.94%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 17.87%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 17.80%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 17.79%
+- [NCIT:C50662](http://purl.obolibrary.org/obo/NCIT_C50662) (Nasal Obstruction) 54.17%
+- Thing 52.82%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 42.84%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 41.57%
+- [NCIT:C3284](http://purl.obolibrary.org/obo/NCIT_C3284) (Obstruction) 39.52%
+- [NCIT:C3284](http://purl.obolibrary.org/obo/NCIT_C3284) (Obstruction) and (not ([NCIT:C39874](http://purl.obolibrary.org/obo/NCIT_C39874) (Urethral Verrucous Carcinoma))) 39.52%
+- [NCIT:C3284](http://purl.obolibrary.org/obo/NCIT_C3284) (Obstruction) and (not ([NCIT:C39873](http://purl.obolibrary.org/obo/NCIT_C39873) (Urethral Glandular Metaplasia))) 39.52%
+- [NCIT:C3284](http://purl.obolibrary.org/obo/NCIT_C3284) (Obstruction) and (not ([NCIT:C39872](http://purl.obolibrary.org/obo/NCIT_C39872) (Urethral Villous Adenoma))) 39.52%
+- [NCIT:C3284](http://purl.obolibrary.org/obo/NCIT_C3284) (Obstruction) and (not ([NCIT:C39866](http://purl.obolibrary.org/obo/NCIT_C39866) (Female Urethral Malignant Neoplasm))) 39.52%
+- [NCIT:C3284](http://purl.obolibrary.org/obo/NCIT_C3284) (Obstruction) and (not ([NCIT:C39864](http://purl.obolibrary.org/obo/NCIT_C39864) (Carcinoma of Cowper Glands))) 39.52%
+- [NCIT:C3284](http://purl.obolibrary.org/obo/NCIT_C3284) (Obstruction) and (not ([NCIT:C39862](http://purl.obolibrary.org/obo/NCIT_C39862) (Human Papillomavirus-Related Urethral Squamous Cell Carcinoma))) 39.52%
+- [NCIT:C3284](http://purl.obolibrary.org/obo/NCIT_C3284) (Obstruction) and (not ([NCIT:C39859](http://purl.obolibrary.org/obo/NCIT_C39859) (Bladder Inverted Papilloma))) 39.52%
+- [NCIT:C3284](http://purl.obolibrary.org/obo/NCIT_C3284) (Obstruction) and (not ([NCIT:C39856](http://purl.obolibrary.org/obo/NCIT_C39856) (Urothelial Dysplasia))) 39.52%
+- [NCIT:C3284](http://purl.obolibrary.org/obo/NCIT_C3284) (Obstruction) and (not ([NCIT:C39845](http://purl.obolibrary.org/obo/NCIT_C39845) (Bladder Urachal Squamous Cell Carcinoma))) 39.52%
+- [NCIT:C3284](http://purl.obolibrary.org/obo/NCIT_C3284) (Obstruction) and (not ([NCIT:C39844](http://purl.obolibrary.org/obo/NCIT_C39844) (Bladder Urachal Urothelial Carcinoma))) 39.52%
 
 

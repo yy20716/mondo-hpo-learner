@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 51.13%
-- [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000) (cell) 19.39%
-- [GO:0005575](http://purl.obolibrary.org/obo/GO_0005575) (cellular_component) 19.23%
-- [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) 19.15%
-- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 19.03%
-- [UBERON:0000479](http://purl.obolibrary.org/obo/UBERON_0000479) (tissue) 19.02%
-- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 17.98%
-- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 17.94%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 17.87%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 17.80%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 17.79%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 17.70%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 17.69%
-- CP:0000037 0.00%
-- CP:0000035 0.00%
+- Thing 54.60%
+- [NCIT:C33914](http://purl.obolibrary.org/obo/NCIT_C33914) (Endocervical Columnar Cell) 51.56%
+- [CL:0002253](http://purl.obolibrary.org/obo/CL_0002253) (epithelial cell of large intestine) 51.56%
+- [CL:0002071](http://purl.obolibrary.org/obo/CL_0002071) (enterocyte of epithelium of large intestine) 51.56%
+- [CL:0002071](http://purl.obolibrary.org/obo/CL_0002071) (enterocyte of epithelium of large intestine) and [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 51.56%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and [CL:0002253](http://purl.obolibrary.org/obo/CL_0002253) (epithelial cell of large intestine) 51.56%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and (not ([NCIT:C32925](http://purl.obolibrary.org/obo/NCIT_C32925) (Large Intestinal Glandular Cell))) 51.56%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) 36.92%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 36.92%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and (not ([NCIT:C36732](http://purl.obolibrary.org/obo/NCIT_C36732) (Touton Giant Cell))) 36.92%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and (not ([NCIT:C36726](http://purl.obolibrary.org/obo/NCIT_C36726) (Tear-Drop Red Blood Cell))) 36.92%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and (not ([NCIT:C36724](http://purl.obolibrary.org/obo/NCIT_C36724) (Neutrophil with Pseudo Pelger-Huet Nucleus))) 36.92%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and (not ([NCIT:C36723](http://purl.obolibrary.org/obo/NCIT_C36723) (Giant Platelet))) 36.92%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and (not ([NCIT:C36722](http://purl.obolibrary.org/obo/NCIT_C36722) (Sezary Cell))) 36.92%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and (not ([NCIT:C36719](http://purl.obolibrary.org/obo/NCIT_C36719) (Segmented Neutrophil))) 36.92%
 
 

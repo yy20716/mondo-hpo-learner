@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0002046](http://purl.obolibrary.org/obo/UBERON_0002046) (thyroid gland) 75.00%
-- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) and (not ([NCIT:C47809](http://purl.obolibrary.org/obo/NCIT_C47809) (Thyroid Gland Epithelial Tissue))) 75.00%
-- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) and (not ([NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue))) 75.00%
-- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) 60.36%
-- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 60.36%
-- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 60.36%
-- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) and (not (CARO:0010000)) 60.36%
-- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 60.36%
-- [NCIT:C33785](http://purl.obolibrary.org/obo/NCIT_C33785) (Thyroid Gland Tissue) and (not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null))) 60.36%
-- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 51.86%
-- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 51.81%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 51.70%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 51.60%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 51.59%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 51.45%
+- Thing 54.07%
+- [NCIT:C36017](http://purl.obolibrary.org/obo/NCIT_C36017) (Nuclear Inclusion) and (not ([NCIT:C36020](http://purl.obolibrary.org/obo/NCIT_C36020) (Dutcher Body))) 54.00%
+- [NCIT:C47829](http://purl.obolibrary.org/obo/NCIT_C47829) (Nuclear Grooves) 52.00%
+- [NCIT:C47828](http://purl.obolibrary.org/obo/NCIT_C47828) (Nuclear Clearing) 52.00%
+- [NCIT:C47827](http://purl.obolibrary.org/obo/NCIT_C47827) (Nuclear Pseudoinclusion) 52.00%
+- [NCIT:C47818](http://purl.obolibrary.org/obo/NCIT_C47818) (Follicular Structures Present) 52.00%
+- [NCIT:C47806](http://purl.obolibrary.org/obo/NCIT_C47806) (Thyroglobulin Positive Neoplastic Cells Present) 52.00%
+- [NCIT:C46128](http://purl.obolibrary.org/obo/NCIT_C46128) (Capsular Invasion) 52.00%
+- [NCIT:C36632](http://purl.obolibrary.org/obo/NCIT_C36632) (Loss of Chromosome 19) 52.00%
+- [NCIT:C36585](http://purl.obolibrary.org/obo/NCIT_C36585) (Loss of Chromosome 10) 52.00%
+- [NCIT:C36536](http://purl.obolibrary.org/obo/NCIT_C36536) (Loss of Chromosome 13) 52.00%
+- [NCIT:C36502](http://purl.obolibrary.org/obo/NCIT_C36502) (Loss of Chromosome 3p) 52.00%
+- [NCIT:C36476](http://purl.obolibrary.org/obo/NCIT_C36476) (Trisomy 7) 52.00%
+- [NCIT:C36108](http://purl.obolibrary.org/obo/NCIT_C36108) (Encapsulated Mass) 52.00%
+- [NCIT:C36018](http://purl.obolibrary.org/obo/NCIT_C36018) (Ground Glass Nuclear Inclusion) 52.00%
 
 

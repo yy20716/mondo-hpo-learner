@@ -2,24 +2,24 @@
 ### [NCIT:C3723](http://purl.obolibrary.org/obo/NCIT_C3723)
 **Label:** Lymphatic Vessel Neoplasm
 
-**Subclasses:** [NCIT:C3724](http://purl.obolibrary.org/obo/NCIT_C3724) (Cystic Hygroma), [NCIT:C5500](http://purl.obolibrary.org/obo/NCIT_C5500) (Colon Lymphangioma), [NCIT:C3205](http://purl.obolibrary.org/obo/NCIT_C3205) (Lymphangiosarcoma), [NCIT:C45485](http://purl.obolibrary.org/obo/NCIT_C45485) (Lymphangioma Circumscriptum), [NCIT:C8965](http://purl.obolibrary.org/obo/NCIT_C8965) (Lymphangioma), [NCIT:C6524](http://purl.obolibrary.org/obo/NCIT_C6524) (Benign Lymphatic Vessel Neoplasm), [NCIT:C96841](http://purl.obolibrary.org/obo/NCIT_C96841) (Liver Lymphangioma), [NCIT:C45630](http://purl.obolibrary.org/obo/NCIT_C45630) (Diffuse Pulmonary Lymphangiomatosis), [NCIT:C6595](http://purl.obolibrary.org/obo/NCIT_C6595) (Mediastinal Lymphangioma), [NCIT:C27508](http://purl.obolibrary.org/obo/NCIT_C27508) (Intra-Abdominal Lymphangioma), [NCIT:C4490](http://purl.obolibrary.org/obo/NCIT_C4490) (Skin Lymphangiosarcoma), [NCIT:C5393](http://purl.obolibrary.org/obo/NCIT_C5393) (Parotid Gland Lymphangioma), [NCIT:C5482](http://purl.obolibrary.org/obo/NCIT_C5482) (Gastric Lymphangioma), [NCIT:C8373](http://purl.obolibrary.org/obo/NCIT_C8373) (Lymphangiomatosis), [NCIT:C27509](http://purl.obolibrary.org/obo/NCIT_C27509) (Skin Lymphangioma), [NCIT:C96842](http://purl.obolibrary.org/obo/NCIT_C96842) (Liver Lymphangiomatosis), [NCIT:C66792](http://purl.obolibrary.org/obo/NCIT_C66792) (Hemolymphangioma), [NCIT:C53316](http://purl.obolibrary.org/obo/NCIT_C53316) (Cavernous Lymphangioma), 
+**Subclasses:** [NCIT:C3724](http://purl.obolibrary.org/obo/NCIT_C3724) (Cystic Hygroma), [NCIT:C5500](http://purl.obolibrary.org/obo/NCIT_C5500) (Colon Lymphangioma), [NCIT:C3205](http://purl.obolibrary.org/obo/NCIT_C3205) (Lymphangiosarcoma), [NCIT:C45485](http://purl.obolibrary.org/obo/NCIT_C45485) (Lymphangioma Circumscriptum), [NCIT:C96841](http://purl.obolibrary.org/obo/NCIT_C96841) (Liver Lymphangioma), [NCIT:C8965](http://purl.obolibrary.org/obo/NCIT_C8965) (Lymphangioma), [NCIT:C6524](http://purl.obolibrary.org/obo/NCIT_C6524) (Benign Lymphatic Vessel Neoplasm), [NCIT:C45630](http://purl.obolibrary.org/obo/NCIT_C45630) (Diffuse Pulmonary Lymphangiomatosis), [NCIT:C6595](http://purl.obolibrary.org/obo/NCIT_C6595) (Mediastinal Lymphangioma), [NCIT:C27508](http://purl.obolibrary.org/obo/NCIT_C27508) (Intra-Abdominal Lymphangioma), [NCIT:C4490](http://purl.obolibrary.org/obo/NCIT_C4490) (Skin Lymphangiosarcoma), [NCIT:C5393](http://purl.obolibrary.org/obo/NCIT_C5393) (Parotid Gland Lymphangioma), [NCIT:C5482](http://purl.obolibrary.org/obo/NCIT_C5482) (Gastric Lymphangioma), [NCIT:C8373](http://purl.obolibrary.org/obo/NCIT_C8373) (Lymphangiomatosis), [NCIT:C27509](http://purl.obolibrary.org/obo/NCIT_C27509) (Skin Lymphangioma), [NCIT:C96842](http://purl.obolibrary.org/obo/NCIT_C96842) (Liver Lymphangiomatosis), [NCIT:C66792](http://purl.obolibrary.org/obo/NCIT_C66792) (Hemolymphangioma), [NCIT:C53316](http://purl.obolibrary.org/obo/NCIT_C53316) (Cavernous Lymphangioma), 
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0002042](http://purl.obolibrary.org/obo/UBERON_0002042) (lymphatic vessel endothelium) 75.00%
-- [UBERON:0001473](http://purl.obolibrary.org/obo/UBERON_0001473) (lymphatic vessel) 53.87%
-- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 51.86%
-- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 51.81%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 51.70%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 51.60%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 51.59%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 51.45%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 51.44%
-- Thing 50.92%
-- [UBERON:0004852](http://purl.obolibrary.org/obo/UBERON_0004852) (cardiovascular system endothelium) 41.67%
-- [UBERON:0001986](http://purl.obolibrary.org/obo/UBERON_0001986) (endothelium) 38.87%
-- [UBERON:0012275](http://purl.obolibrary.org/obo/UBERON_0012275) (meso-epithelium) 31.80%
-- [UBERON:0004111](http://purl.obolibrary.org/obo/UBERON_0004111) (anatomical conduit) 28.92%
-- [UBERON:0004120](http://purl.obolibrary.org/obo/UBERON_0004120) (mesoderm-derived structure) 27.53%
+- [NCIT:C47826](http://purl.obolibrary.org/obo/NCIT_C47826) (Diffuse Lesion) 55.56%
+- [NCIT:C41464](http://purl.obolibrary.org/obo/NCIT_C41464) (Macrocystic Change) 55.56%
+- [NCIT:C41456](http://purl.obolibrary.org/obo/NCIT_C41456) (Microcystic Change) 55.56%
+- [NCIT:C36105](http://purl.obolibrary.org/obo/NCIT_C36105) (Indolent Clinical Course) 55.56%
+- [NCIT:C35380](http://purl.obolibrary.org/obo/NCIT_C35380) (Hemorrhagic Change) 55.56%
+- Thing 52.44%
+- [NCIT:C41454](http://purl.obolibrary.org/obo/NCIT_C41454) (Cystic Change) 51.94%
+- [NCIT:C41454](http://purl.obolibrary.org/obo/NCIT_C41454) (Cystic Change) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 51.94%
+- [NCIT:C41454](http://purl.obolibrary.org/obo/NCIT_C41454) (Cystic Change) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 51.94%
+- [NCIT:C41454](http://purl.obolibrary.org/obo/NCIT_C41454) (Cystic Change) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 51.94%
+- [NCIT:C41454](http://purl.obolibrary.org/obo/NCIT_C41454) (Cystic Change) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 51.94%
+- [NCIT:C41454](http://purl.obolibrary.org/obo/NCIT_C41454) (Cystic Change) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 51.94%
+- [NCIT:C41454](http://purl.obolibrary.org/obo/NCIT_C41454) (Cystic Change) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 51.94%
+- [NCIT:C41454](http://purl.obolibrary.org/obo/NCIT_C41454) (Cystic Change) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 51.94%
+- [NCIT:C41454](http://purl.obolibrary.org/obo/NCIT_C41454) (Cystic Change) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 51.94%
 
 

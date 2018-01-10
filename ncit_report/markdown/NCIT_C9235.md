@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C43276](http://purl.obolibrary.org/obo/NCIT_C43276) (Serum Total Tryptase Levels Increased) 62.50%
-- [NCIT:C39711](http://purl.obolibrary.org/obo/NCIT_C39711) (C-KIT Tyrosine Kinase Protein Overexpression) 62.50%
-- [NCIT:C38407](http://purl.obolibrary.org/obo/NCIT_C38407) (C-KIT Somatic Point Mutation) 62.50%
-- [NCIT:C18609](http://purl.obolibrary.org/obo/NCIT_C18609) (KIT Gene) 62.50%
-- Thing 51.30%
-- [NCIT:C36327](http://purl.obolibrary.org/obo/NCIT_C36327) (Gene Abnormality) 30.83%
-- [NCIT:C36391](http://purl.obolibrary.org/obo/NCIT_C36391) (Molecular Genetic Variation) 30.14%
-- [NCIT:C97926](http://purl.obolibrary.org/obo/NCIT_C97926) (Molecular Sequence Variation) 30.00%
-- [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 28.13%
-- [NCIT:C20719](http://purl.obolibrary.org/obo/NCIT_C20719) (Receptor Tyrosine Kinase Gene) 26.37%
-- [NCIT:C20103](http://purl.obolibrary.org/obo/NCIT_C20103) (Receptor Gene) 23.16%
-- [NCIT:C21295](http://purl.obolibrary.org/obo/NCIT_C21295) (Ligand Binding Protein Gene) 21.78%
-- [NCIT:C21281](http://purl.obolibrary.org/obo/NCIT_C21281) (Enzyme Gene) 20.31%
-- [NCIT:C36345](http://purl.obolibrary.org/obo/NCIT_C36345) (Protein Deregulation) 19.12%
-- [NCIT:C36336](http://purl.obolibrary.org/obo/NCIT_C36336) (Deregulation of Protein and Messenger RNA Expression) 18.52%
+- Thing 54.31%
+- [NCIT:C43285](http://purl.obolibrary.org/obo/NCIT_C43285) (Unifocal Disease at Presentation) 51.79%
+- [NCIT:C36105](http://purl.obolibrary.org/obo/NCIT_C36105) (Indolent Clinical Course) 51.79%
+- [NCIT:C36104](http://purl.obolibrary.org/obo/NCIT_C36104) (Aggressive Clinical Course) 51.79%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 45.65%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 41.68%
+- [NCIT:C9229](http://purl.obolibrary.org/obo/NCIT_C9229) (Systemic Disease) 37.14%
+- [NCIT:C43257](http://purl.obolibrary.org/obo/NCIT_C43257) (Unifocal Disease) 37.14%
+- [NCIT:C43257](http://purl.obolibrary.org/obo/NCIT_C43257) (Unifocal Disease) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 37.14%
+- [NCIT:C43257](http://purl.obolibrary.org/obo/NCIT_C43257) (Unifocal Disease) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 37.14%
+- [NCIT:C43257](http://purl.obolibrary.org/obo/NCIT_C43257) (Unifocal Disease) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 37.14%
+- [NCIT:C43257](http://purl.obolibrary.org/obo/NCIT_C43257) (Unifocal Disease) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 37.14%
+- [NCIT:C43257](http://purl.obolibrary.org/obo/NCIT_C43257) (Unifocal Disease) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 37.14%
+- [NCIT:C43257](http://purl.obolibrary.org/obo/NCIT_C43257) (Unifocal Disease) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 37.14%
+- [NCIT:C43257](http://purl.obolibrary.org/obo/NCIT_C43257) (Unifocal Disease) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 37.14%
 
 

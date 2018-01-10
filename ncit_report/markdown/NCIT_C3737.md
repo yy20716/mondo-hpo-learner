@@ -8,18 +8,18 @@
 
 - [NCIT:C53488](http://purl.obolibrary.org/obo/NCIT_C53488) (Well Differentiated Hyaline Cartilage Present) 57.14%
 - [NCIT:C36104](http://purl.obolibrary.org/obo/NCIT_C36104) (Aggressive Clinical Course) 57.14%
-- Thing 51.72%
+- Thing 52.15%
 - [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) 42.50%
-- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C37091](http://purl.obolibrary.org/obo/NCIT_C37091) (Vacuolated Endothelial Cell))) 42.50%
-- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C37085](http://purl.obolibrary.org/obo/NCIT_C37085) (Undifferentiated Carcinoma Cell))) 42.50%
-- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C37084](http://purl.obolibrary.org/obo/NCIT_C37084) (Hyperchromatic Spindle Cell))) 42.50%
-- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C37078](http://purl.obolibrary.org/obo/NCIT_C37078) (Pseudo-Gaucher Cell))) 42.50%
-- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C37076](http://purl.obolibrary.org/obo/NCIT_C37076) (Neoplastic Neutrophilic Precursor))) 42.50%
-- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C37075](http://purl.obolibrary.org/obo/NCIT_C37075) (Neoplastic Promonocyte))) 42.50%
-- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C37074](http://purl.obolibrary.org/obo/NCIT_C37074) (Hypogranular Promyelocyte))) 42.50%
-- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C37073](http://purl.obolibrary.org/obo/NCIT_C37073) (Hypergranular Promyelocyte))) 42.50%
-- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C37071](http://purl.obolibrary.org/obo/NCIT_C37071) (Neoplastic T-Lymphoblast))) 42.50%
-- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C37070](http://purl.obolibrary.org/obo/NCIT_C37070) (Neoplastic B-Lymphoblast))) 42.50%
-- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C3707](http://purl.obolibrary.org/obo/NCIT_C3707) (Meningiomatosis))) 42.50%
+- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 42.50%
+- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 42.50%
+- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 42.50%
+- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 42.50%
+- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 42.50%
+- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C40034](http://purl.obolibrary.org/obo/NCIT_C40034) (Ovarian Mucinous Adenocarcinofibroma))) 42.50%
+- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C40032](http://purl.obolibrary.org/obo/NCIT_C40032) (Ovarian Serous Cystadenofibroma))) 42.50%
+- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C40029](http://purl.obolibrary.org/obo/NCIT_C40029) (Borderline Ovarian Serous Cystadenofibroma))) 42.50%
+- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C40021](http://purl.obolibrary.org/obo/NCIT_C40021) (Ovarian Lymphoma))) 42.50%
+- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 42.50%
+- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 42.50%
 
 

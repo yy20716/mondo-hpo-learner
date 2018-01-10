@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C41431](http://purl.obolibrary.org/obo/NCIT_C41431) (Thick-Walled Hyalinized Vessels Present) 53.85%
-- [NCIT:C41424](http://purl.obolibrary.org/obo/NCIT_C41424) (Loss of Merlin Expression) 53.85%
-- [NCIT:C36686](http://purl.obolibrary.org/obo/NCIT_C36686) (NF2 Gene Inactivation) 53.85%
-- [NCIT:C36108](http://purl.obolibrary.org/obo/NCIT_C36108) (Encapsulated Mass) 53.85%
-- [NCIT:C36104](http://purl.obolibrary.org/obo/NCIT_C36104) (Aggressive Clinical Course) 53.85%
-- [NCIT:C28077](http://purl.obolibrary.org/obo/NCIT_C28077) (Grade 1) 53.85%
-- [NCIT:C41461](http://purl.obolibrary.org/obo/NCIT_C41461) (Hyalinized Vessels Present) and [NCIT:C53682](http://purl.obolibrary.org/obo/NCIT_C53682) (Thick-Walled Vessels Present) 53.85%
-- Thing 52.34%
-- [NCIT:C53682](http://purl.obolibrary.org/obo/NCIT_C53682) (Thick-Walled Vessels Present) 39.20%
-- [NCIT:C41461](http://purl.obolibrary.org/obo/NCIT_C41461) (Hyalinized Vessels Present) 39.20%
-- [NCIT:C53682](http://purl.obolibrary.org/obo/NCIT_C53682) (Thick-Walled Vessels Present) and (not ([NCIT:C36429](http://purl.obolibrary.org/obo/NCIT_C36429) (del(12p13)))) 39.20%
-- [NCIT:C53682](http://purl.obolibrary.org/obo/NCIT_C53682) (Thick-Walled Vessels Present) and (not ([NCIT:C36428](http://purl.obolibrary.org/obo/NCIT_C36428) (Trisomy 8q))) 39.20%
-- [NCIT:C53682](http://purl.obolibrary.org/obo/NCIT_C53682) (Thick-Walled Vessels Present) and (not ([NCIT:C36427](http://purl.obolibrary.org/obo/NCIT_C36427) (t(8;8)(p11-12;q12)))) 39.20%
-- [NCIT:C53682](http://purl.obolibrary.org/obo/NCIT_C53682) (Thick-Walled Vessels Present) and (not ([NCIT:C36426](http://purl.obolibrary.org/obo/NCIT_C36426) (inv(14)))) 39.20%
-- [NCIT:C53682](http://purl.obolibrary.org/obo/NCIT_C53682) (Thick-Walled Vessels Present) and (not ([NCIT:C36425](http://purl.obolibrary.org/obo/NCIT_C36425) (Trisomy 3))) 39.20%
+- Thing 53.64%
+- [UBERON:0001650](http://purl.obolibrary.org/obo/UBERON_0001650) (hypoglossal nerve) 52.50%
+- [UBERON:0001648](http://purl.obolibrary.org/obo/UBERON_0001648) (vestibulocochlear nerve) 52.50%
+- [UBERON:0001645](http://purl.obolibrary.org/obo/UBERON_0001645) (trigeminal nerve) 52.50%
+- [CL:0002573](http://purl.obolibrary.org/obo/CL_0002573) (Schwann cell) 52.50%
+- CARO:0001001 and [UBERON:0011779](http://purl.obolibrary.org/obo/UBERON_0011779) (nerve of head region) 42.86%
+- CARO:0001001 and [UBERON:0001785](http://purl.obolibrary.org/obo/UBERON_0001785) (cranial nerve) 42.86%
+- CARO:0001001 and [UBERON:0011779](http://purl.obolibrary.org/obo/UBERON_0011779) (nerve of head region) and [UBERON:0034713](http://purl.obolibrary.org/obo/UBERON_0034713) (cranial neuron projection bundle) 42.86%
+- CARO:0001001 and [UBERON:0001021](http://purl.obolibrary.org/obo/UBERON_0001021) (nerve) and [UBERON:0034713](http://purl.obolibrary.org/obo/UBERON_0034713) (cranial neuron projection bundle) 42.86%
+- CARO:0001001 and [UBERON:0034713](http://purl.obolibrary.org/obo/UBERON_0034713) (cranial neuron projection bundle) 40.23%
+- CARO:0001001 and [UBERON:0001021](http://purl.obolibrary.org/obo/UBERON_0001021) (nerve) 40.23%
+- [UBERON:0001785](http://purl.obolibrary.org/obo/UBERON_0001785) (cranial nerve) 38.12%
+- CARO:0001001 and [UBERON:0005162](http://purl.obolibrary.org/obo/UBERON_0005162) (multi cell part structure) 38.12%
+- CARO:0001001 and [UBERON:0000477](http://purl.obolibrary.org/obo/UBERON_0000477) (anatomical cluster) 38.12%
+- CARO:0001001 and [UBERON:0000122](http://purl.obolibrary.org/obo/UBERON_0000122) (neuron projection bundle) 38.12%
 
 

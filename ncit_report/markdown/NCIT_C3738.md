@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C35371](http://purl.obolibrary.org/obo/NCIT_C35371) (Lytic Metastatic Bone Lesion))) 62.50%
-- Thing 51.30%
-- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) 47.86%
-- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C37207](http://purl.obolibrary.org/obo/NCIT_C37207) (ZAP70 Messenger RNA Overexpression))) 47.86%
-- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C37206](http://purl.obolibrary.org/obo/NCIT_C37206) (Small Lymphocytic Lymphoma with Unmutated Immunoglobulin Heavy Chain Variable-Region Gene))) 47.86%
-- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C37205](http://purl.obolibrary.org/obo/NCIT_C37205) (Chronic Lymphocytic Leukemia with Unmutated Immunoglobulin Heavy Chain Variable-Region Gene))) 47.86%
-- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C37203](http://purl.obolibrary.org/obo/NCIT_C37203) (Small Lymphocytic Lymphoma with Immunoglobulin Heavy Chain Variable-Region Gene Somatic Hypermutation))) 47.86%
-- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C37202](http://purl.obolibrary.org/obo/NCIT_C37202) (Chronic Lymphocytic Leukemia with Immunoglobulin Heavy Chain Variable-Region Gene Somatic Hypermutation))) 47.86%
-- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C37196](http://purl.obolibrary.org/obo/NCIT_C37196) (Primary Systemic Anaplastic Large Cell Lymphoma, ALK-Negative))) 47.86%
-- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C37195](http://purl.obolibrary.org/obo/NCIT_C37195) (Primary Systemic Anaplastic Large Cell Lymphoma, ALK-Positive))) 47.86%
-- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C37191](http://purl.obolibrary.org/obo/NCIT_C37191) (Trisomy 11))) 47.86%
-- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C37189](http://purl.obolibrary.org/obo/NCIT_C37189) (del(17q25)))) 47.86%
-- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C37188](http://purl.obolibrary.org/obo/NCIT_C37188) (del(6q25-27)))) 47.86%
-- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C37185](http://purl.obolibrary.org/obo/NCIT_C37185) (Gain of Chromosome 12q13))) 47.86%
-- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C37183](http://purl.obolibrary.org/obo/NCIT_C37183) (Neoplastic B-Prolymphocyte))) 47.86%
+- [NCIT:C53415](http://purl.obolibrary.org/obo/NCIT_C53415) (Locally Aggressive Lesion) 54.55%
+- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C35371](http://purl.obolibrary.org/obo/NCIT_C35371) (Lytic Metastatic Bone Lesion))) 54.55%
+- Thing 52.70%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 41.40%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 40.20%
+- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) 39.90%
+- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 39.90%
+- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 39.90%
+- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 39.90%
+- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 39.90%
+- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 39.90%
+- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 39.90%
+- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 39.90%
+- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 39.90%
+- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 39.90%
 
 

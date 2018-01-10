@@ -2,7 +2,7 @@
 ### [NCIT:C8923](http://purl.obolibrary.org/obo/NCIT_C8923)
 **Label:** Acute Erythroid Leukemia
 
-**Subclasses:** [NCIT:C9153](http://purl.obolibrary.org/obo/NCIT_C9153) (Adult Acute Erythroid Leukemia), [NCIT:C9164](http://purl.obolibrary.org/obo/NCIT_C9164) (Childhood Acute Erythroid Leukemia), 
+**Subclasses:** [NCIT:C9164](http://purl.obolibrary.org/obo/NCIT_C9164) (Childhood Acute Erythroid Leukemia), [NCIT:C9153](http://purl.obolibrary.org/obo/NCIT_C9153) (Adult Acute Erythroid Leukemia), 
 
 **Class expressions from DL-Learner:**
 
@@ -18,8 +18,8 @@
 - [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) and [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) 60.00%
 - [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) 60.00%
 - [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C37058](http://purl.obolibrary.org/obo/NCIT_C37058) (Ring Sideroblast))) 60.00%
-- Thing 51.45%
+- Thing 51.82%
 - [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) 45.36%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C3742](http://purl.obolibrary.org/obo/NCIT_C3742) (Myofibromatosis))) 45.36%
+- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C39820](http://purl.obolibrary.org/obo/NCIT_C39820) (Infiltrating Bladder Urothelial Carcinoma, Microcystic Variant))) 45.36%
 
 

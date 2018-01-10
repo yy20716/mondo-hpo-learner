@@ -20,6 +20,6 @@
 - [NCIT:C36481](http://purl.obolibrary.org/obo/NCIT_C36481) (Gain of Chromosome 15q) 54.55%
 - [NCIT:C36480](http://purl.obolibrary.org/obo/NCIT_C36480) (Gain of Chromosome 20q) 54.55%
 - [NCIT:C36441](http://purl.obolibrary.org/obo/NCIT_C36441) (Gain of Chromosome 12q) 54.55%
-- Thing 52.16%
+- Thing 52.70%
 
 

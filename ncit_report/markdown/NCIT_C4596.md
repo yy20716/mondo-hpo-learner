@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0008811](http://purl.obolibrary.org/obo/UBERON_0008811) (intromittent organ) 75.00%
-- [UBERON:0000989](http://purl.obolibrary.org/obo/UBERON_0000989) (penis) 75.00%
-- [NCIT:C27851](http://purl.obolibrary.org/obo/NCIT_C27851) (Human Papillomavirus Infection) 75.00%
-- Thing 50.92%
-- [NCIT:C3439](http://purl.obolibrary.org/obo/NCIT_C3439) (Viral Infection) 47.36%
-- [NCIT:C26726](http://purl.obolibrary.org/obo/NCIT_C26726) (Infectious Disorder) 37.50%
-- [NCIT:C93210](http://purl.obolibrary.org/obo/NCIT_C93210) (Inflammatory Disorder) 37.13%
-- [NCIT:C53547](http://purl.obolibrary.org/obo/NCIT_C53547) (Non-Neoplastic Disorder by Special Category) 33.57%
-- [NCIT:C53529](http://purl.obolibrary.org/obo/NCIT_C53529) (Non-Neoplastic Disorder) 30.39%
-- [NCIT:C2991](http://purl.obolibrary.org/obo/NCIT_C2991) (Disease or Disorder) 27.10%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 26.36%
-- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 26.28%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 26.21%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 26.13%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 26.12%
+- [NCIT:C36118](http://purl.obolibrary.org/obo/NCIT_C36118) (In Situ Lesion) 62.50%
+- [NCIT:C27851](http://purl.obolibrary.org/obo/NCIT_C27851) (Human Papillomavirus Infection) 62.50%
+- [NCIT:C17359](http://purl.obolibrary.org/obo/NCIT_C17359) (TP53 Gene) 62.50%
+- Thing 51.63%
+- [NCIT:C36027](http://purl.obolibrary.org/obo/NCIT_C36027) (Non-Invasive Lesion) 47.86%
+- [NCIT:C36027](http://purl.obolibrary.org/obo/NCIT_C36027) (Non-Invasive Lesion) and (not ([NCIT:C38996](http://purl.obolibrary.org/obo/NCIT_C38996) (ATM Signaling Pathway))) 47.86%
+- [NCIT:C36027](http://purl.obolibrary.org/obo/NCIT_C36027) (Non-Invasive Lesion) and (not ([NCIT:C38995](http://purl.obolibrary.org/obo/NCIT_C38995) (Angiotensin II Signaling Pathway))) 47.86%
+- [NCIT:C36027](http://purl.obolibrary.org/obo/NCIT_C36027) (Non-Invasive Lesion) and (not ([NCIT:C38992](http://purl.obolibrary.org/obo/NCIT_C38992) (Ribosomal Biogenesis Pathway))) 47.86%
+- [NCIT:C36027](http://purl.obolibrary.org/obo/NCIT_C36027) (Non-Invasive Lesion) and (not ([NCIT:C38981](http://purl.obolibrary.org/obo/NCIT_C38981) (AKT Signaling Pathway))) 47.86%
+- [NCIT:C36027](http://purl.obolibrary.org/obo/NCIT_C36027) (Non-Invasive Lesion) and (not ([NCIT:C38975](http://purl.obolibrary.org/obo/NCIT_C38975) (Agrin Pathway))) 47.86%
+- [NCIT:C36027](http://purl.obolibrary.org/obo/NCIT_C36027) (Non-Invasive Lesion) and (not ([NCIT:C38971](http://purl.obolibrary.org/obo/NCIT_C38971) (Regulation of Apoptosis Pathway))) 47.86%
+- [NCIT:C36027](http://purl.obolibrary.org/obo/NCIT_C36027) (Non-Invasive Lesion) and (not ([NCIT:C3892](http://purl.obolibrary.org/obo/NCIT_C3892) (Mu Heavy Chain Disease))) 47.86%
+- [NCIT:C36027](http://purl.obolibrary.org/obo/NCIT_C36027) (Non-Invasive Lesion) and (not ([NCIT:C38850](http://purl.obolibrary.org/obo/NCIT_C38850) (Phosphatidylinositol Signaling System Pathway))) 47.86%
+- [NCIT:C36027](http://purl.obolibrary.org/obo/NCIT_C36027) (Non-Invasive Lesion) and (not ([NCIT:C38834](http://purl.obolibrary.org/obo/NCIT_C38834) (MAPK Signaling Pathway))) 47.86%
+- [NCIT:C36027](http://purl.obolibrary.org/obo/NCIT_C36027) (Non-Invasive Lesion) and (not ([NCIT:C38829](http://purl.obolibrary.org/obo/NCIT_C38829) (Focal Adhesion Pathway))) 47.86%
 
 

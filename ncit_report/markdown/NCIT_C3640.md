@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C47805](http://purl.obolibrary.org/obo/NCIT_C47805) (Malignant Neuroendocrine Small Round Cell) 62.50%
-- Thing 51.30%
-- [NCIT:C60534](http://purl.obolibrary.org/obo/NCIT_C60534) (Neoplastic Neuroendocrine Small Cell) 47.86%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) 47.86%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C37160](http://purl.obolibrary.org/obo/NCIT_C37160) (Meningothelial Cell with Clear Cytoplasm))) 47.86%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C37159](http://purl.obolibrary.org/obo/NCIT_C37159) (Eosinophilic Meningothelial Cell))) 47.86%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C37157](http://purl.obolibrary.org/obo/NCIT_C37157) (Meningothelial Cell with Elongated Processes))) 47.86%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C37156](http://purl.obolibrary.org/obo/NCIT_C37156) (Spindle-Shaped Meningothelial Cell))) 47.86%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C37154](http://purl.obolibrary.org/obo/NCIT_C37154) (Neoplastic Perineurial Cell))) 47.86%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C37152](http://purl.obolibrary.org/obo/NCIT_C37152) (Neoplastic Perineurial-Like Cell))) 47.86%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C37151](http://purl.obolibrary.org/obo/NCIT_C37151) (Neoplastic Schwann Cell))) 47.86%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C37149](http://purl.obolibrary.org/obo/NCIT_C37149) (Rhabdoid Cell))) 47.86%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C37147](http://purl.obolibrary.org/obo/NCIT_C37147) (Neoplastic Oligodendrocyte-Like Cell))) 47.86%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C37145](http://purl.obolibrary.org/obo/NCIT_C37145) (Neoplastic Neuroblast))) 47.86%
-- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C37144](http://purl.obolibrary.org/obo/NCIT_C37144) (Neoplastic Elongated Glial Cell))) 47.86%
+- [NCIT:C39624](http://purl.obolibrary.org/obo/NCIT_C39624) (Skin Plaque) 54.17%
+- [NCIT:C39622](http://purl.obolibrary.org/obo/NCIT_C39622) (Scaly Skin Eruption) 54.17%
+- [NCIT:C3327](http://purl.obolibrary.org/obo/NCIT_C3327) (Skin Discoloration) 54.17%
+- [NCIT:C26901](http://purl.obolibrary.org/obo/NCIT_C26901) (Erythema) 54.17%
+- Thing 52.82%
+- [NCIT:C5036](http://purl.obolibrary.org/obo/NCIT_C5036) (Integumentary System Signs and Symptoms) 45.53%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 42.84%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 41.57%
+- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) 39.52%
+- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) and (not ([NCIT:C40129](http://purl.obolibrary.org/obo/NCIT_C40129) (Fallopian Tube Adenomatoid Tumor))) 39.52%
+- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) and (not ([NCIT:C40128](http://purl.obolibrary.org/obo/NCIT_C40128) (Fallopian Tube Leiomyosarcoma))) 39.52%
+- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) and (not ([NCIT:C40127](http://purl.obolibrary.org/obo/NCIT_C40127) (Fallopian Tube Leiomyoma))) 39.52%
+- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) and (not ([NCIT:C40125](http://purl.obolibrary.org/obo/NCIT_C40125) (Fallopian Tube Adenosarcoma))) 39.52%
+- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) and (not ([NCIT:C40124](http://purl.obolibrary.org/obo/NCIT_C40124) (Fallopian Tube Carcinosarcoma))) 39.52%
+- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) and (not ([NCIT:C40122](http://purl.obolibrary.org/obo/NCIT_C40122) (Pelvic Pain))) 39.52%
 
 

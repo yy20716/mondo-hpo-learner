@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0000474](http://purl.obolibrary.org/obo/UBERON_0000474) (female reproductive system) 62.50%
-- [NCIT:C33246](http://purl.obolibrary.org/obo/NCIT_C33246) (Ovarian Tissue) 62.50%
-- Thing 51.30%
-- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) 47.86%
-- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([NCIT:C131913](http://purl.obolibrary.org/obo/NCIT_C131913) (High-Grade B-Cell Lymphoma with MYC, BCL2, and BCL6 Rearrangements))) 47.86%
-- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([NCIT:C131906](http://purl.obolibrary.org/obo/NCIT_C131906) (EBV-Positive Mucocutaneous Ulcer))) 47.86%
-- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([NCIT:C131875](http://purl.obolibrary.org/obo/NCIT_C131875) (Recurrent Childhood T Acute Lymphoblastic Leukemia))) 47.86%
-- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([NCIT:C131613](http://purl.obolibrary.org/obo/NCIT_C131613) (Infratentorial and Spinal Cord Ependymal Tumor))) 47.86%
-- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([NCIT:C131605](http://purl.obolibrary.org/obo/NCIT_C131605) (Cervical and Thoracic Spinal Cord Ependymal Tumor))) 47.86%
-- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([NCIT:C131603](http://purl.obolibrary.org/obo/NCIT_C131603) (Thoracic Spinal Cord Ependymal Tumor))) 47.86%
-- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([NCIT:C131601](http://purl.obolibrary.org/obo/NCIT_C131601) (Cervical Spinal Cord Ependymal Tumor))) 47.86%
-- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([NCIT:C131592](http://purl.obolibrary.org/obo/NCIT_C131592) (Cerebellar, Brain Stem, and Cervical Spinal Cord Ependymal Tumor))) 47.86%
-- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([NCIT:C131585](http://purl.obolibrary.org/obo/NCIT_C131585) (Cerebellar and Brain Stem Ependymal Tumor))) 47.86%
-- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([NCIT:C131576](http://purl.obolibrary.org/obo/NCIT_C131576) (Cerebellar Ependymal Tumor))) 47.86%
-- [NCIT:C41609](http://purl.obolibrary.org/obo/NCIT_C41609) (Endocrine Reproductive Tissue) and (not ([NCIT:C131506](http://purl.obolibrary.org/obo/NCIT_C131506) (Childhood Melanoma))) 47.86%
+- [NCIT:C41457](http://purl.obolibrary.org/obo/NCIT_C41457) (Well-Circumscribed Lesion) 54.17%
+- [NCIT:C36116](http://purl.obolibrary.org/obo/NCIT_C36116) (Borderline Lesion) 54.17%
+- [NCIT:C26945](http://purl.obolibrary.org/obo/NCIT_C26945) (Vaginal Hemorrhage) 54.17%
+- Thing 52.82%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) 39.52%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39056](http://purl.obolibrary.org/obo/NCIT_C39056) (Vesicle Transport Pathway))) 39.52%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39055](http://purl.obolibrary.org/obo/NCIT_C39055) (Phospholipid Signaling Pathway))) 39.52%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39054](http://purl.obolibrary.org/obo/NCIT_C39054) (Extracellular Matrix Binding Pathway))) 39.52%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39040](http://purl.obolibrary.org/obo/NCIT_C39040) (CTCF Pathway))) 39.52%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39021](http://purl.obolibrary.org/obo/NCIT_C39021) (Cell Migration Pathway))) 39.52%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39016](http://purl.obolibrary.org/obo/NCIT_C39016) (EGF Receptor Downregulation by CBL Pathway))) 39.52%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39013](http://purl.obolibrary.org/obo/NCIT_C39013) (Estrogen Receptor Regulation by CARM1 Pathway))) 39.52%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39011](http://purl.obolibrary.org/obo/NCIT_C39011) (Cardiac Hypertrophy Pathway))) 39.52%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C3901](http://purl.obolibrary.org/obo/NCIT_C3901) (Compound Nevus))) 39.52%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C39006](http://purl.obolibrary.org/obo/NCIT_C39006) (Bioactive Peptide Signaling Pathway))) 39.52%
 
 

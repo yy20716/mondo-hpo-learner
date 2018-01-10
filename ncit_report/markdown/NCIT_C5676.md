@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C40560](http://purl.obolibrary.org/obo/NCIT_C40560) (Exophytic Polypoid Lesion) 60.00%
-- Thing 51.45%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 32.35%
-- [UBERON:0006799](http://purl.obolibrary.org/obo/UBERON_0006799) (glandular epithelium) 30.41%
-- [NCIT:C33923](http://purl.obolibrary.org/obo/NCIT_C33923) (Glandular Cell) 28.90%
-- [NCIT:C8366](http://purl.obolibrary.org/obo/NCIT_C8366) (Intraepithelial Neoplasia) 27.68%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 22.52%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 21.44%
-- [NCIT:C3824](http://purl.obolibrary.org/obo/NCIT_C3824) (Lesion) 16.25%
-- [CL:0000066](http://purl.obolibrary.org/obo/CL_0000066) (epithelial cell) 15.16%
-- [CL:0000548](http://purl.obolibrary.org/obo/CL_0000548) (animal cell) 12.97%
-- [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) 12.97%
-- [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) (native cell) 12.76%
-- [GO:0005623](http://purl.obolibrary.org/obo/GO_0005623) (cell) 12.76%
-- [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000) (cell) 12.72%
+- [UBERON:0001153](http://purl.obolibrary.org/obo/UBERON_0001153) (caecum) 58.33%
+- Thing 51.99%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) 43.69%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C40116](http://purl.obolibrary.org/obo/NCIT_C40116) (Fallopian Tube Metaplastic Papillary Tumor))) 43.69%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C40114](http://purl.obolibrary.org/obo/NCIT_C40114) (Fallopian Tube Serous Cystadenofibroma))) 43.69%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C40112](http://purl.obolibrary.org/obo/NCIT_C40112) (Fallopian Tube Papilloma))) 43.69%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C40110](http://purl.obolibrary.org/obo/NCIT_C40110) (Borderline Fallopian Tube Endometrioid Tumor))) 43.69%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 43.69%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 43.69%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C40104](http://purl.obolibrary.org/obo/NCIT_C40104) (Fallopian Tube Transitional Cell Carcinoma))) 43.69%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C40103](http://purl.obolibrary.org/obo/NCIT_C40103) (Fallopian Tube Mucinous Adenocarcinoma))) 43.69%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C40093](http://purl.obolibrary.org/obo/NCIT_C40093) (Ovarian Squamous Cell Carcinoma))) 43.69%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 43.69%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 43.69%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 43.69%
 
 

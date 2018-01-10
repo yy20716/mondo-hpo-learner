@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C18021](http://purl.obolibrary.org/obo/NCIT_C18021) (CCND1 Gene) 53.85%
-- Thing 52.34%
-- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) 39.20%
-- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) and (not ([NCIT:C37161](http://purl.obolibrary.org/obo/NCIT_C37161) (Small Meningothelial Cell))) 39.20%
-- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) and (not ([NCIT:C37160](http://purl.obolibrary.org/obo/NCIT_C37160) (Meningothelial Cell with Clear Cytoplasm))) 39.20%
-- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) and (not ([NCIT:C37159](http://purl.obolibrary.org/obo/NCIT_C37159) (Eosinophilic Meningothelial Cell))) 39.20%
-- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) and (not ([NCIT:C37157](http://purl.obolibrary.org/obo/NCIT_C37157) (Meningothelial Cell with Elongated Processes))) 39.20%
-- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) and (not ([NCIT:C37156](http://purl.obolibrary.org/obo/NCIT_C37156) (Spindle-Shaped Meningothelial Cell))) 39.20%
-- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) and (not ([NCIT:C37154](http://purl.obolibrary.org/obo/NCIT_C37154) (Neoplastic Perineurial Cell))) 39.20%
-- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) and (not ([NCIT:C37152](http://purl.obolibrary.org/obo/NCIT_C37152) (Neoplastic Perineurial-Like Cell))) 39.20%
-- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) and (not ([NCIT:C37151](http://purl.obolibrary.org/obo/NCIT_C37151) (Neoplastic Schwann Cell))) 39.20%
-- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) and (not ([NCIT:C37149](http://purl.obolibrary.org/obo/NCIT_C37149) (Rhabdoid Cell))) 39.20%
-- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) and (not ([NCIT:C37147](http://purl.obolibrary.org/obo/NCIT_C37147) (Neoplastic Oligodendrocyte-Like Cell))) 39.20%
-- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) and (not ([NCIT:C37145](http://purl.obolibrary.org/obo/NCIT_C37145) (Neoplastic Neuroblast))) 39.20%
-- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) and (not ([NCIT:C37144](http://purl.obolibrary.org/obo/NCIT_C37144) (Neoplastic Elongated Glial Cell))) 39.20%
+- Thing 53.82%
+- [NCIT:C48265](http://purl.obolibrary.org/obo/NCIT_C48265) (Neoplastic Parathyroid Gland Cell) 44.45%
+- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) 37.63%
+- [NCIT:C48272](http://purl.obolibrary.org/obo/NCIT_C48272) (Neoplastic Parathyroid Gland Oncocyte) 37.63%
+- [NCIT:C48268](http://purl.obolibrary.org/obo/NCIT_C48268) (Neoplastic Parathyroid Gland Chief Cell) 37.63%
+- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C40154](http://purl.obolibrary.org/obo/NCIT_C40154) (Endometrial Transitional Cell Carcinoma))) 37.63%
+- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C40153](http://purl.obolibrary.org/obo/NCIT_C40153) (Endometrial Mixed Adenocarcinoma))) 37.63%
+- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C40152](http://purl.obolibrary.org/obo/NCIT_C40152) (Serous Endometrial Intraepithelial Carcinoma))) 37.63%
+- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C40151](http://purl.obolibrary.org/obo/NCIT_C40151) (Grade 3 Endometrial Mucinous Adenocarcinoma))) 37.63%
+- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C40150](http://purl.obolibrary.org/obo/NCIT_C40150) (Grade 2 Endometrial Mucinous Adenocarcinoma))) 37.63%
+- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C40149](http://purl.obolibrary.org/obo/NCIT_C40149) (Grade 1 Endometrial Mucinous Adenocarcinoma))) 37.63%
+- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C40148](http://purl.obolibrary.org/obo/NCIT_C40148) (Grade 3 Endometrial Endometrioid Adenocarcinoma))) 37.63%
+- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C40147](http://purl.obolibrary.org/obo/NCIT_C40147) (Grade 2 Endometrial Endometrioid Adenocarcinoma))) 37.63%
+- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C40146](http://purl.obolibrary.org/obo/NCIT_C40146) (Grade 1 Endometrial Endometrioid Adenocarcinoma))) 37.63%
+- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C40142](http://purl.obolibrary.org/obo/NCIT_C40142) (Uterine Ligament Papillary Cystadenoma Associated with von Hippel-Lindau Disease))) 37.63%
 
 

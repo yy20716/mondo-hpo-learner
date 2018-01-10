@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C39686](http://purl.obolibrary.org/obo/NCIT_C39686) (Activated Skin-Homing T-Lymphocyte) 62.50%
-- [CL:0002419](http://purl.obolibrary.org/obo/CL_0002419) (mature T cell) and [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) 62.50%
-- [CL:0000084](http://purl.obolibrary.org/obo/CL_0000084) (T cell) and [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) 62.50%
-- Thing 51.30%
-- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) 47.86%
-- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([GO:0090275](http://purl.obolibrary.org/obo/GO_0090275) (negative regulation of somatostatin secretion))) 47.86%
-- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([GO:0090274](http://purl.obolibrary.org/obo/GO_0090274) (positive regulation of somatostatin secretion))) 47.86%
-- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([GO:0090023](http://purl.obolibrary.org/obo/GO_0090023) (null))) 47.86%
-- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([GO:0072359](http://purl.obolibrary.org/obo/GO_0072359) (circulatory system development))) 47.86%
-- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([GO:0072358](http://purl.obolibrary.org/obo/GO_0072358) (cardiovascular system development))) 47.86%
-- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([GO:0072201](http://purl.obolibrary.org/obo/GO_0072201) (negative regulation of mesenchymal cell proliferation))) 47.86%
-- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([GO:0071971](http://purl.obolibrary.org/obo/GO_0071971) (null))) 47.86%
-- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([GO:0071953](http://purl.obolibrary.org/obo/GO_0071953) (elastic fiber))) 47.86%
-- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([GO:0071944](http://purl.obolibrary.org/obo/GO_0071944) (cell periphery))) 47.86%
-- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([GO:0071626](http://purl.obolibrary.org/obo/GO_0071626) (mastication))) 47.86%
+- [NCIT:C39715](http://purl.obolibrary.org/obo/NCIT_C39715) (CD30-Positive Neoplastic Cells Present) 53.57%
+- [NCIT:C39626](http://purl.obolibrary.org/obo/NCIT_C39626) (Epidermotropic Lymphocytic Infiltrate) 53.57%
+- [NCIT:C39589](http://purl.obolibrary.org/obo/NCIT_C39589) (Angioinvasion) 53.57%
+- [NCIT:C38721](http://purl.obolibrary.org/obo/NCIT_C38721) (Nuclear Pleomorphism) 53.57%
+- [NCIT:C36156](http://purl.obolibrary.org/obo/NCIT_C36156) (Favorable Clinical Outcome) 53.57%
+- [NCIT:C36105](http://purl.obolibrary.org/obo/NCIT_C36105) (Indolent Clinical Course) 53.57%
+- [NCIT:C35980](http://purl.obolibrary.org/obo/NCIT_C35980) (Chronic Inflammatory Infiltrate) 53.57%
+- Error10 53.57%
+- [NCIT:C35979](http://purl.obolibrary.org/obo/NCIT_C35979) (Acute Inflammatory Infiltrate) and (not ([NCIT:C35981](http://purl.obolibrary.org/obo/NCIT_C35981) (Eosinophilic Infiltrate))) 53.57%
+- Thing 53.04%
+- [NCIT:C35978](http://purl.obolibrary.org/obo/NCIT_C35978) (Inflammatory Infiltrate) 42.50%
+- [NCIT:C35983](http://purl.obolibrary.org/obo/NCIT_C35983) (Lymphocytic Infiltrate) 38.93%
+- [NCIT:C35979](http://purl.obolibrary.org/obo/NCIT_C35979) (Acute Inflammatory Infiltrate) 38.93%
+- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) 38.93%
+- [NCIT:C35979](http://purl.obolibrary.org/obo/NCIT_C35979) (Acute Inflammatory Infiltrate) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 38.93%
 
 

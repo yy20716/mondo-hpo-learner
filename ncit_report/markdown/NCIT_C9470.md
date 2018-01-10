@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C39687](http://purl.obolibrary.org/obo/NCIT_C39687) (Activated Mature Cytotoxic T-Lymphocyte) 62.50%
-- [NCIT:C38324](http://purl.obolibrary.org/obo/NCIT_C38324) (Mature Cytotoxic T-Lymphocyte) 62.50%
-- Thing 51.30%
-- [CL:0000911](http://purl.obolibrary.org/obo/CL_0000911) (effector T cell) 47.86%
-- [CL:0000910](http://purl.obolibrary.org/obo/CL_0000910) (cytotoxic T cell) 47.86%
-- [CL:0000910](http://purl.obolibrary.org/obo/CL_0000910) (cytotoxic T cell) and (not ([NCIT:C37177](http://purl.obolibrary.org/obo/NCIT_C37177) (Neoplastic Medium-Sized Myeloblast with Basophilic Agranular Cytoplasm))) 47.86%
-- [CL:0000910](http://purl.obolibrary.org/obo/CL_0000910) (cytotoxic T cell) and (not ([NCIT:C37176](http://purl.obolibrary.org/obo/NCIT_C37176) (Neoplastic Myeloblast with Abundant Basophilic Cytoplasm))) 47.86%
-- [CL:0000910](http://purl.obolibrary.org/obo/CL_0000910) (cytotoxic T cell) and (not ([NCIT:C37175](http://purl.obolibrary.org/obo/NCIT_C37175) (Neutrophil with Pseudo Chediak-Higashi Granules))) 47.86%
-- [CL:0000910](http://purl.obolibrary.org/obo/CL_0000910) (cytotoxic T cell) and (not ([NCIT:C37174](http://purl.obolibrary.org/obo/NCIT_C37174) (Neutrophil with Cytoplasmic Hypogranularity))) 47.86%
-- [CL:0000910](http://purl.obolibrary.org/obo/CL_0000910) (cytotoxic T cell) and (not ([NCIT:C37172](http://purl.obolibrary.org/obo/NCIT_C37172) (Hypolobated Neutrophil))) 47.86%
-- [CL:0000910](http://purl.obolibrary.org/obo/CL_0000910) (cytotoxic T cell) and (not ([NCIT:C37169](http://purl.obolibrary.org/obo/NCIT_C37169) (Multilobated Neoplastic B-Lymphocyte))) 47.86%
-- [CL:0000910](http://purl.obolibrary.org/obo/CL_0000910) (cytotoxic T cell) and (not ([NCIT:C37165](http://purl.obolibrary.org/obo/NCIT_C37165) (Atypical Lymphocyte))) 47.86%
-- [CL:0000910](http://purl.obolibrary.org/obo/CL_0000910) (cytotoxic T cell) and (not ([NCIT:C37161](http://purl.obolibrary.org/obo/NCIT_C37161) (Small Meningothelial Cell))) 47.86%
-- [CL:0000910](http://purl.obolibrary.org/obo/CL_0000910) (cytotoxic T cell) and (not ([NCIT:C37160](http://purl.obolibrary.org/obo/NCIT_C37160) (Meningothelial Cell with Clear Cytoplasm))) 47.86%
-- [CL:0000910](http://purl.obolibrary.org/obo/CL_0000910) (cytotoxic T cell) and (not ([NCIT:C37159](http://purl.obolibrary.org/obo/NCIT_C37159) (Eosinophilic Meningothelial Cell))) 47.86%
+- [NCIT:C39687](http://purl.obolibrary.org/obo/NCIT_C39687) (Activated Mature Cytotoxic T-Lymphocyte) 60.00%
+- [NCIT:C38324](http://purl.obolibrary.org/obo/NCIT_C38324) (Mature Cytotoxic T-Lymphocyte) 60.00%
+- Thing 51.82%
+- [CL:0000911](http://purl.obolibrary.org/obo/CL_0000911) (effector T cell) 45.36%
+- [CL:0000910](http://purl.obolibrary.org/obo/CL_0000910) (cytotoxic T cell) 45.36%
+- [CL:0000910](http://purl.obolibrary.org/obo/CL_0000910) (cytotoxic T cell) and (not ([NCIT:C40124](http://purl.obolibrary.org/obo/NCIT_C40124) (Fallopian Tube Carcinosarcoma))) 45.36%
+- [CL:0000910](http://purl.obolibrary.org/obo/CL_0000910) (cytotoxic T cell) and (not ([NCIT:C40122](http://purl.obolibrary.org/obo/NCIT_C40122) (Pelvic Pain))) 45.36%
+- [CL:0000910](http://purl.obolibrary.org/obo/CL_0000910) (cytotoxic T cell) and (not ([NCIT:C40116](http://purl.obolibrary.org/obo/NCIT_C40116) (Fallopian Tube Metaplastic Papillary Tumor))) 45.36%
+- [CL:0000910](http://purl.obolibrary.org/obo/CL_0000910) (cytotoxic T cell) and (not ([NCIT:C40114](http://purl.obolibrary.org/obo/NCIT_C40114) (Fallopian Tube Serous Cystadenofibroma))) 45.36%
+- [CL:0000910](http://purl.obolibrary.org/obo/CL_0000910) (cytotoxic T cell) and (not ([NCIT:C40112](http://purl.obolibrary.org/obo/NCIT_C40112) (Fallopian Tube Papilloma))) 45.36%
+- [CL:0000910](http://purl.obolibrary.org/obo/CL_0000910) (cytotoxic T cell) and (not ([NCIT:C40110](http://purl.obolibrary.org/obo/NCIT_C40110) (Borderline Fallopian Tube Endometrioid Tumor))) 45.36%
+- [CL:0000910](http://purl.obolibrary.org/obo/CL_0000910) (cytotoxic T cell) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 45.36%
+- [CL:0000910](http://purl.obolibrary.org/obo/CL_0000910) (cytotoxic T cell) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 45.36%
+- [CL:0000910](http://purl.obolibrary.org/obo/CL_0000910) (cytotoxic T cell) and (not ([NCIT:C40104](http://purl.obolibrary.org/obo/NCIT_C40104) (Fallopian Tube Transitional Cell Carcinoma))) 45.36%
+- [CL:0000910](http://purl.obolibrary.org/obo/CL_0000910) (cytotoxic T cell) and (not ([NCIT:C40103](http://purl.obolibrary.org/obo/NCIT_C40103) (Fallopian Tube Mucinous Adenocarcinoma))) 45.36%
 
 

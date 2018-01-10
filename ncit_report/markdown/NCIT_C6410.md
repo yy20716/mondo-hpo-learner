@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C47835](http://purl.obolibrary.org/obo/NCIT_C47835) (Nesting (Zellballen) Growth Pattern) 66.67%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C35914](http://purl.obolibrary.org/obo/NCIT_C35914) (Gyriform Trabecular Pattern))) 66.67%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) 52.02%
-- [NCIT:C35892](http://purl.obolibrary.org/obo/NCIT_C35892) (Nested Pattern) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([CHEBI:22868](http://purl.obolibrary.org/obo/CHEBI_22868) (bile salt))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not (CARO:0010000)) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 52.02%
-- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null))) 52.02%
+- [UBERON:0000948](http://purl.obolibrary.org/obo/UBERON_0000948) (heart) 62.50%
+- [UBERON:0002081](http://purl.obolibrary.org/obo/UBERON_0002081) (cardiac atrium) and (not ([UBERON:0015212](http://purl.obolibrary.org/obo/UBERON_0015212) (lateral structure))) 62.50%
+- Thing 51.63%
+- [UBERON:0002081](http://purl.obolibrary.org/obo/UBERON_0002081) (cardiac atrium) and (not ([UBERON:0035554](http://purl.obolibrary.org/obo/UBERON_0035554) (right cardiac chamber))) 47.86%
+- [UBERON:0002081](http://purl.obolibrary.org/obo/UBERON_0002081) (cardiac atrium) and (not ([UBERON:0035553](http://purl.obolibrary.org/obo/UBERON_0035553) (left cardiac chamber))) 47.86%
+- [UBERON:0002081](http://purl.obolibrary.org/obo/UBERON_0002081) (cardiac atrium) and (not ([UBERON:0002079](http://purl.obolibrary.org/obo/UBERON_0002079) (left cardiac atrium))) 47.86%
+- [UBERON:0002081](http://purl.obolibrary.org/obo/UBERON_0002081) (cardiac atrium) and (not ([UBERON:0002078](http://purl.obolibrary.org/obo/UBERON_0002078) (right cardiac atrium))) 47.86%
+- [UBERON:0002081](http://purl.obolibrary.org/obo/UBERON_0002081) (cardiac atrium) 41.37%
+- [UBERON:0002081](http://purl.obolibrary.org/obo/UBERON_0002081) (cardiac atrium) and (not (Error19)) 41.37%
+- [UBERON:0002081](http://purl.obolibrary.org/obo/UBERON_0002081) (cardiac atrium) and (not (Error18)) 41.37%
+- [UBERON:0002081](http://purl.obolibrary.org/obo/UBERON_0002081) (cardiac atrium) and (not (Error17)) 41.37%
+- [UBERON:0002081](http://purl.obolibrary.org/obo/UBERON_0002081) (cardiac atrium) and (not (Error16)) 41.37%
+- [UBERON:0002081](http://purl.obolibrary.org/obo/UBERON_0002081) (cardiac atrium) and (not (Error15)) 41.37%
+- [UBERON:0002081](http://purl.obolibrary.org/obo/UBERON_0002081) (cardiac atrium) and (not (Error14)) 41.37%
+- [UBERON:0002081](http://purl.obolibrary.org/obo/UBERON_0002081) (cardiac atrium) and (not (Error13)) 41.37%
 
 

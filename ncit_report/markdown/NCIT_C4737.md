@@ -13,13 +13,13 @@
 - [NCIT:C37017](http://purl.obolibrary.org/obo/NCIT_C37017) (Anaplastic Large T-Lymphocyte) 53.57%
 - [NCIT:C36997](http://purl.obolibrary.org/obo/NCIT_C36997) (Pleomorphic T-Lymphocyte) 53.57%
 - [NCIT:C36995](http://purl.obolibrary.org/obo/NCIT_C36995) (Pleomorphic Lymphocyte) 53.57%
-- Thing 52.43%
+- [NCIT:C39606](http://purl.obolibrary.org/obo/NCIT_C39606) (Neoplastic Small to Medium-Sized T-Lymphocyte) and (not ([NCIT:C39681](http://purl.obolibrary.org/obo/NCIT_C39681) (Neoplastic Small to Medium-Sized T-Lymphocyte with Irregular Nucleus))) 53.57%
+- Thing 53.04%
 - [NCIT:C39566](http://purl.obolibrary.org/obo/NCIT_C39566) (Neoplastic T-Lymphocyte and Neoplastic Natural Killer Cell) 45.45%
 - [NCIT:C39606](http://purl.obolibrary.org/obo/NCIT_C39606) (Neoplastic Small to Medium-Sized T-Lymphocyte) 38.93%
-- [NCIT:C39606](http://purl.obolibrary.org/obo/NCIT_C39606) (Neoplastic Small to Medium-Sized T-Lymphocyte) and (not ([NCIT:C37157](http://purl.obolibrary.org/obo/NCIT_C37157) (Meningothelial Cell with Elongated Processes))) 38.93%
-- [NCIT:C39606](http://purl.obolibrary.org/obo/NCIT_C39606) (Neoplastic Small to Medium-Sized T-Lymphocyte) and (not ([NCIT:C37156](http://purl.obolibrary.org/obo/NCIT_C37156) (Spindle-Shaped Meningothelial Cell))) 38.93%
-- [NCIT:C39606](http://purl.obolibrary.org/obo/NCIT_C39606) (Neoplastic Small to Medium-Sized T-Lymphocyte) and (not ([NCIT:C37154](http://purl.obolibrary.org/obo/NCIT_C37154) (Neoplastic Perineurial Cell))) 38.93%
-- [NCIT:C39606](http://purl.obolibrary.org/obo/NCIT_C39606) (Neoplastic Small to Medium-Sized T-Lymphocyte) and (not ([NCIT:C37152](http://purl.obolibrary.org/obo/NCIT_C37152) (Neoplastic Perineurial-Like Cell))) 38.93%
-- [NCIT:C39606](http://purl.obolibrary.org/obo/NCIT_C39606) (Neoplastic Small to Medium-Sized T-Lymphocyte) and (not ([NCIT:C37151](http://purl.obolibrary.org/obo/NCIT_C37151) (Neoplastic Schwann Cell))) 38.93%
+- [NCIT:C39606](http://purl.obolibrary.org/obo/NCIT_C39606) (Neoplastic Small to Medium-Sized T-Lymphocyte) and (not ([NCIT:C40141](http://purl.obolibrary.org/obo/NCIT_C40141) (Wolffian Adnexal Tumor))) 38.93%
+- [NCIT:C39606](http://purl.obolibrary.org/obo/NCIT_C39606) (Neoplastic Small to Medium-Sized T-Lymphocyte) and (not ([NCIT:C40139](http://purl.obolibrary.org/obo/NCIT_C40139) (Uterine Ligament Clear Cell Adenocarcinoma))) 38.93%
+- [NCIT:C39606](http://purl.obolibrary.org/obo/NCIT_C39606) (Neoplastic Small to Medium-Sized T-Lymphocyte) and (not ([NCIT:C40138](http://purl.obolibrary.org/obo/NCIT_C40138) (Uterine Ligament Endometrioid Adenocarcinoma))) 38.93%
+- [NCIT:C39606](http://purl.obolibrary.org/obo/NCIT_C39606) (Neoplastic Small to Medium-Sized T-Lymphocyte) and (not ([NCIT:C40137](http://purl.obolibrary.org/obo/NCIT_C40137) (Uterine Ligament Mucinous Adenocarcinoma))) 38.93%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C53695](http://purl.obolibrary.org/obo/NCIT_C53695) (Osteoid Formation) 75.00%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 52.52%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 51.92%
-- Thing 50.92%
-- [NCIT:C3303](http://purl.obolibrary.org/obo/NCIT_C3303) (Pain) 42.68%
-- [NCIT:C4876](http://purl.obolibrary.org/obo/NCIT_C4876) (Symptom) 40.81%
-- [NCIT:C42075](http://purl.obolibrary.org/obo/NCIT_C42075) (Abnormal Tissue Present) 31.93%
-- [NCIT:C100104](http://purl.obolibrary.org/obo/NCIT_C100104) (Sign or Symptom) 30.85%
-- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 27.56%
-- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 27.46%
-- CP:0000037 0.00%
-- CP:0000035 0.00%
-- CP:0000028 0.00%
-- CP:0000027 0.00%
-- CP:0000000 0.00%
+- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) 60.00%
+- Thing 51.82%
+- [UBERON:0010199](http://purl.obolibrary.org/obo/UBERON_0010199) (bona-fide anatomical boundary) 45.36%
+- [UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface) 45.36%
+- [UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface) and (not ([NCIT:C40137](http://purl.obolibrary.org/obo/NCIT_C40137) (Uterine Ligament Mucinous Adenocarcinoma))) 45.36%
+- [UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface) and (not ([NCIT:C40129](http://purl.obolibrary.org/obo/NCIT_C40129) (Fallopian Tube Adenomatoid Tumor))) 45.36%
+- [UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface) and (not ([NCIT:C40128](http://purl.obolibrary.org/obo/NCIT_C40128) (Fallopian Tube Leiomyosarcoma))) 45.36%
+- [UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface) and (not ([NCIT:C40127](http://purl.obolibrary.org/obo/NCIT_C40127) (Fallopian Tube Leiomyoma))) 45.36%
+- [UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface) and (not ([NCIT:C40125](http://purl.obolibrary.org/obo/NCIT_C40125) (Fallopian Tube Adenosarcoma))) 45.36%
+- [UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface) and (not ([NCIT:C40124](http://purl.obolibrary.org/obo/NCIT_C40124) (Fallopian Tube Carcinosarcoma))) 45.36%
+- [UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface) and (not ([NCIT:C40122](http://purl.obolibrary.org/obo/NCIT_C40122) (Pelvic Pain))) 45.36%
+- [UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface) and (not ([NCIT:C40116](http://purl.obolibrary.org/obo/NCIT_C40116) (Fallopian Tube Metaplastic Papillary Tumor))) 45.36%
+- [UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface) and (not ([NCIT:C40114](http://purl.obolibrary.org/obo/NCIT_C40114) (Fallopian Tube Serous Cystadenofibroma))) 45.36%
+- [UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface) and (not ([NCIT:C40112](http://purl.obolibrary.org/obo/NCIT_C40112) (Fallopian Tube Papilloma))) 45.36%
+- [UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface) and (not ([NCIT:C40110](http://purl.obolibrary.org/obo/NCIT_C40110) (Borderline Fallopian Tube Endometrioid Tumor))) 45.36%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0001043](http://purl.obolibrary.org/obo/UBERON_0001043) (esophagus) 75.00%
-- [NCIT:C2980](http://purl.obolibrary.org/obo/NCIT_C2980) (Dysphagia) 75.00%
-- Thing 50.92%
-- [NCIT:C3368](http://purl.obolibrary.org/obo/NCIT_C3368) (Digestive System Signs and Symptoms) 38.36%
-- [NCIT:C36279](http://purl.obolibrary.org/obo/NCIT_C36279) (Digestive System Finding) 37.13%
-- [NCIT:C100104](http://purl.obolibrary.org/obo/NCIT_C100104) (Sign or Symptom) 30.85%
-- [NCIT:C36278](http://purl.obolibrary.org/obo/NCIT_C36278) (Finding by Site or System) 29.03%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 26.78%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 26.36%
-- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 26.31%
-- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 26.28%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 26.21%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 26.13%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 26.12%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 26.03%
+- [NCIT:C36141](http://purl.obolibrary.org/obo/NCIT_C36141) (Intermediate Grade Lesion) 53.85%
+- [NCIT:C36133](http://purl.obolibrary.org/obo/NCIT_C36133) (Well Differentiated Lesion) 53.85%
+- [NCIT:C36132](http://purl.obolibrary.org/obo/NCIT_C36132) (Poorly Differentiated Lesion) 53.85%
+- [NCIT:C36130](http://purl.obolibrary.org/obo/NCIT_C36130) (Low Grade Lesion) 53.85%
+- Thing 52.93%
+- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C36140](http://purl.obolibrary.org/obo/NCIT_C36140) (Grade 4 Lesion))) 48.52%
+- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C36129](http://purl.obolibrary.org/obo/NCIT_C36129) (High Grade Lesion))) 48.52%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 44.09%
+- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) 43.05%
+- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C37177](http://purl.obolibrary.org/obo/NCIT_C37177) (Neoplastic Medium-Sized Myeloblast with Basophilic Agranular Cytoplasm))) 43.05%
+- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C37176](http://purl.obolibrary.org/obo/NCIT_C37176) (Neoplastic Myeloblast with Abundant Basophilic Cytoplasm))) 43.05%
+- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C37175](http://purl.obolibrary.org/obo/NCIT_C37175) (Neutrophil with Pseudo Chediak-Higashi Granules))) 43.05%
+- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C37174](http://purl.obolibrary.org/obo/NCIT_C37174) (Neutrophil with Cytoplasmic Hypogranularity))) 43.05%
+- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C37172](http://purl.obolibrary.org/obo/NCIT_C37172) (Hypolobated Neutrophil))) 43.05%
+- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C37169](http://purl.obolibrary.org/obo/NCIT_C37169) (Multilobated Neoplastic B-Lymphocyte))) 43.05%
 
 

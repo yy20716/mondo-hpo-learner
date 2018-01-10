@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36180](http://purl.obolibrary.org/obo/NCIT_C36180) (Multifocal Lesion) 75.00%
-- [CL:0002258](http://purl.obolibrary.org/obo/CL_0002258) (thyroid follicular cell) 75.00%
-- [CL:0002257](http://purl.obolibrary.org/obo/CL_0002257) (epithelial cell of thyroid gland) 75.00%
-- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) and (not ([NCIT:C48616](http://purl.obolibrary.org/obo/NCIT_C48616) (Unifocal Lesion))) 75.00%
-- [NCIT:C36180](http://purl.obolibrary.org/obo/NCIT_C36180) (Multifocal Lesion) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 75.00%
-- [NCIT:C36180](http://purl.obolibrary.org/obo/NCIT_C36180) (Multifocal Lesion) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 75.00%
-- [NCIT:C36180](http://purl.obolibrary.org/obo/NCIT_C36180) (Multifocal Lesion) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 75.00%
-- [NCIT:C36180](http://purl.obolibrary.org/obo/NCIT_C36180) (Multifocal Lesion) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 75.00%
-- [NCIT:C36180](http://purl.obolibrary.org/obo/NCIT_C36180) (Multifocal Lesion) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 75.00%
-- [NCIT:C36180](http://purl.obolibrary.org/obo/NCIT_C36180) (Multifocal Lesion) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 75.00%
-- [NCIT:C36180](http://purl.obolibrary.org/obo/NCIT_C36180) (Multifocal Lesion) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 75.00%
-- [NCIT:C36180](http://purl.obolibrary.org/obo/NCIT_C36180) (Multifocal Lesion) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 75.00%
-- [NCIT:C36180](http://purl.obolibrary.org/obo/NCIT_C36180) (Multifocal Lesion) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 75.00%
-- [NCIT:C36180](http://purl.obolibrary.org/obo/NCIT_C36180) (Multifocal Lesion) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 75.00%
-- [NCIT:C36180](http://purl.obolibrary.org/obo/NCIT_C36180) (Multifocal Lesion) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 75.00%
+- [NCIT:C5731](http://purl.obolibrary.org/obo/NCIT_C5731) (Duodenal Gastrin-Producing Neuroendocrine Tumor) 53.33%
+- [NCIT:C46099](http://purl.obolibrary.org/obo/NCIT_C46099) (Hereditary Thyroid Gland Medullary Carcinoma) 53.33%
+- [NCIT:C4216](http://purl.obolibrary.org/obo/NCIT_C4216) (Sympathetic Paraganglioma) 53.33%
+- [NCIT:C3989](http://purl.obolibrary.org/obo/NCIT_C3989) (Parathyroid Hyperplasia) 53.33%
+- [NCIT:C3916](http://purl.obolibrary.org/obo/NCIT_C3916) (Parathyroid Gland Adenoma) 53.33%
+- [NCIT:C3326](http://purl.obolibrary.org/obo/NCIT_C3326) (Adrenal Gland Pheochromocytoma) 53.33%
+- [NCIT:C3308](http://purl.obolibrary.org/obo/NCIT_C3308) (Paraganglioma) 53.33%
+- [NCIT:C2879](http://purl.obolibrary.org/obo/NCIT_C2879) (Neoplasm of the Diffuse Neuroendocrine System) 53.33%
+- [NCIT:C3879](http://purl.obolibrary.org/obo/NCIT_C3879) (Thyroid Gland Medullary Carcinoma) and [NCIT:C9479](http://purl.obolibrary.org/obo/NCIT_C9479) (Hereditary Malignant Neoplasm) 53.33%
+- [NCIT:C3879](http://purl.obolibrary.org/obo/NCIT_C3879) (Thyroid Gland Medullary Carcinoma) and [NCIT:C9305](http://purl.obolibrary.org/obo/NCIT_C9305) (Malignant Neoplasm) 53.33%
+- [NCIT:C3879](http://purl.obolibrary.org/obo/NCIT_C3879) (Thyroid Gland Medullary Carcinoma) and [NCIT:C7062](http://purl.obolibrary.org/obo/NCIT_C7062) (Neoplasm by Special Category) 53.33%
+- [NCIT:C3773](http://purl.obolibrary.org/obo/NCIT_C3773) (Neuroendocrine Carcinoma) and [NCIT:C9479](http://purl.obolibrary.org/obo/NCIT_C9479) (Hereditary Malignant Neoplasm) 53.33%
+- [NCIT:C3773](http://purl.obolibrary.org/obo/NCIT_C3773) (Neuroendocrine Carcinoma) and [NCIT:C9305](http://purl.obolibrary.org/obo/NCIT_C9305) (Malignant Neoplasm) 53.33%
+- [NCIT:C3773](http://purl.obolibrary.org/obo/NCIT_C3773) (Neuroendocrine Carcinoma) and [NCIT:C7062](http://purl.obolibrary.org/obo/NCIT_C7062) (Neoplasm by Special Category) 53.33%
+- [NCIT:C3630](http://purl.obolibrary.org/obo/NCIT_C3630) (Benign Parathyroid Gland Neoplasm) and [NCIT:C4621](http://purl.obolibrary.org/obo/NCIT_C4621) (Benign Endocrine Neoplasm) 53.33%
 
 

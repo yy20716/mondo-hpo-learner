@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C18256](http://purl.obolibrary.org/obo/NCIT_C18256) (PTEN Gene) 75.00%
-- [NCIT:C17359](http://purl.obolibrary.org/obo/NCIT_C17359) (TP53 Gene) 75.00%
-- [NCIT:C16612](http://purl.obolibrary.org/obo/NCIT_C16612) (Gene) 54.23%
-- Thing 50.92%
-- [NCIT:C20917](http://purl.obolibrary.org/obo/NCIT_C20917) (Cell Cycle Gene) 40.81%
-- [NCIT:C20921](http://purl.obolibrary.org/obo/NCIT_C20921) (Signaling Pathway Gene) 37.50%
-- CP:0000037 0.00%
-- CP:0000035 0.00%
-- CP:0000028 0.00%
-- CP:0000027 0.00%
-- CP:0000000 0.00%
-- [CHEBI:36342](http://purl.obolibrary.org/obo/CHEBI_36342) (subatomic particle) 0.00%
-- [CHEBI:24431](http://purl.obolibrary.org/obo/CHEBI_24431) (chemical entity) 0.00%
-- CARO:0010000 0.00%
-- CARO:0001001 0.00%
+- [NCIT:C54201](http://purl.obolibrary.org/obo/NCIT_C54201) (Exophytic Papillary Lesion) 62.50%
+- [NCIT:C35265](http://purl.obolibrary.org/obo/NCIT_C35265) (Acanthosis) 62.50%
+- [NCIT:C18256](http://purl.obolibrary.org/obo/NCIT_C18256) (PTEN Gene) 62.50%
+- [NCIT:C17359](http://purl.obolibrary.org/obo/NCIT_C17359) (TP53 Gene) 62.50%
+- Thing 51.63%
+- [NCIT:C16612](http://purl.obolibrary.org/obo/NCIT_C16612) (Gene) 29.23%
+- [NCIT:C20917](http://purl.obolibrary.org/obo/NCIT_C20917) (Cell Cycle Gene) 28.31%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 27.52%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 26.92%
+- [NCIT:C20921](http://purl.obolibrary.org/obo/NCIT_C20921) (Signaling Pathway Gene) 25.00%
+- [NCIT:C3824](http://purl.obolibrary.org/obo/NCIT_C3824) (Lesion) 18.75%
+- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 15.06%
+- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 14.96%
+- Error3 0.00%
+- Error20 0.00%
 
 

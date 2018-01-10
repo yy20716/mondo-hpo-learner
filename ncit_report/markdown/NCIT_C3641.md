@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C33756](http://purl.obolibrary.org/obo/NCIT_C33756) (Terminal Ductal Lobular Unit Cell) 66.67%
-- [NCIT:C12480](http://purl.obolibrary.org/obo/NCIT_C12480) (Terminal Ductal Lobular Unit) 66.67%
-- [NCIT:C12370](http://purl.obolibrary.org/obo/NCIT_C12370) (Mammary Gland Tissue) and [UBERON:0006799](http://purl.obolibrary.org/obo/UBERON_0006799) (glandular epithelium) 66.67%
-- [NCIT:C12370](http://purl.obolibrary.org/obo/NCIT_C12370) (Mammary Gland Tissue) and [UBERON:0000483](http://purl.obolibrary.org/obo/UBERON_0000483) (epithelium) 66.67%
-- [NCIT:C12480](http://purl.obolibrary.org/obo/NCIT_C12480) (Terminal Ductal Lobular Unit) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 66.67%
-- [NCIT:C12480](http://purl.obolibrary.org/obo/NCIT_C12480) (Terminal Ductal Lobular Unit) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 66.67%
-- [NCIT:C12480](http://purl.obolibrary.org/obo/NCIT_C12480) (Terminal Ductal Lobular Unit) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 66.67%
-- [NCIT:C12480](http://purl.obolibrary.org/obo/NCIT_C12480) (Terminal Ductal Lobular Unit) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 66.67%
-- [NCIT:C12480](http://purl.obolibrary.org/obo/NCIT_C12480) (Terminal Ductal Lobular Unit) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 66.67%
-- [NCIT:C12480](http://purl.obolibrary.org/obo/NCIT_C12480) (Terminal Ductal Lobular Unit) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 66.67%
-- [NCIT:C12480](http://purl.obolibrary.org/obo/NCIT_C12480) (Terminal Ductal Lobular Unit) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 66.67%
-- [NCIT:C12480](http://purl.obolibrary.org/obo/NCIT_C12480) (Terminal Ductal Lobular Unit) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 66.67%
-- [NCIT:C12480](http://purl.obolibrary.org/obo/NCIT_C12480) (Terminal Ductal Lobular Unit) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 66.67%
-- [NCIT:C12480](http://purl.obolibrary.org/obo/NCIT_C12480) (Terminal Ductal Lobular Unit) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 66.67%
-- [NCIT:C12480](http://purl.obolibrary.org/obo/NCIT_C12480) (Terminal Ductal Lobular Unit) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 66.67%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C37867](http://purl.obolibrary.org/obo/NCIT_C37867) (Tetrasomy 7))) 56.94%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12))) 56.94%
+- [NCIT:C36657](http://purl.obolibrary.org/obo/NCIT_C36657) (Polysomy 17) 54.55%
+- [NCIT:C36656](http://purl.obolibrary.org/obo/NCIT_C36656) (Polysomy 10) 54.55%
+- [NCIT:C36655](http://purl.obolibrary.org/obo/NCIT_C36655) (Polysomy 3) 54.55%
+- Thing 52.70%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) 52.37%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C39903](http://purl.obolibrary.org/obo/NCIT_C39903) (Prostate Adenocarcinoma with Focal Neuroendocrine Differentiation))) 52.37%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C39902](http://purl.obolibrary.org/obo/NCIT_C39902) (Prostate Basal Cell Carcinoma))) 52.37%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C39901](http://purl.obolibrary.org/obo/NCIT_C39901) (Prostatic Duct Urothelial Carcinoma))) 52.37%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C39899](http://purl.obolibrary.org/obo/NCIT_C39899) (Secondary Prostate Urothelial Carcinoma))) 52.37%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C39897](http://purl.obolibrary.org/obo/NCIT_C39897) (Prostate Ductal Adenocarcinoma, Solid Pattern))) 52.37%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C39896](http://purl.obolibrary.org/obo/NCIT_C39896) (Prostate Ductal Adenocarcinoma, Papillary Pattern))) 52.37%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C39895](http://purl.obolibrary.org/obo/NCIT_C39895) (Prostate Ductal Adenocarcinoma, Cribriform Pattern))) 52.37%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C3989](http://purl.obolibrary.org/obo/NCIT_C3989) (Parathyroid Hyperplasia))) 52.37%
 
 

@@ -11,15 +11,15 @@
 - [NCIT:C37935](http://purl.obolibrary.org/obo/NCIT_C37935) (Cough) 58.33%
 - [NCIT:C27165](http://purl.obolibrary.org/obo/NCIT_C27165) (Respiratory Distress) 58.33%
 - [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C2998](http://purl.obolibrary.org/obo/NCIT_C2998) (Dyspnea))) 58.33%
-- Thing 51.59%
+- Thing 51.99%
 - [NCIT:C100104](http://purl.obolibrary.org/obo/NCIT_C100104) (Sign or Symptom) 45.04%
 - [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 44.70%
 - [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) 43.69%
-- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C3742](http://purl.obolibrary.org/obo/NCIT_C3742) (Myofibromatosis))) 43.69%
-- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C3741](http://purl.obolibrary.org/obo/NCIT_C3741) (Abdominal (Mesenteric) Fibromatosis))) 43.69%
-- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C3740](http://purl.obolibrary.org/obo/NCIT_C3740) (Bone Desmoplastic Fibroma))) 43.69%
-- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C3736](http://purl.obolibrary.org/obo/NCIT_C3736) (Adrenal Gland Myelolipoma))) 43.69%
-- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C37312](http://purl.obolibrary.org/obo/NCIT_C37312) (Loss of Chromosome 11q))) 43.69%
-- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C37304](http://purl.obolibrary.org/obo/NCIT_C37304) (Multicentric Thyroid Gland Papillary Carcinoma))) 43.69%
+- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C39866](http://purl.obolibrary.org/obo/NCIT_C39866) (Female Urethral Malignant Neoplasm))) 43.69%
+- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C39864](http://purl.obolibrary.org/obo/NCIT_C39864) (Carcinoma of Cowper Glands))) 43.69%
+- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C39862](http://purl.obolibrary.org/obo/NCIT_C39862) (Human Papillomavirus-Related Urethral Squamous Cell Carcinoma))) 43.69%
+- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C39859](http://purl.obolibrary.org/obo/NCIT_C39859) (Bladder Inverted Papilloma))) 43.69%
+- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C39856](http://purl.obolibrary.org/obo/NCIT_C39856) (Urothelial Dysplasia))) 43.69%
+- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C39845](http://purl.obolibrary.org/obo/NCIT_C39845) (Bladder Urachal Squamous Cell Carcinoma))) 43.69%
 
 

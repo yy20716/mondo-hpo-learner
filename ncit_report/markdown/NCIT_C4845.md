@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0001064](http://purl.obolibrary.org/obo/UBERON_0001064) (ventral pancreatic duct) 62.50%
-- [UBERON:0000017](http://purl.obolibrary.org/obo/UBERON_0000017) (exocrine pancreas) 62.50%
-- [NCIT:C41361](http://purl.obolibrary.org/obo/NCIT_C41361) (KRAS Gene Mutation) 62.50%
-- [NCIT:C25785](http://purl.obolibrary.org/obo/NCIT_C25785) (KRAS Gene) 62.50%
-- Thing 51.30%
-- [UBERON:0007329](http://purl.obolibrary.org/obo/UBERON_0007329) (pancreatic duct) 47.86%
-- [UBERON:0007329](http://purl.obolibrary.org/obo/UBERON_0007329) (pancreatic duct) and (not ([GO:0034250](http://purl.obolibrary.org/obo/GO_0034250) (positive regulation of cellular amide metabolic process))) 47.86%
-- [UBERON:0007329](http://purl.obolibrary.org/obo/UBERON_0007329) (pancreatic duct) and (not ([GO:0034249](http://purl.obolibrary.org/obo/GO_0034249) (negative regulation of cellular amide metabolic process))) 47.86%
-- [UBERON:0007329](http://purl.obolibrary.org/obo/UBERON_0007329) (pancreatic duct) and (not ([GO:0032892](http://purl.obolibrary.org/obo/GO_0032892) (positive regulation of organic acid transport))) 47.86%
-- [UBERON:0007329](http://purl.obolibrary.org/obo/UBERON_0007329) (pancreatic duct) and (not ([GO:0032891](http://purl.obolibrary.org/obo/GO_0032891) (negative regulation of organic acid transport))) 47.86%
-- [UBERON:0007329](http://purl.obolibrary.org/obo/UBERON_0007329) (pancreatic duct) and (not ([GO:0032782](http://purl.obolibrary.org/obo/GO_0032782) (null))) 47.86%
-- [UBERON:0007329](http://purl.obolibrary.org/obo/UBERON_0007329) (pancreatic duct) and (not ([GO:0032609](http://purl.obolibrary.org/obo/GO_0032609) (null))) 47.86%
-- [UBERON:0007329](http://purl.obolibrary.org/obo/UBERON_0007329) (pancreatic duct) and (not ([GO:0032606](http://purl.obolibrary.org/obo/GO_0032606) (null))) 47.86%
-- [UBERON:0007329](http://purl.obolibrary.org/obo/UBERON_0007329) (pancreatic duct) and (not ([GO:0032504](http://purl.obolibrary.org/obo/GO_0032504) (multicellular organism reproduction))) 47.86%
-- [UBERON:0007329](http://purl.obolibrary.org/obo/UBERON_0007329) (pancreatic duct) and (not ([GO:0032432](http://purl.obolibrary.org/obo/GO_0032432) (actin filament bundle))) 47.86%
+- Thing 53.25%
+- [NCIT:C8329](http://purl.obolibrary.org/obo/NCIT_C8329) (Severe Cytologic Atypia) 53.12%
+- [NCIT:C8328](http://purl.obolibrary.org/obo/NCIT_C8328) (Moderate Cytologic Atypia) 53.12%
+- [NCIT:C8327](http://purl.obolibrary.org/obo/NCIT_C8327) (Mild Cytologic Atypia) 53.12%
+- [NCIT:C7693](http://purl.obolibrary.org/obo/NCIT_C7693) (Precancerous Atypia) 53.12%
+- [NCIT:C41361](http://purl.obolibrary.org/obo/NCIT_C41361) (KRAS Gene Mutation) 53.12%
+- [NCIT:C39629](http://purl.obolibrary.org/obo/NCIT_C39629) (CDKN2A Gene Inactivation) 53.12%
+- [NCIT:C36693](http://purl.obolibrary.org/obo/NCIT_C36693) (SMAD4/DPC4 Gene Inactivation) 53.12%
+- [NCIT:C36689](http://purl.obolibrary.org/obo/NCIT_C36689) (BRCA2 Gene Inactivation) 53.12%
+- [NCIT:C36329](http://purl.obolibrary.org/obo/NCIT_C36329) (TP53 Gene Inactivation) 53.12%
+- [NCIT:C25785](http://purl.obolibrary.org/obo/NCIT_C25785) (KRAS Gene) 53.12%
+- [NCIT:C18258](http://purl.obolibrary.org/obo/NCIT_C18258) (SMAD4 Gene) 53.12%
+- [NCIT:C18120](http://purl.obolibrary.org/obo/NCIT_C18120) (BRCA2 Gene) 53.12%
+- [NCIT:C18022](http://purl.obolibrary.org/obo/NCIT_C18022) (CDKN2A Gene) 53.12%
+- [NCIT:C17359](http://purl.obolibrary.org/obo/NCIT_C17359) (TP53 Gene) 53.12%
 
 

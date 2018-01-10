@@ -10,7 +10,7 @@
 - [NCIT:C37132](http://purl.obolibrary.org/obo/NCIT_C37132) (Gemistocytic Neoplastic Astrocyte) 62.50%
 - [NCIT:C37129](http://purl.obolibrary.org/obo/NCIT_C37129) (Fibrillary Neoplastic Astrocyte) 62.50%
 - [NCIT:C35989](http://purl.obolibrary.org/obo/NCIT_C35989) (Nuclear Atypia) 62.50%
-- Thing 51.30%
+- Thing 51.63%
 - [NCIT:C37127](http://purl.obolibrary.org/obo/NCIT_C37127) (Neoplastic Astrocyte) 46.32%
 - [NCIT:C37126](http://purl.obolibrary.org/obo/NCIT_C37126) (Neoplastic Glial Cell) 42.15%
 - [NCIT:C41454](http://purl.obolibrary.org/obo/NCIT_C41454) (Cystic Change) 41.37%

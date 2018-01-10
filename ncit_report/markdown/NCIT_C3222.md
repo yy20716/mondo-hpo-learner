@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0002037](http://purl.obolibrary.org/obo/UBERON_0002037) (cerebellum) 60.00%
-- [NCIT:C78303](http://purl.obolibrary.org/obo/NCIT_C78303) (Gait Disturbance) 60.00%
-- [NCIT:C3834](http://purl.obolibrary.org/obo/NCIT_C3834) (Ataxic Gait) 60.00%
-- [NCIT:C35946](http://purl.obolibrary.org/obo/NCIT_C35946) (Multilayered Rosette Formation) 60.00%
-- [NCIT:C34661](http://purl.obolibrary.org/obo/NCIT_C34661) (Headache) 60.00%
-- [NCIT:C3442](http://purl.obolibrary.org/obo/NCIT_C3442) (Vomiting) 60.00%
-- Thing 51.45%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 43.56%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 42.71%
-- [NCIT:C3837](http://purl.obolibrary.org/obo/NCIT_C3837) (Neurological Signs and Symptoms) 42.36%
-- [NCIT:C36280](http://purl.obolibrary.org/obo/NCIT_C36280) (Nervous System Finding) 41.32%
-- [NCIT:C100104](http://purl.obolibrary.org/obo/NCIT_C100104) (Sign or Symptom) 40.14%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) 38.87%
-- [NCIT:C36278](http://purl.obolibrary.org/obo/NCIT_C36278) (Finding by Site or System) 36.98%
-- [NCIT:C5039](http://purl.obolibrary.org/obo/NCIT_C5039) (Motor Manifestations) 35.00%
+- Thing 54.81%
+- [NCIT:C78303](http://purl.obolibrary.org/obo/NCIT_C78303) (Gait Disturbance) 51.43%
+- [NCIT:C6833](http://purl.obolibrary.org/obo/NCIT_C6833) (Double Minutes) 51.43%
+- [NCIT:C54041](http://purl.obolibrary.org/obo/NCIT_C54041) (Nodular, Reticulin-Free Zones Present) 51.43%
+- [NCIT:C42072](http://purl.obolibrary.org/obo/NCIT_C42072) (Ganglion Cells Present) 51.43%
+- [NCIT:C41467](http://purl.obolibrary.org/obo/NCIT_C41467) (Dense Intercellular Reticulin Network Present) 51.43%
+- [NCIT:C38721](http://purl.obolibrary.org/obo/NCIT_C38721) (Nuclear Pleomorphism) 51.43%
+- [NCIT:C3834](http://purl.obolibrary.org/obo/NCIT_C3834) (Ataxic Gait) 51.43%
+- [NCIT:C38328](http://purl.obolibrary.org/obo/NCIT_C38328) (Unfavorable Clinical Outcome) 51.43%
+- [NCIT:C36649](http://purl.obolibrary.org/obo/NCIT_C36649) (EGFR Gene Amplification) 51.43%
+- [NCIT:C36641](http://purl.obolibrary.org/obo/NCIT_C36641) (MYC Gene Amplification) 51.43%
+- [NCIT:C36597](http://purl.obolibrary.org/obo/NCIT_C36597) (Loss of Chromosome 1) 51.43%
+- [NCIT:C36484](http://purl.obolibrary.org/obo/NCIT_C36484) (Gain of Chromosome 17q) 51.43%
+- [NCIT:C36477](http://purl.obolibrary.org/obo/NCIT_C36477) (i(17q)) 51.43%
+- [NCIT:C36454](http://purl.obolibrary.org/obo/NCIT_C36454) (Gain of Chromosome 7) 51.43%
 
 

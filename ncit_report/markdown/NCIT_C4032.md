@@ -13,7 +13,7 @@
 - [NCIT:C36499](http://purl.obolibrary.org/obo/NCIT_C36499) (Loss of Chromosome 17p) 58.33%
 - [NCIT:C2999](http://purl.obolibrary.org/obo/NCIT_C2999) (Dysuria) 58.33%
 - [NCIT:C36315](http://purl.obolibrary.org/obo/NCIT_C36315) (Chromosomal Loss) 57.64%
-- Thing 51.59%
+- Thing 51.99%
 - [NCIT:C6825](http://purl.obolibrary.org/obo/NCIT_C6825) (Numerical Chromosomal Abnormality) 50.98%
 - [NCIT:C2950](http://purl.obolibrary.org/obo/NCIT_C2950) (Cytogenetic Abnormality) 48.10%
 - [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 46.62%

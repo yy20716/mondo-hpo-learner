@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C8327](http://purl.obolibrary.org/obo/NCIT_C8327) (Mild Cytologic Atypia) 57.14%
-- [NCIT:C54206](http://purl.obolibrary.org/obo/NCIT_C54206) (Endophytic Tumor Growth) 57.14%
-- [NCIT:C54201](http://purl.obolibrary.org/obo/NCIT_C54201) (Exophytic Papillary Lesion) 57.14%
-- [NCIT:C53991](http://purl.obolibrary.org/obo/NCIT_C53991) (Pushing Tumor Margin) 57.14%
-- [NCIT:C36133](http://purl.obolibrary.org/obo/NCIT_C36133) (Well Differentiated Lesion) 57.14%
-- [NCIT:C35541](http://purl.obolibrary.org/obo/NCIT_C35541) (Hyperkeratosis) 57.14%
-- [NCIT:C35265](http://purl.obolibrary.org/obo/NCIT_C35265) (Acanthosis) 57.14%
-- [NCIT:C137709](http://purl.obolibrary.org/obo/NCIT_C137709) (Tumor Margin Configuration) 57.14%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 54.71%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 53.59%
-- Thing 51.72%
-- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 49.14%
-- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 48.89%
-- [NCIT:C9478](http://purl.obolibrary.org/obo/NCIT_C9478) (Atypia) 26.04%
-- [NCIT:C3824](http://purl.obolibrary.org/obo/NCIT_C3824) (Lesion) 23.12%
+- [NCIT:C35220](http://purl.obolibrary.org/obo/NCIT_C35220) (Postcoital Bleeding) 54.55%
+- [NCIT:C26945](http://purl.obolibrary.org/obo/NCIT_C26945) (Vaginal Hemorrhage) 54.55%
+- Thing 52.70%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 51.08%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) and (not ([NCIT:C34937](http://purl.obolibrary.org/obo/NCIT_C34937) (Postmenopausal Hemorrhage))) 49.92%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) and (not ([NCIT:C34818](http://purl.obolibrary.org/obo/NCIT_C34818) (Metrorrhagia))) 49.92%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 49.75%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) 44.45%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) and (not ([NCIT:C3991](http://purl.obolibrary.org/obo/NCIT_C3991) (Thrombocytopenia Due to Immune Destruction))) 44.45%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) and (not ([NCIT:C39909](http://purl.obolibrary.org/obo/NCIT_C39909) (Gain of Chromosome 18q))) 44.45%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) and (not ([NCIT:C39907](http://purl.obolibrary.org/obo/NCIT_C39907) (Seminal Vesicle Cystadenoma))) 44.45%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) and (not ([NCIT:C39906](http://purl.obolibrary.org/obo/NCIT_C39906) (Seminal Vesicle Adenocarcinoma))) 44.45%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) and (not ([NCIT:C39905](http://purl.obolibrary.org/obo/NCIT_C39905) (Prostate Stromal Proliferation of Uncertain Malignant Potential))) 44.45%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) and (not ([NCIT:C39903](http://purl.obolibrary.org/obo/NCIT_C39903) (Prostate Adenocarcinoma with Focal Neuroendocrine Differentiation))) 44.45%
+- [NCIT:C79472](http://purl.obolibrary.org/obo/NCIT_C79472) (Reproductive System Hemorrhage) and (not ([NCIT:C39902](http://purl.obolibrary.org/obo/NCIT_C39902) (Prostate Basal Cell Carcinoma))) 44.45%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C41457](http://purl.obolibrary.org/obo/NCIT_C41457) (Well-Circumscribed Lesion) 66.67%
-- [NCIT:C40560](http://purl.obolibrary.org/obo/NCIT_C40560) (Exophytic Polypoid Lesion) 66.67%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 53.08%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 52.35%
-- Thing 51.13%
-- [NCIT:C3824](http://purl.obolibrary.org/obo/NCIT_C3824) (Lesion) 42.17%
-- [NCIT:C34808](http://purl.obolibrary.org/obo/NCIT_C34808) (Mass) 27.85%
-- CP:0000037 0.00%
-- CP:0000035 0.00%
-- CP:0000028 0.00%
-- CP:0000027 0.00%
-- CP:0000000 0.00%
-- [CHEBI:36342](http://purl.obolibrary.org/obo/CHEBI_36342) (subatomic particle) 0.00%
-- [CHEBI:24431](http://purl.obolibrary.org/obo/CHEBI_24431) (chemical entity) 0.00%
-- CARO:0010000 0.00%
+- Thing 56.03%
+- [NCIT:C33914](http://purl.obolibrary.org/obo/NCIT_C33914) (Endocervical Columnar Cell) 50.91%
+- [CL:0002253](http://purl.obolibrary.org/obo/CL_0002253) (epithelial cell of large intestine) 50.91%
+- [CL:0002071](http://purl.obolibrary.org/obo/CL_0002071) (enterocyte of epithelium of large intestine) 50.91%
+- [CL:0002071](http://purl.obolibrary.org/obo/CL_0002071) (enterocyte of epithelium of large intestine) and [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 50.91%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and [CL:0002253](http://purl.obolibrary.org/obo/CL_0002253) (epithelial cell of large intestine) 50.91%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and (not ([NCIT:C32925](http://purl.obolibrary.org/obo/NCIT_C32925) (Large Intestinal Glandular Cell))) 50.91%
+- [NCIT:C12849](http://purl.obolibrary.org/obo/NCIT_C12849) (Squamous Cell) 36.26%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) 36.26%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 36.26%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and (not ([NCIT:C3834](http://purl.obolibrary.org/obo/NCIT_C3834) (Ataxic Gait))) 36.26%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and (not ([NCIT:C38339](http://purl.obolibrary.org/obo/NCIT_C38339) (Postgerminal Center Memory B-Lymphocyte))) 36.26%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and (not ([NCIT:C38334](http://purl.obolibrary.org/obo/NCIT_C38334) (Postgerminal Center Marginal Zone B-Lymphocyte))) 36.26%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and (not ([NCIT:C38333](http://purl.obolibrary.org/obo/NCIT_C38333) (Activated B-Lymphocyte))) 36.26%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and (not ([NCIT:C38332](http://purl.obolibrary.org/obo/NCIT_C38332) (Peripheral B-Lymphocyte of Inner Mantle Zone))) 36.26%
 
 

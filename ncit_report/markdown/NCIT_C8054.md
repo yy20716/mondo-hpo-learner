@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C46007](http://purl.obolibrary.org/obo/NCIT_C46007) (PPAR-gamma Rearrangement) 53.57%
-- [NCIT:C45934](http://purl.obolibrary.org/obo/NCIT_C45934) (HRAS Gene Mutation) 53.57%
-- [NCIT:C41381](http://purl.obolibrary.org/obo/NCIT_C41381) (NRAS Gene Mutation) 53.57%
-- [NCIT:C36692](http://purl.obolibrary.org/obo/NCIT_C36692) (PTEN Gene Inactivation) 53.57%
-- [NCIT:C24689](http://purl.obolibrary.org/obo/NCIT_C24689) (PPARG Gene) 53.57%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C21571](http://purl.obolibrary.org/obo/NCIT_C21571) (RARA Gene))) 53.57%
-- Thing 52.43%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) 38.93%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C36972](http://purl.obolibrary.org/obo/NCIT_C36972) (Monovacuolated Lipoblast))) 38.93%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C36966](http://purl.obolibrary.org/obo/NCIT_C36966) (Malignant Glomus Cell))) 38.93%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C36959](http://purl.obolibrary.org/obo/NCIT_C36959) (Neoplastic Fibroblast-Like Cell))) 38.93%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C36957](http://purl.obolibrary.org/obo/NCIT_C36957) (Neoplastic Spindle-Shaped Myofibroblast))) 38.93%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C36953](http://purl.obolibrary.org/obo/NCIT_C36953) (Bizarre Cell with Evidence of Skeletal Muscle Differentiation))) 38.93%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C36951](http://purl.obolibrary.org/obo/NCIT_C36951) (Round Cell with Primitive Myoblastic Differentiation))) 38.93%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C36944](http://purl.obolibrary.org/obo/NCIT_C36944) (Malignant Small Undifferentiated Cell))) 38.93%
+- [NCIT:C46007](http://purl.obolibrary.org/obo/NCIT_C46007) (PPAR-gamma Rearrangement) 53.33%
+- [NCIT:C45934](http://purl.obolibrary.org/obo/NCIT_C45934) (HRAS Gene Mutation) 53.33%
+- [NCIT:C41381](http://purl.obolibrary.org/obo/NCIT_C41381) (NRAS Gene Mutation) 53.33%
+- [NCIT:C36692](http://purl.obolibrary.org/obo/NCIT_C36692) (PTEN Gene Inactivation) 53.33%
+- [NCIT:C24689](http://purl.obolibrary.org/obo/NCIT_C24689) (PPARG Gene) 53.33%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C21571](http://purl.obolibrary.org/obo/NCIT_C21571) (RARA Gene))) 53.33%
+- Thing 53.15%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) 38.69%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C39834](http://purl.obolibrary.org/obo/NCIT_C39834) (Bladder Squamous Papilloma))) 38.69%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C39833](http://purl.obolibrary.org/obo/NCIT_C39833) (Schistosoma Hematobium-Related Bladder Verrucous Carcinoma))) 38.69%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C39829](http://purl.obolibrary.org/obo/NCIT_C39829) (Infiltrating Bladder Urothelial Carcinoma with Giant Cells))) 38.69%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C39826](http://purl.obolibrary.org/obo/NCIT_C39826) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant without Heterologous Elements))) 38.69%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C39825](http://purl.obolibrary.org/obo/NCIT_C39825) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant with Heterologous Elements))) 38.69%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C39821](http://purl.obolibrary.org/obo/NCIT_C39821) (Infiltrating Bladder Lymphoepithelioma-Like Carcinoma))) 38.69%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C39820](http://purl.obolibrary.org/obo/NCIT_C39820) (Infiltrating Bladder Urothelial Carcinoma, Microcystic Variant))) 38.69%
 
 

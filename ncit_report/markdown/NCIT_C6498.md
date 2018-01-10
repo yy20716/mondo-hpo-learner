@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C51137](http://purl.obolibrary.org/obo/NCIT_C51137) (Deep Lesion) 66.67%
-- [NCIT:C48897](http://purl.obolibrary.org/obo/NCIT_C48897) (Neoplastic Mature Adipocyte) 66.67%
-- [NCIT:C36109](http://purl.obolibrary.org/obo/NCIT_C36109) (Superficial Lesion) 66.67%
-- Thing 51.13%
-- [NCIT:C3824](http://purl.obolibrary.org/obo/NCIT_C3824) (Lesion) 42.17%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 35.85%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 35.25%
-- [NCIT:C48683](http://purl.obolibrary.org/obo/NCIT_C48683) (Neoplastic Lipocyte) 33.33%
-- [NCIT:C36887](http://purl.obolibrary.org/obo/NCIT_C36887) (Neoplastic Connective and Soft Tissue Cell) 22.26%
-- [NCIT:C36843](http://purl.obolibrary.org/obo/NCIT_C36843) (Abnormal Connective and Soft Tissue Cell) 22.09%
-- [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) 19.15%
-- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 19.03%
-- CP:0000037 0.00%
-- CP:0000035 0.00%
-- CP:0000028 0.00%
+- [UBERON:0005090](http://purl.obolibrary.org/obo/UBERON_0005090) (muscle structure) 57.14%
+- [UBERON:0001630](http://purl.obolibrary.org/obo/UBERON_0001630) (muscle organ) 57.14%
+- [UBERON:0001134](http://purl.obolibrary.org/obo/UBERON_0001134) (skeletal muscle tissue) 57.14%
+- Thing 52.15%
+- [UBERON:0002036](http://purl.obolibrary.org/obo/UBERON_0002036) (striated muscle tissue) 42.50%
+- [UBERON:0002036](http://purl.obolibrary.org/obo/UBERON_0002036) (striated muscle tissue) and (not ([NCIT:C36358](http://purl.obolibrary.org/obo/NCIT_C36358) (t(5;14)(q31.1;q32.3)))) 42.50%
+- [UBERON:0002036](http://purl.obolibrary.org/obo/UBERON_0002036) (striated muscle tissue) and (not ([NCIT:C36357](http://purl.obolibrary.org/obo/NCIT_C36357) (t(14;19)(q32;q13.1)))) 42.50%
+- [UBERON:0002036](http://purl.obolibrary.org/obo/UBERON_0002036) (striated muscle tissue) and (not ([NCIT:C36356](http://purl.obolibrary.org/obo/NCIT_C36356) (t(14;14)(q11;q32)))) 42.50%
+- [UBERON:0002036](http://purl.obolibrary.org/obo/UBERON_0002036) (striated muscle tissue) and (not ([NCIT:C36354](http://purl.obolibrary.org/obo/NCIT_C36354) (t(3;14)(q27;q32)))) 42.50%
+- [UBERON:0002036](http://purl.obolibrary.org/obo/UBERON_0002036) (striated muscle tissue) and (not ([NCIT:C36353](http://purl.obolibrary.org/obo/NCIT_C36353) (t(7;10)(q34;q24)))) 42.50%
+- [UBERON:0002036](http://purl.obolibrary.org/obo/UBERON_0002036) (striated muscle tissue) and (not ([NCIT:C36352](http://purl.obolibrary.org/obo/NCIT_C36352) (t(10;14)(q24;q11)))) 42.50%
+- [UBERON:0002036](http://purl.obolibrary.org/obo/UBERON_0002036) (striated muscle tissue) and (not ([NCIT:C36351](http://purl.obolibrary.org/obo/NCIT_C36351) (t(11;14)(p13;q11)))) 42.50%
+- [UBERON:0002036](http://purl.obolibrary.org/obo/UBERON_0002036) (striated muscle tissue) and (not ([NCIT:C36350](http://purl.obolibrary.org/obo/NCIT_C36350) (t(11;14)(p15;q11)))) 42.50%
+- [UBERON:0002036](http://purl.obolibrary.org/obo/UBERON_0002036) (striated muscle tissue) and (not ([NCIT:C36349](http://purl.obolibrary.org/obo/NCIT_C36349) (t(7;9)(q34;q34.3)))) 42.50%
+- [UBERON:0002036](http://purl.obolibrary.org/obo/UBERON_0002036) (striated muscle tissue) and (not ([NCIT:C36348](http://purl.obolibrary.org/obo/NCIT_C36348) (t(1;14)(p32;q11)))) 42.50%
 
 

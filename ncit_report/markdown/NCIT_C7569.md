@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0003846](http://purl.obolibrary.org/obo/UBERON_0003846) (thymus epithelium) 58.33%
-- [NCIT:C36497](http://purl.obolibrary.org/obo/NCIT_C36497) (Loss of Chromosome 13q) 58.33%
-- Thing 51.59%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) 43.69%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C136616](http://purl.obolibrary.org/obo/NCIT_C136616) (Stage II Bone Cancer AJCC v8))) 43.69%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C136613](http://purl.obolibrary.org/obo/NCIT_C136613) (Stage I Bone Cancer AJCC v8))) 43.69%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C136496](http://purl.obolibrary.org/obo/NCIT_C136496) (Small Cell Lung Carcinoma by AJCC v7 Stage))) 43.69%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C136489](http://purl.obolibrary.org/obo/NCIT_C136489) (Refractory Erdheim-Chester Disease))) 43.69%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C136478](http://purl.obolibrary.org/obo/NCIT_C136478) (Stage III Lung Cancer AJCC v8))) 43.69%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C136475](http://purl.obolibrary.org/obo/NCIT_C136475) (Stage II Lung Cancer AJCC v8))) 43.69%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C136470](http://purl.obolibrary.org/obo/NCIT_C136470) (Stage I Lung Cancer AJCC v8))) 43.69%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C136469](http://purl.obolibrary.org/obo/NCIT_C136469) (Stage 0 Lung Cancer AJCC v8))) 43.69%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C136410](http://purl.obolibrary.org/obo/NCIT_C136410) (Malignant Peritoneal Germ Cell Tumor))) 43.69%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C136406](http://purl.obolibrary.org/obo/NCIT_C136406) (Stage IV Pleural Malignant Mesothelioma AJCC v8))) 43.69%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([NCIT:C136403](http://purl.obolibrary.org/obo/NCIT_C136403) (Stage III Pleural Malignant Mesothelioma AJCC v8))) 43.69%
+- Thing 54.07%
+- [NCIT:C45723](http://purl.obolibrary.org/obo/NCIT_C45723) (Thymic Epithelial Stem Cell) 52.00%
+- [NCIT:C43422](http://purl.obolibrary.org/obo/NCIT_C43422) (Epithelial Stem Cell) 52.00%
+- [NCIT:C36515](http://purl.obolibrary.org/obo/NCIT_C36515) (Loss of Chromosome 16q) 52.00%
+- [NCIT:C36504](http://purl.obolibrary.org/obo/NCIT_C36504) (Loss of Chromosome 6) 52.00%
+- [NCIT:C36502](http://purl.obolibrary.org/obo/NCIT_C36502) (Loss of Chromosome 3p) 52.00%
+- [NCIT:C36499](http://purl.obolibrary.org/obo/NCIT_C36499) (Loss of Chromosome 17p) 52.00%
+- [NCIT:C36497](http://purl.obolibrary.org/obo/NCIT_C36497) (Loss of Chromosome 13q) 52.00%
+- [NCIT:C36484](http://purl.obolibrary.org/obo/NCIT_C36484) (Gain of Chromosome 17q) 52.00%
+- [NCIT:C36482](http://purl.obolibrary.org/obo/NCIT_C36482) (Gain of Chromosome 1q) 52.00%
+- [NCIT:C36467](http://purl.obolibrary.org/obo/NCIT_C36467) (Gain of Chromosome 18) 52.00%
+- [CL:0002293](http://purl.obolibrary.org/obo/CL_0002293) (epithelial cell of thymus) and [NCIT:C43422](http://purl.obolibrary.org/obo/NCIT_C43422) (Epithelial Stem Cell) 52.00%
+- [CL:0002293](http://purl.obolibrary.org/obo/CL_0002293) (epithelial cell of thymus) and [CL:0011115](http://purl.obolibrary.org/obo/CL_0011115) (precursor cell) 52.00%
+- [CL:0000034](http://purl.obolibrary.org/obo/CL_0000034) (stem cell) and [CL:0002293](http://purl.obolibrary.org/obo/CL_0002293) (epithelial cell of thymus) 52.00%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) and [CL:0002293](http://purl.obolibrary.org/obo/CL_0002293) (epithelial cell of thymus) 52.00%
 
 

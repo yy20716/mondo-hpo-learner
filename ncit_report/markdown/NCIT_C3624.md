@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0000966](http://purl.obolibrary.org/obo/UBERON_0000966) (retina) 75.00%
-- [UBERON:0004121](http://purl.obolibrary.org/obo/UBERON_0004121) (ectoderm-derived structure) and [UBERON:0005388](http://purl.obolibrary.org/obo/UBERON_0005388) (photoreceptor array) 75.00%
-- [UBERON:0005388](http://purl.obolibrary.org/obo/UBERON_0005388) (photoreceptor array) 60.36%
-- [UBERON:0005388](http://purl.obolibrary.org/obo/UBERON_0005388) (photoreceptor array) and (not ([CHEBI:22868](http://purl.obolibrary.org/obo/CHEBI_22868) (bile salt))) 60.36%
-- [UBERON:0005388](http://purl.obolibrary.org/obo/UBERON_0005388) (photoreceptor array) and (not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion))) 60.36%
-- [UBERON:0005388](http://purl.obolibrary.org/obo/UBERON_0005388) (photoreceptor array) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 60.36%
-- [UBERON:0005388](http://purl.obolibrary.org/obo/UBERON_0005388) (photoreceptor array) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 60.36%
-- [UBERON:0005388](http://purl.obolibrary.org/obo/UBERON_0005388) (photoreceptor array) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 60.36%
-- [UBERON:0005388](http://purl.obolibrary.org/obo/UBERON_0005388) (photoreceptor array) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 60.36%
-- [UBERON:0005388](http://purl.obolibrary.org/obo/UBERON_0005388) (photoreceptor array) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 60.36%
-- [UBERON:0005388](http://purl.obolibrary.org/obo/UBERON_0005388) (photoreceptor array) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 60.36%
-- [UBERON:0005388](http://purl.obolibrary.org/obo/UBERON_0005388) (photoreceptor array) and (not (CARO:0010000)) 60.36%
-- [UBERON:0005388](http://purl.obolibrary.org/obo/UBERON_0005388) (photoreceptor array) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 60.36%
-- [UBERON:0005388](http://purl.obolibrary.org/obo/UBERON_0005388) (photoreceptor array) and (not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null))) 60.36%
-- Thing 50.92%
+- [UBERON:0005388](http://purl.obolibrary.org/obo/UBERON_0005388) (photoreceptor array) 66.67%
+- [UBERON:0000966](http://purl.obolibrary.org/obo/UBERON_0000966) (retina) 66.67%
+- [NCIT:C36328](http://purl.obolibrary.org/obo/NCIT_C36328) (RB1 Gene Inactivation) 66.67%
+- Thing 51.41%
+- [NCIT:C36334](http://purl.obolibrary.org/obo/NCIT_C36334) (Tumor-Suppressor Gene Inactivation) 27.58%
+- [NCIT:C36327](http://purl.obolibrary.org/obo/NCIT_C36327) (Gene Abnormality) 20.79%
+- [NCIT:C36391](http://purl.obolibrary.org/obo/NCIT_C36391) (Molecular Genetic Variation) 20.30%
+- [NCIT:C97926](http://purl.obolibrary.org/obo/NCIT_C97926) (Molecular Sequence Variation) 20.20%
+- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) 19.90%
+- [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) 19.15%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 19.04%
+- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 19.03%
+- [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 18.88%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 18.79%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 18.77%
 
 

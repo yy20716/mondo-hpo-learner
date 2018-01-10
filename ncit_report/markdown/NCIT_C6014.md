@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C54282](http://purl.obolibrary.org/obo/NCIT_C54282) (Rhinorrhea) 60.00%
-- [NCIT:C26766](http://purl.obolibrary.org/obo/NCIT_C26766) (Epistaxis) 60.00%
-- Thing 51.45%
-- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) 45.36%
-- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C36667](http://purl.obolibrary.org/obo/NCIT_C36667) (Loss of Chromosome 4q))) 45.36%
-- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C36666](http://purl.obolibrary.org/obo/NCIT_C36666) (Fibroblast Growth Factor 1 Overexpression))) 45.36%
-- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C36665](http://purl.obolibrary.org/obo/NCIT_C36665) (KRAS Gene Amplification))) 45.36%
-- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C36664](http://purl.obolibrary.org/obo/NCIT_C36664) (Aberrant DNA Methylation))) 45.36%
-- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C36663](http://purl.obolibrary.org/obo/NCIT_C36663) (Fibroblast Growth Factor 2 Overexpression))) 45.36%
-- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C36662](http://purl.obolibrary.org/obo/NCIT_C36662) (Transforming Growth Factor-Beta Overexpression))) 45.36%
-- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C36660](http://purl.obolibrary.org/obo/NCIT_C36660) (Monoclonal Hepatocyte Population Present))) 45.36%
-- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C36659](http://purl.obolibrary.org/obo/NCIT_C36659) (CTNNB1 Gene Mutation))) 45.36%
-- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C36658](http://purl.obolibrary.org/obo/NCIT_C36658) (Gain of Chromosome Xq))) 45.36%
-- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C36657](http://purl.obolibrary.org/obo/NCIT_C36657) (Polysomy 17))) 45.36%
-- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C36656](http://purl.obolibrary.org/obo/NCIT_C36656) (Polysomy 10))) 45.36%
+- [NCIT:C54201](http://purl.obolibrary.org/obo/NCIT_C54201) (Exophytic Papillary Lesion) 55.56%
+- [NCIT:C45978](http://purl.obolibrary.org/obo/NCIT_C45978) (Fungating Mass) 55.56%
+- [NCIT:C26766](http://purl.obolibrary.org/obo/NCIT_C26766) (Epistaxis) 55.56%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C122604](http://purl.obolibrary.org/obo/NCIT_C122604) (Infantile Lesion))) 55.56%
+- Thing 52.44%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) 40.91%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39810](http://purl.obolibrary.org/obo/NCIT_C39810) (Type 2 Renal Papillary Adenoma))) 40.91%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39809](http://purl.obolibrary.org/obo/NCIT_C39809) (Type 1 Renal Papillary Adenoma))) 40.91%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39808](http://purl.obolibrary.org/obo/NCIT_C39808) (Asymptomatic Mass))) 40.91%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39807](http://purl.obolibrary.org/obo/NCIT_C39807) (Mucinous Tubular and Spindle Cell Carcinoma of the Kidney))) 40.91%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39806](http://purl.obolibrary.org/obo/NCIT_C39806) (NONO-TFE3 Fusion Protein Expression))) 40.91%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39805](http://purl.obolibrary.org/obo/NCIT_C39805) (PSF-TFE3 Fusion Protein Expression))) 40.91%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39803](http://purl.obolibrary.org/obo/NCIT_C39803) (PRCC-TFE3 Fusion Protein Expression))) 40.91%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39802](http://purl.obolibrary.org/obo/NCIT_C39802) (Renal Cell Carcinoma Associated with inv(X)(p11;q12)))) 40.91%
+- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39801](http://purl.obolibrary.org/obo/NCIT_C39801) (inv(X)(p11;q12)))) 40.91%
 
 

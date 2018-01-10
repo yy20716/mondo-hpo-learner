@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C53404](http://purl.obolibrary.org/obo/NCIT_C53404) (Malignant Epithelioid Endothelial Cell))) 75.00%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C48787](http://purl.obolibrary.org/obo/NCIT_C48787) (Malignant Connective and Soft Tissue Cell))) 75.00%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C47834](http://purl.obolibrary.org/obo/NCIT_C47834) (Malignant Endothelial Cell))) 75.00%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell))) 75.00%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) 60.36%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([CHEBI:23019](http://purl.obolibrary.org/obo/CHEBI_23019) (carbonyl group))) 60.36%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([CHEBI:23004](http://purl.obolibrary.org/obo/CHEBI_23004) (carbamoyl group))) 60.36%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([CHEBI:22868](http://purl.obolibrary.org/obo/CHEBI_22868) (bile salt))) 60.36%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion))) 60.36%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 60.36%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 60.36%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 60.36%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 60.36%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 60.36%
-- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 60.36%
+- [NCIT:C36180](http://purl.obolibrary.org/obo/NCIT_C36180) (Multifocal Lesion) 56.25%
+- Thing 52.30%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 48.46%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 47.34%
+- [NCIT:C48615](http://purl.obolibrary.org/obo/NCIT_C48615) (Lesion by Focality) 41.61%
+- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) 41.61%
+- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) and (not ([NCIT:C39825](http://purl.obolibrary.org/obo/NCIT_C39825) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant with Heterologous Elements))) 41.61%
+- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) and (not ([NCIT:C39821](http://purl.obolibrary.org/obo/NCIT_C39821) (Infiltrating Bladder Lymphoepithelioma-Like Carcinoma))) 41.61%
+- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) and (not ([NCIT:C39820](http://purl.obolibrary.org/obo/NCIT_C39820) (Infiltrating Bladder Urothelial Carcinoma, Microcystic Variant))) 41.61%
+- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) and (not ([NCIT:C39819](http://purl.obolibrary.org/obo/NCIT_C39819) (Infiltrating Bladder Urothelial Carcinoma, Nested Variant))) 41.61%
+- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) and (not ([NCIT:C39818](http://purl.obolibrary.org/obo/NCIT_C39818) (Infiltrating Bladder Urothelial Carcinoma with Trophoblastic Differentiation))) 41.61%
+- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) and (not ([NCIT:C39817](http://purl.obolibrary.org/obo/NCIT_C39817) (Infiltrating Bladder Urothelial Carcinoma with Glandular Differentiation))) 41.61%
+- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) and (not ([NCIT:C39816](http://purl.obolibrary.org/obo/NCIT_C39816) (Infiltrating Bladder Urothelial Carcinoma with Squamous Differentiation))) 41.61%
+- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) and (not ([NCIT:C39815](http://purl.obolibrary.org/obo/NCIT_C39815) (Cellular Congenital Mesoblastic Nephroma))) 41.61%
+- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) and (not ([NCIT:C39814](http://purl.obolibrary.org/obo/NCIT_C39814) (Classic Congenital Mesoblastic Nephroma))) 41.61%
 
 

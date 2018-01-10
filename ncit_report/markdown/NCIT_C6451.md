@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0003728](http://purl.obolibrary.org/obo/UBERON_0003728) (mediastinum) 66.67%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([UBERON:0009114](http://purl.obolibrary.org/obo/UBERON_0009114) (cervical thymus))) 66.67%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) 52.02%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 52.02%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 52.02%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 52.02%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 52.02%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 52.02%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 52.02%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not (CARO:0010000)) 52.02%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 52.02%
-- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) and (not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null))) 52.02%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 51.96%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 51.78%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 51.77%
+- [UBERON:0003728](http://purl.obolibrary.org/obo/UBERON_0003728) (mediastinum) 53.33%
+- [UBERON:0002370](http://purl.obolibrary.org/obo/UBERON_0002370) (thymus) 53.33%
+- [NCIT:C45212](http://purl.obolibrary.org/obo/NCIT_C45212) (PDCD1LG2 Gene Overexpression) 53.33%
+- [NCIT:C38329](http://purl.obolibrary.org/obo/NCIT_C38329) (Thymic B-Lymphocyte) 53.33%
+- [NCIT:C36442](http://purl.obolibrary.org/obo/NCIT_C36442) (Clonal BCL2 Gene Rearrangement) 53.33%
+- [NCIT:C13225](http://purl.obolibrary.org/obo/NCIT_C13225) (Chromosome 9) 53.33%
+- [UBERON:0004177](http://purl.obolibrary.org/obo/UBERON_0004177) (hemopoietic organ) and [UBERON:0005058](http://purl.obolibrary.org/obo/UBERON_0005058) (hemolymphoid system gland) 53.33%
+- [UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure) and [UBERON:0004177](http://purl.obolibrary.org/obo/UBERON_0004177) (hemopoietic organ) 53.33%
+- [UBERON:0002530](http://purl.obolibrary.org/obo/UBERON_0002530) (gland) and [UBERON:0004177](http://purl.obolibrary.org/obo/UBERON_0004177) (hemopoietic organ) 53.33%
+- [UBERON:0002368](http://purl.obolibrary.org/obo/UBERON_0002368) (endocrine gland) and [UBERON:0004177](http://purl.obolibrary.org/obo/UBERON_0004177) (hemopoietic organ) 53.33%
+- [UBERON:0000077](http://purl.obolibrary.org/obo/UBERON_0000077) (mixed endoderm/mesoderm-derived structure) and [UBERON:0004177](http://purl.obolibrary.org/obo/UBERON_0004177) (hemopoietic organ) 53.33%
+- [NCIT:C132019](http://purl.obolibrary.org/obo/NCIT_C132019) (BCL2 Gene Rearrangement) and [NCIT:C36333](http://purl.obolibrary.org/obo/NCIT_C36333) (Clonal Gene Rearrangement) 53.33%
+- [UBERON:0004177](http://purl.obolibrary.org/obo/UBERON_0004177) (hemopoietic organ) and [UBERON:0005057](http://purl.obolibrary.org/obo/UBERON_0005057) (immune organ) and [UBERON:0005058](http://purl.obolibrary.org/obo/UBERON_0005058) (hemolymphoid system gland) 53.33%
+- [UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure) and [UBERON:0004177](http://purl.obolibrary.org/obo/UBERON_0004177) (hemopoietic organ) and [UBERON:0005057](http://purl.obolibrary.org/obo/UBERON_0005057) (immune organ) 53.33%
+- [UBERON:0002530](http://purl.obolibrary.org/obo/UBERON_0002530) (gland) and [UBERON:0004177](http://purl.obolibrary.org/obo/UBERON_0004177) (hemopoietic organ) and [UBERON:0005057](http://purl.obolibrary.org/obo/UBERON_0005057) (immune organ) 53.33%
 
 

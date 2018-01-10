@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C118376](http://purl.obolibrary.org/obo/NCIT_C118376) (FGF Gene Amplification) 57.69%
-- [NCIT:C41380](http://purl.obolibrary.org/obo/NCIT_C41380) (FGF6 Gene Amplification) 53.85%
-- [NCIT:C41379](http://purl.obolibrary.org/obo/NCIT_C41379) (FGF4 Gene Amplification) 53.85%
-- [NCIT:C39629](http://purl.obolibrary.org/obo/NCIT_C39629) (CDKN2A Gene Inactivation) 53.85%
-- [NCIT:C37189](http://purl.obolibrary.org/obo/NCIT_C37189) (del(17q25)) 53.85%
-- [NCIT:C36704](http://purl.obolibrary.org/obo/NCIT_C36704) (FHIT Gene Inactivation) 53.85%
-- [NCIT:C36652](http://purl.obolibrary.org/obo/NCIT_C36652) (CCND1 Gene Amplification) 53.85%
-- [NCIT:C36649](http://purl.obolibrary.org/obo/NCIT_C36649) (EGFR Gene Amplification) 53.85%
-- [NCIT:C36641](http://purl.obolibrary.org/obo/NCIT_C36641) (MYC Gene Amplification) 53.85%
-- [NCIT:C36329](http://purl.obolibrary.org/obo/NCIT_C36329) (TP53 Gene Inactivation) 53.85%
-- [NCIT:C32542](http://purl.obolibrary.org/obo/NCIT_C32542) (Esophageal Squamous Cell) 53.85%
-- [NCIT:C17359](http://purl.obolibrary.org/obo/NCIT_C17359) (TP53 Gene) 53.85%
-- Thing 52.34%
-- [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 45.46%
-- [NCIT:C45581](http://purl.obolibrary.org/obo/NCIT_C45581) (Gene Amplification Abnormality) 44.88%
+- [NCIT:C118376](http://purl.obolibrary.org/obo/NCIT_C118376) (FGF Gene Amplification) 55.00%
+- Thing 53.64%
+- [NCIT:C41380](http://purl.obolibrary.org/obo/NCIT_C41380) (FGF6 Gene Amplification) 52.50%
+- [NCIT:C41379](http://purl.obolibrary.org/obo/NCIT_C41379) (FGF4 Gene Amplification) 52.50%
+- [NCIT:C40560](http://purl.obolibrary.org/obo/NCIT_C40560) (Exophytic Polypoid Lesion) 52.50%
+- [NCIT:C39629](http://purl.obolibrary.org/obo/NCIT_C39629) (CDKN2A Gene Inactivation) 52.50%
+- [NCIT:C37189](http://purl.obolibrary.org/obo/NCIT_C37189) (del(17q25)) 52.50%
+- [NCIT:C36704](http://purl.obolibrary.org/obo/NCIT_C36704) (FHIT Gene Inactivation) 52.50%
+- [NCIT:C36652](http://purl.obolibrary.org/obo/NCIT_C36652) (CCND1 Gene Amplification) 52.50%
+- [NCIT:C36649](http://purl.obolibrary.org/obo/NCIT_C36649) (EGFR Gene Amplification) 52.50%
+- [NCIT:C36641](http://purl.obolibrary.org/obo/NCIT_C36641) (MYC Gene Amplification) 52.50%
+- [NCIT:C36329](http://purl.obolibrary.org/obo/NCIT_C36329) (TP53 Gene Inactivation) 52.50%
+- [NCIT:C36133](http://purl.obolibrary.org/obo/NCIT_C36133) (Well Differentiated Lesion) 52.50%
+- [NCIT:C36132](http://purl.obolibrary.org/obo/NCIT_C36132) (Poorly Differentiated Lesion) 52.50%
+- [NCIT:C36131](http://purl.obolibrary.org/obo/NCIT_C36131) (Moderately Differentiated Lesion) 52.50%
 
 
