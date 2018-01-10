@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C39690](http://purl.obolibrary.org/obo/NCIT_C39690) (Papular Lesion) 53.33%
-- [NCIT:C39624](http://purl.obolibrary.org/obo/NCIT_C39624) (Skin Plaque) 53.33%
-- [NCIT:C38328](http://purl.obolibrary.org/obo/NCIT_C38328) (Unfavorable Clinical Outcome) 53.33%
-- [NCIT:C36156](http://purl.obolibrary.org/obo/NCIT_C36156) (Favorable Clinical Outcome) 53.33%
-- [NCIT:C3373](http://purl.obolibrary.org/obo/NCIT_C3373) (Skin Nodule) 53.33%
-- [NCIT:C3327](http://purl.obolibrary.org/obo/NCIT_C3327) (Skin Discoloration) 53.33%
-- [NCIT:C26901](http://purl.obolibrary.org/obo/NCIT_C26901) (Erythema) 53.33%
-- [NCIT:C36281](http://purl.obolibrary.org/obo/NCIT_C36281) (Integumentary System Finding) and [NCIT:C5036](http://purl.obolibrary.org/obo/NCIT_C5036) (Integumentary System Signs and Symptoms) 53.33%
-- [NCIT:C36278](http://purl.obolibrary.org/obo/NCIT_C36278) (Finding by Site or System) and [NCIT:C5036](http://purl.obolibrary.org/obo/NCIT_C5036) (Integumentary System Signs and Symptoms) 53.33%
-- Thing 53.10%
-- [NCIT:C5036](http://purl.obolibrary.org/obo/NCIT_C5036) (Integumentary System Signs and Symptoms) 42.20%
-- [NCIT:C41425](http://purl.obolibrary.org/obo/NCIT_C41425) (Nodular Lesion) 38.69%
-- [NCIT:C41425](http://purl.obolibrary.org/obo/NCIT_C41425) (Nodular Lesion) and (not ([NCIT:C39622](http://purl.obolibrary.org/obo/NCIT_C39622) (Scaly Skin Eruption))) 38.69%
-- [NCIT:C41425](http://purl.obolibrary.org/obo/NCIT_C41425) (Nodular Lesion) and (not ([NCIT:C39620](http://purl.obolibrary.org/obo/NCIT_C39620) (Dermatopathic Lymphadenopathy))) 38.69%
-- [NCIT:C41425](http://purl.obolibrary.org/obo/NCIT_C41425) (Nodular Lesion) and (not ([NCIT:C39618](http://purl.obolibrary.org/obo/NCIT_C39618) (Subcutaneous Nodule))) 38.69%
+- [UBERON:0002097](http://purl.obolibrary.org/obo/UBERON_0002097) (skin of body) 66.67%
+- [NCIT:C3373](http://purl.obolibrary.org/obo/NCIT_C3373) (Skin Nodule) 66.67%
+- [NCIT:C3327](http://purl.obolibrary.org/obo/NCIT_C3327) (Skin Discoloration) 66.67%
+- [NCIT:C26901](http://purl.obolibrary.org/obo/NCIT_C26901) (Erythema) 66.67%
+- [NCIT:C5036](http://purl.obolibrary.org/obo/NCIT_C5036) (Integumentary System Signs and Symptoms) 53.75%
+- Thing 51.13%
+- [NCIT:C100104](http://purl.obolibrary.org/obo/NCIT_C100104) (Sign or Symptom) 41.61%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 35.85%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 35.25%
+- [NCIT:C36281](http://purl.obolibrary.org/obo/NCIT_C36281) (Integumentary System Finding) 33.33%
+- [NCIT:C36278](http://purl.obolibrary.org/obo/NCIT_C36278) (Finding by Site or System) 20.70%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 17.87%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 17.80%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 17.79%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 17.70%
 
 

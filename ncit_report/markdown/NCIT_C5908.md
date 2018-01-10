@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C36856](http://purl.obolibrary.org/obo/NCIT_C36856) (Mucin-Producing Adenocarcinoma Cell))) 57.89%
-- Thing 53.49%
-- [NCIT:C47812](http://purl.obolibrary.org/obo/NCIT_C47812) (Malignant Goblet-Like Mucous Cell) 52.63%
-- [NCIT:C47811](http://purl.obolibrary.org/obo/NCIT_C47811) (Malignant Cuboidal Mucous Cell) 52.63%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) 51.20%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40127](http://purl.obolibrary.org/obo/NCIT_C40127) (Fallopian Tube Leiomyoma))) 51.20%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40125](http://purl.obolibrary.org/obo/NCIT_C40125) (Fallopian Tube Adenosarcoma))) 51.20%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40124](http://purl.obolibrary.org/obo/NCIT_C40124) (Fallopian Tube Carcinosarcoma))) 51.20%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40122](http://purl.obolibrary.org/obo/NCIT_C40122) (Pelvic Pain))) 51.20%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40116](http://purl.obolibrary.org/obo/NCIT_C40116) (Fallopian Tube Metaplastic Papillary Tumor))) 51.20%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40114](http://purl.obolibrary.org/obo/NCIT_C40114) (Fallopian Tube Serous Cystadenofibroma))) 51.20%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40112](http://purl.obolibrary.org/obo/NCIT_C40112) (Fallopian Tube Papilloma))) 51.20%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40110](http://purl.obolibrary.org/obo/NCIT_C40110) (Borderline Fallopian Tube Endometrioid Tumor))) 51.20%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 51.20%
-- [NCIT:C54219](http://purl.obolibrary.org/obo/NCIT_C54219) (Mucin-Producing Malignant Epithelial Cell) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 51.20%
+- [NCIT:C99741](http://purl.obolibrary.org/obo/NCIT_C99741) (CRTC1/MAML2 Fusion Gene) 66.67%
+- [NCIT:C54218](http://purl.obolibrary.org/obo/NCIT_C54218) (MECT1-MAML2 Fusion Protein Expression) 66.67%
+- [NCIT:C54217](http://purl.obolibrary.org/obo/NCIT_C54217) (t(11;19)(q14-21;p12-13)) 66.67%
+- Thing 51.13%
+- [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 36.46%
+- [NCIT:C36346](http://purl.obolibrary.org/obo/NCIT_C36346) (Fusion Protein Expression) 23.88%
+- [NCIT:C36345](http://purl.obolibrary.org/obo/NCIT_C36345) (Protein Deregulation) 23.29%
+- [NCIT:C36336](http://purl.obolibrary.org/obo/NCIT_C36336) (Deregulation of Protein and Messenger RNA Expression) 22.69%
+- [NCIT:C28510](http://purl.obolibrary.org/obo/NCIT_C28510) (Fusion Gene) 22.09%
+- [NCIT:C3420](http://purl.obolibrary.org/obo/NCIT_C3420) (Chromosomal Translocation) 21.72%
+- [NCIT:C36541](http://purl.obolibrary.org/obo/NCIT_C36541) (Chromosomal Rearrangement) 20.82%
+- [NCIT:C36327](http://purl.obolibrary.org/obo/NCIT_C36327) (Gene Abnormality) 20.79%
+- [NCIT:C36391](http://purl.obolibrary.org/obo/NCIT_C36391) (Molecular Genetic Variation) 20.30%
+- [NCIT:C97926](http://purl.obolibrary.org/obo/NCIT_C97926) (Molecular Sequence Variation) 20.20%
+- [NCIT:C16612](http://purl.obolibrary.org/obo/NCIT_C16612) (Gene) 19.66%
 
 

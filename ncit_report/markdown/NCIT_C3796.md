@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 55.06%
-- [NCIT:C28082](http://purl.obolibrary.org/obo/NCIT_C28082) (Grade 4) 51.25%
-- [NCIT:C14158](http://purl.obolibrary.org/obo/NCIT_C14158) (High Grade) 51.25%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C14161](http://purl.obolibrary.org/obo/NCIT_C14161) (Low Grade))) 51.25%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C37136](http://purl.obolibrary.org/obo/NCIT_C37136) (Anaplastic Astrocyte))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C37135](http://purl.obolibrary.org/obo/NCIT_C37135) (Neoplastic Astrocyte with Few Flaccid Processes))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C37132](http://purl.obolibrary.org/obo/NCIT_C37132) (Gemistocytic Neoplastic Astrocyte))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C37129](http://purl.obolibrary.org/obo/NCIT_C37129) (Fibrillary Neoplastic Astrocyte))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C37115](http://purl.obolibrary.org/obo/NCIT_C37115) (Serous Adenocarcinoma Cell))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C37108](http://purl.obolibrary.org/obo/NCIT_C37108) (Adenocarcinoma Spindle Cell))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C37091](http://purl.obolibrary.org/obo/NCIT_C37091) (Vacuolated Endothelial Cell))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C37085](http://purl.obolibrary.org/obo/NCIT_C37085) (Undifferentiated Carcinoma Cell))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C37084](http://purl.obolibrary.org/obo/NCIT_C37084) (Hyperchromatic Spindle Cell))) 36.61%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C37078](http://purl.obolibrary.org/obo/NCIT_C37078) (Pseudo-Gaucher Cell))) 36.61%
+- [NCIT:C36681](http://purl.obolibrary.org/obo/NCIT_C36681) (MDM2 Gene Amplification) 57.14%
+- [NCIT:C36329](http://purl.obolibrary.org/obo/NCIT_C36329) (TP53 Gene Inactivation) 57.14%
+- [NCIT:C17359](http://purl.obolibrary.org/obo/NCIT_C17359) (TP53 Gene) 57.14%
+- Thing 51.72%
+- [NCIT:C41471](http://purl.obolibrary.org/obo/NCIT_C41471) (Glial Differentiation) 42.50%
+- [NCIT:C41471](http://purl.obolibrary.org/obo/NCIT_C41471) (Glial Differentiation) and (not ([NCIT:C36972](http://purl.obolibrary.org/obo/NCIT_C36972) (Monovacuolated Lipoblast))) 42.50%
+- [NCIT:C41471](http://purl.obolibrary.org/obo/NCIT_C41471) (Glial Differentiation) and (not ([NCIT:C36966](http://purl.obolibrary.org/obo/NCIT_C36966) (Malignant Glomus Cell))) 42.50%
+- [NCIT:C41471](http://purl.obolibrary.org/obo/NCIT_C41471) (Glial Differentiation) and (not ([NCIT:C36959](http://purl.obolibrary.org/obo/NCIT_C36959) (Neoplastic Fibroblast-Like Cell))) 42.50%
+- [NCIT:C41471](http://purl.obolibrary.org/obo/NCIT_C41471) (Glial Differentiation) and (not ([NCIT:C36957](http://purl.obolibrary.org/obo/NCIT_C36957) (Neoplastic Spindle-Shaped Myofibroblast))) 42.50%
+- [NCIT:C41471](http://purl.obolibrary.org/obo/NCIT_C41471) (Glial Differentiation) and (not ([NCIT:C36953](http://purl.obolibrary.org/obo/NCIT_C36953) (Bizarre Cell with Evidence of Skeletal Muscle Differentiation))) 42.50%
+- [NCIT:C41471](http://purl.obolibrary.org/obo/NCIT_C41471) (Glial Differentiation) and (not ([NCIT:C36951](http://purl.obolibrary.org/obo/NCIT_C36951) (Round Cell with Primitive Myoblastic Differentiation))) 42.50%
+- [NCIT:C41471](http://purl.obolibrary.org/obo/NCIT_C41471) (Glial Differentiation) and (not ([NCIT:C36944](http://purl.obolibrary.org/obo/NCIT_C36944) (Malignant Small Undifferentiated Cell))) 42.50%
+- [NCIT:C41471](http://purl.obolibrary.org/obo/NCIT_C41471) (Glial Differentiation) and (not ([NCIT:C36923](http://purl.obolibrary.org/obo/NCIT_C36923) (Neoplastic Endocrine Null Cell))) 42.50%
+- [NCIT:C41471](http://purl.obolibrary.org/obo/NCIT_C41471) (Glial Differentiation) and (not ([NCIT:C36921](http://purl.obolibrary.org/obo/NCIT_C36921) (Neoplastic Gonadotroph Cell))) 42.50%
+- [NCIT:C41471](http://purl.obolibrary.org/obo/NCIT_C41471) (Glial Differentiation) and (not ([NCIT:C36908](http://purl.obolibrary.org/obo/NCIT_C36908) (Apocrine Carcinoma Cell))) 42.50%
 
 

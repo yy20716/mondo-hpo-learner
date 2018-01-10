@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.67%
-- [NCIT:C36559](http://purl.obolibrary.org/obo/NCIT_C36559) (Gain of Chromosome 20) 51.47%
-- [NCIT:C36558](http://purl.obolibrary.org/obo/NCIT_C36558) (Gain of Chromosome 1) 51.47%
-- [NCIT:C36557](http://purl.obolibrary.org/obo/NCIT_C36557) (del(13q32-qter)) 51.47%
-- [NCIT:C36556](http://purl.obolibrary.org/obo/NCIT_C36556) (del(13q12-13)) 51.47%
-- [NCIT:C36555](http://purl.obolibrary.org/obo/NCIT_C36555) (del(8p21-pter)) 51.47%
-- [NCIT:C36554](http://purl.obolibrary.org/obo/NCIT_C36554) (del(3p21-23)) 51.47%
-- [NCIT:C36553](http://purl.obolibrary.org/obo/NCIT_C36553) (Gain of Chromosome 1q21-31) 51.47%
-- [NCIT:C36539](http://purl.obolibrary.org/obo/NCIT_C36539) (Gain of Chromosome X) 51.47%
-- [NCIT:C36466](http://purl.obolibrary.org/obo/NCIT_C36466) (Gain of Chromosome 17) 51.47%
-- [NCIT:C36465](http://purl.obolibrary.org/obo/NCIT_C36465) (Gain of Chromosome 15) 51.47%
-- [NCIT:C36457](http://purl.obolibrary.org/obo/NCIT_C36457) (Gain of Chromosome 22) 51.47%
-- [NCIT:C36456](http://purl.obolibrary.org/obo/NCIT_C36456) (Gain of Chromosome 19) 51.47%
-- [CL:0008007](http://purl.obolibrary.org/obo/CL_0008007) (visceral muscle cell) 51.47%
-- [CL:0008000](http://purl.obolibrary.org/obo/CL_0008000) (non-striated muscle cell) 51.47%
+- [UBERON:0004237](http://purl.obolibrary.org/obo/UBERON_0004237) (blood vessel smooth muscle) and (not ([UBERON:0004695](http://purl.obolibrary.org/obo/UBERON_0004695) (arterial system smooth muscle))) 75.00%
+- [UBERON:0004237](http://purl.obolibrary.org/obo/UBERON_0004237) (blood vessel smooth muscle) and (not ([UBERON:0004178](http://purl.obolibrary.org/obo/UBERON_0004178) (aorta smooth muscle tissue))) 75.00%
+- [UBERON:0004237](http://purl.obolibrary.org/obo/UBERON_0004237) (blood vessel smooth muscle) 60.36%
+- [UBERON:0004237](http://purl.obolibrary.org/obo/UBERON_0004237) (blood vessel smooth muscle) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 60.36%
+- [UBERON:0004237](http://purl.obolibrary.org/obo/UBERON_0004237) (blood vessel smooth muscle) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 60.36%
+- [UBERON:0004237](http://purl.obolibrary.org/obo/UBERON_0004237) (blood vessel smooth muscle) and (not (CARO:0010000)) 60.36%
+- [UBERON:0004237](http://purl.obolibrary.org/obo/UBERON_0004237) (blood vessel smooth muscle) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 60.36%
+- [UBERON:0004237](http://purl.obolibrary.org/obo/UBERON_0004237) (blood vessel smooth muscle) and (not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null))) 60.36%
+- [UBERON:0004120](http://purl.obolibrary.org/obo/UBERON_0004120) (mesoderm-derived structure) 53.58%
+- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 51.86%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 51.81%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 51.70%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 51.60%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 51.59%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 51.45%
 
 

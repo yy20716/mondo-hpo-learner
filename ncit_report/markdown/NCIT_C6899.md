@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 52.53%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) 40.36%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38385](http://purl.obolibrary.org/obo/NCIT_C38385) (del(7)(q11;q36)))) 40.36%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38379](http://purl.obolibrary.org/obo/NCIT_C38379) (STAT5B-RARA Fusion Protein Expression))) 40.36%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38378](http://purl.obolibrary.org/obo/NCIT_C38378) (t(17;17)(q21;q21)))) 40.36%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38377](http://purl.obolibrary.org/obo/NCIT_C38377) (Acute Myeloid Leukemia with t(17;17)(q21;q21)))) 40.36%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38373](http://purl.obolibrary.org/obo/NCIT_C38373) (RBM15-MKL1 Fusion Protein Expression))) 40.36%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38372](http://purl.obolibrary.org/obo/NCIT_C38372) (CEBPA Gene Mutation))) 40.36%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38362](http://purl.obolibrary.org/obo/NCIT_C38362) (RUNX1 Gene Mutation))) 40.36%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C3836](http://purl.obolibrary.org/obo/NCIT_C3836) (Infertility))) 40.36%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38350](http://purl.obolibrary.org/obo/NCIT_C38350) (del(4)(q12)))) 40.36%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38348](http://purl.obolibrary.org/obo/NCIT_C38348) (MSN-ALK Fusion Protein Expression))) 40.36%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38347](http://purl.obolibrary.org/obo/NCIT_C38347) (P13K-AKT Pathway Deregulation))) 40.36%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38346](http://purl.obolibrary.org/obo/NCIT_C38346) (MYC Pathway Deregulation))) 40.36%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38345](http://purl.obolibrary.org/obo/NCIT_C38345) (JUN Pathway Deregulation))) 40.36%
+- [NCIT:C35925](http://purl.obolibrary.org/obo/NCIT_C35925) (Tubular Pattern) 66.67%
+- [NCIT:C35891](http://purl.obolibrary.org/obo/NCIT_C35891) (Lobulated Growth Pattern) 66.67%
+- [NCIT:C53625](http://purl.obolibrary.org/obo/NCIT_C53625) (Spindle Cell Component Present) and (not ([NCIT:C53965](http://purl.obolibrary.org/obo/NCIT_C53965) (Spindle Cell Osteo-Fibrous Component Present))) 66.67%
+- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 54.44%
+- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 54.27%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 53.08%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 52.35%
+- [NCIT:C53625](http://purl.obolibrary.org/obo/NCIT_C53625) (Spindle Cell Component Present) 52.02%
+- [NCIT:C53625](http://purl.obolibrary.org/obo/NCIT_C53625) (Spindle Cell Component Present) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 52.02%
+- [NCIT:C53625](http://purl.obolibrary.org/obo/NCIT_C53625) (Spindle Cell Component Present) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 52.02%
+- [NCIT:C53625](http://purl.obolibrary.org/obo/NCIT_C53625) (Spindle Cell Component Present) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 52.02%
+- [NCIT:C53625](http://purl.obolibrary.org/obo/NCIT_C53625) (Spindle Cell Component Present) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 52.02%
+- [NCIT:C53625](http://purl.obolibrary.org/obo/NCIT_C53625) (Spindle Cell Component Present) and (not (CARO:0010000)) 52.02%
+- [NCIT:C53625](http://purl.obolibrary.org/obo/NCIT_C53625) (Spindle Cell Component Present) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 52.02%
+- [NCIT:C53625](http://purl.obolibrary.org/obo/NCIT_C53625) (Spindle Cell Component Present) and (not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null))) 52.02%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.58%
-- [NCIT:C36754](http://purl.obolibrary.org/obo/NCIT_C36754) (Paget Cell) 52.50%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) 37.86%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40161](http://purl.obolibrary.org/obo/NCIT_C40161) (JAZF1-SUZ12 Fusion Protein Expression))) 37.86%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40160](http://purl.obolibrary.org/obo/NCIT_C40160) (t(7;17)(p15;q21)))) 37.86%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40156](http://purl.obolibrary.org/obo/NCIT_C40156) (Endometrial Undifferentiated Carcinoma))) 37.86%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40155](http://purl.obolibrary.org/obo/NCIT_C40155) (Endometrial Small Cell Carcinoma))) 37.86%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40154](http://purl.obolibrary.org/obo/NCIT_C40154) (Endometrial Transitional Cell Carcinoma))) 37.86%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40153](http://purl.obolibrary.org/obo/NCIT_C40153) (Endometrial Mixed Adenocarcinoma))) 37.86%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40152](http://purl.obolibrary.org/obo/NCIT_C40152) (Serous Endometrial Intraepithelial Carcinoma))) 37.86%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40151](http://purl.obolibrary.org/obo/NCIT_C40151) (Grade 3 Endometrial Mucinous Adenocarcinoma))) 37.86%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40150](http://purl.obolibrary.org/obo/NCIT_C40150) (Grade 2 Endometrial Mucinous Adenocarcinoma))) 37.86%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40149](http://purl.obolibrary.org/obo/NCIT_C40149) (Grade 1 Endometrial Mucinous Adenocarcinoma))) 37.86%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40148](http://purl.obolibrary.org/obo/NCIT_C40148) (Grade 3 Endometrial Endometrioid Adenocarcinoma))) 37.86%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40147](http://purl.obolibrary.org/obo/NCIT_C40147) (Grade 2 Endometrial Endometrioid Adenocarcinoma))) 37.86%
+- [UBERON:0001245](http://purl.obolibrary.org/obo/UBERON_0001245) (anus) 75.00%
+- [NCIT:C5105](http://purl.obolibrary.org/obo/NCIT_C5105) (Colorectal Adenocarcinoma) 53.87%
+- Thing 50.92%
+- [NCIT:C2955](http://purl.obolibrary.org/obo/NCIT_C2955) (Colorectal Carcinoma) 47.36%
+- [NCIT:C96963](http://purl.obolibrary.org/obo/NCIT_C96963) (Digestive System Carcinoma) 36.18%
+- [NCIT:C2852](http://purl.obolibrary.org/obo/NCIT_C2852) (Adenocarcinoma) 31.62%
+- [NCIT:C7132](http://purl.obolibrary.org/obo/NCIT_C7132) (Glandular Cell Neoplasm) 31.02%
+- [NCIT:C2916](http://purl.obolibrary.org/obo/NCIT_C2916) (Carcinoma) 29.98%
+- [NCIT:C3709](http://purl.obolibrary.org/obo/NCIT_C3709) (Epithelial Neoplasm) 28.98%
+- [NCIT:C4741](http://purl.obolibrary.org/obo/NCIT_C4741) (Neoplasm by Morphology) 27.61%
+- [NCIT:C3263](http://purl.obolibrary.org/obo/NCIT_C3263) (Neoplasm by Site) 27.54%
+- [NCIT:C3262](http://purl.obolibrary.org/obo/NCIT_C3262) (Neoplasm) 27.47%
+- [NCIT:C27551](http://purl.obolibrary.org/obo/NCIT_C27551) (Disorder by Site) 27.27%
+- [NCIT:C2991](http://purl.obolibrary.org/obo/NCIT_C2991) (Disease or Disorder) 27.10%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 26.36%
 
 

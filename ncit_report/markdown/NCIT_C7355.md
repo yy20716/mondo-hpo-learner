@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([CL:1001428](http://purl.obolibrary.org/obo/CL_1001428) (bladder urothelial cell))) 54.35%
-- Thing 53.84%
-- [NCIT:C54557](http://purl.obolibrary.org/obo/NCIT_C54557) (Renal Pelvis Urothelial Cell) 52.17%
-- [NCIT:C12866](http://purl.obolibrary.org/obo/NCIT_C12866) (Transitional Cell) 52.17%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 52.17%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) 45.17%
-- [CL:0000244](http://purl.obolibrary.org/obo/CL_0000244) (transitional epithelial cell) 45.17%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39719](http://purl.obolibrary.org/obo/NCIT_C39719) (PDGFRalpha Protein Overexpression))) 45.17%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39718](http://purl.obolibrary.org/obo/NCIT_C39718) (PDGFRA Gene Mutation))) 45.17%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39717](http://purl.obolibrary.org/obo/NCIT_C39717) (MDM2 Gene Mutation))) 45.17%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39716](http://purl.obolibrary.org/obo/NCIT_C39716) (EGFR Protein Overexpression))) 45.17%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39715](http://purl.obolibrary.org/obo/NCIT_C39715) (CD30-Positive Neoplastic Cells Present))) 45.17%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39712](http://purl.obolibrary.org/obo/NCIT_C39712) (KIT Gene Mutation))) 45.17%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39711](http://purl.obolibrary.org/obo/NCIT_C39711) (C-KIT Tyrosine Kinase Protein Overexpression))) 45.17%
-- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and (not ([NCIT:C39709](http://purl.obolibrary.org/obo/NCIT_C39709) (Confluent Sheets of Anaplastic T-Lymphocytes Present))) 45.17%
+- [NCIT:C54557](http://purl.obolibrary.org/obo/NCIT_C54557) (Renal Pelvis Urothelial Cell) 75.00%
+- [CL:0000731](http://purl.obolibrary.org/obo/CL_0000731) (urothelial cell) and [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 75.00%
+- [CL:0000244](http://purl.obolibrary.org/obo/CL_0000244) (transitional epithelial cell) and [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 75.00%
+- [NCIT:C54557](http://purl.obolibrary.org/obo/NCIT_C54557) (Renal Pelvis Urothelial Cell) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 75.00%
+- [NCIT:C54557](http://purl.obolibrary.org/obo/NCIT_C54557) (Renal Pelvis Urothelial Cell) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 75.00%
+- [NCIT:C54557](http://purl.obolibrary.org/obo/NCIT_C54557) (Renal Pelvis Urothelial Cell) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 75.00%
+- [NCIT:C54557](http://purl.obolibrary.org/obo/NCIT_C54557) (Renal Pelvis Urothelial Cell) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 75.00%
+- [NCIT:C54557](http://purl.obolibrary.org/obo/NCIT_C54557) (Renal Pelvis Urothelial Cell) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 75.00%
+- [NCIT:C54557](http://purl.obolibrary.org/obo/NCIT_C54557) (Renal Pelvis Urothelial Cell) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 75.00%
+- [NCIT:C54557](http://purl.obolibrary.org/obo/NCIT_C54557) (Renal Pelvis Urothelial Cell) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 75.00%
+- [NCIT:C54557](http://purl.obolibrary.org/obo/NCIT_C54557) (Renal Pelvis Urothelial Cell) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 75.00%
+- [NCIT:C54557](http://purl.obolibrary.org/obo/NCIT_C54557) (Renal Pelvis Urothelial Cell) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 75.00%
+- [NCIT:C54557](http://purl.obolibrary.org/obo/NCIT_C54557) (Renal Pelvis Urothelial Cell) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 75.00%
+- [NCIT:C54557](http://purl.obolibrary.org/obo/NCIT_C54557) (Renal Pelvis Urothelial Cell) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 75.00%
+- [NCIT:C54557](http://purl.obolibrary.org/obo/NCIT_C54557) (Renal Pelvis Urothelial Cell) and (not ([UBERON:2001431](http://purl.obolibrary.org/obo/UBERON_2001431) (primitive olfactory epithelium))) 75.00%
 
 

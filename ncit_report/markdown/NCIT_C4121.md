@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 52.66%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) 39.90%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C39914](http://purl.obolibrary.org/obo/NCIT_C39914) (Gain of Chromosome 12p))) 39.90%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C3991](http://purl.obolibrary.org/obo/NCIT_C3991) (Thrombocytopenia Due to Immune Destruction))) 39.90%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C39909](http://purl.obolibrary.org/obo/NCIT_C39909) (Gain of Chromosome 18q))) 39.90%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C39907](http://purl.obolibrary.org/obo/NCIT_C39907) (Seminal Vesicle Cystadenoma))) 39.90%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C39906](http://purl.obolibrary.org/obo/NCIT_C39906) (Seminal Vesicle Adenocarcinoma))) 39.90%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C39905](http://purl.obolibrary.org/obo/NCIT_C39905) (Prostate Stromal Proliferation of Uncertain Malignant Potential))) 39.90%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C39903](http://purl.obolibrary.org/obo/NCIT_C39903) (Prostate Adenocarcinoma with Focal Neuroendocrine Differentiation))) 39.90%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C39902](http://purl.obolibrary.org/obo/NCIT_C39902) (Prostate Basal Cell Carcinoma))) 39.90%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C39901](http://purl.obolibrary.org/obo/NCIT_C39901) (Prostatic Duct Urothelial Carcinoma))) 39.90%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C39899](http://purl.obolibrary.org/obo/NCIT_C39899) (Secondary Prostate Urothelial Carcinoma))) 39.90%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C39897](http://purl.obolibrary.org/obo/NCIT_C39897) (Prostate Ductal Adenocarcinoma, Solid Pattern))) 39.90%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C39896](http://purl.obolibrary.org/obo/NCIT_C39896) (Prostate Ductal Adenocarcinoma, Papillary Pattern))) 39.90%
-- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C39895](http://purl.obolibrary.org/obo/NCIT_C39895) (Prostate Ductal Adenocarcinoma, Cribriform Pattern))) 39.90%
+- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C54208](http://purl.obolibrary.org/obo/NCIT_C54208) (Malignant Hyperchromatic Squamous Cell))) 66.67%
+- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C54207](http://purl.obolibrary.org/obo/NCIT_C54207) (Malignant Small Squamous Cell))) 66.67%
+- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C36860](http://purl.obolibrary.org/obo/NCIT_C36860) (Malignant Small Cell))) 66.67%
+- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C36795](http://purl.obolibrary.org/obo/NCIT_C36795) (Malignant Epithelial Small Cell))) 66.67%
+- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C36789](http://purl.obolibrary.org/obo/NCIT_C36789) (Dysplastic Squamous Cell))) 66.67%
+- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C36772](http://purl.obolibrary.org/obo/NCIT_C36772) (Abnormal Squamous Cell))) 66.67%
+- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C36771](http://purl.obolibrary.org/obo/NCIT_C36771) (Malignant Squamous Cell))) 66.67%
+- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([NCIT:C36760](http://purl.obolibrary.org/obo/NCIT_C36760) (Neoplastic Squamous Cell))) 66.67%
+- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) 52.02%
+- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([CHEBI:23019](http://purl.obolibrary.org/obo/CHEBI_23019) (carbonyl group))) 52.02%
+- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([CHEBI:23004](http://purl.obolibrary.org/obo/CHEBI_23004) (carbamoyl group))) 52.02%
+- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([CHEBI:22868](http://purl.obolibrary.org/obo/CHEBI_22868) (bile salt))) 52.02%
+- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion))) 52.02%
+- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 52.02%
+- [NCIT:C54245](http://purl.obolibrary.org/obo/NCIT_C54245) (Malignant Hyperchromatic Epithelial Cell) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 52.02%
 
 

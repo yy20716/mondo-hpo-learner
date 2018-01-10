@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.67%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) 37.74%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39833](http://purl.obolibrary.org/obo/NCIT_C39833) (Schistosoma Hematobium-Related Bladder Verrucous Carcinoma))) 37.74%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39829](http://purl.obolibrary.org/obo/NCIT_C39829) (Infiltrating Bladder Urothelial Carcinoma with Giant Cells))) 37.74%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39826](http://purl.obolibrary.org/obo/NCIT_C39826) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant without Heterologous Elements))) 37.74%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39825](http://purl.obolibrary.org/obo/NCIT_C39825) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant with Heterologous Elements))) 37.74%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39821](http://purl.obolibrary.org/obo/NCIT_C39821) (Infiltrating Bladder Lymphoepithelioma-Like Carcinoma))) 37.74%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39820](http://purl.obolibrary.org/obo/NCIT_C39820) (Infiltrating Bladder Urothelial Carcinoma, Microcystic Variant))) 37.74%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39819](http://purl.obolibrary.org/obo/NCIT_C39819) (Infiltrating Bladder Urothelial Carcinoma, Nested Variant))) 37.74%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39818](http://purl.obolibrary.org/obo/NCIT_C39818) (Infiltrating Bladder Urothelial Carcinoma with Trophoblastic Differentiation))) 37.74%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39817](http://purl.obolibrary.org/obo/NCIT_C39817) (Infiltrating Bladder Urothelial Carcinoma with Glandular Differentiation))) 37.74%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39816](http://purl.obolibrary.org/obo/NCIT_C39816) (Infiltrating Bladder Urothelial Carcinoma with Squamous Differentiation))) 37.74%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39815](http://purl.obolibrary.org/obo/NCIT_C39815) (Cellular Congenital Mesoblastic Nephroma))) 37.74%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39814](http://purl.obolibrary.org/obo/NCIT_C39814) (Classic Congenital Mesoblastic Nephroma))) 37.74%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39813](http://purl.obolibrary.org/obo/NCIT_C39813) (SMARCB1 Gene Inactivation))) 37.74%
+- [NCIT:C38328](http://purl.obolibrary.org/obo/NCIT_C38328) (Unfavorable Clinical Outcome) 56.25%
+- [NCIT:C37180](http://purl.obolibrary.org/obo/NCIT_C37180) (Medium-Sized Neoplastic Myeloblast with Coarse Cytoplasmic Basophilic Granules) 56.25%
+- [NCIT:C35788](http://purl.obolibrary.org/obo/NCIT_C35788) (Hypercellular Bone Marrow) 56.25%
+- Thing 51.84%
+- [NCIT:C36231](http://purl.obolibrary.org/obo/NCIT_C36231) (Myeloblasts 20 Percent or More of Bone Marrow Nucleated Cells) 41.61%
+- [NCIT:C36231](http://purl.obolibrary.org/obo/NCIT_C36231) (Myeloblasts 20 Percent or More of Bone Marrow Nucleated Cells) and (not ([NCIT:C36551](http://purl.obolibrary.org/obo/NCIT_C36551) (Gain of Chromosome 7q32))) 41.61%
+- [NCIT:C36231](http://purl.obolibrary.org/obo/NCIT_C36231) (Myeloblasts 20 Percent or More of Bone Marrow Nucleated Cells) and (not ([NCIT:C36550](http://purl.obolibrary.org/obo/NCIT_C36550) (Gain of Chromosome 7p))) 41.61%
+- [NCIT:C36231](http://purl.obolibrary.org/obo/NCIT_C36231) (Myeloblasts 20 Percent or More of Bone Marrow Nucleated Cells) and (not ([NCIT:C36549](http://purl.obolibrary.org/obo/NCIT_C36549) (Loss of Chromosome 11))) 41.61%
+- [NCIT:C36231](http://purl.obolibrary.org/obo/NCIT_C36231) (Myeloblasts 20 Percent or More of Bone Marrow Nucleated Cells) and (not ([NCIT:C36548](http://purl.obolibrary.org/obo/NCIT_C36548) (Loss of Chromosome 2q))) 41.61%
+- [NCIT:C36231](http://purl.obolibrary.org/obo/NCIT_C36231) (Myeloblasts 20 Percent or More of Bone Marrow Nucleated Cells) and (not ([NCIT:C36547](http://purl.obolibrary.org/obo/NCIT_C36547) (Loss of Chromosome 2p))) 41.61%
+- [NCIT:C36231](http://purl.obolibrary.org/obo/NCIT_C36231) (Myeloblasts 20 Percent or More of Bone Marrow Nucleated Cells) and (not ([NCIT:C36545](http://purl.obolibrary.org/obo/NCIT_C36545) (Gain of Chromosome 5q))) 41.61%
+- [NCIT:C36231](http://purl.obolibrary.org/obo/NCIT_C36231) (Myeloblasts 20 Percent or More of Bone Marrow Nucleated Cells) and (not ([NCIT:C36542](http://purl.obolibrary.org/obo/NCIT_C36542) (Loss of Chromosome 16))) 41.61%
+- [NCIT:C36231](http://purl.obolibrary.org/obo/NCIT_C36231) (Myeloblasts 20 Percent or More of Bone Marrow Nucleated Cells) and (not ([NCIT:C36540](http://purl.obolibrary.org/obo/NCIT_C36540) (Rearrangement of 8q11-13))) 41.61%
+- [NCIT:C36231](http://purl.obolibrary.org/obo/NCIT_C36231) (Myeloblasts 20 Percent or More of Bone Marrow Nucleated Cells) and (not ([NCIT:C36539](http://purl.obolibrary.org/obo/NCIT_C36539) (Gain of Chromosome X))) 41.61%
+- [NCIT:C36231](http://purl.obolibrary.org/obo/NCIT_C36231) (Myeloblasts 20 Percent or More of Bone Marrow Nucleated Cells) and (not ([NCIT:C36538](http://purl.obolibrary.org/obo/NCIT_C36538) (del(6q23)))) 41.61%
 
 

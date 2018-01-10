@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.20%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) 38.48%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 38.48%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 38.48%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 38.48%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 38.48%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 38.48%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 38.48%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 38.48%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 38.48%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 38.48%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 38.48%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40034](http://purl.obolibrary.org/obo/NCIT_C40034) (Ovarian Mucinous Adenocarcinofibroma))) 38.48%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40032](http://purl.obolibrary.org/obo/NCIT_C40032) (Ovarian Serous Cystadenofibroma))) 38.48%
-- [NCIT:C37153](http://purl.obolibrary.org/obo/NCIT_C37153) (Malignant Stromal Cell) and (not ([NCIT:C40029](http://purl.obolibrary.org/obo/NCIT_C40029) (Borderline Ovarian Serous Cystadenofibroma))) 38.48%
+- [NCIT:C54282](http://purl.obolibrary.org/obo/NCIT_C54282) (Rhinorrhea) 60.00%
+- [NCIT:C26766](http://purl.obolibrary.org/obo/NCIT_C26766) (Epistaxis) 60.00%
+- Thing 51.45%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) 45.36%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C36667](http://purl.obolibrary.org/obo/NCIT_C36667) (Loss of Chromosome 4q))) 45.36%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C36666](http://purl.obolibrary.org/obo/NCIT_C36666) (Fibroblast Growth Factor 1 Overexpression))) 45.36%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C36665](http://purl.obolibrary.org/obo/NCIT_C36665) (KRAS Gene Amplification))) 45.36%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C36664](http://purl.obolibrary.org/obo/NCIT_C36664) (Aberrant DNA Methylation))) 45.36%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C36663](http://purl.obolibrary.org/obo/NCIT_C36663) (Fibroblast Growth Factor 2 Overexpression))) 45.36%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C36662](http://purl.obolibrary.org/obo/NCIT_C36662) (Transforming Growth Factor-Beta Overexpression))) 45.36%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C36660](http://purl.obolibrary.org/obo/NCIT_C36660) (Monoclonal Hepatocyte Population Present))) 45.36%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C36659](http://purl.obolibrary.org/obo/NCIT_C36659) (CTNNB1 Gene Mutation))) 45.36%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C36658](http://purl.obolibrary.org/obo/NCIT_C36658) (Gain of Chromosome Xq))) 45.36%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C36657](http://purl.obolibrary.org/obo/NCIT_C36657) (Polysomy 17))) 45.36%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C36656](http://purl.obolibrary.org/obo/NCIT_C36656) (Polysomy 10))) 45.36%
 
 

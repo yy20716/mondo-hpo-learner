@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.00%
-- [NCIT:C43217](http://purl.obolibrary.org/obo/NCIT_C43217) (Neoplastic Erythroblast) 52.00%
-- [NCIT:C37068](http://purl.obolibrary.org/obo/NCIT_C37068) (Neoplastic Megakaryoblast) 52.00%
-- [NCIT:C12916](http://purl.obolibrary.org/obo/NCIT_C12916) (Micromegakaryocyte) 52.00%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and [NCIT:C41063](http://purl.obolibrary.org/obo/NCIT_C41063) (Neoplastic Myeloid Cell) 52.00%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and [NCIT:C37067](http://purl.obolibrary.org/obo/NCIT_C37067) (Neoplastic Myeloid Blast) 52.00%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and [NCIT:C37064](http://purl.obolibrary.org/obo/NCIT_C37064) (Neoplastic Blast) 52.00%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and [NCIT:C37060](http://purl.obolibrary.org/obo/NCIT_C37060) (Neoplastic Hematopoietic and Lymphoid Cell) 52.00%
-- [NCIT:C25553](http://purl.obolibrary.org/obo/NCIT_C25553) (Leukemic Cell) and [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) 52.00%
-- [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) and [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) 52.00%
-- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) 52.00%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C37058](http://purl.obolibrary.org/obo/NCIT_C37058) (Ring Sideroblast))) 52.00%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) 37.36%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 37.36%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 37.36%
+- [NCIT:C37068](http://purl.obolibrary.org/obo/NCIT_C37068) (Neoplastic Megakaryoblast) 54.55%
+- [NCIT:C36104](http://purl.obolibrary.org/obo/NCIT_C36104) (Aggressive Clinical Course) 54.55%
+- [NCIT:C12916](http://purl.obolibrary.org/obo/NCIT_C12916) (Micromegakaryocyte) 54.55%
+- Thing 52.16%
+- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) 39.90%
+- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C36973](http://purl.obolibrary.org/obo/NCIT_C36973) (Multivacuolated Lipoblast))) 39.90%
+- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C36972](http://purl.obolibrary.org/obo/NCIT_C36972) (Monovacuolated Lipoblast))) 39.90%
+- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C36966](http://purl.obolibrary.org/obo/NCIT_C36966) (Malignant Glomus Cell))) 39.90%
+- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C36959](http://purl.obolibrary.org/obo/NCIT_C36959) (Neoplastic Fibroblast-Like Cell))) 39.90%
+- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C36957](http://purl.obolibrary.org/obo/NCIT_C36957) (Neoplastic Spindle-Shaped Myofibroblast))) 39.90%
+- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C36953](http://purl.obolibrary.org/obo/NCIT_C36953) (Bizarre Cell with Evidence of Skeletal Muscle Differentiation))) 39.90%
+- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C36951](http://purl.obolibrary.org/obo/NCIT_C36951) (Round Cell with Primitive Myoblastic Differentiation))) 39.90%
+- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C36944](http://purl.obolibrary.org/obo/NCIT_C36944) (Malignant Small Undifferentiated Cell))) 39.90%
+- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C36923](http://purl.obolibrary.org/obo/NCIT_C36923) (Neoplastic Endocrine Null Cell))) 39.90%
+- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C36921](http://purl.obolibrary.org/obo/NCIT_C36921) (Neoplastic Gonadotroph Cell))) 39.90%
 
 

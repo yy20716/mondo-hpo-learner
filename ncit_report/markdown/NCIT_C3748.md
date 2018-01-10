@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.30%
-- [CL:0008007](http://purl.obolibrary.org/obo/CL_0008007) (visceral muscle cell) 52.94%
-- [CL:0008000](http://purl.obolibrary.org/obo/CL_0008000) (non-striated muscle cell) 52.94%
-- [CL:0000192](http://purl.obolibrary.org/obo/CL_0000192) (smooth muscle cell) 52.94%
-- [CL:0008000](http://purl.obolibrary.org/obo/CL_0008000) (non-striated muscle cell) and [CL:0008007](http://purl.obolibrary.org/obo/CL_0008007) (visceral muscle cell) 52.94%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) 37.51%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C36000](http://purl.obolibrary.org/obo/NCIT_C36000) (Hyalinized Stroma Formation))) 37.51%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C35999](http://purl.obolibrary.org/obo/NCIT_C35999) (Mucoid Stroma Formation))) 37.51%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C35998](http://purl.obolibrary.org/obo/NCIT_C35998) (Myxoid Stroma Formation))) 37.51%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C35994](http://purl.obolibrary.org/obo/NCIT_C35994) (Pseudoangiomatoid Space Formation))) 37.51%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C35991](http://purl.obolibrary.org/obo/NCIT_C35991) (Red Blood Cells Extravasation))) 37.51%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C35990](http://purl.obolibrary.org/obo/NCIT_C35990) (Hemosiderin Deposition))) 37.51%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C35988](http://purl.obolibrary.org/obo/NCIT_C35988) (Metaplastic Bone Formation))) 37.51%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C35987](http://purl.obolibrary.org/obo/NCIT_C35987) (Emperipolesis))) 37.51%
-- [CL:0000187](http://purl.obolibrary.org/obo/CL_0000187) (muscle cell) and (not ([NCIT:C35985](http://purl.obolibrary.org/obo/NCIT_C35985) (Hemophagocytosis))) 37.51%
+- Thing 51.30%
+- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) 47.86%
+- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) and (not ([NCIT:C37014](http://purl.obolibrary.org/obo/NCIT_C37014) (Neoplastic Centroblast))) 47.86%
+- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) and (not ([NCIT:C37012](http://purl.obolibrary.org/obo/NCIT_C37012) (Neoplastic T-Immunoblast))) 47.86%
+- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) and (not ([NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast))) 47.86%
+- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) and (not ([NCIT:C37006](http://purl.obolibrary.org/obo/NCIT_C37006) (Neoplastic Medium-Sized B-Lymphocyte with Eccentric Basophilic Cytoplasm))) 47.86%
+- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) and (not ([NCIT:C37003](http://purl.obolibrary.org/obo/NCIT_C37003) (Neoplastic Monocytoid B-Lymphocyte))) 47.86%
+- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) and (not ([NCIT:C37002](http://purl.obolibrary.org/obo/NCIT_C37002) (Neoplastic Small Cleaved Follicle Center Cell))) 47.86%
+- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) and (not ([NCIT:C37001](http://purl.obolibrary.org/obo/NCIT_C37001) (Centrocyte-Like Cell))) 47.86%
+- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) and (not ([NCIT:C37000](http://purl.obolibrary.org/obo/NCIT_C37000) (Lymphoplasmacytoid Cell))) 47.86%
+- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) and (not ([NCIT:C36991](http://purl.obolibrary.org/obo/NCIT_C36991) (Neoplastic Small to Medium-Sized B-Lymphocyte with Pale Cytoplasm))) 47.86%
+- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) and (not ([NCIT:C36985](http://purl.obolibrary.org/obo/NCIT_C36985) (Neoplastic Chondroblast))) 47.86%
+- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) and (not ([NCIT:C36981](http://purl.obolibrary.org/obo/NCIT_C36981) (Ganglion-Like Cell))) 47.86%
+- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) and (not ([NCIT:C36975](http://purl.obolibrary.org/obo/NCIT_C36975) (Signet Ring Lipoblast))) 47.86%
+- [NCIT:C36945](http://purl.obolibrary.org/obo/NCIT_C36945) (Neoplastic Spindle-Shaped Smooth Muscle Cell) and (not ([NCIT:C36974](http://purl.obolibrary.org/obo/NCIT_C36974) (Pleomorphic Lipoblast))) 47.86%
 
 

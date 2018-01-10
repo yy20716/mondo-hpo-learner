@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.58%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) 37.86%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39845](http://purl.obolibrary.org/obo/NCIT_C39845) (Bladder Urachal Squamous Cell Carcinoma))) 37.86%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39844](http://purl.obolibrary.org/obo/NCIT_C39844) (Bladder Urachal Urothelial Carcinoma))) 37.86%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39834](http://purl.obolibrary.org/obo/NCIT_C39834) (Bladder Squamous Papilloma))) 37.86%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39833](http://purl.obolibrary.org/obo/NCIT_C39833) (Schistosoma Hematobium-Related Bladder Verrucous Carcinoma))) 37.86%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39829](http://purl.obolibrary.org/obo/NCIT_C39829) (Infiltrating Bladder Urothelial Carcinoma with Giant Cells))) 37.86%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39826](http://purl.obolibrary.org/obo/NCIT_C39826) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant without Heterologous Elements))) 37.86%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39825](http://purl.obolibrary.org/obo/NCIT_C39825) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant with Heterologous Elements))) 37.86%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39821](http://purl.obolibrary.org/obo/NCIT_C39821) (Infiltrating Bladder Lymphoepithelioma-Like Carcinoma))) 37.86%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39820](http://purl.obolibrary.org/obo/NCIT_C39820) (Infiltrating Bladder Urothelial Carcinoma, Microcystic Variant))) 37.86%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39819](http://purl.obolibrary.org/obo/NCIT_C39819) (Infiltrating Bladder Urothelial Carcinoma, Nested Variant))) 37.86%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39818](http://purl.obolibrary.org/obo/NCIT_C39818) (Infiltrating Bladder Urothelial Carcinoma with Trophoblastic Differentiation))) 37.86%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39817](http://purl.obolibrary.org/obo/NCIT_C39817) (Infiltrating Bladder Urothelial Carcinoma with Glandular Differentiation))) 37.86%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39816](http://purl.obolibrary.org/obo/NCIT_C39816) (Infiltrating Bladder Urothelial Carcinoma with Squamous Differentiation))) 37.86%
+- [NCIT:C84273](http://purl.obolibrary.org/obo/NCIT_C84273) (FGFR1 Gene Rearrangement) 55.56%
+- [NCIT:C84272](http://purl.obolibrary.org/obo/NCIT_C84272) (PDGFRB Gene Rearrangement) 55.56%
+- [NCIT:C84271](http://purl.obolibrary.org/obo/NCIT_C84271) (PDGFRA Gene Rearrangement) 55.56%
+- [NCIT:C33331](http://purl.obolibrary.org/obo/NCIT_C33331) (Pluripotent Bone Marrow Stem Cell) 55.56%
+- [NCIT:C17346](http://purl.obolibrary.org/obo/NCIT_C17346) (ABL1 Gene) 55.56%
+- [CL:0002248](http://purl.obolibrary.org/obo/CL_0002248) (pluripotent stem cell) and [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 55.56%
+- [CL:0002248](http://purl.obolibrary.org/obo/CL_0002248) (pluripotent stem cell) and [NCIT:C42884](http://purl.obolibrary.org/obo/NCIT_C42884) (Bone Marrow Stem Cell with Variable Lineage Potential) 55.56%
+- [CL:0002248](http://purl.obolibrary.org/obo/CL_0002248) (pluripotent stem cell) and [NCIT:C13456](http://purl.obolibrary.org/obo/NCIT_C13456) (Bone Marrow Stem Cell) 55.56%
+- [CL:0002248](http://purl.obolibrary.org/obo/CL_0002248) (pluripotent stem cell) and [CL:0008001](http://purl.obolibrary.org/obo/CL_0008001) (hematopoietic precursor cell) 55.56%
+- [CL:0000988](http://purl.obolibrary.org/obo/CL_0000988) (hematopoietic cell) and [CL:0002248](http://purl.obolibrary.org/obo/CL_0002248) (pluripotent stem cell) 55.56%
+- [CL:0000548](http://purl.obolibrary.org/obo/CL_0000548) (animal cell) and [CL:0002248](http://purl.obolibrary.org/obo/CL_0002248) (pluripotent stem cell) 55.56%
+- [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) and [CL:0002248](http://purl.obolibrary.org/obo/CL_0002248) (pluripotent stem cell) 55.56%
+- [CL:0000037](http://purl.obolibrary.org/obo/CL_0000037) (hematopoietic stem cell) and [CL:0002248](http://purl.obolibrary.org/obo/CL_0002248) (pluripotent stem cell) 55.56%
+- [CL:0002248](http://purl.obolibrary.org/obo/CL_0002248) (pluripotent stem cell) and [CL:0008001](http://purl.obolibrary.org/obo/CL_0008001) (hematopoietic precursor cell) and [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 55.56%
+- [CL:0000988](http://purl.obolibrary.org/obo/CL_0000988) (hematopoietic cell) and [CL:0002248](http://purl.obolibrary.org/obo/CL_0002248) (pluripotent stem cell) and [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 55.56%
 
 

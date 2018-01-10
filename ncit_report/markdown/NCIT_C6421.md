@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C36855](http://purl.obolibrary.org/obo/NCIT_C36855) (Malignant Neuroendocrine Polygonal Cell))) 53.33%
-- Thing 53.10%
-- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) 38.69%
-- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C39800](http://purl.obolibrary.org/obo/NCIT_C39800) (Sickle Cell Trait))) 38.69%
-- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C39799](http://purl.obolibrary.org/obo/NCIT_C39799) (Loss of Chromosome 21))) 38.69%
-- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C39798](http://purl.obolibrary.org/obo/NCIT_C39798) (Loss of Chromosome 2))) 38.69%
-- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C39795](http://purl.obolibrary.org/obo/NCIT_C39795) (Loss of Chromosome 14q))) 38.69%
-- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C39788](http://purl.obolibrary.org/obo/NCIT_C39788) (MET Gene Mutation))) 38.69%
-- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C39787](http://purl.obolibrary.org/obo/NCIT_C39787) (Multiple Tumor Masses))) 38.69%
-- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C39786](http://purl.obolibrary.org/obo/NCIT_C39786) (Bilateral Disease))) 38.69%
-- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C39783](http://purl.obolibrary.org/obo/NCIT_C39783) (Retinal Hemangioblastoma))) 38.69%
-- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C39752](http://purl.obolibrary.org/obo/NCIT_C39752) (Refractory Disease))) 38.69%
-- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C39751](http://purl.obolibrary.org/obo/NCIT_C39751) (Glioblastoma, IDH-Mutant))) 38.69%
-- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C39748](http://purl.obolibrary.org/obo/NCIT_C39748) (Lymphoblast-Like Neoplastic B-Lymphocyte))) 38.69%
-- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C39747](http://purl.obolibrary.org/obo/NCIT_C39747) (Pleomorphic Variant Mantle Cell Lymphoma))) 38.69%
+- [NCIT:C35918](http://purl.obolibrary.org/obo/NCIT_C35918) (Organoid Pattern) 62.50%
+- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C35914](http://purl.obolibrary.org/obo/NCIT_C35914) (Gyriform Trabecular Pattern))) 62.50%
+- Thing 51.30%
+- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) 47.86%
+- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37241](http://purl.obolibrary.org/obo/NCIT_C37241) (COL1A2-PLAG1 Fusion Protein Expression))) 47.86%
+- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37240](http://purl.obolibrary.org/obo/NCIT_C37240) (PAX7-FOXO1 Fusion Protein Expression))) 47.86%
+- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C3724](http://purl.obolibrary.org/obo/NCIT_C3724) (Cystic Hygroma))) 47.86%
+- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37239](http://purl.obolibrary.org/obo/NCIT_C37239) (PAX3-FOXO1 Fusion Protein Expression))) 47.86%
+- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37238](http://purl.obolibrary.org/obo/NCIT_C37238) (FUS-DDIT3 Fusion Protein Expression))) 47.86%
+- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37237](http://purl.obolibrary.org/obo/NCIT_C37237) (EWSR1-WT1 Fusion Protein Expression))) 47.86%
+- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37231](http://purl.obolibrary.org/obo/NCIT_C37231) (EWSR1-ETV4 Fusion Protein Expression))) 47.86%
+- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37230](http://purl.obolibrary.org/obo/NCIT_C37230) (EWSR1-ETV1 Fusion Protein Expression))) 47.86%
+- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37229](http://purl.obolibrary.org/obo/NCIT_C37229) (EWSR1-ERG Fusion Protein Expression))) 47.86%
+- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37228](http://purl.obolibrary.org/obo/NCIT_C37228) (KMT2A-AF4 Fusion Protein Expression))) 47.86%
+- [NCIT:C35913](http://purl.obolibrary.org/obo/NCIT_C35913) (Trabecular Pattern) and (not ([NCIT:C37227](http://purl.obolibrary.org/obo/NCIT_C37227) (ETV6-RUNX1 Fusion Protein Expression))) 47.86%
 
 

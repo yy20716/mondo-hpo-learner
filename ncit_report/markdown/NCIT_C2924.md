@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 55.77%
-- [NCIT:C90530](http://purl.obolibrary.org/obo/NCIT_C90530) (AJCC v7 Stage) 50.96%
-- [NCIT:C90529](http://purl.obolibrary.org/obo/NCIT_C90529) (AJCC v6 Stage) 50.96%
-- [NCIT:C28079](http://purl.obolibrary.org/obo/NCIT_C28079) (Grade 3) 50.96%
-- [NCIT:C14158](http://purl.obolibrary.org/obo/NCIT_C14158) (High Grade) 50.96%
-- [NCIT:C139445](http://purl.obolibrary.org/obo/NCIT_C139445) (Breast Cancer Anatomic Stage) 50.96%
-- [NCIT:C132248](http://purl.obolibrary.org/obo/NCIT_C132248) (AJCC v8 Stage) 50.96%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C14161](http://purl.obolibrary.org/obo/NCIT_C14161) (Low Grade))) 50.96%
-- [NCIT:C41009](http://purl.obolibrary.org/obo/NCIT_C41009) (Qualifier) 37.91%
-- [NCIT:C27992](http://purl.obolibrary.org/obo/NCIT_C27992) (Disease Qualifier) 37.91%
-- [NCIT:C20189](http://purl.obolibrary.org/obo/NCIT_C20189) (Property or Attribute) 37.91%
-- [NCIT:C28108](http://purl.obolibrary.org/obo/NCIT_C28108) (Disease Stage Qualifier) 37.08%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) 36.32%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 36.32%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 36.32%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C36601](http://purl.obolibrary.org/obo/NCIT_C36601) (Tetrasomy))) 75.00%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C37867](http://purl.obolibrary.org/obo/NCIT_C37867) (Tetrasomy 7))) 68.30%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12))) 68.30%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) 63.73%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([CHEBI:25555](http://purl.obolibrary.org/obo/CHEBI_25555) (nitrogen atom))) 63.73%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([CHEBI:23019](http://purl.obolibrary.org/obo/CHEBI_23019) (carbonyl group))) 63.73%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([CHEBI:23004](http://purl.obolibrary.org/obo/CHEBI_23004) (carbamoyl group))) 63.73%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([CHEBI:22868](http://purl.obolibrary.org/obo/CHEBI_22868) (bile salt))) 63.73%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion))) 63.73%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 63.73%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 63.73%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 63.73%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 63.73%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 63.73%
+- [NCIT:C36331](http://purl.obolibrary.org/obo/NCIT_C36331) (Polysomy) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 63.73%
 
 

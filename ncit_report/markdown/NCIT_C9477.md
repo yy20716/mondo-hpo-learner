@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 55.00%
-- [NCIT:C28079](http://purl.obolibrary.org/obo/NCIT_C28079) (Grade 3) 51.28%
-- [NCIT:C14158](http://purl.obolibrary.org/obo/NCIT_C14158) (High Grade) 51.28%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C14161](http://purl.obolibrary.org/obo/NCIT_C14161) (Low Grade))) 51.28%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) 36.64%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40308](http://purl.obolibrary.org/obo/NCIT_C40308) (Vulvar Apocrine Adenocarcinoma))) 36.64%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40307](http://purl.obolibrary.org/obo/NCIT_C40307) (Vulvar Clear Cell Hidradenocarcinoma))) 36.64%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40306](http://purl.obolibrary.org/obo/NCIT_C40306) (Vulvar Eccrine Porocarcinoma))) 36.64%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40301](http://purl.obolibrary.org/obo/NCIT_C40301) (Adenoma of Minor Vestibular Glands))) 36.64%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40299](http://purl.obolibrary.org/obo/NCIT_C40299) (Bartholin Gland Adenoma))) 36.64%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40298](http://purl.obolibrary.org/obo/NCIT_C40298) (Bartholin Gland Small Cell Carcinoma))) 36.64%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40297](http://purl.obolibrary.org/obo/NCIT_C40297) (Bartholin Gland Transitional Cell Carcinoma))) 36.64%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40296](http://purl.obolibrary.org/obo/NCIT_C40296) (Bartholin Gland Adenosquamous Carcinoma))) 36.64%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40295](http://purl.obolibrary.org/obo/NCIT_C40295) (Bartholin Gland Adenoid Cystic Carcinoma))) 36.64%
-- [NCIT:C18000](http://purl.obolibrary.org/obo/NCIT_C18000) (Histologic Grade) and (not ([NCIT:C40293](http://purl.obolibrary.org/obo/NCIT_C40293) (Bartholin Gland Squamous Cell Carcinoma))) 36.64%
+- [NCIT:C45583](http://purl.obolibrary.org/obo/NCIT_C45583) (Gene Deletion Abnormality) 52.78%
+- [NCIT:C41615](http://purl.obolibrary.org/obo/NCIT_C41615) (CDKN2A Gene Deletion) 52.78%
+- [NCIT:C36692](http://purl.obolibrary.org/obo/NCIT_C36692) (PTEN Gene Inactivation) 52.78%
+- [NCIT:C36329](http://purl.obolibrary.org/obo/NCIT_C36329) (TP53 Gene Inactivation) 52.78%
+- [NCIT:C36328](http://purl.obolibrary.org/obo/NCIT_C36328) (RB1 Gene Inactivation) 52.78%
+- [NCIT:C34661](http://purl.obolibrary.org/obo/NCIT_C34661) (Headache) 52.78%
+- [NCIT:C2962](http://purl.obolibrary.org/obo/NCIT_C2962) (Seizure) 52.78%
+- [NCIT:C28079](http://purl.obolibrary.org/obo/NCIT_C28079) (Grade 3) 52.78%
+- Thing 52.76%
+- [NCIT:C3837](http://purl.obolibrary.org/obo/NCIT_C3837) (Neurological Signs and Symptoms) 42.73%
+- [NCIT:C5040](http://purl.obolibrary.org/obo/NCIT_C5040) (Sensory Manifestations) and (not ([NCIT:C28177](http://purl.obolibrary.org/obo/NCIT_C28177) (Paresthesia))) 38.13%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 32.07%
+- [NCIT:C5040](http://purl.obolibrary.org/obo/NCIT_C5040) (Sensory Manifestations) 31.65%
+- [NCIT:C5040](http://purl.obolibrary.org/obo/NCIT_C5040) (Sensory Manifestations) and (not ([NCIT:C2951](http://purl.obolibrary.org/obo/NCIT_C2951) (Cirrhosis))) 31.65%
+- [NCIT:C5040](http://purl.obolibrary.org/obo/NCIT_C5040) (Sensory Manifestations) and (not ([NCIT:C2945](http://purl.obolibrary.org/obo/NCIT_C2945) (Chondroblastoma))) 31.65%
 
 

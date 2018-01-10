@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0002465](http://purl.obolibrary.org/obo/UBERON_0002465) (lymphoid system) 55.00%
-- [NCIT:C38443](http://purl.obolibrary.org/obo/NCIT_C38443) (Interleukin-6 Overexpression) 55.00%
-- [NCIT:C38439](http://purl.obolibrary.org/obo/NCIT_C38439) (Mature Lymphocyte) 55.00%
-- [NCIT:C37165](http://purl.obolibrary.org/obo/NCIT_C37165) (Atypical Lymphocyte) 55.00%
-- [NCIT:C35984](http://purl.obolibrary.org/obo/NCIT_C35984) (Lymphoplasmacytic Infiltrate) 55.00%
-- Thing 52.53%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 28.18%
-- [CL:0000763](http://purl.obolibrary.org/obo/CL_0000763) (myeloid cell) 23.90%
-- [CL:0002371](http://purl.obolibrary.org/obo/CL_0002371) (somatic cell) 22.05%
-- [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) 21.78%
-- [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) (native cell) 21.42%
-- [GO:0005623](http://purl.obolibrary.org/obo/GO_0005623) (cell) 21.40%
-- [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000) (cell) 21.28%
-- [GO:0005575](http://purl.obolibrary.org/obo/GO_0005575) (cellular_component) 20.93%
-- [CL:0000542](http://purl.obolibrary.org/obo/CL_0000542) (lymphocyte) 20.66%
+- [NCIT:C38443](http://purl.obolibrary.org/obo/NCIT_C38443) (Interleukin-6 Overexpression) 75.00%
+- [NCIT:C35984](http://purl.obolibrary.org/obo/NCIT_C35984) (Lymphoplasmacytic Infiltrate) 75.00%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 52.52%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 51.92%
+- Thing 50.92%
+- [NCIT:C38440](http://purl.obolibrary.org/obo/NCIT_C38440) (Abnormal Immunology Test Result) 39.43%
+- [NCIT:C42077](http://purl.obolibrary.org/obo/NCIT_C42077) (Cellular Infiltrate) 36.79%
+- [NCIT:C26683](http://purl.obolibrary.org/obo/NCIT_C26683) (Abnormal Laboratory Test Result) 29.66%
+- [NCIT:C36292](http://purl.obolibrary.org/obo/NCIT_C36292) (Laboratory Test Result) 28.88%
+- [NCIT:C77140](http://purl.obolibrary.org/obo/NCIT_C77140) (Clinical Test Result) 28.80%
+- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 27.56%
+- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 27.46%
+- CP:0000037 0.00%
+- CP:0000035 0.00%
+- CP:0000028 0.00%
 
 

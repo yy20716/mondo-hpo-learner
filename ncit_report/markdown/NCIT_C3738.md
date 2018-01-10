@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 52.53%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) 40.36%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40299](http://purl.obolibrary.org/obo/NCIT_C40299) (Bartholin Gland Adenoma))) 40.36%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40298](http://purl.obolibrary.org/obo/NCIT_C40298) (Bartholin Gland Small Cell Carcinoma))) 40.36%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40297](http://purl.obolibrary.org/obo/NCIT_C40297) (Bartholin Gland Transitional Cell Carcinoma))) 40.36%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40296](http://purl.obolibrary.org/obo/NCIT_C40296) (Bartholin Gland Adenosquamous Carcinoma))) 40.36%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40295](http://purl.obolibrary.org/obo/NCIT_C40295) (Bartholin Gland Adenoid Cystic Carcinoma))) 40.36%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40293](http://purl.obolibrary.org/obo/NCIT_C40293) (Bartholin Gland Squamous Cell Carcinoma))) 40.36%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40290](http://purl.obolibrary.org/obo/NCIT_C40290) (Vestibular Micropapillomatosis))) 40.36%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40287](http://purl.obolibrary.org/obo/NCIT_C40287) (Vulvar Warty Carcinoma))) 40.36%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40286](http://purl.obolibrary.org/obo/NCIT_C40286) (Vulvar Basaloid Carcinoma))) 40.36%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40284](http://purl.obolibrary.org/obo/NCIT_C40284) (Vulvar Keratinizing Squamous Cell Carcinoma))) 40.36%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40275](http://purl.obolibrary.org/obo/NCIT_C40275) (Benign Vaginal Mixed Epithelial and Mesenchymal Neoplasm))) 40.36%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40272](http://purl.obolibrary.org/obo/NCIT_C40272) (Vaginal Undifferentiated Sarcoma))) 40.36%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40271](http://purl.obolibrary.org/obo/NCIT_C40271) (Low Grade Endometrioid Stromal Sarcoma of the Vagina))) 40.36%
+- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C35371](http://purl.obolibrary.org/obo/NCIT_C35371) (Lytic Metastatic Bone Lesion))) 62.50%
+- Thing 51.30%
+- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) 47.86%
+- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C37207](http://purl.obolibrary.org/obo/NCIT_C37207) (ZAP70 Messenger RNA Overexpression))) 47.86%
+- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C37206](http://purl.obolibrary.org/obo/NCIT_C37206) (Small Lymphocytic Lymphoma with Unmutated Immunoglobulin Heavy Chain Variable-Region Gene))) 47.86%
+- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C37205](http://purl.obolibrary.org/obo/NCIT_C37205) (Chronic Lymphocytic Leukemia with Unmutated Immunoglobulin Heavy Chain Variable-Region Gene))) 47.86%
+- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C37203](http://purl.obolibrary.org/obo/NCIT_C37203) (Small Lymphocytic Lymphoma with Immunoglobulin Heavy Chain Variable-Region Gene Somatic Hypermutation))) 47.86%
+- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C37202](http://purl.obolibrary.org/obo/NCIT_C37202) (Chronic Lymphocytic Leukemia with Immunoglobulin Heavy Chain Variable-Region Gene Somatic Hypermutation))) 47.86%
+- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C37196](http://purl.obolibrary.org/obo/NCIT_C37196) (Primary Systemic Anaplastic Large Cell Lymphoma, ALK-Negative))) 47.86%
+- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C37195](http://purl.obolibrary.org/obo/NCIT_C37195) (Primary Systemic Anaplastic Large Cell Lymphoma, ALK-Positive))) 47.86%
+- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C37191](http://purl.obolibrary.org/obo/NCIT_C37191) (Trisomy 11))) 47.86%
+- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C37189](http://purl.obolibrary.org/obo/NCIT_C37189) (del(17q25)))) 47.86%
+- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C37188](http://purl.obolibrary.org/obo/NCIT_C37188) (del(6q25-27)))) 47.86%
+- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C37185](http://purl.obolibrary.org/obo/NCIT_C37185) (Gain of Chromosome 12q13))) 47.86%
+- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) and (not ([NCIT:C37183](http://purl.obolibrary.org/obo/NCIT_C37183) (Neoplastic B-Prolymphocyte))) 47.86%
 
 

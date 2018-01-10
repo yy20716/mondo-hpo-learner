@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C61539](http://purl.obolibrary.org/obo/NCIT_C61539) (Malignant Glandular Epithelium Resembling the Normal Endometrium Present) 53.85%
-- [NCIT:C41457](http://purl.obolibrary.org/obo/NCIT_C41457) (Well-Circumscribed Lesion) 53.85%
-- [NCIT:C61466](http://purl.obolibrary.org/obo/NCIT_C61466) (Malignant Component Present) and [NCIT:C61541](http://purl.obolibrary.org/obo/NCIT_C61541) (Atypical Glandular Epithelium Resembling the Normal Endometrium Present) 53.85%
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and [NCIT:C61542](http://purl.obolibrary.org/obo/NCIT_C61542) (Neoplastic Glandular Epithelium Resembling the Normal Endometrium Present) 53.85%
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and [NCIT:C61541](http://purl.obolibrary.org/obo/NCIT_C61541) (Atypical Glandular Epithelium Resembling the Normal Endometrium Present) 53.85%
-- Thing 52.89%
-- [NCIT:C53596](http://purl.obolibrary.org/obo/NCIT_C53596) (Epithelial Component Present) 39.32%
-- [NCIT:C61541](http://purl.obolibrary.org/obo/NCIT_C61541) (Atypical Glandular Epithelium Resembling the Normal Endometrium Present) 39.20%
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) 39.20%
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 39.20%
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 39.20%
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 39.20%
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 39.20%
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 39.20%
-- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C39963](http://purl.obolibrary.org/obo/NCIT_C39963) (Penile Bowenoid Papulosis))) 39.20%
+- [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) (prostate gland) 75.00%
+- [UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure) and [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) 75.00%
+- [UBERON:0000077](http://purl.obolibrary.org/obo/UBERON_0000077) (mixed endoderm/mesoderm-derived structure) and [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) 75.00%
+- [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) and (not ([UBERON:0010186](http://purl.obolibrary.org/obo/UBERON_0010186) (male urethral gland))) 75.00%
+- [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) and (not ([UBERON:0006868](http://purl.obolibrary.org/obo/UBERON_0006868) (seminal fluid secreting gland))) 75.00%
+- [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) and (not ([UBERON:0002366](http://purl.obolibrary.org/obo/UBERON_0002366) (bulbo-urethral gland))) 75.00%
+- [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) and (not ([UBERON:0002365](http://purl.obolibrary.org/obo/UBERON_0002365) (exocrine gland))) 75.00%
+- [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) and (not ([UBERON:0001338](http://purl.obolibrary.org/obo/UBERON_0001338) (urethral gland))) 75.00%
+- [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) and (not ([UBERON:0000414](http://purl.obolibrary.org/obo/UBERON_0000414) (mucous gland))) 75.00%
+- [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) (prostate gland) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 75.00%
+- [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) (prostate gland) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 75.00%
+- [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) (prostate gland) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 75.00%
+- [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) (prostate gland) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 75.00%
+- [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) (prostate gland) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 75.00%
+- [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) (prostate gland) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 75.00%
 
 

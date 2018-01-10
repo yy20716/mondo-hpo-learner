@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.24%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) 37.14%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39752](http://purl.obolibrary.org/obo/NCIT_C39752) (Refractory Disease))) 37.14%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39751](http://purl.obolibrary.org/obo/NCIT_C39751) (Glioblastoma, IDH-Mutant))) 37.14%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39748](http://purl.obolibrary.org/obo/NCIT_C39748) (Lymphoblast-Like Neoplastic B-Lymphocyte))) 37.14%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39747](http://purl.obolibrary.org/obo/NCIT_C39747) (Pleomorphic Variant Mantle Cell Lymphoma))) 37.14%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39743](http://purl.obolibrary.org/obo/NCIT_C39743) (Fascicular Pattern))) 37.14%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39741](http://purl.obolibrary.org/obo/NCIT_C39741) (Retroperitoneal Inflammatory Myofibroblastic Tumor))) 37.14%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39740](http://purl.obolibrary.org/obo/NCIT_C39740) (Lung Inflammatory Myofibroblastic Tumor))) 37.14%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39739](http://purl.obolibrary.org/obo/NCIT_C39739) (Negative Peripheral Blood))) 37.14%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39725](http://purl.obolibrary.org/obo/NCIT_C39725) (Immunodeficiency))) 37.14%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39721](http://purl.obolibrary.org/obo/NCIT_C39721) (Abundance of Small Lymphocytes))) 37.14%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39720](http://purl.obolibrary.org/obo/NCIT_C39720) (Classical Reed-Sternberg Cell))) 37.14%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C3972](http://purl.obolibrary.org/obo/NCIT_C3972) (Prostate Fibroma))) 37.14%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39719](http://purl.obolibrary.org/obo/NCIT_C39719) (PDGFRalpha Protein Overexpression))) 37.14%
+- [NCIT:C38322](http://purl.obolibrary.org/obo/NCIT_C38322) (Marginal Zone B-Lymphocyte of Nodal Type) 57.14%
+- [NCIT:C37003](http://purl.obolibrary.org/obo/NCIT_C37003) (Neoplastic Monocytoid B-Lymphocyte) 57.14%
+- [NCIT:C37001](http://purl.obolibrary.org/obo/NCIT_C37001) (Centrocyte-Like Cell) 57.14%
+- [NCIT:C33056](http://purl.obolibrary.org/obo/NCIT_C33056) (Marginal Zone of the Lymph Node) 57.14%
+- [NCIT:C38466](http://purl.obolibrary.org/obo/NCIT_C38466) (Lymph Node Part) and [NCIT:C49767](http://purl.obolibrary.org/obo/NCIT_C49767) (Marginal Zone) 57.14%
+- [NCIT:C33034](http://purl.obolibrary.org/obo/NCIT_C33034) (Lymph Node Tissue) and [NCIT:C49767](http://purl.obolibrary.org/obo/NCIT_C49767) (Marginal Zone) 57.14%
+- Thing 51.72%
+- [NCIT:C38466](http://purl.obolibrary.org/obo/NCIT_C38466) (Lymph Node Part) 42.50%
+- [NCIT:C33034](http://purl.obolibrary.org/obo/NCIT_C33034) (Lymph Node Tissue) 42.50%
+- [NCIT:C13033](http://purl.obolibrary.org/obo/NCIT_C13033) (Immune System Part) 42.50%
+- [NCIT:C38466](http://purl.obolibrary.org/obo/NCIT_C38466) (Lymph Node Part) and [UBERON:0034769](http://purl.obolibrary.org/obo/UBERON_0034769) (lymphomyeloid tissue) 42.50%
+- [NCIT:C38466](http://purl.obolibrary.org/obo/NCIT_C38466) (Lymph Node Part) and [UBERON:0015757](http://purl.obolibrary.org/obo/UBERON_0015757) (heterogeneous tissue) 42.50%
+- [NCIT:C38466](http://purl.obolibrary.org/obo/NCIT_C38466) (Lymph Node Part) and [UBERON:0001744](http://purl.obolibrary.org/obo/UBERON_0001744) (lymphoid tissue) 42.50%
+- [NCIT:C38466](http://purl.obolibrary.org/obo/NCIT_C38466) (Lymph Node Part) and [UBERON:0000479](http://purl.obolibrary.org/obo/UBERON_0000479) (tissue) 42.50%
+- [NCIT:C33034](http://purl.obolibrary.org/obo/NCIT_C33034) (Lymph Node Tissue) and [UBERON:0034769](http://purl.obolibrary.org/obo/UBERON_0034769) (lymphomyeloid tissue) 42.50%
 
 

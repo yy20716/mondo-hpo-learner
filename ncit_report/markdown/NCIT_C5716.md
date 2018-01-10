@@ -10,16 +10,16 @@
 - [NCIT:C36116](http://purl.obolibrary.org/obo/NCIT_C36116) (Borderline Lesion) 60.00%
 - [UBERON:0000409](http://purl.obolibrary.org/obo/UBERON_0000409) (serous gland) and [UBERON:0005177](http://purl.obolibrary.org/obo/UBERON_0005177) (trunk region element) 60.00%
 - [UBERON:0000409](http://purl.obolibrary.org/obo/UBERON_0000409) (serous gland) and [UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure) 60.00%
-- Thing 51.79%
+- Thing 51.45%
 - [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) 45.36%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C115370](http://purl.obolibrary.org/obo/NCIT_C115370) (Recurrent Childhood Oligoastrocytoma))) 45.36%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C115368](http://purl.obolibrary.org/obo/NCIT_C115368) (Recurrent Childhood Undifferentiated High Grade Pleomorphic Sarcoma of Bone))) 45.36%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C115367](http://purl.obolibrary.org/obo/NCIT_C115367) (Recurrent Childhood Grade III Lymphomatoid Granulomatosis))) 45.36%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C115366](http://purl.obolibrary.org/obo/NCIT_C115366) (Recurrent Childhood Gliomatosis Cerebri))) 45.36%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C115365](http://purl.obolibrary.org/obo/NCIT_C115365) (Recurrent Childhood Gliosarcoma))) 45.36%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C115363](http://purl.obolibrary.org/obo/NCIT_C115363) (Recurrent Childhood Giant Cell Glioblastoma))) 45.36%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C115362](http://purl.obolibrary.org/obo/NCIT_C115362) (Recurrent Childhood Gemistocytic Astrocytoma))) 45.36%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C115361](http://purl.obolibrary.org/obo/NCIT_C115361) (Recurrent Childhood Fibrillary Astrocytoma))) 45.36%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C115359](http://purl.obolibrary.org/obo/NCIT_C115359) (Recurrent Childhood Anaplastic Oligodendroglioma))) 45.36%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C121797](http://purl.obolibrary.org/obo/NCIT_C121797) (Undifferentiated Spindle Cell Sarcoma))) 45.36%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C121787](http://purl.obolibrary.org/obo/NCIT_C121787) (Malignant Mixed Tumor, Not Otherwise Specified))) 45.36%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C121786](http://purl.obolibrary.org/obo/NCIT_C121786) (Mixed Tumor, Not Otherwise Specified))) 45.36%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C121772](http://purl.obolibrary.org/obo/NCIT_C121772) (EWSR1-CREB1 Fusion Protein Expression))) 45.36%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C121721](http://purl.obolibrary.org/obo/NCIT_C121721) (Non-Functioning Pituitary Gland Macroadenoma))) 45.36%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C121720](http://purl.obolibrary.org/obo/NCIT_C121720) (Functioning Pituitary Gland Macroadenoma))) 45.36%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C121686](http://purl.obolibrary.org/obo/NCIT_C121686) (Hybrid Nerve Sheath Tumor))) 45.36%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C121681](http://purl.obolibrary.org/obo/NCIT_C121681) (Solitary Circumscribed Neuroma))) 45.36%
+- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C121680](http://purl.obolibrary.org/obo/NCIT_C121680) (Dermal Nerve Sheath Myxoma))) 45.36%
 
 

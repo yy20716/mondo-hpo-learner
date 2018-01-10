@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.84%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) 37.53%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39826](http://purl.obolibrary.org/obo/NCIT_C39826) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant without Heterologous Elements))) 37.53%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39825](http://purl.obolibrary.org/obo/NCIT_C39825) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant with Heterologous Elements))) 37.53%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39821](http://purl.obolibrary.org/obo/NCIT_C39821) (Infiltrating Bladder Lymphoepithelioma-Like Carcinoma))) 37.53%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39820](http://purl.obolibrary.org/obo/NCIT_C39820) (Infiltrating Bladder Urothelial Carcinoma, Microcystic Variant))) 37.53%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39819](http://purl.obolibrary.org/obo/NCIT_C39819) (Infiltrating Bladder Urothelial Carcinoma, Nested Variant))) 37.53%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39818](http://purl.obolibrary.org/obo/NCIT_C39818) (Infiltrating Bladder Urothelial Carcinoma with Trophoblastic Differentiation))) 37.53%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39817](http://purl.obolibrary.org/obo/NCIT_C39817) (Infiltrating Bladder Urothelial Carcinoma with Glandular Differentiation))) 37.53%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39816](http://purl.obolibrary.org/obo/NCIT_C39816) (Infiltrating Bladder Urothelial Carcinoma with Squamous Differentiation))) 37.53%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39815](http://purl.obolibrary.org/obo/NCIT_C39815) (Cellular Congenital Mesoblastic Nephroma))) 37.53%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39814](http://purl.obolibrary.org/obo/NCIT_C39814) (Classic Congenital Mesoblastic Nephroma))) 37.53%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39813](http://purl.obolibrary.org/obo/NCIT_C39813) (SMARCB1 Gene Inactivation))) 37.53%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39812](http://purl.obolibrary.org/obo/NCIT_C39812) (Metanephric Adenofibroma))) 37.53%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39811](http://purl.obolibrary.org/obo/NCIT_C39811) (t(5;11)(q35;q13)))) 37.53%
+- [NCIT:C39686](http://purl.obolibrary.org/obo/NCIT_C39686) (Activated Skin-Homing T-Lymphocyte) 62.50%
+- [CL:0002419](http://purl.obolibrary.org/obo/CL_0002419) (mature T cell) and [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) 62.50%
+- [CL:0000084](http://purl.obolibrary.org/obo/CL_0000084) (T cell) and [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) 62.50%
+- Thing 51.30%
+- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) 47.86%
+- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([GO:0090275](http://purl.obolibrary.org/obo/GO_0090275) (negative regulation of somatostatin secretion))) 47.86%
+- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([GO:0090274](http://purl.obolibrary.org/obo/GO_0090274) (positive regulation of somatostatin secretion))) 47.86%
+- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([GO:0090023](http://purl.obolibrary.org/obo/GO_0090023) (null))) 47.86%
+- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([GO:0072359](http://purl.obolibrary.org/obo/GO_0072359) (circulatory system development))) 47.86%
+- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([GO:0072358](http://purl.obolibrary.org/obo/GO_0072358) (cardiovascular system development))) 47.86%
+- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([GO:0072201](http://purl.obolibrary.org/obo/GO_0072201) (negative regulation of mesenchymal cell proliferation))) 47.86%
+- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([GO:0071971](http://purl.obolibrary.org/obo/GO_0071971) (null))) 47.86%
+- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([GO:0071953](http://purl.obolibrary.org/obo/GO_0071953) (elastic fiber))) 47.86%
+- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([GO:0071944](http://purl.obolibrary.org/obo/GO_0071944) (cell periphery))) 47.86%
+- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([GO:0071626](http://purl.obolibrary.org/obo/GO_0071626) (mastication))) 47.86%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.24%
-- [NCIT:C28079](http://purl.obolibrary.org/obo/NCIT_C28079) (Grade 3) 51.79%
-- [NCIT:C41405](http://purl.obolibrary.org/obo/NCIT_C41405) (Neuron, Neuroepithelial Cell, and Supporting Cell of the Nervous System) 38.93%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) 30.65%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40161](http://purl.obolibrary.org/obo/NCIT_C40161) (JAZF1-SUZ12 Fusion Protein Expression))) 30.65%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40160](http://purl.obolibrary.org/obo/NCIT_C40160) (t(7;17)(p15;q21)))) 30.65%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40156](http://purl.obolibrary.org/obo/NCIT_C40156) (Endometrial Undifferentiated Carcinoma))) 30.65%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40155](http://purl.obolibrary.org/obo/NCIT_C40155) (Endometrial Small Cell Carcinoma))) 30.65%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40154](http://purl.obolibrary.org/obo/NCIT_C40154) (Endometrial Transitional Cell Carcinoma))) 30.65%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40153](http://purl.obolibrary.org/obo/NCIT_C40153) (Endometrial Mixed Adenocarcinoma))) 30.65%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40152](http://purl.obolibrary.org/obo/NCIT_C40152) (Serous Endometrial Intraepithelial Carcinoma))) 30.65%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40151](http://purl.obolibrary.org/obo/NCIT_C40151) (Grade 3 Endometrial Mucinous Adenocarcinoma))) 30.65%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40150](http://purl.obolibrary.org/obo/NCIT_C40150) (Grade 2 Endometrial Mucinous Adenocarcinoma))) 30.65%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40149](http://purl.obolibrary.org/obo/NCIT_C40149) (Grade 1 Endometrial Mucinous Adenocarcinoma))) 30.65%
-- [NCIT:C41410](http://purl.obolibrary.org/obo/NCIT_C41410) (Neuroepithelial Cell) and (not ([NCIT:C40148](http://purl.obolibrary.org/obo/NCIT_C40148) (Grade 3 Endometrial Endometrioid Adenocarcinoma))) 30.65%
+- [NCIT:C36473](http://purl.obolibrary.org/obo/NCIT_C36473) (der(15;21)(q10;q10)) 53.57%
+- [NCIT:C28079](http://purl.obolibrary.org/obo/NCIT_C28079) (Grade 3) 53.57%
+- [NCIT:C6830](http://purl.obolibrary.org/obo/NCIT_C6830) (Derivative Chromosome) and (not ([NCIT:C36648](http://purl.obolibrary.org/obo/NCIT_C36648) (der(1;16)(q10;p10)))) 53.57%
+- Thing 52.43%
+- [NCIT:C6830](http://purl.obolibrary.org/obo/NCIT_C6830) (Derivative Chromosome) 38.93%
+- [NCIT:C6830](http://purl.obolibrary.org/obo/NCIT_C6830) (Derivative Chromosome) and (not ([NCIT:C37076](http://purl.obolibrary.org/obo/NCIT_C37076) (Neoplastic Neutrophilic Precursor))) 38.93%
+- [NCIT:C6830](http://purl.obolibrary.org/obo/NCIT_C6830) (Derivative Chromosome) and (not ([NCIT:C37075](http://purl.obolibrary.org/obo/NCIT_C37075) (Neoplastic Promonocyte))) 38.93%
+- [NCIT:C6830](http://purl.obolibrary.org/obo/NCIT_C6830) (Derivative Chromosome) and (not ([NCIT:C37074](http://purl.obolibrary.org/obo/NCIT_C37074) (Hypogranular Promyelocyte))) 38.93%
+- [NCIT:C6830](http://purl.obolibrary.org/obo/NCIT_C6830) (Derivative Chromosome) and (not ([NCIT:C37073](http://purl.obolibrary.org/obo/NCIT_C37073) (Hypergranular Promyelocyte))) 38.93%
+- [NCIT:C6830](http://purl.obolibrary.org/obo/NCIT_C6830) (Derivative Chromosome) and (not ([NCIT:C37071](http://purl.obolibrary.org/obo/NCIT_C37071) (Neoplastic T-Lymphoblast))) 38.93%
+- [NCIT:C6830](http://purl.obolibrary.org/obo/NCIT_C6830) (Derivative Chromosome) and (not ([NCIT:C37070](http://purl.obolibrary.org/obo/NCIT_C37070) (Neoplastic B-Lymphoblast))) 38.93%
+- [NCIT:C6830](http://purl.obolibrary.org/obo/NCIT_C6830) (Derivative Chromosome) and (not ([NCIT:C3707](http://purl.obolibrary.org/obo/NCIT_C3707) (Meningiomatosis))) 38.93%
+- [NCIT:C6830](http://purl.obolibrary.org/obo/NCIT_C6830) (Derivative Chromosome) and (not ([NCIT:C37068](http://purl.obolibrary.org/obo/NCIT_C37068) (Neoplastic Megakaryoblast))) 38.93%
+- [NCIT:C6830](http://purl.obolibrary.org/obo/NCIT_C6830) (Derivative Chromosome) and (not ([NCIT:C37063](http://purl.obolibrary.org/obo/NCIT_C37063) (Immature Malignant Mast Cell))) 38.93%
+- [NCIT:C6830](http://purl.obolibrary.org/obo/NCIT_C6830) (Derivative Chromosome) and (not ([NCIT:C37058](http://purl.obolibrary.org/obo/NCIT_C37058) (Ring Sideroblast))) 38.93%
 
 

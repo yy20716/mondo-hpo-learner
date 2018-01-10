@@ -2,24 +2,24 @@
 ### [NCIT:C3520](http://purl.obolibrary.org/obo/NCIT_C3520)
 **Label:** Myeloid Sarcoma
 
-**Subclasses:** [NCIT:C35816](http://purl.obolibrary.org/obo/NCIT_C35816) (Monoblastic Sarcoma), [NCIT:C5527](http://purl.obolibrary.org/obo/NCIT_C5527) (Prostate Myeloid Sarcoma), [NCIT:C35815](http://purl.obolibrary.org/obo/NCIT_C35815) (Granulocytic Sarcoma), [NCIT:C7008](http://purl.obolibrary.org/obo/NCIT_C7008) (Intracranial Myeloid Sarcoma), [NCIT:C45741](http://purl.obolibrary.org/obo/NCIT_C45741) (Mediastinal Myeloid Sarcoma), [NCIT:C5370](http://purl.obolibrary.org/obo/NCIT_C5370) (Cardiac Myeloid Sarcoma), 
+**Subclasses:** [NCIT:C35816](http://purl.obolibrary.org/obo/NCIT_C35816) (Monoblastic Sarcoma), [NCIT:C35815](http://purl.obolibrary.org/obo/NCIT_C35815) (Granulocytic Sarcoma), [NCIT:C5527](http://purl.obolibrary.org/obo/NCIT_C5527) (Prostate Myeloid Sarcoma), [NCIT:C7008](http://purl.obolibrary.org/obo/NCIT_C7008) (Intracranial Myeloid Sarcoma), [NCIT:C45741](http://purl.obolibrary.org/obo/NCIT_C45741) (Mediastinal Myeloid Sarcoma), [NCIT:C5370](http://purl.obolibrary.org/obo/NCIT_C5370) (Cardiac Myeloid Sarcoma), 
 
 **Class expressions from DL-Learner:**
 
-- Thing 52.12%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) 42.50%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39901](http://purl.obolibrary.org/obo/NCIT_C39901) (Prostatic Duct Urothelial Carcinoma))) 42.50%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39899](http://purl.obolibrary.org/obo/NCIT_C39899) (Secondary Prostate Urothelial Carcinoma))) 42.50%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39897](http://purl.obolibrary.org/obo/NCIT_C39897) (Prostate Ductal Adenocarcinoma, Solid Pattern))) 42.50%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39896](http://purl.obolibrary.org/obo/NCIT_C39896) (Prostate Ductal Adenocarcinoma, Papillary Pattern))) 42.50%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39895](http://purl.obolibrary.org/obo/NCIT_C39895) (Prostate Ductal Adenocarcinoma, Cribriform Pattern))) 42.50%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C3989](http://purl.obolibrary.org/obo/NCIT_C3989) (Parathyroid Hyperplasia))) 42.50%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39885](http://purl.obolibrary.org/obo/NCIT_C39885) (Acinar Prostate Adenocarcinoma, Lymphoepithelioma-Like Variant))) 42.50%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39880](http://purl.obolibrary.org/obo/NCIT_C39880) (Acinar Prostate Adenocarcinoma, Atrophic Variant))) 42.50%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q))) 42.50%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39874](http://purl.obolibrary.org/obo/NCIT_C39874) (Urethral Verrucous Carcinoma))) 42.50%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39873](http://purl.obolibrary.org/obo/NCIT_C39873) (Urethral Glandular Metaplasia))) 42.50%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39872](http://purl.obolibrary.org/obo/NCIT_C39872) (Urethral Villous Adenoma))) 42.50%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39866](http://purl.obolibrary.org/obo/NCIT_C39866) (Female Urethral Malignant Neoplasm))) 42.50%
+- [NCIT:C43229](http://purl.obolibrary.org/obo/NCIT_C43229) (Primitive Bone Marrow Myeloid Stem Cell) 66.67%
+- Thing 51.13%
+- [CL:0000049](http://purl.obolibrary.org/obo/CL_0000049) (common myeloid progenitor) 33.33%
+- [CL:0002032](http://purl.obolibrary.org/obo/CL_0002032) (hematopoietic oligopotent progenitor cell) 29.58%
+- [CL:0008001](http://purl.obolibrary.org/obo/CL_0008001) (hematopoietic precursor cell) 25.51%
+- [CL:0000988](http://purl.obolibrary.org/obo/CL_0000988) (hematopoietic cell) 21.57%
+- [CL:0002371](http://purl.obolibrary.org/obo/CL_0002371) (somatic cell) 19.72%
+- [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) 19.64%
+- [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) (native cell) 19.43%
+- [GO:0005623](http://purl.obolibrary.org/obo/GO_0005623) (cell) 19.42%
+- [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000) (cell) 19.39%
+- [GO:0005575](http://purl.obolibrary.org/obo/GO_0005575) (cellular_component) 19.23%
+- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 19.03%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 18.02%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 17.69%
 
 

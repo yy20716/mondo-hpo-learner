@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.74%
-- [NCIT:C37172](http://purl.obolibrary.org/obo/NCIT_C37172) (Hypolobated Neutrophil) 51.43%
-- [NCIT:C37058](http://purl.obolibrary.org/obo/NCIT_C37058) (Ring Sideroblast) 51.43%
-- [NCIT:C37039](http://purl.obolibrary.org/obo/NCIT_C37039) (Large Atypical Platelet) 51.43%
-- [NCIT:C36718](http://purl.obolibrary.org/obo/NCIT_C36718) (Sideroblast) 51.43%
-- [NCIT:C12524](http://purl.obolibrary.org/obo/NCIT_C12524) (Megaloblast) 51.43%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) 36.78%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40290](http://purl.obolibrary.org/obo/NCIT_C40290) (Vestibular Micropapillomatosis))) 36.78%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40287](http://purl.obolibrary.org/obo/NCIT_C40287) (Vulvar Warty Carcinoma))) 36.78%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40286](http://purl.obolibrary.org/obo/NCIT_C40286) (Vulvar Basaloid Carcinoma))) 36.78%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40284](http://purl.obolibrary.org/obo/NCIT_C40284) (Vulvar Keratinizing Squamous Cell Carcinoma))) 36.78%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40275](http://purl.obolibrary.org/obo/NCIT_C40275) (Benign Vaginal Mixed Epithelial and Mesenchymal Neoplasm))) 36.78%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40272](http://purl.obolibrary.org/obo/NCIT_C40272) (Vaginal Undifferentiated Sarcoma))) 36.78%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C40271](http://purl.obolibrary.org/obo/NCIT_C40271) (Low Grade Endometrioid Stromal Sarcoma of the Vagina))) 36.78%
-- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C4027](http://purl.obolibrary.org/obo/NCIT_C4027) (Paget Disease of the Vulva))) 36.78%
+- Thing 53.31%
+- [NCIT:C37172](http://purl.obolibrary.org/obo/NCIT_C37172) (Hypolobated Neutrophil) 51.92%
+- [NCIT:C37058](http://purl.obolibrary.org/obo/NCIT_C37058) (Ring Sideroblast) 51.92%
+- [NCIT:C37039](http://purl.obolibrary.org/obo/NCIT_C37039) (Large Atypical Platelet) 51.92%
+- [NCIT:C36718](http://purl.obolibrary.org/obo/NCIT_C36718) (Sideroblast) 51.92%
+- [NCIT:C12524](http://purl.obolibrary.org/obo/NCIT_C12524) (Megaloblast) 51.92%
+- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) 37.28%
+- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C37078](http://purl.obolibrary.org/obo/NCIT_C37078) (Pseudo-Gaucher Cell))) 37.28%
+- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C37076](http://purl.obolibrary.org/obo/NCIT_C37076) (Neoplastic Neutrophilic Precursor))) 37.28%
+- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C37075](http://purl.obolibrary.org/obo/NCIT_C37075) (Neoplastic Promonocyte))) 37.28%
+- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C37074](http://purl.obolibrary.org/obo/NCIT_C37074) (Hypogranular Promyelocyte))) 37.28%
+- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C37073](http://purl.obolibrary.org/obo/NCIT_C37073) (Hypergranular Promyelocyte))) 37.28%
+- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C37071](http://purl.obolibrary.org/obo/NCIT_C37071) (Neoplastic T-Lymphoblast))) 37.28%
+- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C37070](http://purl.obolibrary.org/obo/NCIT_C37070) (Neoplastic B-Lymphoblast))) 37.28%
+- [NCIT:C37057](http://purl.obolibrary.org/obo/NCIT_C37057) (Abnormal Erythroblast) and (not ([NCIT:C3707](http://purl.obolibrary.org/obo/NCIT_C3707) (Meningiomatosis))) 37.28%
 
 

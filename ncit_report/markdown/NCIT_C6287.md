@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.67%
-- [NCIT:C37115](http://purl.obolibrary.org/obo/NCIT_C37115) (Serous Adenocarcinoma Cell) 51.47%
-- [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) and [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 51.47%
-- [NCIT:C36794](http://purl.obolibrary.org/obo/NCIT_C36794) (Dysplastic Glandular Cell) and [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 51.47%
-- [NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell) and [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 51.47%
-- [NCIT:C36773](http://purl.obolibrary.org/obo/NCIT_C36773) (Adenocarcinoma Cell) and [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 51.47%
-- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 51.47%
-- [NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell) and [NCIT:C36794](http://purl.obolibrary.org/obo/NCIT_C36794) (Dysplastic Glandular Cell) and [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 51.47%
-- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) and [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 51.47%
-- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36794](http://purl.obolibrary.org/obo/NCIT_C36794) (Dysplastic Glandular Cell) and [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 51.47%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) 36.83%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36974](http://purl.obolibrary.org/obo/NCIT_C36974) (Pleomorphic Lipoblast))) 36.83%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36973](http://purl.obolibrary.org/obo/NCIT_C36973) (Multivacuolated Lipoblast))) 36.83%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36972](http://purl.obolibrary.org/obo/NCIT_C36972) (Monovacuolated Lipoblast))) 36.83%
-- [NCIT:C37114](http://purl.obolibrary.org/obo/NCIT_C37114) (Neoplastic Serous Epithelial Cell) and (not ([NCIT:C36966](http://purl.obolibrary.org/obo/NCIT_C36966) (Malignant Glomus Cell))) 36.83%
+- [NCIT:C3836](http://purl.obolibrary.org/obo/NCIT_C3836) (Infertility) 55.56%
+- [NCIT:C36698](http://purl.obolibrary.org/obo/NCIT_C36698) (MLH1 Gene Inactivation) 55.56%
+- [NCIT:C36697](http://purl.obolibrary.org/obo/NCIT_C36697) (MSH2 Gene Inactivation) 55.56%
+- [NCIT:C36692](http://purl.obolibrary.org/obo/NCIT_C36692) (PTEN Gene Inactivation) 55.56%
+- [NCIT:C36665](http://purl.obolibrary.org/obo/NCIT_C36665) (KRAS Gene Amplification) 55.56%
+- [NCIT:C36659](http://purl.obolibrary.org/obo/NCIT_C36659) (CTNNB1 Gene Mutation) 55.56%
+- [NCIT:C18256](http://purl.obolibrary.org/obo/NCIT_C18256) (PTEN Gene) 55.56%
+- [NCIT:C8282](http://purl.obolibrary.org/obo/NCIT_C8282) (Sexual Dysfunction and Infertility) and (not ([NCIT:C3133](http://purl.obolibrary.org/obo/NCIT_C3133) (Impotence))) 55.56%
+- Thing 51.95%
+- [NCIT:C8282](http://purl.obolibrary.org/obo/NCIT_C8282) (Sexual Dysfunction and Infertility) 40.91%
+- [NCIT:C8282](http://purl.obolibrary.org/obo/NCIT_C8282) (Sexual Dysfunction and Infertility) and (not ([NCIT:C36242](http://purl.obolibrary.org/obo/NCIT_C36242) (Neoplastic Promonocytes in Bone Marrow Markedly Increased))) 40.91%
+- [NCIT:C8282](http://purl.obolibrary.org/obo/NCIT_C8282) (Sexual Dysfunction and Infertility) and (not ([NCIT:C36241](http://purl.obolibrary.org/obo/NCIT_C36241) (Monoblasts 80 Percent or More of Bone Marrow Monocytic Cells))) 40.91%
+- [NCIT:C8282](http://purl.obolibrary.org/obo/NCIT_C8282) (Sexual Dysfunction and Infertility) and (not ([NCIT:C36239](http://purl.obolibrary.org/obo/NCIT_C36239) (Neoplastic Monocytes and Precursors 20 Percent or More of Bone Marrow Cells))) 40.91%
+- [NCIT:C8282](http://purl.obolibrary.org/obo/NCIT_C8282) (Sexual Dysfunction and Infertility) and (not ([NCIT:C36238](http://purl.obolibrary.org/obo/NCIT_C36238) (Promyelocytes, Myelocytes, and Mature Neutrophils 10 Percent or More of Bone Marrow Cells))) 40.91%
+- [NCIT:C8282](http://purl.obolibrary.org/obo/NCIT_C8282) (Sexual Dysfunction and Infertility) and (not ([NCIT:C36237](http://purl.obolibrary.org/obo/NCIT_C36237) (Bone Marrow Dysplasia Present in 10 Percent or More of the Cells of Two or More Myeloid Cell Lines))) 40.91%
 
 

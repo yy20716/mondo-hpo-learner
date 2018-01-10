@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.20%
-- [NCIT:C36870](http://purl.obolibrary.org/obo/NCIT_C36870) (Epithelioid Melanocyte) 53.12%
-- [NCIT:C36869](http://purl.obolibrary.org/obo/NCIT_C36869) (Spindle Melanocyte) 53.12%
-- [NCIT:C25585](http://purl.obolibrary.org/obo/NCIT_C25585) (Nevus Cell) and (not ([NCIT:C36863](http://purl.obolibrary.org/obo/NCIT_C36863) (Balloon Nevus Cell))) 53.12%
-- [NCIT:C36862](http://purl.obolibrary.org/obo/NCIT_C36862) (Neoplastic Melanocyte) 50.98%
-- [NCIT:C25585](http://purl.obolibrary.org/obo/NCIT_C25585) (Nevus Cell) 38.48%
-- [NCIT:C25585](http://purl.obolibrary.org/obo/NCIT_C25585) (Nevus Cell) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 38.48%
-- [NCIT:C25585](http://purl.obolibrary.org/obo/NCIT_C25585) (Nevus Cell) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 38.48%
-- [NCIT:C25585](http://purl.obolibrary.org/obo/NCIT_C25585) (Nevus Cell) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 38.48%
-- [NCIT:C25585](http://purl.obolibrary.org/obo/NCIT_C25585) (Nevus Cell) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 38.48%
-- [NCIT:C25585](http://purl.obolibrary.org/obo/NCIT_C25585) (Nevus Cell) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 38.48%
-- [NCIT:C25585](http://purl.obolibrary.org/obo/NCIT_C25585) (Nevus Cell) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 38.48%
-- [NCIT:C25585](http://purl.obolibrary.org/obo/NCIT_C25585) (Nevus Cell) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 38.48%
-- [NCIT:C25585](http://purl.obolibrary.org/obo/NCIT_C25585) (Nevus Cell) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 38.48%
-- [NCIT:C25585](http://purl.obolibrary.org/obo/NCIT_C25585) (Nevus Cell) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 38.48%
+- [UBERON:0002067](http://purl.obolibrary.org/obo/UBERON_0002067) (dermis) 60.00%
+- [NCIT:C45321](http://purl.obolibrary.org/obo/NCIT_C45321) (Dermal Involvement) 60.00%
+- [NCIT:C36870](http://purl.obolibrary.org/obo/NCIT_C36870) (Epithelioid Melanocyte) 60.00%
+- [NCIT:C36869](http://purl.obolibrary.org/obo/NCIT_C36869) (Spindle Melanocyte) 60.00%
+- [NCIT:C35894](http://purl.obolibrary.org/obo/NCIT_C35894) (Junctional Proliferation) 60.00%
+- Thing 51.45%
+- [UBERON:0010314](http://purl.obolibrary.org/obo/UBERON_0010314) (structure with developmental contribution from neural crest) and [UBERON:0013754](http://purl.obolibrary.org/obo/UBERON_0013754) (integumentary system layer) 45.36%
+- [UBERON:0004121](http://purl.obolibrary.org/obo/UBERON_0004121) (ectoderm-derived structure) and [UBERON:0013754](http://purl.obolibrary.org/obo/UBERON_0013754) (integumentary system layer) 45.36%
+- [UBERON:0004121](http://purl.obolibrary.org/obo/UBERON_0004121) (ectoderm-derived structure) and [UBERON:0010314](http://purl.obolibrary.org/obo/UBERON_0010314) (structure with developmental contribution from neural crest) and [UBERON:0013754](http://purl.obolibrary.org/obo/UBERON_0013754) (integumentary system layer) 45.36%
+- [NCIT:C36862](http://purl.obolibrary.org/obo/NCIT_C36862) (Neoplastic Melanocyte) 42.36%
+- [UBERON:0013754](http://purl.obolibrary.org/obo/UBERON_0013754) (integumentary system layer) 38.87%
+- [NCIT:C39570](http://purl.obolibrary.org/obo/NCIT_C39570) (Cutaneous Involvement) 35.00%
+- [NCIT:C36281](http://purl.obolibrary.org/obo/NCIT_C36281) (Integumentary System Finding) 26.67%
+- [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) 23.51%
+- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 23.34%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.08%
-- [NCIT:C48431](http://purl.obolibrary.org/obo/NCIT_C48431) (Neural Crest-Derived Cell) 51.92%
-- [CL:0002371](http://purl.obolibrary.org/obo/CL_0002371) (somatic cell) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 51.92%
-- [CL:0002077](http://purl.obolibrary.org/obo/CL_0002077) (ecto-epithelial cell) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 51.92%
-- [CL:0000710](http://purl.obolibrary.org/obo/CL_0000710) (neurecto-epithelial cell) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 51.92%
-- [CL:0000393](http://purl.obolibrary.org/obo/CL_0000393) (electrically responsive cell) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 51.92%
-- [CL:0000211](http://purl.obolibrary.org/obo/CL_0000211) (electrically active cell) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 51.92%
-- [CL:0000165](http://purl.obolibrary.org/obo/CL_0000165) (neuroendocrine cell) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 51.92%
-- [CL:0000163](http://purl.obolibrary.org/obo/CL_0000163) (endocrine cell) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 51.92%
-- [CL:0000151](http://purl.obolibrary.org/obo/CL_0000151) (secretory cell) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 51.92%
-- [CL:0000075](http://purl.obolibrary.org/obo/CL_0000075) (columnar/cuboidal epithelial cell) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 51.92%
-- [CL:0000066](http://purl.obolibrary.org/obo/CL_0000066) (epithelial cell) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 51.92%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 51.92%
-- [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 37.28%
-- [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 37.28%
+- [NCIT:C38665](http://purl.obolibrary.org/obo/NCIT_C38665) (Chest Pain) 55.56%
+- [NCIT:C38038](http://purl.obolibrary.org/obo/NCIT_C38038) (Tremor) 55.56%
+- [NCIT:C37999](http://purl.obolibrary.org/obo/NCIT_C37999) (Palpitation) 55.56%
+- [NCIT:C37254](http://purl.obolibrary.org/obo/NCIT_C37254) (Cardiovascular System Signs and Symptoms) 55.56%
+- [NCIT:C34661](http://purl.obolibrary.org/obo/NCIT_C34661) (Headache) 55.56%
+- Thing 51.95%
+- [NCIT:C100104](http://purl.obolibrary.org/obo/NCIT_C100104) (Sign or Symptom) 47.67%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 43.60%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 42.48%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) 40.91%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C37175](http://purl.obolibrary.org/obo/NCIT_C37175) (Neutrophil with Pseudo Chediak-Higashi Granules))) 40.91%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C37174](http://purl.obolibrary.org/obo/NCIT_C37174) (Neutrophil with Cytoplasmic Hypogranularity))) 40.91%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C37172](http://purl.obolibrary.org/obo/NCIT_C37172) (Hypolobated Neutrophil))) 40.91%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C37169](http://purl.obolibrary.org/obo/NCIT_C37169) (Multilobated Neoplastic B-Lymphocyte))) 40.91%
+- [NCIT:C26682](http://purl.obolibrary.org/obo/NCIT_C26682) (Abdominal Pain) and (not ([NCIT:C37165](http://purl.obolibrary.org/obo/NCIT_C37165) (Atypical Lymphocyte))) 40.91%
 
 

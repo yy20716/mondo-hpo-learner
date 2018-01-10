@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 52.40%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) 40.91%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36685](http://purl.obolibrary.org/obo/NCIT_C36685) (NF1 Gene Inactivation))) 40.91%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36684](http://purl.obolibrary.org/obo/NCIT_C36684) (WT1 Gene Inactivation))) 40.91%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36683](http://purl.obolibrary.org/obo/NCIT_C36683) (APC Gene Inactivation))) 40.91%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36681](http://purl.obolibrary.org/obo/NCIT_C36681) (MDM2 Gene Amplification))) 40.91%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36679](http://purl.obolibrary.org/obo/NCIT_C36679) (HRAS Gene Amplification))) 40.91%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36678](http://purl.obolibrary.org/obo/NCIT_C36678) (FOS Gene Amplification))) 40.91%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36673](http://purl.obolibrary.org/obo/NCIT_C36673) (NMYC Gene Amplification))) 40.91%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36671](http://purl.obolibrary.org/obo/NCIT_C36671) (Gain of Chromosome 10))) 40.91%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36670](http://purl.obolibrary.org/obo/NCIT_C36670) (Gain of Chromosome 16))) 40.91%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36669](http://purl.obolibrary.org/obo/NCIT_C36669) (Gain of Chromosome 6))) 40.91%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36667](http://purl.obolibrary.org/obo/NCIT_C36667) (Loss of Chromosome 4q))) 40.91%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36666](http://purl.obolibrary.org/obo/NCIT_C36666) (Fibroblast Growth Factor 1 Overexpression))) 40.91%
-- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36665](http://purl.obolibrary.org/obo/NCIT_C36665) (KRAS Gene Amplification))) 40.91%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([UBERON:0003914](http://purl.obolibrary.org/obo/UBERON_0003914) (epithelial tube))) 75.00%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([UBERON:0000064](http://purl.obolibrary.org/obo/UBERON_0000064) (organ part))) 75.00%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([UBERON:0000063](http://purl.obolibrary.org/obo/UBERON_0000063) (organ subunit))) 75.00%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([UBERON:0000058](http://purl.obolibrary.org/obo/UBERON_0000058) (duct))) 75.00%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([UBERON:0000025](http://purl.obolibrary.org/obo/UBERON_0000025) (tube))) 75.00%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) 60.36%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 60.36%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 60.36%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 60.36%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not (CARO:0010000)) 60.36%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 60.36%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null))) 60.36%
+- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 51.86%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 51.81%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 51.70%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.49%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([NCIT:C33921](http://purl.obolibrary.org/obo/NCIT_C33921) (Endometrial Stromal Cell))) 52.63%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) 37.99%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([NCIT:C40198](http://purl.obolibrary.org/obo/NCIT_C40198) (Cervical Squamous Intraepithelial Neoplasia 2))) 37.99%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([NCIT:C40194](http://purl.obolibrary.org/obo/NCIT_C40194) (Cervical Squamotransitional Carcinoma))) 37.99%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([NCIT:C40193](http://purl.obolibrary.org/obo/NCIT_C40193) (Cervical Lymphoepithelioma-Like Carcinoma))) 37.99%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([NCIT:C40191](http://purl.obolibrary.org/obo/NCIT_C40191) (Cervical Warty Carcinoma))) 37.99%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([NCIT:C40190](http://purl.obolibrary.org/obo/NCIT_C40190) (Cervical Verrucous Carcinoma))) 37.99%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([NCIT:C4019](http://purl.obolibrary.org/obo/NCIT_C4019) (Paget Disease and Intraductal Carcinoma of the Breast))) 37.99%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([NCIT:C40189](http://purl.obolibrary.org/obo/NCIT_C40189) (Cervical Basaloid Carcinoma))) 37.99%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([NCIT:C40187](http://purl.obolibrary.org/obo/NCIT_C40187) (Cervical Keratinizing Squamous Cell Carcinoma))) 37.99%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([NCIT:C40182](http://purl.obolibrary.org/obo/NCIT_C40182) (Uterine Corpus Carcinofibroma))) 37.99%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([NCIT:C40177](http://purl.obolibrary.org/obo/NCIT_C40177) (Uterine Corpus Smooth Muscle Tumor of Uncertain Malignant Potential))) 37.99%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([NCIT:C40175](http://purl.obolibrary.org/obo/NCIT_C40175) (Uterine Corpus Myxoid Leiomyosarcoma))) 37.99%
-- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([NCIT:C40174](http://purl.obolibrary.org/obo/NCIT_C40174) (Uterine Corpus Epithelioid Leiomyosarcoma))) 37.99%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity))) 66.67%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([NCIT:C33921](http://purl.obolibrary.org/obo/NCIT_C33921) (Endometrial Stromal Cell))) 66.67%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) 52.02%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([CHEBI:23019](http://purl.obolibrary.org/obo/CHEBI_23019) (carbonyl group))) 52.02%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([CHEBI:23004](http://purl.obolibrary.org/obo/CHEBI_23004) (carbamoyl group))) 52.02%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([CHEBI:22868](http://purl.obolibrary.org/obo/CHEBI_22868) (bile salt))) 52.02%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion))) 52.02%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 52.02%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 52.02%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 52.02%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 52.02%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 52.02%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 52.02%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not (CARO:0010000)) 52.02%
+- [NCIT:C53995](http://purl.obolibrary.org/obo/NCIT_C53995) (Endometrioid Stromal Cell) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 52.02%
 
 

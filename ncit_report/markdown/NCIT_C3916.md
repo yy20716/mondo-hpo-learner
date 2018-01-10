@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.67%
-- [NCIT:C48257](http://purl.obolibrary.org/obo/NCIT_C48257) (Parathyroid Gland Parenchymal Cell) 51.47%
-- [NCIT:C47818](http://purl.obolibrary.org/obo/NCIT_C47818) (Follicular Structures Present) 51.47%
-- [NCIT:C41608](http://purl.obolibrary.org/obo/NCIT_C41608) (Endocrine-Stromal Cell) 51.47%
-- [NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q) 51.47%
-- [NCIT:C39795](http://purl.obolibrary.org/obo/NCIT_C39795) (Loss of Chromosome 14q) 51.47%
-- [NCIT:C37312](http://purl.obolibrary.org/obo/NCIT_C37312) (Loss of Chromosome 11q) 51.47%
-- [NCIT:C36636](http://purl.obolibrary.org/obo/NCIT_C36636) (Loss of Chromosome 9p) 51.47%
-- [NCIT:C36515](http://purl.obolibrary.org/obo/NCIT_C36515) (Loss of Chromosome 16q) 51.47%
-- [NCIT:C36497](http://purl.obolibrary.org/obo/NCIT_C36497) (Loss of Chromosome 13q) 51.47%
-- [NCIT:C36116](http://purl.obolibrary.org/obo/NCIT_C36116) (Borderline Lesion) 51.47%
-- [NCIT:C36108](http://purl.obolibrary.org/obo/NCIT_C36108) (Encapsulated Mass) 51.47%
-- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) 51.47%
-- [NCIT:C18254](http://purl.obolibrary.org/obo/NCIT_C18254) (MEN1 Gene) 51.47%
-- [NCIT:C18021](http://purl.obolibrary.org/obo/NCIT_C18021) (CCND1 Gene) 51.47%
+- [NCIT:C18021](http://purl.obolibrary.org/obo/NCIT_C18021) (CCND1 Gene) 53.85%
+- Thing 52.34%
+- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) 39.20%
+- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) and (not ([NCIT:C37161](http://purl.obolibrary.org/obo/NCIT_C37161) (Small Meningothelial Cell))) 39.20%
+- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) and (not ([NCIT:C37160](http://purl.obolibrary.org/obo/NCIT_C37160) (Meningothelial Cell with Clear Cytoplasm))) 39.20%
+- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) and (not ([NCIT:C37159](http://purl.obolibrary.org/obo/NCIT_C37159) (Eosinophilic Meningothelial Cell))) 39.20%
+- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) and (not ([NCIT:C37157](http://purl.obolibrary.org/obo/NCIT_C37157) (Meningothelial Cell with Elongated Processes))) 39.20%
+- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) and (not ([NCIT:C37156](http://purl.obolibrary.org/obo/NCIT_C37156) (Spindle-Shaped Meningothelial Cell))) 39.20%
+- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) and (not ([NCIT:C37154](http://purl.obolibrary.org/obo/NCIT_C37154) (Neoplastic Perineurial Cell))) 39.20%
+- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) and (not ([NCIT:C37152](http://purl.obolibrary.org/obo/NCIT_C37152) (Neoplastic Perineurial-Like Cell))) 39.20%
+- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) and (not ([NCIT:C37151](http://purl.obolibrary.org/obo/NCIT_C37151) (Neoplastic Schwann Cell))) 39.20%
+- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) and (not ([NCIT:C37149](http://purl.obolibrary.org/obo/NCIT_C37149) (Rhabdoid Cell))) 39.20%
+- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) and (not ([NCIT:C37147](http://purl.obolibrary.org/obo/NCIT_C37147) (Neoplastic Oligodendrocyte-Like Cell))) 39.20%
+- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) and (not ([NCIT:C37145](http://purl.obolibrary.org/obo/NCIT_C37145) (Neoplastic Neuroblast))) 39.20%
+- [NCIT:C25840](http://purl.obolibrary.org/obo/NCIT_C25840) (Cyclin Gene) and (not ([NCIT:C37144](http://purl.obolibrary.org/obo/NCIT_C37144) (Neoplastic Elongated Glial Cell))) 39.20%
 
 

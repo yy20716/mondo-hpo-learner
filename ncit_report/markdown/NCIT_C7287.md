@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.40%
-- [NCIT:C61450](http://purl.obolibrary.org/obo/NCIT_C61450) (Neoplastic Sex Cord-Stromal Cell Resembling Steroid Hormone-Secreting Cell) 52.78%
-- [NCIT:C36895](http://purl.obolibrary.org/obo/NCIT_C36895) (Neoplastic Sertoli Cell) 52.78%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C36896](http://purl.obolibrary.org/obo/NCIT_C36896) (Neoplastic Leydig Cell))) 51.63%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) 47.06%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C40029](http://purl.obolibrary.org/obo/NCIT_C40029) (Borderline Ovarian Serous Cystadenofibroma))) 47.06%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C40021](http://purl.obolibrary.org/obo/NCIT_C40021) (Ovarian Lymphoma))) 47.06%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 47.06%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 47.06%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 47.06%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 47.06%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 47.06%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 47.06%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 47.06%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 47.06%
+- [NCIT:C61450](http://purl.obolibrary.org/obo/NCIT_C61450) (Neoplastic Sex Cord-Stromal Cell Resembling Steroid Hormone-Secreting Cell) 66.67%
+- [NCIT:C36895](http://purl.obolibrary.org/obo/NCIT_C36895) (Neoplastic Sertoli Cell) 66.67%
+- [NCIT:C33246](http://purl.obolibrary.org/obo/NCIT_C33246) (Ovarian Tissue) 66.67%
+- [NCIT:C33246](http://purl.obolibrary.org/obo/NCIT_C33246) (Ovarian Tissue) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 66.67%
+- [NCIT:C33246](http://purl.obolibrary.org/obo/NCIT_C33246) (Ovarian Tissue) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 66.67%
+- [NCIT:C33246](http://purl.obolibrary.org/obo/NCIT_C33246) (Ovarian Tissue) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 66.67%
+- [NCIT:C33246](http://purl.obolibrary.org/obo/NCIT_C33246) (Ovarian Tissue) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 66.67%
+- [NCIT:C33246](http://purl.obolibrary.org/obo/NCIT_C33246) (Ovarian Tissue) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 66.67%
+- [NCIT:C33246](http://purl.obolibrary.org/obo/NCIT_C33246) (Ovarian Tissue) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 66.67%
+- [NCIT:C33246](http://purl.obolibrary.org/obo/NCIT_C33246) (Ovarian Tissue) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 66.67%
+- [NCIT:C33246](http://purl.obolibrary.org/obo/NCIT_C33246) (Ovarian Tissue) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 66.67%
+- [NCIT:C33246](http://purl.obolibrary.org/obo/NCIT_C33246) (Ovarian Tissue) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 66.67%
+- [NCIT:C33246](http://purl.obolibrary.org/obo/NCIT_C33246) (Ovarian Tissue) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 66.67%
+- [NCIT:C33246](http://purl.obolibrary.org/obo/NCIT_C33246) (Ovarian Tissue) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 66.67%
+- [NCIT:C33246](http://purl.obolibrary.org/obo/NCIT_C33246) (Ovarian Tissue) and (not ([UBERON:2001431](http://purl.obolibrary.org/obo/UBERON_2001431) (primitive olfactory epithelium))) 66.67%
 
 

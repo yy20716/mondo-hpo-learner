@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.16%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) 37.21%
-- [CL:0000186](http://purl.obolibrary.org/obo/CL_0000186) (myofibroblast cell) 37.21%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 37.21%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 37.21%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 37.21%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C39963](http://purl.obolibrary.org/obo/NCIT_C39963) (Penile Bowenoid Papulosis))) 37.21%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C39961](http://purl.obolibrary.org/obo/NCIT_C39961) (Penile Basal Cell Carcinoma))) 37.21%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C39959](http://purl.obolibrary.org/obo/NCIT_C39959) (Mixed Squamous Cell Carcinoma of the Penis))) 37.21%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C39957](http://purl.obolibrary.org/obo/NCIT_C39957) (Epididymal Adenocarcinoma))) 37.21%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C39956](http://purl.obolibrary.org/obo/NCIT_C39956) (Rete Testis Adenoma))) 37.21%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C3994](http://purl.obolibrary.org/obo/NCIT_C3994) (Stage IV Colon Cancer AJCC v6))) 37.21%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C3993](http://purl.obolibrary.org/obo/NCIT_C3993) (Stage II Colon Cancer AJCC v6))) 37.21%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C39914](http://purl.obolibrary.org/obo/NCIT_C39914) (Gain of Chromosome 12p))) 37.21%
-- [CL:0002576](http://purl.obolibrary.org/obo/CL_0002576) (perineural cell) and (not ([NCIT:C3991](http://purl.obolibrary.org/obo/NCIT_C3991) (Thrombocytopenia Due to Immune Destruction))) 37.21%
+- [NCIT:C3273](http://purl.obolibrary.org/obo/NCIT_C3273) (Neurofibromatosis Type 1) 75.00%
+- [NCIT:C6727](http://purl.obolibrary.org/obo/NCIT_C6727) (Neurofibromatosis) and (not ([NCIT:C3274](http://purl.obolibrary.org/obo/NCIT_C3274) (Neurofibromatosis Type 2))) 75.00%
+- [NCIT:C3273](http://purl.obolibrary.org/obo/NCIT_C3273) (Neurofibromatosis Type 1) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 75.00%
+- [NCIT:C3273](http://purl.obolibrary.org/obo/NCIT_C3273) (Neurofibromatosis Type 1) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 75.00%
+- [NCIT:C3273](http://purl.obolibrary.org/obo/NCIT_C3273) (Neurofibromatosis Type 1) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 75.00%
+- [NCIT:C3273](http://purl.obolibrary.org/obo/NCIT_C3273) (Neurofibromatosis Type 1) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 75.00%
+- [NCIT:C3273](http://purl.obolibrary.org/obo/NCIT_C3273) (Neurofibromatosis Type 1) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 75.00%
+- [NCIT:C3273](http://purl.obolibrary.org/obo/NCIT_C3273) (Neurofibromatosis Type 1) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 75.00%
+- [NCIT:C3273](http://purl.obolibrary.org/obo/NCIT_C3273) (Neurofibromatosis Type 1) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 75.00%
+- [NCIT:C3273](http://purl.obolibrary.org/obo/NCIT_C3273) (Neurofibromatosis Type 1) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 75.00%
+- [NCIT:C3273](http://purl.obolibrary.org/obo/NCIT_C3273) (Neurofibromatosis Type 1) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 75.00%
+- [NCIT:C3273](http://purl.obolibrary.org/obo/NCIT_C3273) (Neurofibromatosis Type 1) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 75.00%
+- [NCIT:C3273](http://purl.obolibrary.org/obo/NCIT_C3273) (Neurofibromatosis Type 1) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 75.00%
+- [NCIT:C3273](http://purl.obolibrary.org/obo/NCIT_C3273) (Neurofibromatosis Type 1) and (not ([UBERON:2001431](http://purl.obolibrary.org/obo/UBERON_2001431) (primitive olfactory epithelium))) 75.00%
+- [NCIT:C3273](http://purl.obolibrary.org/obo/NCIT_C3273) (Neurofibromatosis Type 1) and (not ([UBERON:2001073](http://purl.obolibrary.org/obo/UBERON_2001073) (axial vasculature))) 75.00%
 
 

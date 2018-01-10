@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C32991](http://purl.obolibrary.org/obo/NCIT_C32991) (Lipocyte))) 55.00%
-- Thing 53.58%
-- [NCIT:C48695](http://purl.obolibrary.org/obo/NCIT_C48695) (Cartilage Cell) 52.50%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) 45.82%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39618](http://purl.obolibrary.org/obo/NCIT_C39618) (Subcutaneous Nodule))) 45.82%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39617](http://purl.obolibrary.org/obo/NCIT_C39617) (Subcutaneous Involvement))) 45.82%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39616](http://purl.obolibrary.org/obo/NCIT_C39616) (Karyorrhexis))) 45.82%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39615](http://purl.obolibrary.org/obo/NCIT_C39615) (Sinusoidal Infiltration))) 45.82%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39609](http://purl.obolibrary.org/obo/NCIT_C39609) (Activated Natural Killer Cell))) 45.82%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39608](http://purl.obolibrary.org/obo/NCIT_C39608) (Coagulative Necrosis))) 45.82%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39602](http://purl.obolibrary.org/obo/NCIT_C39602) (Pleomorphic Medium-Sized to Large T-Lymphocyte))) 45.82%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39600](http://purl.obolibrary.org/obo/NCIT_C39600) (Neoplastic Medium-Sized T-Lymphocyte))) 45.82%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39598](http://purl.obolibrary.org/obo/NCIT_C39598) (CEBPA Gene))) 45.82%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39597](http://purl.obolibrary.org/obo/NCIT_C39597) (PRKCB Gene))) 45.82%
-- [NCIT:C12555](http://purl.obolibrary.org/obo/NCIT_C12555) (Connective and Soft Tissue Cell) and (not ([NCIT:C39596](http://purl.obolibrary.org/obo/NCIT_C39596) (CCND2 Gene))) 45.82%
+- Thing 51.59%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) 43.69%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C37044](http://purl.obolibrary.org/obo/NCIT_C37044) (Large Megakaryocyte))) 43.69%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C37041](http://purl.obolibrary.org/obo/NCIT_C37041) (Neoplastic Monocyte))) 43.69%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C3704](http://purl.obolibrary.org/obo/NCIT_C3704) (Dedifferentiated Liposarcoma))) 43.69%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C37039](http://purl.obolibrary.org/obo/NCIT_C37039) (Large Atypical Platelet))) 43.69%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C37032](http://purl.obolibrary.org/obo/NCIT_C37032) (Abnormal Eosinophil))) 43.69%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C37030](http://purl.obolibrary.org/obo/NCIT_C37030) (Toxic Neutrophil))) 43.69%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C37027](http://purl.obolibrary.org/obo/NCIT_C37027) (Popcorn Cell))) 43.69%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C37026](http://purl.obolibrary.org/obo/NCIT_C37026) (Hodgkin-Like Cell))) 43.69%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C37025](http://purl.obolibrary.org/obo/NCIT_C37025) (Mummified Cell))) 43.69%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C37024](http://purl.obolibrary.org/obo/NCIT_C37024) (Reed-Sternberg-Like Cell))) 43.69%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C37023](http://purl.obolibrary.org/obo/NCIT_C37023) (Lacunar Reed-Sternberg Cell))) 43.69%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C37021](http://purl.obolibrary.org/obo/NCIT_C37021) (Hodgkin Cell))) 43.69%
+- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C37020](http://purl.obolibrary.org/obo/NCIT_C37020) (Neoplastic Large Cleaved Follicle Center Cell))) 43.69%
 
 

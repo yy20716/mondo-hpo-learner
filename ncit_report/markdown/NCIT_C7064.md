@@ -2,24 +2,24 @@
 ### [NCIT:C7064](http://purl.obolibrary.org/obo/NCIT_C7064)
 **Label:** Erythroid Neoplasm
 
-**Subclasses:** [NCIT:C9164](http://purl.obolibrary.org/obo/NCIT_C9164) (Childhood Acute Erythroid Leukemia), [NCIT:C9153](http://purl.obolibrary.org/obo/NCIT_C9153) (Adult Acute Erythroid Leukemia), [NCIT:C41233](http://purl.obolibrary.org/obo/NCIT_C41233) (Polycythemia Vera, Post-Polycythemic Myelofibrosis Phase), [NCIT:C41232](http://purl.obolibrary.org/obo/NCIT_C41232) (Polycythemia Vera, Polycythemic Phase), [NCIT:C8923](http://purl.obolibrary.org/obo/NCIT_C8923) (Acute Erythroid Leukemia), [NCIT:C3336](http://purl.obolibrary.org/obo/NCIT_C3336) (Polycythemia Vera), 
+**Subclasses:** [NCIT:C9153](http://purl.obolibrary.org/obo/NCIT_C9153) (Adult Acute Erythroid Leukemia), [NCIT:C9164](http://purl.obolibrary.org/obo/NCIT_C9164) (Childhood Acute Erythroid Leukemia), [NCIT:C41233](http://purl.obolibrary.org/obo/NCIT_C41233) (Polycythemia Vera, Post-Polycythemic Myelofibrosis Phase), [NCIT:C41232](http://purl.obolibrary.org/obo/NCIT_C41232) (Polycythemia Vera, Polycythemic Phase), [NCIT:C8923](http://purl.obolibrary.org/obo/NCIT_C8923) (Acute Erythroid Leukemia), [NCIT:C3336](http://purl.obolibrary.org/obo/NCIT_C3336) (Polycythemia Vera), 
 
 **Class expressions from DL-Learner:**
 
-- Thing 52.26%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) 41.61%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39903](http://purl.obolibrary.org/obo/NCIT_C39903) (Prostate Adenocarcinoma with Focal Neuroendocrine Differentiation))) 41.61%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39902](http://purl.obolibrary.org/obo/NCIT_C39902) (Prostate Basal Cell Carcinoma))) 41.61%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39901](http://purl.obolibrary.org/obo/NCIT_C39901) (Prostatic Duct Urothelial Carcinoma))) 41.61%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39899](http://purl.obolibrary.org/obo/NCIT_C39899) (Secondary Prostate Urothelial Carcinoma))) 41.61%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39897](http://purl.obolibrary.org/obo/NCIT_C39897) (Prostate Ductal Adenocarcinoma, Solid Pattern))) 41.61%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39896](http://purl.obolibrary.org/obo/NCIT_C39896) (Prostate Ductal Adenocarcinoma, Papillary Pattern))) 41.61%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39895](http://purl.obolibrary.org/obo/NCIT_C39895) (Prostate Ductal Adenocarcinoma, Cribriform Pattern))) 41.61%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C3989](http://purl.obolibrary.org/obo/NCIT_C3989) (Parathyroid Hyperplasia))) 41.61%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39885](http://purl.obolibrary.org/obo/NCIT_C39885) (Acinar Prostate Adenocarcinoma, Lymphoepithelioma-Like Variant))) 41.61%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39880](http://purl.obolibrary.org/obo/NCIT_C39880) (Acinar Prostate Adenocarcinoma, Atrophic Variant))) 41.61%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q))) 41.61%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39874](http://purl.obolibrary.org/obo/NCIT_C39874) (Urethral Verrucous Carcinoma))) 41.61%
-- [NCIT:C32725](http://purl.obolibrary.org/obo/NCIT_C32725) (Hematopoietic and Lymphoid Cell) and (not ([NCIT:C39873](http://purl.obolibrary.org/obo/NCIT_C39873) (Urethral Glandular Metaplasia))) 41.61%
+- [NCIT:C43221](http://purl.obolibrary.org/obo/NCIT_C43221) (Bone Marrow Stem Cell Committed to the Megakaryocytic Lineage) 75.00%
+- [UBERON:0002371](http://purl.obolibrary.org/obo/UBERON_0002371) (bone marrow) and (not ([UBERON:0000332](http://purl.obolibrary.org/obo/UBERON_0000332) (yellow bone marrow))) 75.00%
+- [UBERON:0002371](http://purl.obolibrary.org/obo/UBERON_0002371) (bone marrow) 60.36%
+- [UBERON:0002371](http://purl.obolibrary.org/obo/UBERON_0002371) (bone marrow) and (not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion))) 60.36%
+- [UBERON:0002371](http://purl.obolibrary.org/obo/UBERON_0002371) (bone marrow) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 60.36%
+- [UBERON:0002371](http://purl.obolibrary.org/obo/UBERON_0002371) (bone marrow) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 60.36%
+- [UBERON:0002371](http://purl.obolibrary.org/obo/UBERON_0002371) (bone marrow) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 60.36%
+- [UBERON:0002371](http://purl.obolibrary.org/obo/UBERON_0002371) (bone marrow) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 60.36%
+- [UBERON:0002371](http://purl.obolibrary.org/obo/UBERON_0002371) (bone marrow) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 60.36%
+- [UBERON:0002371](http://purl.obolibrary.org/obo/UBERON_0002371) (bone marrow) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 60.36%
+- [UBERON:0002371](http://purl.obolibrary.org/obo/UBERON_0002371) (bone marrow) and (not (CARO:0010000)) 60.36%
+- [UBERON:0002371](http://purl.obolibrary.org/obo/UBERON_0002371) (bone marrow) and (not ([BFO:0000020](http://purl.obolibrary.org/obo/BFO_0000020) (null))) 60.36%
+- [UBERON:0002371](http://purl.obolibrary.org/obo/UBERON_0002371) (bone marrow) and (not ([BFO:0000019](http://purl.obolibrary.org/obo/BFO_0000019) (null))) 60.36%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 51.45%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 51.44%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.16%
-- [NCIT:C28079](http://purl.obolibrary.org/obo/NCIT_C28079) (Grade 3) 51.85%
-- [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188) (cell of skeletal muscle) 37.21%
-- [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188) (cell of skeletal muscle) and (not ([NCIT:C39807](http://purl.obolibrary.org/obo/NCIT_C39807) (Mucinous Tubular and Spindle Cell Carcinoma of the Kidney))) 37.21%
-- [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188) (cell of skeletal muscle) and (not ([NCIT:C39806](http://purl.obolibrary.org/obo/NCIT_C39806) (NONO-TFE3 Fusion Protein Expression))) 37.21%
-- [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188) (cell of skeletal muscle) and (not ([NCIT:C39805](http://purl.obolibrary.org/obo/NCIT_C39805) (PSF-TFE3 Fusion Protein Expression))) 37.21%
-- [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188) (cell of skeletal muscle) and (not ([NCIT:C39803](http://purl.obolibrary.org/obo/NCIT_C39803) (PRCC-TFE3 Fusion Protein Expression))) 37.21%
-- [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188) (cell of skeletal muscle) and (not ([NCIT:C39802](http://purl.obolibrary.org/obo/NCIT_C39802) (Renal Cell Carcinoma Associated with inv(X)(p11;q12)))) 37.21%
-- [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188) (cell of skeletal muscle) and (not ([NCIT:C39801](http://purl.obolibrary.org/obo/NCIT_C39801) (inv(X)(p11;q12)))) 37.21%
-- [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188) (cell of skeletal muscle) and (not ([NCIT:C39800](http://purl.obolibrary.org/obo/NCIT_C39800) (Sickle Cell Trait))) 37.21%
-- [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188) (cell of skeletal muscle) and (not ([NCIT:C39799](http://purl.obolibrary.org/obo/NCIT_C39799) (Loss of Chromosome 21))) 37.21%
-- [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188) (cell of skeletal muscle) and (not ([NCIT:C39798](http://purl.obolibrary.org/obo/NCIT_C39798) (Loss of Chromosome 2))) 37.21%
-- [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188) (cell of skeletal muscle) and (not ([NCIT:C39795](http://purl.obolibrary.org/obo/NCIT_C39795) (Loss of Chromosome 14q))) 37.21%
-- [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188) (cell of skeletal muscle) and (not ([NCIT:C39788](http://purl.obolibrary.org/obo/NCIT_C39788) (MET Gene Mutation))) 37.21%
-- [CL:0000188](http://purl.obolibrary.org/obo/CL_0000188) (cell of skeletal muscle) and (not ([NCIT:C39787](http://purl.obolibrary.org/obo/NCIT_C39787) (Multiple Tumor Masses))) 37.21%
+- [NCIT:C36562](http://purl.obolibrary.org/obo/NCIT_C36562) (Rearrangement of 12q13) 58.33%
+- [NCIT:C36561](http://purl.obolibrary.org/obo/NCIT_C36561) (Rearrangement of 1p11-q11) 58.33%
+- [NCIT:C36560](http://purl.obolibrary.org/obo/NCIT_C36560) (del(11p15)) 58.33%
+- [NCIT:C36505](http://purl.obolibrary.org/obo/NCIT_C36505) (Loss of Chromosome 11p) 58.33%
+- Thing 51.59%
+- [NCIT:C49202](http://purl.obolibrary.org/obo/NCIT_C49202) (Primitive Malignant Skeletal Muscle Cell) 43.69%
+- [NCIT:C49198](http://purl.obolibrary.org/obo/NCIT_C49198) (Malignant Rhabdomyoblast) and [NCIT:C49200](http://purl.obolibrary.org/obo/NCIT_C49200) (Primitive Skeletal Muscle Cell) 43.69%
+- [NCIT:C49197](http://purl.obolibrary.org/obo/NCIT_C49197) (Malignant Skeletal Muscle Cell) and [NCIT:C49200](http://purl.obolibrary.org/obo/NCIT_C49200) (Primitive Skeletal Muscle Cell) 43.69%
+- [NCIT:C49167](http://purl.obolibrary.org/obo/NCIT_C49167) (Neoplastic Skeletal Muscle Cell) and [NCIT:C49200](http://purl.obolibrary.org/obo/NCIT_C49200) (Primitive Skeletal Muscle Cell) 43.69%
+- [NCIT:C48787](http://purl.obolibrary.org/obo/NCIT_C48787) (Malignant Connective and Soft Tissue Cell) and [NCIT:C49200](http://purl.obolibrary.org/obo/NCIT_C49200) (Primitive Skeletal Muscle Cell) 43.69%
+- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C49200](http://purl.obolibrary.org/obo/NCIT_C49200) (Primitive Skeletal Muscle Cell) 43.69%
+- [NCIT:C49202](http://purl.obolibrary.org/obo/NCIT_C49202) (Primitive Malignant Skeletal Muscle Cell) and (not ([NCIT:C37063](http://purl.obolibrary.org/obo/NCIT_C37063) (Immature Malignant Mast Cell))) 43.69%
+- [NCIT:C49202](http://purl.obolibrary.org/obo/NCIT_C49202) (Primitive Malignant Skeletal Muscle Cell) and (not ([NCIT:C37058](http://purl.obolibrary.org/obo/NCIT_C37058) (Ring Sideroblast))) 43.69%
+- [NCIT:C49202](http://purl.obolibrary.org/obo/NCIT_C49202) (Primitive Malignant Skeletal Muscle Cell) and (not ([NCIT:C37055](http://purl.obolibrary.org/obo/NCIT_C37055) (Large Multinucleated Erythroid Cell))) 43.69%
+- [NCIT:C49202](http://purl.obolibrary.org/obo/NCIT_C49202) (Primitive Malignant Skeletal Muscle Cell) and (not ([NCIT:C37052](http://purl.obolibrary.org/obo/NCIT_C37052) (Faggot Cell))) 43.69%
 
 

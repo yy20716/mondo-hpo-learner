@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.20%
-- [UBERON:0002423](http://purl.obolibrary.org/obo/UBERON_0002423) (hepatobiliary system) 53.12%
-- [UBERON:0001555](http://purl.obolibrary.org/obo/UBERON_0001555) (digestive tract) 53.12%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 38.48%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37244](http://purl.obolibrary.org/obo/NCIT_C37244) (FUS-ATF1 Fusion Protein Expression))) 38.48%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37243](http://purl.obolibrary.org/obo/NCIT_C37243) (ETV6-NTRK3 Fusion Protein Expression))) 38.48%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37242](http://purl.obolibrary.org/obo/NCIT_C37242) (HAS2-PLAG1 Fusion Protein Expression))) 38.48%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37241](http://purl.obolibrary.org/obo/NCIT_C37241) (COL1A2-PLAG1 Fusion Protein Expression))) 38.48%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37240](http://purl.obolibrary.org/obo/NCIT_C37240) (PAX7-FOXO1 Fusion Protein Expression))) 38.48%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C3724](http://purl.obolibrary.org/obo/NCIT_C3724) (Cystic Hygroma))) 38.48%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37239](http://purl.obolibrary.org/obo/NCIT_C37239) (PAX3-FOXO1 Fusion Protein Expression))) 38.48%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37238](http://purl.obolibrary.org/obo/NCIT_C37238) (FUS-DDIT3 Fusion Protein Expression))) 38.48%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37237](http://purl.obolibrary.org/obo/NCIT_C37237) (EWSR1-WT1 Fusion Protein Expression))) 38.48%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37231](http://purl.obolibrary.org/obo/NCIT_C37231) (EWSR1-ETV4 Fusion Protein Expression))) 38.48%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C37230](http://purl.obolibrary.org/obo/NCIT_C37230) (EWSR1-ETV1 Fusion Protein Expression))) 38.48%
+- [NCIT:C40560](http://purl.obolibrary.org/obo/NCIT_C40560) (Exophytic Polypoid Lesion) 66.67%
+- Thing 51.13%
+- [UBERON:0004820](http://purl.obolibrary.org/obo/UBERON_0004820) (bile duct epithelium) 45.53%
+- [UBERON:0034932](http://purl.obolibrary.org/obo/UBERON_0034932) (epithelium of biliary system) 41.67%
+- [UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure) 38.79%
+- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 35.19%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 35.14%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 35.04%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 34.94%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 34.92%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 34.79%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 34.78%
+- [UBERON:0002394](http://purl.obolibrary.org/obo/UBERON_0002394) (bile duct) 29.17%
+- [UBERON:0005911](http://purl.obolibrary.org/obo/UBERON_0005911) (endo-epithelium) 23.02%
+- [UBERON:0000064](http://purl.obolibrary.org/obo/UBERON_0000064) (organ part) 19.31%
 
 

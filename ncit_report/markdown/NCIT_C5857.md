@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.40%
-- [UBERON:0004822](http://purl.obolibrary.org/obo/UBERON_0004822) (extrahepatic bile duct epithelium) 52.78%
-- [UBERON:0004820](http://purl.obolibrary.org/obo/UBERON_0004820) (bile duct epithelium) 46.38%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 32.27%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 29.55%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 29.27%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 26.52%
-- [UBERON:0002394](http://purl.obolibrary.org/obo/UBERON_0002394) (bile duct) 24.45%
-- [UBERON:0003703](http://purl.obolibrary.org/obo/UBERON_0003703) (extrahepatic bile duct) 21.68%
-- [NCIT:C33923](http://purl.obolibrary.org/obo/NCIT_C33923) (Glandular Cell) 21.68%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 17.29%
-- [CL:0000066](http://purl.obolibrary.org/obo/CL_0000066) (epithelial cell) 14.61%
-- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 12.43%
-- [CL:0000548](http://purl.obolibrary.org/obo/CL_0000548) (animal cell) 11.09%
-- [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) 11.09%
+- [UBERON:0004822](http://purl.obolibrary.org/obo/UBERON_0004822) (extrahepatic bile duct epithelium) 75.00%
+- [UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure) 55.46%
+- [UBERON:0004820](http://purl.obolibrary.org/obo/UBERON_0004820) (bile duct epithelium) 53.87%
+- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 51.86%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 51.81%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 51.70%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 51.60%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 51.59%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 51.45%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 51.44%
+- Thing 50.92%
+- [UBERON:0003703](http://purl.obolibrary.org/obo/UBERON_0003703) (extrahepatic bile duct) 42.68%
+- [UBERON:0002394](http://purl.obolibrary.org/obo/UBERON_0002394) (bile duct) 37.50%
+- [UBERON:0005911](http://purl.obolibrary.org/obo/UBERON_0005911) (endo-epithelium) 31.35%
+- [UBERON:0000064](http://purl.obolibrary.org/obo/UBERON_0000064) (organ part) 27.65%
 
 

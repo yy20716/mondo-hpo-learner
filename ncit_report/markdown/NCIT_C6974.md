@@ -7,19 +7,19 @@
 **Class expressions from DL-Learner:**
 
 - [NCIT:C41611](http://purl.obolibrary.org/obo/NCIT_C41611) (Precise Histogenesis Unknown) 66.67%
-- Thing 51.39%
-- [NCIT:C36292](http://purl.obolibrary.org/obo/NCIT_C36292) (Laboratory Test Result) 20.57%
-- [NCIT:C77140](http://purl.obolibrary.org/obo/NCIT_C77140) (Clinical Test Result) 20.50%
-- [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000) (cell) 20.29%
-- [GO:0005575](http://purl.obolibrary.org/obo/GO_0005575) (cellular_component) 20.09%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 18.46%
-- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 18.40%
-- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 18.34%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 18.28%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 18.19%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 18.19%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 18.18%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 18.09%
-- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 18.09%
+- Thing 51.13%
+- [NCIT:C36292](http://purl.obolibrary.org/obo/NCIT_C36292) (Laboratory Test Result) 20.55%
+- [NCIT:C77140](http://purl.obolibrary.org/obo/NCIT_C77140) (Clinical Test Result) 20.47%
+- [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000) (cell) 19.39%
+- [GO:0005575](http://purl.obolibrary.org/obo/GO_0005575) (cellular_component) 19.23%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 18.45%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 18.02%
+- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 17.98%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 17.94%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 17.87%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 17.80%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 17.79%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 17.70%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 17.69%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0001132](http://purl.obolibrary.org/obo/UBERON_0001132) (parathyroid gland) 55.00%
-- [UBERON:0000974](http://purl.obolibrary.org/obo/UBERON_0000974) (neck) 55.00%
-- [NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q) 55.00%
-- [NCIT:C39795](http://purl.obolibrary.org/obo/NCIT_C39795) (Loss of Chromosome 14q) 55.00%
-- [NCIT:C37312](http://purl.obolibrary.org/obo/NCIT_C37312) (Loss of Chromosome 11q) 55.00%
-- [NCIT:C36636](http://purl.obolibrary.org/obo/NCIT_C36636) (Loss of Chromosome 9p) 55.00%
-- [NCIT:C36515](http://purl.obolibrary.org/obo/NCIT_C36515) (Loss of Chromosome 16q) 55.00%
-- [NCIT:C36497](http://purl.obolibrary.org/obo/NCIT_C36497) (Loss of Chromosome 13q) 55.00%
-- [NCIT:C33270](http://purl.obolibrary.org/obo/NCIT_C33270) (Parathyroid Gland Tissue) 55.00%
-- Thing 52.53%
-- [NCIT:C36315](http://purl.obolibrary.org/obo/NCIT_C36315) (Chromosomal Loss) 47.50%
-- [NCIT:C6825](http://purl.obolibrary.org/obo/NCIT_C6825) (Numerical Chromosomal Abnormality) 40.24%
-- [NCIT:C2950](http://purl.obolibrary.org/obo/NCIT_C2950) (Cytogenetic Abnormality) 37.45%
-- [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 35.84%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 17.63%
+- [UBERON:0001132](http://purl.obolibrary.org/obo/UBERON_0001132) (parathyroid gland) 75.00%
+- [NCIT:C33270](http://purl.obolibrary.org/obo/NCIT_C33270) (Parathyroid Gland Tissue) 75.00%
+- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 51.86%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 51.81%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 51.70%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 51.60%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 51.59%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 51.45%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 51.44%
+- Thing 50.92%
+- [UBERON:0002368](http://purl.obolibrary.org/obo/UBERON_0002368) (endocrine gland) 39.43%
+- [UBERON:0002530](http://purl.obolibrary.org/obo/UBERON_0002530) (gland) 31.93%
+- [UBERON:0000062](http://purl.obolibrary.org/obo/UBERON_0000062) (organ) 28.13%
+- [UBERON:0000479](http://purl.obolibrary.org/obo/UBERON_0000479) (tissue) 27.35%
+- CP:0000037 0.00%
 
 

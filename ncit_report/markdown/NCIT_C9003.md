@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.08%
-- [NCIT:C48361](http://purl.obolibrary.org/obo/NCIT_C48361) (Neoplastic Adrenal Cortical Cell) 37.28%
-- [NCIT:C48361](http://purl.obolibrary.org/obo/NCIT_C48361) (Neoplastic Adrenal Cortical Cell) and (not ([NCIT:C40209](http://purl.obolibrary.org/obo/NCIT_C40209) (Cervical Glandular Dysplasia))) 37.28%
-- [NCIT:C48361](http://purl.obolibrary.org/obo/NCIT_C48361) (Neoplastic Adrenal Cortical Cell) and (not ([NCIT:C40208](http://purl.obolibrary.org/obo/NCIT_C40208) (Cervical Villoglandular Adenocarcinoma))) 37.28%
-- [NCIT:C48361](http://purl.obolibrary.org/obo/NCIT_C48361) (Neoplastic Adrenal Cortical Cell) and (not ([NCIT:C40206](http://purl.obolibrary.org/obo/NCIT_C40206) (Cervical Mucinous Adenocarcinoma, Minimal Deviation Type))) 37.28%
-- [NCIT:C48361](http://purl.obolibrary.org/obo/NCIT_C48361) (Neoplastic Adrenal Cortical Cell) and (not ([NCIT:C40205](http://purl.obolibrary.org/obo/NCIT_C40205) (Cervical Mucinous Adenocarcinoma, Signet Ring Cell Type))) 37.28%
-- [NCIT:C48361](http://purl.obolibrary.org/obo/NCIT_C48361) (Neoplastic Adrenal Cortical Cell) and (not ([NCIT:C40203](http://purl.obolibrary.org/obo/NCIT_C40203) (Cervical Mucinous Adenocarcinoma, Intestinal-Type))) 37.28%
-- [NCIT:C48361](http://purl.obolibrary.org/obo/NCIT_C48361) (Neoplastic Adrenal Cortical Cell) and (not ([NCIT:C40201](http://purl.obolibrary.org/obo/NCIT_C40201) (Cervical Serous Adenocarcinoma))) 37.28%
-- [NCIT:C48361](http://purl.obolibrary.org/obo/NCIT_C48361) (Neoplastic Adrenal Cortical Cell) and (not ([NCIT:C4020](http://purl.obolibrary.org/obo/NCIT_C4020) (Fibroblastic Osteosarcoma))) 37.28%
-- [NCIT:C48361](http://purl.obolibrary.org/obo/NCIT_C48361) (Neoplastic Adrenal Cortical Cell) and (not ([NCIT:C40199](http://purl.obolibrary.org/obo/NCIT_C40199) (Cervical Squamous Intraepithelial Neoplasia 1))) 37.28%
-- [NCIT:C48361](http://purl.obolibrary.org/obo/NCIT_C48361) (Neoplastic Adrenal Cortical Cell) and (not ([NCIT:C40198](http://purl.obolibrary.org/obo/NCIT_C40198) (Cervical Squamous Intraepithelial Neoplasia 2))) 37.28%
-- [NCIT:C48361](http://purl.obolibrary.org/obo/NCIT_C48361) (Neoplastic Adrenal Cortical Cell) and (not ([NCIT:C40194](http://purl.obolibrary.org/obo/NCIT_C40194) (Cervical Squamotransitional Carcinoma))) 37.28%
-- [NCIT:C48361](http://purl.obolibrary.org/obo/NCIT_C48361) (Neoplastic Adrenal Cortical Cell) and (not ([NCIT:C40193](http://purl.obolibrary.org/obo/NCIT_C40193) (Cervical Lymphoepithelioma-Like Carcinoma))) 37.28%
-- [NCIT:C48361](http://purl.obolibrary.org/obo/NCIT_C48361) (Neoplastic Adrenal Cortical Cell) and (not ([NCIT:C40191](http://purl.obolibrary.org/obo/NCIT_C40191) (Cervical Warty Carcinoma))) 37.28%
-- [NCIT:C48361](http://purl.obolibrary.org/obo/NCIT_C48361) (Neoplastic Adrenal Cortical Cell) and (not ([NCIT:C40190](http://purl.obolibrary.org/obo/NCIT_C40190) (Cervical Verrucous Carcinoma))) 37.28%
+- [NCIT:C46128](http://purl.obolibrary.org/obo/NCIT_C46128) (Capsular Invasion) 55.56%
+- [NCIT:C41457](http://purl.obolibrary.org/obo/NCIT_C41457) (Well-Circumscribed Lesion) 55.56%
+- [NCIT:C36501](http://purl.obolibrary.org/obo/NCIT_C36501) (Loss of Chromosome 1p) 55.56%
+- [NCIT:C36483](http://purl.obolibrary.org/obo/NCIT_C36483) (Gain of Chromosome 9q) 55.56%
+- [NCIT:C36482](http://purl.obolibrary.org/obo/NCIT_C36482) (Gain of Chromosome 1q) 55.56%
+- [NCIT:C36108](http://purl.obolibrary.org/obo/NCIT_C36108) (Encapsulated Mass) 55.56%
+- Thing 51.95%
+- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) 40.91%
+- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([NCIT:C37017](http://purl.obolibrary.org/obo/NCIT_C37017) (Anaplastic Large T-Lymphocyte))) 40.91%
+- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([NCIT:C37015](http://purl.obolibrary.org/obo/NCIT_C37015) (Anaplastic Large B-Lymphocyte))) 40.91%
+- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([NCIT:C37014](http://purl.obolibrary.org/obo/NCIT_C37014) (Neoplastic Centroblast))) 40.91%
+- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([NCIT:C37012](http://purl.obolibrary.org/obo/NCIT_C37012) (Neoplastic T-Immunoblast))) 40.91%
+- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast))) 40.91%
+- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([NCIT:C37006](http://purl.obolibrary.org/obo/NCIT_C37006) (Neoplastic Medium-Sized B-Lymphocyte with Eccentric Basophilic Cytoplasm))) 40.91%
+- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) and (not ([NCIT:C37003](http://purl.obolibrary.org/obo/NCIT_C37003) (Neoplastic Monocytoid B-Lymphocyte))) 40.91%
 
 

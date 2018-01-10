@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.20%
-- [NCIT:C48431](http://purl.obolibrary.org/obo/NCIT_C48431) (Neural Crest-Derived Cell) 53.12%
-- [CL:0002371](http://purl.obolibrary.org/obo/CL_0002371) (somatic cell) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 53.12%
-- [CL:0002077](http://purl.obolibrary.org/obo/CL_0002077) (ecto-epithelial cell) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 53.12%
-- [CL:0000710](http://purl.obolibrary.org/obo/CL_0000710) (neurecto-epithelial cell) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 53.12%
-- [CL:0000393](http://purl.obolibrary.org/obo/CL_0000393) (electrically responsive cell) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 53.12%
-- [CL:0000211](http://purl.obolibrary.org/obo/CL_0000211) (electrically active cell) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 53.12%
-- [CL:0000165](http://purl.obolibrary.org/obo/CL_0000165) (neuroendocrine cell) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 53.12%
-- [CL:0000163](http://purl.obolibrary.org/obo/CL_0000163) (endocrine cell) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 53.12%
-- [CL:0000151](http://purl.obolibrary.org/obo/CL_0000151) (secretory cell) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 53.12%
-- [CL:0000075](http://purl.obolibrary.org/obo/CL_0000075) (columnar/cuboidal epithelial cell) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 53.12%
-- [CL:0000066](http://purl.obolibrary.org/obo/CL_0000066) (epithelial cell) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 53.12%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) and [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 53.12%
-- [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) 38.48%
-- [NCIT:C42050](http://purl.obolibrary.org/obo/NCIT_C42050) (Neuroectodermal Cell) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 38.48%
+- Thing 51.45%
+- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) 45.36%
+- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C37020](http://purl.obolibrary.org/obo/NCIT_C37020) (Neoplastic Large Cleaved Follicle Center Cell))) 45.36%
+- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C37019](http://purl.obolibrary.org/obo/NCIT_C37019) (Neoplastic T-Cell Large Granular Lymphocyte))) 45.36%
+- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C37017](http://purl.obolibrary.org/obo/NCIT_C37017) (Anaplastic Large T-Lymphocyte))) 45.36%
+- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C37015](http://purl.obolibrary.org/obo/NCIT_C37015) (Anaplastic Large B-Lymphocyte))) 45.36%
+- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C37014](http://purl.obolibrary.org/obo/NCIT_C37014) (Neoplastic Centroblast))) 45.36%
+- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C37012](http://purl.obolibrary.org/obo/NCIT_C37012) (Neoplastic T-Immunoblast))) 45.36%
+- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast))) 45.36%
+- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C37006](http://purl.obolibrary.org/obo/NCIT_C37006) (Neoplastic Medium-Sized B-Lymphocyte with Eccentric Basophilic Cytoplasm))) 45.36%
+- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C37003](http://purl.obolibrary.org/obo/NCIT_C37003) (Neoplastic Monocytoid B-Lymphocyte))) 45.36%
+- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C37002](http://purl.obolibrary.org/obo/NCIT_C37002) (Neoplastic Small Cleaved Follicle Center Cell))) 45.36%
+- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C37001](http://purl.obolibrary.org/obo/NCIT_C37001) (Centrocyte-Like Cell))) 45.36%
+- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C37000](http://purl.obolibrary.org/obo/NCIT_C37000) (Lymphoplasmacytoid Cell))) 45.36%
+- [NCIT:C48559](http://purl.obolibrary.org/obo/NCIT_C48559) (Neoplastic Chromaffin Cell) and (not ([NCIT:C36991](http://purl.obolibrary.org/obo/NCIT_C36991) (Neoplastic Small to Medium-Sized B-Lymphocyte with Pale Cytoplasm))) 45.36%
 
 

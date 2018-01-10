@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 55.25%
-- [NCIT:C36604](http://purl.obolibrary.org/obo/NCIT_C36604) (del(9p21p22)) 51.16%
-- [NCIT:C36603](http://purl.obolibrary.org/obo/NCIT_C36603) (t(7;9)(q34;q32)) 51.16%
-- [NCIT:C36602](http://purl.obolibrary.org/obo/NCIT_C36602) (inv(14)(q11;q32.1)) 51.16%
-- [NCIT:C36519](http://purl.obolibrary.org/obo/NCIT_C36519) (t(7;14)(q35;q32.1)) 51.16%
-- [NCIT:C36518](http://purl.obolibrary.org/obo/NCIT_C36518) (t(7;19)(q34;q13)) 51.16%
-- [NCIT:C36400](http://purl.obolibrary.org/obo/NCIT_C36400) (t(8;13)(p11;q11)) 51.16%
-- [NCIT:C36359](http://purl.obolibrary.org/obo/NCIT_C36359) (t(1;7)(p33;q35)) 51.16%
-- [NCIT:C36356](http://purl.obolibrary.org/obo/NCIT_C36356) (t(14;14)(q11;q32)) 51.16%
-- [NCIT:C36353](http://purl.obolibrary.org/obo/NCIT_C36353) (t(7;10)(q34;q24)) 51.16%
-- [NCIT:C36352](http://purl.obolibrary.org/obo/NCIT_C36352) (t(10;14)(q24;q11)) 51.16%
-- [NCIT:C36351](http://purl.obolibrary.org/obo/NCIT_C36351) (t(11;14)(p13;q11)) 51.16%
-- [NCIT:C36350](http://purl.obolibrary.org/obo/NCIT_C36350) (t(11;14)(p15;q11)) 51.16%
-- [NCIT:C36349](http://purl.obolibrary.org/obo/NCIT_C36349) (t(7;9)(q34;q34.3)) 51.16%
-- [NCIT:C36348](http://purl.obolibrary.org/obo/NCIT_C36348) (t(1;14)(p32;q11)) 51.16%
+- Thing 51.59%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 45.64%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 44.70%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) 43.69%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37041](http://purl.obolibrary.org/obo/NCIT_C37041) (Neoplastic Monocyte))) 43.69%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C3704](http://purl.obolibrary.org/obo/NCIT_C3704) (Dedifferentiated Liposarcoma))) 43.69%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37039](http://purl.obolibrary.org/obo/NCIT_C37039) (Large Atypical Platelet))) 43.69%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37032](http://purl.obolibrary.org/obo/NCIT_C37032) (Abnormal Eosinophil))) 43.69%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37030](http://purl.obolibrary.org/obo/NCIT_C37030) (Toxic Neutrophil))) 43.69%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37027](http://purl.obolibrary.org/obo/NCIT_C37027) (Popcorn Cell))) 43.69%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37026](http://purl.obolibrary.org/obo/NCIT_C37026) (Hodgkin-Like Cell))) 43.69%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37025](http://purl.obolibrary.org/obo/NCIT_C37025) (Mummified Cell))) 43.69%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37024](http://purl.obolibrary.org/obo/NCIT_C37024) (Reed-Sternberg-Like Cell))) 43.69%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37023](http://purl.obolibrary.org/obo/NCIT_C37023) (Lacunar Reed-Sternberg Cell))) 43.69%
+- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C37021](http://purl.obolibrary.org/obo/NCIT_C37021) (Hodgkin Cell))) 43.69%
 
 

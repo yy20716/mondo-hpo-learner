@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0002423](http://purl.obolibrary.org/obo/UBERON_0002423) (hepatobiliary system) 54.17%
-- [NCIT:C62214](http://purl.obolibrary.org/obo/NCIT_C62214) (Intraductal Lesion) 54.17%
-- [NCIT:C35999](http://purl.obolibrary.org/obo/NCIT_C35999) (Mucoid Stroma Formation) 54.17%
-- [NCIT:C35911](http://purl.obolibrary.org/obo/NCIT_C35911) (Papillary Pattern) 54.17%
-- Thing 52.77%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36605](http://purl.obolibrary.org/obo/NCIT_C36605) (i(19)))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36604](http://purl.obolibrary.org/obo/NCIT_C36604) (del(9p21p22)))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36603](http://purl.obolibrary.org/obo/NCIT_C36603) (t(7;9)(q34;q32)))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36602](http://purl.obolibrary.org/obo/NCIT_C36602) (inv(14)(q11;q32.1)))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36599](http://purl.obolibrary.org/obo/NCIT_C36599) (Loss of Chromosome Y))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36598](http://purl.obolibrary.org/obo/NCIT_C36598) (Loss of Chromosome 18))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36597](http://purl.obolibrary.org/obo/NCIT_C36597) (Loss of Chromosome 1))) 39.52%
-- [NCIT:C45714](http://purl.obolibrary.org/obo/NCIT_C45714) (Epithelial Tissue) and (not ([NCIT:C36596](http://purl.obolibrary.org/obo/NCIT_C36596) (Gain of Chromosome 6q))) 39.52%
+- [NCIT:C62214](http://purl.obolibrary.org/obo/NCIT_C62214) (Intraductal Lesion) 60.00%
+- [NCIT:C35911](http://purl.obolibrary.org/obo/NCIT_C35911) (Papillary Pattern) 60.00%
+- Thing 51.45%
+- [UBERON:0004820](http://purl.obolibrary.org/obo/UBERON_0004820) (bile duct epithelium) 38.87%
+- [UBERON:0034932](http://purl.obolibrary.org/obo/UBERON_0034932) (epithelium of biliary system) 35.00%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 32.35%
+- [NCIT:C8366](http://purl.obolibrary.org/obo/NCIT_C8366) (Intraepithelial Neoplasia) 27.68%
+- [NCIT:C42078](http://purl.obolibrary.org/obo/NCIT_C42078) (Lesion by Morphology) 23.87%
+- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 23.63%
+- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 23.48%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 22.52%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 21.44%
+- [NCIT:C3341](http://purl.obolibrary.org/obo/NCIT_C3341) (Precancerous Condition) 20.21%
+- [NCIT:C8278](http://purl.obolibrary.org/obo/NCIT_C8278) (Cancer-Related Condition) 19.45%
+- [NCIT:C3824](http://purl.obolibrary.org/obo/NCIT_C3824) (Lesion) 16.25%
 
 

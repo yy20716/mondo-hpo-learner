@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 52.66%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 40.67%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) 39.90%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38346](http://purl.obolibrary.org/obo/NCIT_C38346) (MYC Pathway Deregulation))) 39.90%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38345](http://purl.obolibrary.org/obo/NCIT_C38345) (JUN Pathway Deregulation))) 39.90%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38344](http://purl.obolibrary.org/obo/NCIT_C38344) (RAS-RAF Pathway Deregulation))) 39.90%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38343](http://purl.obolibrary.org/obo/NCIT_C38343) (JAK-STAT Pathway Deregulation))) 39.90%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38341](http://purl.obolibrary.org/obo/NCIT_C38341) (Postgerminal Center B-Lymphocyte of Unknown Differentiation Stage))) 39.90%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C3834](http://purl.obolibrary.org/obo/NCIT_C3834) (Ataxic Gait))) 39.90%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38339](http://purl.obolibrary.org/obo/NCIT_C38339) (Postgerminal Center Memory B-Lymphocyte))) 39.90%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38334](http://purl.obolibrary.org/obo/NCIT_C38334) (Postgerminal Center Marginal Zone B-Lymphocyte))) 39.90%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38333](http://purl.obolibrary.org/obo/NCIT_C38333) (Activated B-Lymphocyte))) 39.90%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38332](http://purl.obolibrary.org/obo/NCIT_C38332) (Peripheral B-Lymphocyte of Inner Mantle Zone))) 39.90%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38331](http://purl.obolibrary.org/obo/NCIT_C38331) (Intraepithelial T-Lymphocyte))) 39.90%
-- [CL:0000185](http://purl.obolibrary.org/obo/CL_0000185) (myoepithelial cell) and (not ([NCIT:C38329](http://purl.obolibrary.org/obo/NCIT_C38329) (Thymic B-Lymphocyte))) 39.90%
+- [NCIT:C54171](http://purl.obolibrary.org/obo/NCIT_C54171) (Osseous Component Present) 56.25%
+- [NCIT:C54168](http://purl.obolibrary.org/obo/NCIT_C54168) (Cartilaginous Component Present) 56.25%
+- [NCIT:C53597](http://purl.obolibrary.org/obo/NCIT_C53597) (Lipomatous Component Present) 56.25%
+- [NCIT:C36108](http://purl.obolibrary.org/obo/NCIT_C36108) (Encapsulated Mass) 56.25%
+- [NCIT:C35998](http://purl.obolibrary.org/obo/NCIT_C35998) (Myxoid Stroma Formation) 56.25%
+- [NCIT:C35996](http://purl.obolibrary.org/obo/NCIT_C35996) (Stromal Change) and [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) 56.25%
+- [NCIT:C42075](http://purl.obolibrary.org/obo/NCIT_C42075) (Abnormal Tissue Present) 54.48%
+- Thing 51.84%
+- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 48.46%
+- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 47.34%
+- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 43.78%
+- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 43.53%
+- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) 41.61%
+- [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) 41.61%
+- [NCIT:C54172](http://purl.obolibrary.org/obo/NCIT_C54172) (Carcinomatous Component Present) and (not ([NCIT:C37049](http://purl.obolibrary.org/obo/NCIT_C37049) (Hyperchromatic Megakaryocyte))) 41.61%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [CL:0000115](http://purl.obolibrary.org/obo/CL_0000115) (endothelial cell) 54.17%
-- Thing 52.77%
-- [UBERON:0004852](http://purl.obolibrary.org/obo/UBERON_0004852) (cardiovascular system endothelium) and (not ([UBERON:0004111](http://purl.obolibrary.org/obo/UBERON_0004111) (anatomical conduit))) 43.69%
-- [UBERON:0004852](http://purl.obolibrary.org/obo/UBERON_0004852) (cardiovascular system endothelium) and (not ([UBERON:0001981](http://purl.obolibrary.org/obo/UBERON_0001981) (blood vessel))) 43.69%
-- [UBERON:0004852](http://purl.obolibrary.org/obo/UBERON_0004852) (cardiovascular system endothelium) and (not ([UBERON:0000055](http://purl.obolibrary.org/obo/UBERON_0000055) (vessel))) 43.69%
-- [UBERON:0004852](http://purl.obolibrary.org/obo/UBERON_0004852) (cardiovascular system endothelium) and (not ([UBERON:0005911](http://purl.obolibrary.org/obo/UBERON_0005911) (endo-epithelium))) 39.96%
-- [UBERON:0004852](http://purl.obolibrary.org/obo/UBERON_0004852) (cardiovascular system endothelium) and (not ([UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure))) 39.96%
-- [UBERON:0004852](http://purl.obolibrary.org/obo/UBERON_0004852) (cardiovascular system endothelium) and (not ([UBERON:0003835](http://purl.obolibrary.org/obo/UBERON_0003835) (abdominal segment blood vessel))) 39.96%
-- [UBERON:0004852](http://purl.obolibrary.org/obo/UBERON_0004852) (cardiovascular system endothelium) and (not ([UBERON:0003513](http://purl.obolibrary.org/obo/UBERON_0003513) (trunk blood vessel))) 39.96%
-- [UBERON:0004852](http://purl.obolibrary.org/obo/UBERON_0004852) (cardiovascular system endothelium) and (not ([UBERON:0003497](http://purl.obolibrary.org/obo/UBERON_0003497) (abdomen blood vessel))) 39.96%
-- [UBERON:0004852](http://purl.obolibrary.org/obo/UBERON_0004852) (cardiovascular system endothelium) and (not ([UBERON:0000077](http://purl.obolibrary.org/obo/UBERON_0000077) (mixed endoderm/mesoderm-derived structure))) 39.96%
-- [UBERON:0004638](http://purl.obolibrary.org/obo/UBERON_0004638) (blood vessel endothelium) and (not ([UBERON:0004111](http://purl.obolibrary.org/obo/UBERON_0004111) (anatomical conduit))) 39.52%
-- [UBERON:0004638](http://purl.obolibrary.org/obo/UBERON_0004638) (blood vessel endothelium) and (not ([UBERON:0001981](http://purl.obolibrary.org/obo/UBERON_0001981) (blood vessel))) 39.52%
-- [UBERON:0004638](http://purl.obolibrary.org/obo/UBERON_0004638) (blood vessel endothelium) and (not ([UBERON:0000055](http://purl.obolibrary.org/obo/UBERON_0000055) (vessel))) 39.52%
-- [UBERON:0004852](http://purl.obolibrary.org/obo/UBERON_0004852) (cardiovascular system endothelium) 37.20%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C53404](http://purl.obolibrary.org/obo/NCIT_C53404) (Malignant Epithelioid Endothelial Cell))) 75.00%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C48787](http://purl.obolibrary.org/obo/NCIT_C48787) (Malignant Connective and Soft Tissue Cell))) 75.00%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C47834](http://purl.obolibrary.org/obo/NCIT_C47834) (Malignant Endothelial Cell))) 75.00%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell))) 75.00%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) 60.36%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([CHEBI:23019](http://purl.obolibrary.org/obo/CHEBI_23019) (carbonyl group))) 60.36%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([CHEBI:23004](http://purl.obolibrary.org/obo/CHEBI_23004) (carbamoyl group))) 60.36%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([CHEBI:22868](http://purl.obolibrary.org/obo/CHEBI_22868) (bile salt))) 60.36%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([CHEBI:22563](http://purl.obolibrary.org/obo/CHEBI_22563) (anion))) 60.36%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([CHEBI:17089](http://purl.obolibrary.org/obo/CHEBI_17089) (glycoprotein))) 60.36%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([CHEBI:16990](http://purl.obolibrary.org/obo/CHEBI_16990) (bilirubin))) 60.36%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([CHEBI:16541](http://purl.obolibrary.org/obo/CHEBI_16541) (protein polypeptide chain))) 60.36%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([CHEBI:16336](http://purl.obolibrary.org/obo/CHEBI_16336) (hyaluronic acid))) 60.36%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([CHEBI:15440](http://purl.obolibrary.org/obo/CHEBI_15440) (squalene))) 60.36%
+- [NCIT:C37093](http://purl.obolibrary.org/obo/NCIT_C37093) (Epithelioid Endothelial Cell) and (not ([CHEBI:10545](http://purl.obolibrary.org/obo/CHEBI_10545) (electron))) 60.36%
 
 
