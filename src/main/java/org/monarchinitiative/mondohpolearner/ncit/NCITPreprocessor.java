@@ -26,6 +26,8 @@ import org.monarchinitiative.mondohpolearner.common.Preprocessor;
 import org.monarchinitiative.mondohpolearner.common.Processor;
 import org.semanticweb.owlapi.model.IRI;
 
+import com.google.common.collect.BiMap;
+import com.google.common.collect.HashBiMap;
 import com.google.common.collect.Maps;
 import com.google.common.collect.Multimap;
 import com.google.common.collect.Multimaps;
@@ -43,71 +45,78 @@ public class NCITPreprocessor extends Preprocessor {
 	private static String querySelectSomeClasses = ncitQueryPath + File.separator + "extractSomeValuesFrom.sparql";
 	private static String querySelectIntUniClasses = ncitQueryPath + File.separator + "extractIntersectUnionClasses.sparql";
 	private static String querySelectDiseaseClasses= ncitQueryPath + File.separator + "selectDiseaseClasses.sparql";
-
-	/*
-	private static String querySelectIntSomeClasses= ncitQueryPath + File.separator + "selectIntSomeClasses.sparql";
-	private static String queryRemoveSubClassesSubj = ncitQueryPath + File.separator + "removeSubclassesSubj.sparql";
-	private static String queryRemoveSubClassesObj = ncitQueryPath + File.separator + "removeSubclassesObj.sparql";
-	 */
-	private static Property dummyProp = ResourceFactory.createProperty("http://a.com/d");
-
-	public Map<Resource, Resource> equivClassRsrcMap = Maps.newHashMap();
+	private static String querySelectPropertyClasses= ncitQueryPath + File.separator + "selectPropertyClasses.sparql";
+	
+	public Multimap<Resource, Resource> equivForwClassRsrcMap = Multimaps.newSetMultimap(new LinkedHashMap<>(), HashSet::new);
+	public Multimap<Resource, Resource> equivBackClassRsrcMap = Multimaps.newSetMultimap(new LinkedHashMap<>(), HashSet::new);
 	public Multimap<Resource, Resource> subClassRsrcMap = Multimaps.newSetMultimap(new LinkedHashMap<>(), HashSet::new);
 	public Multimap<Resource, Resource> someClassRsrcMap = Multimaps.newSetMultimap(new LinkedHashMap<>(), HashSet::new);
 	public Multimap<Resource, Resource> classIntUniClassRsrcMap = Multimaps.newSetMultimap(new LinkedHashMap<>(), HashSet::new);
-	public Set<Resource> superClassTrailSet = Sets.newHashSet();
 	public Set<String> diseaseCuries = Sets.newHashSet();
-
+	public Set<Resource> propSet = Sets.newHashSet();
+	
 	public NCITPreprocessor() {
 		super();
 	}
 
-	private void visitSuperClassNode(Model model, Resource aClassIRI) {
-		if (aClassIRI.toString().contains("owl")) return;		
-		superClassTrailSet.add(aClassIRI);
-
-		Collection<Resource> bClassIRIs = subClassRsrcMap.get(aClassIRI);
-		if (bClassIRIs.isEmpty()) {
-			// logger.info("aClassIRI: " + aClassIRI);
-			visitIntUniClassNode(model, aClassIRI, aClassIRI);
-			return;
-		}
-
-		for (Resource bClassIRI : bClassIRIs) {
-			if (superClassTrailSet.contains(bClassIRI)) continue;
-			visitSuperClassNode(model, bClassIRI);
-		}
-	}
-
-	private void visitIntUniClassNode(Model model, Resource aClassIRI, Resource beginClassIRI) {
-		Collection<Resource> bClassIRIs = classIntUniClassRsrcMap.get(aClassIRI);
-		if (bClassIRIs.isEmpty()) {
-			visitSomeClassNode(model, aClassIRI, beginClassIRI);	
-			return;
-		}
-
-		for (Resource bClassIRI : bClassIRIs) {
-			visitIntUniClassNode(model, bClassIRI, beginClassIRI);
-		}
-	}
-
-	private void visitSomeClassNode(Model model, Resource aClassIRI, Resource beginClassIRI) {
-		Collection<Resource> someClassIRIs = someClassRsrcMap.get(aClassIRI);
-		if (someClassIRIs.isEmpty()) return;
+	private void visitSuperClassNode(Model model, Resource classRsrc) {
+		if (classRsrc.toString().contains("owl")) return;
+		if (classRsrc.toString().contains("NCIT") != true) return;
 		
-		for (Resource someClassIRI: someClassIRIs) {
-			Resource b1 = generateDummyResource(model, someClassIRI);
-			model.add(b1, RDF.type, someClassIRI);
-			
-			if (beginClassIRI.isAnon()) {
-				Resource equivBeginClassIRI = equivClassRsrcMap.get(beginClassIRI);
-				if (equivBeginClassIRI != null)
-					classEqEntityMap.put(curieUtil.getCurie(equivBeginClassIRI.getURI()).get(), b1.getURI());	
+		Collection<Resource> superClassIRIs = subClassRsrcMap.get(classRsrc);
+		if (superClassIRIs.isEmpty()) return;
+
+		for (Resource superClassIRI : superClassIRIs) {
+			if (superClassIRI.isURIResource()) {
+				Collection<Resource> equivBackClassRsrcs = equivBackClassRsrcMap.get(superClassIRI);
+				for (Resource equivClassRsrc : equivBackClassRsrcs) {
+					visitIntUniClassNode(model, classRsrc, equivClassRsrc, superClassIRI);
+				}
 			} else {
-				classEqEntityMap.put(curieUtil.getCurie(beginClassIRI.getURI()).get(), b1.getURI());
+				Collection<Resource> equivForwClassRsrcs = equivForwClassRsrcMap.get(superClassIRI);
+				for (Resource equivClassRsrc : equivForwClassRsrcs) {
+					visitIntUniClassNode(model, classRsrc, superClassIRI, equivClassRsrc);
+				}
 			}
+		}
+	}
+
+	private void visitIntUniClassNode(Model model, Resource aClassIRI, Resource bClassIRI, Resource superClassIRI) {
+		if (bClassIRI.isURIResource()) return;
+		Collection<Resource> intUniClassIRIs = classIntUniClassRsrcMap.get(bClassIRI);
+		if (intUniClassIRIs.isEmpty()) {
+			visitSomeClassNode(model, aClassIRI, bClassIRI, superClassIRI);	
+			return;
+		}
+
+		for (Resource intUniClassIRI : intUniClassIRIs) {
+			visitIntUniClassNode(model, bClassIRI, intUniClassIRI, superClassIRI);
+		}
+	}
+
+	private void visitSomeClassNode(Model model, Resource aClassIRI, Resource bClassIRI, Resource superClassIRI) {
+		Collection<Resource> someClassIRIs = someClassRsrcMap.get(bClassIRI);
+		if (someClassIRIs.isEmpty()) {
+			if (propSet.contains(bClassIRI)) return;
 			
-			visitIntUniClassNode(model, someClassIRI, beginClassIRI);
+			Resource b1 = generateDummyResource(model, bClassIRI);
+			model.add(b1, RDF.type, bClassIRI);
+
+			if (superClassIRI.isAnon()) {
+				Collection<Resource> equivBeginClassIRIs = equivForwClassRsrcMap.get(superClassIRI);
+				if (equivBeginClassIRIs != null) {
+					for (Resource equivBeginClassIRI : equivBeginClassIRIs){
+						classEqEntityMap.put(curieUtil.getCurie(equivBeginClassIRI.getURI()).get(), b1.getURI());	
+					}
+				}
+			} else {
+				classEqEntityMap.put(curieUtil.getCurie(superClassIRI.getURI()).get(), b1.getURI());				
+			}
+			return;
+		}
+
+		for (Resource someClassIRI: someClassIRIs) {
+			visitSomeClassNode(model, bClassIRI, someClassIRI, superClassIRI);
 		}
 	}
 
@@ -124,7 +133,10 @@ public class NCITPreprocessor extends Preprocessor {
 				QuerySolution binding = resultSet1.nextSolution();
 				Resource a = (Resource)binding.get("a");
 				Resource b = (Resource)binding.get("b");
-				equivClassRsrcMap.put(b, a);
+				if (a.toString().contains("owl") || b.toString().contains("owl")) continue;
+
+				equivForwClassRsrcMap.put(b, a);
+				equivBackClassRsrcMap.put(a, b);
 			}
 
 			ResultSet resultSet2 = queryExecutor.executeSelect(querySelectSubClasses);
@@ -155,10 +167,17 @@ public class NCITPreprocessor extends Preprocessor {
 			ResultSet resultSet4 = queryExecutor.executeSelect(querySelectDiseaseClasses);
 			while (resultSet4.hasNext()) {
 				QuerySolution binding = resultSet4.nextSolution();
-				Resource dClassRsrc = (Resource)binding.get("dsubclass");
-				diseaseCuries.add(curieUtil.getCurie(dClassRsrc.toString()).get());
+				Resource classRsrc = (Resource)binding.get("s");
+				diseaseCuries.add(curieUtil.getCurie(classRsrc.toString()).get());
 			}
 
+			ResultSet resultSet5 = queryExecutor.executeSelect(querySelectPropertyClasses);
+			while (resultSet5.hasNext()) {
+				QuerySolution binding = resultSet5.nextSolution();
+				Resource classRsrc = (Resource)binding.get("s");
+				propSet.add(classRsrc);
+			}
+			
 			ResultSet resultSet6 = queryExecutor.executeSelect(querySelectIntUniClasses);
 			while (resultSet6.hasNext()) {
 				QuerySolution binding = resultSet6.nextSolution();
@@ -169,23 +188,34 @@ public class NCITPreprocessor extends Preprocessor {
 				classIntUniClassRsrcMap.put(a, b);
 			}
 
-			for (Resource classIRI: subClassRsrcMap.keySet()) {
-				visitSuperClassNode(model, classIRI);
-			}
+			for (Resource classRsrc: subClassRsrcMap.keySet()) 
+				visitSuperClassNode(model, classRsrc);
 
 			logger.info("classSubClassMap.size:" + subClassRsrcMap.size());
-			logger.info("classEquivClassRsrcMap.size:" + equivClassRsrcMap.size());
 			logger.info("classSomeClassRsrcMa.size:" + someClassRsrcMap.size());
 			logger.info("classIntUniClassRsrcMap.size:" + classIntUniClassRsrcMap.size());
 			logger.info("classEqEntityMap.size:" + classEqEntityMap.size());
 
 			for (String eachClass : classEqEntityMap.keySet()) {
-				Collection<String> eqEntitySet = classEqEntityMap.get(eachClass);
-				for (String eqEntity: eqEntitySet) {
-					classParamMap.put(eachClass, new OWLNamedIndividualImpl(IRI.create(eqEntity)));
+				Collection<String> eqEntitySet = classEqEntityMap.get(eachClass);			
+				Resource eachClassRsrc = ResourceFactory.createResource(curieUtil.getIri(eachClass).get());
+				Collection<Resource> superClassRsrcs = subClassRsrcMap.get(eachClassRsrc);
+				superClassRsrcs.add(eachClassRsrc);
+				for (Resource eachSuperClassRsrc: superClassRsrcs) {
+					if (eachSuperClassRsrc.isAnon()) continue;
+					for (String eqEntity: eqEntitySet) {
+						classParamMap.put(curieUtil.getCurie(eachSuperClassRsrc.toString()).get(), new OWLNamedIndividualImpl(IRI.create(eqEntity)));
+					}
 				}
 			}
-			
+
+			for (String eachClass : classParamMap.keySet()) {
+				if (eachClass.contains("C3402"))
+					logger.info(eachClass + "," + classParamMap.get(eachClass));
+				if (eachClass.contains("C6532"))
+					logger.info(eachClass + "," + classParamMap.get(eachClass));
+			}
+
 			File file = new File(Processor.hpofilewithAbox);
 			FileUtils.deleteQuietly(file);
 			OutputStream output = new FileOutputStream(file);
