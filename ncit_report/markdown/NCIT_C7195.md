@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.07%
-- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) 52.72%
-- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C13208](http://purl.obolibrary.org/obo/NCIT_C13208) (Chromosome 13))) 52.72%
-- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C13207](http://purl.obolibrary.org/obo/NCIT_C13207) (Chromosome 12))) 52.72%
-- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C13206](http://purl.obolibrary.org/obo/NCIT_C13206) (Chromosome 11))) 52.72%
-- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C13205](http://purl.obolibrary.org/obo/NCIT_C13205) (Chromosome 10))) 52.72%
-- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C13204](http://purl.obolibrary.org/obo/NCIT_C13204) (Chromosome 1))) 52.72%
-- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C132018](http://purl.obolibrary.org/obo/NCIT_C132018) (MYC Gene Rearrangement))) 52.72%
-- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C13201](http://purl.obolibrary.org/obo/NCIT_C13201) (Chromatin))) 52.72%
-- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C13197](http://purl.obolibrary.org/obo/NCIT_C13197) (Nucleus))) 52.72%
-- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C131913](http://purl.obolibrary.org/obo/NCIT_C131913) (High-Grade B-Cell Lymphoma with MYC, BCL2, and BCL6 Rearrangements))) 52.72%
-- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C131906](http://purl.obolibrary.org/obo/NCIT_C131906) (EBV-Positive Mucocutaneous Ulcer))) 52.72%
-- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C131875](http://purl.obolibrary.org/obo/NCIT_C131875) (Recurrent Childhood T Acute Lymphoblastic Leukemia))) 52.72%
-- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C131613](http://purl.obolibrary.org/obo/NCIT_C131613) (Infratentorial and Spinal Cord Ependymal Tumor))) 52.72%
-- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C131605](http://purl.obolibrary.org/obo/NCIT_C131605) (Cervical and Thoracic Spinal Cord Ependymal Tumor))) 52.72%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) 62.90%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C127907](http://purl.obolibrary.org/obo/NCIT_C127907) (Endocervical Adenocarcinoma, Usual Type))) 62.90%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C127840](http://purl.obolibrary.org/obo/NCIT_C127840) (Recurrent Waldenstrom Macroglobulinemia))) 62.90%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C127196](http://purl.obolibrary.org/obo/NCIT_C127196) (Growth Hormone and Prolactin Producing Neoplastic Cells Present))) 62.90%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C127155](http://purl.obolibrary.org/obo/NCIT_C127155) (Metastatic Malignant Solid Neoplasm))) 62.90%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C127153](http://purl.obolibrary.org/obo/NCIT_C127153) (Recurrent Malignant Solid Neoplasm))) 62.90%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C127077](http://purl.obolibrary.org/obo/NCIT_C127077) (Uterine Corpus Germ Cell Tumor))) 62.90%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C127058](http://purl.obolibrary.org/obo/NCIT_C127058) (Uterine Corpus Rhabdomyosarcoma))) 62.90%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C127057](http://purl.obolibrary.org/obo/NCIT_C127057) (YWHAE/FAM22 Fusion Gene))) 62.90%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C127050](http://purl.obolibrary.org/obo/NCIT_C127050) (YWHAE-FAM22 Fusion Protein Expression))) 62.90%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C127049](http://purl.obolibrary.org/obo/NCIT_C127049) (t(10;17)(q22;p13)))) 62.90%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C127005](http://purl.obolibrary.org/obo/NCIT_C127005) (Uterine Corpus Tumor Resembling Ovarian Sex Cord Tumor))) 62.90%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C126998](http://purl.obolibrary.org/obo/NCIT_C126998) (Uterine Corpus High Grade Endometrial Stromal Sarcoma))) 62.90%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C126819](http://purl.obolibrary.org/obo/NCIT_C126819) (KIT Protein Variant))) 62.90%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C126773](http://purl.obolibrary.org/obo/NCIT_C126773) (Uterine Corpus Carcinoid Tumor))) 62.90%
 
 

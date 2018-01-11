@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0002110](http://purl.obolibrary.org/obo/UBERON_0002110) (gall bladder) 60.00%
-- [UBERON:0017672](http://purl.obolibrary.org/obo/UBERON_0017672) (abdominal viscera) and [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) 60.00%
-- [UBERON:0013765](http://purl.obolibrary.org/obo/UBERON_0013765) (digestive system element) and [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) 60.00%
-- [UBERON:0005173](http://purl.obolibrary.org/obo/UBERON_0005173) (abdominal segment element) and [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) 60.00%
-- [UBERON:0005172](http://purl.obolibrary.org/obo/UBERON_0005172) (abdomen element) and [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) 60.00%
-- [UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure) and [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) 60.00%
-- Thing 51.82%
-- [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) 45.36%
-- [UBERON:0005177](http://purl.obolibrary.org/obo/UBERON_0005177) (trunk region element) and [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) 45.36%
-- [UBERON:0002075](http://purl.obolibrary.org/obo/UBERON_0002075) (viscus) and [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) 45.36%
-- [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) and (not ([NCIT:C40032](http://purl.obolibrary.org/obo/NCIT_C40032) (Ovarian Serous Cystadenofibroma))) 45.36%
-- [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) and (not ([NCIT:C40029](http://purl.obolibrary.org/obo/NCIT_C40029) (Borderline Ovarian Serous Cystadenofibroma))) 45.36%
-- [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) and (not ([NCIT:C40021](http://purl.obolibrary.org/obo/NCIT_C40021) (Ovarian Lymphoma))) 45.36%
-- [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 45.36%
-- [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 45.36%
+- [UBERON:0002110](http://purl.obolibrary.org/obo/UBERON_0002110) (gall bladder) 75.00%
+- [UBERON:0017672](http://purl.obolibrary.org/obo/UBERON_0017672) (abdominal viscera) and [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) 75.00%
+- [UBERON:0013765](http://purl.obolibrary.org/obo/UBERON_0013765) (digestive system element) and [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) 75.00%
+- [UBERON:0005173](http://purl.obolibrary.org/obo/UBERON_0005173) (abdominal segment element) and [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) 75.00%
+- [UBERON:0005172](http://purl.obolibrary.org/obo/UBERON_0005172) (abdomen element) and [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) 75.00%
+- [UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure) and [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) 75.00%
+- [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) and (not ([UBERON:0004120](http://purl.obolibrary.org/obo/UBERON_0004120) (mesoderm-derived structure))) 75.00%
+- [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) and (not ([UBERON:0001255](http://purl.obolibrary.org/obo/UBERON_0001255) (urinary bladder))) 75.00%
+- [UBERON:0002110](http://purl.obolibrary.org/obo/UBERON_0002110) (gall bladder) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 75.00%
+- [UBERON:0002110](http://purl.obolibrary.org/obo/UBERON_0002110) (gall bladder) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 75.00%
+- [UBERON:0002110](http://purl.obolibrary.org/obo/UBERON_0002110) (gall bladder) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 75.00%
+- [UBERON:0002110](http://purl.obolibrary.org/obo/UBERON_0002110) (gall bladder) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 75.00%
+- [UBERON:0002110](http://purl.obolibrary.org/obo/UBERON_0002110) (gall bladder) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 75.00%
+- [UBERON:0002110](http://purl.obolibrary.org/obo/UBERON_0002110) (gall bladder) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 75.00%
+- [UBERON:0002110](http://purl.obolibrary.org/obo/UBERON_0002110) (gall bladder) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 75.00%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 56.09%
-- [NCIT:C54557](http://purl.obolibrary.org/obo/NCIT_C54557) (Renal Pelvis Urothelial Cell) 50.89%
-- [NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q) 50.89%
-- [NCIT:C39716](http://purl.obolibrary.org/obo/NCIT_C39716) (EGFR Protein Overexpression) 50.89%
-- [NCIT:C36681](http://purl.obolibrary.org/obo/NCIT_C36681) (MDM2 Gene Amplification) 50.89%
-- [NCIT:C36679](http://purl.obolibrary.org/obo/NCIT_C36679) (HRAS Gene Amplification) 50.89%
-- [NCIT:C36652](http://purl.obolibrary.org/obo/NCIT_C36652) (CCND1 Gene Amplification) 50.89%
-- [NCIT:C36649](http://purl.obolibrary.org/obo/NCIT_C36649) (EGFR Gene Amplification) 50.89%
-- [NCIT:C36639](http://purl.obolibrary.org/obo/NCIT_C36639) (ERBB2 Protein Overexpression) 50.89%
-- [NCIT:C36638](http://purl.obolibrary.org/obo/NCIT_C36638) (ERBB2 Gene Amplification) 50.89%
-- [NCIT:C36636](http://purl.obolibrary.org/obo/NCIT_C36636) (Loss of Chromosome 9p) 50.89%
-- [NCIT:C36599](http://purl.obolibrary.org/obo/NCIT_C36599) (Loss of Chromosome Y) 50.89%
-- [NCIT:C36548](http://purl.obolibrary.org/obo/NCIT_C36548) (Loss of Chromosome 2q) 50.89%
-- [NCIT:C36516](http://purl.obolibrary.org/obo/NCIT_C36516) (Loss of Chromosome 10q) 50.89%
-- [NCIT:C36505](http://purl.obolibrary.org/obo/NCIT_C36505) (Loss of Chromosome 11p) 50.89%
+- Thing 56.27%
+- [NCIT:C54557](http://purl.obolibrary.org/obo/NCIT_C54557) (Renal Pelvis Urothelial Cell) 51.32%
+- [NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q) 51.32%
+- [NCIT:C39716](http://purl.obolibrary.org/obo/NCIT_C39716) (EGFR Protein Overexpression) 51.32%
+- [NCIT:C36681](http://purl.obolibrary.org/obo/NCIT_C36681) (MDM2 Gene Amplification) 51.32%
+- [NCIT:C36679](http://purl.obolibrary.org/obo/NCIT_C36679) (HRAS Gene Amplification) 51.32%
+- [NCIT:C36652](http://purl.obolibrary.org/obo/NCIT_C36652) (CCND1 Gene Amplification) 51.32%
+- [NCIT:C36649](http://purl.obolibrary.org/obo/NCIT_C36649) (EGFR Gene Amplification) 51.32%
+- [NCIT:C36639](http://purl.obolibrary.org/obo/NCIT_C36639) (ERBB2 Protein Overexpression) 51.32%
+- [NCIT:C36638](http://purl.obolibrary.org/obo/NCIT_C36638) (ERBB2 Gene Amplification) 51.32%
+- [NCIT:C36636](http://purl.obolibrary.org/obo/NCIT_C36636) (Loss of Chromosome 9p) 51.32%
+- [NCIT:C36599](http://purl.obolibrary.org/obo/NCIT_C36599) (Loss of Chromosome Y) 51.32%
+- [NCIT:C36548](http://purl.obolibrary.org/obo/NCIT_C36548) (Loss of Chromosome 2q) 51.32%
+- [NCIT:C36516](http://purl.obolibrary.org/obo/NCIT_C36516) (Loss of Chromosome 10q) 51.32%
+- [NCIT:C36505](http://purl.obolibrary.org/obo/NCIT_C36505) (Loss of Chromosome 11p) 51.32%
 
 

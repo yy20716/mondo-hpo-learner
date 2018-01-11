@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.55%
-- [NCIT:C36385](http://purl.obolibrary.org/obo/NCIT_C36385) (Giant Rod Chromosome) 52.63%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C36474](http://purl.obolibrary.org/obo/NCIT_C36474) (Ring Chromosome 1))) 52.63%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) 37.99%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 37.99%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 37.99%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 37.99%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 37.99%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 37.99%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 37.99%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 37.99%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 37.99%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 37.99%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 37.99%
-- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 37.99%
+- [NCIT:C36385](http://purl.obolibrary.org/obo/NCIT_C36385) (Giant Rod Chromosome) 54.17%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C36474](http://purl.obolibrary.org/obo/NCIT_C36474) (Ring Chromosome 1))) 54.17%
+- Thing 53.52%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) 39.52%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C39094](http://purl.obolibrary.org/obo/NCIT_C39094) (Inhibition of Cellular Proliferation by Gleevec Pathway))) 39.52%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C39092](http://purl.obolibrary.org/obo/NCIT_C39092) (Growth Hormone Signaling Pathway))) 39.52%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C39091](http://purl.obolibrary.org/obo/NCIT_C39091) (Corticosteroid Cardioprotection Pathway))) 39.52%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C39088](http://purl.obolibrary.org/obo/NCIT_C39088) (G2/M Checkpoint Pathway))) 39.52%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C39079](http://purl.obolibrary.org/obo/NCIT_C39079) (Fc Epsilon Receptor I Signaling Pathway BioCarta))) 39.52%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C39072](http://purl.obolibrary.org/obo/NCIT_C39072) (Erk1/Erk2 MAPK Signaling Pathway))) 39.52%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C39071](http://purl.obolibrary.org/obo/NCIT_C39071) (Neuronal Survival Pathway))) 39.52%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C39069](http://purl.obolibrary.org/obo/NCIT_C39069) (ErbB3 Receptor Recycling Pathway))) 39.52%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C39067](http://purl.obolibrary.org/obo/NCIT_C39067) (EPO Signaling Pathway))) 39.52%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C39066](http://purl.obolibrary.org/obo/NCIT_C39066) (Erythropoietin Neuroprotection Pathway))) 39.52%
+- [NCIT:C3360](http://purl.obolibrary.org/obo/NCIT_C3360) (Supernumerary Circular Chromosome) and (not ([NCIT:C39059](http://purl.obolibrary.org/obo/NCIT_C39059) (Map Kinase Inactivation of SMRT Corepressor Pathway))) 39.52%
 
 

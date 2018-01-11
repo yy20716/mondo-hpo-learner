@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 52.57%
-- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) 40.36%
-- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C40116](http://purl.obolibrary.org/obo/NCIT_C40116) (Fallopian Tube Metaplastic Papillary Tumor))) 40.36%
-- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C40114](http://purl.obolibrary.org/obo/NCIT_C40114) (Fallopian Tube Serous Cystadenofibroma))) 40.36%
-- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C40112](http://purl.obolibrary.org/obo/NCIT_C40112) (Fallopian Tube Papilloma))) 40.36%
-- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C40110](http://purl.obolibrary.org/obo/NCIT_C40110) (Borderline Fallopian Tube Endometrioid Tumor))) 40.36%
-- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 40.36%
-- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 40.36%
-- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C40104](http://purl.obolibrary.org/obo/NCIT_C40104) (Fallopian Tube Transitional Cell Carcinoma))) 40.36%
-- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C40103](http://purl.obolibrary.org/obo/NCIT_C40103) (Fallopian Tube Mucinous Adenocarcinoma))) 40.36%
-- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C40093](http://purl.obolibrary.org/obo/NCIT_C40093) (Ovarian Squamous Cell Carcinoma))) 40.36%
-- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 40.36%
-- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 40.36%
-- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 40.36%
-- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 40.36%
+- Thing 52.03%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) 47.86%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C37223](http://purl.obolibrary.org/obo/NCIT_C37223) (PML-RARA Fusion Protein Expression))) 47.86%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C37222](http://purl.obolibrary.org/obo/NCIT_C37222) (NUMA1-RARA Fusion Protein Expression))) 47.86%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C37221](http://purl.obolibrary.org/obo/NCIT_C37221) (NPM1-RARA Fusion Protein Expression))) 47.86%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C37220](http://purl.obolibrary.org/obo/NCIT_C37220) (ZBTB16-RARA Fusion Protein Expression))) 47.86%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C37219](http://purl.obolibrary.org/obo/NCIT_C37219) (CBFB-MYH11 Fusion Protein Expression))) 47.86%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C37218](http://purl.obolibrary.org/obo/NCIT_C37218) (AML1-ETO Fusion Protein Expression))) 47.86%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C37217](http://purl.obolibrary.org/obo/NCIT_C37217) (FIP1L1-PDGFRalpha Fusion Protein Expression))) 47.86%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C37216](http://purl.obolibrary.org/obo/NCIT_C37216) (CLTC-ALK Fusion Protein Expression))) 47.86%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C37214](http://purl.obolibrary.org/obo/NCIT_C37214) (Colloid Carcinoma of the Pancreas))) 47.86%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C37212](http://purl.obolibrary.org/obo/NCIT_C37212) (Solid Pseudopapillary Neoplasm of the Pancreas))) 47.86%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C37209](http://purl.obolibrary.org/obo/NCIT_C37209) (Diffuse Blastoid B-Cell Lymphoma))) 47.86%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C37208](http://purl.obolibrary.org/obo/NCIT_C37208) (Rearrangement of 2p23))) 47.86%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) and (not ([NCIT:C37207](http://purl.obolibrary.org/obo/NCIT_C37207) (ZAP70 Messenger RNA Overexpression))) 47.86%
 
 

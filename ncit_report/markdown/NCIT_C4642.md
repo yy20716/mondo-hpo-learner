@@ -14,8 +14,8 @@
 - [UBERON:0000125](http://purl.obolibrary.org/obo/UBERON_0000125) (neural nucleus) 55.00%
 - [NCIT:C12512](http://purl.obolibrary.org/obo/NCIT_C12512) (Supratentorial Brain) 55.00%
 - [NCIT:C12509](http://purl.obolibrary.org/obo/NCIT_C12509) (Infratentorial Brain) 55.00%
-- Error11 55.00%
-- Thing 52.57%
+- Error15 55.00%
+- Thing 53.22%
 - [UBERON:0002616](http://purl.obolibrary.org/obo/UBERON_0002616) (regional part of brain) and [UBERON:0010314](http://purl.obolibrary.org/obo/UBERON_0010314) (structure with developmental contribution from neural crest) 50.82%
 - [UBERON:0002616](http://purl.obolibrary.org/obo/UBERON_0002616) (regional part of brain) 45.62%
 - [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 35.21%

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 55.21%
-- [NCIT:C36218](http://purl.obolibrary.org/obo/NCIT_C36218) (Leukoerythroblastosis) 51.22%
-- [NCIT:C36215](http://purl.obolibrary.org/obo/NCIT_C36215) (Immature Granulocytes in Peripheral Blood Increased) 51.22%
-- [NCIT:C35788](http://purl.obolibrary.org/obo/NCIT_C35788) (Hypercellular Bone Marrow) 51.22%
-- [NCIT:C35530](http://purl.obolibrary.org/obo/NCIT_C35530) (Thrombocytosis) 51.22%
-- [NCIT:C35524](http://purl.obolibrary.org/obo/NCIT_C35524) (Leukocytosis) 51.22%
-- [NCIT:C35267](http://purl.obolibrary.org/obo/NCIT_C35267) (Poikilocytosis) 51.22%
-- [NCIT:C35167](http://purl.obolibrary.org/obo/NCIT_C35167) (Hypocellular Bone Marrow) 51.22%
-- [NCIT:C3384](http://purl.obolibrary.org/obo/NCIT_C3384) (Splenomegaly) 51.22%
-- [NCIT:C26816](http://purl.obolibrary.org/obo/NCIT_C26816) (Leukopenia) and (not ([NCIT:C2863](http://purl.obolibrary.org/obo/NCIT_C2863) (Granulocytopenia))) 51.22%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 40.78%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 39.98%
-- [NCIT:C35168](http://purl.obolibrary.org/obo/NCIT_C35168) (Megakaryocytes Increased in Bone Marrow) 36.57%
-- [NCIT:C26816](http://purl.obolibrary.org/obo/NCIT_C26816) (Leukopenia) 36.57%
-- [NCIT:C26816](http://purl.obolibrary.org/obo/NCIT_C26816) (Leukopenia) and (not ([NCIT:C39845](http://purl.obolibrary.org/obo/NCIT_C39845) (Bladder Urachal Squamous Cell Carcinoma))) 36.57%
+- Thing 53.80%
+- [NCIT:C84255](http://purl.obolibrary.org/obo/NCIT_C84255) (JAK2 Gene Mutation) 53.57%
+- [NCIT:C37049](http://purl.obolibrary.org/obo/NCIT_C37049) (Hyperchromatic Megakaryocyte) 53.57%
+- [NCIT:C37044](http://purl.obolibrary.org/obo/NCIT_C37044) (Large Megakaryocyte) 53.57%
+- [NCIT:C37039](http://purl.obolibrary.org/obo/NCIT_C37039) (Large Atypical Platelet) 53.57%
+- [NCIT:C36726](http://purl.obolibrary.org/obo/NCIT_C36726) (Tear-Drop Red Blood Cell) 53.57%
+- [NCIT:C36524](http://purl.obolibrary.org/obo/NCIT_C36524) (Loss of Chromosome 7) 53.57%
+- [NCIT:C36521](http://purl.obolibrary.org/obo/NCIT_C36521) (Partial Trisomy 1q) 53.57%
+- [NCIT:C36497](http://purl.obolibrary.org/obo/NCIT_C36497) (Loss of Chromosome 13q) 53.57%
+- [NCIT:C36455](http://purl.obolibrary.org/obo/NCIT_C36455) (Gain of Chromosome 8) 53.57%
+- [NCIT:C36403](http://purl.obolibrary.org/obo/NCIT_C36403) (Loss of Chromosome 20q) 53.57%
+- [NCIT:C28452](http://purl.obolibrary.org/obo/NCIT_C28452) (Philadelphia Chromosome) 53.57%
+- [NCIT:C24529](http://purl.obolibrary.org/obo/NCIT_C24529) (JAK2 Gene) 53.57%
+- [NCIT:C13271](http://purl.obolibrary.org/obo/NCIT_C13271) (t(9;22)(q34.1;q11.2)) 53.57%
+- [NCIT:C12522](http://purl.obolibrary.org/obo/NCIT_C12522) (Abnormal Red Blood Cell) 53.57%
 
 

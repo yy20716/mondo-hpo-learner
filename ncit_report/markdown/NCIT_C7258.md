@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36445](http://purl.obolibrary.org/obo/NCIT_C36445) (Clonal Immunoglobulin Light Chain Gene Rearrangement) 58.33%
-- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) 55.80%
-- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C37207](http://purl.obolibrary.org/obo/NCIT_C37207) (ZAP70 Messenger RNA Overexpression))) 55.80%
-- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C37206](http://purl.obolibrary.org/obo/NCIT_C37206) (Small Lymphocytic Lymphoma with Unmutated Immunoglobulin Heavy Chain Variable-Region Gene))) 55.80%
-- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C37205](http://purl.obolibrary.org/obo/NCIT_C37205) (Chronic Lymphocytic Leukemia with Unmutated Immunoglobulin Heavy Chain Variable-Region Gene))) 55.80%
-- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C37203](http://purl.obolibrary.org/obo/NCIT_C37203) (Small Lymphocytic Lymphoma with Immunoglobulin Heavy Chain Variable-Region Gene Somatic Hypermutation))) 55.80%
-- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C37202](http://purl.obolibrary.org/obo/NCIT_C37202) (Chronic Lymphocytic Leukemia with Immunoglobulin Heavy Chain Variable-Region Gene Somatic Hypermutation))) 55.80%
-- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C37196](http://purl.obolibrary.org/obo/NCIT_C37196) (Primary Systemic Anaplastic Large Cell Lymphoma, ALK-Negative))) 55.80%
-- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C37195](http://purl.obolibrary.org/obo/NCIT_C37195) (Primary Systemic Anaplastic Large Cell Lymphoma, ALK-Positive))) 55.80%
-- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C37191](http://purl.obolibrary.org/obo/NCIT_C37191) (Trisomy 11))) 55.80%
-- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C37189](http://purl.obolibrary.org/obo/NCIT_C37189) (del(17q25)))) 55.80%
-- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C37188](http://purl.obolibrary.org/obo/NCIT_C37188) (del(6q25-27)))) 55.80%
-- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C37185](http://purl.obolibrary.org/obo/NCIT_C37185) (Gain of Chromosome 12q13))) 55.80%
-- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C37183](http://purl.obolibrary.org/obo/NCIT_C37183) (Neoplastic B-Prolymphocyte))) 55.80%
-- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C37181](http://purl.obolibrary.org/obo/NCIT_C37181) (Neoplastic Monoblast))) 55.80%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) 68.30%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36602](http://purl.obolibrary.org/obo/NCIT_C36602) (inv(14)(q11;q32.1)))) 68.30%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12))) 68.30%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36599](http://purl.obolibrary.org/obo/NCIT_C36599) (Loss of Chromosome Y))) 68.30%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36598](http://purl.obolibrary.org/obo/NCIT_C36598) (Loss of Chromosome 18))) 68.30%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36597](http://purl.obolibrary.org/obo/NCIT_C36597) (Loss of Chromosome 1))) 68.30%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36596](http://purl.obolibrary.org/obo/NCIT_C36596) (Gain of Chromosome 6q))) 68.30%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36595](http://purl.obolibrary.org/obo/NCIT_C36595) (Loss of Chromosome 16p))) 68.30%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36594](http://purl.obolibrary.org/obo/NCIT_C36594) (del(6q21q25)))) 68.30%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36593](http://purl.obolibrary.org/obo/NCIT_C36593) (Increased NFkappaB Pathway Activation))) 68.30%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36592](http://purl.obolibrary.org/obo/NCIT_C36592) (Gain of Chromosome 9q34))) 68.30%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36591](http://purl.obolibrary.org/obo/NCIT_C36591) (t(X;2)(q11-12;p23)))) 68.30%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36590](http://purl.obolibrary.org/obo/NCIT_C36590) (t(2;17)(p23;q23)))) 68.30%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36586](http://purl.obolibrary.org/obo/NCIT_C36586) (Loss of Chromosome 3))) 68.30%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36585](http://purl.obolibrary.org/obo/NCIT_C36585) (Loss of Chromosome 10))) 68.30%
 
 

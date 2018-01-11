@@ -8,7 +8,7 @@
 
 - [UBERON:0006925](http://purl.obolibrary.org/obo/UBERON_0006925) (digestive system gland) 60.00%
 - [UBERON:0002107](http://purl.obolibrary.org/obo/UBERON_0002107) (liver) 60.00%
-- Thing 51.82%
+- Thing 52.27%
 - [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 44.21%
 - [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 43.77%
 - [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 43.77%

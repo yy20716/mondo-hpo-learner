@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0001869](http://purl.obolibrary.org/obo/UBERON_0001869) (cerebral hemisphere) 62.50%
-- [NCIT:C37137](http://purl.obolibrary.org/obo/NCIT_C37137) (Poorly Differentiated Neoplastic Astrocyte) 62.50%
-- [NCIT:C35989](http://purl.obolibrary.org/obo/NCIT_C35989) (Nuclear Atypia) 62.50%
-- Thing 51.63%
-- [NCIT:C41454](http://purl.obolibrary.org/obo/NCIT_C41454) (Cystic Change) 41.37%
-- [NCIT:C9478](http://purl.obolibrary.org/obo/NCIT_C9478) (Atypia) 31.40%
-- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 28.63%
-- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 28.48%
-- [NCIT:C37127](http://purl.obolibrary.org/obo/NCIT_C37127) (Neoplastic Astrocyte) 27.58%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 27.52%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 26.92%
-- [NCIT:C37126](http://purl.obolibrary.org/obo/NCIT_C37126) (Neoplastic Glial Cell) 24.63%
-- [NCIT:C37125](http://purl.obolibrary.org/obo/NCIT_C37125) (Neoplastic Neuroepithelial Cell) 21.63%
-- [NCIT:C41408](http://purl.obolibrary.org/obo/NCIT_C41408) (Neoplastic Neuroepithelial Cell and Neoplastic Perineural Cell) 20.83%
-- [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) 14.98%
+- [UBERON:0001869](http://purl.obolibrary.org/obo/UBERON_0001869) (cerebral hemisphere) 75.00%
+- [NCIT:C37137](http://purl.obolibrary.org/obo/NCIT_C37137) (Poorly Differentiated Neoplastic Astrocyte) 75.00%
+- Thing 51.44%
+- [NCIT:C37127](http://purl.obolibrary.org/obo/NCIT_C37127) (Neoplastic Astrocyte) 40.08%
+- [NCIT:C37126](http://purl.obolibrary.org/obo/NCIT_C37126) (Neoplastic Glial Cell) 37.13%
+- [NCIT:C37125](http://purl.obolibrary.org/obo/NCIT_C37125) (Neoplastic Neuroepithelial Cell) 34.13%
+- [NCIT:C41408](http://purl.obolibrary.org/obo/NCIT_C41408) (Neoplastic Neuroepithelial Cell and Neoplastic Perineural Cell) 33.33%
+- [UBERON:0004121](http://purl.obolibrary.org/obo/UBERON_0004121) (ectoderm-derived structure) 30.74%
+- [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) 27.48%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 27.39%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 27.37%
+- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 27.36%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 27.13%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 27.10%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 26.89%
 
 

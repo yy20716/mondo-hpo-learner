@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.25%
-- [NCIT:C61450](http://purl.obolibrary.org/obo/NCIT_C61450) (Neoplastic Sex Cord-Stromal Cell Resembling Steroid Hormone-Secreting Cell) 53.12%
-- [NCIT:C36896](http://purl.obolibrary.org/obo/NCIT_C36896) (Neoplastic Leydig Cell) 53.12%
-- [NCIT:C36895](http://purl.obolibrary.org/obo/NCIT_C36895) (Neoplastic Sertoli Cell) 53.12%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) 48.10%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 48.10%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 48.10%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 48.10%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 48.10%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 48.10%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 48.10%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 48.10%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 48.10%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 48.10%
-- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 48.10%
+- [NCIT:C61450](http://purl.obolibrary.org/obo/NCIT_C61450) (Neoplastic Sex Cord-Stromal Cell Resembling Steroid Hormone-Secreting Cell) 53.85%
+- [NCIT:C36896](http://purl.obolibrary.org/obo/NCIT_C36896) (Neoplastic Leydig Cell) 53.85%
+- [NCIT:C36895](http://purl.obolibrary.org/obo/NCIT_C36895) (Neoplastic Sertoli Cell) 53.85%
+- Thing 53.67%
+- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) 50.27%
+- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C39258](http://purl.obolibrary.org/obo/NCIT_C39258) (TPO Signaling Pathway))) 50.27%
+- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C39253](http://purl.obolibrary.org/obo/NCIT_C39253) (Interferon Signaling Modulation Pathway))) 50.27%
+- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C39250](http://purl.obolibrary.org/obo/NCIT_C39250) (Mucosal Healing Pathway))) 50.27%
+- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C39247](http://purl.obolibrary.org/obo/NCIT_C39247) (Telomere Pathway))) 50.27%
+- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C39246](http://purl.obolibrary.org/obo/NCIT_C39246) (T Cell Receptor Signaling Pathway BioCarta))) 50.27%
+- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C39236](http://purl.obolibrary.org/obo/NCIT_C39236) (Sprouty Regulation of Tyrosine Kinase Signaling Pathway))) 50.27%
+- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C39217](http://purl.obolibrary.org/obo/NCIT_C39217) (Ras Signaling Pathway))) 50.27%
+- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C39208](http://purl.obolibrary.org/obo/NCIT_C39208) (Rac1 Cell Motility Signaling Pathway))) 50.27%
+- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C39197](http://purl.obolibrary.org/obo/NCIT_C39197) (PPAR-alpha Gene Regulation Pathway))) 50.27%
+- [NCIT:C36898](http://purl.obolibrary.org/obo/NCIT_C36898) (Neoplastic Sex Cord-Stromal Cell) and (not ([NCIT:C39194](http://purl.obolibrary.org/obo/NCIT_C39194) (Phospholipase C Signaling Pathway))) 50.27%
 
 

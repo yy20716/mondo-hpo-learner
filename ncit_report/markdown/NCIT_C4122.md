@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C39716](http://purl.obolibrary.org/obo/NCIT_C39716) (EGFR Protein Overexpression) 53.33%
-- [NCIT:C36639](http://purl.obolibrary.org/obo/NCIT_C36639) (ERBB2 Protein Overexpression) 53.33%
-- [NCIT:C36548](http://purl.obolibrary.org/obo/NCIT_C36548) (Loss of Chromosome 2q) 53.33%
-- [NCIT:C36516](http://purl.obolibrary.org/obo/NCIT_C36516) (Loss of Chromosome 10q) 53.33%
-- [NCIT:C36496](http://purl.obolibrary.org/obo/NCIT_C36496) (Loss of Chromosome 18q) 53.33%
-- [NCIT:C36489](http://purl.obolibrary.org/obo/NCIT_C36489) (Gain of Chromosome 5p) 53.33%
-- [NCIT:C36480](http://purl.obolibrary.org/obo/NCIT_C36480) (Gain of Chromosome 20q) 53.33%
-- [NCIT:C36329](http://purl.obolibrary.org/obo/NCIT_C36329) (TP53 Gene Inactivation) 53.33%
-- [NCIT:C27712](http://purl.obolibrary.org/obo/NCIT_C27712) (Loss of Chromosome 5q) 53.33%
-- [NCIT:C12866](http://purl.obolibrary.org/obo/NCIT_C12866) (Transitional Cell) 53.33%
-- Thing 53.15%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) 38.69%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39821](http://purl.obolibrary.org/obo/NCIT_C39821) (Infiltrating Bladder Lymphoepithelioma-Like Carcinoma))) 38.69%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39820](http://purl.obolibrary.org/obo/NCIT_C39820) (Infiltrating Bladder Urothelial Carcinoma, Microcystic Variant))) 38.69%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39819](http://purl.obolibrary.org/obo/NCIT_C39819) (Infiltrating Bladder Urothelial Carcinoma, Nested Variant))) 38.69%
+- [NCIT:C39716](http://purl.obolibrary.org/obo/NCIT_C39716) (EGFR Protein Overexpression) 54.17%
+- [NCIT:C36639](http://purl.obolibrary.org/obo/NCIT_C36639) (ERBB2 Protein Overexpression) 54.17%
+- [NCIT:C36548](http://purl.obolibrary.org/obo/NCIT_C36548) (Loss of Chromosome 2q) 54.17%
+- [NCIT:C36516](http://purl.obolibrary.org/obo/NCIT_C36516) (Loss of Chromosome 10q) 54.17%
+- [NCIT:C36496](http://purl.obolibrary.org/obo/NCIT_C36496) (Loss of Chromosome 18q) 54.17%
+- [NCIT:C36489](http://purl.obolibrary.org/obo/NCIT_C36489) (Gain of Chromosome 5p) 54.17%
+- [NCIT:C36480](http://purl.obolibrary.org/obo/NCIT_C36480) (Gain of Chromosome 20q) 54.17%
+- [NCIT:C36329](http://purl.obolibrary.org/obo/NCIT_C36329) (TP53 Gene Inactivation) 54.17%
+- [NCIT:C27712](http://purl.obolibrary.org/obo/NCIT_C27712) (Loss of Chromosome 5q) 54.17%
+- [NCIT:C12866](http://purl.obolibrary.org/obo/NCIT_C12866) (Transitional Cell) 54.17%
+- Thing 53.52%
+- [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 44.14%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) 39.52%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C38345](http://purl.obolibrary.org/obo/NCIT_C38345) (JUN Pathway Deregulation))) 39.52%
+- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C38344](http://purl.obolibrary.org/obo/NCIT_C38344) (RAS-RAF Pathway Deregulation))) 39.52%
 
 

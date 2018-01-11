@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.31%
-- [NCIT:C37181](http://purl.obolibrary.org/obo/NCIT_C37181) (Neoplastic Monoblast) 51.79%
-- [NCIT:C37076](http://purl.obolibrary.org/obo/NCIT_C37076) (Neoplastic Neutrophilic Precursor) 51.79%
-- [NCIT:C37075](http://purl.obolibrary.org/obo/NCIT_C37075) (Neoplastic Promonocyte) 51.79%
-- [NCIT:C37041](http://purl.obolibrary.org/obo/NCIT_C37041) (Neoplastic Monocyte) 51.79%
-- [NCIT:C37040](http://purl.obolibrary.org/obo/NCIT_C37040) (Abnormal Monocyte) 51.79%
-- [NCIT:C37032](http://purl.obolibrary.org/obo/NCIT_C37032) (Abnormal Eosinophil) 51.79%
-- [NCIT:C29957](http://purl.obolibrary.org/obo/NCIT_C29957) (MYH11 Gene) 51.79%
-- [NCIT:C18585](http://purl.obolibrary.org/obo/NCIT_C18585) (KMT2A Gene) 51.79%
-- Error4 51.79%
-- Error1 51.79%
-- [NCIT:C26110](http://purl.obolibrary.org/obo/NCIT_C26110) (Methyltransferase Gene) 37.14%
-- [NCIT:C26110](http://purl.obolibrary.org/obo/NCIT_C26110) (Methyltransferase Gene) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 37.14%
-- [NCIT:C26110](http://purl.obolibrary.org/obo/NCIT_C26110) (Methyltransferase Gene) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 37.14%
-- [NCIT:C26110](http://purl.obolibrary.org/obo/NCIT_C26110) (Methyltransferase Gene) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 37.14%
+- Thing 53.94%
+- [NCIT:C37181](http://purl.obolibrary.org/obo/NCIT_C37181) (Neoplastic Monoblast) 53.33%
+- [NCIT:C37076](http://purl.obolibrary.org/obo/NCIT_C37076) (Neoplastic Neutrophilic Precursor) 53.33%
+- [NCIT:C37075](http://purl.obolibrary.org/obo/NCIT_C37075) (Neoplastic Promonocyte) 53.33%
+- [NCIT:C37041](http://purl.obolibrary.org/obo/NCIT_C37041) (Neoplastic Monocyte) 53.33%
+- [NCIT:C37040](http://purl.obolibrary.org/obo/NCIT_C37040) (Abnormal Monocyte) 53.33%
+- [NCIT:C37032](http://purl.obolibrary.org/obo/NCIT_C37032) (Abnormal Eosinophil) 53.33%
+- [NCIT:C29957](http://purl.obolibrary.org/obo/NCIT_C29957) (MYH11 Gene) 53.33%
+- [NCIT:C18585](http://purl.obolibrary.org/obo/NCIT_C18585) (KMT2A Gene) 53.33%
+- Error7 53.33%
+- Error18 53.33%
+- [NCIT:C26110](http://purl.obolibrary.org/obo/NCIT_C26110) (Methyltransferase Gene) 38.69%
+- [NCIT:C26110](http://purl.obolibrary.org/obo/NCIT_C26110) (Methyltransferase Gene) and (not ([NCIT:C39620](http://purl.obolibrary.org/obo/NCIT_C39620) (Dermatopathic Lymphadenopathy))) 38.69%
+- [NCIT:C26110](http://purl.obolibrary.org/obo/NCIT_C26110) (Methyltransferase Gene) and (not ([NCIT:C39618](http://purl.obolibrary.org/obo/NCIT_C39618) (Subcutaneous Nodule))) 38.69%
+- [NCIT:C26110](http://purl.obolibrary.org/obo/NCIT_C26110) (Methyltransferase Gene) and (not ([NCIT:C39617](http://purl.obolibrary.org/obo/NCIT_C39617) (Subcutaneous Involvement))) 38.69%
 
 

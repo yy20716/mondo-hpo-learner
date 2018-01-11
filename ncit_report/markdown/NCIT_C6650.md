@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C3442](http://purl.obolibrary.org/obo/NCIT_C3442) (Vomiting) 54.17%
-- [NCIT:C3258](http://purl.obolibrary.org/obo/NCIT_C3258) (Nausea) 54.17%
-- [NCIT:C3143](http://purl.obolibrary.org/obo/NCIT_C3143) (Jaundice) 54.17%
-- [NCIT:C25785](http://purl.obolibrary.org/obo/NCIT_C25785) (KRAS Gene) 54.17%
-- [NCIT:C18258](http://purl.obolibrary.org/obo/NCIT_C18258) (SMAD4 Gene) 54.17%
-- [NCIT:C17359](http://purl.obolibrary.org/obo/NCIT_C17359) (TP53 Gene) 54.17%
-- Thing 52.82%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) 49.16%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C3993](http://purl.obolibrary.org/obo/NCIT_C3993) (Stage II Colon Cancer AJCC v6))) 49.16%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C39914](http://purl.obolibrary.org/obo/NCIT_C39914) (Gain of Chromosome 12p))) 49.16%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C3991](http://purl.obolibrary.org/obo/NCIT_C3991) (Thrombocytopenia Due to Immune Destruction))) 49.16%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C39909](http://purl.obolibrary.org/obo/NCIT_C39909) (Gain of Chromosome 18q))) 49.16%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C39907](http://purl.obolibrary.org/obo/NCIT_C39907) (Seminal Vesicle Cystadenoma))) 49.16%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C39906](http://purl.obolibrary.org/obo/NCIT_C39906) (Seminal Vesicle Adenocarcinoma))) 49.16%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C39905](http://purl.obolibrary.org/obo/NCIT_C39905) (Prostate Stromal Proliferation of Uncertain Malignant Potential))) 49.16%
+- [NCIT:C25785](http://purl.obolibrary.org/obo/NCIT_C25785) (KRAS Gene) 66.67%
+- [NCIT:C18258](http://purl.obolibrary.org/obo/NCIT_C18258) (SMAD4 Gene) 66.67%
+- [NCIT:C17359](http://purl.obolibrary.org/obo/NCIT_C17359) (TP53 Gene) 66.67%
+- [NCIT:C16612](http://purl.obolibrary.org/obo/NCIT_C16612) (Gene) 55.18%
+- Thing 51.76%
+- [NCIT:C20921](http://purl.obolibrary.org/obo/NCIT_C20921) (Signaling Pathway Gene) 51.01%
+- [NCIT:C25784](http://purl.obolibrary.org/obo/NCIT_C25784) (RAS Family Gene) 41.67%
+- [NCIT:C18437](http://purl.obolibrary.org/obo/NCIT_C18437) (G Protein Gene) 41.67%
+- [NCIT:C20917](http://purl.obolibrary.org/obo/NCIT_C20917) (Cell Cycle Gene) 32.48%
+- Error3 0.00%
+- Error20 0.00%
+- Error2 0.00%
+- Error19 0.00%
+- Error18 0.00%
+- Error17 0.00%
 
 

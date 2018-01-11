@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0001153](http://purl.obolibrary.org/obo/UBERON_0001153) (caecum) 58.33%
-- Thing 51.99%
-- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) 43.69%
-- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C40116](http://purl.obolibrary.org/obo/NCIT_C40116) (Fallopian Tube Metaplastic Papillary Tumor))) 43.69%
-- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C40114](http://purl.obolibrary.org/obo/NCIT_C40114) (Fallopian Tube Serous Cystadenofibroma))) 43.69%
-- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C40112](http://purl.obolibrary.org/obo/NCIT_C40112) (Fallopian Tube Papilloma))) 43.69%
-- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C40110](http://purl.obolibrary.org/obo/NCIT_C40110) (Borderline Fallopian Tube Endometrioid Tumor))) 43.69%
-- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 43.69%
-- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 43.69%
-- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C40104](http://purl.obolibrary.org/obo/NCIT_C40104) (Fallopian Tube Transitional Cell Carcinoma))) 43.69%
-- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C40103](http://purl.obolibrary.org/obo/NCIT_C40103) (Fallopian Tube Mucinous Adenocarcinoma))) 43.69%
-- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C40093](http://purl.obolibrary.org/obo/NCIT_C40093) (Ovarian Squamous Cell Carcinoma))) 43.69%
-- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 43.69%
-- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 43.69%
-- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 43.69%
+- [UBERON:0001153](http://purl.obolibrary.org/obo/UBERON_0001153) (caecum) 66.67%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([UBERON:0009497](http://purl.obolibrary.org/obo/UBERON_0009497) (epithelium of foregut-midgut junction))) 66.67%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([UBERON:0008835](http://purl.obolibrary.org/obo/UBERON_0008835) (hepatic diverticulum))) 66.67%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([UBERON:0007499](http://purl.obolibrary.org/obo/UBERON_0007499) (epithelial sac))) 66.67%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([UBERON:0005911](http://purl.obolibrary.org/obo/UBERON_0005911) (endo-epithelium))) 66.67%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([UBERON:0005291](http://purl.obolibrary.org/obo/UBERON_0005291) (embryonic tissue))) 66.67%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([UBERON:0004185](http://purl.obolibrary.org/obo/UBERON_0004185) (endodermal part of digestive tract))) 66.67%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure))) 66.67%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([UBERON:0004111](http://purl.obolibrary.org/obo/UBERON_0004111) (anatomical conduit))) 66.67%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([UBERON:0003929](http://purl.obolibrary.org/obo/UBERON_0003929) (digestive tract epithelium))) 66.67%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([UBERON:0003914](http://purl.obolibrary.org/obo/UBERON_0003914) (epithelial tube))) 66.67%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([UBERON:0000490](http://purl.obolibrary.org/obo/UBERON_0000490) (unilaminar epithelium))) 66.67%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([UBERON:0000483](http://purl.obolibrary.org/obo/UBERON_0000483) (epithelium))) 66.67%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([UBERON:0000479](http://purl.obolibrary.org/obo/UBERON_0000479) (tissue))) 66.67%
+- [UBERON:0009854](http://purl.obolibrary.org/obo/UBERON_0009854) (digestive tract diverticulum) and (not ([UBERON:0000025](http://purl.obolibrary.org/obo/UBERON_0000025) (tube))) 66.67%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [CL:1001598](http://purl.obolibrary.org/obo/CL_1001598) (small intestine glandular cell) 55.56%
-- [CL:0002254](http://purl.obolibrary.org/obo/CL_0002254) (epithelial cell of small intestine) 55.56%
-- [CL:0000151](http://purl.obolibrary.org/obo/CL_0000151) (secretory cell) and [CL:0002563](http://purl.obolibrary.org/obo/CL_0002563) (intestinal epithelial cell) 55.56%
-- [CL:0000151](http://purl.obolibrary.org/obo/CL_0000151) (secretory cell) and [CL:0002254](http://purl.obolibrary.org/obo/CL_0002254) (epithelial cell of small intestine) 55.56%
-- [CL:0000151](http://purl.obolibrary.org/obo/CL_0000151) (secretory cell) and [CL:0002251](http://purl.obolibrary.org/obo/CL_0002251) (epithelial cell of alimentary canal) 55.56%
-- [CL:0000150](http://purl.obolibrary.org/obo/CL_0000150) (glandular epithelial cell) and [CL:0002563](http://purl.obolibrary.org/obo/CL_0002563) (intestinal epithelial cell) 55.56%
-- [CL:0000150](http://purl.obolibrary.org/obo/CL_0000150) (glandular epithelial cell) and [CL:0002254](http://purl.obolibrary.org/obo/CL_0002254) (epithelial cell of small intestine) 55.56%
-- [CL:0000150](http://purl.obolibrary.org/obo/CL_0000150) (glandular epithelial cell) and [CL:0002251](http://purl.obolibrary.org/obo/CL_0002251) (epithelial cell of alimentary canal) 55.56%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) and [CL:0002563](http://purl.obolibrary.org/obo/CL_0002563) (intestinal epithelial cell) 55.56%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) and [CL:0002254](http://purl.obolibrary.org/obo/CL_0002254) (epithelial cell of small intestine) 55.56%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) and [CL:0002251](http://purl.obolibrary.org/obo/CL_0002251) (epithelial cell of alimentary canal) 55.56%
-- [CL:1001598](http://purl.obolibrary.org/obo/CL_1001598) (small intestine glandular cell) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 55.56%
-- [CL:1001598](http://purl.obolibrary.org/obo/CL_1001598) (small intestine glandular cell) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 55.56%
-- [CL:1001598](http://purl.obolibrary.org/obo/CL_1001598) (small intestine glandular cell) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 55.56%
-- [CL:1001598](http://purl.obolibrary.org/obo/CL_1001598) (small intestine glandular cell) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 55.56%
+- [CL:1001598](http://purl.obolibrary.org/obo/CL_1001598) (small intestine glandular cell) 58.33%
+- [CL:0002254](http://purl.obolibrary.org/obo/CL_0002254) (epithelial cell of small intestine) 58.33%
+- [CL:0000151](http://purl.obolibrary.org/obo/CL_0000151) (secretory cell) and [CL:0002563](http://purl.obolibrary.org/obo/CL_0002563) (intestinal epithelial cell) 58.33%
+- [CL:0000151](http://purl.obolibrary.org/obo/CL_0000151) (secretory cell) and [CL:0002254](http://purl.obolibrary.org/obo/CL_0002254) (epithelial cell of small intestine) 58.33%
+- [CL:0000151](http://purl.obolibrary.org/obo/CL_0000151) (secretory cell) and [CL:0002251](http://purl.obolibrary.org/obo/CL_0002251) (epithelial cell of alimentary canal) 58.33%
+- [CL:0000150](http://purl.obolibrary.org/obo/CL_0000150) (glandular epithelial cell) and [CL:0002563](http://purl.obolibrary.org/obo/CL_0002563) (intestinal epithelial cell) 58.33%
+- [CL:0000150](http://purl.obolibrary.org/obo/CL_0000150) (glandular epithelial cell) and [CL:0002254](http://purl.obolibrary.org/obo/CL_0002254) (epithelial cell of small intestine) 58.33%
+- [CL:0000150](http://purl.obolibrary.org/obo/CL_0000150) (glandular epithelial cell) and [CL:0002251](http://purl.obolibrary.org/obo/CL_0002251) (epithelial cell of alimentary canal) 58.33%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) and [CL:0002563](http://purl.obolibrary.org/obo/CL_0002563) (intestinal epithelial cell) 58.33%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) and [CL:0002254](http://purl.obolibrary.org/obo/CL_0002254) (epithelial cell of small intestine) 58.33%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) and [CL:0002251](http://purl.obolibrary.org/obo/CL_0002251) (epithelial cell of alimentary canal) 58.33%
+- [CL:1001598](http://purl.obolibrary.org/obo/CL_1001598) (small intestine glandular cell) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 58.33%
+- [CL:1001598](http://purl.obolibrary.org/obo/CL_1001598) (small intestine glandular cell) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 58.33%
+- [CL:1001598](http://purl.obolibrary.org/obo/CL_1001598) (small intestine glandular cell) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 58.33%
+- [CL:1001598](http://purl.obolibrary.org/obo/CL_1001598) (small intestine glandular cell) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 58.33%
 
 

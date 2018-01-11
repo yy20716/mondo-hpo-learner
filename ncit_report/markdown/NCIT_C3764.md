@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.73%
-- [NCIT:C3884](http://purl.obolibrary.org/obo/NCIT_C3884) (Skin Cyst) 52.38%
-- [NCIT:C3134](http://purl.obolibrary.org/obo/NCIT_C3134) (Epidermal Inclusion Cyst) 52.38%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C27054](http://purl.obolibrary.org/obo/NCIT_C27054) (Rectal Hemorrhage))) 52.38%
-- [NCIT:C78438](http://purl.obolibrary.org/obo/NCIT_C78438) (Lower Gastrointestinal Hemorrhage) 37.74%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) 37.74%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C40021](http://purl.obolibrary.org/obo/NCIT_C40021) (Ovarian Lymphoma))) 37.74%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 37.74%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 37.74%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 37.74%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 37.74%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 37.74%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 37.74%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 37.74%
-- [NCIT:C54581](http://purl.obolibrary.org/obo/NCIT_C54581) (Intestinal Hemorrhage) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 37.74%
+- [UBERON:0002110](http://purl.obolibrary.org/obo/UBERON_0002110) (gall bladder) 55.56%
+- [NCIT:C13221](http://purl.obolibrary.org/obo/NCIT_C13221) (Chromosome 5) 55.56%
+- [UBERON:0017672](http://purl.obolibrary.org/obo/UBERON_0017672) (abdominal viscera) and [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) 55.56%
+- [UBERON:0013765](http://purl.obolibrary.org/obo/UBERON_0013765) (digestive system element) and [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) 55.56%
+- [UBERON:0005173](http://purl.obolibrary.org/obo/UBERON_0005173) (abdominal segment element) and [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) 55.56%
+- [UBERON:0005172](http://purl.obolibrary.org/obo/UBERON_0005172) (abdomen element) and [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) 55.56%
+- [UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure) and [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) 55.56%
+- Thing 53.05%
+- [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) 40.91%
+- [UBERON:0005177](http://purl.obolibrary.org/obo/UBERON_0005177) (trunk region element) and [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) 40.91%
+- [UBERON:0002075](http://purl.obolibrary.org/obo/UBERON_0002075) (viscus) and [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) 40.91%
+- [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) and (not ([NCIT:C3880](http://purl.obolibrary.org/obo/NCIT_C3880) (Eyelid Nevus))) 40.91%
+- [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) and (not ([NCIT:C38784](http://purl.obolibrary.org/obo/NCIT_C38784) (Apoptosis Pathway))) 40.91%
+- [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) and (not ([NCIT:C38770](http://purl.obolibrary.org/obo/NCIT_C38770) (Squamous Differentiation))) 40.91%
+- [UBERON:0018707](http://purl.obolibrary.org/obo/UBERON_0018707) (bladder organ) and (not ([NCIT:C38762](http://purl.obolibrary.org/obo/NCIT_C38762) (Thyroid Gland Mucoepidermoid Carcinoma))) 40.91%
 
 

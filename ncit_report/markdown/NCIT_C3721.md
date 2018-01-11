@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C39715](http://purl.obolibrary.org/obo/NCIT_C39715) (CD30-Positive Neoplastic Cells Present) 53.57%
-- [NCIT:C39626](http://purl.obolibrary.org/obo/NCIT_C39626) (Epidermotropic Lymphocytic Infiltrate) 53.57%
-- [NCIT:C39589](http://purl.obolibrary.org/obo/NCIT_C39589) (Angioinvasion) 53.57%
-- [NCIT:C38721](http://purl.obolibrary.org/obo/NCIT_C38721) (Nuclear Pleomorphism) 53.57%
-- [NCIT:C36156](http://purl.obolibrary.org/obo/NCIT_C36156) (Favorable Clinical Outcome) 53.57%
-- [NCIT:C36105](http://purl.obolibrary.org/obo/NCIT_C36105) (Indolent Clinical Course) 53.57%
-- [NCIT:C35980](http://purl.obolibrary.org/obo/NCIT_C35980) (Chronic Inflammatory Infiltrate) 53.57%
-- Error10 53.57%
-- [NCIT:C35979](http://purl.obolibrary.org/obo/NCIT_C35979) (Acute Inflammatory Infiltrate) and (not ([NCIT:C35981](http://purl.obolibrary.org/obo/NCIT_C35981) (Eosinophilic Infiltrate))) 53.57%
-- Thing 53.04%
-- [NCIT:C35978](http://purl.obolibrary.org/obo/NCIT_C35978) (Inflammatory Infiltrate) 42.50%
-- [NCIT:C35983](http://purl.obolibrary.org/obo/NCIT_C35983) (Lymphocytic Infiltrate) 38.93%
-- [NCIT:C35979](http://purl.obolibrary.org/obo/NCIT_C35979) (Acute Inflammatory Infiltrate) 38.93%
-- [NCIT:C35939](http://purl.obolibrary.org/obo/NCIT_C35939) (Tumor Vascular Invasion) 38.93%
-- [NCIT:C35979](http://purl.obolibrary.org/obo/NCIT_C35979) (Acute Inflammatory Infiltrate) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 38.93%
+- [NCIT:C39686](http://purl.obolibrary.org/obo/NCIT_C39686) (Activated Skin-Homing T-Lymphocyte) 60.00%
+- Error17 60.00%
+- [CL:0002419](http://purl.obolibrary.org/obo/CL_0002419) (mature T cell) and [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) 60.00%
+- [CL:0000084](http://purl.obolibrary.org/obo/CL_0000084) (T cell) and [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) 60.00%
+- Thing 52.27%
+- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) 45.36%
+- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([NCIT:C118763](http://purl.obolibrary.org/obo/NCIT_C118763) (Exophthalmos))) 45.36%
+- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([NCIT:C118630](http://purl.obolibrary.org/obo/NCIT_C118630) (Liver Adenosquamous Carcinoma))) 45.36%
+- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([NCIT:C118421](http://purl.obolibrary.org/obo/NCIT_C118421) (Anaplastic Plasmacytoma))) 45.36%
+- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([NCIT:C118396](http://purl.obolibrary.org/obo/NCIT_C118396) (TP53 Gene Mutation))) 45.36%
+- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([NCIT:C116318](http://purl.obolibrary.org/obo/NCIT_C116318) (Nasal Cavity and Paranasal Sinus Small Cell Neuroendocrine Carcinoma))) 45.36%
+- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([NCIT:C116317](http://purl.obolibrary.org/obo/NCIT_C116317) (Kidney Small Cell Carcinoma))) 45.36%
+- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([NCIT:C116316](http://purl.obolibrary.org/obo/NCIT_C116316) (Intestinal-Type Sinonasal Adenocarcinoma))) 45.36%
+- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([NCIT:C115998](http://purl.obolibrary.org/obo/NCIT_C115998) (Localized Childhood Undifferentiated High Grade Pleomorphic Sarcoma of Bone))) 45.36%
+- [NCIT:C32049](http://purl.obolibrary.org/obo/NCIT_C32049) (Activated Lymphocyte) and (not ([NCIT:C115997](http://purl.obolibrary.org/obo/NCIT_C115997) (Localized Adult Undifferentiated High Grade Pleomorphic Sarcoma of Bone))) 45.36%
 
 

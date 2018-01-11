@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.82%
-- [NCIT:C48265](http://purl.obolibrary.org/obo/NCIT_C48265) (Neoplastic Parathyroid Gland Cell) 44.45%
-- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) 37.63%
-- [NCIT:C48272](http://purl.obolibrary.org/obo/NCIT_C48272) (Neoplastic Parathyroid Gland Oncocyte) 37.63%
-- [NCIT:C48268](http://purl.obolibrary.org/obo/NCIT_C48268) (Neoplastic Parathyroid Gland Chief Cell) 37.63%
-- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C40154](http://purl.obolibrary.org/obo/NCIT_C40154) (Endometrial Transitional Cell Carcinoma))) 37.63%
-- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C40153](http://purl.obolibrary.org/obo/NCIT_C40153) (Endometrial Mixed Adenocarcinoma))) 37.63%
-- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C40152](http://purl.obolibrary.org/obo/NCIT_C40152) (Serous Endometrial Intraepithelial Carcinoma))) 37.63%
-- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C40151](http://purl.obolibrary.org/obo/NCIT_C40151) (Grade 3 Endometrial Mucinous Adenocarcinoma))) 37.63%
-- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C40150](http://purl.obolibrary.org/obo/NCIT_C40150) (Grade 2 Endometrial Mucinous Adenocarcinoma))) 37.63%
-- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C40149](http://purl.obolibrary.org/obo/NCIT_C40149) (Grade 1 Endometrial Mucinous Adenocarcinoma))) 37.63%
-- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C40148](http://purl.obolibrary.org/obo/NCIT_C40148) (Grade 3 Endometrial Endometrioid Adenocarcinoma))) 37.63%
-- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C40147](http://purl.obolibrary.org/obo/NCIT_C40147) (Grade 2 Endometrial Endometrioid Adenocarcinoma))) 37.63%
-- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C40146](http://purl.obolibrary.org/obo/NCIT_C40146) (Grade 1 Endometrial Endometrioid Adenocarcinoma))) 37.63%
-- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C40142](http://purl.obolibrary.org/obo/NCIT_C40142) (Uterine Ligament Papillary Cystadenoma Associated with von Hippel-Lindau Disease))) 37.63%
+- [NCIT:C48265](http://purl.obolibrary.org/obo/NCIT_C48265) (Neoplastic Parathyroid Gland Cell) 55.36%
+- Thing 53.22%
+- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) 40.36%
+- [NCIT:C48272](http://purl.obolibrary.org/obo/NCIT_C48272) (Neoplastic Parathyroid Gland Oncocyte) 40.36%
+- [NCIT:C48268](http://purl.obolibrary.org/obo/NCIT_C48268) (Neoplastic Parathyroid Gland Chief Cell) 40.36%
+- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C38457](http://purl.obolibrary.org/obo/NCIT_C38457) (Clonal BCL3 Gene Rearrangement))) 40.36%
+- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C38450](http://purl.obolibrary.org/obo/NCIT_C38450) (Colony-Stimulating Factor Overexpression))) 40.36%
+- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C38448](http://purl.obolibrary.org/obo/NCIT_C38448) (Lymphotoxin-Alpha Overexpression))) 40.36%
+- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C38447](http://purl.obolibrary.org/obo/NCIT_C38447) (Interleukin-13 Overexpression))) 40.36%
+- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C38446](http://purl.obolibrary.org/obo/NCIT_C38446) (Interleukin-10 Overexpression))) 40.36%
+- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C38445](http://purl.obolibrary.org/obo/NCIT_C38445) (Interleukin-9 Overexpression))) 40.36%
+- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C38444](http://purl.obolibrary.org/obo/NCIT_C38444) (Interleukin-7 Overexpression))) 40.36%
+- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C38443](http://purl.obolibrary.org/obo/NCIT_C38443) (Interleukin-6 Overexpression))) 40.36%
+- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C38442](http://purl.obolibrary.org/obo/NCIT_C38442) (Interleukin-5 Overexpression))) 40.36%
+- [NCIT:C48279](http://purl.obolibrary.org/obo/NCIT_C48279) (Neoplastic Parathyroid Gland Clear Cell) and (not ([NCIT:C38441](http://purl.obolibrary.org/obo/NCIT_C38441) (Interleukin-2 Overexpression))) 40.36%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C3991](http://purl.obolibrary.org/obo/NCIT_C3991) (Thrombocytopenia Due to Immune Destruction) 53.85%
-- [NCIT:C39593](http://purl.obolibrary.org/obo/NCIT_C39593) (Peripheral Blood Involvement) 53.85%
-- [NCIT:C38727](http://purl.obolibrary.org/obo/NCIT_C38727) (Villous Lymphocyte) 53.85%
-- [NCIT:C38341](http://purl.obolibrary.org/obo/NCIT_C38341) (Postgerminal Center B-Lymphocyte of Unknown Differentiation Stage) 53.85%
-- [NCIT:C36991](http://purl.obolibrary.org/obo/NCIT_C36991) (Neoplastic Small to Medium-Sized B-Lymphocyte with Pale Cytoplasm) 53.85%
-- [NCIT:C3384](http://purl.obolibrary.org/obo/NCIT_C3384) (Splenomegaly) 53.85%
-- [NCIT:C122601](http://purl.obolibrary.org/obo/NCIT_C122601) (Extramedullary Involvement) 53.85%
-- Thing 52.93%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) 39.20%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C40116](http://purl.obolibrary.org/obo/NCIT_C40116) (Fallopian Tube Metaplastic Papillary Tumor))) 39.20%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C40114](http://purl.obolibrary.org/obo/NCIT_C40114) (Fallopian Tube Serous Cystadenofibroma))) 39.20%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C40112](http://purl.obolibrary.org/obo/NCIT_C40112) (Fallopian Tube Papilloma))) 39.20%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C40110](http://purl.obolibrary.org/obo/NCIT_C40110) (Borderline Fallopian Tube Endometrioid Tumor))) 39.20%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 39.20%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 39.20%
+- [UBERON:0002106](http://purl.obolibrary.org/obo/UBERON_0002106) (spleen) 57.14%
+- [UBERON:0001251](http://purl.obolibrary.org/obo/UBERON_0001251) (marginal zone of spleen) 57.14%
+- [NCIT:C38727](http://purl.obolibrary.org/obo/NCIT_C38727) (Villous Lymphocyte) 57.14%
+- [NCIT:C38341](http://purl.obolibrary.org/obo/NCIT_C38341) (Postgerminal Center B-Lymphocyte of Unknown Differentiation Stage) 57.14%
+- [NCIT:C36991](http://purl.obolibrary.org/obo/NCIT_C36991) (Neoplastic Small to Medium-Sized B-Lymphocyte with Pale Cytoplasm) 57.14%
+- [UBERON:0004177](http://purl.obolibrary.org/obo/UBERON_0004177) (hemopoietic organ) and [UBERON:0017672](http://purl.obolibrary.org/obo/UBERON_0017672) (abdominal viscera) 57.14%
+- [UBERON:0004177](http://purl.obolibrary.org/obo/UBERON_0004177) (hemopoietic organ) and [UBERON:0013765](http://purl.obolibrary.org/obo/UBERON_0013765) (digestive system element) 57.14%
+- [UBERON:0004177](http://purl.obolibrary.org/obo/UBERON_0004177) (hemopoietic organ) and [UBERON:0005177](http://purl.obolibrary.org/obo/UBERON_0005177) (trunk region element) 57.14%
+- [UBERON:0004177](http://purl.obolibrary.org/obo/UBERON_0004177) (hemopoietic organ) and [UBERON:0005173](http://purl.obolibrary.org/obo/UBERON_0005173) (abdominal segment element) 57.14%
+- [UBERON:0004177](http://purl.obolibrary.org/obo/UBERON_0004177) (hemopoietic organ) and [UBERON:0005172](http://purl.obolibrary.org/obo/UBERON_0005172) (abdomen element) 57.14%
+- [UBERON:0002075](http://purl.obolibrary.org/obo/UBERON_0002075) (viscus) and [UBERON:0004177](http://purl.obolibrary.org/obo/UBERON_0004177) (hemopoietic organ) 57.14%
+- [UBERON:0004177](http://purl.obolibrary.org/obo/UBERON_0004177) (hemopoietic organ) and [UBERON:0013765](http://purl.obolibrary.org/obo/UBERON_0013765) (digestive system element) and [UBERON:0017672](http://purl.obolibrary.org/obo/UBERON_0017672) (abdominal viscera) 57.14%
+- [UBERON:0004177](http://purl.obolibrary.org/obo/UBERON_0004177) (hemopoietic organ) and [UBERON:0005177](http://purl.obolibrary.org/obo/UBERON_0005177) (trunk region element) and [UBERON:0013765](http://purl.obolibrary.org/obo/UBERON_0013765) (digestive system element) 57.14%
+- [UBERON:0004177](http://purl.obolibrary.org/obo/UBERON_0004177) (hemopoietic organ) and [UBERON:0005173](http://purl.obolibrary.org/obo/UBERON_0005173) (abdominal segment element) and [UBERON:0013765](http://purl.obolibrary.org/obo/UBERON_0013765) (digestive system element) 57.14%
+- [UBERON:0004177](http://purl.obolibrary.org/obo/UBERON_0004177) (hemopoietic organ) and [UBERON:0005172](http://purl.obolibrary.org/obo/UBERON_0005172) (abdomen element) and [UBERON:0013765](http://purl.obolibrary.org/obo/UBERON_0013765) (digestive system element) 57.14%
 
 

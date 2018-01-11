@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C37055](http://purl.obolibrary.org/obo/NCIT_C37055) (Large Multinucleated Erythroid Cell))) 56.67%
-- [NCIT:C12524](http://purl.obolibrary.org/obo/NCIT_C12524) (Megaloblast) 53.33%
-- Thing 53.15%
-- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) 47.49%
-- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C40321](http://purl.obolibrary.org/obo/NCIT_C40321) (Vulvar Liposarcoma))) 47.49%
-- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C40320](http://purl.obolibrary.org/obo/NCIT_C40320) (Vulvar Alveolar Soft Part Sarcoma))) 47.49%
-- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C40318](http://purl.obolibrary.org/obo/NCIT_C40318) (Vulvar Leiomyosarcoma))) 47.49%
-- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C40314](http://purl.obolibrary.org/obo/NCIT_C40314) (Vulvar Trichoepithelioma))) 47.49%
-- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C40312](http://purl.obolibrary.org/obo/NCIT_C40312) (Vulvar Nodular Hidradenoma))) 47.49%
-- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C40311](http://purl.obolibrary.org/obo/NCIT_C40311) (Vulvar Syringoma))) 47.49%
-- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C40309](http://purl.obolibrary.org/obo/NCIT_C40309) (Vulvar Sebaceous Carcinoma))) 47.49%
-- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C40308](http://purl.obolibrary.org/obo/NCIT_C40308) (Vulvar Apocrine Adenocarcinoma))) 47.49%
-- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C40307](http://purl.obolibrary.org/obo/NCIT_C40307) (Vulvar Clear Cell Hidradenocarcinoma))) 47.49%
-- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C40306](http://purl.obolibrary.org/obo/NCIT_C40306) (Vulvar Eccrine Porocarcinoma))) 47.49%
-- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C40301](http://purl.obolibrary.org/obo/NCIT_C40301) (Adenoma of Minor Vestibular Glands))) 47.49%
+- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C37055](http://purl.obolibrary.org/obo/NCIT_C37055) (Large Multinucleated Erythroid Cell))) 70.00%
+- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) 60.82%
+- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C39072](http://purl.obolibrary.org/obo/NCIT_C39072) (Erk1/Erk2 MAPK Signaling Pathway))) 60.82%
+- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C39071](http://purl.obolibrary.org/obo/NCIT_C39071) (Neuronal Survival Pathway))) 60.82%
+- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C39069](http://purl.obolibrary.org/obo/NCIT_C39069) (ErbB3 Receptor Recycling Pathway))) 60.82%
+- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C39067](http://purl.obolibrary.org/obo/NCIT_C39067) (EPO Signaling Pathway))) 60.82%
+- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C39066](http://purl.obolibrary.org/obo/NCIT_C39066) (Erythropoietin Neuroprotection Pathway))) 60.82%
+- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C39059](http://purl.obolibrary.org/obo/NCIT_C39059) (Map Kinase Inactivation of SMRT Corepressor Pathway))) 60.82%
+- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C39058](http://purl.obolibrary.org/obo/NCIT_C39058) (EGF Signaling Pathway))) 60.82%
+- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C39056](http://purl.obolibrary.org/obo/NCIT_C39056) (Vesicle Transport Pathway))) 60.82%
+- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C39055](http://purl.obolibrary.org/obo/NCIT_C39055) (Phospholipid Signaling Pathway))) 60.82%
+- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C39054](http://purl.obolibrary.org/obo/NCIT_C39054) (Extracellular Matrix Binding Pathway))) 60.82%
+- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C39040](http://purl.obolibrary.org/obo/NCIT_C39040) (CTCF Pathway))) 60.82%
+- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C39021](http://purl.obolibrary.org/obo/NCIT_C39021) (Cell Migration Pathway))) 60.82%
+- [NCIT:C37054](http://purl.obolibrary.org/obo/NCIT_C37054) (Dysplastic Erythroid Precursor) and (not ([NCIT:C39016](http://purl.obolibrary.org/obo/NCIT_C39016) (EGF Receptor Downregulation by CBL Pathway))) 60.82%
 
 

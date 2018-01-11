@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0001981](http://purl.obolibrary.org/obo/UBERON_0001981) (blood vessel) 65.36%
-- [UBERON:0003920](http://purl.obolibrary.org/obo/UBERON_0003920) (venous blood vessel) and [UBERON:0013768](http://purl.obolibrary.org/obo/UBERON_0013768) (great vessel of heart) 65.00%
-- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and [UBERON:0013768](http://purl.obolibrary.org/obo/UBERON_0013768) (great vessel of heart) 65.00%
-- [UBERON:0013768](http://purl.obolibrary.org/obo/UBERON_0013768) (great vessel of heart) 64.72%
-- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) 64.72%
-- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36855](http://purl.obolibrary.org/obo/NCIT_C36855) (Malignant Neuroendocrine Polygonal Cell))) 64.72%
-- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36854](http://purl.obolibrary.org/obo/NCIT_C36854) (Malignant Neuroendocrine Spindle Cell))) 64.72%
-- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36850](http://purl.obolibrary.org/obo/NCIT_C36850) (Polygonal Adenocarcinoma Cell with Eosinophilic Cytoplasm))) 64.72%
-- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C3685](http://purl.obolibrary.org/obo/NCIT_C3685) (Microcystic Adenoma))) 64.72%
-- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36848](http://purl.obolibrary.org/obo/NCIT_C36848) (Anaplastic Carcinoma Cell))) 64.72%
-- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36847](http://purl.obolibrary.org/obo/NCIT_C36847) (Hemosiderin-Laden Macrophage))) 64.72%
-- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36842](http://purl.obolibrary.org/obo/NCIT_C36842) (Giant Astrocyte))) 64.72%
-- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36836](http://purl.obolibrary.org/obo/NCIT_C36836) (Malignant Thyroid Gland Follicular Cell))) 64.72%
-- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36834](http://purl.obolibrary.org/obo/NCIT_C36834) (Tingible Body Macrophage))) 64.72%
-- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36833](http://purl.obolibrary.org/obo/NCIT_C36833) (Lipid-Laden Macrophage))) 64.72%
+- [UBERON:0001981](http://purl.obolibrary.org/obo/UBERON_0001981) (blood vessel) 78.21%
+- [UBERON:0013768](http://purl.obolibrary.org/obo/UBERON_0013768) (great vessel of heart) 73.29%
+- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) 73.29%
+- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36453](http://purl.obolibrary.org/obo/NCIT_C36453) (Gain of Chromosome 7q))) 73.29%
+- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36452](http://purl.obolibrary.org/obo/NCIT_C36452) (Clonal Immunoglobulin Lambda Light Chain Gene Rearrangement))) 73.29%
+- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36451](http://purl.obolibrary.org/obo/NCIT_C36451) (Clonal Immunoglobulin Kappa Light Chain Gene Rearrangement))) 73.29%
+- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36449](http://purl.obolibrary.org/obo/NCIT_C36449) (Clonal BCL6 Gene Rearrangement))) 73.29%
+- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36448](http://purl.obolibrary.org/obo/NCIT_C36448) (Clonal T-Cell Receptor Gamma Chain Gene Rearrangement))) 73.29%
+- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36447](http://purl.obolibrary.org/obo/NCIT_C36447) (Clonal T-Cell Receptor Beta Chain Gene Rearrangement))) 73.29%
+- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36444](http://purl.obolibrary.org/obo/NCIT_C36444) (Clonal Immunoglobulin Heavy Chain Gene Rearrangement))) 73.29%
+- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36442](http://purl.obolibrary.org/obo/NCIT_C36442) (Clonal BCL2 Gene Rearrangement))) 73.29%
+- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36441](http://purl.obolibrary.org/obo/NCIT_C36441) (Gain of Chromosome 12q))) 73.29%
+- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36440](http://purl.obolibrary.org/obo/NCIT_C36440) (Gain of Chromosome 9p))) 73.29%
+- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C3644](http://purl.obolibrary.org/obo/NCIT_C3644) (Stage 0is Bladder Urothelial Carcinoma))) 73.29%
+- [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and (not ([NCIT:C36439](http://purl.obolibrary.org/obo/NCIT_C36439) (Gain of Chromosome 2p))) 73.29%
 
 

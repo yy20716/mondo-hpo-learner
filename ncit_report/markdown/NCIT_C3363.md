@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C48586](http://purl.obolibrary.org/obo/NCIT_C48586) (Slow Growing Painless Mass) 53.57%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) 53.57%
-- Thing 53.04%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) 38.93%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39963](http://purl.obolibrary.org/obo/NCIT_C39963) (Penile Bowenoid Papulosis))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39961](http://purl.obolibrary.org/obo/NCIT_C39961) (Penile Basal Cell Carcinoma))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39959](http://purl.obolibrary.org/obo/NCIT_C39959) (Mixed Squamous Cell Carcinoma of the Penis))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39957](http://purl.obolibrary.org/obo/NCIT_C39957) (Epididymal Adenocarcinoma))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C39956](http://purl.obolibrary.org/obo/NCIT_C39956) (Rete Testis Adenoma))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C3994](http://purl.obolibrary.org/obo/NCIT_C3994) (Stage IV Colon Cancer AJCC v6))) 38.93%
-- [NCIT:C48898](http://purl.obolibrary.org/obo/NCIT_C48898) (Painless Mass) and (not ([NCIT:C3993](http://purl.obolibrary.org/obo/NCIT_C3993) (Stage II Colon Cancer AJCC v6))) 38.93%
+- [NCIT:C43338](http://purl.obolibrary.org/obo/NCIT_C43338) (Neoplastic Sebocyte) 66.67%
+- [UBERON:0035639](http://purl.obolibrary.org/obo/UBERON_0035639) (ocular adnexa) 58.33%
+- [UBERON:0012344](http://purl.obolibrary.org/obo/UBERON_0012344) (holocrine gland) 58.33%
+- [UBERON:0001821](http://purl.obolibrary.org/obo/UBERON_0001821) (sebaceous gland) 58.33%
+- [UBERON:0001711](http://purl.obolibrary.org/obo/UBERON_0001711) (eyelid) 58.33%
+- [NCIT:C43339](http://purl.obolibrary.org/obo/NCIT_C43339) (Malignant Sebocyte) 58.33%
+- [CL:2000021](http://purl.obolibrary.org/obo/CL_2000021) (sebaceous gland native cell) 58.33%
+- [CL:0000317](http://purl.obolibrary.org/obo/CL_0000317) (sebum secreting cell) 58.33%
+- [CL:0000152](http://purl.obolibrary.org/obo/CL_0000152) (exocrine cell) 58.33%
+- [UBERON:0007771](http://purl.obolibrary.org/obo/UBERON_0007771) (epidermis gland) and [UBERON:0012344](http://purl.obolibrary.org/obo/UBERON_0012344) (holocrine gland) 58.33%
+- Thing 52.49%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 37.10%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 37.10%
+- [UBERON:0007771](http://purl.obolibrary.org/obo/UBERON_0007771) (epidermis gland) 33.33%
+- [UBERON:0002419](http://purl.obolibrary.org/obo/UBERON_0002419) (skin gland) 33.33%
 
 

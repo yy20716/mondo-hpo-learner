@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 55.46%
-- [NCIT:C82366](http://purl.obolibrary.org/obo/NCIT_C82366) (ERG Gene Rearrangement) 51.11%
-- [NCIT:C82365](http://purl.obolibrary.org/obo/NCIT_C82365) (TMPRSS2-ERG Fusion Protein Expression) 51.11%
-- [NCIT:C79904](http://purl.obolibrary.org/obo/NCIT_C79904) (TMPRSS2/ERG Fusion Gene) 51.11%
-- [NCIT:C60371](http://purl.obolibrary.org/obo/NCIT_C60371) (Absence of Basal Cell Layer) 51.11%
-- [NCIT:C60359](http://purl.obolibrary.org/obo/NCIT_C60359) (Prostatic Crystalloids Present) 51.11%
-- [NCIT:C60308](http://purl.obolibrary.org/obo/NCIT_C60308) (More than 10 Mitoses per 10HPF) 51.11%
-- [NCIT:C54062](http://purl.obolibrary.org/obo/NCIT_C54062) (Hereditary Lesion) 51.11%
-- [NCIT:C48260](http://purl.obolibrary.org/obo/NCIT_C48260) (Perineural Invasion) 51.11%
-- [NCIT:C40557](http://purl.obolibrary.org/obo/NCIT_C40557) (Metastatic Lesion) 51.11%
-- [NCIT:C39909](http://purl.obolibrary.org/obo/NCIT_C39909) (Gain of Chromosome 18q) 51.11%
-- [NCIT:C38644](http://purl.obolibrary.org/obo/NCIT_C38644) (Bone Pain) 51.11%
-- [NCIT:C36692](http://purl.obolibrary.org/obo/NCIT_C36692) (PTEN Gene Inactivation) 51.11%
-- [NCIT:C36658](http://purl.obolibrary.org/obo/NCIT_C36658) (Gain of Chromosome Xq) 51.11%
-- [NCIT:C36516](http://purl.obolibrary.org/obo/NCIT_C36516) (Loss of Chromosome 10q) 51.11%
+- Thing 55.66%
+- [NCIT:C82366](http://purl.obolibrary.org/obo/NCIT_C82366) (ERG Gene Rearrangement) 51.61%
+- [NCIT:C82365](http://purl.obolibrary.org/obo/NCIT_C82365) (TMPRSS2-ERG Fusion Protein Expression) 51.61%
+- [NCIT:C79904](http://purl.obolibrary.org/obo/NCIT_C79904) (TMPRSS2/ERG Fusion Gene) 51.61%
+- [NCIT:C39909](http://purl.obolibrary.org/obo/NCIT_C39909) (Gain of Chromosome 18q) 51.61%
+- [NCIT:C36783](http://purl.obolibrary.org/obo/NCIT_C36783) (Malignant Non-Cutaneous Basaloid Cell) 51.61%
+- [NCIT:C36692](http://purl.obolibrary.org/obo/NCIT_C36692) (PTEN Gene Inactivation) 51.61%
+- [NCIT:C36658](http://purl.obolibrary.org/obo/NCIT_C36658) (Gain of Chromosome Xq) 51.61%
+- [NCIT:C36516](http://purl.obolibrary.org/obo/NCIT_C36516) (Loss of Chromosome 10q) 51.61%
+- [NCIT:C36515](http://purl.obolibrary.org/obo/NCIT_C36515) (Loss of Chromosome 16q) 51.61%
+- [NCIT:C36503](http://purl.obolibrary.org/obo/NCIT_C36503) (Loss of Chromosome 8p) 51.61%
+- [NCIT:C36501](http://purl.obolibrary.org/obo/NCIT_C36501) (Loss of Chromosome 1p) 51.61%
+- [NCIT:C36500](http://purl.obolibrary.org/obo/NCIT_C36500) (Loss of Chromosome 6p) 51.61%
+- [NCIT:C36497](http://purl.obolibrary.org/obo/NCIT_C36497) (Loss of Chromosome 13q) 51.61%
+- [NCIT:C36496](http://purl.obolibrary.org/obo/NCIT_C36496) (Loss of Chromosome 18q) 51.61%
 
 

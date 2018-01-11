@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.35%
-- [NCIT:C79099](http://purl.obolibrary.org/obo/NCIT_C79099) (1p/19q Codeletion) 52.94%
-- [NCIT:C6833](http://purl.obolibrary.org/obo/NCIT_C6833) (Double Minutes) 52.94%
-- [NCIT:C41428](http://purl.obolibrary.org/obo/NCIT_C41428) (Increased Cellularity Present) 52.94%
-- [NCIT:C38328](http://purl.obolibrary.org/obo/NCIT_C38328) (Unfavorable Clinical Outcome) 52.94%
-- [NCIT:C36636](http://purl.obolibrary.org/obo/NCIT_C36636) (Loss of Chromosome 9p) 52.94%
-- [NCIT:C36512](http://purl.obolibrary.org/obo/NCIT_C36512) (Loss of Chromosome 10p) 52.94%
-- [NCIT:C36454](http://purl.obolibrary.org/obo/NCIT_C36454) (Gain of Chromosome 7) 52.94%
-- [NCIT:C34661](http://purl.obolibrary.org/obo/NCIT_C34661) (Headache) 52.94%
-- [NCIT:C2962](http://purl.obolibrary.org/obo/NCIT_C2962) (Seizure) 52.94%
-- [NCIT:C129320](http://purl.obolibrary.org/obo/NCIT_C129320) (1p/19q Codeletion Status Unknown) 52.94%
-- [NCIT:C129288](http://purl.obolibrary.org/obo/NCIT_C129288) (IDH Gene Family Mutation Status Unknown) 52.94%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) 38.30%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39959](http://purl.obolibrary.org/obo/NCIT_C39959) (Mixed Squamous Cell Carcinoma of the Penis))) 38.30%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39957](http://purl.obolibrary.org/obo/NCIT_C39957) (Epididymal Adenocarcinoma))) 38.30%
+- [NCIT:C79099](http://purl.obolibrary.org/obo/NCIT_C79099) (1p/19q Codeletion) 56.25%
+- [NCIT:C6833](http://purl.obolibrary.org/obo/NCIT_C6833) (Double Minutes) 56.25%
+- [NCIT:C36636](http://purl.obolibrary.org/obo/NCIT_C36636) (Loss of Chromosome 9p) 56.25%
+- [NCIT:C36512](http://purl.obolibrary.org/obo/NCIT_C36512) (Loss of Chromosome 10p) 56.25%
+- [NCIT:C36454](http://purl.obolibrary.org/obo/NCIT_C36454) (Gain of Chromosome 7) 56.25%
+- [NCIT:C25939](http://purl.obolibrary.org/obo/NCIT_C25939) (Oxidoreductase Gene) 56.25%
+- [NCIT:C129264](http://purl.obolibrary.org/obo/NCIT_C129264) (IDH Gene Family Mutation) 56.25%
+- [NCIT:C129260](http://purl.obolibrary.org/obo/NCIT_C129260) (IDH Gene Family) 56.25%
+- Thing 52.88%
+- [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 42.92%
+- [NCIT:C2950](http://purl.obolibrary.org/obo/NCIT_C2950) (Cytogenetic Abnormality) 37.68%
+- [NCIT:C36819](http://purl.obolibrary.org/obo/NCIT_C36819) (Neoplastic Multinucleated Giant Cell) 35.12%
+- [NCIT:C6825](http://purl.obolibrary.org/obo/NCIT_C6825) (Numerical Chromosomal Abnormality) 33.33%
+- [NCIT:C36315](http://purl.obolibrary.org/obo/NCIT_C36315) (Chromosomal Loss) 31.12%
+- [NCIT:C12607](http://purl.obolibrary.org/obo/NCIT_C12607) (Giant Cell) 23.93%
 
 

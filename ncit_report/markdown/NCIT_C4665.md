@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 55.08%
-- [NCIT:C41040](http://purl.obolibrary.org/obo/NCIT_C41040) (Lytic Bone Lesion) 52.56%
-- [NCIT:C43260](http://purl.obolibrary.org/obo/NCIT_C43260) (Bone Lesion) and [NCIT:C77140](http://purl.obolibrary.org/obo/NCIT_C77140) (Clinical Test Result) 52.56%
-- [NCIT:C35869](http://purl.obolibrary.org/obo/NCIT_C35869) (Radiologic Finding) and [NCIT:C43260](http://purl.obolibrary.org/obo/NCIT_C43260) (Bone Lesion) 52.56%
-- [NCIT:C62108](http://purl.obolibrary.org/obo/NCIT_C62108) (Extraosseous Lesion) 51.28%
-- [NCIT:C36113](http://purl.obolibrary.org/obo/NCIT_C36113) (Anaplastic Lesion) 51.28%
-- [NCIT:C35371](http://purl.obolibrary.org/obo/NCIT_C35371) (Lytic Metastatic Bone Lesion) 51.28%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 44.49%
-- [NCIT:C43260](http://purl.obolibrary.org/obo/NCIT_C43260) (Bone Lesion) 37.92%
-- [NCIT:C41039](http://purl.obolibrary.org/obo/NCIT_C41039) (Localized Lesion) 36.64%
-- [NCIT:C41039](http://purl.obolibrary.org/obo/NCIT_C41039) (Localized Lesion) and (not ([NCIT:C39013](http://purl.obolibrary.org/obo/NCIT_C39013) (Estrogen Receptor Regulation by CARM1 Pathway))) 36.64%
-- [NCIT:C41039](http://purl.obolibrary.org/obo/NCIT_C41039) (Localized Lesion) and (not ([NCIT:C39011](http://purl.obolibrary.org/obo/NCIT_C39011) (Cardiac Hypertrophy Pathway))) 36.64%
-- [NCIT:C41039](http://purl.obolibrary.org/obo/NCIT_C41039) (Localized Lesion) and (not ([NCIT:C3901](http://purl.obolibrary.org/obo/NCIT_C3901) (Compound Nevus))) 36.64%
-- [NCIT:C41039](http://purl.obolibrary.org/obo/NCIT_C41039) (Localized Lesion) and (not ([NCIT:C39006](http://purl.obolibrary.org/obo/NCIT_C39006) (Bioactive Peptide Signaling Pathway))) 36.64%
-- [NCIT:C41039](http://purl.obolibrary.org/obo/NCIT_C41039) (Localized Lesion) and (not ([NCIT:C39004](http://purl.obolibrary.org/obo/NCIT_C39004) (B-Cell Survival Pathway))) 36.64%
+- [CL:0000786](http://purl.obolibrary.org/obo/CL_0000786) (plasma cell) 60.00%
+- [NCIT:C41032](http://purl.obolibrary.org/obo/NCIT_C41032) (Bone Marrow-Homing Plasma Cell) 55.00%
+- Thing 53.22%
+- [CL:0000946](http://purl.obolibrary.org/obo/CL_0000946) (antibody secreting cell) 50.82%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 34.61%
+- [CL:0000945](http://purl.obolibrary.org/obo/CL_0000945) (lymphocyte of B lineage) 24.74%
+- [CL:0000542](http://purl.obolibrary.org/obo/CL_0000542) (lymphocyte) 20.31%
+- [CL:0002242](http://purl.obolibrary.org/obo/CL_0002242) (nucleate cell) 20.21%
+- [CL:0000219](http://purl.obolibrary.org/obo/CL_0000219) (motile cell) 19.13%
+- [CL:0002371](http://purl.obolibrary.org/obo/CL_0002371) (somatic cell) 15.66%
+- [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) 15.41%
+- [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) (native cell) 15.21%
+- [GO:0005623](http://purl.obolibrary.org/obo/GO_0005623) (cell) 15.20%
+- [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000) (cell) 15.09%
+- [GO:0005575](http://purl.obolibrary.org/obo/GO_0005575) (cellular_component) 15.03%
 
 

@@ -2,7 +2,7 @@
 ### [NCIT:C4325](http://purl.obolibrary.org/obo/NCIT_C4325)
 **Label:** Giant Cell Glioblastoma
 
-**Subclasses:** [NCIT:C114966](http://purl.obolibrary.org/obo/NCIT_C114966) (Childhood Giant Cell Glioblastoma), [NCIT:C68702](http://purl.obolibrary.org/obo/NCIT_C68702) (Adult Giant Cell Glioblastoma), [NCIT:C115363](http://purl.obolibrary.org/obo/NCIT_C115363) (Recurrent Childhood Giant Cell Glioblastoma), 
+**Subclasses:** [NCIT:C68702](http://purl.obolibrary.org/obo/NCIT_C68702) (Adult Giant Cell Glioblastoma), [NCIT:C114966](http://purl.obolibrary.org/obo/NCIT_C114966) (Childhood Giant Cell Glioblastoma), [NCIT:C115363](http://purl.obolibrary.org/obo/NCIT_C115363) (Recurrent Childhood Giant Cell Glioblastoma), 
 
 **Class expressions from DL-Learner:**
 
@@ -13,7 +13,7 @@
 - [NCIT:C36819](http://purl.obolibrary.org/obo/NCIT_C36819) (Neoplastic Multinucleated Giant Cell) and [NCIT:C37127](http://purl.obolibrary.org/obo/NCIT_C37127) (Neoplastic Astrocyte) 66.67%
 - [NCIT:C36819](http://purl.obolibrary.org/obo/NCIT_C36819) (Neoplastic Multinucleated Giant Cell) and [NCIT:C37126](http://purl.obolibrary.org/obo/NCIT_C37126) (Neoplastic Glial Cell) 66.67%
 - [NCIT:C36819](http://purl.obolibrary.org/obo/NCIT_C36819) (Neoplastic Multinucleated Giant Cell) and [NCIT:C37125](http://purl.obolibrary.org/obo/NCIT_C37125) (Neoplastic Neuroepithelial Cell) 66.67%
-- Thing 51.41%
+- Thing 51.76%
 - [NCIT:C36819](http://purl.obolibrary.org/obo/NCIT_C36819) (Neoplastic Multinucleated Giant Cell) 45.53%
 - [NCIT:C12607](http://purl.obolibrary.org/obo/NCIT_C12607) (Giant Cell) 34.34%
 - [NCIT:C20917](http://purl.obolibrary.org/obo/NCIT_C20917) (Cell Cycle Gene) 32.48%

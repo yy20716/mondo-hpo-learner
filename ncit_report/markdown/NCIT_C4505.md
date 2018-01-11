@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C8359](http://purl.obolibrary.org/obo/NCIT_C8359) (Apocrine Metaplasia) 53.33%
-- [NCIT:C62226](http://purl.obolibrary.org/obo/NCIT_C62226) (Juvenile Lesion) 53.33%
-- [NCIT:C62211](http://purl.obolibrary.org/obo/NCIT_C62211) (Extensive Secretory Changes Present) 53.33%
-- [NCIT:C41457](http://purl.obolibrary.org/obo/NCIT_C41457) (Well-Circumscribed Lesion) 53.33%
-- [NCIT:C3197](http://purl.obolibrary.org/obo/NCIT_C3197) (Breast Lump) 53.33%
-- Thing 53.15%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 38.96%
-- [NCIT:C36178](http://purl.obolibrary.org/obo/NCIT_C36178) (Fibrotic Stroma Formation) 38.69%
-- [NCIT:C36178](http://purl.obolibrary.org/obo/NCIT_C36178) (Fibrotic Stroma Formation) and (not ([NCIT:C40166](http://purl.obolibrary.org/obo/NCIT_C40166) (Uterine Corpus Myxoid Leiomyoma))) 38.69%
-- [NCIT:C36178](http://purl.obolibrary.org/obo/NCIT_C36178) (Fibrotic Stroma Formation) and (not ([NCIT:C40165](http://purl.obolibrary.org/obo/NCIT_C40165) (Uterine Corpus Apoplectic Leiomyoma))) 38.69%
-- [NCIT:C36178](http://purl.obolibrary.org/obo/NCIT_C36178) (Fibrotic Stroma Formation) and (not ([NCIT:C40164](http://purl.obolibrary.org/obo/NCIT_C40164) (Uterine Corpus Epithelioid Leiomyoma))) 38.69%
-- [NCIT:C36178](http://purl.obolibrary.org/obo/NCIT_C36178) (Fibrotic Stroma Formation) and (not ([NCIT:C40163](http://purl.obolibrary.org/obo/NCIT_C40163) (Uterine Corpus Cellular Leiomyoma))) 38.69%
-- [NCIT:C36178](http://purl.obolibrary.org/obo/NCIT_C36178) (Fibrotic Stroma Formation) and (not ([NCIT:C40162](http://purl.obolibrary.org/obo/NCIT_C40162) (Uterine Corpus Leiomyoma, Mitotically Active Variant))) 38.69%
-- [NCIT:C36178](http://purl.obolibrary.org/obo/NCIT_C36178) (Fibrotic Stroma Formation) and (not ([NCIT:C40161](http://purl.obolibrary.org/obo/NCIT_C40161) (JAZF1-SUZ12 Fusion Protein Expression))) 38.69%
-- [NCIT:C36178](http://purl.obolibrary.org/obo/NCIT_C36178) (Fibrotic Stroma Formation) and (not ([NCIT:C40160](http://purl.obolibrary.org/obo/NCIT_C40160) (t(7;17)(p15;q21)))) 38.69%
+- [NCIT:C41165](http://purl.obolibrary.org/obo/NCIT_C41165) (Hematopoietic and Lymphatic System) 60.00%
+- Thing 52.27%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) 45.36%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36441](http://purl.obolibrary.org/obo/NCIT_C36441) (Gain of Chromosome 12q))) 45.36%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36440](http://purl.obolibrary.org/obo/NCIT_C36440) (Gain of Chromosome 9p))) 45.36%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C3644](http://purl.obolibrary.org/obo/NCIT_C3644) (Stage 0is Bladder Urothelial Carcinoma))) 45.36%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36439](http://purl.obolibrary.org/obo/NCIT_C36439) (Gain of Chromosome 2p))) 45.36%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36437](http://purl.obolibrary.org/obo/NCIT_C36437) (inv(2)(p23q35)))) 45.36%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36436](http://purl.obolibrary.org/obo/NCIT_C36436) (t(2;3)(p23;q21)))) 45.36%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36435](http://purl.obolibrary.org/obo/NCIT_C36435) (t(1;2)(q25;p23)))) 45.36%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36433](http://purl.obolibrary.org/obo/NCIT_C36433) (Trisomy 5))) 45.36%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36432](http://purl.obolibrary.org/obo/NCIT_C36432) (i(7q)))) 45.36%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36429](http://purl.obolibrary.org/obo/NCIT_C36429) (del(12p13)))) 45.36%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36428](http://purl.obolibrary.org/obo/NCIT_C36428) (Trisomy 8q))) 45.36%
+- [UBERON:0003244](http://purl.obolibrary.org/obo/UBERON_0003244) (epithelium of mammary gland) and (not ([NCIT:C36427](http://purl.obolibrary.org/obo/NCIT_C36427) (t(8;8)(p11-12;q12)))) 45.36%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C38322](http://purl.obolibrary.org/obo/NCIT_C38322) (Marginal Zone B-Lymphocyte of Nodal Type) 55.00%
-- [NCIT:C37003](http://purl.obolibrary.org/obo/NCIT_C37003) (Neoplastic Monocytoid B-Lymphocyte) 55.00%
-- [NCIT:C37001](http://purl.obolibrary.org/obo/NCIT_C37001) (Centrocyte-Like Cell) 55.00%
-- [NCIT:C33056](http://purl.obolibrary.org/obo/NCIT_C33056) (Marginal Zone of the Lymph Node) 55.00%
-- [NCIT:C38466](http://purl.obolibrary.org/obo/NCIT_C38466) (Lymph Node Part) and [NCIT:C49767](http://purl.obolibrary.org/obo/NCIT_C49767) (Marginal Zone) 55.00%
-- [NCIT:C33034](http://purl.obolibrary.org/obo/NCIT_C33034) (Lymph Node Tissue) and [NCIT:C49767](http://purl.obolibrary.org/obo/NCIT_C49767) (Marginal Zone) 55.00%
-- [NCIT:C38466](http://purl.obolibrary.org/obo/NCIT_C38466) (Lymph Node Part) and (not ([NCIT:C38467](http://purl.obolibrary.org/obo/NCIT_C38467) (Interfollicular Area of the Lymph Node))) 55.00%
-- Thing 52.57%
-- [NCIT:C38466](http://purl.obolibrary.org/obo/NCIT_C38466) (Lymph Node Part) 40.36%
-- [NCIT:C33034](http://purl.obolibrary.org/obo/NCIT_C33034) (Lymph Node Tissue) 40.36%
-- [NCIT:C13033](http://purl.obolibrary.org/obo/NCIT_C13033) (Immune System Part) 40.36%
-- [NCIT:C38466](http://purl.obolibrary.org/obo/NCIT_C38466) (Lymph Node Part) and [UBERON:0034769](http://purl.obolibrary.org/obo/UBERON_0034769) (lymphomyeloid tissue) 40.36%
-- [NCIT:C38466](http://purl.obolibrary.org/obo/NCIT_C38466) (Lymph Node Part) and [UBERON:0015757](http://purl.obolibrary.org/obo/UBERON_0015757) (heterogeneous tissue) 40.36%
-- [NCIT:C38466](http://purl.obolibrary.org/obo/NCIT_C38466) (Lymph Node Part) and [UBERON:0001744](http://purl.obolibrary.org/obo/UBERON_0001744) (lymphoid tissue) 40.36%
-- [NCIT:C38466](http://purl.obolibrary.org/obo/NCIT_C38466) (Lymph Node Part) and [UBERON:0000479](http://purl.obolibrary.org/obo/UBERON_0000479) (tissue) 40.36%
+- [NCIT:C38322](http://purl.obolibrary.org/obo/NCIT_C38322) (Marginal Zone B-Lymphocyte of Nodal Type) 58.33%
+- [NCIT:C37003](http://purl.obolibrary.org/obo/NCIT_C37003) (Neoplastic Monocytoid B-Lymphocyte) 58.33%
+- [NCIT:C37001](http://purl.obolibrary.org/obo/NCIT_C37001) (Centrocyte-Like Cell) 58.33%
+- [NCIT:C33056](http://purl.obolibrary.org/obo/NCIT_C33056) (Marginal Zone of the Lymph Node) 58.33%
+- [NCIT:C38466](http://purl.obolibrary.org/obo/NCIT_C38466) (Lymph Node Part) and [NCIT:C49767](http://purl.obolibrary.org/obo/NCIT_C49767) (Marginal Zone) 58.33%
+- [NCIT:C33034](http://purl.obolibrary.org/obo/NCIT_C33034) (Lymph Node Tissue) and [NCIT:C49767](http://purl.obolibrary.org/obo/NCIT_C49767) (Marginal Zone) 58.33%
+- [NCIT:C38466](http://purl.obolibrary.org/obo/NCIT_C38466) (Lymph Node Part) and (not ([NCIT:C38467](http://purl.obolibrary.org/obo/NCIT_C38467) (Interfollicular Area of the Lymph Node))) 58.33%
+- Thing 52.49%
+- [NCIT:C38466](http://purl.obolibrary.org/obo/NCIT_C38466) (Lymph Node Part) 43.69%
+- [NCIT:C33034](http://purl.obolibrary.org/obo/NCIT_C33034) (Lymph Node Tissue) 43.69%
+- [NCIT:C13033](http://purl.obolibrary.org/obo/NCIT_C13033) (Immune System Part) 43.69%
+- [NCIT:C38466](http://purl.obolibrary.org/obo/NCIT_C38466) (Lymph Node Part) and [UBERON:0034769](http://purl.obolibrary.org/obo/UBERON_0034769) (lymphomyeloid tissue) 43.69%
+- [NCIT:C38466](http://purl.obolibrary.org/obo/NCIT_C38466) (Lymph Node Part) and [UBERON:0015757](http://purl.obolibrary.org/obo/UBERON_0015757) (heterogeneous tissue) 43.69%
+- [NCIT:C38466](http://purl.obolibrary.org/obo/NCIT_C38466) (Lymph Node Part) and [UBERON:0001744](http://purl.obolibrary.org/obo/UBERON_0001744) (lymphoid tissue) 43.69%
+- [NCIT:C38466](http://purl.obolibrary.org/obo/NCIT_C38466) (Lymph Node Part) and [UBERON:0000479](http://purl.obolibrary.org/obo/UBERON_0000479) (tissue) 43.69%
 
 

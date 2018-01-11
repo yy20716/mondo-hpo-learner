@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.88%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 39.98%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) 36.74%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40112](http://purl.obolibrary.org/obo/NCIT_C40112) (Fallopian Tube Papilloma))) 36.74%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40110](http://purl.obolibrary.org/obo/NCIT_C40110) (Borderline Fallopian Tube Endometrioid Tumor))) 36.74%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 36.74%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 36.74%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40104](http://purl.obolibrary.org/obo/NCIT_C40104) (Fallopian Tube Transitional Cell Carcinoma))) 36.74%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40103](http://purl.obolibrary.org/obo/NCIT_C40103) (Fallopian Tube Mucinous Adenocarcinoma))) 36.74%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40093](http://purl.obolibrary.org/obo/NCIT_C40093) (Ovarian Squamous Cell Carcinoma))) 36.74%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 36.74%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 36.74%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 36.74%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 36.74%
-- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 36.74%
+- [NCIT:C36843](http://purl.obolibrary.org/obo/NCIT_C36843) (Abnormal Connective and Soft Tissue Cell) 53.77%
+- Thing 53.52%
+- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 49.15%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) 39.52%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C3880](http://purl.obolibrary.org/obo/NCIT_C3880) (Eyelid Nevus))) 39.52%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C38784](http://purl.obolibrary.org/obo/NCIT_C38784) (Apoptosis Pathway))) 39.52%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C38770](http://purl.obolibrary.org/obo/NCIT_C38770) (Squamous Differentiation))) 39.52%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C38762](http://purl.obolibrary.org/obo/NCIT_C38762) (Thyroid Gland Mucoepidermoid Carcinoma))) 39.52%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C3876](http://purl.obolibrary.org/obo/NCIT_C3876) (Gastric Leiomyoma))) 39.52%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C38759](http://purl.obolibrary.org/obo/NCIT_C38759) (EBV Infection))) 39.52%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C38732](http://purl.obolibrary.org/obo/NCIT_C38732) (Defective Alpha Heavy Chain Present))) 39.52%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C38731](http://purl.obolibrary.org/obo/NCIT_C38731) (Villous Atrophy))) 39.52%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C38730](http://purl.obolibrary.org/obo/NCIT_C38730) (Lymphoepithelial Lesion))) 39.52%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C38727](http://purl.obolibrary.org/obo/NCIT_C38727) (Villous Lymphocyte))) 39.52%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C38721](http://purl.obolibrary.org/obo/NCIT_C38721) (Nuclear Pleomorphism))) 39.52%
 
 

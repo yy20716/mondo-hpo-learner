@@ -20,6 +20,6 @@
 - [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 54.22%
 - [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 54.21%
 - [UBERON:0000344](http://purl.obolibrary.org/obo/UBERON_0000344) (mucosa) 53.15%
-- Thing 51.82%
+- Thing 52.27%
 
 

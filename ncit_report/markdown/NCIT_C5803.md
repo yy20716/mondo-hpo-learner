@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C36140](http://purl.obolibrary.org/obo/NCIT_C36140) (Grade 4 Lesion))) 60.00%
-- [NCIT:C36141](http://purl.obolibrary.org/obo/NCIT_C36141) (Intermediate Grade Lesion) 53.33%
-- [NCIT:C36130](http://purl.obolibrary.org/obo/NCIT_C36130) (Low Grade Lesion) 53.33%
-- [NCIT:C36129](http://purl.obolibrary.org/obo/NCIT_C36129) (High Grade Lesion) 53.33%
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) 53.30%
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C37238](http://purl.obolibrary.org/obo/NCIT_C37238) (FUS-DDIT3 Fusion Protein Expression))) 53.30%
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C37237](http://purl.obolibrary.org/obo/NCIT_C37237) (EWSR1-WT1 Fusion Protein Expression))) 53.30%
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C37231](http://purl.obolibrary.org/obo/NCIT_C37231) (EWSR1-ETV4 Fusion Protein Expression))) 53.30%
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C37230](http://purl.obolibrary.org/obo/NCIT_C37230) (EWSR1-ETV1 Fusion Protein Expression))) 53.30%
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C37229](http://purl.obolibrary.org/obo/NCIT_C37229) (EWSR1-ERG Fusion Protein Expression))) 53.30%
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C37228](http://purl.obolibrary.org/obo/NCIT_C37228) (KMT2A-AF4 Fusion Protein Expression))) 53.30%
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C37227](http://purl.obolibrary.org/obo/NCIT_C37227) (ETV6-RUNX1 Fusion Protein Expression))) 53.30%
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C37226](http://purl.obolibrary.org/obo/NCIT_C37226) (TCF3-PBX1 Fusion Protein Expression))) 53.30%
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C37224](http://purl.obolibrary.org/obo/NCIT_C37224) (EWSR1-FLI1 Fusion Protein Expression))) 53.30%
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C37223](http://purl.obolibrary.org/obo/NCIT_C37223) (PML-RARA Fusion Protein Expression))) 53.30%
+- [NCIT:C36821](http://purl.obolibrary.org/obo/NCIT_C36821) (Malignant Neuroendocrine Large Cell) 58.33%
+- Thing 52.49%
+- [NCIT:C60534](http://purl.obolibrary.org/obo/NCIT_C60534) (Neoplastic Neuroendocrine Small Cell) 43.69%
+- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) 43.69%
+- [NCIT:C36929](http://purl.obolibrary.org/obo/NCIT_C36929) (Malignant Endocrine Cell) and [NCIT:C60534](http://purl.obolibrary.org/obo/NCIT_C60534) (Neoplastic Neuroendocrine Small Cell) 43.69%
+- [NCIT:C36860](http://purl.obolibrary.org/obo/NCIT_C36860) (Malignant Small Cell) and [NCIT:C60534](http://purl.obolibrary.org/obo/NCIT_C60534) (Neoplastic Neuroendocrine Small Cell) 43.69%
+- [NCIT:C36825](http://purl.obolibrary.org/obo/NCIT_C36825) (Malignant Neuroendocrine Cell) and [NCIT:C60534](http://purl.obolibrary.org/obo/NCIT_C60534) (Neoplastic Neuroendocrine Small Cell) 43.69%
+- [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) and [NCIT:C60534](http://purl.obolibrary.org/obo/NCIT_C60534) (Neoplastic Neuroendocrine Small Cell) 43.69%
+- [NCIT:C36795](http://purl.obolibrary.org/obo/NCIT_C36795) (Malignant Epithelial Small Cell) and [NCIT:C60534](http://purl.obolibrary.org/obo/NCIT_C60534) (Neoplastic Neuroendocrine Small Cell) 43.69%
+- [NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell) and [NCIT:C60534](http://purl.obolibrary.org/obo/NCIT_C60534) (Neoplastic Neuroendocrine Small Cell) 43.69%
+- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C60534](http://purl.obolibrary.org/obo/NCIT_C60534) (Neoplastic Neuroendocrine Small Cell) 43.69%
+- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C39114](http://purl.obolibrary.org/obo/NCIT_C39114) (IGF-1 Signaling Pathway))) 43.69%
+- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C39112](http://purl.obolibrary.org/obo/NCIT_C39112) (IFN Gamma Signaling Pathway))) 43.69%
+- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C39103](http://purl.obolibrary.org/obo/NCIT_C39103) (ERBB2 Signaling Pathway))) 43.69%
+- [NCIT:C36820](http://purl.obolibrary.org/obo/NCIT_C36820) (Malignant Neuroendocrine Small Cell) and (not ([NCIT:C39102](http://purl.obolibrary.org/obo/NCIT_C39102) (Skeletal Myogenesis Pathway))) 43.69%
 
 

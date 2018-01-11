@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C41468](http://purl.obolibrary.org/obo/NCIT_C41468) (Intracellular Accumulation of Lipids) 54.55%
-- [NCIT:C41467](http://purl.obolibrary.org/obo/NCIT_C41467) (Dense Intercellular Reticulin Network Present) 54.55%
-- [NCIT:C41463](http://purl.obolibrary.org/obo/NCIT_C41463) (Eosinophilic Granular Bodies Present) 54.55%
-- [NCIT:C36156](http://purl.obolibrary.org/obo/NCIT_C36156) (Favorable Clinical Outcome) 54.55%
-- [NCIT:C36113](http://purl.obolibrary.org/obo/NCIT_C36113) (Anaplastic Lesion) 54.55%
-- [NCIT:C2962](http://purl.obolibrary.org/obo/NCIT_C2962) (Seizure) 54.55%
-- [NCIT:C35983](http://purl.obolibrary.org/obo/NCIT_C35983) (Lymphocytic Infiltrate) and (not ([NCIT:C39626](http://purl.obolibrary.org/obo/NCIT_C39626) (Epidermotropic Lymphocytic Infiltrate))) 54.55%
-- Thing 52.70%
-- [NCIT:C35983](http://purl.obolibrary.org/obo/NCIT_C35983) (Lymphocytic Infiltrate) 39.90%
-- [NCIT:C35983](http://purl.obolibrary.org/obo/NCIT_C35983) (Lymphocytic Infiltrate) and (not ([NCIT:C39718](http://purl.obolibrary.org/obo/NCIT_C39718) (PDGFRA Gene Mutation))) 39.90%
-- [NCIT:C35983](http://purl.obolibrary.org/obo/NCIT_C35983) (Lymphocytic Infiltrate) and (not ([NCIT:C39717](http://purl.obolibrary.org/obo/NCIT_C39717) (MDM2 Gene Mutation))) 39.90%
-- [NCIT:C35983](http://purl.obolibrary.org/obo/NCIT_C35983) (Lymphocytic Infiltrate) and (not ([NCIT:C39716](http://purl.obolibrary.org/obo/NCIT_C39716) (EGFR Protein Overexpression))) 39.90%
-- [NCIT:C35983](http://purl.obolibrary.org/obo/NCIT_C35983) (Lymphocytic Infiltrate) and (not ([NCIT:C39715](http://purl.obolibrary.org/obo/NCIT_C39715) (CD30-Positive Neoplastic Cells Present))) 39.90%
-- [NCIT:C35983](http://purl.obolibrary.org/obo/NCIT_C35983) (Lymphocytic Infiltrate) and (not ([NCIT:C39712](http://purl.obolibrary.org/obo/NCIT_C39712) (KIT Gene Mutation))) 39.90%
-- [NCIT:C35983](http://purl.obolibrary.org/obo/NCIT_C35983) (Lymphocytic Infiltrate) and (not ([NCIT:C39711](http://purl.obolibrary.org/obo/NCIT_C39711) (C-KIT Tyrosine Kinase Protein Overexpression))) 39.90%
+- [NCIT:C49071](http://purl.obolibrary.org/obo/NCIT_C49071) (Xanthomatous Cell) 62.50%
+- [NCIT:C37139](http://purl.obolibrary.org/obo/NCIT_C37139) (Xanthomatous Astrocyte) 62.50%
+- [NCIT:C36842](http://purl.obolibrary.org/obo/NCIT_C36842) (Giant Astrocyte) 62.50%
+- [NCIT:C36458](http://purl.obolibrary.org/obo/NCIT_C36458) (Gain of Chromosome 3) 62.50%
+- [NCIT:C36454](http://purl.obolibrary.org/obo/NCIT_C36454) (Gain of Chromosome 7) 62.50%
+- [NCIT:C36819](http://purl.obolibrary.org/obo/NCIT_C36819) (Neoplastic Multinucleated Giant Cell) and [NCIT:C41408](http://purl.obolibrary.org/obo/NCIT_C41408) (Neoplastic Neuroepithelial Cell and Neoplastic Perineural Cell) 62.50%
+- [NCIT:C36819](http://purl.obolibrary.org/obo/NCIT_C36819) (Neoplastic Multinucleated Giant Cell) and [NCIT:C37127](http://purl.obolibrary.org/obo/NCIT_C37127) (Neoplastic Astrocyte) 62.50%
+- [NCIT:C36819](http://purl.obolibrary.org/obo/NCIT_C36819) (Neoplastic Multinucleated Giant Cell) and [NCIT:C37126](http://purl.obolibrary.org/obo/NCIT_C37126) (Neoplastic Glial Cell) 62.50%
+- [NCIT:C36819](http://purl.obolibrary.org/obo/NCIT_C36819) (Neoplastic Multinucleated Giant Cell) and [NCIT:C37125](http://purl.obolibrary.org/obo/NCIT_C37125) (Neoplastic Neuroepithelial Cell) 62.50%
+- Thing 52.03%
+- [NCIT:C36819](http://purl.obolibrary.org/obo/NCIT_C36819) (Neoplastic Multinucleated Giant Cell) 41.37%
+- [NCIT:C41408](http://purl.obolibrary.org/obo/NCIT_C41408) (Neoplastic Neuroepithelial Cell and Neoplastic Perineural Cell) 36.79%
+- [NCIT:C12607](http://purl.obolibrary.org/obo/NCIT_C12607) (Giant Cell) 30.18%
+- [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) 28.51%
+- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 28.34%
 
 

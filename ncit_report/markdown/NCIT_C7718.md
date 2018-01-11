@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C8615](http://purl.obolibrary.org/obo/NCIT_C8615) (Metastatic Malignant Neoplasm in the Abdominal Cavity) 58.33%
-- [NCIT:C4583](http://purl.obolibrary.org/obo/NCIT_C4583) (Metastatic Malignant Neoplasm in the Peritoneum) 58.33%
-- [NCIT:C3693](http://purl.obolibrary.org/obo/NCIT_C3693) (Carcinomatosis) 58.33%
-- [NCIT:C36133](http://purl.obolibrary.org/obo/NCIT_C36133) (Well Differentiated Lesion) 58.33%
-- [NCIT:C35999](http://purl.obolibrary.org/obo/NCIT_C35999) (Mucoid Stroma Formation) 58.33%
-- [NCIT:C3345](http://purl.obolibrary.org/obo/NCIT_C3345) (Pseudomyxoma Peritonei) 58.33%
-- [NCIT:C3241](http://purl.obolibrary.org/obo/NCIT_C3241) (Mucocele of the Appendix) 58.33%
-- [NCIT:C27382](http://purl.obolibrary.org/obo/NCIT_C27382) (Peritoneal Carcinomatosis) 58.33%
-- [NCIT:C4124](http://purl.obolibrary.org/obo/NCIT_C4124) (Metastatic Adenocarcinoma) and [NCIT:C8615](http://purl.obolibrary.org/obo/NCIT_C8615) (Metastatic Malignant Neoplasm in the Abdominal Cavity) 58.33%
-- [NCIT:C4124](http://purl.obolibrary.org/obo/NCIT_C4124) (Metastatic Adenocarcinoma) and [NCIT:C7337](http://purl.obolibrary.org/obo/NCIT_C7337) (Peritoneal and Retroperitoneal Neoplasms) 58.33%
-- [NCIT:C4124](http://purl.obolibrary.org/obo/NCIT_C4124) (Metastatic Adenocarcinoma) and [NCIT:C7070](http://purl.obolibrary.org/obo/NCIT_C7070) (Mucinous Neoplasm) 58.33%
-- [NCIT:C4124](http://purl.obolibrary.org/obo/NCIT_C4124) (Metastatic Adenocarcinoma) and [NCIT:C4583](http://purl.obolibrary.org/obo/NCIT_C4583) (Metastatic Malignant Neoplasm in the Peritoneum) 58.33%
-- [NCIT:C3693](http://purl.obolibrary.org/obo/NCIT_C3693) (Carcinomatosis) and [NCIT:C8615](http://purl.obolibrary.org/obo/NCIT_C8615) (Metastatic Malignant Neoplasm in the Abdominal Cavity) 58.33%
-- [NCIT:C3693](http://purl.obolibrary.org/obo/NCIT_C3693) (Carcinomatosis) and [NCIT:C7337](http://purl.obolibrary.org/obo/NCIT_C7337) (Peritoneal and Retroperitoneal Neoplasms) 58.33%
-- [NCIT:C3693](http://purl.obolibrary.org/obo/NCIT_C3693) (Carcinomatosis) and [NCIT:C7132](http://purl.obolibrary.org/obo/NCIT_C7132) (Glandular Cell Neoplasm) 58.33%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 53.01%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 52.67%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 52.66%
+- Thing 51.44%
+- [NCIT:C33923](http://purl.obolibrary.org/obo/NCIT_C33923) (Glandular Cell) 43.90%
+- [CL:0000066](http://purl.obolibrary.org/obo/CL_0000066) (epithelial cell) 31.51%
+- [CL:0000548](http://purl.obolibrary.org/obo/CL_0000548) (animal cell) 28.82%
+- [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) 28.82%
+- [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) (native cell) 28.69%
+- [GO:0005623](http://purl.obolibrary.org/obo/GO_0005623) (cell) 28.68%
+- [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000) (cell) 28.60%
+- [GO:0005575](http://purl.obolibrary.org/obo/GO_0005575) (cellular_component) 28.55%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 27.39%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 27.37%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 27.10%
 
 

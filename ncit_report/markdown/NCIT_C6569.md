@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C99413](http://purl.obolibrary.org/obo/NCIT_C99413) (ETV6/NTRK3 Fusion Gene) 53.57%
-- [NCIT:C41428](http://purl.obolibrary.org/obo/NCIT_C41428) (Increased Cellularity Present) 53.57%
-- [NCIT:C37243](http://purl.obolibrary.org/obo/NCIT_C37243) (ETV6-NTRK3 Fusion Protein Expression) 53.57%
-- [NCIT:C37191](http://purl.obolibrary.org/obo/NCIT_C37191) (Trisomy 11) 53.57%
-- [NCIT:C36387](http://purl.obolibrary.org/obo/NCIT_C36387) (t(12;15)(p13;q25)) 53.57%
-- [NCIT:C36130](http://purl.obolibrary.org/obo/NCIT_C36130) (Low Grade Lesion) 53.57%
-- [NCIT:C35961](http://purl.obolibrary.org/obo/NCIT_C35961) (Low Mitotic Activity) 53.57%
-- [NCIT:C24647](http://purl.obolibrary.org/obo/NCIT_C24647) (NTRK3 Gene) 53.57%
-- Thing 53.04%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) 38.93%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36687](http://purl.obolibrary.org/obo/NCIT_C36687) (VHL Gene Inactivation))) 38.93%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36686](http://purl.obolibrary.org/obo/NCIT_C36686) (NF2 Gene Inactivation))) 38.93%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36685](http://purl.obolibrary.org/obo/NCIT_C36685) (NF1 Gene Inactivation))) 38.93%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36684](http://purl.obolibrary.org/obo/NCIT_C36684) (WT1 Gene Inactivation))) 38.93%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C36683](http://purl.obolibrary.org/obo/NCIT_C36683) (APC Gene Inactivation))) 38.93%
+- [NCIT:C99413](http://purl.obolibrary.org/obo/NCIT_C99413) (ETV6/NTRK3 Fusion Gene) 57.14%
+- [NCIT:C37243](http://purl.obolibrary.org/obo/NCIT_C37243) (ETV6-NTRK3 Fusion Protein Expression) 57.14%
+- [NCIT:C37191](http://purl.obolibrary.org/obo/NCIT_C37191) (Trisomy 11) 57.14%
+- [NCIT:C36387](http://purl.obolibrary.org/obo/NCIT_C36387) (t(12;15)(p13;q25)) 57.14%
+- [NCIT:C24647](http://purl.obolibrary.org/obo/NCIT_C24647) (NTRK3 Gene) 57.14%
+- Thing 52.69%
+- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) 42.50%
+- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C38322](http://purl.obolibrary.org/obo/NCIT_C38322) (Marginal Zone B-Lymphocyte of Nodal Type))) 42.50%
+- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C3832](http://purl.obolibrary.org/obo/NCIT_C3832) (Malaise))) 42.50%
+- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C38317](http://purl.obolibrary.org/obo/NCIT_C38317) (GNAS Gene))) 42.50%
+- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C3826](http://purl.obolibrary.org/obo/NCIT_C3826) (Juvenile Polyp))) 42.50%
+- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C38184](http://purl.obolibrary.org/obo/NCIT_C38184) (ALK Gene))) 42.50%
+- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C38176](http://purl.obolibrary.org/obo/NCIT_C38176) (BCL2 Gene Translocation))) 42.50%
+- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C38175](http://purl.obolibrary.org/obo/NCIT_C38175) (CD44 Messenger RNA Overexpression))) 42.50%
+- [NCIT:C49028](http://purl.obolibrary.org/obo/NCIT_C49028) (Malignant Fibroblast) and (not ([NCIT:C38174](http://purl.obolibrary.org/obo/NCIT_C38174) (IRF4/MUM1 Messenger RNA Overexpression))) 42.50%
 
 

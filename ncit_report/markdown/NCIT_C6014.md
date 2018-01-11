@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C54201](http://purl.obolibrary.org/obo/NCIT_C54201) (Exophytic Papillary Lesion) 55.56%
-- [NCIT:C45978](http://purl.obolibrary.org/obo/NCIT_C45978) (Fungating Mass) 55.56%
-- [NCIT:C26766](http://purl.obolibrary.org/obo/NCIT_C26766) (Epistaxis) 55.56%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C122604](http://purl.obolibrary.org/obo/NCIT_C122604) (Infantile Lesion))) 55.56%
-- Thing 52.44%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) 40.91%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39810](http://purl.obolibrary.org/obo/NCIT_C39810) (Type 2 Renal Papillary Adenoma))) 40.91%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39809](http://purl.obolibrary.org/obo/NCIT_C39809) (Type 1 Renal Papillary Adenoma))) 40.91%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39808](http://purl.obolibrary.org/obo/NCIT_C39808) (Asymptomatic Mass))) 40.91%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39807](http://purl.obolibrary.org/obo/NCIT_C39807) (Mucinous Tubular and Spindle Cell Carcinoma of the Kidney))) 40.91%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39806](http://purl.obolibrary.org/obo/NCIT_C39806) (NONO-TFE3 Fusion Protein Expression))) 40.91%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39805](http://purl.obolibrary.org/obo/NCIT_C39805) (PSF-TFE3 Fusion Protein Expression))) 40.91%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39803](http://purl.obolibrary.org/obo/NCIT_C39803) (PRCC-TFE3 Fusion Protein Expression))) 40.91%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39802](http://purl.obolibrary.org/obo/NCIT_C39802) (Renal Cell Carcinoma Associated with inv(X)(p11;q12)))) 40.91%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C39801](http://purl.obolibrary.org/obo/NCIT_C39801) (inv(X)(p11;q12)))) 40.91%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) 83.33%
+- [UBERON:0001724](http://purl.obolibrary.org/obo/UBERON_0001724) (sphenoidal sinus) 66.67%
+- [NCIT:C54281](http://purl.obolibrary.org/obo/NCIT_C54281) (Paranasal Sinus Epithelium) 66.67%
+- [UBERON:0002553](http://purl.obolibrary.org/obo/UBERON_0002553) (anatomical cavity) 54.65%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 53.68%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 53.27%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 53.26%
+- Thing 51.76%
+- [UBERON:0000464](http://purl.obolibrary.org/obo/UBERON_0000464) (anatomical space) 51.01%
+- [UBERON:0000466](http://purl.obolibrary.org/obo/UBERON_0000466) (immaterial anatomical entity) 50.00%
+- [BFO:0000141](http://purl.obolibrary.org/obo/BFO_0000141) (null) 50.00%
+- [UBERON:0000479](http://purl.obolibrary.org/obo/UBERON_0000479) (tissue) 21.21%
+- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 19.13%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 19.06%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 19.04%
 
 

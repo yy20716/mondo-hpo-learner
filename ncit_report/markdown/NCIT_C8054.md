@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C46007](http://purl.obolibrary.org/obo/NCIT_C46007) (PPAR-gamma Rearrangement) 53.33%
-- [NCIT:C45934](http://purl.obolibrary.org/obo/NCIT_C45934) (HRAS Gene Mutation) 53.33%
-- [NCIT:C41381](http://purl.obolibrary.org/obo/NCIT_C41381) (NRAS Gene Mutation) 53.33%
-- [NCIT:C36692](http://purl.obolibrary.org/obo/NCIT_C36692) (PTEN Gene Inactivation) 53.33%
-- [NCIT:C24689](http://purl.obolibrary.org/obo/NCIT_C24689) (PPARG Gene) 53.33%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C21571](http://purl.obolibrary.org/obo/NCIT_C21571) (RARA Gene))) 53.33%
-- Thing 53.15%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) 38.69%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C39834](http://purl.obolibrary.org/obo/NCIT_C39834) (Bladder Squamous Papilloma))) 38.69%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C39833](http://purl.obolibrary.org/obo/NCIT_C39833) (Schistosoma Hematobium-Related Bladder Verrucous Carcinoma))) 38.69%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C39829](http://purl.obolibrary.org/obo/NCIT_C39829) (Infiltrating Bladder Urothelial Carcinoma with Giant Cells))) 38.69%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C39826](http://purl.obolibrary.org/obo/NCIT_C39826) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant without Heterologous Elements))) 38.69%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C39825](http://purl.obolibrary.org/obo/NCIT_C39825) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant with Heterologous Elements))) 38.69%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C39821](http://purl.obolibrary.org/obo/NCIT_C39821) (Infiltrating Bladder Lymphoepithelioma-Like Carcinoma))) 38.69%
-- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C39820](http://purl.obolibrary.org/obo/NCIT_C39820) (Infiltrating Bladder Urothelial Carcinoma, Microcystic Variant))) 38.69%
+- [NCIT:C46007](http://purl.obolibrary.org/obo/NCIT_C46007) (PPAR-gamma Rearrangement) 58.33%
+- [NCIT:C45934](http://purl.obolibrary.org/obo/NCIT_C45934) (HRAS Gene Mutation) 58.33%
+- [NCIT:C41381](http://purl.obolibrary.org/obo/NCIT_C41381) (NRAS Gene Mutation) 58.33%
+- [NCIT:C36692](http://purl.obolibrary.org/obo/NCIT_C36692) (PTEN Gene Inactivation) 58.33%
+- [NCIT:C24689](http://purl.obolibrary.org/obo/NCIT_C24689) (PPARG Gene) 58.33%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C21571](http://purl.obolibrary.org/obo/NCIT_C21571) (RARA Gene))) 58.33%
+- Thing 52.49%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) 43.69%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C38390](http://purl.obolibrary.org/obo/NCIT_C38390) (MLLT3-KMT2A Fusion Protein Expression))) 43.69%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C38387](http://purl.obolibrary.org/obo/NCIT_C38387) (KMT2A-AF10 Fusion Protein Expression))) 43.69%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C38386](http://purl.obolibrary.org/obo/NCIT_C38386) (del(20)(q11)))) 43.69%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C38385](http://purl.obolibrary.org/obo/NCIT_C38385) (del(7)(q11;q36)))) 43.69%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C38379](http://purl.obolibrary.org/obo/NCIT_C38379) (STAT5B-RARA Fusion Protein Expression))) 43.69%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C38378](http://purl.obolibrary.org/obo/NCIT_C38378) (t(17;17)(q21;q21)))) 43.69%
+- [NCIT:C20709](http://purl.obolibrary.org/obo/NCIT_C20709) (Nuclear Receptor Gene) and (not ([NCIT:C38377](http://purl.obolibrary.org/obo/NCIT_C38377) (Acute Myeloid Leukemia with t(17;17)(q21;q21)))) 43.69%
 
 

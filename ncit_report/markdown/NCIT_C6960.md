@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.81%
-- [NCIT:C79099](http://purl.obolibrary.org/obo/NCIT_C79099) (1p/19q Codeletion) 51.43%
-- [NCIT:C6833](http://purl.obolibrary.org/obo/NCIT_C6833) (Double Minutes) 51.43%
-- [NCIT:C41428](http://purl.obolibrary.org/obo/NCIT_C41428) (Increased Cellularity Present) 51.43%
-- [NCIT:C38328](http://purl.obolibrary.org/obo/NCIT_C38328) (Unfavorable Clinical Outcome) 51.43%
-- [NCIT:C36636](http://purl.obolibrary.org/obo/NCIT_C36636) (Loss of Chromosome 9p) 51.43%
-- [NCIT:C36524](http://purl.obolibrary.org/obo/NCIT_C36524) (Loss of Chromosome 7) 51.43%
-- [NCIT:C36512](http://purl.obolibrary.org/obo/NCIT_C36512) (Loss of Chromosome 10p) 51.43%
-- [NCIT:C36506](http://purl.obolibrary.org/obo/NCIT_C36506) (Loss of Chromosome 22q) 51.43%
-- [NCIT:C36505](http://purl.obolibrary.org/obo/NCIT_C36505) (Loss of Chromosome 11p) 51.43%
-- [NCIT:C36504](http://purl.obolibrary.org/obo/NCIT_C36504) (Loss of Chromosome 6) 51.43%
-- [NCIT:C36490](http://purl.obolibrary.org/obo/NCIT_C36490) (Loss of Chromosome 14) 51.43%
-- [NCIT:C36454](http://purl.obolibrary.org/obo/NCIT_C36454) (Gain of Chromosome 7) 51.43%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) 36.78%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C3994](http://purl.obolibrary.org/obo/NCIT_C3994) (Stage IV Colon Cancer AJCC v6))) 36.78%
+- Thing 54.19%
+- [NCIT:C79099](http://purl.obolibrary.org/obo/NCIT_C79099) (1p/19q Codeletion) 52.94%
+- [NCIT:C6833](http://purl.obolibrary.org/obo/NCIT_C6833) (Double Minutes) 52.94%
+- [NCIT:C36636](http://purl.obolibrary.org/obo/NCIT_C36636) (Loss of Chromosome 9p) 52.94%
+- [NCIT:C36524](http://purl.obolibrary.org/obo/NCIT_C36524) (Loss of Chromosome 7) 52.94%
+- [NCIT:C36512](http://purl.obolibrary.org/obo/NCIT_C36512) (Loss of Chromosome 10p) 52.94%
+- [NCIT:C36506](http://purl.obolibrary.org/obo/NCIT_C36506) (Loss of Chromosome 22q) 52.94%
+- [NCIT:C36505](http://purl.obolibrary.org/obo/NCIT_C36505) (Loss of Chromosome 11p) 52.94%
+- [NCIT:C36504](http://purl.obolibrary.org/obo/NCIT_C36504) (Loss of Chromosome 6) 52.94%
+- [NCIT:C36490](http://purl.obolibrary.org/obo/NCIT_C36490) (Loss of Chromosome 14) 52.94%
+- [NCIT:C36454](http://purl.obolibrary.org/obo/NCIT_C36454) (Gain of Chromosome 7) 52.94%
+- [CL:0000128](http://purl.obolibrary.org/obo/CL_0000128) (oligodendrocyte) 52.94%
+- [NCIT:C36315](http://purl.obolibrary.org/obo/NCIT_C36315) (Chromosomal Loss) 43.73%
+- [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 39.70%
+- [NCIT:C6825](http://purl.obolibrary.org/obo/NCIT_C6825) (Numerical Chromosomal Abnormality) 38.97%
 
 

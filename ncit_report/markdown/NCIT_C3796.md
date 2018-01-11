@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36681](http://purl.obolibrary.org/obo/NCIT_C36681) (MDM2 Gene Amplification) 57.14%
-- [NCIT:C36329](http://purl.obolibrary.org/obo/NCIT_C36329) (TP53 Gene Inactivation) 57.14%
-- [NCIT:C17359](http://purl.obolibrary.org/obo/NCIT_C17359) (TP53 Gene) 57.14%
-- Thing 52.15%
-- [NCIT:C41471](http://purl.obolibrary.org/obo/NCIT_C41471) (Glial Differentiation) 42.50%
-- [NCIT:C41471](http://purl.obolibrary.org/obo/NCIT_C41471) (Glial Differentiation) and (not ([NCIT:C39902](http://purl.obolibrary.org/obo/NCIT_C39902) (Prostate Basal Cell Carcinoma))) 42.50%
-- [NCIT:C41471](http://purl.obolibrary.org/obo/NCIT_C41471) (Glial Differentiation) and (not ([NCIT:C39901](http://purl.obolibrary.org/obo/NCIT_C39901) (Prostatic Duct Urothelial Carcinoma))) 42.50%
-- [NCIT:C41471](http://purl.obolibrary.org/obo/NCIT_C41471) (Glial Differentiation) and (not ([NCIT:C39899](http://purl.obolibrary.org/obo/NCIT_C39899) (Secondary Prostate Urothelial Carcinoma))) 42.50%
-- [NCIT:C41471](http://purl.obolibrary.org/obo/NCIT_C41471) (Glial Differentiation) and (not ([NCIT:C39897](http://purl.obolibrary.org/obo/NCIT_C39897) (Prostate Ductal Adenocarcinoma, Solid Pattern))) 42.50%
-- [NCIT:C41471](http://purl.obolibrary.org/obo/NCIT_C41471) (Glial Differentiation) and (not ([NCIT:C39896](http://purl.obolibrary.org/obo/NCIT_C39896) (Prostate Ductal Adenocarcinoma, Papillary Pattern))) 42.50%
-- [NCIT:C41471](http://purl.obolibrary.org/obo/NCIT_C41471) (Glial Differentiation) and (not ([NCIT:C39895](http://purl.obolibrary.org/obo/NCIT_C39895) (Prostate Ductal Adenocarcinoma, Cribriform Pattern))) 42.50%
-- [NCIT:C41471](http://purl.obolibrary.org/obo/NCIT_C41471) (Glial Differentiation) and (not ([NCIT:C3989](http://purl.obolibrary.org/obo/NCIT_C3989) (Parathyroid Hyperplasia))) 42.50%
-- [NCIT:C41471](http://purl.obolibrary.org/obo/NCIT_C41471) (Glial Differentiation) and (not ([NCIT:C39885](http://purl.obolibrary.org/obo/NCIT_C39885) (Acinar Prostate Adenocarcinoma, Lymphoepithelioma-Like Variant))) 42.50%
-- [NCIT:C41471](http://purl.obolibrary.org/obo/NCIT_C41471) (Glial Differentiation) and (not ([NCIT:C39880](http://purl.obolibrary.org/obo/NCIT_C39880) (Acinar Prostate Adenocarcinoma, Atrophic Variant))) 42.50%
-- [NCIT:C41471](http://purl.obolibrary.org/obo/NCIT_C41471) (Glial Differentiation) and (not ([NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q))) 42.50%
+- [NCIT:C36681](http://purl.obolibrary.org/obo/NCIT_C36681) (MDM2 Gene Amplification) 66.67%
+- [NCIT:C36329](http://purl.obolibrary.org/obo/NCIT_C36329) (TP53 Gene Inactivation) 66.67%
+- [NCIT:C17359](http://purl.obolibrary.org/obo/NCIT_C17359) (TP53 Gene) 66.67%
+- Thing 51.76%
+- [NCIT:C36327](http://purl.obolibrary.org/obo/NCIT_C36327) (Gene Abnormality) 39.17%
+- [NCIT:C36391](http://purl.obolibrary.org/obo/NCIT_C36391) (Molecular Genetic Variation) 38.48%
+- [NCIT:C97926](http://purl.obolibrary.org/obo/NCIT_C97926) (Molecular Sequence Variation) 38.33%
+- [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 36.46%
+- [NCIT:C20917](http://purl.obolibrary.org/obo/NCIT_C20917) (Cell Cycle Gene) 32.48%
+- [NCIT:C45581](http://purl.obolibrary.org/obo/NCIT_C45581) (Gene Amplification Abnormality) 28.14%
+- [NCIT:C36344](http://purl.obolibrary.org/obo/NCIT_C36344) (Oncogene Deregulation) 28.14%
+- [NCIT:C36334](http://purl.obolibrary.org/obo/NCIT_C36334) (Tumor-Suppressor Gene Inactivation) 27.58%
+- [NCIT:C16612](http://purl.obolibrary.org/obo/NCIT_C16612) (Gene) 19.66%
+- Error3 0.00%
+- Error20 0.00%
 
 

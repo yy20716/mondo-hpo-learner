@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C55817](http://purl.obolibrary.org/obo/NCIT_C55817) (Nuclear Molding) 53.85%
-- [NCIT:C54209](http://purl.obolibrary.org/obo/NCIT_C54209) (Peripheral Nuclear Palisading) 53.85%
-- Thing 52.93%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 42.75%
-- [NCIT:C49015](http://purl.obolibrary.org/obo/NCIT_C49015) (Nuclear Palisading) 39.20%
-- [NCIT:C49015](http://purl.obolibrary.org/obo/NCIT_C49015) (Nuclear Palisading) and (not ([NCIT:C39646](http://purl.obolibrary.org/obo/NCIT_C39646) (Erythroderma))) 39.20%
-- [NCIT:C49015](http://purl.obolibrary.org/obo/NCIT_C49015) (Nuclear Palisading) and (not ([NCIT:C39640](http://purl.obolibrary.org/obo/NCIT_C39640) (Mucinous Degeneration))) 39.20%
-- [NCIT:C49015](http://purl.obolibrary.org/obo/NCIT_C49015) (Nuclear Palisading) and (not ([NCIT:C39629](http://purl.obolibrary.org/obo/NCIT_C39629) (CDKN2A Gene Inactivation))) 39.20%
-- [NCIT:C49015](http://purl.obolibrary.org/obo/NCIT_C49015) (Nuclear Palisading) and (not ([NCIT:C39628](http://purl.obolibrary.org/obo/NCIT_C39628) (Single Cell Exocytosis))) 39.20%
-- [NCIT:C49015](http://purl.obolibrary.org/obo/NCIT_C49015) (Nuclear Palisading) and (not ([NCIT:C39627](http://purl.obolibrary.org/obo/NCIT_C39627) (Pautrier Microabscess Present))) 39.20%
-- [NCIT:C49015](http://purl.obolibrary.org/obo/NCIT_C49015) (Nuclear Palisading) and (not ([NCIT:C39626](http://purl.obolibrary.org/obo/NCIT_C39626) (Epidermotropic Lymphocytic Infiltrate))) 39.20%
-- [NCIT:C49015](http://purl.obolibrary.org/obo/NCIT_C49015) (Nuclear Palisading) and (not ([NCIT:C39625](http://purl.obolibrary.org/obo/NCIT_C39625) (Extracutaneous Dissemination of Disease))) 39.20%
-- [NCIT:C49015](http://purl.obolibrary.org/obo/NCIT_C49015) (Nuclear Palisading) and (not ([NCIT:C39624](http://purl.obolibrary.org/obo/NCIT_C39624) (Skin Plaque))) 39.20%
-- [NCIT:C49015](http://purl.obolibrary.org/obo/NCIT_C49015) (Nuclear Palisading) and (not ([NCIT:C39622](http://purl.obolibrary.org/obo/NCIT_C39622) (Scaly Skin Eruption))) 39.20%
-- [NCIT:C49015](http://purl.obolibrary.org/obo/NCIT_C49015) (Nuclear Palisading) and (not ([NCIT:C39620](http://purl.obolibrary.org/obo/NCIT_C39620) (Dermatopathic Lymphadenopathy))) 39.20%
+- [UBERON:0003134](http://purl.obolibrary.org/obo/UBERON_0003134) (female reproductive organ) 66.67%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) 66.67%
+- [UBERON:0000474](http://purl.obolibrary.org/obo/UBERON_0000474) (female reproductive system) 66.67%
+- [UBERON:0000991](http://purl.obolibrary.org/obo/UBERON_0000991) (gonad) and [UBERON:0003134](http://purl.obolibrary.org/obo/UBERON_0003134) (female reproductive organ) 66.67%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 66.67%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 66.67%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 66.67%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 66.67%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 66.67%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 66.67%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 66.67%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 66.67%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 66.67%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 66.67%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 66.67%
 
 

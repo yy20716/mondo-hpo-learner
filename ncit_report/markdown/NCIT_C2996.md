@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([CL:0000019](http://purl.obolibrary.org/obo/CL_0000019) (sperm))) 55.00%
-- Thing 52.57%
-- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) 40.36%
-- [CL:0000039](http://purl.obolibrary.org/obo/CL_0000039) (germ line cell) 40.36%
-- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39897](http://purl.obolibrary.org/obo/NCIT_C39897) (Prostate Ductal Adenocarcinoma, Solid Pattern))) 40.36%
-- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39896](http://purl.obolibrary.org/obo/NCIT_C39896) (Prostate Ductal Adenocarcinoma, Papillary Pattern))) 40.36%
-- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39895](http://purl.obolibrary.org/obo/NCIT_C39895) (Prostate Ductal Adenocarcinoma, Cribriform Pattern))) 40.36%
-- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C3989](http://purl.obolibrary.org/obo/NCIT_C3989) (Parathyroid Hyperplasia))) 40.36%
-- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39885](http://purl.obolibrary.org/obo/NCIT_C39885) (Acinar Prostate Adenocarcinoma, Lymphoepithelioma-Like Variant))) 40.36%
-- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39880](http://purl.obolibrary.org/obo/NCIT_C39880) (Acinar Prostate Adenocarcinoma, Atrophic Variant))) 40.36%
-- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q))) 40.36%
-- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39874](http://purl.obolibrary.org/obo/NCIT_C39874) (Urethral Verrucous Carcinoma))) 40.36%
-- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39873](http://purl.obolibrary.org/obo/NCIT_C39873) (Urethral Glandular Metaplasia))) 40.36%
-- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39872](http://purl.obolibrary.org/obo/NCIT_C39872) (Urethral Villous Adenoma))) 40.36%
-- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39866](http://purl.obolibrary.org/obo/NCIT_C39866) (Female Urethral Malignant Neoplasm))) 40.36%
+- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([CL:0000019](http://purl.obolibrary.org/obo/CL_0000019) (sperm))) 58.33%
+- Thing 52.49%
+- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) 43.69%
+- [CL:0000039](http://purl.obolibrary.org/obo/CL_0000039) (germ line cell) 43.69%
+- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39739](http://purl.obolibrary.org/obo/NCIT_C39739) (Negative Peripheral Blood))) 43.69%
+- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39725](http://purl.obolibrary.org/obo/NCIT_C39725) (Immunodeficiency))) 43.69%
+- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39721](http://purl.obolibrary.org/obo/NCIT_C39721) (Abundance of Small Lymphocytes))) 43.69%
+- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39720](http://purl.obolibrary.org/obo/NCIT_C39720) (Classical Reed-Sternberg Cell))) 43.69%
+- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C3972](http://purl.obolibrary.org/obo/NCIT_C3972) (Prostate Fibroma))) 43.69%
+- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39719](http://purl.obolibrary.org/obo/NCIT_C39719) (PDGFRalpha Protein Overexpression))) 43.69%
+- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39718](http://purl.obolibrary.org/obo/NCIT_C39718) (PDGFRA Gene Mutation))) 43.69%
+- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39717](http://purl.obolibrary.org/obo/NCIT_C39717) (MDM2 Gene Mutation))) 43.69%
+- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39716](http://purl.obolibrary.org/obo/NCIT_C39716) (EGFR Protein Overexpression))) 43.69%
+- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39715](http://purl.obolibrary.org/obo/NCIT_C39715) (CD30-Positive Neoplastic Cells Present))) 43.69%
+- [CL:0000586](http://purl.obolibrary.org/obo/CL_0000586) (germ cell) and (not ([NCIT:C39712](http://purl.obolibrary.org/obo/NCIT_C39712) (KIT Gene Mutation))) 43.69%
 
 

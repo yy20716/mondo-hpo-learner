@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C38439](http://purl.obolibrary.org/obo/NCIT_C38439) (Mature Lymphocyte) 58.33%
-- [NCIT:C38328](http://purl.obolibrary.org/obo/NCIT_C38328) (Unfavorable Clinical Outcome) 58.33%
-- [NCIT:C3384](http://purl.obolibrary.org/obo/NCIT_C3384) (Splenomegaly) 58.33%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C3991](http://purl.obolibrary.org/obo/NCIT_C3991) (Thrombocytopenia Due to Immune Destruction))) 58.33%
-- Thing 51.99%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) 43.69%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 43.69%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 43.69%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 43.69%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 43.69%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 43.69%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C39963](http://purl.obolibrary.org/obo/NCIT_C39963) (Penile Bowenoid Papulosis))) 43.69%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C39961](http://purl.obolibrary.org/obo/NCIT_C39961) (Penile Basal Cell Carcinoma))) 43.69%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C39959](http://purl.obolibrary.org/obo/NCIT_C39959) (Mixed Squamous Cell Carcinoma of the Penis))) 43.69%
-- [NCIT:C3408](http://purl.obolibrary.org/obo/NCIT_C3408) (Thrombocytopenia) and (not ([NCIT:C39957](http://purl.obolibrary.org/obo/NCIT_C39957) (Epididymal Adenocarcinoma))) 43.69%
+- [NCIT:C38439](http://purl.obolibrary.org/obo/NCIT_C38439) (Mature Lymphocyte) 75.00%
+- Thing 51.44%
+- [CL:0000542](http://purl.obolibrary.org/obo/CL_0000542) (lymphocyte) 32.29%
+- [CL:0002242](http://purl.obolibrary.org/obo/CL_0002242) (nucleate cell) 32.22%
+- [CL:0002087](http://purl.obolibrary.org/obo/CL_0002087) (nongranular leukocyte) 32.22%
+- [CL:0000738](http://purl.obolibrary.org/obo/CL_0000738) (leukocyte) 31.68%
+- [CL:0000219](http://purl.obolibrary.org/obo/CL_0000219) (motile cell) 31.45%
+- [CL:0002371](http://purl.obolibrary.org/obo/CL_0002371) (somatic cell) 29.00%
+- [CL:0000255](http://purl.obolibrary.org/obo/CL_0000255) (eukaryotic cell) 28.82%
+- [CL:0000003](http://purl.obolibrary.org/obo/CL_0000003) (native cell) 28.69%
+- [GO:0005623](http://purl.obolibrary.org/obo/GO_0005623) (cell) 28.68%
+- [CL:0000000](http://purl.obolibrary.org/obo/CL_0000000) (cell) 28.60%
+- [GO:0005575](http://purl.obolibrary.org/obo/GO_0005575) (cellular_component) 28.55%
+- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 27.36%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 26.88%
 
 

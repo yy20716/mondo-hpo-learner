@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0003889](http://purl.obolibrary.org/obo/UBERON_0003889) (fallopian tube) 57.14%
-- [UBERON:0003134](http://purl.obolibrary.org/obo/UBERON_0003134) (female reproductive organ) 57.14%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) 57.14%
-- [UBERON:0013515](http://purl.obolibrary.org/obo/UBERON_0013515) (subdivision of oviduct) and [UBERON:0015212](http://purl.obolibrary.org/obo/UBERON_0015212) (lateral structure) 57.14%
-- [UBERON:0000991](http://purl.obolibrary.org/obo/UBERON_0000991) (gonad) and [UBERON:0003134](http://purl.obolibrary.org/obo/UBERON_0003134) (female reproductive organ) 57.14%
-- Thing 52.15%
-- [UBERON:0004120](http://purl.obolibrary.org/obo/UBERON_0004120) (mesoderm-derived structure) and [UBERON:0013515](http://purl.obolibrary.org/obo/UBERON_0013515) (subdivision of oviduct) 42.50%
-- [UBERON:0013515](http://purl.obolibrary.org/obo/UBERON_0013515) (subdivision of oviduct) 36.01%
-- [UBERON:0000991](http://purl.obolibrary.org/obo/UBERON_0000991) (gonad) 36.01%
-- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 33.49%
-- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 33.35%
-- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 33.31%
-- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 32.82%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 32.78%
-- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 32.34%
+- [UBERON:0003889](http://purl.obolibrary.org/obo/UBERON_0003889) (fallopian tube) 58.33%
+- [UBERON:0003134](http://purl.obolibrary.org/obo/UBERON_0003134) (female reproductive organ) 58.33%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) 58.33%
+- [UBERON:0013515](http://purl.obolibrary.org/obo/UBERON_0013515) (subdivision of oviduct) and [UBERON:0015212](http://purl.obolibrary.org/obo/UBERON_0015212) (lateral structure) 58.33%
+- [UBERON:0000991](http://purl.obolibrary.org/obo/UBERON_0000991) (gonad) and [UBERON:0003134](http://purl.obolibrary.org/obo/UBERON_0003134) (female reproductive organ) 58.33%
+- Thing 52.49%
+- [UBERON:0004120](http://purl.obolibrary.org/obo/UBERON_0004120) (mesoderm-derived structure) and [UBERON:0013515](http://purl.obolibrary.org/obo/UBERON_0013515) (subdivision of oviduct) 43.69%
+- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 38.25%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 38.11%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 38.07%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 37.59%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 37.54%
+- [UBERON:0013515](http://purl.obolibrary.org/obo/UBERON_0013515) (subdivision of oviduct) 37.20%
+- [UBERON:0000991](http://purl.obolibrary.org/obo/UBERON_0000991) (gonad) 37.20%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 37.10%
 
 

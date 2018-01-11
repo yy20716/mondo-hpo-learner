@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.90%
-- [NCIT:C79099](http://purl.obolibrary.org/obo/NCIT_C79099) (1p/19q Codeletion) 52.17%
-- [NCIT:C36506](http://purl.obolibrary.org/obo/NCIT_C36506) (Loss of Chromosome 22q) 52.17%
-- [NCIT:C36505](http://purl.obolibrary.org/obo/NCIT_C36505) (Loss of Chromosome 11p) 52.17%
-- [NCIT:C36504](http://purl.obolibrary.org/obo/NCIT_C36504) (Loss of Chromosome 6) 52.17%
-- [NCIT:C36490](http://purl.obolibrary.org/obo/NCIT_C36490) (Loss of Chromosome 14) 52.17%
-- [NCIT:C36454](http://purl.obolibrary.org/obo/NCIT_C36454) (Gain of Chromosome 7) 52.17%
-- [NCIT:C34661](http://purl.obolibrary.org/obo/NCIT_C34661) (Headache) 52.17%
-- [NCIT:C2962](http://purl.obolibrary.org/obo/NCIT_C2962) (Seizure) 52.17%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) 37.53%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39695](http://purl.obolibrary.org/obo/NCIT_C39695) (Extranodal Disease))) 37.53%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39692](http://purl.obolibrary.org/obo/NCIT_C39692) (Complete Spontaneous Regression))) 37.53%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39691](http://purl.obolibrary.org/obo/NCIT_C39691) (Partial Spontaneous Regression))) 37.53%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39690](http://purl.obolibrary.org/obo/NCIT_C39690) (Papular Lesion))) 37.53%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39689](http://purl.obolibrary.org/obo/NCIT_C39689) (Multicentric Cutaneous Involvement))) 37.53%
+- [UBERON:0000955](http://purl.obolibrary.org/obo/UBERON_0000955) (brain) 55.56%
+- [NCIT:C79099](http://purl.obolibrary.org/obo/NCIT_C79099) (1p/19q Codeletion) 55.56%
+- [NCIT:C36506](http://purl.obolibrary.org/obo/NCIT_C36506) (Loss of Chromosome 22q) 55.56%
+- [NCIT:C36505](http://purl.obolibrary.org/obo/NCIT_C36505) (Loss of Chromosome 11p) 55.56%
+- [NCIT:C36504](http://purl.obolibrary.org/obo/NCIT_C36504) (Loss of Chromosome 6) 55.56%
+- [NCIT:C36490](http://purl.obolibrary.org/obo/NCIT_C36490) (Loss of Chromosome 14) 55.56%
+- [NCIT:C36454](http://purl.obolibrary.org/obo/NCIT_C36454) (Gain of Chromosome 7) 55.56%
+- [NCIT:C25939](http://purl.obolibrary.org/obo/NCIT_C25939) (Oxidoreductase Gene) 55.56%
+- [NCIT:C129264](http://purl.obolibrary.org/obo/NCIT_C129264) (IDH Gene Family Mutation) 55.56%
+- [NCIT:C129260](http://purl.obolibrary.org/obo/NCIT_C129260) (IDH Gene Family) 55.56%
+- Thing 53.05%
+- [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 44.75%
+- [NCIT:C36315](http://purl.obolibrary.org/obo/NCIT_C36315) (Chromosomal Loss) 43.75%
+- [NCIT:C6825](http://purl.obolibrary.org/obo/NCIT_C6825) (Numerical Chromosomal Abnormality) 43.54%
+- [NCIT:C2950](http://purl.obolibrary.org/obo/NCIT_C2950) (Cytogenetic Abnormality) 40.38%
 
 

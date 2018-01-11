@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.67%
-- [NCIT:C40562](http://purl.obolibrary.org/obo/NCIT_C40562) (Transformed Neoplastic Lymphocyte) 51.52%
-- [NCIT:C37024](http://purl.obolibrary.org/obo/NCIT_C37024) (Reed-Sternberg-Like Cell) 51.52%
-- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) 36.87%
-- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C36489](http://purl.obolibrary.org/obo/NCIT_C36489) (Gain of Chromosome 5p))) 36.87%
-- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C36488](http://purl.obolibrary.org/obo/NCIT_C36488) (Gain of Chromosome 8q))) 36.87%
-- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C36487](http://purl.obolibrary.org/obo/NCIT_C36487) (Gain of Chromosome 3q))) 36.87%
-- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C36486](http://purl.obolibrary.org/obo/NCIT_C36486) (Gain of Chromosome 5))) 36.87%
-- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C36485](http://purl.obolibrary.org/obo/NCIT_C36485) (CCND1 Protein Overexpression))) 36.87%
-- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C36484](http://purl.obolibrary.org/obo/NCIT_C36484) (Gain of Chromosome 17q))) 36.87%
-- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C36483](http://purl.obolibrary.org/obo/NCIT_C36483) (Gain of Chromosome 9q))) 36.87%
-- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C36482](http://purl.obolibrary.org/obo/NCIT_C36482) (Gain of Chromosome 1q))) 36.87%
-- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C36481](http://purl.obolibrary.org/obo/NCIT_C36481) (Gain of Chromosome 15q))) 36.87%
-- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C36480](http://purl.obolibrary.org/obo/NCIT_C36480) (Gain of Chromosome 20q))) 36.87%
-- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C36478](http://purl.obolibrary.org/obo/NCIT_C36478) (Unbalanced Translocation of Chromosome 1))) 36.87%
+- Thing 54.55%
+- [NCIT:C40562](http://purl.obolibrary.org/obo/NCIT_C40562) (Transformed Neoplastic Lymphocyte) 52.50%
+- [NCIT:C37024](http://purl.obolibrary.org/obo/NCIT_C37024) (Reed-Sternberg-Like Cell) 52.50%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C37011](http://purl.obolibrary.org/obo/NCIT_C37011) (Plasmablastic Immunoblast))) 52.50%
+- [NCIT:C36988](http://purl.obolibrary.org/obo/NCIT_C36988) (Neoplastic Lymphocyte) 40.18%
+- [NCIT:C36725](http://purl.obolibrary.org/obo/NCIT_C36725) (Abnormal Lymphocyte) 39.82%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) 37.86%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C39013](http://purl.obolibrary.org/obo/NCIT_C39013) (Estrogen Receptor Regulation by CARM1 Pathway))) 37.86%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C39011](http://purl.obolibrary.org/obo/NCIT_C39011) (Cardiac Hypertrophy Pathway))) 37.86%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C3901](http://purl.obolibrary.org/obo/NCIT_C3901) (Compound Nevus))) 37.86%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C39006](http://purl.obolibrary.org/obo/NCIT_C39006) (Bioactive Peptide Signaling Pathway))) 37.86%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C39004](http://purl.obolibrary.org/obo/NCIT_C39004) (B-Cell Survival Pathway))) 37.86%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C38999](http://purl.obolibrary.org/obo/NCIT_C38999) (BARD1 Pathway))) 37.86%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C38998](http://purl.obolibrary.org/obo/NCIT_C38998) (BAD Regulation Pathway))) 37.86%
+- [NCIT:C37010](http://purl.obolibrary.org/obo/NCIT_C37010) (Neoplastic B-Immunoblast) and (not ([NCIT:C38997](http://purl.obolibrary.org/obo/NCIT_C38997) (Cancer Susceptibility Pathway))) 37.86%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C60303](http://purl.obolibrary.org/obo/NCIT_C60303) (Malignant Spindle Transitional Cell) 55.56%
-- [NCIT:C54559](http://purl.obolibrary.org/obo/NCIT_C54559) (Heterologous Elements Present) 55.56%
-- [NCIT:C36104](http://purl.obolibrary.org/obo/NCIT_C36104) (Aggressive Clinical Course) 55.56%
-- [NCIT:C35907](http://purl.obolibrary.org/obo/NCIT_C35907) (Biphasic Pattern) 55.56%
-- [NCIT:C34615](http://purl.obolibrary.org/obo/NCIT_C34615) (Flank Pain) 55.56%
-- [NCIT:C12866](http://purl.obolibrary.org/obo/NCIT_C12866) (Transitional Cell) 55.56%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and [NCIT:C53637](http://purl.obolibrary.org/obo/NCIT_C53637) (Malignant Spindle Cell) 55.56%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and [NCIT:C37109](http://purl.obolibrary.org/obo/NCIT_C37109) (Malignant Epithelial Spindle Cell) 55.56%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and [NCIT:C36849](http://purl.obolibrary.org/obo/NCIT_C36849) (Neoplastic Epithelial Spindle Cell) 55.56%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and [NCIT:C36823](http://purl.obolibrary.org/obo/NCIT_C36823) (Neoplastic Spindle Cell) 55.56%
-- Thing 52.44%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) 40.91%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39816](http://purl.obolibrary.org/obo/NCIT_C39816) (Infiltrating Bladder Urothelial Carcinoma with Squamous Differentiation))) 40.91%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39815](http://purl.obolibrary.org/obo/NCIT_C39815) (Cellular Congenital Mesoblastic Nephroma))) 40.91%
-- [NCIT:C36778](http://purl.obolibrary.org/obo/NCIT_C36778) (Malignant Transitional Cell) and (not ([NCIT:C39814](http://purl.obolibrary.org/obo/NCIT_C39814) (Classic Congenital Mesoblastic Nephroma))) 40.91%
+- [UBERON:0004645](http://purl.obolibrary.org/obo/UBERON_0004645) (urinary bladder urothelium) 66.67%
+- [NCIT:C12866](http://purl.obolibrary.org/obo/NCIT_C12866) (Transitional Cell) 66.67%
+- [UBERON:0000365](http://purl.obolibrary.org/obo/UBERON_0000365) (urothelium) and [UBERON:0003350](http://purl.obolibrary.org/obo/UBERON_0003350) (epithelium of mucosa) 66.67%
+- [UBERON:0000365](http://purl.obolibrary.org/obo/UBERON_0000365) (urothelium) and [UBERON:0003350](http://purl.obolibrary.org/obo/UBERON_0003350) (epithelium of mucosa) and [UBERON:0012275](http://purl.obolibrary.org/obo/UBERON_0012275) (meso-epithelium) 66.67%
+- [UBERON:0000365](http://purl.obolibrary.org/obo/UBERON_0000365) (urothelium) and [UBERON:0003350](http://purl.obolibrary.org/obo/UBERON_0003350) (epithelium of mucosa) and [UBERON:0004120](http://purl.obolibrary.org/obo/UBERON_0004120) (mesoderm-derived structure) 66.67%
+- [UBERON:0000077](http://purl.obolibrary.org/obo/UBERON_0000077) (mixed endoderm/mesoderm-derived structure) and [UBERON:0000365](http://purl.obolibrary.org/obo/UBERON_0000365) (urothelium) and [UBERON:0003350](http://purl.obolibrary.org/obo/UBERON_0003350) (epithelium of mucosa) 66.67%
+- [UBERON:0000365](http://purl.obolibrary.org/obo/UBERON_0000365) (urothelium) and [UBERON:0012275](http://purl.obolibrary.org/obo/UBERON_0012275) (meso-epithelium) 52.02%
+- [UBERON:0000365](http://purl.obolibrary.org/obo/UBERON_0000365) (urothelium) and [UBERON:0004120](http://purl.obolibrary.org/obo/UBERON_0004120) (mesoderm-derived structure) 52.02%
+- [UBERON:0000077](http://purl.obolibrary.org/obo/UBERON_0000077) (mixed endoderm/mesoderm-derived structure) and [UBERON:0000365](http://purl.obolibrary.org/obo/UBERON_0000365) (urothelium) 52.02%
+- [UBERON:0000077](http://purl.obolibrary.org/obo/UBERON_0000077) (mixed endoderm/mesoderm-derived structure) and [UBERON:0000365](http://purl.obolibrary.org/obo/UBERON_0000365) (urothelium) and [UBERON:0012275](http://purl.obolibrary.org/obo/UBERON_0012275) (meso-epithelium) 52.02%
+- Thing 51.76%
+- [UBERON:0000365](http://purl.obolibrary.org/obo/UBERON_0000365) (urothelium) 45.53%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 36.34%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 36.00%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 36.00%
 
 

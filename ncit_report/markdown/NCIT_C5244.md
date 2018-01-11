@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0003134](http://purl.obolibrary.org/obo/UBERON_0003134) (female reproductive organ) 56.25%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) 56.25%
-- [UBERON:0000474](http://purl.obolibrary.org/obo/UBERON_0000474) (female reproductive system) 56.25%
-- [UBERON:0000991](http://purl.obolibrary.org/obo/UBERON_0000991) (gonad) and [UBERON:0003134](http://purl.obolibrary.org/obo/UBERON_0003134) (female reproductive organ) 56.25%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 56.25%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 56.25%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 56.25%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 56.25%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 56.25%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 56.25%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 56.25%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 56.25%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 56.25%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 56.25%
-- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 56.25%
+- [UBERON:0003134](http://purl.obolibrary.org/obo/UBERON_0003134) (female reproductive organ) 62.50%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) 62.50%
+- [UBERON:0000474](http://purl.obolibrary.org/obo/UBERON_0000474) (female reproductive system) 62.50%
+- [UBERON:0000991](http://purl.obolibrary.org/obo/UBERON_0000991) (gonad) and [UBERON:0003134](http://purl.obolibrary.org/obo/UBERON_0003134) (female reproductive organ) 62.50%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 62.50%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 62.50%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 62.50%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 62.50%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 62.50%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 62.50%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 62.50%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 62.50%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 62.50%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 62.50%
+- [UBERON:0000992](http://purl.obolibrary.org/obo/UBERON_0000992) (ovary) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 62.50%
 
 

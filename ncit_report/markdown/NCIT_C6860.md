@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C39680](http://purl.obolibrary.org/obo/NCIT_C39680) (Doughnut Cell) 53.57%
-- [NCIT:C39679](http://purl.obolibrary.org/obo/NCIT_C39679) (Hallmark Cell) 53.57%
-- [NCIT:C37026](http://purl.obolibrary.org/obo/NCIT_C37026) (Hodgkin-Like Cell) 53.57%
-- [NCIT:C37024](http://purl.obolibrary.org/obo/NCIT_C37024) (Reed-Sternberg-Like Cell) 53.57%
-- [NCIT:C37017](http://purl.obolibrary.org/obo/NCIT_C37017) (Anaplastic Large T-Lymphocyte) 53.57%
-- [NCIT:C37018](http://purl.obolibrary.org/obo/NCIT_C37018) (Anaplastic Large Lymphocyte) and [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) 53.57%
-- [NCIT:C37018](http://purl.obolibrary.org/obo/NCIT_C37018) (Anaplastic Large Lymphocyte) and [NCIT:C39566](http://purl.obolibrary.org/obo/NCIT_C39566) (Neoplastic T-Lymphocyte and Neoplastic Natural Killer Cell) 53.57%
-- [NCIT:C37018](http://purl.obolibrary.org/obo/NCIT_C37018) (Anaplastic Large Lymphocyte) and [NCIT:C38641](http://purl.obolibrary.org/obo/NCIT_C38641) (Neoplastic T-Lymphocyte) 53.57%
-- [NCIT:C37016](http://purl.obolibrary.org/obo/NCIT_C37016) (Neoplastic Large T-Lymphocyte) and [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) 53.57%
-- [NCIT:C37016](http://purl.obolibrary.org/obo/NCIT_C37016) (Neoplastic Large T-Lymphocyte) and [NCIT:C37018](http://purl.obolibrary.org/obo/NCIT_C37018) (Anaplastic Large Lymphocyte) 53.57%
-- [NCIT:C37008](http://purl.obolibrary.org/obo/NCIT_C37008) (Neoplastic Large Lymphocyte) and [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) 53.57%
-- [NCIT:C37016](http://purl.obolibrary.org/obo/NCIT_C37016) (Neoplastic Large T-Lymphocyte) and [NCIT:C37018](http://purl.obolibrary.org/obo/NCIT_C37018) (Anaplastic Large Lymphocyte) and [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) 53.57%
-- Thing 53.04%
-- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) 49.44%
-- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C136815](http://purl.obolibrary.org/obo/NCIT_C136815) (Stage II Retroperitoneal Sarcoma AJCC v8))) 49.44%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not ([NCIT:C39682](http://purl.obolibrary.org/obo/NCIT_C39682) (Flower-Like T-Lymphocyte))) 68.30%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) 63.73%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not (Error3)) 63.73%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not (Error20)) 63.73%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not (Error2)) 63.73%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not (Error19)) 63.73%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not (Error18)) 63.73%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not (Error17)) 63.73%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not (Error16)) 63.73%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not (Error15)) 63.73%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not (Error14)) 63.73%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not (Error13)) 63.73%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not (Error12)) 63.73%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not (Error11)) 63.73%
+- [NCIT:C39678](http://purl.obolibrary.org/obo/NCIT_C39678) (Anaplastic T-Lymphocyte) and (not (Error10)) 63.73%
 
 

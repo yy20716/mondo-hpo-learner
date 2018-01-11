@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C54201](http://purl.obolibrary.org/obo/NCIT_C54201) (Exophytic Papillary Lesion) 55.00%
-- [NCIT:C45978](http://purl.obolibrary.org/obo/NCIT_C45978) (Fungating Mass) 55.00%
-- [NCIT:C35520](http://purl.obolibrary.org/obo/NCIT_C35520) (Nasal Mass) 55.00%
-- [NCIT:C26766](http://purl.obolibrary.org/obo/NCIT_C26766) (Epistaxis) 55.00%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C122604](http://purl.obolibrary.org/obo/NCIT_C122604) (Infantile Lesion))) 55.00%
-- Thing 52.57%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 43.84%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) 40.36%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 40.36%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 40.36%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 40.36%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 40.36%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 40.36%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 40.36%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 40.36%
+- [UBERON:0005384](http://purl.obolibrary.org/obo/UBERON_0005384) (nasal cavity epithelium) 75.00%
+- [UBERON:0001707](http://purl.obolibrary.org/obo/UBERON_0001707) (nasal cavity) 75.00%
+- [UBERON:0004814](http://purl.obolibrary.org/obo/UBERON_0004814) (upper respiratory tract epithelium) and [UBERON:0019306](http://purl.obolibrary.org/obo/UBERON_0019306) (nose epithelium) 75.00%
+- [UBERON:0004814](http://purl.obolibrary.org/obo/UBERON_0004814) (upper respiratory tract epithelium) and [UBERON:0019304](http://purl.obolibrary.org/obo/UBERON_0019304) (sensory organ epithelium) 75.00%
+- [UBERON:0004814](http://purl.obolibrary.org/obo/UBERON_0004814) (upper respiratory tract epithelium) and [UBERON:0010371](http://purl.obolibrary.org/obo/UBERON_0010371) (ecto-epithelium) 75.00%
+- [UBERON:0004121](http://purl.obolibrary.org/obo/UBERON_0004121) (ectoderm-derived structure) and [UBERON:0004814](http://purl.obolibrary.org/obo/UBERON_0004814) (upper respiratory tract epithelium) 75.00%
+- [UBERON:0003350](http://purl.obolibrary.org/obo/UBERON_0003350) (epithelium of mucosa) and [UBERON:0004814](http://purl.obolibrary.org/obo/UBERON_0004814) (upper respiratory tract epithelium) 75.00%
+- [UBERON:0004814](http://purl.obolibrary.org/obo/UBERON_0004814) (upper respiratory tract epithelium) 60.36%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 53.01%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 52.67%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 52.66%
+- Thing 51.44%
+- [UBERON:0002553](http://purl.obolibrary.org/obo/UBERON_0002553) (anatomical cavity) 40.08%
+- [UBERON:0000464](http://purl.obolibrary.org/obo/UBERON_0000464) (anatomical space) 37.50%
+- [UBERON:0000466](http://purl.obolibrary.org/obo/UBERON_0000466) (immaterial anatomical entity) 36.79%
 
 

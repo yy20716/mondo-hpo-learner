@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.55%
-- [NCIT:C99213](http://purl.obolibrary.org/obo/NCIT_C99213) (EWSR1/WT1 Fusion Gene) 52.63%
-- [NCIT:C36104](http://purl.obolibrary.org/obo/NCIT_C36104) (Aggressive Clinical Course) 52.63%
-- [NCIT:C34333](http://purl.obolibrary.org/obo/NCIT_C34333) (Abdominal Mass) 52.63%
-- [NCIT:C18322](http://purl.obolibrary.org/obo/NCIT_C18322) (EWSR1 Gene) 52.63%
-- [NCIT:C121919](http://purl.obolibrary.org/obo/NCIT_C121919) (HEY1/NCOA2 Fusion Gene) 52.63%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) 37.99%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39859](http://purl.obolibrary.org/obo/NCIT_C39859) (Bladder Inverted Papilloma))) 37.99%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39856](http://purl.obolibrary.org/obo/NCIT_C39856) (Urothelial Dysplasia))) 37.99%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39845](http://purl.obolibrary.org/obo/NCIT_C39845) (Bladder Urachal Squamous Cell Carcinoma))) 37.99%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39844](http://purl.obolibrary.org/obo/NCIT_C39844) (Bladder Urachal Urothelial Carcinoma))) 37.99%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39834](http://purl.obolibrary.org/obo/NCIT_C39834) (Bladder Squamous Papilloma))) 37.99%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39833](http://purl.obolibrary.org/obo/NCIT_C39833) (Schistosoma Hematobium-Related Bladder Verrucous Carcinoma))) 37.99%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39829](http://purl.obolibrary.org/obo/NCIT_C39829) (Infiltrating Bladder Urothelial Carcinoma with Giant Cells))) 37.99%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39826](http://purl.obolibrary.org/obo/NCIT_C39826) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant without Heterologous Elements))) 37.99%
+- [NCIT:C99213](http://purl.obolibrary.org/obo/NCIT_C99213) (EWSR1/WT1 Fusion Gene) 55.56%
+- [NCIT:C53487](http://purl.obolibrary.org/obo/NCIT_C53487) (Malignant Small Round Cell) 55.56%
+- [NCIT:C37100](http://purl.obolibrary.org/obo/NCIT_C37100) (Neoplastic Small Round Cell) 55.56%
+- [NCIT:C18322](http://purl.obolibrary.org/obo/NCIT_C18322) (EWSR1 Gene) 55.56%
+- [NCIT:C121919](http://purl.obolibrary.org/obo/NCIT_C121919) (HEY1/NCOA2 Fusion Gene) 55.56%
+- [NCIT:C36860](http://purl.obolibrary.org/obo/NCIT_C36860) (Malignant Small Cell) and [NCIT:C37100](http://purl.obolibrary.org/obo/NCIT_C37100) (Neoplastic Small Round Cell) 55.56%
+- [NCIT:C36860](http://purl.obolibrary.org/obo/NCIT_C36860) (Malignant Small Cell) and [NCIT:C37099](http://purl.obolibrary.org/obo/NCIT_C37099) (Neoplastic Round Cell) 55.56%
+- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C37100](http://purl.obolibrary.org/obo/NCIT_C37100) (Neoplastic Small Round Cell) 55.56%
+- [NCIT:C37099](http://purl.obolibrary.org/obo/NCIT_C37099) (Neoplastic Round Cell) and (not ([NCIT:C36951](http://purl.obolibrary.org/obo/NCIT_C36951) (Round Cell with Primitive Myoblastic Differentiation))) 55.56%
+- Thing 53.05%
+- [NCIT:C37099](http://purl.obolibrary.org/obo/NCIT_C37099) (Neoplastic Round Cell) 40.91%
+- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C37099](http://purl.obolibrary.org/obo/NCIT_C37099) (Neoplastic Round Cell) 40.91%
+- [NCIT:C37099](http://purl.obolibrary.org/obo/NCIT_C37099) (Neoplastic Round Cell) and (not ([NCIT:C39011](http://purl.obolibrary.org/obo/NCIT_C39011) (Cardiac Hypertrophy Pathway))) 40.91%
+- [NCIT:C37099](http://purl.obolibrary.org/obo/NCIT_C37099) (Neoplastic Round Cell) and (not ([NCIT:C3901](http://purl.obolibrary.org/obo/NCIT_C3901) (Compound Nevus))) 40.91%
+- [NCIT:C37099](http://purl.obolibrary.org/obo/NCIT_C37099) (Neoplastic Round Cell) and (not ([NCIT:C39006](http://purl.obolibrary.org/obo/NCIT_C39006) (Bioactive Peptide Signaling Pathway))) 40.91%
 
 

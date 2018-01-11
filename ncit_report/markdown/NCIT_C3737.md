@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C53488](http://purl.obolibrary.org/obo/NCIT_C53488) (Well Differentiated Hyaline Cartilage Present) 57.14%
-- [NCIT:C36104](http://purl.obolibrary.org/obo/NCIT_C36104) (Aggressive Clinical Course) 57.14%
-- Thing 52.15%
-- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) 42.50%
-- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 42.50%
-- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 42.50%
-- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 42.50%
-- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 42.50%
-- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 42.50%
-- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C40034](http://purl.obolibrary.org/obo/NCIT_C40034) (Ovarian Mucinous Adenocarcinofibroma))) 42.50%
-- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C40032](http://purl.obolibrary.org/obo/NCIT_C40032) (Ovarian Serous Cystadenofibroma))) 42.50%
-- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C40029](http://purl.obolibrary.org/obo/NCIT_C40029) (Borderline Ovarian Serous Cystadenofibroma))) 42.50%
-- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C40021](http://purl.obolibrary.org/obo/NCIT_C40021) (Ovarian Lymphoma))) 42.50%
-- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 42.50%
-- [NCIT:C53474](http://purl.obolibrary.org/obo/NCIT_C53474) (Hyaline Cartilage Differentiation) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 42.50%
+- [NCIT:C53487](http://purl.obolibrary.org/obo/NCIT_C53487) (Malignant Small Round Cell) 75.00%
+- [NCIT:C37100](http://purl.obolibrary.org/obo/NCIT_C37100) (Neoplastic Small Round Cell) 75.00%
+- [NCIT:C121919](http://purl.obolibrary.org/obo/NCIT_C121919) (HEY1/NCOA2 Fusion Gene) 75.00%
+- [NCIT:C36860](http://purl.obolibrary.org/obo/NCIT_C36860) (Malignant Small Cell) and [NCIT:C37100](http://purl.obolibrary.org/obo/NCIT_C37100) (Neoplastic Small Round Cell) 75.00%
+- [NCIT:C36860](http://purl.obolibrary.org/obo/NCIT_C36860) (Malignant Small Cell) and [NCIT:C37099](http://purl.obolibrary.org/obo/NCIT_C37099) (Neoplastic Round Cell) 75.00%
+- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C37100](http://purl.obolibrary.org/obo/NCIT_C37100) (Neoplastic Small Round Cell) 75.00%
+- [NCIT:C53487](http://purl.obolibrary.org/obo/NCIT_C53487) (Malignant Small Round Cell) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 75.00%
+- [NCIT:C53487](http://purl.obolibrary.org/obo/NCIT_C53487) (Malignant Small Round Cell) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 75.00%
+- [NCIT:C53487](http://purl.obolibrary.org/obo/NCIT_C53487) (Malignant Small Round Cell) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 75.00%
+- [NCIT:C53487](http://purl.obolibrary.org/obo/NCIT_C53487) (Malignant Small Round Cell) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 75.00%
+- [NCIT:C53487](http://purl.obolibrary.org/obo/NCIT_C53487) (Malignant Small Round Cell) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 75.00%
+- [NCIT:C53487](http://purl.obolibrary.org/obo/NCIT_C53487) (Malignant Small Round Cell) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 75.00%
+- [NCIT:C53487](http://purl.obolibrary.org/obo/NCIT_C53487) (Malignant Small Round Cell) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 75.00%
+- [NCIT:C53487](http://purl.obolibrary.org/obo/NCIT_C53487) (Malignant Small Round Cell) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 75.00%
+- [NCIT:C53487](http://purl.obolibrary.org/obo/NCIT_C53487) (Malignant Small Round Cell) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 75.00%
 
 

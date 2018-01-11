@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36104](http://purl.obolibrary.org/obo/NCIT_C36104) (Aggressive Clinical Course) 53.57%
-- [NCIT:C129500](http://purl.obolibrary.org/obo/NCIT_C129500) (Loss of BRG1 Protein Expression) 53.57%
-- [NCIT:C121966](http://purl.obolibrary.org/obo/NCIT_C121966) (Loss of INI 1 Protein Expression) 53.57%
-- Thing 53.04%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) 38.93%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40116](http://purl.obolibrary.org/obo/NCIT_C40116) (Fallopian Tube Metaplastic Papillary Tumor))) 38.93%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40114](http://purl.obolibrary.org/obo/NCIT_C40114) (Fallopian Tube Serous Cystadenofibroma))) 38.93%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40112](http://purl.obolibrary.org/obo/NCIT_C40112) (Fallopian Tube Papilloma))) 38.93%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40110](http://purl.obolibrary.org/obo/NCIT_C40110) (Borderline Fallopian Tube Endometrioid Tumor))) 38.93%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 38.93%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 38.93%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40104](http://purl.obolibrary.org/obo/NCIT_C40104) (Fallopian Tube Transitional Cell Carcinoma))) 38.93%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40103](http://purl.obolibrary.org/obo/NCIT_C40103) (Fallopian Tube Mucinous Adenocarcinoma))) 38.93%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40093](http://purl.obolibrary.org/obo/NCIT_C40093) (Ovarian Squamous Cell Carcinoma))) 38.93%
-- [NCIT:C53665](http://purl.obolibrary.org/obo/NCIT_C53665) (Intermediate Filaments Present) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 38.93%
+- [NCIT:C47816](http://purl.obolibrary.org/obo/NCIT_C47816) (Non-Neoplastic Osteoclast-Like Giant Cell) 57.14%
+- Thing 52.69%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) 42.50%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C38995](http://purl.obolibrary.org/obo/NCIT_C38995) (Angiotensin II Signaling Pathway))) 42.50%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C38992](http://purl.obolibrary.org/obo/NCIT_C38992) (Ribosomal Biogenesis Pathway))) 42.50%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C38981](http://purl.obolibrary.org/obo/NCIT_C38981) (AKT Signaling Pathway))) 42.50%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C38975](http://purl.obolibrary.org/obo/NCIT_C38975) (Agrin Pathway))) 42.50%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C38971](http://purl.obolibrary.org/obo/NCIT_C38971) (Regulation of Apoptosis Pathway))) 42.50%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C3892](http://purl.obolibrary.org/obo/NCIT_C3892) (Mu Heavy Chain Disease))) 42.50%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C38850](http://purl.obolibrary.org/obo/NCIT_C38850) (Phosphatidylinositol Signaling System Pathway))) 42.50%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C38834](http://purl.obolibrary.org/obo/NCIT_C38834) (MAPK Signaling Pathway))) 42.50%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C38829](http://purl.obolibrary.org/obo/NCIT_C38829) (Focal Adhesion Pathway))) 42.50%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C38828](http://purl.obolibrary.org/obo/NCIT_C38828) (Inositol Phosphate Metabolism Pathway))) 42.50%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C3880](http://purl.obolibrary.org/obo/NCIT_C3880) (Eyelid Nevus))) 42.50%
+- [NCIT:C36827](http://purl.obolibrary.org/obo/NCIT_C36827) (Osteoclast-Like Giant Cell) and (not ([NCIT:C38784](http://purl.obolibrary.org/obo/NCIT_C38784) (Apoptosis Pathway))) 42.50%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C39624](http://purl.obolibrary.org/obo/NCIT_C39624) (Skin Plaque) 54.17%
-- [NCIT:C39622](http://purl.obolibrary.org/obo/NCIT_C39622) (Scaly Skin Eruption) 54.17%
-- [NCIT:C3327](http://purl.obolibrary.org/obo/NCIT_C3327) (Skin Discoloration) 54.17%
-- [NCIT:C26901](http://purl.obolibrary.org/obo/NCIT_C26901) (Erythema) 54.17%
-- Thing 52.82%
-- [NCIT:C5036](http://purl.obolibrary.org/obo/NCIT_C5036) (Integumentary System Signs and Symptoms) 45.53%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 42.84%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 41.57%
-- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) 39.52%
-- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) and (not ([NCIT:C40129](http://purl.obolibrary.org/obo/NCIT_C40129) (Fallopian Tube Adenomatoid Tumor))) 39.52%
-- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) and (not ([NCIT:C40128](http://purl.obolibrary.org/obo/NCIT_C40128) (Fallopian Tube Leiomyosarcoma))) 39.52%
-- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) and (not ([NCIT:C40127](http://purl.obolibrary.org/obo/NCIT_C40127) (Fallopian Tube Leiomyoma))) 39.52%
-- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) and (not ([NCIT:C40125](http://purl.obolibrary.org/obo/NCIT_C40125) (Fallopian Tube Adenosarcoma))) 39.52%
-- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) and (not ([NCIT:C40124](http://purl.obolibrary.org/obo/NCIT_C40124) (Fallopian Tube Carcinosarcoma))) 39.52%
-- [NCIT:C39623](http://purl.obolibrary.org/obo/NCIT_C39623) (Skin Patch) and (not ([NCIT:C40122](http://purl.obolibrary.org/obo/NCIT_C40122) (Pelvic Pain))) 39.52%
+- [NCIT:C47805](http://purl.obolibrary.org/obo/NCIT_C47805) (Malignant Neuroendocrine Small Round Cell) 66.67%
+- [NCIT:C17359](http://purl.obolibrary.org/obo/NCIT_C17359) (TP53 Gene) 66.67%
+- [NCIT:C47805](http://purl.obolibrary.org/obo/NCIT_C47805) (Malignant Neuroendocrine Small Round Cell) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 66.67%
+- [NCIT:C47805](http://purl.obolibrary.org/obo/NCIT_C47805) (Malignant Neuroendocrine Small Round Cell) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 66.67%
+- [NCIT:C47805](http://purl.obolibrary.org/obo/NCIT_C47805) (Malignant Neuroendocrine Small Round Cell) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 66.67%
+- [NCIT:C47805](http://purl.obolibrary.org/obo/NCIT_C47805) (Malignant Neuroendocrine Small Round Cell) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 66.67%
+- [NCIT:C47805](http://purl.obolibrary.org/obo/NCIT_C47805) (Malignant Neuroendocrine Small Round Cell) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 66.67%
+- [NCIT:C47805](http://purl.obolibrary.org/obo/NCIT_C47805) (Malignant Neuroendocrine Small Round Cell) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 66.67%
+- [NCIT:C47805](http://purl.obolibrary.org/obo/NCIT_C47805) (Malignant Neuroendocrine Small Round Cell) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 66.67%
+- [NCIT:C47805](http://purl.obolibrary.org/obo/NCIT_C47805) (Malignant Neuroendocrine Small Round Cell) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 66.67%
+- [NCIT:C47805](http://purl.obolibrary.org/obo/NCIT_C47805) (Malignant Neuroendocrine Small Round Cell) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 66.67%
+- [NCIT:C47805](http://purl.obolibrary.org/obo/NCIT_C47805) (Malignant Neuroendocrine Small Round Cell) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 66.67%
+- [NCIT:C47805](http://purl.obolibrary.org/obo/NCIT_C47805) (Malignant Neuroendocrine Small Round Cell) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 66.67%
+- [NCIT:C47805](http://purl.obolibrary.org/obo/NCIT_C47805) (Malignant Neuroendocrine Small Round Cell) and (not ([UBERON:2001431](http://purl.obolibrary.org/obo/UBERON_2001431) (primitive olfactory epithelium))) 66.67%
+- [NCIT:C47805](http://purl.obolibrary.org/obo/NCIT_C47805) (Malignant Neuroendocrine Small Round Cell) and (not ([UBERON:2001073](http://purl.obolibrary.org/obo/UBERON_2001073) (axial vasculature))) 66.67%
 
 

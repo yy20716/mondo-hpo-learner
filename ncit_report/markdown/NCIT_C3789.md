@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36367](http://purl.obolibrary.org/obo/NCIT_C36367) (t(21;22)(q22;q12)) 55.56%
-- [NCIT:C27214](http://purl.obolibrary.org/obo/NCIT_C27214) (t(11;22)(q24;q12)) 55.56%
-- Thing 52.44%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) 40.91%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39811](http://purl.obolibrary.org/obo/NCIT_C39811) (t(5;11)(q35;q13)))) 40.91%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39810](http://purl.obolibrary.org/obo/NCIT_C39810) (Type 2 Renal Papillary Adenoma))) 40.91%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39809](http://purl.obolibrary.org/obo/NCIT_C39809) (Type 1 Renal Papillary Adenoma))) 40.91%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39808](http://purl.obolibrary.org/obo/NCIT_C39808) (Asymptomatic Mass))) 40.91%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39807](http://purl.obolibrary.org/obo/NCIT_C39807) (Mucinous Tubular and Spindle Cell Carcinoma of the Kidney))) 40.91%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39806](http://purl.obolibrary.org/obo/NCIT_C39806) (NONO-TFE3 Fusion Protein Expression))) 40.91%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39805](http://purl.obolibrary.org/obo/NCIT_C39805) (PSF-TFE3 Fusion Protein Expression))) 40.91%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39803](http://purl.obolibrary.org/obo/NCIT_C39803) (PRCC-TFE3 Fusion Protein Expression))) 40.91%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39802](http://purl.obolibrary.org/obo/NCIT_C39802) (Renal Cell Carcinoma Associated with inv(X)(p11;q12)))) 40.91%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39801](http://purl.obolibrary.org/obo/NCIT_C39801) (inv(X)(p11;q12)))) 40.91%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39800](http://purl.obolibrary.org/obo/NCIT_C39800) (Sickle Cell Trait))) 40.91%
+- [UBERON:0001707](http://purl.obolibrary.org/obo/UBERON_0001707) (nasal cavity) 62.50%
+- [NCIT:C36367](http://purl.obolibrary.org/obo/NCIT_C36367) (t(21;22)(q22;q12)) 62.50%
+- [NCIT:C27214](http://purl.obolibrary.org/obo/NCIT_C27214) (t(11;22)(q24;q12)) 62.50%
+- Thing 52.03%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) 47.86%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C39006](http://purl.obolibrary.org/obo/NCIT_C39006) (Bioactive Peptide Signaling Pathway))) 47.86%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C39004](http://purl.obolibrary.org/obo/NCIT_C39004) (B-Cell Survival Pathway))) 47.86%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C38999](http://purl.obolibrary.org/obo/NCIT_C38999) (BARD1 Pathway))) 47.86%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C38998](http://purl.obolibrary.org/obo/NCIT_C38998) (BAD Regulation Pathway))) 47.86%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C38997](http://purl.obolibrary.org/obo/NCIT_C38997) (Cancer Susceptibility Pathway))) 47.86%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C38996](http://purl.obolibrary.org/obo/NCIT_C38996) (ATM Signaling Pathway))) 47.86%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C38995](http://purl.obolibrary.org/obo/NCIT_C38995) (Angiotensin II Signaling Pathway))) 47.86%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C38992](http://purl.obolibrary.org/obo/NCIT_C38992) (Ribosomal Biogenesis Pathway))) 47.86%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C38981](http://purl.obolibrary.org/obo/NCIT_C38981) (AKT Signaling Pathway))) 47.86%
+- [UBERON:0001825](http://purl.obolibrary.org/obo/UBERON_0001825) (paranasal sinus) and (not ([NCIT:C38975](http://purl.obolibrary.org/obo/NCIT_C38975) (Agrin Pathway))) 47.86%
 
 

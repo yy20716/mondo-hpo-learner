@@ -17,7 +17,7 @@
 - [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 53.64%
 - [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 53.27%
 - [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 53.26%
-- Thing 51.41%
+- Thing 51.76%
 - [UBERON:0000020](http://purl.obolibrary.org/obo/UBERON_0000020) (sense organ) 45.53%
 - [UBERON:0000020](http://purl.obolibrary.org/obo/UBERON_0000020) (sense organ) and [UBERON:0010314](http://purl.obolibrary.org/obo/UBERON_0010314) (structure with developmental contribution from neural crest) 45.53%
 - [UBERON:0010314](http://purl.obolibrary.org/obo/UBERON_0010314) (structure with developmental contribution from neural crest) 43.43%

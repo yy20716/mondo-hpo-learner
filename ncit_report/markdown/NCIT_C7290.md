@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) 62.50%
-- [NCIT:C36601](http://purl.obolibrary.org/obo/NCIT_C36601) (Tetrasomy) and (not ([NCIT:C37867](http://purl.obolibrary.org/obo/NCIT_C37867) (Tetrasomy 7))) 62.50%
-- Thing 51.63%
-- [NCIT:C36601](http://purl.obolibrary.org/obo/NCIT_C36601) (Tetrasomy) 47.86%
-- [NCIT:C36601](http://purl.obolibrary.org/obo/NCIT_C36601) (Tetrasomy) and (not ([NCIT:C40150](http://purl.obolibrary.org/obo/NCIT_C40150) (Grade 2 Endometrial Mucinous Adenocarcinoma))) 47.86%
-- [NCIT:C36601](http://purl.obolibrary.org/obo/NCIT_C36601) (Tetrasomy) and (not ([NCIT:C40149](http://purl.obolibrary.org/obo/NCIT_C40149) (Grade 1 Endometrial Mucinous Adenocarcinoma))) 47.86%
-- [NCIT:C36601](http://purl.obolibrary.org/obo/NCIT_C36601) (Tetrasomy) and (not ([NCIT:C40148](http://purl.obolibrary.org/obo/NCIT_C40148) (Grade 3 Endometrial Endometrioid Adenocarcinoma))) 47.86%
-- [NCIT:C36601](http://purl.obolibrary.org/obo/NCIT_C36601) (Tetrasomy) and (not ([NCIT:C40147](http://purl.obolibrary.org/obo/NCIT_C40147) (Grade 2 Endometrial Endometrioid Adenocarcinoma))) 47.86%
-- [NCIT:C36601](http://purl.obolibrary.org/obo/NCIT_C36601) (Tetrasomy) and (not ([NCIT:C40146](http://purl.obolibrary.org/obo/NCIT_C40146) (Grade 1 Endometrial Endometrioid Adenocarcinoma))) 47.86%
-- [NCIT:C36601](http://purl.obolibrary.org/obo/NCIT_C36601) (Tetrasomy) and (not ([NCIT:C40142](http://purl.obolibrary.org/obo/NCIT_C40142) (Uterine Ligament Papillary Cystadenoma Associated with von Hippel-Lindau Disease))) 47.86%
-- [NCIT:C36601](http://purl.obolibrary.org/obo/NCIT_C36601) (Tetrasomy) and (not ([NCIT:C40141](http://purl.obolibrary.org/obo/NCIT_C40141) (Wolffian Adnexal Tumor))) 47.86%
-- [NCIT:C36601](http://purl.obolibrary.org/obo/NCIT_C36601) (Tetrasomy) and (not ([NCIT:C40139](http://purl.obolibrary.org/obo/NCIT_C40139) (Uterine Ligament Clear Cell Adenocarcinoma))) 47.86%
-- [NCIT:C36601](http://purl.obolibrary.org/obo/NCIT_C36601) (Tetrasomy) and (not ([NCIT:C40138](http://purl.obolibrary.org/obo/NCIT_C40138) (Uterine Ligament Endometrioid Adenocarcinoma))) 47.86%
-- [NCIT:C36601](http://purl.obolibrary.org/obo/NCIT_C36601) (Tetrasomy) and (not ([NCIT:C40137](http://purl.obolibrary.org/obo/NCIT_C40137) (Uterine Ligament Mucinous Adenocarcinoma))) 47.86%
-- [NCIT:C36601](http://purl.obolibrary.org/obo/NCIT_C36601) (Tetrasomy) and (not ([NCIT:C40129](http://purl.obolibrary.org/obo/NCIT_C40129) (Fallopian Tube Adenomatoid Tumor))) 47.86%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) 66.67%
+- [NCIT:C36601](http://purl.obolibrary.org/obo/NCIT_C36601) (Tetrasomy) and (not ([NCIT:C37867](http://purl.obolibrary.org/obo/NCIT_C37867) (Tetrasomy 7))) 66.67%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 66.67%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 66.67%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) and (not ([UBERON:4100000](http://purl.obolibrary.org/obo/UBERON_4100000) (skeletal element projection))) 66.67%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 66.67%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 66.67%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 66.67%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 66.67%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 66.67%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 66.67%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 66.67%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 66.67%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 66.67%
+- [NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12) and (not ([UBERON:2001431](http://purl.obolibrary.org/obo/UBERON_2001431) (primitive olfactory epithelium))) 66.67%
 
 

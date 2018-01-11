@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.73%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 42.60%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 40.97%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) 37.74%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39901](http://purl.obolibrary.org/obo/NCIT_C39901) (Prostatic Duct Urothelial Carcinoma))) 37.74%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39899](http://purl.obolibrary.org/obo/NCIT_C39899) (Secondary Prostate Urothelial Carcinoma))) 37.74%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39897](http://purl.obolibrary.org/obo/NCIT_C39897) (Prostate Ductal Adenocarcinoma, Solid Pattern))) 37.74%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39896](http://purl.obolibrary.org/obo/NCIT_C39896) (Prostate Ductal Adenocarcinoma, Papillary Pattern))) 37.74%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39895](http://purl.obolibrary.org/obo/NCIT_C39895) (Prostate Ductal Adenocarcinoma, Cribriform Pattern))) 37.74%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C3989](http://purl.obolibrary.org/obo/NCIT_C3989) (Parathyroid Hyperplasia))) 37.74%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39885](http://purl.obolibrary.org/obo/NCIT_C39885) (Acinar Prostate Adenocarcinoma, Lymphoepithelioma-Like Variant))) 37.74%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39880](http://purl.obolibrary.org/obo/NCIT_C39880) (Acinar Prostate Adenocarcinoma, Atrophic Variant))) 37.74%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39875](http://purl.obolibrary.org/obo/NCIT_C39875) (Loss of Chromosome 9q))) 37.74%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39874](http://purl.obolibrary.org/obo/NCIT_C39874) (Urethral Verrucous Carcinoma))) 37.74%
-- [NCIT:C41458](http://purl.obolibrary.org/obo/NCIT_C41458) (Slow Growing Mass) and (not ([NCIT:C39873](http://purl.obolibrary.org/obo/NCIT_C39873) (Urethral Glandular Metaplasia))) 37.74%
+- [NCIT:C41835](http://purl.obolibrary.org/obo/NCIT_C41835) (Neoplastic Small Neuroepithelial Cell) 75.00%
+- [UBERON:0034907](http://purl.obolibrary.org/obo/UBERON_0034907) (pineal parenchyma) 58.33%
+- [UBERON:0005158](http://purl.obolibrary.org/obo/UBERON_0005158) (parenchyma of central nervous system) 58.33%
+- [UBERON:0001905](http://purl.obolibrary.org/obo/UBERON_0001905) (pineal body) 58.33%
+- [NCIT:C41837](http://purl.obolibrary.org/obo/NCIT_C41837) (Neoplastic Small Mature Neuroepithelial Cell) 58.33%
+- [NCIT:C41836](http://purl.obolibrary.org/obo/NCIT_C41836) (Neoplastic Small Immature Neuroepithelial Cell) 58.33%
+- [CL:0000652](http://purl.obolibrary.org/obo/CL_0000652) (pinealocyte) 58.33%
+- Thing 52.49%
+- [UBERON:0010134](http://purl.obolibrary.org/obo/UBERON_0010134) (secretory circumventricular organ) 43.69%
+- [UBERON:0005408](http://purl.obolibrary.org/obo/UBERON_0005408) (circumventricular organ) 43.69%
+- [UBERON:0003296](http://purl.obolibrary.org/obo/UBERON_0003296) (gland of diencephalon) and [UBERON:0010134](http://purl.obolibrary.org/obo/UBERON_0010134) (secretory circumventricular organ) 43.69%
+- [UBERON:0010134](http://purl.obolibrary.org/obo/UBERON_0010134) (secretory circumventricular organ) and (not ([NCIT:C39651](http://purl.obolibrary.org/obo/NCIT_C39651) (Proliferation of High Endothelial Venules Present))) 43.69%
+- [UBERON:0010134](http://purl.obolibrary.org/obo/UBERON_0010134) (secretory circumventricular organ) and (not ([NCIT:C39646](http://purl.obolibrary.org/obo/NCIT_C39646) (Erythroderma))) 43.69%
+- [UBERON:0010134](http://purl.obolibrary.org/obo/UBERON_0010134) (secretory circumventricular organ) and (not ([NCIT:C39640](http://purl.obolibrary.org/obo/NCIT_C39640) (Mucinous Degeneration))) 43.69%
+- [UBERON:0010134](http://purl.obolibrary.org/obo/UBERON_0010134) (secretory circumventricular organ) and (not ([NCIT:C39629](http://purl.obolibrary.org/obo/NCIT_C39629) (CDKN2A Gene Inactivation))) 43.69%
 
 

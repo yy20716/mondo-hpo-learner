@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C37935](http://purl.obolibrary.org/obo/NCIT_C37935) (Cough) 55.00%
-- [NCIT:C3676](http://purl.obolibrary.org/obo/NCIT_C3676) (Alteration in Respiration) 55.00%
-- [NCIT:C36704](http://purl.obolibrary.org/obo/NCIT_C36704) (FHIT Gene Inactivation) 55.00%
-- [NCIT:C36695](http://purl.obolibrary.org/obo/NCIT_C36695) (LKB1 Gene Inactivation) 55.00%
-- [NCIT:C36683](http://purl.obolibrary.org/obo/NCIT_C36683) (APC Gene Inactivation) 55.00%
-- [NCIT:C36665](http://purl.obolibrary.org/obo/NCIT_C36665) (KRAS Gene Amplification) 55.00%
-- [NCIT:C3094](http://purl.obolibrary.org/obo/NCIT_C3094) (Hemoptysis) 55.00%
-- [NCIT:C2998](http://purl.obolibrary.org/obo/NCIT_C2998) (Dyspnea) 55.00%
-- [CL:0002632](http://purl.obolibrary.org/obo/CL_0002632) (epithelial cell of lower respiratory tract) 55.00%
-- [CL:0002368](http://purl.obolibrary.org/obo/CL_0002368) (respiratory epithelial cell) 55.00%
-- [CL:0002328](http://purl.obolibrary.org/obo/CL_0002328) (bronchial epithelial cell) 55.00%
-- [CL:0002202](http://purl.obolibrary.org/obo/CL_0002202) (epithelial cell of tracheobronchial tree) 55.00%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C35292](http://purl.obolibrary.org/obo/NCIT_C35292) (Low Grade Fever))) 55.00%
-- Thing 52.57%
-- [NCIT:C85403](http://purl.obolibrary.org/obo/NCIT_C85403) (Respiratory System Signs and Symptoms) 45.36%
+- [UBERON:0002031](http://purl.obolibrary.org/obo/UBERON_0002031) (epithelium of bronchus) 58.33%
+- [NCIT:C36704](http://purl.obolibrary.org/obo/NCIT_C36704) (FHIT Gene Inactivation) 58.33%
+- [NCIT:C36695](http://purl.obolibrary.org/obo/NCIT_C36695) (LKB1 Gene Inactivation) 58.33%
+- [NCIT:C36683](http://purl.obolibrary.org/obo/NCIT_C36683) (APC Gene Inactivation) 58.33%
+- [NCIT:C36665](http://purl.obolibrary.org/obo/NCIT_C36665) (KRAS Gene Amplification) 58.33%
+- [CL:0002632](http://purl.obolibrary.org/obo/CL_0002632) (epithelial cell of lower respiratory tract) 58.33%
+- [CL:0002368](http://purl.obolibrary.org/obo/CL_0002368) (respiratory epithelial cell) 58.33%
+- [CL:0002328](http://purl.obolibrary.org/obo/CL_0002328) (bronchial epithelial cell) 58.33%
+- [CL:0002202](http://purl.obolibrary.org/obo/CL_0002202) (epithelial cell of tracheobronchial tree) 58.33%
+- Thing 52.49%
+- [NCIT:C36334](http://purl.obolibrary.org/obo/NCIT_C36334) (Tumor-Suppressor Gene Inactivation) 43.90%
+- [NCIT:C36327](http://purl.obolibrary.org/obo/NCIT_C36327) (Gene Abnormality) 41.58%
+- [NCIT:C36391](http://purl.obolibrary.org/obo/NCIT_C36391) (Molecular Genetic Variation) 40.61%
+- [NCIT:C97926](http://purl.obolibrary.org/obo/NCIT_C97926) (Molecular Sequence Variation) 40.40%
+- [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 37.76%
 
 

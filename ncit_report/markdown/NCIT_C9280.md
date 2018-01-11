@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C45212](http://purl.obolibrary.org/obo/NCIT_C45212) (PDCD1LG2 Gene Overexpression) 54.17%
-- [NCIT:C39715](http://purl.obolibrary.org/obo/NCIT_C39715) (CD30-Positive Neoplastic Cells Present) 54.17%
-- [NCIT:C38660](http://purl.obolibrary.org/obo/NCIT_C38660) (Neoplastic Large B-Lymphocyte with Pale Cytoplasm) 54.17%
-- [NCIT:C38329](http://purl.obolibrary.org/obo/NCIT_C38329) (Thymic B-Lymphocyte) 54.17%
-- [NCIT:C36593](http://purl.obolibrary.org/obo/NCIT_C36593) (Increased NFkappaB Pathway Activation) 54.17%
-- [NCIT:C36442](http://purl.obolibrary.org/obo/NCIT_C36442) (Clonal BCL2 Gene Rearrangement) 54.17%
-- [NCIT:C36440](http://purl.obolibrary.org/obo/NCIT_C36440) (Gain of Chromosome 9p) 54.17%
-- [NCIT:C36103](http://purl.obolibrary.org/obo/NCIT_C36103) (Rapidly Enlarging Mass) 54.17%
-- [NCIT:C3396](http://purl.obolibrary.org/obo/NCIT_C3396) (Superior Vena Cava Syndrome) 54.17%
-- [NCIT:C13225](http://purl.obolibrary.org/obo/NCIT_C13225) (Chromosome 9) 54.17%
-- [NCIT:C132019](http://purl.obolibrary.org/obo/NCIT_C132019) (BCL2 Gene Rearrangement) and [NCIT:C36333](http://purl.obolibrary.org/obo/NCIT_C36333) (Clonal Gene Rearrangement) 54.17%
-- Thing 52.82%
-- [NCIT:C82325](http://purl.obolibrary.org/obo/NCIT_C82325) (Signaling Pathway Status) 33.03%
-- [NCIT:C36162](http://purl.obolibrary.org/obo/NCIT_C36162) (Localized Disease) 33.03%
-- [NCIT:C132019](http://purl.obolibrary.org/obo/NCIT_C132019) (BCL2 Gene Rearrangement) 33.03%
+- [NCIT:C45212](http://purl.obolibrary.org/obo/NCIT_C45212) (PDCD1LG2 Gene Overexpression) 58.33%
+- [NCIT:C38660](http://purl.obolibrary.org/obo/NCIT_C38660) (Neoplastic Large B-Lymphocyte with Pale Cytoplasm) 58.33%
+- [NCIT:C38329](http://purl.obolibrary.org/obo/NCIT_C38329) (Thymic B-Lymphocyte) 58.33%
+- [NCIT:C36442](http://purl.obolibrary.org/obo/NCIT_C36442) (Clonal BCL2 Gene Rearrangement) 58.33%
+- [NCIT:C36440](http://purl.obolibrary.org/obo/NCIT_C36440) (Gain of Chromosome 9p) 58.33%
+- [NCIT:C13225](http://purl.obolibrary.org/obo/NCIT_C13225) (Chromosome 9) 58.33%
+- [NCIT:C132019](http://purl.obolibrary.org/obo/NCIT_C132019) (BCL2 Gene Rearrangement) and [NCIT:C36333](http://purl.obolibrary.org/obo/NCIT_C36333) (Clonal Gene Rearrangement) 58.33%
+- Thing 52.49%
+- [NCIT:C132019](http://purl.obolibrary.org/obo/NCIT_C132019) (BCL2 Gene Rearrangement) 37.20%
+- [NCIT:C3910](http://purl.obolibrary.org/obo/NCIT_C3910) (Molecular Abnormality) 28.83%
+- [NCIT:C36333](http://purl.obolibrary.org/obo/NCIT_C36333) (Clonal Gene Rearrangement) 22.77%
+- [NCIT:C36327](http://purl.obolibrary.org/obo/NCIT_C36327) (Gene Abnormality) 22.50%
+- [NCIT:C36391](http://purl.obolibrary.org/obo/NCIT_C36391) (Molecular Genetic Variation) 21.81%
+- [NCIT:C97926](http://purl.obolibrary.org/obo/NCIT_C97926) (Molecular Sequence Variation) 21.67%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 19.33%
 
 

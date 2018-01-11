@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0002358](http://purl.obolibrary.org/obo/UBERON_0002358) (peritoneum) 62.50%
-- [NCIT:C38674](http://purl.obolibrary.org/obo/NCIT_C38674) (Widespread Disease) 62.50%
-- [NCIT:C36122](http://purl.obolibrary.org/obo/NCIT_C36122) (Benign Cellular Infiltrate) 62.50%
-- Thing 51.63%
-- [UBERON:0000042](http://purl.obolibrary.org/obo/UBERON_0000042) (serous membrane) 37.50%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 27.52%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 26.92%
-- [NCIT:C42077](http://purl.obolibrary.org/obo/NCIT_C42077) (Cellular Infiltrate) 24.29%
-- [NCIT:C35461](http://purl.obolibrary.org/obo/NCIT_C35461) (Clinical Course of Disease) 21.20%
-- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) 15.73%
-- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 15.06%
-- [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) 14.98%
-- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 14.96%
-- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 14.86%
-- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 14.60%
+- [UBERON:0002358](http://purl.obolibrary.org/obo/UBERON_0002358) (peritoneum) 75.00%
+- Thing 51.44%
+- [UBERON:0000042](http://purl.obolibrary.org/obo/UBERON_0000042) (serous membrane) 50.00%
+- [UBERON:0000481](http://purl.obolibrary.org/obo/UBERON_0000481) (multi-tissue structure) 35.21%
+- [UBERON:0004120](http://purl.obolibrary.org/obo/UBERON_0004120) (mesoderm-derived structure) 30.56%
+- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) 28.23%
+- [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) 27.48%
+- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 27.46%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 27.39%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 27.37%
+- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 27.36%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 27.13%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 27.10%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 26.89%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 26.88%
 
 

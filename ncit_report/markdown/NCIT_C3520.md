@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0003728](http://purl.obolibrary.org/obo/UBERON_0003728) (mediastinum) 54.55%
-- [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) (prostate gland) 54.55%
-- [UBERON:0000948](http://purl.obolibrary.org/obo/UBERON_0000948) (heart) 54.55%
-- [NCIT:C43229](http://purl.obolibrary.org/obo/NCIT_C43229) (Primitive Bone Marrow Myeloid Stem Cell) 54.55%
-- [NCIT:C37181](http://purl.obolibrary.org/obo/NCIT_C37181) (Neoplastic Monoblast) 54.55%
-- [NCIT:C36373](http://purl.obolibrary.org/obo/NCIT_C36373) (inv(16)(p13.1;q22)) 54.55%
-- [NCIT:C27759](http://purl.obolibrary.org/obo/NCIT_C27759) (t(16;16)(p13.1;q22)) 54.55%
-- [NCIT:C13395](http://purl.obolibrary.org/obo/NCIT_C13395) (t(8;21)(q22;q22)) 54.55%
-- [UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure) and [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) 54.55%
-- [UBERON:0000077](http://purl.obolibrary.org/obo/UBERON_0000077) (mixed endoderm/mesoderm-derived structure) and [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) 54.55%
-- Thing 52.70%
-- [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) 39.90%
-- [UBERON:0004120](http://purl.obolibrary.org/obo/UBERON_0004120) (mesoderm-derived structure) and [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) 39.90%
-- [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) and (not ([NCIT:C38176](http://purl.obolibrary.org/obo/NCIT_C38176) (BCL2 Gene Translocation))) 39.90%
-- [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) and (not ([NCIT:C38175](http://purl.obolibrary.org/obo/NCIT_C38175) (CD44 Messenger RNA Overexpression))) 39.90%
+- [UBERON:0003728](http://purl.obolibrary.org/obo/UBERON_0003728) (mediastinum) 55.00%
+- [UBERON:0002367](http://purl.obolibrary.org/obo/UBERON_0002367) (prostate gland) 55.00%
+- [UBERON:0000948](http://purl.obolibrary.org/obo/UBERON_0000948) (heart) 55.00%
+- [NCIT:C43229](http://purl.obolibrary.org/obo/NCIT_C43229) (Primitive Bone Marrow Myeloid Stem Cell) 55.00%
+- [NCIT:C37181](http://purl.obolibrary.org/obo/NCIT_C37181) (Neoplastic Monoblast) 55.00%
+- [NCIT:C36373](http://purl.obolibrary.org/obo/NCIT_C36373) (inv(16)(p13.1;q22)) 55.00%
+- [NCIT:C27759](http://purl.obolibrary.org/obo/NCIT_C27759) (t(16;16)(p13.1;q22)) 55.00%
+- [NCIT:C13395](http://purl.obolibrary.org/obo/NCIT_C13395) (t(8;21)(q22;q22)) 55.00%
+- [UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure) and [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) 55.00%
+- [UBERON:0000077](http://purl.obolibrary.org/obo/UBERON_0000077) (mixed endoderm/mesoderm-derived structure) and [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) 55.00%
+- Thing 53.22%
+- [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) 40.36%
+- [UBERON:0004120](http://purl.obolibrary.org/obo/UBERON_0004120) (mesoderm-derived structure) and [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) 40.36%
+- [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) and (not ([NCIT:C36733](http://purl.obolibrary.org/obo/NCIT_C36733) (Sea-Blue Histiocyte))) 40.36%
+- [UBERON:0010147](http://purl.obolibrary.org/obo/UBERON_0010147) (male accessory sex gland) and (not ([NCIT:C36732](http://purl.obolibrary.org/obo/NCIT_C36732) (Touton Giant Cell))) 40.36%
 
 

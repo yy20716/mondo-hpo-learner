@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.45%
-- [NCIT:C60643](http://purl.obolibrary.org/obo/NCIT_C60643) (Adulthood Lesion) 52.78%
-- [NCIT:C48902](http://purl.obolibrary.org/obo/NCIT_C48902) (Painful Mass) 52.78%
-- [NCIT:C41051](http://purl.obolibrary.org/obo/NCIT_C41051) (Solitary Mass) 52.78%
-- [NCIT:C36130](http://purl.obolibrary.org/obo/NCIT_C36130) (Low Grade Lesion) 52.78%
-- [NCIT:C36116](http://purl.obolibrary.org/obo/NCIT_C36116) (Borderline Lesion) 52.78%
-- [NCIT:C24844](http://purl.obolibrary.org/obo/NCIT_C24844) (WWTR1 Gene) 52.78%
-- [NCIT:C121672](http://purl.obolibrary.org/obo/NCIT_C121672) (WWTR1/CAMTA1 Fusion Gene) 52.78%
-- [NCIT:C101440](http://purl.obolibrary.org/obo/NCIT_C101440) (CAMTA1 Gene) 52.78%
-- [NCIT:C60644](http://purl.obolibrary.org/obo/NCIT_C60644) (Childhood Lesion) 38.13%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) 38.13%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C37206](http://purl.obolibrary.org/obo/NCIT_C37206) (Small Lymphocytic Lymphoma with Unmutated Immunoglobulin Heavy Chain Variable-Region Gene))) 38.13%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C37205](http://purl.obolibrary.org/obo/NCIT_C37205) (Chronic Lymphocytic Leukemia with Unmutated Immunoglobulin Heavy Chain Variable-Region Gene))) 38.13%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C37203](http://purl.obolibrary.org/obo/NCIT_C37203) (Small Lymphocytic Lymphoma with Immunoglobulin Heavy Chain Variable-Region Gene Somatic Hypermutation))) 38.13%
-- [NCIT:C42624](http://purl.obolibrary.org/obo/NCIT_C42624) (Premalignant Lesion) and (not ([NCIT:C37202](http://purl.obolibrary.org/obo/NCIT_C37202) (Chronic Lymphocytic Leukemia with Immunoglobulin Heavy Chain Variable-Region Gene Somatic Hypermutation))) 38.13%
+- [UBERON:0002402](http://purl.obolibrary.org/obo/UBERON_0002402) (pleural cavity) 55.56%
+- [NCIT:C24844](http://purl.obolibrary.org/obo/NCIT_C24844) (WWTR1 Gene) 55.56%
+- [NCIT:C121672](http://purl.obolibrary.org/obo/NCIT_C121672) (WWTR1/CAMTA1 Fusion Gene) 55.56%
+- [NCIT:C101440](http://purl.obolibrary.org/obo/NCIT_C101440) (CAMTA1 Gene) 55.56%
+- Thing 53.05%
+- [UBERON:0035809](http://purl.obolibrary.org/obo/UBERON_0035809) (serous cavity) 40.91%
+- [UBERON:0035809](http://purl.obolibrary.org/obo/UBERON_0035809) (serous cavity) and (not ([NCIT:C36812](http://purl.obolibrary.org/obo/NCIT_C36812) (Warthin-Finkeldey Polykaryocyte))) 40.91%
+- [UBERON:0035809](http://purl.obolibrary.org/obo/UBERON_0035809) (serous cavity) and (not ([NCIT:C36791](http://purl.obolibrary.org/obo/NCIT_C36791) (Keratinizing Malignant Squamous Cell))) 40.91%
+- [UBERON:0035809](http://purl.obolibrary.org/obo/UBERON_0035809) (serous cavity) and (not ([NCIT:C36783](http://purl.obolibrary.org/obo/NCIT_C36783) (Malignant Non-Cutaneous Basaloid Cell))) 40.91%
+- [UBERON:0035809](http://purl.obolibrary.org/obo/UBERON_0035809) (serous cavity) and (not ([NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell))) 40.91%
+- [UBERON:0035809](http://purl.obolibrary.org/obo/UBERON_0035809) (serous cavity) and (not ([NCIT:C3678](http://purl.obolibrary.org/obo/NCIT_C3678) (Salivary Gland Basal Cell Adenocarcinoma))) 40.91%
+- [UBERON:0035809](http://purl.obolibrary.org/obo/UBERON_0035809) (serous cavity) and (not ([NCIT:C36777](http://purl.obolibrary.org/obo/NCIT_C36777) (Signet Ring Adenocarcinoma Cell))) 40.91%
+- [UBERON:0035809](http://purl.obolibrary.org/obo/UBERON_0035809) (serous cavity) and (not ([NCIT:C36775](http://purl.obolibrary.org/obo/NCIT_C36775) (Malignant Spindle Squamous Cell))) 40.91%
+- [UBERON:0035809](http://purl.obolibrary.org/obo/UBERON_0035809) (serous cavity) and (not ([NCIT:C36754](http://purl.obolibrary.org/obo/NCIT_C36754) (Paget Cell))) 40.91%
+- [UBERON:0035809](http://purl.obolibrary.org/obo/UBERON_0035809) (serous cavity) and (not ([NCIT:C36749](http://purl.obolibrary.org/obo/NCIT_C36749) (Neoplastic Keratinocyte))) 40.91%
 
 

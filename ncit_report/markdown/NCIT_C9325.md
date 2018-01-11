@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.35%
-- [NCIT:C48358](http://purl.obolibrary.org/obo/NCIT_C48358) (Adrenal Cortical Cell) 52.94%
-- [NCIT:C34615](http://purl.obolibrary.org/obo/NCIT_C34615) (Flank Pain) 52.94%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C35292](http://purl.obolibrary.org/obo/NCIT_C35292) (Low Grade Fever))) 52.94%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) 38.30%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39786](http://purl.obolibrary.org/obo/NCIT_C39786) (Bilateral Disease))) 38.30%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39783](http://purl.obolibrary.org/obo/NCIT_C39783) (Retinal Hemangioblastoma))) 38.30%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39752](http://purl.obolibrary.org/obo/NCIT_C39752) (Refractory Disease))) 38.30%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39751](http://purl.obolibrary.org/obo/NCIT_C39751) (Glioblastoma, IDH-Mutant))) 38.30%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39748](http://purl.obolibrary.org/obo/NCIT_C39748) (Lymphoblast-Like Neoplastic B-Lymphocyte))) 38.30%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39747](http://purl.obolibrary.org/obo/NCIT_C39747) (Pleomorphic Variant Mantle Cell Lymphoma))) 38.30%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39743](http://purl.obolibrary.org/obo/NCIT_C39743) (Fascicular Pattern))) 38.30%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39741](http://purl.obolibrary.org/obo/NCIT_C39741) (Retroperitoneal Inflammatory Myofibroblastic Tumor))) 38.30%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39740](http://purl.obolibrary.org/obo/NCIT_C39740) (Lung Inflammatory Myofibroblastic Tumor))) 38.30%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39739](http://purl.obolibrary.org/obo/NCIT_C39739) (Negative Peripheral Blood))) 38.30%
+- [UBERON:0006858](http://purl.obolibrary.org/obo/UBERON_0006858) (adrenal/interrenal gland) 58.33%
+- [UBERON:0002369](http://purl.obolibrary.org/obo/UBERON_0002369) (adrenal gland) 58.33%
+- [UBERON:0001235](http://purl.obolibrary.org/obo/UBERON_0001235) (adrenal cortex) 58.33%
+- [NCIT:C48358](http://purl.obolibrary.org/obo/NCIT_C48358) (Adrenal Cortical Cell) 58.33%
+- [UBERON:0001851](http://purl.obolibrary.org/obo/UBERON_0001851) (cortex) and [UBERON:0010314](http://purl.obolibrary.org/obo/UBERON_0010314) (structure with developmental contribution from neural crest) 58.33%
+- [UBERON:0001851](http://purl.obolibrary.org/obo/UBERON_0001851) (cortex) and [UBERON:0010313](http://purl.obolibrary.org/obo/UBERON_0010313) (neural crest-derived structure) 58.33%
+- [UBERON:0001851](http://purl.obolibrary.org/obo/UBERON_0001851) (cortex) and [UBERON:0004121](http://purl.obolibrary.org/obo/UBERON_0004121) (ectoderm-derived structure) 58.33%
+- [UBERON:0001851](http://purl.obolibrary.org/obo/UBERON_0001851) (cortex) and [UBERON:0004120](http://purl.obolibrary.org/obo/UBERON_0004120) (mesoderm-derived structure) 58.33%
+- Thing 52.49%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 45.88%
+- [NCIT:C33923](http://purl.obolibrary.org/obo/NCIT_C33923) (Glandular Cell) 43.39%
+- [UBERON:0001851](http://purl.obolibrary.org/obo/UBERON_0001851) (cortex) 37.20%
+- [UBERON:0006799](http://purl.obolibrary.org/obo/UBERON_0006799) (glandular epithelium) 33.33%
+- [CL:0000163](http://purl.obolibrary.org/obo/CL_0000163) (endocrine cell) and [NCIT:C33923](http://purl.obolibrary.org/obo/NCIT_C33923) (Glandular Cell) 33.33%
+- [CL:0000151](http://purl.obolibrary.org/obo/CL_0000151) (secretory cell) and [NCIT:C33923](http://purl.obolibrary.org/obo/NCIT_C33923) (Glandular Cell) 33.33%
 
 

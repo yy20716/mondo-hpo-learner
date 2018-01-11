@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C38721](http://purl.obolibrary.org/obo/NCIT_C38721) (Nuclear Pleomorphism) 54.17%
-- [NCIT:C36117](http://purl.obolibrary.org/obo/NCIT_C36117) (Invasive Lesion) 54.17%
-- [NCIT:C34661](http://purl.obolibrary.org/obo/NCIT_C34661) (Headache) 54.17%
-- [NCIT:C3442](http://purl.obolibrary.org/obo/NCIT_C3442) (Vomiting) 54.17%
-- Thing 52.82%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 41.57%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) 39.52%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39600](http://purl.obolibrary.org/obo/NCIT_C39600) (Neoplastic Medium-Sized T-Lymphocyte))) 39.52%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39598](http://purl.obolibrary.org/obo/NCIT_C39598) (CEBPA Gene))) 39.52%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39597](http://purl.obolibrary.org/obo/NCIT_C39597) (PRKCB Gene))) 39.52%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39596](http://purl.obolibrary.org/obo/NCIT_C39596) (CCND2 Gene))) 39.52%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39594](http://purl.obolibrary.org/obo/NCIT_C39594) (Skin Rash))) 39.52%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39593](http://purl.obolibrary.org/obo/NCIT_C39593) (Peripheral Blood Involvement))) 39.52%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39589](http://purl.obolibrary.org/obo/NCIT_C39589) (Angioinvasion))) 39.52%
-- [NCIT:C35960](http://purl.obolibrary.org/obo/NCIT_C35960) (High Mitotic Activity) and (not ([NCIT:C39588](http://purl.obolibrary.org/obo/NCIT_C39588) (Serum Soluble Fas Ligand Level Increased))) 39.52%
+- [UBERON:0003911](http://purl.obolibrary.org/obo/UBERON_0003911) (choroid plexus epithelium) 66.67%
+- [UBERON:0004086](http://purl.obolibrary.org/obo/UBERON_0004086) (brain ventricle) and (not ([UBERON:0010314](http://purl.obolibrary.org/obo/UBERON_0010314) (structure with developmental contribution from neural crest))) 66.67%
+- [UBERON:0004086](http://purl.obolibrary.org/obo/UBERON_0004086) (brain ventricle) and (not ([UBERON:0002422](http://purl.obolibrary.org/obo/UBERON_0002422) (fourth ventricle))) 52.02%
+- Thing 51.76%
+- [UBERON:0004086](http://purl.obolibrary.org/obo/UBERON_0004086) (brain ventricle) 45.53%
+- [UBERON:0003947](http://purl.obolibrary.org/obo/UBERON_0003947) (brain ventricle/choroid plexus) 45.53%
+- [UBERON:0003947](http://purl.obolibrary.org/obo/UBERON_0003947) (brain ventricle/choroid plexus) and [UBERON:0004923](http://purl.obolibrary.org/obo/UBERON_0004923) (organ component layer) 45.53%
+- [UBERON:0000064](http://purl.obolibrary.org/obo/UBERON_0000064) (organ part) and [UBERON:0003947](http://purl.obolibrary.org/obo/UBERON_0003947) (brain ventricle/choroid plexus) 45.53%
+- [UBERON:0004121](http://purl.obolibrary.org/obo/UBERON_0004121) (ectoderm-derived structure) 41.44%
+- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 36.81%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 36.71%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 36.69%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 36.34%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 36.31%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 36.00%
 
 

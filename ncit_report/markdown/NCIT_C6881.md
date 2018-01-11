@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0004820](http://purl.obolibrary.org/obo/UBERON_0004820) (bile duct epithelium) 63.64%
-- [UBERON:0004823](http://purl.obolibrary.org/obo/UBERON_0004823) (intrahepatic bile duct epithelium) 54.55%
-- [UBERON:0004822](http://purl.obolibrary.org/obo/UBERON_0004822) (extrahepatic bile duct epithelium) 54.55%
-- Thing 52.70%
-- [UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure) 44.10%
-- [UBERON:0002394](http://purl.obolibrary.org/obo/UBERON_0002394) (bile duct) 41.02%
-- [UBERON:0003704](http://purl.obolibrary.org/obo/UBERON_0003704) (intrahepatic bile duct) and (not ([UBERON:0035050](http://purl.obolibrary.org/obo/UBERON_0035050) (excretory duct))) 39.90%
-- [UBERON:0003704](http://purl.obolibrary.org/obo/UBERON_0003704) (intrahepatic bile duct) and (not ([UBERON:0014716](http://purl.obolibrary.org/obo/UBERON_0014716) (interlobular duct))) 39.90%
-- [UBERON:0003704](http://purl.obolibrary.org/obo/UBERON_0003704) (intrahepatic bile duct) and (not ([UBERON:0001282](http://purl.obolibrary.org/obo/UBERON_0001282) (intralobular bile duct))) 39.90%
-- [UBERON:0003704](http://purl.obolibrary.org/obo/UBERON_0003704) (intrahepatic bile duct) and (not ([UBERON:0001246](http://purl.obolibrary.org/obo/UBERON_0001246) (interlobular bile duct))) 39.90%
-- [UBERON:0005911](http://purl.obolibrary.org/obo/UBERON_0005911) (endo-epithelium) 34.05%
-- [UBERON:0003704](http://purl.obolibrary.org/obo/UBERON_0003704) (intrahepatic bile duct) 33.41%
-- [UBERON:0003704](http://purl.obolibrary.org/obo/UBERON_0003704) (intrahepatic bile duct) and (not (Error15)) 33.41%
-- [UBERON:0003704](http://purl.obolibrary.org/obo/UBERON_0003704) (intrahepatic bile duct) and (not (Error14)) 33.41%
-- [UBERON:0003704](http://purl.obolibrary.org/obo/UBERON_0003704) (intrahepatic bile duct) and (not (Error13)) 33.41%
+- [UBERON:0004820](http://purl.obolibrary.org/obo/UBERON_0004820) (bile duct epithelium) 75.00%
+- [UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure) 66.82%
+- [UBERON:0004823](http://purl.obolibrary.org/obo/UBERON_0004823) (intrahepatic bile duct epithelium) 58.33%
+- [UBERON:0004822](http://purl.obolibrary.org/obo/UBERON_0004822) (extrahepatic bile duct epithelium) 58.33%
+- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 56.03%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 55.85%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 55.81%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 55.21%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 55.15%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 54.62%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 54.61%
+- Thing 52.49%
+- [UBERON:0002394](http://purl.obolibrary.org/obo/UBERON_0002394) (bile duct) 52.39%
+- [UBERON:0005911](http://purl.obolibrary.org/obo/UBERON_0005911) (endo-epithelium) 45.41%
+- [UBERON:0003704](http://purl.obolibrary.org/obo/UBERON_0003704) (intrahepatic bile duct) and (not ([UBERON:0035050](http://purl.obolibrary.org/obo/UBERON_0035050) (excretory duct))) 43.69%
 
 

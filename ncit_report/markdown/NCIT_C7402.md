@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36445](http://purl.obolibrary.org/obo/NCIT_C36445) (Clonal Immunoglobulin Light Chain Gene Rearrangement) 56.25%
-- Thing 53.25%
-- [NCIT:C36452](http://purl.obolibrary.org/obo/NCIT_C36452) (Clonal Immunoglobulin Lambda Light Chain Gene Rearrangement) 53.12%
-- [NCIT:C36451](http://purl.obolibrary.org/obo/NCIT_C36451) (Clonal Immunoglobulin Kappa Light Chain Gene Rearrangement) 53.12%
-- [NCIT:C36444](http://purl.obolibrary.org/obo/NCIT_C36444) (Clonal Immunoglobulin Heavy Chain Gene Rearrangement) 53.12%
-- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) 52.68%
-- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C37224](http://purl.obolibrary.org/obo/NCIT_C37224) (EWSR1-FLI1 Fusion Protein Expression))) 52.68%
-- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C37223](http://purl.obolibrary.org/obo/NCIT_C37223) (PML-RARA Fusion Protein Expression))) 52.68%
-- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C37222](http://purl.obolibrary.org/obo/NCIT_C37222) (NUMA1-RARA Fusion Protein Expression))) 52.68%
-- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C37221](http://purl.obolibrary.org/obo/NCIT_C37221) (NPM1-RARA Fusion Protein Expression))) 52.68%
-- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C37220](http://purl.obolibrary.org/obo/NCIT_C37220) (ZBTB16-RARA Fusion Protein Expression))) 52.68%
-- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C37219](http://purl.obolibrary.org/obo/NCIT_C37219) (CBFB-MYH11 Fusion Protein Expression))) 52.68%
-- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C37218](http://purl.obolibrary.org/obo/NCIT_C37218) (AML1-ETO Fusion Protein Expression))) 52.68%
-- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C37217](http://purl.obolibrary.org/obo/NCIT_C37217) (FIP1L1-PDGFRalpha Fusion Protein Expression))) 52.68%
-- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C37216](http://purl.obolibrary.org/obo/NCIT_C37216) (CLTC-ALK Fusion Protein Expression))) 52.68%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) 64.73%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36628](http://purl.obolibrary.org/obo/NCIT_C36628) (Monosomy 8))) 64.73%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36627](http://purl.obolibrary.org/obo/NCIT_C36627) (Monosomy 6))) 64.73%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36626](http://purl.obolibrary.org/obo/NCIT_C36626) (Trisomy 18))) 64.73%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36616](http://purl.obolibrary.org/obo/NCIT_C36616) (t(16;21)(p11;q22)))) 64.73%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36611](http://purl.obolibrary.org/obo/NCIT_C36611) (t(10;11)(p11;q23)))) 64.73%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36609](http://purl.obolibrary.org/obo/NCIT_C36609) (t(7;11)(p15;p15)))) 64.73%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36607](http://purl.obolibrary.org/obo/NCIT_C36607) (t(12;22)(p13;q11)))) 64.73%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36606](http://purl.obolibrary.org/obo/NCIT_C36606) (t(3;21)(q26;q22)))) 64.73%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36605](http://purl.obolibrary.org/obo/NCIT_C36605) (i(19)))) 64.73%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36604](http://purl.obolibrary.org/obo/NCIT_C36604) (del(9p21p22)))) 64.73%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36603](http://purl.obolibrary.org/obo/NCIT_C36603) (t(7;9)(q34;q32)))) 64.73%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36602](http://purl.obolibrary.org/obo/NCIT_C36602) (inv(14)(q11;q32.1)))) 64.73%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36600](http://purl.obolibrary.org/obo/NCIT_C36600) (Tetrasomy 12))) 64.73%
+- [NCIT:C36443](http://purl.obolibrary.org/obo/NCIT_C36443) (Clonal Immunoglobulin Gene Rearrangement) and (not ([NCIT:C36599](http://purl.obolibrary.org/obo/NCIT_C36599) (Loss of Chromosome Y))) 64.73%
 
 

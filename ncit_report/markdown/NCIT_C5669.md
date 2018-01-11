@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.35%
-- [NCIT:C38665](http://purl.obolibrary.org/obo/NCIT_C38665) (Chest Pain) 52.94%
-- [NCIT:C37935](http://purl.obolibrary.org/obo/NCIT_C37935) (Cough) 52.94%
-- [NCIT:C27165](http://purl.obolibrary.org/obo/NCIT_C27165) (Respiratory Distress) 52.94%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C35292](http://purl.obolibrary.org/obo/NCIT_C35292) (Low Grade Fever))) 52.94%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 39.99%
-- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) 38.30%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) 38.30%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39691](http://purl.obolibrary.org/obo/NCIT_C39691) (Partial Spontaneous Regression))) 38.30%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39690](http://purl.obolibrary.org/obo/NCIT_C39690) (Papular Lesion))) 38.30%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39689](http://purl.obolibrary.org/obo/NCIT_C39689) (Multicentric Cutaneous Involvement))) 38.30%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39688](http://purl.obolibrary.org/obo/NCIT_C39688) (Localized Skin Lesion))) 38.30%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39687](http://purl.obolibrary.org/obo/NCIT_C39687) (Activated Mature Cytotoxic T-Lymphocyte))) 38.30%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39686](http://purl.obolibrary.org/obo/NCIT_C39686) (Activated Skin-Homing T-Lymphocyte))) 38.30%
-- [NCIT:C3038](http://purl.obolibrary.org/obo/NCIT_C3038) (Fever) and (not ([NCIT:C39682](http://purl.obolibrary.org/obo/NCIT_C39682) (Flower-Like T-Lymphocyte))) 38.30%
+- [NCIT:C36455](http://purl.obolibrary.org/obo/NCIT_C36455) (Gain of Chromosome 8) 60.00%
+- [NCIT:C36329](http://purl.obolibrary.org/obo/NCIT_C36329) (TP53 Gene Inactivation) 60.00%
+- [NCIT:C25956](http://purl.obolibrary.org/obo/NCIT_C25956) (DICER1 Gene) 60.00%
+- [NCIT:C25954](http://purl.obolibrary.org/obo/NCIT_C25954) (Endoribonuclease Gene) 60.00%
+- [NCIT:C25953](http://purl.obolibrary.org/obo/NCIT_C25953) (Ribonuclease Gene) 60.00%
+- [NCIT:C25952](http://purl.obolibrary.org/obo/NCIT_C25952) (Esterase Gene) and (not ([NCIT:C26337](http://purl.obolibrary.org/obo/NCIT_C26337) (PTPN11 Gene))) 60.00%
+- Thing 52.27%
+- [NCIT:C25952](http://purl.obolibrary.org/obo/NCIT_C25952) (Esterase Gene) 45.36%
+- [NCIT:C25952](http://purl.obolibrary.org/obo/NCIT_C25952) (Esterase Gene) and (not ([NCIT:C37930](http://purl.obolibrary.org/obo/NCIT_C37930) (Constipation))) 45.36%
+- [NCIT:C25952](http://purl.obolibrary.org/obo/NCIT_C25952) (Esterase Gene) and (not ([NCIT:C3791](http://purl.obolibrary.org/obo/NCIT_C3791) (Central Neurocytoma))) 45.36%
+- [NCIT:C25952](http://purl.obolibrary.org/obo/NCIT_C25952) (Esterase Gene) and (not ([NCIT:C37905](http://purl.obolibrary.org/obo/NCIT_C37905) (Gain of Chromosome 14))) 45.36%
+- [NCIT:C25952](http://purl.obolibrary.org/obo/NCIT_C25952) (Esterase Gene) and (not ([NCIT:C37883](http://purl.obolibrary.org/obo/NCIT_C37883) (BCR-PDGFRAlpha Fusion Protein Expression))) 45.36%
+- [NCIT:C25952](http://purl.obolibrary.org/obo/NCIT_C25952) (Esterase Gene) and (not ([NCIT:C37882](http://purl.obolibrary.org/obo/NCIT_C37882) (t(4;22)(q12;q11)))) 45.36%
+- [NCIT:C25952](http://purl.obolibrary.org/obo/NCIT_C25952) (Esterase Gene) and (not ([NCIT:C37881](http://purl.obolibrary.org/obo/NCIT_C37881) (BCR-FGFR1 Fusion Protein Expression))) 45.36%
+- [NCIT:C25952](http://purl.obolibrary.org/obo/NCIT_C25952) (Esterase Gene) and (not ([NCIT:C37880](http://purl.obolibrary.org/obo/NCIT_C37880) (t(8;22)(p11;q11)))) 45.36%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.60%
-- [NCIT:C33914](http://purl.obolibrary.org/obo/NCIT_C33914) (Endocervical Columnar Cell) 51.56%
-- [CL:0002253](http://purl.obolibrary.org/obo/CL_0002253) (epithelial cell of large intestine) 51.56%
-- [CL:0002071](http://purl.obolibrary.org/obo/CL_0002071) (enterocyte of epithelium of large intestine) 51.56%
-- [CL:0002071](http://purl.obolibrary.org/obo/CL_0002071) (enterocyte of epithelium of large intestine) and [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 51.56%
-- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and [CL:0002253](http://purl.obolibrary.org/obo/CL_0002253) (epithelial cell of large intestine) 51.56%
-- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and (not ([NCIT:C32925](http://purl.obolibrary.org/obo/NCIT_C32925) (Large Intestinal Glandular Cell))) 51.56%
-- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) 36.92%
-- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 36.92%
-- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and (not ([NCIT:C36732](http://purl.obolibrary.org/obo/NCIT_C36732) (Touton Giant Cell))) 36.92%
-- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and (not ([NCIT:C36726](http://purl.obolibrary.org/obo/NCIT_C36726) (Tear-Drop Red Blood Cell))) 36.92%
-- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and (not ([NCIT:C36724](http://purl.obolibrary.org/obo/NCIT_C36724) (Neutrophil with Pseudo Pelger-Huet Nucleus))) 36.92%
-- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and (not ([NCIT:C36723](http://purl.obolibrary.org/obo/NCIT_C36723) (Giant Platelet))) 36.92%
-- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and (not ([NCIT:C36722](http://purl.obolibrary.org/obo/NCIT_C36722) (Sezary Cell))) 36.92%
-- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and (not ([NCIT:C36719](http://purl.obolibrary.org/obo/NCIT_C36719) (Segmented Neutrophil))) 36.92%
+- Thing 54.07%
+- [NCIT:C33914](http://purl.obolibrary.org/obo/NCIT_C33914) (Endocervical Columnar Cell) 53.12%
+- [CL:0002253](http://purl.obolibrary.org/obo/CL_0002253) (epithelial cell of large intestine) 53.12%
+- [CL:0002071](http://purl.obolibrary.org/obo/CL_0002071) (enterocyte of epithelium of large intestine) 53.12%
+- [CL:0002071](http://purl.obolibrary.org/obo/CL_0002071) (enterocyte of epithelium of large intestine) and [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 53.12%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and [CL:0002253](http://purl.obolibrary.org/obo/CL_0002253) (epithelial cell of large intestine) 53.12%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and (not ([NCIT:C32925](http://purl.obolibrary.org/obo/NCIT_C32925) (Large Intestinal Glandular Cell))) 53.12%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 40.63%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 40.62%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) 38.48%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 38.48%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and (not ([NCIT:C39056](http://purl.obolibrary.org/obo/NCIT_C39056) (Vesicle Transport Pathway))) 38.48%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and (not ([NCIT:C39055](http://purl.obolibrary.org/obo/NCIT_C39055) (Phospholipid Signaling Pathway))) 38.48%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and (not ([NCIT:C39054](http://purl.obolibrary.org/obo/NCIT_C39054) (Extracellular Matrix Binding Pathway))) 38.48%
+- [CL:0000584](http://purl.obolibrary.org/obo/CL_0000584) (enterocyte) and (not ([NCIT:C39040](http://purl.obolibrary.org/obo/NCIT_C39040) (CTCF Pathway))) 38.48%
 
 

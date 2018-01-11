@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C37865](http://purl.obolibrary.org/obo/NCIT_C37865) (Trisomy 17) 56.25%
-- [NCIT:C36599](http://purl.obolibrary.org/obo/NCIT_C36599) (Loss of Chromosome Y) 56.25%
-- [NCIT:C36476](http://purl.obolibrary.org/obo/NCIT_C36476) (Trisomy 7) 56.25%
-- [NCIT:C36454](http://purl.obolibrary.org/obo/NCIT_C36454) (Gain of Chromosome 7) 56.25%
-- Thing 52.30%
-- [NCIT:C61296](http://purl.obolibrary.org/obo/NCIT_C61296) (Neoplastic Small Epithelial Cell with Scant Amount of Cytoplasm) 41.61%
-- [NCIT:C61296](http://purl.obolibrary.org/obo/NCIT_C61296) (Neoplastic Small Epithelial Cell with Scant Amount of Cytoplasm) and (not ([NCIT:C40261](http://purl.obolibrary.org/obo/NCIT_C40261) (Vaginal Adenoid Cystic Carcinoma))) 41.61%
-- [NCIT:C61296](http://purl.obolibrary.org/obo/NCIT_C61296) (Neoplastic Small Epithelial Cell with Scant Amount of Cytoplasm) and (not ([NCIT:C40260](http://purl.obolibrary.org/obo/NCIT_C40260) (Vaginal Adenosquamous Carcinoma))) 41.61%
-- [NCIT:C61296](http://purl.obolibrary.org/obo/NCIT_C61296) (Neoplastic Small Epithelial Cell with Scant Amount of Cytoplasm) and (not ([NCIT:C4026](http://purl.obolibrary.org/obo/NCIT_C4026) (Ovarian Mucinous Cystadenocarcinoma))) 41.61%
-- [NCIT:C61296](http://purl.obolibrary.org/obo/NCIT_C61296) (Neoplastic Small Epithelial Cell with Scant Amount of Cytoplasm) and (not ([NCIT:C40259](http://purl.obolibrary.org/obo/NCIT_C40259) (Vaginal Villous Adenoma))) 41.61%
-- [NCIT:C61296](http://purl.obolibrary.org/obo/NCIT_C61296) (Neoplastic Small Epithelial Cell with Scant Amount of Cytoplasm) and (not ([NCIT:C40258](http://purl.obolibrary.org/obo/NCIT_C40258) (Vaginal Tubulovillous Adenoma))) 41.61%
-- [NCIT:C61296](http://purl.obolibrary.org/obo/NCIT_C61296) (Neoplastic Small Epithelial Cell with Scant Amount of Cytoplasm) and (not ([NCIT:C40257](http://purl.obolibrary.org/obo/NCIT_C40257) (Vaginal Tubular Adenoma))) 41.61%
-- [NCIT:C61296](http://purl.obolibrary.org/obo/NCIT_C61296) (Neoplastic Small Epithelial Cell with Scant Amount of Cytoplasm) and (not ([NCIT:C40255](http://purl.obolibrary.org/obo/NCIT_C40255) (Vaginal Mullerian Papilloma))) 41.61%
-- [NCIT:C61296](http://purl.obolibrary.org/obo/NCIT_C61296) (Neoplastic Small Epithelial Cell with Scant Amount of Cytoplasm) and (not ([NCIT:C40252](http://purl.obolibrary.org/obo/NCIT_C40252) (Vaginal Mucinous Adenocarcinoma))) 41.61%
-- [NCIT:C61296](http://purl.obolibrary.org/obo/NCIT_C61296) (Neoplastic Small Epithelial Cell with Scant Amount of Cytoplasm) and (not ([NCIT:C40251](http://purl.obolibrary.org/obo/NCIT_C40251) (Vaginal Endometrioid Adenocarcinoma))) 41.61%
+- [NCIT:C37865](http://purl.obolibrary.org/obo/NCIT_C37865) (Trisomy 17) 58.33%
+- [NCIT:C36599](http://purl.obolibrary.org/obo/NCIT_C36599) (Loss of Chromosome Y) 58.33%
+- [NCIT:C36476](http://purl.obolibrary.org/obo/NCIT_C36476) (Trisomy 7) 58.33%
+- [NCIT:C36454](http://purl.obolibrary.org/obo/NCIT_C36454) (Gain of Chromosome 7) 58.33%
+- Thing 52.49%
+- [NCIT:C61296](http://purl.obolibrary.org/obo/NCIT_C61296) (Neoplastic Small Epithelial Cell with Scant Amount of Cytoplasm) 43.69%
+- [NCIT:C61296](http://purl.obolibrary.org/obo/NCIT_C61296) (Neoplastic Small Epithelial Cell with Scant Amount of Cytoplasm) and (not ([NCIT:C38443](http://purl.obolibrary.org/obo/NCIT_C38443) (Interleukin-6 Overexpression))) 43.69%
+- [NCIT:C61296](http://purl.obolibrary.org/obo/NCIT_C61296) (Neoplastic Small Epithelial Cell with Scant Amount of Cytoplasm) and (not ([NCIT:C38442](http://purl.obolibrary.org/obo/NCIT_C38442) (Interleukin-5 Overexpression))) 43.69%
+- [NCIT:C61296](http://purl.obolibrary.org/obo/NCIT_C61296) (Neoplastic Small Epithelial Cell with Scant Amount of Cytoplasm) and (not ([NCIT:C38441](http://purl.obolibrary.org/obo/NCIT_C38441) (Interleukin-2 Overexpression))) 43.69%
+- [NCIT:C61296](http://purl.obolibrary.org/obo/NCIT_C61296) (Neoplastic Small Epithelial Cell with Scant Amount of Cytoplasm) and (not ([NCIT:C38439](http://purl.obolibrary.org/obo/NCIT_C38439) (Mature Lymphocyte))) 43.69%
+- [NCIT:C61296](http://purl.obolibrary.org/obo/NCIT_C61296) (Neoplastic Small Epithelial Cell with Scant Amount of Cytoplasm) and (not ([NCIT:C38436](http://purl.obolibrary.org/obo/NCIT_C38436) (Mature B-Lymphocyte at the Germinal Center Stage of Differentiation))) 43.69%
+- [NCIT:C61296](http://purl.obolibrary.org/obo/NCIT_C61296) (Neoplastic Small Epithelial Cell with Scant Amount of Cytoplasm) and (not ([NCIT:C3843](http://purl.obolibrary.org/obo/NCIT_C3843) (Malignant Ovarian Cyst))) 43.69%
+- [NCIT:C61296](http://purl.obolibrary.org/obo/NCIT_C61296) (Neoplastic Small Epithelial Cell with Scant Amount of Cytoplasm) and (not ([NCIT:C38423](http://purl.obolibrary.org/obo/NCIT_C38423) (Pleomorphic Reed-Sternberg Cell))) 43.69%
+- [NCIT:C61296](http://purl.obolibrary.org/obo/NCIT_C61296) (Neoplastic Small Epithelial Cell with Scant Amount of Cytoplasm) and (not ([NCIT:C38408](http://purl.obolibrary.org/obo/NCIT_C38408) (Progressive Transformation of Germinal Centers))) 43.69%
+- [NCIT:C61296](http://purl.obolibrary.org/obo/NCIT_C61296) (Neoplastic Small Epithelial Cell with Scant Amount of Cytoplasm) and (not ([NCIT:C38407](http://purl.obolibrary.org/obo/NCIT_C38407) (C-KIT Somatic Point Mutation))) 43.69%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 52.93%
-- [NCIT:C3137](http://purl.obolibrary.org/obo/NCIT_C3137) (Inflammation) 39.20%
-- [NCIT:C3137](http://purl.obolibrary.org/obo/NCIT_C3137) (Inflammation) and (not ([NCIT:C40128](http://purl.obolibrary.org/obo/NCIT_C40128) (Fallopian Tube Leiomyosarcoma))) 39.20%
-- [NCIT:C3137](http://purl.obolibrary.org/obo/NCIT_C3137) (Inflammation) and (not ([NCIT:C40127](http://purl.obolibrary.org/obo/NCIT_C40127) (Fallopian Tube Leiomyoma))) 39.20%
-- [NCIT:C3137](http://purl.obolibrary.org/obo/NCIT_C3137) (Inflammation) and (not ([NCIT:C40125](http://purl.obolibrary.org/obo/NCIT_C40125) (Fallopian Tube Adenosarcoma))) 39.20%
-- [NCIT:C3137](http://purl.obolibrary.org/obo/NCIT_C3137) (Inflammation) and (not ([NCIT:C40124](http://purl.obolibrary.org/obo/NCIT_C40124) (Fallopian Tube Carcinosarcoma))) 39.20%
-- [NCIT:C3137](http://purl.obolibrary.org/obo/NCIT_C3137) (Inflammation) and (not ([NCIT:C40122](http://purl.obolibrary.org/obo/NCIT_C40122) (Pelvic Pain))) 39.20%
-- [NCIT:C3137](http://purl.obolibrary.org/obo/NCIT_C3137) (Inflammation) and (not ([NCIT:C40116](http://purl.obolibrary.org/obo/NCIT_C40116) (Fallopian Tube Metaplastic Papillary Tumor))) 39.20%
-- [NCIT:C3137](http://purl.obolibrary.org/obo/NCIT_C3137) (Inflammation) and (not ([NCIT:C40114](http://purl.obolibrary.org/obo/NCIT_C40114) (Fallopian Tube Serous Cystadenofibroma))) 39.20%
-- [NCIT:C3137](http://purl.obolibrary.org/obo/NCIT_C3137) (Inflammation) and (not ([NCIT:C40112](http://purl.obolibrary.org/obo/NCIT_C40112) (Fallopian Tube Papilloma))) 39.20%
-- [NCIT:C3137](http://purl.obolibrary.org/obo/NCIT_C3137) (Inflammation) and (not ([NCIT:C40110](http://purl.obolibrary.org/obo/NCIT_C40110) (Borderline Fallopian Tube Endometrioid Tumor))) 39.20%
-- [NCIT:C3137](http://purl.obolibrary.org/obo/NCIT_C3137) (Inflammation) and (not ([NCIT:C40108](http://purl.obolibrary.org/obo/NCIT_C40108) (Borderline Fallopian Tube Mucinous Tumor))) 39.20%
-- [NCIT:C3137](http://purl.obolibrary.org/obo/NCIT_C3137) (Inflammation) and (not ([NCIT:C40107](http://purl.obolibrary.org/obo/NCIT_C40107) (Borderline Fallopian Tube Serous Tumor/Atypical Proliferative Serous Tumor))) 39.20%
-- [NCIT:C3137](http://purl.obolibrary.org/obo/NCIT_C3137) (Inflammation) and (not ([NCIT:C40104](http://purl.obolibrary.org/obo/NCIT_C40104) (Fallopian Tube Transitional Cell Carcinoma))) 39.20%
-- [NCIT:C3137](http://purl.obolibrary.org/obo/NCIT_C3137) (Inflammation) and (not ([NCIT:C40103](http://purl.obolibrary.org/obo/NCIT_C40103) (Fallopian Tube Mucinous Adenocarcinoma))) 39.20%
+- [UBERON:0006925](http://purl.obolibrary.org/obo/UBERON_0006925) (digestive system gland) 58.33%
+- [UBERON:0002107](http://purl.obolibrary.org/obo/UBERON_0002107) (liver) 58.33%
+- [UBERON:0001280](http://purl.obolibrary.org/obo/UBERON_0001280) (liver parenchyma) 58.33%
+- [NCIT:C36659](http://purl.obolibrary.org/obo/NCIT_C36659) (CTNNB1 Gene Mutation) 58.33%
+- [NCIT:C20987](http://purl.obolibrary.org/obo/NCIT_C20987) (CTNNB1 Gene) 58.33%
+- [CL:0000417](http://purl.obolibrary.org/obo/CL_0000417) (endopolyploid cell) 58.33%
+- [CL:0000412](http://purl.obolibrary.org/obo/CL_0000412) (polyploid cell) 58.33%
+- [CL:0000182](http://purl.obolibrary.org/obo/CL_0000182) (hepatocyte) 58.33%
+- [CL:0000181](http://purl.obolibrary.org/obo/CL_0000181) (metabolising cell) 58.33%
+- Thing 52.49%
+- [UBERON:0000353](http://purl.obolibrary.org/obo/UBERON_0000353) (parenchyma) and [UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure) 43.69%
+- [UBERON:0000353](http://purl.obolibrary.org/obo/UBERON_0000353) (parenchyma) 37.20%
+- [UBERON:0005172](http://purl.obolibrary.org/obo/UBERON_0005172) (abdomen element) 30.69%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 28.26%
+- [UBERON:0005173](http://purl.obolibrary.org/obo/UBERON_0005173) (abdominal segment element) 27.23%
 
 

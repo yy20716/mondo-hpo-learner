@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C39614](http://purl.obolibrary.org/obo/NCIT_C39614) (Neoplastic Medium-Sized to Large T-Lymphocyte) 57.14%
-- [NCIT:C36992](http://purl.obolibrary.org/obo/NCIT_C36992) (Neoplastic Medium-Sized to Large Lymphocyte) 57.14%
-- [NCIT:C39602](http://purl.obolibrary.org/obo/NCIT_C39602) (Pleomorphic Medium-Sized to Large T-Lymphocyte) 53.57%
-- [NCIT:C39600](http://purl.obolibrary.org/obo/NCIT_C39600) (Neoplastic Medium-Sized T-Lymphocyte) 53.57%
-- [NCIT:C37017](http://purl.obolibrary.org/obo/NCIT_C37017) (Anaplastic Large T-Lymphocyte) 53.57%
-- [NCIT:C36997](http://purl.obolibrary.org/obo/NCIT_C36997) (Pleomorphic T-Lymphocyte) 53.57%
-- [NCIT:C36995](http://purl.obolibrary.org/obo/NCIT_C36995) (Pleomorphic Lymphocyte) 53.57%
-- [NCIT:C39606](http://purl.obolibrary.org/obo/NCIT_C39606) (Neoplastic Small to Medium-Sized T-Lymphocyte) and (not ([NCIT:C39681](http://purl.obolibrary.org/obo/NCIT_C39681) (Neoplastic Small to Medium-Sized T-Lymphocyte with Irregular Nucleus))) 53.57%
-- Thing 53.04%
-- [NCIT:C39566](http://purl.obolibrary.org/obo/NCIT_C39566) (Neoplastic T-Lymphocyte and Neoplastic Natural Killer Cell) 45.45%
-- [NCIT:C39606](http://purl.obolibrary.org/obo/NCIT_C39606) (Neoplastic Small to Medium-Sized T-Lymphocyte) 38.93%
-- [NCIT:C39606](http://purl.obolibrary.org/obo/NCIT_C39606) (Neoplastic Small to Medium-Sized T-Lymphocyte) and (not ([NCIT:C40141](http://purl.obolibrary.org/obo/NCIT_C40141) (Wolffian Adnexal Tumor))) 38.93%
-- [NCIT:C39606](http://purl.obolibrary.org/obo/NCIT_C39606) (Neoplastic Small to Medium-Sized T-Lymphocyte) and (not ([NCIT:C40139](http://purl.obolibrary.org/obo/NCIT_C40139) (Uterine Ligament Clear Cell Adenocarcinoma))) 38.93%
-- [NCIT:C39606](http://purl.obolibrary.org/obo/NCIT_C39606) (Neoplastic Small to Medium-Sized T-Lymphocyte) and (not ([NCIT:C40138](http://purl.obolibrary.org/obo/NCIT_C40138) (Uterine Ligament Endometrioid Adenocarcinoma))) 38.93%
-- [NCIT:C39606](http://purl.obolibrary.org/obo/NCIT_C39606) (Neoplastic Small to Medium-Sized T-Lymphocyte) and (not ([NCIT:C40137](http://purl.obolibrary.org/obo/NCIT_C40137) (Uterine Ligament Mucinous Adenocarcinoma))) 38.93%
+- [NCIT:C39614](http://purl.obolibrary.org/obo/NCIT_C39614) (Neoplastic Medium-Sized to Large T-Lymphocyte) 60.00%
+- [NCIT:C36992](http://purl.obolibrary.org/obo/NCIT_C36992) (Neoplastic Medium-Sized to Large Lymphocyte) 60.00%
+- [NCIT:C39602](http://purl.obolibrary.org/obo/NCIT_C39602) (Pleomorphic Medium-Sized to Large T-Lymphocyte) 55.00%
+- [NCIT:C39600](http://purl.obolibrary.org/obo/NCIT_C39600) (Neoplastic Medium-Sized T-Lymphocyte) 55.00%
+- [NCIT:C37017](http://purl.obolibrary.org/obo/NCIT_C37017) (Anaplastic Large T-Lymphocyte) 55.00%
+- [NCIT:C36997](http://purl.obolibrary.org/obo/NCIT_C36997) (Pleomorphic T-Lymphocyte) 55.00%
+- [NCIT:C36995](http://purl.obolibrary.org/obo/NCIT_C36995) (Pleomorphic Lymphocyte) 55.00%
+- [NCIT:C39566](http://purl.obolibrary.org/obo/NCIT_C39566) (Neoplastic T-Lymphocyte and Neoplastic Natural Killer Cell) 54.02%
+- Thing 53.22%
+- [NCIT:C36988](http://purl.obolibrary.org/obo/NCIT_C36988) (Neoplastic Lymphocyte) 44.43%
+- [NCIT:C36725](http://purl.obolibrary.org/obo/NCIT_C36725) (Abnormal Lymphocyte) 44.14%
+- [NCIT:C37060](http://purl.obolibrary.org/obo/NCIT_C37060) (Neoplastic Hematopoietic and Lymphoid Cell) 41.79%
+- [NCIT:C36987](http://purl.obolibrary.org/obo/NCIT_C36987) (Abnormal Hematopoietic and Lymphoid Cell) 40.43%
+- [NCIT:C39606](http://purl.obolibrary.org/obo/NCIT_C39606) (Neoplastic Small to Medium-Sized T-Lymphocyte) 40.36%
+- [NCIT:C39606](http://purl.obolibrary.org/obo/NCIT_C39606) (Neoplastic Small to Medium-Sized T-Lymphocyte) and (not ([NCIT:C39094](http://purl.obolibrary.org/obo/NCIT_C39094) (Inhibition of Cellular Proliferation by Gleevec Pathway))) 40.36%
 
 

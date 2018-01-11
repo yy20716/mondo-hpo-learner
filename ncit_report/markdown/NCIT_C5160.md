@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C3641](http://purl.obolibrary.org/obo/NCIT_C3641) (Stage 0 Breast Cancer AJCC v6 and v7) 57.14%
-- [NCIT:C6877](http://purl.obolibrary.org/obo/NCIT_C6877) (Grade III Glandular Intraepithelial Neoplasia) and [NCIT:C9335](http://purl.obolibrary.org/obo/NCIT_C9335) (Malignant Breast Neoplasm) 57.14%
-- [NCIT:C6877](http://purl.obolibrary.org/obo/NCIT_C6877) (Grade III Glandular Intraepithelial Neoplasia) and [NCIT:C91230](http://purl.obolibrary.org/obo/NCIT_C91230) (Breast Cancer by AJCC v7 Stage) 57.14%
-- [NCIT:C6877](http://purl.obolibrary.org/obo/NCIT_C6877) (Grade III Glandular Intraepithelial Neoplasia) and [NCIT:C90513](http://purl.obolibrary.org/obo/NCIT_C90513) (Breast Cancer by AJCC v6 Stage) 57.14%
-- [NCIT:C5214](http://purl.obolibrary.org/obo/NCIT_C5214) (Breast Adenocarcinoma) and [NCIT:C6877](http://purl.obolibrary.org/obo/NCIT_C6877) (Grade III Glandular Intraepithelial Neoplasia) 57.14%
-- [NCIT:C4872](http://purl.obolibrary.org/obo/NCIT_C4872) (Breast Carcinoma) and [NCIT:C6877](http://purl.obolibrary.org/obo/NCIT_C6877) (Grade III Glandular Intraepithelial Neoplasia) 57.14%
-- [NCIT:C4123](http://purl.obolibrary.org/obo/NCIT_C4123) (Adenocarcinoma In Situ) and [NCIT:C9335](http://purl.obolibrary.org/obo/NCIT_C9335) (Malignant Breast Neoplasm) 57.14%
-- [NCIT:C4123](http://purl.obolibrary.org/obo/NCIT_C4123) (Adenocarcinoma In Situ) and [NCIT:C91230](http://purl.obolibrary.org/obo/NCIT_C91230) (Breast Cancer by AJCC v7 Stage) 57.14%
-- [NCIT:C4123](http://purl.obolibrary.org/obo/NCIT_C4123) (Adenocarcinoma In Situ) and [NCIT:C90513](http://purl.obolibrary.org/obo/NCIT_C90513) (Breast Cancer by AJCC v6 Stage) 57.14%
-- [NCIT:C4123](http://purl.obolibrary.org/obo/NCIT_C4123) (Adenocarcinoma In Situ) and [NCIT:C5214](http://purl.obolibrary.org/obo/NCIT_C5214) (Breast Adenocarcinoma) 57.14%
-- [NCIT:C4123](http://purl.obolibrary.org/obo/NCIT_C4123) (Adenocarcinoma In Situ) and [NCIT:C4872](http://purl.obolibrary.org/obo/NCIT_C4872) (Breast Carcinoma) 57.14%
-- [NCIT:C3641](http://purl.obolibrary.org/obo/NCIT_C3641) (Stage 0 Breast Cancer AJCC v6 and v7) and [NCIT:C6877](http://purl.obolibrary.org/obo/NCIT_C6877) (Grade III Glandular Intraepithelial Neoplasia) 57.14%
-- [NCIT:C3641](http://purl.obolibrary.org/obo/NCIT_C3641) (Stage 0 Breast Cancer AJCC v6 and v7) and [NCIT:C4123](http://purl.obolibrary.org/obo/NCIT_C4123) (Adenocarcinoma In Situ) 57.14%
-- [NCIT:C2910](http://purl.obolibrary.org/obo/NCIT_C2910) (Breast Neoplasm) and [NCIT:C6877](http://purl.obolibrary.org/obo/NCIT_C6877) (Grade III Glandular Intraepithelial Neoplasia) 57.14%
-- [NCIT:C2910](http://purl.obolibrary.org/obo/NCIT_C2910) (Breast Neoplasm) and [NCIT:C4123](http://purl.obolibrary.org/obo/NCIT_C4123) (Adenocarcinoma In Situ) 57.14%
+- [NCIT:C36879](http://purl.obolibrary.org/obo/NCIT_C36879) (Lobular Carcinoma Cell) 57.14%
+- [NCIT:C36878](http://purl.obolibrary.org/obo/NCIT_C36878) (Neoplastic Lobular Epithelial Cell) 57.14%
+- [NCIT:C36877](http://purl.obolibrary.org/obo/NCIT_C36877) (Neoplastic Ductal Epithelial Cell) 57.14%
+- [NCIT:C36858](http://purl.obolibrary.org/obo/NCIT_C36858) (Ductal Carcinoma Cell) 57.14%
+- [NCIT:C36654](http://purl.obolibrary.org/obo/NCIT_C36654) (CDH1 Gene Inactivation) 57.14%
+- [NCIT:C36644](http://purl.obolibrary.org/obo/NCIT_C36644) (Loss of E-cadherin Expression) 57.14%
+- [NCIT:C36515](http://purl.obolibrary.org/obo/NCIT_C36515) (Loss of Chromosome 16q) 57.14%
+- [NCIT:C33756](http://purl.obolibrary.org/obo/NCIT_C33756) (Terminal Ductal Lobular Unit Cell) 57.14%
+- [NCIT:C12480](http://purl.obolibrary.org/obo/NCIT_C12480) (Terminal Ductal Lobular Unit) 57.14%
+- [NCIT:C12370](http://purl.obolibrary.org/obo/NCIT_C12370) (Mammary Gland Tissue) and [UBERON:0006799](http://purl.obolibrary.org/obo/UBERON_0006799) (glandular epithelium) 57.14%
+- [NCIT:C12370](http://purl.obolibrary.org/obo/NCIT_C12370) (Mammary Gland Tissue) and [UBERON:0000483](http://purl.obolibrary.org/obo/UBERON_0000483) (epithelium) 57.14%
+- Thing 52.69%
+- [NCIT:C12370](http://purl.obolibrary.org/obo/NCIT_C12370) (Mammary Gland Tissue) 42.50%
+- [NCIT:C12370](http://purl.obolibrary.org/obo/NCIT_C12370) (Mammary Gland Tissue) and (not ([NCIT:C19060](http://purl.obolibrary.org/obo/NCIT_C19060) (T-Cell Receptor Activation))) 42.50%
+- [NCIT:C12370](http://purl.obolibrary.org/obo/NCIT_C12370) (Mammary Gland Tissue) and (not ([NCIT:C19053](http://purl.obolibrary.org/obo/NCIT_C19053) (T-Cell Activation))) 42.50%
 
 

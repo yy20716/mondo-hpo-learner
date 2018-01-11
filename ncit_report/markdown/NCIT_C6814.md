@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0008811](http://purl.obolibrary.org/obo/UBERON_0008811) (intromittent organ) 58.33%
-- [UBERON:0000989](http://purl.obolibrary.org/obo/UBERON_0000989) (penis) 58.33%
-- [UBERON:0004120](http://purl.obolibrary.org/obo/UBERON_0004120) (mesoderm-derived structure) and [UBERON:0008811](http://purl.obolibrary.org/obo/UBERON_0008811) (intromittent organ) 58.33%
-- [UBERON:0003135](http://purl.obolibrary.org/obo/UBERON_0003135) (male reproductive organ) and [UBERON:0004120](http://purl.obolibrary.org/obo/UBERON_0004120) (mesoderm-derived structure) 58.33%
-- Thing 51.99%
-- [UBERON:0003135](http://purl.obolibrary.org/obo/UBERON_0003135) (male reproductive organ) 43.69%
-- [UBERON:0003135](http://purl.obolibrary.org/obo/UBERON_0003135) (male reproductive organ) and (not ([NCIT:C40209](http://purl.obolibrary.org/obo/NCIT_C40209) (Cervical Glandular Dysplasia))) 43.69%
-- [UBERON:0003135](http://purl.obolibrary.org/obo/UBERON_0003135) (male reproductive organ) and (not ([NCIT:C40208](http://purl.obolibrary.org/obo/NCIT_C40208) (Cervical Villoglandular Adenocarcinoma))) 43.69%
-- [UBERON:0003135](http://purl.obolibrary.org/obo/UBERON_0003135) (male reproductive organ) and (not ([NCIT:C40206](http://purl.obolibrary.org/obo/NCIT_C40206) (Cervical Mucinous Adenocarcinoma, Minimal Deviation Type))) 43.69%
-- [UBERON:0003135](http://purl.obolibrary.org/obo/UBERON_0003135) (male reproductive organ) and (not ([NCIT:C40205](http://purl.obolibrary.org/obo/NCIT_C40205) (Cervical Mucinous Adenocarcinoma, Signet Ring Cell Type))) 43.69%
-- [UBERON:0003135](http://purl.obolibrary.org/obo/UBERON_0003135) (male reproductive organ) and (not ([NCIT:C40203](http://purl.obolibrary.org/obo/NCIT_C40203) (Cervical Mucinous Adenocarcinoma, Intestinal-Type))) 43.69%
-- [UBERON:0003135](http://purl.obolibrary.org/obo/UBERON_0003135) (male reproductive organ) and (not ([NCIT:C40201](http://purl.obolibrary.org/obo/NCIT_C40201) (Cervical Serous Adenocarcinoma))) 43.69%
-- [UBERON:0003135](http://purl.obolibrary.org/obo/UBERON_0003135) (male reproductive organ) and (not ([NCIT:C4020](http://purl.obolibrary.org/obo/NCIT_C4020) (Fibroblastic Osteosarcoma))) 43.69%
-- [UBERON:0003135](http://purl.obolibrary.org/obo/UBERON_0003135) (male reproductive organ) and (not ([NCIT:C40199](http://purl.obolibrary.org/obo/NCIT_C40199) (Cervical Squamous Intraepithelial Neoplasia 1))) 43.69%
-- [UBERON:0003135](http://purl.obolibrary.org/obo/UBERON_0003135) (male reproductive organ) and (not ([NCIT:C40198](http://purl.obolibrary.org/obo/NCIT_C40198) (Cervical Squamous Intraepithelial Neoplasia 2))) 43.69%
+- [UBERON:0008811](http://purl.obolibrary.org/obo/UBERON_0008811) (intromittent organ) 60.00%
+- [UBERON:0000989](http://purl.obolibrary.org/obo/UBERON_0000989) (penis) 60.00%
+- [UBERON:0004120](http://purl.obolibrary.org/obo/UBERON_0004120) (mesoderm-derived structure) and [UBERON:0008811](http://purl.obolibrary.org/obo/UBERON_0008811) (intromittent organ) 60.00%
+- [UBERON:0003135](http://purl.obolibrary.org/obo/UBERON_0003135) (male reproductive organ) and [UBERON:0004120](http://purl.obolibrary.org/obo/UBERON_0004120) (mesoderm-derived structure) 60.00%
+- Thing 52.27%
+- [UBERON:0003135](http://purl.obolibrary.org/obo/UBERON_0003135) (male reproductive organ) 45.36%
+- [UBERON:0003135](http://purl.obolibrary.org/obo/UBERON_0003135) (male reproductive organ) and (not ([NCIT:C38446](http://purl.obolibrary.org/obo/NCIT_C38446) (Interleukin-10 Overexpression))) 45.36%
+- [UBERON:0003135](http://purl.obolibrary.org/obo/UBERON_0003135) (male reproductive organ) and (not ([NCIT:C38445](http://purl.obolibrary.org/obo/NCIT_C38445) (Interleukin-9 Overexpression))) 45.36%
+- [UBERON:0003135](http://purl.obolibrary.org/obo/UBERON_0003135) (male reproductive organ) and (not ([NCIT:C38444](http://purl.obolibrary.org/obo/NCIT_C38444) (Interleukin-7 Overexpression))) 45.36%
+- [UBERON:0003135](http://purl.obolibrary.org/obo/UBERON_0003135) (male reproductive organ) and (not ([NCIT:C38443](http://purl.obolibrary.org/obo/NCIT_C38443) (Interleukin-6 Overexpression))) 45.36%
+- [UBERON:0003135](http://purl.obolibrary.org/obo/UBERON_0003135) (male reproductive organ) and (not ([NCIT:C38442](http://purl.obolibrary.org/obo/NCIT_C38442) (Interleukin-5 Overexpression))) 45.36%
+- [UBERON:0003135](http://purl.obolibrary.org/obo/UBERON_0003135) (male reproductive organ) and (not ([NCIT:C38441](http://purl.obolibrary.org/obo/NCIT_C38441) (Interleukin-2 Overexpression))) 45.36%
+- [UBERON:0003135](http://purl.obolibrary.org/obo/UBERON_0003135) (male reproductive organ) and (not ([NCIT:C38439](http://purl.obolibrary.org/obo/NCIT_C38439) (Mature Lymphocyte))) 45.36%
+- [UBERON:0003135](http://purl.obolibrary.org/obo/UBERON_0003135) (male reproductive organ) and (not ([NCIT:C38436](http://purl.obolibrary.org/obo/NCIT_C38436) (Mature B-Lymphocyte at the Germinal Center Stage of Differentiation))) 45.36%
+- [UBERON:0003135](http://purl.obolibrary.org/obo/UBERON_0003135) (male reproductive organ) and (not ([NCIT:C3843](http://purl.obolibrary.org/obo/NCIT_C3843) (Malignant Ovarian Cyst))) 45.36%
 
 

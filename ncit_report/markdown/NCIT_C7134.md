@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C36140](http://purl.obolibrary.org/obo/NCIT_C36140) (Grade 4 Lesion))) 62.50%
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) 55.80%
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C38323](http://purl.obolibrary.org/obo/NCIT_C38323) (Peripheral Epidermotropic T-Lymphocyte))) 55.80%
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C38322](http://purl.obolibrary.org/obo/NCIT_C38322) (Marginal Zone B-Lymphocyte of Nodal Type))) 55.80%
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C3832](http://purl.obolibrary.org/obo/NCIT_C3832) (Malaise))) 55.80%
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C38317](http://purl.obolibrary.org/obo/NCIT_C38317) (GNAS Gene))) 55.80%
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C3826](http://purl.obolibrary.org/obo/NCIT_C3826) (Juvenile Polyp))) 55.80%
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C38184](http://purl.obolibrary.org/obo/NCIT_C38184) (ALK Gene))) 55.80%
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C38176](http://purl.obolibrary.org/obo/NCIT_C38176) (BCL2 Gene Translocation))) 55.80%
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C38175](http://purl.obolibrary.org/obo/NCIT_C38175) (CD44 Messenger RNA Overexpression))) 55.80%
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C38174](http://purl.obolibrary.org/obo/NCIT_C38174) (IRF4/MUM1 Messenger RNA Overexpression))) 55.80%
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C38173](http://purl.obolibrary.org/obo/NCIT_C38173) (BCL2 Gene mRNA Overexpression))) 55.80%
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C38172](http://purl.obolibrary.org/obo/NCIT_C38172) (Cyclin D2 Messenger RNA Overexpression))) 55.80%
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C38171](http://purl.obolibrary.org/obo/NCIT_C38171) (PKCbeta1 Messenger RNA Overexpression))) 55.80%
-- [NCIT:C36298](http://purl.obolibrary.org/obo/NCIT_C36298) (Lesion by Grade) and (not ([NCIT:C38170](http://purl.obolibrary.org/obo/NCIT_C38170) (LMO2 Messenger RNA Overexpression))) 55.80%
+- [UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en) 62.50%
+- Thing 52.03%
+- [UBERON:0010199](http://purl.obolibrary.org/obo/UBERON_0010199) (bona-fide anatomical boundary) 47.86%
+- [UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface) 47.86%
+- [UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface) and (not ([NCIT:C39040](http://purl.obolibrary.org/obo/NCIT_C39040) (CTCF Pathway))) 47.86%
+- [UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface) and (not ([NCIT:C39021](http://purl.obolibrary.org/obo/NCIT_C39021) (Cell Migration Pathway))) 47.86%
+- [UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface) and (not ([NCIT:C39016](http://purl.obolibrary.org/obo/NCIT_C39016) (EGF Receptor Downregulation by CBL Pathway))) 47.86%
+- [UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface) and (not ([NCIT:C39013](http://purl.obolibrary.org/obo/NCIT_C39013) (Estrogen Receptor Regulation by CARM1 Pathway))) 47.86%
+- [UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface) and (not ([NCIT:C39011](http://purl.obolibrary.org/obo/NCIT_C39011) (Cardiac Hypertrophy Pathway))) 47.86%
+- [UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface) and (not ([NCIT:C3901](http://purl.obolibrary.org/obo/NCIT_C3901) (Compound Nevus))) 47.86%
+- [UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface) and (not ([NCIT:C39006](http://purl.obolibrary.org/obo/NCIT_C39006) (Bioactive Peptide Signaling Pathway))) 47.86%
+- [UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface) and (not ([NCIT:C39004](http://purl.obolibrary.org/obo/NCIT_C39004) (B-Cell Survival Pathway))) 47.86%
+- [UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface) and (not ([NCIT:C38999](http://purl.obolibrary.org/obo/NCIT_C38999) (BARD1 Pathway))) 47.86%
+- [UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface) and (not ([NCIT:C38998](http://purl.obolibrary.org/obo/NCIT_C38998) (BAD Regulation Pathway))) 47.86%
+- [UBERON:0006984](http://purl.obolibrary.org/obo/UBERON_0006984) (anatomical surface) and (not ([NCIT:C38997](http://purl.obolibrary.org/obo/NCIT_C38997) (Cancer Susceptibility Pathway))) 47.86%
 
 

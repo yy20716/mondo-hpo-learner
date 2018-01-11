@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 56.14%
-- [NCIT:C36451](http://purl.obolibrary.org/obo/NCIT_C36451) (Clonal Immunoglobulin Kappa Light Chain Gene Rearrangement) 50.88%
-- [NCIT:C36448](http://purl.obolibrary.org/obo/NCIT_C36448) (Clonal T-Cell Receptor Gamma Chain Gene Rearrangement) 50.88%
-- [NCIT:C36447](http://purl.obolibrary.org/obo/NCIT_C36447) (Clonal T-Cell Receptor Beta Chain Gene Rearrangement) 50.88%
-- [NCIT:C36444](http://purl.obolibrary.org/obo/NCIT_C36444) (Clonal Immunoglobulin Heavy Chain Gene Rearrangement) 50.88%
-- [NCIT:C122623](http://purl.obolibrary.org/obo/NCIT_C122623) (KMT2A Gene Rearrangement) 50.88%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) 42.58%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 42.58%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 42.58%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 42.58%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 42.58%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 42.58%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 42.58%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 42.58%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 42.58%
+- Thing 56.35%
+- [NCIT:C36451](http://purl.obolibrary.org/obo/NCIT_C36451) (Clonal Immunoglobulin Kappa Light Chain Gene Rearrangement) 51.28%
+- [NCIT:C36448](http://purl.obolibrary.org/obo/NCIT_C36448) (Clonal T-Cell Receptor Gamma Chain Gene Rearrangement) 51.28%
+- [NCIT:C36447](http://purl.obolibrary.org/obo/NCIT_C36447) (Clonal T-Cell Receptor Beta Chain Gene Rearrangement) 51.28%
+- [NCIT:C36444](http://purl.obolibrary.org/obo/NCIT_C36444) (Clonal Immunoglobulin Heavy Chain Gene Rearrangement) 51.28%
+- [NCIT:C122623](http://purl.obolibrary.org/obo/NCIT_C122623) (KMT2A Gene Rearrangement) 51.28%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) 43.39%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C39687](http://purl.obolibrary.org/obo/NCIT_C39687) (Activated Mature Cytotoxic T-Lymphocyte))) 43.39%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C39686](http://purl.obolibrary.org/obo/NCIT_C39686) (Activated Skin-Homing T-Lymphocyte))) 43.39%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C39682](http://purl.obolibrary.org/obo/NCIT_C39682) (Flower-Like T-Lymphocyte))) 43.39%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C39681](http://purl.obolibrary.org/obo/NCIT_C39681) (Neoplastic Small to Medium-Sized T-Lymphocyte with Irregular Nucleus))) 43.39%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C39680](http://purl.obolibrary.org/obo/NCIT_C39680) (Doughnut Cell))) 43.39%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C39679](http://purl.obolibrary.org/obo/NCIT_C39679) (Hallmark Cell))) 43.39%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C39674](http://purl.obolibrary.org/obo/NCIT_C39674) (Anaplastic Large Cell Lymphoma, Giant Cell Rich Subtype))) 43.39%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C39657](http://purl.obolibrary.org/obo/NCIT_C39657) (Neoplastic T-Lymphocyte with Clear Cytoplasm))) 43.39%
 
 

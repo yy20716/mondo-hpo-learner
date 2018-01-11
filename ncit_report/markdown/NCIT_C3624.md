@@ -9,7 +9,7 @@
 - [UBERON:0005388](http://purl.obolibrary.org/obo/UBERON_0005388) (photoreceptor array) 66.67%
 - [UBERON:0000966](http://purl.obolibrary.org/obo/UBERON_0000966) (retina) 66.67%
 - [NCIT:C36328](http://purl.obolibrary.org/obo/NCIT_C36328) (RB1 Gene Inactivation) 66.67%
-- Thing 51.41%
+- Thing 51.76%
 - [NCIT:C36334](http://purl.obolibrary.org/obo/NCIT_C36334) (Tumor-Suppressor Gene Inactivation) 27.58%
 - [NCIT:C36327](http://purl.obolibrary.org/obo/NCIT_C36327) (Gene Abnormality) 20.79%
 - [NCIT:C36391](http://purl.obolibrary.org/obo/NCIT_C36391) (Molecular Genetic Variation) 20.30%

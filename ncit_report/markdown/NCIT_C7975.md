@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C3442](http://purl.obolibrary.org/obo/NCIT_C3442) (Vomiting) 53.85%
-- [NCIT:C3258](http://purl.obolibrary.org/obo/NCIT_C3258) (Nausea) 53.85%
-- [NCIT:C3143](http://purl.obolibrary.org/obo/NCIT_C3143) (Jaundice) 53.85%
-- Thing 52.93%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) 48.52%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C35874](http://purl.obolibrary.org/obo/NCIT_C35874) (Endemic African Kaposi Sarcoma))) 48.52%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C35860](http://purl.obolibrary.org/obo/NCIT_C35860) (Cartilaginous Metaplasia))) 48.52%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C35859](http://purl.obolibrary.org/obo/NCIT_C35859) (Osseous Metaplasia))) 48.52%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C35854](http://purl.obolibrary.org/obo/NCIT_C35854) (Grade 4 Clear Cell Renal Cell Carcinoma))) 48.52%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C35853](http://purl.obolibrary.org/obo/NCIT_C35853) (Grade 3 Clear Cell Renal Cell Carcinoma))) 48.52%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C35852](http://purl.obolibrary.org/obo/NCIT_C35852) (Grade 2 Clear Cell Renal Cell Carcinoma))) 48.52%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C35851](http://purl.obolibrary.org/obo/NCIT_C35851) (Grade 1 Clear Cell Renal Cell Carcinoma))) 48.52%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C35845](http://purl.obolibrary.org/obo/NCIT_C35845) (Basal Cell Hyperplasia))) 48.52%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C35837](http://purl.obolibrary.org/obo/NCIT_C35837) (Salivary Gland Sialoblastoma))) 48.52%
-- [NCIT:C3259](http://purl.obolibrary.org/obo/NCIT_C3259) (Nausea and Vomiting) and (not ([NCIT:C35836](http://purl.obolibrary.org/obo/NCIT_C35836) (Salivary Gland Sialadenoma Papilliferum))) 48.52%
+- [UBERON:0002394](http://purl.obolibrary.org/obo/UBERON_0002394) (bile duct) 72.36%
+- [UBERON:0000058](http://purl.obolibrary.org/obo/UBERON_0000058) (duct) 66.67%
+- [UBERON:0000063](http://purl.obolibrary.org/obo/UBERON_0000063) (organ subunit) 66.22%
+- [UBERON:0004119](http://purl.obolibrary.org/obo/UBERON_0004119) (endoderm-derived structure) 59.71%
+- [UBERON:0000064](http://purl.obolibrary.org/obo/UBERON_0000064) (organ part) 56.35%
+- [UBERON:0003704](http://purl.obolibrary.org/obo/UBERON_0003704) (intrahepatic bile duct) 53.87%
+- [UBERON:0010000](http://purl.obolibrary.org/obo/UBERON_0010000) (multicellular anatomical structure) 53.48%
+- [UBERON:0000061](http://purl.obolibrary.org/obo/UBERON_0000061) (anatomical structure) 53.38%
+- [UBERON:0000465](http://purl.obolibrary.org/obo/UBERON_0000465) (material anatomical entity) 53.35%
+- [UBERON:0001062](http://purl.obolibrary.org/obo/UBERON_0001062) (anatomical entity) 53.01%
+- [BFO:0000040](http://purl.obolibrary.org/obo/BFO_0000040) (material entity) 52.97%
+- [BFO:0000004](http://purl.obolibrary.org/obo/BFO_0000004) (null) 52.67%
+- [BFO:0000002](http://purl.obolibrary.org/obo/BFO_0000002) (null) 52.66%
+- Thing 51.44%
+- [UBERON:0003703](http://purl.obolibrary.org/obo/UBERON_0003703) (extrahepatic bile duct) 50.00%
 
 

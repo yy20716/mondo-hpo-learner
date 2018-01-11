@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.55%
-- [NCIT:C28371](http://purl.obolibrary.org/obo/NCIT_C28371) (Cold Nodule) 52.63%
-- [NCIT:C3280](http://purl.obolibrary.org/obo/NCIT_C3280) (Nodule) and (not ([NCIT:C39618](http://purl.obolibrary.org/obo/NCIT_C39618) (Subcutaneous Nodule))) 52.63%
-- [NCIT:C3280](http://purl.obolibrary.org/obo/NCIT_C3280) (Nodule) 37.99%
-- [NCIT:C3280](http://purl.obolibrary.org/obo/NCIT_C3280) (Nodule) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 37.99%
-- [NCIT:C3280](http://purl.obolibrary.org/obo/NCIT_C3280) (Nodule) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 37.99%
-- [NCIT:C3280](http://purl.obolibrary.org/obo/NCIT_C3280) (Nodule) and (not ([NCIT:C39966](http://purl.obolibrary.org/obo/NCIT_C39966) (Ovarian Sertoli-Stromal Cell Tumor))) 37.99%
-- [NCIT:C3280](http://purl.obolibrary.org/obo/NCIT_C3280) (Nodule) and (not ([NCIT:C39963](http://purl.obolibrary.org/obo/NCIT_C39963) (Penile Bowenoid Papulosis))) 37.99%
-- [NCIT:C3280](http://purl.obolibrary.org/obo/NCIT_C3280) (Nodule) and (not ([NCIT:C39961](http://purl.obolibrary.org/obo/NCIT_C39961) (Penile Basal Cell Carcinoma))) 37.99%
-- [NCIT:C3280](http://purl.obolibrary.org/obo/NCIT_C3280) (Nodule) and (not ([NCIT:C39959](http://purl.obolibrary.org/obo/NCIT_C39959) (Mixed Squamous Cell Carcinoma of the Penis))) 37.99%
-- [NCIT:C3280](http://purl.obolibrary.org/obo/NCIT_C3280) (Nodule) and (not ([NCIT:C39957](http://purl.obolibrary.org/obo/NCIT_C39957) (Epididymal Adenocarcinoma))) 37.99%
-- [NCIT:C3280](http://purl.obolibrary.org/obo/NCIT_C3280) (Nodule) and (not ([NCIT:C39956](http://purl.obolibrary.org/obo/NCIT_C39956) (Rete Testis Adenoma))) 37.99%
-- [NCIT:C3280](http://purl.obolibrary.org/obo/NCIT_C3280) (Nodule) and (not ([NCIT:C3994](http://purl.obolibrary.org/obo/NCIT_C3994) (Stage IV Colon Cancer AJCC v6))) 37.99%
-- [NCIT:C3280](http://purl.obolibrary.org/obo/NCIT_C3280) (Nodule) and (not ([NCIT:C3993](http://purl.obolibrary.org/obo/NCIT_C3993) (Stage II Colon Cancer AJCC v6))) 37.99%
-- [NCIT:C3280](http://purl.obolibrary.org/obo/NCIT_C3280) (Nodule) and (not ([NCIT:C39914](http://purl.obolibrary.org/obo/NCIT_C39914) (Gain of Chromosome 12p))) 37.99%
+- [NCIT:C36935](http://purl.obolibrary.org/obo/NCIT_C36935) (Neoplastic Neuroendocrine Spindle Cell) 57.14%
+- [NCIT:C36855](http://purl.obolibrary.org/obo/NCIT_C36855) (Malignant Neuroendocrine Polygonal Cell) 57.14%
+- [NCIT:C36854](http://purl.obolibrary.org/obo/NCIT_C36854) (Malignant Neuroendocrine Spindle Cell) 57.14%
+- [NCIT:C36929](http://purl.obolibrary.org/obo/NCIT_C36929) (Malignant Endocrine Cell) and [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) 57.14%
+- [NCIT:C36825](http://purl.obolibrary.org/obo/NCIT_C36825) (Malignant Neuroendocrine Cell) and [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) 57.14%
+- [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) and [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) 57.14%
+- [NCIT:C36779](http://purl.obolibrary.org/obo/NCIT_C36779) (Malignant Epithelial Cell) and [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) 57.14%
+- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) 57.14%
+- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C36807](http://purl.obolibrary.org/obo/NCIT_C36807) (Dysplastic Epithelial Cell) and [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) 57.14%
+- Thing 52.69%
+- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) 42.50%
+- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C3140](http://purl.obolibrary.org/obo/NCIT_C3140) (Pancreatic Insulin-Producing Neuroendocrine Tumor))) 42.50%
+- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C3134](http://purl.obolibrary.org/obo/NCIT_C3134) (Epidermal Inclusion Cyst))) 42.50%
+- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C3133](http://purl.obolibrary.org/obo/NCIT_C3133) (Impotence))) 42.50%
+- [NCIT:C36933](http://purl.obolibrary.org/obo/NCIT_C36933) (Neoplastic Neuroendocrine Polygonal Cell) and (not ([NCIT:C3132](http://purl.obolibrary.org/obo/NCIT_C3132) (Alpha Heavy Chain Disease))) 42.50%
 
 

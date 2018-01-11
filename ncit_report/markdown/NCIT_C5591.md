@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.82%
-- [NCIT:C53666](http://purl.obolibrary.org/obo/NCIT_C53666) (Malignant Cell with Large Nucleus and Abundant Eosinophilic Cytoplasm) 52.27%
-- [NCIT:C42084](http://purl.obolibrary.org/obo/NCIT_C42084) (Neoplastic Mature Ganglion Cell) 52.27%
-- [NCIT:C37147](http://purl.obolibrary.org/obo/NCIT_C37147) (Neoplastic Oligodendrocyte-Like Cell) 52.27%
-- [NCIT:C37141](http://purl.obolibrary.org/obo/NCIT_C37141) (Neoplastic Oligodendrocyte) 52.27%
-- [NCIT:C37143](http://purl.obolibrary.org/obo/NCIT_C37143) (Neoplastic Ependymal Cell) 37.63%
-- [NCIT:C37143](http://purl.obolibrary.org/obo/NCIT_C37143) (Neoplastic Ependymal Cell) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 37.63%
-- [NCIT:C37143](http://purl.obolibrary.org/obo/NCIT_C37143) (Neoplastic Ependymal Cell) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 37.63%
-- [NCIT:C37143](http://purl.obolibrary.org/obo/NCIT_C37143) (Neoplastic Ependymal Cell) and (not ([NCIT:C40066](http://purl.obolibrary.org/obo/NCIT_C40066) (Undifferentiated Ovarian Sarcoma))) 37.63%
-- [NCIT:C37143](http://purl.obolibrary.org/obo/NCIT_C37143) (Neoplastic Ependymal Cell) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 37.63%
-- [NCIT:C37143](http://purl.obolibrary.org/obo/NCIT_C37143) (Neoplastic Ependymal Cell) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 37.63%
-- [NCIT:C37143](http://purl.obolibrary.org/obo/NCIT_C37143) (Neoplastic Ependymal Cell) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 37.63%
-- [NCIT:C37143](http://purl.obolibrary.org/obo/NCIT_C37143) (Neoplastic Ependymal Cell) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 37.63%
-- [NCIT:C37143](http://purl.obolibrary.org/obo/NCIT_C37143) (Neoplastic Ependymal Cell) and (not ([NCIT:C40034](http://purl.obolibrary.org/obo/NCIT_C40034) (Ovarian Mucinous Adenocarcinofibroma))) 37.63%
-- [NCIT:C37143](http://purl.obolibrary.org/obo/NCIT_C37143) (Neoplastic Ependymal Cell) and (not ([NCIT:C40032](http://purl.obolibrary.org/obo/NCIT_C40032) (Ovarian Serous Cystadenofibroma))) 37.63%
+- [NCIT:C53666](http://purl.obolibrary.org/obo/NCIT_C53666) (Malignant Cell with Large Nucleus and Abundant Eosinophilic Cytoplasm) 54.17%
+- [NCIT:C42084](http://purl.obolibrary.org/obo/NCIT_C42084) (Neoplastic Mature Ganglion Cell) 54.17%
+- [NCIT:C37147](http://purl.obolibrary.org/obo/NCIT_C37147) (Neoplastic Oligodendrocyte-Like Cell) 54.17%
+- [NCIT:C37141](http://purl.obolibrary.org/obo/NCIT_C37141) (Neoplastic Oligodendrocyte) 54.17%
+- Thing 53.52%
+- [NCIT:C37125](http://purl.obolibrary.org/obo/NCIT_C37125) (Neoplastic Neuroepithelial Cell) 47.36%
+- [NCIT:C41408](http://purl.obolibrary.org/obo/NCIT_C41408) (Neoplastic Neuroepithelial Cell and Neoplastic Perineural Cell) 45.41%
+- [NCIT:C12922](http://purl.obolibrary.org/obo/NCIT_C12922) (Neoplastic Cell) 44.94%
+- [NCIT:C12913](http://purl.obolibrary.org/obo/NCIT_C12913) (Abnormal Cell) 44.59%
+- [NCIT:C37126](http://purl.obolibrary.org/obo/NCIT_C37126) (Neoplastic Glial Cell) 40.92%
+- [NCIT:C37143](http://purl.obolibrary.org/obo/NCIT_C37143) (Neoplastic Ependymal Cell) 39.52%
+- [NCIT:C37143](http://purl.obolibrary.org/obo/NCIT_C37143) (Neoplastic Ependymal Cell) and (not ([NCIT:C38327](http://purl.obolibrary.org/obo/NCIT_C38327) (Immature Peripheral Alpha/Beta Cell of Cytotoxic Type))) 39.52%
+- [NCIT:C37143](http://purl.obolibrary.org/obo/NCIT_C37143) (Neoplastic Ependymal Cell) and (not ([NCIT:C38326](http://purl.obolibrary.org/obo/NCIT_C38326) (Immature Peripheral Gamma/Delta Cell of Cytotoxic Type))) 39.52%
+- [NCIT:C37143](http://purl.obolibrary.org/obo/NCIT_C37143) (Neoplastic Ependymal Cell) and (not ([NCIT:C38323](http://purl.obolibrary.org/obo/NCIT_C38323) (Peripheral Epidermotropic T-Lymphocyte))) 39.52%
+- [NCIT:C37143](http://purl.obolibrary.org/obo/NCIT_C37143) (Neoplastic Ependymal Cell) and (not ([NCIT:C38322](http://purl.obolibrary.org/obo/NCIT_C38322) (Marginal Zone B-Lymphocyte of Nodal Type))) 39.52%
 
 

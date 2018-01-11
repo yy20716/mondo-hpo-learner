@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.73%
-- [NCIT:C36448](http://purl.obolibrary.org/obo/NCIT_C36448) (Clonal T-Cell Receptor Gamma Chain Gene Rearrangement) 52.38%
-- [NCIT:C36447](http://purl.obolibrary.org/obo/NCIT_C36447) (Clonal T-Cell Receptor Beta Chain Gene Rearrangement) 52.38%
-- [NCIT:C36429](http://purl.obolibrary.org/obo/NCIT_C36429) (del(12p13)) 52.38%
-- [NCIT:C36428](http://purl.obolibrary.org/obo/NCIT_C36428) (Trisomy 8q) 52.38%
-- [NCIT:C36427](http://purl.obolibrary.org/obo/NCIT_C36427) (t(8;8)(p11-12;q12)) 52.38%
-- [NCIT:C36426](http://purl.obolibrary.org/obo/NCIT_C36426) (inv(14)) 52.38%
-- [NCIT:C36360](http://purl.obolibrary.org/obo/NCIT_C36360) (t(X;14)(q28;11)) 52.38%
-- [NCIT:C36356](http://purl.obolibrary.org/obo/NCIT_C36356) (t(14;14)(q11;q32)) 52.38%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) 45.59%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C3880](http://purl.obolibrary.org/obo/NCIT_C3880) (Eyelid Nevus))) 45.59%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C38784](http://purl.obolibrary.org/obo/NCIT_C38784) (Apoptosis Pathway))) 45.59%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C38770](http://purl.obolibrary.org/obo/NCIT_C38770) (Squamous Differentiation))) 45.59%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C38762](http://purl.obolibrary.org/obo/NCIT_C38762) (Thyroid Gland Mucoepidermoid Carcinoma))) 45.59%
-- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C3876](http://purl.obolibrary.org/obo/NCIT_C3876) (Gastric Leiomyoma))) 45.59%
+- [NCIT:C36448](http://purl.obolibrary.org/obo/NCIT_C36448) (Clonal T-Cell Receptor Gamma Chain Gene Rearrangement) 54.17%
+- [NCIT:C36447](http://purl.obolibrary.org/obo/NCIT_C36447) (Clonal T-Cell Receptor Beta Chain Gene Rearrangement) 54.17%
+- [NCIT:C36429](http://purl.obolibrary.org/obo/NCIT_C36429) (del(12p13)) 54.17%
+- [NCIT:C36428](http://purl.obolibrary.org/obo/NCIT_C36428) (Trisomy 8q) 54.17%
+- [NCIT:C36427](http://purl.obolibrary.org/obo/NCIT_C36427) (t(8;8)(p11-12;q12)) 54.17%
+- [NCIT:C36426](http://purl.obolibrary.org/obo/NCIT_C36426) (inv(14)) 54.17%
+- [NCIT:C36360](http://purl.obolibrary.org/obo/NCIT_C36360) (t(X;14)(q28;11)) 54.17%
+- [NCIT:C36356](http://purl.obolibrary.org/obo/NCIT_C36356) (t(14;14)(q11;q32)) 54.17%
+- Thing 53.52%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) 49.16%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C38457](http://purl.obolibrary.org/obo/NCIT_C38457) (Clonal BCL3 Gene Rearrangement))) 49.16%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C38450](http://purl.obolibrary.org/obo/NCIT_C38450) (Colony-Stimulating Factor Overexpression))) 49.16%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C38448](http://purl.obolibrary.org/obo/NCIT_C38448) (Lymphotoxin-Alpha Overexpression))) 49.16%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C38447](http://purl.obolibrary.org/obo/NCIT_C38447) (Interleukin-13 Overexpression))) 49.16%
+- [NCIT:C36446](http://purl.obolibrary.org/obo/NCIT_C36446) (Clonal T-Cell Receptor Gene Rearrangement) and (not ([NCIT:C38446](http://purl.obolibrary.org/obo/NCIT_C38446) (Interleukin-10 Overexpression))) 49.16%
 
 

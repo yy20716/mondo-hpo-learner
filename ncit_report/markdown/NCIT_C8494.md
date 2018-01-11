@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) 59.53%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39748](http://purl.obolibrary.org/obo/NCIT_C39748) (Lymphoblast-Like Neoplastic B-Lymphocyte))) 59.53%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39747](http://purl.obolibrary.org/obo/NCIT_C39747) (Pleomorphic Variant Mantle Cell Lymphoma))) 59.53%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39743](http://purl.obolibrary.org/obo/NCIT_C39743) (Fascicular Pattern))) 59.53%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39741](http://purl.obolibrary.org/obo/NCIT_C39741) (Retroperitoneal Inflammatory Myofibroblastic Tumor))) 59.53%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39740](http://purl.obolibrary.org/obo/NCIT_C39740) (Lung Inflammatory Myofibroblastic Tumor))) 59.53%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39739](http://purl.obolibrary.org/obo/NCIT_C39739) (Negative Peripheral Blood))) 59.53%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39725](http://purl.obolibrary.org/obo/NCIT_C39725) (Immunodeficiency))) 59.53%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39721](http://purl.obolibrary.org/obo/NCIT_C39721) (Abundance of Small Lymphocytes))) 59.53%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39720](http://purl.obolibrary.org/obo/NCIT_C39720) (Classical Reed-Sternberg Cell))) 59.53%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C3972](http://purl.obolibrary.org/obo/NCIT_C3972) (Prostate Fibroma))) 59.53%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39719](http://purl.obolibrary.org/obo/NCIT_C39719) (PDGFRalpha Protein Overexpression))) 59.53%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39718](http://purl.obolibrary.org/obo/NCIT_C39718) (PDGFRA Gene Mutation))) 59.53%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39717](http://purl.obolibrary.org/obo/NCIT_C39717) (MDM2 Gene Mutation))) 59.53%
-- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C39716](http://purl.obolibrary.org/obo/NCIT_C39716) (EGFR Protein Overexpression))) 59.53%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) 68.37%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C38660](http://purl.obolibrary.org/obo/NCIT_C38660) (Neoplastic Large B-Lymphocyte with Pale Cytoplasm))) 68.37%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C3866](http://purl.obolibrary.org/obo/NCIT_C3866) (Esophageal Leiomyoma))) 68.37%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C38658](http://purl.obolibrary.org/obo/NCIT_C38658) (Transformed Peripheral B-Lymphocyte))) 68.37%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C38657](http://purl.obolibrary.org/obo/NCIT_C38657) (Neoplastic Immunoblast-Like B-Lymphocyte))) 68.37%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C38656](http://purl.obolibrary.org/obo/NCIT_C38656) (ALK Kinase Overexpression))) 68.37%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C38655](http://purl.obolibrary.org/obo/NCIT_C38655) (Bulky Disease))) 68.37%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C38650](http://purl.obolibrary.org/obo/NCIT_C38650) (Defective Mu Heavy Chain Present))) 68.37%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C38649](http://purl.obolibrary.org/obo/NCIT_C38649) (Vacuolated Plasma Cells in the Bone Marrow))) 68.37%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C38648](http://purl.obolibrary.org/obo/NCIT_C38648) (Negative Bone Marrow and Peripheral Blood))) 68.37%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C38647](http://purl.obolibrary.org/obo/NCIT_C38647) (Prolymphocytes Exceed 55 Percent of Lymphoid Cells in the Peripheral Blood))) 68.37%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C38646](http://purl.obolibrary.org/obo/NCIT_C38646) (Fried-Egg Appearance of the Bone Marrow))) 68.37%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C38645](http://purl.obolibrary.org/obo/NCIT_C38645) (Tartrate Resistant Acid Phosphatase Positive Cells Present))) 68.37%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C38644](http://purl.obolibrary.org/obo/NCIT_C38644) (Bone Pain))) 68.37%
+- [NCIT:C19676](http://purl.obolibrary.org/obo/NCIT_C19676) (DNA Repair Gene) and (not ([NCIT:C38643](http://purl.obolibrary.org/obo/NCIT_C38643) (Extensive Bone Marrow and Blood Involvement))) 68.37%
 
 

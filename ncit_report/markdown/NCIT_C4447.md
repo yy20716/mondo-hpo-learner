@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [UBERON:0004120](http://purl.obolibrary.org/obo/UBERON_0004120) (mesoderm-derived structure) and [UBERON:0010313](http://purl.obolibrary.org/obo/UBERON_0010313) (neural crest-derived structure) 61.11%
-- Thing 53.45%
-- [UBERON:0018303](http://purl.obolibrary.org/obo/UBERON_0018303) (adrenal tissue) 52.78%
-- [UBERON:0006858](http://purl.obolibrary.org/obo/UBERON_0006858) (adrenal/interrenal gland) 52.78%
-- [UBERON:0003693](http://purl.obolibrary.org/obo/UBERON_0003693) (retroperitoneal space) 52.78%
-- [UBERON:0002369](http://purl.obolibrary.org/obo/UBERON_0002369) (adrenal gland) 52.78%
-- [UBERON:0001236](http://purl.obolibrary.org/obo/UBERON_0001236) (adrenal medulla) 52.78%
-- [UBERON:0001235](http://purl.obolibrary.org/obo/UBERON_0001235) (adrenal cortex) 52.78%
-- [NCIT:C48358](http://purl.obolibrary.org/obo/NCIT_C48358) (Adrenal Cortical Cell) 52.78%
-- [UBERON:0006858](http://purl.obolibrary.org/obo/UBERON_0006858) (adrenal/interrenal gland) and [UBERON:0015212](http://purl.obolibrary.org/obo/UBERON_0015212) (lateral structure) 52.78%
-- [UBERON:0005177](http://purl.obolibrary.org/obo/UBERON_0005177) (trunk region element) and [UBERON:0010313](http://purl.obolibrary.org/obo/UBERON_0010313) (neural crest-derived structure) 52.78%
-- [UBERON:0005177](http://purl.obolibrary.org/obo/UBERON_0005177) (trunk region element) and [UBERON:0006858](http://purl.obolibrary.org/obo/UBERON_0006858) (adrenal/interrenal gland) 52.78%
-- [UBERON:0005173](http://purl.obolibrary.org/obo/UBERON_0005173) (abdominal segment element) and [UBERON:0010313](http://purl.obolibrary.org/obo/UBERON_0010313) (neural crest-derived structure) 52.78%
-- [UBERON:0005173](http://purl.obolibrary.org/obo/UBERON_0005173) (abdominal segment element) and [UBERON:0006858](http://purl.obolibrary.org/obo/UBERON_0006858) (adrenal/interrenal gland) 52.78%
-- [UBERON:0005172](http://purl.obolibrary.org/obo/UBERON_0005172) (abdomen element) and [UBERON:0010313](http://purl.obolibrary.org/obo/UBERON_0010313) (neural crest-derived structure) 52.78%
+- [UBERON:0004120](http://purl.obolibrary.org/obo/UBERON_0004120) (mesoderm-derived structure) and [UBERON:0010313](http://purl.obolibrary.org/obo/UBERON_0010313) (neural crest-derived structure) 66.67%
+- [UBERON:0018303](http://purl.obolibrary.org/obo/UBERON_0018303) (adrenal tissue) 54.17%
+- [UBERON:0006858](http://purl.obolibrary.org/obo/UBERON_0006858) (adrenal/interrenal gland) 54.17%
+- [UBERON:0003693](http://purl.obolibrary.org/obo/UBERON_0003693) (retroperitoneal space) 54.17%
+- [UBERON:0002369](http://purl.obolibrary.org/obo/UBERON_0002369) (adrenal gland) 54.17%
+- [UBERON:0001236](http://purl.obolibrary.org/obo/UBERON_0001236) (adrenal medulla) 54.17%
+- [UBERON:0001235](http://purl.obolibrary.org/obo/UBERON_0001235) (adrenal cortex) 54.17%
+- [NCIT:C48358](http://purl.obolibrary.org/obo/NCIT_C48358) (Adrenal Cortical Cell) 54.17%
+- [UBERON:0006858](http://purl.obolibrary.org/obo/UBERON_0006858) (adrenal/interrenal gland) and [UBERON:0015212](http://purl.obolibrary.org/obo/UBERON_0015212) (lateral structure) 54.17%
+- [UBERON:0005177](http://purl.obolibrary.org/obo/UBERON_0005177) (trunk region element) and [UBERON:0010313](http://purl.obolibrary.org/obo/UBERON_0010313) (neural crest-derived structure) 54.17%
+- [UBERON:0005177](http://purl.obolibrary.org/obo/UBERON_0005177) (trunk region element) and [UBERON:0006858](http://purl.obolibrary.org/obo/UBERON_0006858) (adrenal/interrenal gland) 54.17%
+- [UBERON:0005173](http://purl.obolibrary.org/obo/UBERON_0005173) (abdominal segment element) and [UBERON:0010313](http://purl.obolibrary.org/obo/UBERON_0010313) (neural crest-derived structure) 54.17%
+- [UBERON:0005173](http://purl.obolibrary.org/obo/UBERON_0005173) (abdominal segment element) and [UBERON:0006858](http://purl.obolibrary.org/obo/UBERON_0006858) (adrenal/interrenal gland) 54.17%
+- [UBERON:0005172](http://purl.obolibrary.org/obo/UBERON_0005172) (abdomen element) and [UBERON:0010313](http://purl.obolibrary.org/obo/UBERON_0010313) (neural crest-derived structure) 54.17%
+- [UBERON:0005172](http://purl.obolibrary.org/obo/UBERON_0005172) (abdomen element) and [UBERON:0006858](http://purl.obolibrary.org/obo/UBERON_0006858) (adrenal/interrenal gland) 54.17%
 
 

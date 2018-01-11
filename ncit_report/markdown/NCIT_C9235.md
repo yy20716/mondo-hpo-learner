@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.31%
-- [NCIT:C43285](http://purl.obolibrary.org/obo/NCIT_C43285) (Unifocal Disease at Presentation) 51.79%
-- [NCIT:C36105](http://purl.obolibrary.org/obo/NCIT_C36105) (Indolent Clinical Course) 51.79%
-- [NCIT:C36104](http://purl.obolibrary.org/obo/NCIT_C36104) (Aggressive Clinical Course) 51.79%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 45.65%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 41.68%
-- [NCIT:C9229](http://purl.obolibrary.org/obo/NCIT_C9229) (Systemic Disease) 37.14%
-- [NCIT:C43257](http://purl.obolibrary.org/obo/NCIT_C43257) (Unifocal Disease) 37.14%
-- [NCIT:C43257](http://purl.obolibrary.org/obo/NCIT_C43257) (Unifocal Disease) and (not ([NCIT:C40090](http://purl.obolibrary.org/obo/NCIT_C40090) (Ovarian Seromucinous Carcinoma))) 37.14%
-- [NCIT:C43257](http://purl.obolibrary.org/obo/NCIT_C43257) (Unifocal Disease) and (not ([NCIT:C40086](http://purl.obolibrary.org/obo/NCIT_C40086) (Ovarian Clear Cell Cystadenofibroma))) 37.14%
-- [NCIT:C43257](http://purl.obolibrary.org/obo/NCIT_C43257) (Unifocal Disease) and (not ([NCIT:C40083](http://purl.obolibrary.org/obo/NCIT_C40083) (Borderline Ovarian Clear Cell Cystadenofibroma))) 37.14%
-- [NCIT:C43257](http://purl.obolibrary.org/obo/NCIT_C43257) (Unifocal Disease) and (not ([NCIT:C40082](http://purl.obolibrary.org/obo/NCIT_C40082) (Borderline Ovarian Clear Cell Adenofibroma with Intraepithelial Carcinoma))) 37.14%
-- [NCIT:C43257](http://purl.obolibrary.org/obo/NCIT_C43257) (Unifocal Disease) and (not ([NCIT:C4008](http://purl.obolibrary.org/obo/NCIT_C4008) (Recurrent Gallbladder Carcinoma))) 37.14%
-- [NCIT:C43257](http://purl.obolibrary.org/obo/NCIT_C43257) (Unifocal Disease) and (not ([NCIT:C40079](http://purl.obolibrary.org/obo/NCIT_C40079) (Ovarian Clear Cell Adenocarcinofibroma))) 37.14%
-- [NCIT:C43257](http://purl.obolibrary.org/obo/NCIT_C43257) (Unifocal Disease) and (not ([NCIT:C40075](http://purl.obolibrary.org/obo/NCIT_C40075) (Ovarian Endometrioid Cystadenoma))) 37.14%
+- [NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell) and [NCIT:C37062](http://purl.obolibrary.org/obo/NCIT_C37062) (Neoplastic Mast Cell) 66.67%
+- [NCIT:C43274](http://purl.obolibrary.org/obo/NCIT_C43274) (Leukemic Mast Cell) 58.33%
+- [NCIT:C37063](http://purl.obolibrary.org/obo/NCIT_C37063) (Immature Malignant Mast Cell) 58.33%
+- [NCIT:C25553](http://purl.obolibrary.org/obo/NCIT_C25553) (Leukemic Cell) and [NCIT:C37062](http://purl.obolibrary.org/obo/NCIT_C37062) (Neoplastic Mast Cell) 58.33%
+- [NCIT:C37062](http://purl.obolibrary.org/obo/NCIT_C37062) (Neoplastic Mast Cell) 57.49%
+- [NCIT:C37062](http://purl.obolibrary.org/obo/NCIT_C37062) (Neoplastic Mast Cell) and (not ([NCIT:C38173](http://purl.obolibrary.org/obo/NCIT_C38173) (BCL2 Gene mRNA Overexpression))) 57.49%
+- [NCIT:C37062](http://purl.obolibrary.org/obo/NCIT_C37062) (Neoplastic Mast Cell) and (not ([NCIT:C38172](http://purl.obolibrary.org/obo/NCIT_C38172) (Cyclin D2 Messenger RNA Overexpression))) 57.49%
+- [NCIT:C37062](http://purl.obolibrary.org/obo/NCIT_C37062) (Neoplastic Mast Cell) and (not ([NCIT:C38171](http://purl.obolibrary.org/obo/NCIT_C38171) (PKCbeta1 Messenger RNA Overexpression))) 57.49%
+- [NCIT:C37062](http://purl.obolibrary.org/obo/NCIT_C37062) (Neoplastic Mast Cell) and (not ([NCIT:C38170](http://purl.obolibrary.org/obo/NCIT_C38170) (LMO2 Messenger RNA Overexpression))) 57.49%
+- [NCIT:C37062](http://purl.obolibrary.org/obo/NCIT_C37062) (Neoplastic Mast Cell) and (not ([NCIT:C38169](http://purl.obolibrary.org/obo/NCIT_C38169) (A-myb Messenger RNA Overexpression))) 57.49%
+- [NCIT:C37062](http://purl.obolibrary.org/obo/NCIT_C37062) (Neoplastic Mast Cell) and (not ([NCIT:C38168](http://purl.obolibrary.org/obo/NCIT_C38168) (BCL-6 Messenger RNA Overexpression))) 57.49%
+- [NCIT:C37062](http://purl.obolibrary.org/obo/NCIT_C37062) (Neoplastic Mast Cell) and (not ([NCIT:C38167](http://purl.obolibrary.org/obo/NCIT_C38167) (CD10 Messenger RNA Overexpression))) 57.49%
+- [NCIT:C37062](http://purl.obolibrary.org/obo/NCIT_C37062) (Neoplastic Mast Cell) and (not ([NCIT:C38158](http://purl.obolibrary.org/obo/NCIT_C38158) (Metachronous Wilms Tumor))) 57.49%
+- [NCIT:C37062](http://purl.obolibrary.org/obo/NCIT_C37062) (Neoplastic Mast Cell) and (not ([NCIT:C38157](http://purl.obolibrary.org/obo/NCIT_C38157) (Metachronous Osteosarcoma))) 57.49%
+- [NCIT:C37062](http://purl.obolibrary.org/obo/NCIT_C37062) (Neoplastic Mast Cell) and (not ([NCIT:C38155](http://purl.obolibrary.org/obo/NCIT_C38155) (Recurrent Disease))) 57.49%
 
 

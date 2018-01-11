@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C47813](http://purl.obolibrary.org/obo/NCIT_C47813) (Hoarseness) 58.33%
-- [NCIT:C37935](http://purl.obolibrary.org/obo/NCIT_C37935) (Cough) 58.33%
-- [NCIT:C3676](http://purl.obolibrary.org/obo/NCIT_C3676) (Alteration in Respiration) 58.33%
-- [NCIT:C3094](http://purl.obolibrary.org/obo/NCIT_C3094) (Hemoptysis) 58.33%
-- [NCIT:C2998](http://purl.obolibrary.org/obo/NCIT_C2998) (Dyspnea) 58.33%
-- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C27165](http://purl.obolibrary.org/obo/NCIT_C27165) (Respiratory Distress))) 58.33%
-- [NCIT:C85403](http://purl.obolibrary.org/obo/NCIT_C85403) (Respiratory System Signs and Symptoms) 52.02%
-- Thing 51.99%
-- [NCIT:C100104](http://purl.obolibrary.org/obo/NCIT_C100104) (Sign or Symptom) 45.04%
-- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) 43.69%
-- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C38730](http://purl.obolibrary.org/obo/NCIT_C38730) (Lymphoepithelial Lesion))) 43.69%
-- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C38727](http://purl.obolibrary.org/obo/NCIT_C38727) (Villous Lymphocyte))) 43.69%
-- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C38721](http://purl.obolibrary.org/obo/NCIT_C38721) (Nuclear Pleomorphism))) 43.69%
-- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C38710](http://purl.obolibrary.org/obo/NCIT_C38710) (Defective Gamma Heavy Chain Present))) 43.69%
-- [NCIT:C5043](http://purl.obolibrary.org/obo/NCIT_C5043) (Ventilation or Perfusion Signs and Symptoms) and (not ([NCIT:C3870](http://purl.obolibrary.org/obo/NCIT_C3870) (Lymphangitic Carcinomatosis))) 43.69%
+- [UBERON:0003126](http://purl.obolibrary.org/obo/UBERON_0003126) (trachea) 75.00%
+- [UBERON:0003126](http://purl.obolibrary.org/obo/UBERON_0003126) (trachea) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 75.00%
+- [UBERON:0003126](http://purl.obolibrary.org/obo/UBERON_0003126) (trachea) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 75.00%
+- [UBERON:0003126](http://purl.obolibrary.org/obo/UBERON_0003126) (trachea) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 75.00%
+- [UBERON:0003126](http://purl.obolibrary.org/obo/UBERON_0003126) (trachea) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 75.00%
+- [UBERON:0003126](http://purl.obolibrary.org/obo/UBERON_0003126) (trachea) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 75.00%
+- [UBERON:0003126](http://purl.obolibrary.org/obo/UBERON_0003126) (trachea) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 75.00%
+- [UBERON:0003126](http://purl.obolibrary.org/obo/UBERON_0003126) (trachea) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 75.00%
+- [UBERON:0003126](http://purl.obolibrary.org/obo/UBERON_0003126) (trachea) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 75.00%
+- [UBERON:0003126](http://purl.obolibrary.org/obo/UBERON_0003126) (trachea) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 75.00%
+- [UBERON:0003126](http://purl.obolibrary.org/obo/UBERON_0003126) (trachea) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 75.00%
+- [UBERON:0003126](http://purl.obolibrary.org/obo/UBERON_0003126) (trachea) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 75.00%
+- [UBERON:0003126](http://purl.obolibrary.org/obo/UBERON_0003126) (trachea) and (not ([UBERON:2001431](http://purl.obolibrary.org/obo/UBERON_2001431) (primitive olfactory epithelium))) 75.00%
+- [UBERON:0003126](http://purl.obolibrary.org/obo/UBERON_0003126) (trachea) and (not ([UBERON:2001073](http://purl.obolibrary.org/obo/UBERON_2001073) (axial vasculature))) 75.00%
+- [UBERON:0003126](http://purl.obolibrary.org/obo/UBERON_0003126) (trachea) and (not ([UBERON:2001053](http://purl.obolibrary.org/obo/UBERON_2001053) (future internal carotid artery))) 75.00%
 
 

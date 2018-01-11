@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.15%
-- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability))) 51.92%
-- [NCIT:C48189](http://purl.obolibrary.org/obo/NCIT_C48189) (Genomic Instability) 37.28%
-- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) 37.28%
-- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C40063](http://purl.obolibrary.org/obo/NCIT_C40063) (Ovarian Low Grade Endometrioid Stromal Sarcoma))) 37.28%
-- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C40061](http://purl.obolibrary.org/obo/NCIT_C40061) (Ovarian Endometrioid Adenocarcinoma with Squamous Differentiation))) 37.28%
-- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C40043](http://purl.obolibrary.org/obo/NCIT_C40043) (Ovarian Mucinous Cystic Tumor Associated with Pseudomyxoma Peritonei))) 37.28%
-- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C40041](http://purl.obolibrary.org/obo/NCIT_C40041) (Ovarian Mucinous Cystadenofibroma))) 37.28%
-- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C40034](http://purl.obolibrary.org/obo/NCIT_C40034) (Ovarian Mucinous Adenocarcinofibroma))) 37.28%
-- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C40032](http://purl.obolibrary.org/obo/NCIT_C40032) (Ovarian Serous Cystadenofibroma))) 37.28%
-- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C40029](http://purl.obolibrary.org/obo/NCIT_C40029) (Borderline Ovarian Serous Cystadenofibroma))) 37.28%
-- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C40021](http://purl.obolibrary.org/obo/NCIT_C40021) (Ovarian Lymphoma))) 37.28%
-- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 37.28%
-- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 37.28%
-- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 37.28%
+- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C36493](http://purl.obolibrary.org/obo/NCIT_C36493) (High-Frequency Microsatellite Instability))) 54.55%
+- Thing 53.37%
+- [NCIT:C48189](http://purl.obolibrary.org/obo/NCIT_C48189) (Genomic Instability) 39.90%
+- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) 39.90%
+- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C39059](http://purl.obolibrary.org/obo/NCIT_C39059) (Map Kinase Inactivation of SMRT Corepressor Pathway))) 39.90%
+- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C39058](http://purl.obolibrary.org/obo/NCIT_C39058) (EGF Signaling Pathway))) 39.90%
+- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C39056](http://purl.obolibrary.org/obo/NCIT_C39056) (Vesicle Transport Pathway))) 39.90%
+- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C39055](http://purl.obolibrary.org/obo/NCIT_C39055) (Phospholipid Signaling Pathway))) 39.90%
+- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C39054](http://purl.obolibrary.org/obo/NCIT_C39054) (Extracellular Matrix Binding Pathway))) 39.90%
+- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C39040](http://purl.obolibrary.org/obo/NCIT_C39040) (CTCF Pathway))) 39.90%
+- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C39021](http://purl.obolibrary.org/obo/NCIT_C39021) (Cell Migration Pathway))) 39.90%
+- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C39016](http://purl.obolibrary.org/obo/NCIT_C39016) (EGF Receptor Downregulation by CBL Pathway))) 39.90%
+- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C39013](http://purl.obolibrary.org/obo/NCIT_C39013) (Estrogen Receptor Regulation by CARM1 Pathway))) 39.90%
+- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C39011](http://purl.obolibrary.org/obo/NCIT_C39011) (Cardiac Hypertrophy Pathway))) 39.90%
+- [NCIT:C36318](http://purl.obolibrary.org/obo/NCIT_C36318) (Microsatellite Instability) and (not ([NCIT:C3901](http://purl.obolibrary.org/obo/NCIT_C3901) (Compound Nevus))) 39.90%
 
 

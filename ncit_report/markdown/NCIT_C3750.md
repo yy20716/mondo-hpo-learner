@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- Thing 53.35%
-- [NCIT:C60643](http://purl.obolibrary.org/obo/NCIT_C60643) (Adulthood Lesion) 52.94%
-- [NCIT:C40558](http://purl.obolibrary.org/obo/NCIT_C40558) (Primary Lesion) 52.94%
-- [NCIT:C40557](http://purl.obolibrary.org/obo/NCIT_C40557) (Metastatic Lesion) 52.94%
-- [NCIT:C38155](http://purl.obolibrary.org/obo/NCIT_C38155) (Recurrent Disease) 52.94%
-- [NCIT:C35460](http://purl.obolibrary.org/obo/NCIT_C35460) (Crystal Formation) 38.30%
-- [NCIT:C35460](http://purl.obolibrary.org/obo/NCIT_C35460) (Crystal Formation) and (not ([NCIT:C39826](http://purl.obolibrary.org/obo/NCIT_C39826) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant without Heterologous Elements))) 38.30%
-- [NCIT:C35460](http://purl.obolibrary.org/obo/NCIT_C35460) (Crystal Formation) and (not ([NCIT:C39825](http://purl.obolibrary.org/obo/NCIT_C39825) (Infiltrating Bladder Urothelial Carcinoma, Sarcomatoid Variant with Heterologous Elements))) 38.30%
-- [NCIT:C35460](http://purl.obolibrary.org/obo/NCIT_C35460) (Crystal Formation) and (not ([NCIT:C39821](http://purl.obolibrary.org/obo/NCIT_C39821) (Infiltrating Bladder Lymphoepithelioma-Like Carcinoma))) 38.30%
-- [NCIT:C35460](http://purl.obolibrary.org/obo/NCIT_C35460) (Crystal Formation) and (not ([NCIT:C39820](http://purl.obolibrary.org/obo/NCIT_C39820) (Infiltrating Bladder Urothelial Carcinoma, Microcystic Variant))) 38.30%
-- [NCIT:C35460](http://purl.obolibrary.org/obo/NCIT_C35460) (Crystal Formation) and (not ([NCIT:C39819](http://purl.obolibrary.org/obo/NCIT_C39819) (Infiltrating Bladder Urothelial Carcinoma, Nested Variant))) 38.30%
-- [NCIT:C35460](http://purl.obolibrary.org/obo/NCIT_C35460) (Crystal Formation) and (not ([NCIT:C39818](http://purl.obolibrary.org/obo/NCIT_C39818) (Infiltrating Bladder Urothelial Carcinoma with Trophoblastic Differentiation))) 38.30%
-- [NCIT:C35460](http://purl.obolibrary.org/obo/NCIT_C35460) (Crystal Formation) and (not ([NCIT:C39817](http://purl.obolibrary.org/obo/NCIT_C39817) (Infiltrating Bladder Urothelial Carcinoma with Glandular Differentiation))) 38.30%
-- [NCIT:C35460](http://purl.obolibrary.org/obo/NCIT_C35460) (Crystal Formation) and (not ([NCIT:C39816](http://purl.obolibrary.org/obo/NCIT_C39816) (Infiltrating Bladder Urothelial Carcinoma with Squamous Differentiation))) 38.30%
-- [NCIT:C35460](http://purl.obolibrary.org/obo/NCIT_C35460) (Crystal Formation) and (not ([NCIT:C39815](http://purl.obolibrary.org/obo/NCIT_C39815) (Cellular Congenital Mesoblastic Nephroma))) 38.30%
+- [NCIT:C36392](http://purl.obolibrary.org/obo/NCIT_C36392) (t(X;17)(p11.2;q25)) 56.25%
+- [NCIT:C6823](http://purl.obolibrary.org/obo/NCIT_C6823) (Unbalanced Translocation) and (not ([NCIT:C36478](http://purl.obolibrary.org/obo/NCIT_C36478) (Unbalanced Translocation of Chromosome 1))) 56.25%
+- Thing 52.88%
+- [NCIT:C6823](http://purl.obolibrary.org/obo/NCIT_C6823) (Unbalanced Translocation) 41.61%
+- [NCIT:C6823](http://purl.obolibrary.org/obo/NCIT_C6823) (Unbalanced Translocation) and (not ([NCIT:C38770](http://purl.obolibrary.org/obo/NCIT_C38770) (Squamous Differentiation))) 41.61%
+- [NCIT:C6823](http://purl.obolibrary.org/obo/NCIT_C6823) (Unbalanced Translocation) and (not ([NCIT:C38762](http://purl.obolibrary.org/obo/NCIT_C38762) (Thyroid Gland Mucoepidermoid Carcinoma))) 41.61%
+- [NCIT:C6823](http://purl.obolibrary.org/obo/NCIT_C6823) (Unbalanced Translocation) and (not ([NCIT:C3876](http://purl.obolibrary.org/obo/NCIT_C3876) (Gastric Leiomyoma))) 41.61%
+- [NCIT:C6823](http://purl.obolibrary.org/obo/NCIT_C6823) (Unbalanced Translocation) and (not ([NCIT:C38759](http://purl.obolibrary.org/obo/NCIT_C38759) (EBV Infection))) 41.61%
+- [NCIT:C6823](http://purl.obolibrary.org/obo/NCIT_C6823) (Unbalanced Translocation) and (not ([NCIT:C38732](http://purl.obolibrary.org/obo/NCIT_C38732) (Defective Alpha Heavy Chain Present))) 41.61%
+- [NCIT:C6823](http://purl.obolibrary.org/obo/NCIT_C6823) (Unbalanced Translocation) and (not ([NCIT:C38731](http://purl.obolibrary.org/obo/NCIT_C38731) (Villous Atrophy))) 41.61%
+- [NCIT:C6823](http://purl.obolibrary.org/obo/NCIT_C6823) (Unbalanced Translocation) and (not ([NCIT:C38730](http://purl.obolibrary.org/obo/NCIT_C38730) (Lymphoepithelial Lesion))) 41.61%
+- [NCIT:C6823](http://purl.obolibrary.org/obo/NCIT_C6823) (Unbalanced Translocation) and (not ([NCIT:C38727](http://purl.obolibrary.org/obo/NCIT_C38727) (Villous Lymphocyte))) 41.61%
+- [NCIT:C6823](http://purl.obolibrary.org/obo/NCIT_C6823) (Unbalanced Translocation) and (not ([NCIT:C38721](http://purl.obolibrary.org/obo/NCIT_C38721) (Nuclear Pleomorphism))) 41.61%
+- [NCIT:C6823](http://purl.obolibrary.org/obo/NCIT_C6823) (Unbalanced Translocation) and (not ([NCIT:C38710](http://purl.obolibrary.org/obo/NCIT_C38710) (Defective Gamma Heavy Chain Present))) 41.61%
+- [NCIT:C6823](http://purl.obolibrary.org/obo/NCIT_C6823) (Unbalanced Translocation) and (not ([NCIT:C3870](http://purl.obolibrary.org/obo/NCIT_C3870) (Lymphangitic Carcinomatosis))) 41.61%
 
 

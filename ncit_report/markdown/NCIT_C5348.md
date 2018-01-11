@@ -18,8 +18,8 @@
 - [UBERON:0003479](http://purl.obolibrary.org/obo/UBERON_0003479) (thoracic cavity vein) and [UBERON:0013768](http://purl.obolibrary.org/obo/UBERON_0013768) (great vessel of heart) 58.33%
 - [UBERON:0001638](http://purl.obolibrary.org/obo/UBERON_0001638) (vein) and [UBERON:0003519](http://purl.obolibrary.org/obo/UBERON_0003519) (thoracic cavity blood vessel) 58.33%
 - [UBERON:0003920](http://purl.obolibrary.org/obo/UBERON_0003920) (venous blood vessel) 57.49%
-- [UBERON:0003920](http://purl.obolibrary.org/obo/UBERON_0003920) (venous blood vessel) and (not ([NCIT:C37867](http://purl.obolibrary.org/obo/NCIT_C37867) (Tetrasomy 7))) 57.49%
-- [UBERON:0003920](http://purl.obolibrary.org/obo/UBERON_0003920) (venous blood vessel) and (not ([NCIT:C37866](http://purl.obolibrary.org/obo/NCIT_C37866) (Trisomy 16))) 57.49%
-- [UBERON:0003920](http://purl.obolibrary.org/obo/UBERON_0003920) (venous blood vessel) and (not ([NCIT:C37865](http://purl.obolibrary.org/obo/NCIT_C37865) (Trisomy 17))) 57.49%
+- [UBERON:0003920](http://purl.obolibrary.org/obo/UBERON_0003920) (venous blood vessel) and (not ([NCIT:C36791](http://purl.obolibrary.org/obo/NCIT_C36791) (Keratinizing Malignant Squamous Cell))) 57.49%
+- [UBERON:0003920](http://purl.obolibrary.org/obo/UBERON_0003920) (venous blood vessel) and (not ([NCIT:C36783](http://purl.obolibrary.org/obo/NCIT_C36783) (Malignant Non-Cutaneous Basaloid Cell))) 57.49%
+- [UBERON:0003920](http://purl.obolibrary.org/obo/UBERON_0003920) (venous blood vessel) and (not ([NCIT:C36780](http://purl.obolibrary.org/obo/NCIT_C36780) (Malignant Myoepithelial Cell))) 57.49%
 
 

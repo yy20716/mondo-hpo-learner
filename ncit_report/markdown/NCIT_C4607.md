@@ -8,18 +8,18 @@
 
 - [CL:0000746](http://purl.obolibrary.org/obo/CL_0000746) (cardiac muscle cell) 62.50%
 - [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and [CL:0002494](http://purl.obolibrary.org/obo/CL_0002494) (cardiocyte) 62.50%
-- Thing 51.63%
+- Thing 52.03%
 - [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) 47.86%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C40032](http://purl.obolibrary.org/obo/NCIT_C40032) (Ovarian Serous Cystadenofibroma))) 47.86%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C40029](http://purl.obolibrary.org/obo/NCIT_C40029) (Borderline Ovarian Serous Cystadenofibroma))) 47.86%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C40021](http://purl.obolibrary.org/obo/NCIT_C40021) (Ovarian Lymphoma))) 47.86%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C4002](http://purl.obolibrary.org/obo/NCIT_C4002) (Extraosseous Plasmacytoma))) 47.86%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C40015](http://purl.obolibrary.org/obo/NCIT_C40015) (Ovarian Mucinous Carcinoid Tumor))) 47.86%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C40014](http://purl.obolibrary.org/obo/NCIT_C40014) (Ovarian Trabecular Carcinoid Tumor))) 47.86%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39991](http://purl.obolibrary.org/obo/NCIT_C39991) (Non-Gestational Ovarian Choriocarcinoma))) 47.86%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39989](http://purl.obolibrary.org/obo/NCIT_C39989) (Ovarian Yolk Sac Tumor, Hepatoid Pattern))) 47.86%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39988](http://purl.obolibrary.org/obo/NCIT_C39988) (Ovarian Yolk Sac Tumor, Glandular Pattern))) 47.86%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39985](http://purl.obolibrary.org/obo/NCIT_C39985) (Ovarian Gonadoblastoma))) 47.86%
-- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C3998](http://purl.obolibrary.org/obo/NCIT_C3998) (Recurrent Colon Carcinoma))) 47.86%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39112](http://purl.obolibrary.org/obo/NCIT_C39112) (IFN Gamma Signaling Pathway))) 47.86%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39103](http://purl.obolibrary.org/obo/NCIT_C39103) (ERBB2 Signaling Pathway))) 47.86%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39102](http://purl.obolibrary.org/obo/NCIT_C39102) (Skeletal Myogenesis Pathway))) 47.86%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39101](http://purl.obolibrary.org/obo/NCIT_C39101) (Human Cytomegalovirus Infection Pathway))) 47.86%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39094](http://purl.obolibrary.org/obo/NCIT_C39094) (Inhibition of Cellular Proliferation by Gleevec Pathway))) 47.86%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39092](http://purl.obolibrary.org/obo/NCIT_C39092) (Growth Hormone Signaling Pathway))) 47.86%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39091](http://purl.obolibrary.org/obo/NCIT_C39091) (Corticosteroid Cardioprotection Pathway))) 47.86%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39088](http://purl.obolibrary.org/obo/NCIT_C39088) (G2/M Checkpoint Pathway))) 47.86%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39079](http://purl.obolibrary.org/obo/NCIT_C39079) (Fc Epsilon Receptor I Signaling Pathway BioCarta))) 47.86%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39072](http://purl.obolibrary.org/obo/NCIT_C39072) (Erk1/Erk2 MAPK Signaling Pathway))) 47.86%
+- [CL:0000737](http://purl.obolibrary.org/obo/CL_0000737) (striated muscle cell) and (not ([NCIT:C39071](http://purl.obolibrary.org/obo/NCIT_C39071) (Neuronal Survival Pathway))) 47.86%
 
 

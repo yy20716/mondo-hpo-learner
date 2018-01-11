@@ -2,24 +2,24 @@
 ### [NCIT:C3107](http://purl.obolibrary.org/obo/NCIT_C3107)
 **Label:** Langerhans Cell Histiocytosis
 
-**Subclasses:** [NCIT:C129806](http://purl.obolibrary.org/obo/NCIT_C129806) (Central Nervous System Langerhans Cell Histiocytosis), [NCIT:C3016](http://purl.obolibrary.org/obo/NCIT_C3016) (Eosinophilic Granuloma), [NCIT:C134177](http://purl.obolibrary.org/obo/NCIT_C134177) (Refractory Langerhans Cell Histiocytosis), [NCIT:C6920](http://purl.obolibrary.org/obo/NCIT_C6920) (Hand-Schuller-Christian Disease), [NCIT:C123395](http://purl.obolibrary.org/obo/NCIT_C123395) (Childhood Langerhans Cell Histiocytosis with Risk Organ Involvement), [NCIT:C114483](http://purl.obolibrary.org/obo/NCIT_C114483) (Childhood Langerhans Cell Histiocytosis), [NCIT:C3160](http://purl.obolibrary.org/obo/NCIT_C3160) (Letterer-Siwe Disease), [NCIT:C114929](http://purl.obolibrary.org/obo/NCIT_C114929) (Adult Langerhans Cell Histiocytosis), [NCIT:C123396](http://purl.obolibrary.org/obo/NCIT_C123396) (Childhood Langerhans Cell Histiocytosis without Risk Organ Involvement), [NCIT:C134175](http://purl.obolibrary.org/obo/NCIT_C134175) (Recurrent Langerhans Cell Histiocytosis), 
+**Subclasses:** [NCIT:C129806](http://purl.obolibrary.org/obo/NCIT_C129806) (Central Nervous System Langerhans Cell Histiocytosis), [NCIT:C3016](http://purl.obolibrary.org/obo/NCIT_C3016) (Eosinophilic Granuloma), [NCIT:C134177](http://purl.obolibrary.org/obo/NCIT_C134177) (Refractory Langerhans Cell Histiocytosis), [NCIT:C6920](http://purl.obolibrary.org/obo/NCIT_C6920) (Hand-Schuller-Christian Disease), [NCIT:C123395](http://purl.obolibrary.org/obo/NCIT_C123395) (Childhood Langerhans Cell Histiocytosis with Risk Organ Involvement), [NCIT:C114483](http://purl.obolibrary.org/obo/NCIT_C114483) (Childhood Langerhans Cell Histiocytosis), [NCIT:C3160](http://purl.obolibrary.org/obo/NCIT_C3160) (Letterer-Siwe Disease), [NCIT:C123396](http://purl.obolibrary.org/obo/NCIT_C123396) (Childhood Langerhans Cell Histiocytosis without Risk Organ Involvement), [NCIT:C114929](http://purl.obolibrary.org/obo/NCIT_C114929) (Adult Langerhans Cell Histiocytosis), [NCIT:C134175](http://purl.obolibrary.org/obo/NCIT_C134175) (Recurrent Langerhans Cell Histiocytosis), 
 
 **Class expressions from DL-Learner:**
 
-- Thing 54.23%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39620](http://purl.obolibrary.org/obo/NCIT_C39620) (Dermatopathic Lymphadenopathy))) 51.85%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 51.12%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 51.09%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) 37.21%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39802](http://purl.obolibrary.org/obo/NCIT_C39802) (Renal Cell Carcinoma Associated with inv(X)(p11;q12)))) 37.21%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39801](http://purl.obolibrary.org/obo/NCIT_C39801) (inv(X)(p11;q12)))) 37.21%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39800](http://purl.obolibrary.org/obo/NCIT_C39800) (Sickle Cell Trait))) 37.21%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39799](http://purl.obolibrary.org/obo/NCIT_C39799) (Loss of Chromosome 21))) 37.21%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39798](http://purl.obolibrary.org/obo/NCIT_C39798) (Loss of Chromosome 2))) 37.21%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39795](http://purl.obolibrary.org/obo/NCIT_C39795) (Loss of Chromosome 14q))) 37.21%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39788](http://purl.obolibrary.org/obo/NCIT_C39788) (MET Gene Mutation))) 37.21%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39787](http://purl.obolibrary.org/obo/NCIT_C39787) (Multiple Tumor Masses))) 37.21%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39786](http://purl.obolibrary.org/obo/NCIT_C39786) (Bilateral Disease))) 37.21%
-- [NCIT:C50764](http://purl.obolibrary.org/obo/NCIT_C50764) (Lymphadenopathy) and (not ([NCIT:C39783](http://purl.obolibrary.org/obo/NCIT_C39783) (Retinal Hemangioblastoma))) 37.21%
+- [CL:0000453](http://purl.obolibrary.org/obo/CL_0000453) (Langerhans cell) 66.67%
+- [CL:0000766](http://purl.obolibrary.org/obo/CL_0000766) (myeloid leukocyte) and [CL:0000990](http://purl.obolibrary.org/obo/CL_0000990) (conventional dendritic cell) 66.67%
+- [CL:0000763](http://purl.obolibrary.org/obo/CL_0000763) (myeloid cell) and [CL:0000990](http://purl.obolibrary.org/obo/CL_0000990) (conventional dendritic cell) 66.67%
+- [CL:0000453](http://purl.obolibrary.org/obo/CL_0000453) (Langerhans cell) and (not ([UBERON:4200230](http://purl.obolibrary.org/obo/UBERON_4200230) (surface of bone@en))) 66.67%
+- [CL:0000453](http://purl.obolibrary.org/obo/CL_0000453) (Langerhans cell) and (not ([UBERON:4200172](http://purl.obolibrary.org/obo/UBERON_4200172) (neck of humerus))) 66.67%
+- [CL:0000453](http://purl.obolibrary.org/obo/CL_0000453) (Langerhans cell) and (not ([UBERON:4000115](http://purl.obolibrary.org/obo/UBERON_4000115) (mineralized bone tissue))) 66.67%
+- [CL:0000453](http://purl.obolibrary.org/obo/CL_0000453) (Langerhans cell) and (not ([UBERON:4000020](http://purl.obolibrary.org/obo/UBERON_4000020) (mineralized extracellular matrix))) 66.67%
+- [CL:0000453](http://purl.obolibrary.org/obo/CL_0000453) (Langerhans cell) and (not ([UBERON:4000013](http://purl.obolibrary.org/obo/UBERON_4000013) (mineralized skeletal tissue))) 66.67%
+- [CL:0000453](http://purl.obolibrary.org/obo/CL_0000453) (Langerhans cell) and (not ([UBERON:3010200](http://purl.obolibrary.org/obo/UBERON_3010200) (vasculature of respiratory integument))) 66.67%
+- [CL:0000453](http://purl.obolibrary.org/obo/CL_0000453) (Langerhans cell) and (not ([UBERON:3000982](http://purl.obolibrary.org/obo/UBERON_3000982) (tail external integument structure))) 66.67%
+- [CL:0000453](http://purl.obolibrary.org/obo/CL_0000453) (Langerhans cell) and (not ([UBERON:3000977](http://purl.obolibrary.org/obo/UBERON_3000977) (body external integument structure))) 66.67%
+- [CL:0000453](http://purl.obolibrary.org/obo/CL_0000453) (Langerhans cell) and (not ([UBERON:3000972](http://purl.obolibrary.org/obo/UBERON_3000972) (head external integument structure))) 66.67%
+- [CL:0000453](http://purl.obolibrary.org/obo/CL_0000453) (Langerhans cell) and (not ([UBERON:3000961](http://purl.obolibrary.org/obo/UBERON_3000961) (external integument structure))) 66.67%
+- [CL:0000453](http://purl.obolibrary.org/obo/CL_0000453) (Langerhans cell) and (not ([UBERON:2007013](http://purl.obolibrary.org/obo/UBERON_2007013) (preplacodal ectoderm))) 66.67%
+- [CL:0000453](http://purl.obolibrary.org/obo/CL_0000453) (Langerhans cell) and (not ([UBERON:2001431](http://purl.obolibrary.org/obo/UBERON_2001431) (primitive olfactory epithelium))) 66.67%
 
 

@@ -6,20 +6,20 @@
 
 **Class expressions from DL-Learner:**
 
-- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) 59.09%
-- [NCIT:C20570](http://purl.obolibrary.org/obo/NCIT_C20570) (HMG Family Gene) 59.09%
-- [NCIT:C49120](http://purl.obolibrary.org/obo/NCIT_C49120) (Lipomatous Metaplasia) 54.55%
-- [NCIT:C41428](http://purl.obolibrary.org/obo/NCIT_C41428) (Increased Cellularity Present) 54.55%
-- [NCIT:C36000](http://purl.obolibrary.org/obo/NCIT_C36000) (Hyalinized Stroma Formation) 54.55%
-- [NCIT:C35998](http://purl.obolibrary.org/obo/NCIT_C35998) (Myxoid Stroma Formation) 54.55%
-- [NCIT:C35380](http://purl.obolibrary.org/obo/NCIT_C35380) (Hemorrhagic Change) 54.55%
-- [NCIT:C20577](http://purl.obolibrary.org/obo/NCIT_C20577) (HMGA2 Gene) 54.55%
-- [NCIT:C20576](http://purl.obolibrary.org/obo/NCIT_C20576) (HMGA1 Gene) 54.55%
-- [NCIT:C35996](http://purl.obolibrary.org/obo/NCIT_C35996) (Stromal Change) and [NCIT:C39744](http://purl.obolibrary.org/obo/NCIT_C39744) (Myxoid Changes Present) 54.55%
-- Thing 52.70%
-- [NCIT:C35867](http://purl.obolibrary.org/obo/NCIT_C35867) (Morphologic Finding) 43.62%
-- [NCIT:C83490](http://purl.obolibrary.org/obo/NCIT_C83490) (Microscopic Finding) 43.33%
-- [NCIT:C3367](http://purl.obolibrary.org/obo/NCIT_C3367) (Finding) 41.40%
-- [NCIT:C7057](http://purl.obolibrary.org/obo/NCIT_C7057) (Disease, Disorder or Finding) 40.20%
+- [NCIT:C20573](http://purl.obolibrary.org/obo/NCIT_C20573) (HMGA Family Gene) 83.33%
+- [NCIT:C20570](http://purl.obolibrary.org/obo/NCIT_C20570) (HMG Family Gene) 83.33%
+- [NCIT:C20577](http://purl.obolibrary.org/obo/NCIT_C20577) (HMGA2 Gene) 66.67%
+- [NCIT:C20576](http://purl.obolibrary.org/obo/NCIT_C20576) (HMGA1 Gene) 66.67%
+- [NCIT:C49117](http://purl.obolibrary.org/obo/NCIT_C49117) (Neoplastic Epithelioid Smooth Muscle Cell) and (not ([NCIT:C49127](http://purl.obolibrary.org/obo/NCIT_C49127) (Malignant Epithelioid Smooth Muscle Cell))) 66.67%
+- [NCIT:C49117](http://purl.obolibrary.org/obo/NCIT_C49117) (Neoplastic Epithelioid Smooth Muscle Cell) and (not ([NCIT:C49124](http://purl.obolibrary.org/obo/NCIT_C49124) (Malignant Smooth Muscle Cell))) 66.67%
+- [NCIT:C49117](http://purl.obolibrary.org/obo/NCIT_C49117) (Neoplastic Epithelioid Smooth Muscle Cell) and (not ([NCIT:C48787](http://purl.obolibrary.org/obo/NCIT_C48787) (Malignant Connective and Soft Tissue Cell))) 66.67%
+- [NCIT:C49117](http://purl.obolibrary.org/obo/NCIT_C49117) (Neoplastic Epithelioid Smooth Muscle Cell) and (not ([NCIT:C12917](http://purl.obolibrary.org/obo/NCIT_C12917) (Malignant Cell))) 66.67%
+- [NCIT:C49117](http://purl.obolibrary.org/obo/NCIT_C49117) (Neoplastic Epithelioid Smooth Muscle Cell) 52.02%
+- [NCIT:C49117](http://purl.obolibrary.org/obo/NCIT_C49117) (Neoplastic Epithelioid Smooth Muscle Cell) and (not (Error17)) 52.02%
+- [NCIT:C49117](http://purl.obolibrary.org/obo/NCIT_C49117) (Neoplastic Epithelioid Smooth Muscle Cell) and (not (Error16)) 52.02%
+- [NCIT:C49117](http://purl.obolibrary.org/obo/NCIT_C49117) (Neoplastic Epithelioid Smooth Muscle Cell) and (not (Error15)) 52.02%
+- [NCIT:C49117](http://purl.obolibrary.org/obo/NCIT_C49117) (Neoplastic Epithelioid Smooth Muscle Cell) and (not (Error14)) 52.02%
+- [NCIT:C49117](http://purl.obolibrary.org/obo/NCIT_C49117) (Neoplastic Epithelioid Smooth Muscle Cell) and (not (Error13)) 52.02%
+- [NCIT:C49117](http://purl.obolibrary.org/obo/NCIT_C49117) (Neoplastic Epithelioid Smooth Muscle Cell) and (not (Error12)) 52.02%
 
 
