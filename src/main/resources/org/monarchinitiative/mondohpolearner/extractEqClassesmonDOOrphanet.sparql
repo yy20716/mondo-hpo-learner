@@ -1,0 +1,13 @@
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX oboInOwl: <http://www.geneontology.org/formats/oboInOwl#>
+
+# extract mondo class and corresponding DOID classes
+SELECT ?class ?source WHERE {
+	?class oboInOwl:hasDbXref ?source .
+	
+	# filter out root-level classes 
+	FILTER(?class NOT IN (owl:Thing))
+	FILTER(!isBlank(?class))
+	FILTER(contains(?source,"Orphanet"))
+}

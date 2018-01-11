@@ -34,6 +34,7 @@ import com.google.common.collect.Multimap;
 import com.google.common.collect.Multimaps;
 
 public class ScatterChartGenerator {
+	public static final String queryExtractEqClasses = "src/main/resources/org/monarchinitiative/mondohpolearner/extractEqClasses";	
 	private static final Logger logger = Logger.getLogger(ScatterChartGenerator.class.getName());
 
 	private Multimap<String, String> classEqEntityMap;
@@ -53,7 +54,7 @@ public class ScatterChartGenerator {
 	}
 
 	public void run(String data1ReportDir, String dataName1, String data2ReportDir, String dataName2) {
-		computeClassMappings();
+		computeClassMappings(dataName1, dataName2);
 
 		XYSeriesCollection dataset = new XYSeriesCollection();
 		XYSeries series = new XYSeries(dataName1 + ", " + dataName2);
@@ -119,8 +120,9 @@ public class ScatterChartGenerator {
 		return null;
 	}
 
-	private void computeClassMappings() {
-		ResultSet resultSet = QueryExecutor.executeSelectOnce ("mondo.owl", Main.queryExtractEqClasses);
+	private void computeClassMappings(String dataName1, String dataName2) {
+		String queryStr = queryExtractEqClasses + dataName1 + dataName2 + ".sparql";
+		ResultSet resultSet = QueryExecutor.executeSelectOnce ("mondo.owl", queryStr);
 
 		while (resultSet.hasNext()) {
 			QuerySolution binding = resultSet.nextSolution();
