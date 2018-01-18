@@ -20,17 +20,19 @@ public class NCITProcessor extends Processor{
 	public NCITProcessor() {
 		super();
 
-		inputOWLFile = "neoplasm-core.owl"; 
+		inputOWLFile = "neoplasm-core.owl";
+		// inputOWLFile = "test.owl"; 
 		reportHomeDir = "ncit_report";
 		markdownDir = reportHomeDir + File.separator + "markdown";
 		hpofilewithAbox = "neoplasm-corewithabox.owl";
+		// hpofilewithAbox = "testwithabox.owl";
 		queryExtractSubclasses = "src/main/resources/org/monarchinitiative/mondohpolearner/ncit/extractSubclasses.sparql";
 		queryExecutor.loadModel(Processor.inputOWLFile);
-		
+
 		pp = new NCITPreprocessor ();
 		reportGenerator = new NCITReportGenerator ();
 	}
-	
+
 	@Override
 	public void run() {
 		initialize();
@@ -39,8 +41,8 @@ public class NCITProcessor extends Processor{
 		prepareDLLearner(); /* read the pre-processed data and hand it over to DL-learner */
 		reportGenerator.precomputeLabels(); /* Initialize MarkDownReportGenerator */
 		((NCITReportGenerator)reportGenerator).classSomeClassRsrcMap = ((NCITPreprocessor)pp).someClassRsrcMap;
-//		((NCITReportGenerator)reportGenerator).classEquivClassRsrcMap = ((NCITPreprocessor)pp).equivClassRsrcMap;
-		
+		//		((NCITReportGenerator)reportGenerator).classEquivClassRsrcMap = ((NCITPreprocessor)pp).equivClassRsrcMap;
+
 		int classParamSize = classParamMap.keySet().size();
 		logger.info("the number of classes: " + classParamSize);
 
@@ -50,23 +52,25 @@ public class NCITProcessor extends Processor{
 		List<String> classKeyList = new ArrayList<>(classParamMap.asMap().keySet());
 
 		for (String classCurie : classKeyList) {
-			 if (((NCITPreprocessor)pp).diseaseCuries.contains(classCurie) != true) continue;
-			 
+			// if (((NCITPreprocessor)pp).diseaseCuries.contains(classCurie) != true) continue;
+
 			File f = new File(markdownDir + File.separator + classCurie.replace(":", "_") + ".md");
 			if(f.exists() && f.length() > 0) continue;
 
 			/* we skip processing classes if the # of subclasses or equivalent classes is less than 2. */ 
+			/*
 			int eqEntitySize = classEqEntityMap.get(classCurie).size();
 			if (eqEntitySize < 2) continue;
 
 			int subClassSize = classSubClassMap.get(classCurie).size();
 			if (subClassSize < 2) continue;
-			
+			 */
+
 			Set<OWLIndividual> paramSet = new HashSet<>(classParamMap.get(classCurie));
 			DLLearnerRunner runner = new DLLearnerRunner (closedWorldReasoner, reportGenerator, classCurie, paramSet);
 			exe.submit(runner);
 		}
-		
+
 		try {
 			exe.shutdown();
 			exe.awaitTermination(Integer.MAX_VALUE, TimeUnit.SECONDS);

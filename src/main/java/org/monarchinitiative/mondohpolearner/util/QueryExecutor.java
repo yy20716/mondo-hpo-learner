@@ -9,8 +9,11 @@ import org.apache.jena.query.QueryExecution;
 import org.apache.jena.query.QueryExecutionFactory;
 import org.apache.jena.query.QueryFactory;
 import org.apache.jena.query.ResultSet;
+import org.apache.jena.query.Syntax;
 import org.apache.jena.rdf.model.Model;
 import org.apache.jena.update.UpdateAction;
+import org.apache.jena.update.UpdateFactory;
+import org.apache.jena.update.UpdateRequest;
 import org.apache.jena.util.FileManager;
 import org.apache.log4j.Logger;
 
@@ -22,8 +25,9 @@ public class QueryExecutor {
 		commonModel = FileManager.get().loadModel(dataFileName);
 	}
 
-	public void executeUpdate(String queryFileName) {
-		UpdateAction.readExecute(queryFileName, commonModel);
+	public void executeUpdate(String queryFilename) {
+		UpdateRequest request = UpdateFactory.read(queryFilename, Syntax.syntaxSPARQL_11) ;
+		UpdateAction.execute(request, commonModel) ;
 	}
 
 	public ResultSet executeSelect(String queryFileName) {
@@ -53,7 +57,7 @@ public class QueryExecutor {
 
 		return null;
 	}
-	
+
 	public static ResultSet executeSelectOnce(String dataFileName, String queryFileName) {
 		try {
 			Model onetimeModel = FileManager.get().loadModel(dataFileName);

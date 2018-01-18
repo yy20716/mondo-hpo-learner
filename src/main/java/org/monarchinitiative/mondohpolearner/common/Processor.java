@@ -88,6 +88,8 @@ public class Processor {
 			Logger.getLogger(ElkReasoner.class).setLevel(Level.OFF);
 			closedWorldReasoner = new ClosedWorldReasoner(ks);
 			closedWorldReasoner.setReasonerComponent(reasoner); 
+//			closedWorldReasoner.setHandlePunning(true);
+//			closedWorldReasoner.setMaterializeExistentialRestrictions(true);
 			closedWorldReasoner.init();
 		} catch (Exception e) {
 			logger.error(e.getMessage(), e);

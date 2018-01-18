@@ -2,7 +2,7 @@ PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
 SELECT ?a ?b WHERE { 
-	?a  rdfs:subClassOf  ?b .
+	?a owl:equivalentClass ?b .
 	?a a owl:Class .
 	FILTER (isBlank(?b))
 	FILTER (!isBlank(?a))
