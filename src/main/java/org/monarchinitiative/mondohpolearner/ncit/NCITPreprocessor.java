@@ -219,8 +219,8 @@ public class NCITPreprocessor extends Preprocessor {
 			while (resultSet7.hasNext()) {
 				QuerySolution binding = resultSet7.nextSolution();
 				Resource classRsrc = (Resource)binding.get("s");
-				// contSet.add(classRsrc);
-				
+				if (classRsrc.isAnon()) continue;
+				if (classRsrc.toString().contains("owl")) continue;
 				Resource b1 = generateDummyResource(ontoModel, classRsrc, false);
 				ontoModel.add(b1, RDF.type, classRsrc);
 			}
