@@ -47,7 +47,7 @@ public class NCITPreprocessor extends Preprocessor {
 	private static String querySelectOnProps = ncitQueryPath + File.separator + "selectOnProps.sparql";
 	private static String querySelectEquivClasses = ncitQueryPath + File.separator + "selectEquiv.sparql";
 	private static String querySelectDiseaseClasses= ncitQueryPath + File.separator + "selectDiseaseClasses.sparql";
-	private static String querySelectContinuantClasses= ncitQueryPath + File.separator + "selectContinuantClasses.sparql";
+	private static String querySelectAllClasses= ncitQueryPath + File.separator + "selectAllClasses.sparql";
 	private static String querySelectPropertyClasses= ncitQueryPath + File.separator + "selectPropertyClasses.sparql";
 
 	public Map<Resource, Resource> equivClassRsrcMap = Maps.newHashMap();
@@ -58,6 +58,7 @@ public class NCITPreprocessor extends Preprocessor {
 	public Set<String> diseaseCuries = Sets.newHashSet();
 	public Set<Resource> propSet = Sets.newHashSet();
 	public Set<Resource> contSet = Sets.newHashSet();
+	public Set<Resource> nodeTrailSet = Sets.newHashSet();
 
 	public OntModel ontoModel = ModelFactory.createOntologyModel();
 	public ObjectProperty dummyObjProp = ontoModel.createObjectProperty("http://a.com/d");
@@ -75,9 +76,8 @@ public class NCITPreprocessor extends Preprocessor {
 	// visitSuperClassNode recursively follows paths that match "?diseaseclass rdfs:subClassOf+ ?a"	
 	private void visitSuperClassNode(Model model, Resource aClass) {
 		if (aClass.toString().contains("owl")) return;
-		if (aClass.toString().contains("NCIT") != true) return;
 		if (aClass.isAnon()) return;
-
+		
 		Resource b1 = generateDummyResource(model, aClass, false);
 		classEqEntityMap.put(curieUtil.getCurie(aClass.getURI()).get(), b1.getURI());
 		model.add(b1, RDF.type, aClass);
@@ -117,18 +117,22 @@ public class NCITPreprocessor extends Preprocessor {
 
 			Resource equivBeginClass = equivClassRsrcMap.get(beginClass);
 			if (equivBeginClass == null) return;
-
+			if (equivBeginClass.isAnon()) return;
+			
 			Resource b1 = generateDummyResource(model, equivBeginClass, false);
 			model.add(b1, RDF.type, equivBeginClass);
-			for (int i = 0; i < 50; i ++) {
-				Resource b2 = generateDummyResource(model, bClass, true);
-				model.add(b2, RDF.type, bClass);
 
+			if (nodeTrailSet.contains(bClass)) return;
+			for (int i = 0; i < 1; i ++) {
+				if (bClass.isAnon()) break;
+				Resource b2 = generateDummyResource(model, bClass, false);
+				model.add(b2, RDF.type, bClass);
 				Resource propRsrc = onPropsMap.get(aClass);
-				if (propRsrc == null) return;
+				if (propRsrc == null) break;
 				Property onProp = ResourceFactory.createProperty(propRsrc.getURI());
-				model.add(b1, onProp, b2);	
+				model.add(b1, onProp, b2);
 			}
+			nodeTrailSet.add(bClass);
 
 			return;
 		}
@@ -211,11 +215,14 @@ public class NCITPreprocessor extends Preprocessor {
 				classIntUniClassRsrcMap.put(a, b);
 			}
 
-			ResultSet resultSet7 = queryExecutor.executeSelect(querySelectContinuantClasses);
+			ResultSet resultSet7 = queryExecutor.executeSelect(querySelectAllClasses);
 			while (resultSet7.hasNext()) {
 				QuerySolution binding = resultSet7.nextSolution();
 				Resource classRsrc = (Resource)binding.get("s");
-				propSet.add(classRsrc);
+				// contSet.add(classRsrc);
+				
+				Resource b1 = generateDummyResource(ontoModel, classRsrc, false);
+				ontoModel.add(b1, RDF.type, classRsrc);
 			}
 
 			ResultSet resultSet8 = queryExecutor.executeSelect(querySelectOnProps);
@@ -226,14 +233,12 @@ public class NCITPreprocessor extends Preprocessor {
 				onPropsMap.put(s, o);
 			}
 
-			/*
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://www.w3.org/2002/07/owl#annotatedSource"), null);
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://www.w3.org/2002/07/owl#annotatedProperty"), null);
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://www.w3.org/2002/07/owl#annotatedTarget"), null);
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://www.geneontology.org/formats/oboInOwl#external_class"), null);
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://www.geneontology.org/formats/oboInOwl#ontology"), null);
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://www.geneontology.org/formats/oboInOwl#source"), null);
-			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://www.w3.org/2000/01/rdf-schema#label"), null);
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"), null);
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://www.geneontology.org/formats/oboInOwl#hasSynonymType"), null);
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://www.geneontology.org/formats/oboInOwl#hasDbXref"), null);
@@ -242,7 +247,10 @@ public class NCITPreprocessor extends Preprocessor {
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://www.geneontology.org/formats/oboInOwl#inSubset"), null); 
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://www.geneontology.org/formats/oboInOwl#notes"), null);
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://purl.obolibrary.org/obo/IAO_0000115"), null);
-
+			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://purl.obolibrary.org/obo/NCIT/P383"), null);
+			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://purl.obolibrary.org/obo/NCIT/P384"), null);
+			
+			/*
 			for (Resource classRsrc: subClassRsrcMap.keySet()) {
 				if (contSet.contains(classRsrc) != true) continue;
 				queryExecutor.commonModel.removeAll(classRsrc, null, null);
@@ -254,8 +262,8 @@ public class NCITPreprocessor extends Preprocessor {
 					queryExecutor.commonModel.removeAll(null, null, superClassRsrc);
 				}
 			}
-			 */
-
+			*/
+			
 			/*
 			for (Resource classRsrc: subClassRsrcMap.keySet()) {
 				Optional<String> optBClass = curieUtil.getCurie(classRsrc.toString());
@@ -313,13 +321,13 @@ public class NCITPreprocessor extends Preprocessor {
 		Resource b1 = null;
 		if (aClass.isAnon()) {
 			if (addRandomStr)
-				b1 = model.createResource("http://a.com/" +  aClass.getId().toString().replace("-", "") + randomStringGenerator.generate(12));
+				b1 = model.createResource("http://a.com/" + aClass.getId().toString().replace("-", "") + randomStringGenerator.generate(5));
 			else
-				b1 = model.createResource("http://a.com/" +  aClass.getId().toString().replace("-", ""));
+				b1 = model.createResource("http://a.com/" + aClass.getId().toString().replace("-", ""));
 		} else if (aClass.isURIResource()) {
 			String[] classIRIArr = curieUtil.getCurie(aClass.toString()).get().split(":");
 			if (addRandomStr)
-				b1 = model.createResource("http://a.com/" + classIRIArr[0] + classIRIArr[1] + randomStringGenerator.generate(12));
+				b1 = model.createResource("http://a.com/" + classIRIArr[0] + classIRIArr[1] + randomStringGenerator.generate(5));
 			else
 				b1 = model.createResource("http://a.com/" + classIRIArr[0] + classIRIArr[1]);
 		}
