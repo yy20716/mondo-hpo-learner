@@ -78,6 +78,10 @@ public class NCITPreprocessor extends Preprocessor {
 		if (aClass.toString().contains("owl")) return;
 		if (aClass.isAnon()) return;
 		
+		Optional<String> optAClass = curieUtil.getCurie(aClass.toString());
+		if (optAClass.isPresent())
+			if (diseaseCuries.contains(optAClass.get()) != true) return;
+		
 		Resource b1 = generateDummyResource(model, aClass, false);
 		classEqEntityMap.put(curieUtil.getCurie(aClass.getURI()).get(), b1.getURI());
 		model.add(b1, RDF.type, aClass);
@@ -122,18 +126,20 @@ public class NCITPreprocessor extends Preprocessor {
 			Resource b1 = generateDummyResource(model, equivBeginClass, false);
 			model.add(b1, RDF.type, equivBeginClass);
 
+			/*
 			if (nodeTrailSet.contains(bClass)) return;
 			for (int i = 0; i < 1; i ++) {
-				if (bClass.isAnon()) break;
-				Resource b2 = generateDummyResource(model, bClass, false);
-				model.add(b2, RDF.type, bClass);
-				Resource propRsrc = onPropsMap.get(aClass);
-				if (propRsrc == null) break;
-				Property onProp = ResourceFactory.createProperty(propRsrc.getURI());
-				model.add(b1, onProp, b2);
 			}
 			nodeTrailSet.add(bClass);
-
+			*/
+			if (bClass.isAnon()) return;
+			Resource b2 = generateDummyResource(model, bClass, false);
+			model.add(b2, RDF.type, bClass);
+			Resource propRsrc = onPropsMap.get(aClass);
+			if (propRsrc == null) return;
+			Property onProp = ResourceFactory.createProperty(propRsrc.getURI());
+			model.add(b1, onProp, b2);
+			
 			return;
 		}
 
@@ -215,15 +221,19 @@ public class NCITPreprocessor extends Preprocessor {
 				classIntUniClassRsrcMap.put(a, b);
 			}
 
+			/*
 			ResultSet resultSet7 = queryExecutor.executeSelect(querySelectAllClasses);
 			while (resultSet7.hasNext()) {
 				QuerySolution binding = resultSet7.nextSolution();
 				Resource classRsrc = (Resource)binding.get("s");
 				if (classRsrc.isAnon()) continue;
 				if (classRsrc.toString().contains("owl")) continue;
+				if (classRsrc.toString().contains("NCIT") != true) continue;
+				if (classRsrc.toString().contains("UBERON") != true) continue;
 				Resource b1 = generateDummyResource(ontoModel, classRsrc, false);
 				ontoModel.add(b1, RDF.type, classRsrc);
 			}
+			 */
 
 			ResultSet resultSet8 = queryExecutor.executeSelect(querySelectOnProps);
 			while (resultSet8.hasNext()) {
@@ -236,20 +246,22 @@ public class NCITPreprocessor extends Preprocessor {
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://www.w3.org/2002/07/owl#annotatedSource"), null);
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://www.w3.org/2002/07/owl#annotatedProperty"), null);
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://www.w3.org/2002/07/owl#annotatedTarget"), null);
+			queryExecutor.commonModel.removeAll(null, RDF.type, ResourceFactory.createResource("http://www.w3.org/2002/07/owl#Axiom"));
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://www.geneontology.org/formats/oboInOwl#external_class"), null);
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://www.geneontology.org/formats/oboInOwl#ontology"), null);
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://www.geneontology.org/formats/oboInOwl#source"), null);
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://www.geneontology.org/formats/oboInOwl#hasExactSynonym"), null);
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://www.geneontology.org/formats/oboInOwl#hasSynonymType"), null);
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://www.geneontology.org/formats/oboInOwl#hasDbXref"), null);
-			queryExecutor.commonModel.removeAll(null, null, ResourceFactory.createResource("http://www.w3.org/2002/07/owl#Axiom"));
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://www.geneontology.org/formats/oboInOwl#date_retrieved"), null);
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://www.geneontology.org/formats/oboInOwl#inSubset"), null); 
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://www.geneontology.org/formats/oboInOwl#notes"), null);
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://purl.obolibrary.org/obo/IAO_0000115"), null);
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://purl.obolibrary.org/obo/NCIT/P383"), null);
 			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://purl.obolibrary.org/obo/NCIT/P384"), null);
-			
+			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://purl.obolibrary.org/obo/NCIT/P385"), null);
+			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://purl.obolibrary.org/obo/NCIT/P386"), null);
+			queryExecutor.commonModel.removeAll(null, ResourceFactory.createProperty("http://purl.obolibrary.org/obo/NCIT/P387"), null);
 			/*
 			for (Resource classRsrc: subClassRsrcMap.keySet()) {
 				if (contSet.contains(classRsrc) != true) continue;
@@ -263,7 +275,6 @@ public class NCITPreprocessor extends Preprocessor {
 				}
 			}
 			*/
-			
 			/*
 			for (Resource classRsrc: subClassRsrcMap.keySet()) {
 				Optional<String> optBClass = curieUtil.getCurie(classRsrc.toString());
@@ -277,8 +288,7 @@ public class NCITPreprocessor extends Preprocessor {
 					queryExecutor.commonModel.removeAll(classRsrc, RDFS.subClassOf, superClassRsrc);
 				}
 			}
-			 */
-
+			*/
 			/* 8. recursively follow property paths for finding relevant entries from given disease entities */
 			for (Resource classRsrc: subClassRsrcMap.keySet()) 
 				visitSuperClassNode(ontoModel, classRsrc);
@@ -297,7 +307,7 @@ public class NCITPreprocessor extends Preprocessor {
 			}
 			/* Simple testing codes: C3402 is the superclass of C6532, i.e. its parameter needs to include every entities in the parameter of C6532. */
 			for (String eachClass : classParamMap.keySet()) {
-				logger.info(eachClass + "," + classParamMap.get(eachClass));					
+				logger.info(eachClass + "," + classParamMap.get(eachClass));
 			}
 
 			ontoModel.add(queryExecutor.commonModel);

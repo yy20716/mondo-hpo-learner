@@ -12,6 +12,7 @@ import org.dllearner.learningproblems.PosNegLPStandard;
 import org.dllearner.learningproblems.PosOnlyLP;
 import org.dllearner.reasoning.ClosedWorldReasoner;
 import org.dllearner.refinementoperators.RhoDRDown;
+import org.dllearner.utilities.owl.OWLClassExpressionLengthMetric;
 import org.monarchinitiative.mondohpolearner.common.ReportGenerator;
 import org.semanticweb.owlapi.model.IRI;
 import org.semanticweb.owlapi.model.OWLClassExpression;
@@ -47,17 +48,12 @@ public class DLLearnerRunner implements Callable<Void> {
 		try {
 			logger.info("Processing " + classCurie + "...");
 
-			/*
 			PosOnlyLP lp = new PosOnlyLP(closedWorldReasoner);
 			lp.setPositiveExamples(posExamples);
-			*/
+			/*
 			PosNegLP lp = new PosNegLPStandard(closedWorldReasoner);
 			lp.setPositiveExamples(posExamples);
 			Set<OWLIndividual> negSet = Sets.newHashSet();
-			negSet.add(new OWLNamedIndividualImpl(IRI.create("http://a.com/NCITC16612")));
-			negSet.add(new OWLNamedIndividualImpl(IRI.create("http://a.com/NCITC12913")));
-			negSet.add(new OWLNamedIndividualImpl(IRI.create("http://a.com/NCITC1219")));
-			negSet.add(new OWLNamedIndividualImpl(IRI.create("http://a.com/NCITC1908")));
 			negSet.add(new OWLNamedIndividualImpl(IRI.create("http://a.com/GO0017145")));
 			negSet.add(new OWLNamedIndividualImpl(IRI.create("http://a.com/GO0005634")));
 			negSet.add(new OWLNamedIndividualImpl(IRI.create("http://a.com/GO0000791")));
@@ -69,42 +65,46 @@ public class DLLearnerRunner implements Callable<Void> {
 			negSet.add(new OWLNamedIndividualImpl(IRI.create("http://a.com/PR000000001")));
 			negSet.add(new OWLNamedIndividualImpl(IRI.create("http://a.com/PR000018263")));
 			negSet.add(new OWLNamedIndividualImpl(IRI.create("http://a.com/RO0002577")));
-			negSet.add(new OWLNamedIndividualImpl(IRI.create("http://a.com/NBO_0000347")));
-			
+			negSet.add(new OWLNamedIndividualImpl(IRI.create("http://a.com/NBO0000347")));
 			lp.setNegativeExamples(negSet);
-			
+			*/
 			lp.init();
 
 			CELOE alg = new CELOE();
-			OEHeuristicRuntime heuristic = new OEHeuristicRuntime();
-			heuristic.setExpansionPenaltyFactor(-1);
-			// heuristic.setNodeRefinementPenalty(0);
-			// heuristic.setGainBonusFactor(0.1);
+			// alg.setHeuristic(heuristic);
 			
-			alg.setHeuristic(heuristic);
 			alg.setLearningProblem(lp);
 			alg.setReasoner(closedWorldReasoner);
 			alg.setWriteSearchTree(true);
 			alg.setSearchTreeFile("log/search-tree.log");
 			alg.setReplaceSearchTree(true);
-			alg.setNoisePercentage(75);
+			alg.setNoisePercentage(100);
 			alg.setMaxNrOfResults(1000);
 			// alg.setMaxExecutionTimeInSeconds(3600);
 			alg.setMaxDepth(500);
-			alg.setUseMinimizer(false);
-			/*
-			OWLClassExpression startClass = new OWLClassImpl(IRI.create("http://purl.obolibrary.org/obo/NCIT_C3212"));
-			alg.setStartClass(startClass);
+			alg.setUseMinimizer(true);
 			alg.setReuseExistingDescription(true);
 			alg.setExpandAccuracy100Nodes(true);
-			*/
+			
+			// OEHeuristicRuntime heuristic = new OEHeuristicRuntime();
+			// heuristic.setExpansionPenaltyFactor(10);
+			// heuristic.setNodeRefinementPenalty(0);
+			// heuristic.setGainBonusFactor(0.1);
+			
 			alg.init();
 			((RhoDRDown)alg.getOperator()).setUseNegation(false);
-			// ((RhoDRDown)alg.getOperator()).setFrequencyThreshold(10);
-			// ((RhoDRDown)alg.getOperator()).setUseSomeOnly(true);
 			((RhoDRDown)alg.getOperator()).setDropDisjuncts(true);
-			// ((RhoDRDown)alg.getOperator()).setUseHasSelf(false);
-			// ((RhoDRDown)alg.getOperator()).setUseInverse(false);
+			((RhoDRDown)alg.getOperator()).setUseHasSelf(false);
+			((RhoDRDown)alg.getOperator()).setUseInverse(false);
+			((RhoDRDown)alg.getOperator()).setUseCardinalityRestrictions(false);
+			((RhoDRDown)alg.getOperator()).setUseDataHasValueConstructor(false);
+			((RhoDRDown)alg.getOperator()).setUseAllConstructor(false);
+			
+			OWLClassExpressionLengthMetric metric = new OWLClassExpressionLengthMetric();
+			metric.objectProperyLength = 0;
+			metric.dataSomeValuesLength = 0;
+			metric.objectSomeValuesLength = 0;
+			((RhoDRDown)alg.getOperator()).setLengthMetric(metric);
 			alg.start();
 			
 			reportGenerator.render(classCurie, alg.getCurrentlyBestEvaluatedDescriptions().descendingSet());

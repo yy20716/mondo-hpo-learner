@@ -54,9 +54,10 @@ public class NCITProcessor extends Processor{
 		for (String classCurie : classKeyList) {
 			// if (((NCITPreprocessor)pp).diseaseCuries.contains(classCurie) != true) continue;
 
+			/*
 			File f = new File(markdownDir + File.separator + classCurie.replace(":", "_") + ".md");
 			if(f.exists() && f.length() > 0) continue;
-
+			*/
 			/* we skip processing classes if the # of subclasses or equivalent classes is less than 2. */ 
 			/*
 			int eqEntitySize = classEqEntityMap.get(classCurie).size();
