@@ -40,8 +40,6 @@ public class NCITProcessor extends Processor{
 		pp.run(); /* preprocess the data */
 		prepareDLLearner(); /* read the pre-processed data and hand it over to DL-learner */
 		reportGenerator.precomputeLabels(); /* Initialize MarkDownReportGenerator */
-		((NCITReportGenerator)reportGenerator).classSomeClassRsrcMap = ((NCITPreprocessor)pp).someClassRsrcMap;
-		//		((NCITReportGenerator)reportGenerator).classEquivClassRsrcMap = ((NCITPreprocessor)pp).equivClassRsrcMap;
 
 		int classParamSize = classParamMap.keySet().size();
 		logger.info("the number of classes: " + classParamSize);

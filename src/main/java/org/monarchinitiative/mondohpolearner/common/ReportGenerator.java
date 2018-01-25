@@ -105,11 +105,16 @@ public class ReportGenerator {
 		Collections.sort(classKeyList, new Comparator<String>() {
 			@Override
 			public int compare(String o1, String o2) {
-				String o1NumOnly = o1.split(":")[1].trim().replaceAll("[^\\d.]", "");
-				String o2NumOnly = o2.split(":")[1].trim().replaceAll("[^\\d.]", "");
-				Integer o1Int = Integer.valueOf(o1NumOnly);
-				Integer o2Int = Integer.valueOf(o2NumOnly);
-				return o1Int.compareTo(o2Int);
+				try {
+					String o1NumOnly = o1.split(":")[1].trim().replaceAll("[^\\d.]", "");
+					String o2NumOnly = o2.split(":")[1].trim().replaceAll("[^\\d.]", "");
+					Integer o1Int = Integer.valueOf(o1NumOnly);
+					Integer o2Int = Integer.valueOf(o2NumOnly);
+					return o1Int.compareTo(o2Int);	
+				} catch (Exception e) {
+					logger.error(e.getMessage(), e);
+				}
+				return 0;
 			}
 		});
 		return classKeyList;

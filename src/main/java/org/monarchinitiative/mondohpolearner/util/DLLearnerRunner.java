@@ -50,6 +50,7 @@ public class DLLearnerRunner implements Callable<Void> {
 
 			PosOnlyLP lp = new PosOnlyLP(closedWorldReasoner);
 			lp.setPositiveExamples(posExamples);
+
 			/*
 			PosNegLP lp = new PosNegLPStandard(closedWorldReasoner);
 			lp.setPositiveExamples(posExamples);
@@ -67,46 +68,53 @@ public class DLLearnerRunner implements Callable<Void> {
 			negSet.add(new OWLNamedIndividualImpl(IRI.create("http://a.com/RO0002577")));
 			negSet.add(new OWLNamedIndividualImpl(IRI.create("http://a.com/NBO0000347")));
 			lp.setNegativeExamples(negSet);
-			*/
+			 */
 			lp.init();
 
-			CELOE alg = new CELOE();
-			// alg.setHeuristic(heuristic);
+			RhoDRDown op = new RhoDRDown();
+			op.setReasoner(closedWorldReasoner);
+			op.setUseNegation(false);
+			// op.setDropDisjuncts(true);
+			/*
+			op.setUseHasSelf(false);
+			op.setUseInverse(false);
+			op.setUseCardinalityRestrictions(false);
+			op.setUseDataHasValueConstructor(false);
+			op.setUseAllConstructor(false);
+			op.setDisjointChecks(false);
+			*/
 			
-			alg.setLearningProblem(lp);
-			alg.setReasoner(closedWorldReasoner);
-			alg.setWriteSearchTree(true);
-			alg.setSearchTreeFile("log/search-tree.log");
-			alg.setReplaceSearchTree(true);
-			alg.setNoisePercentage(100);
-			alg.setMaxNrOfResults(1000);
-			// alg.setMaxExecutionTimeInSeconds(3600);
-			alg.setMaxDepth(500);
-			alg.setUseMinimizer(true);
-			alg.setReuseExistingDescription(true);
-			alg.setExpandAccuracy100Nodes(true);
-			
-			// OEHeuristicRuntime heuristic = new OEHeuristicRuntime();
-			// heuristic.setExpansionPenaltyFactor(10);
-			// heuristic.setNodeRefinementPenalty(0);
-			// heuristic.setGainBonusFactor(0.1);
-			
-			alg.init();
-			((RhoDRDown)alg.getOperator()).setUseNegation(false);
-			((RhoDRDown)alg.getOperator()).setDropDisjuncts(true);
-			((RhoDRDown)alg.getOperator()).setUseHasSelf(false);
-			((RhoDRDown)alg.getOperator()).setUseInverse(false);
-			((RhoDRDown)alg.getOperator()).setUseCardinalityRestrictions(false);
-			((RhoDRDown)alg.getOperator()).setUseDataHasValueConstructor(false);
-			((RhoDRDown)alg.getOperator()).setUseAllConstructor(false);
-			
+			/*
 			OWLClassExpressionLengthMetric metric = new OWLClassExpressionLengthMetric();
+			op.setLengthMetric(metric);
 			metric.objectProperyLength = 0;
 			metric.dataSomeValuesLength = 0;
 			metric.objectSomeValuesLength = 0;
-			((RhoDRDown)alg.getOperator()).setLengthMetric(metric);
-			alg.start();
+			op.init();
+			*/
 			
+			// OEHeuristicRuntime heuristic = new OEHeuristicRuntime();
+			// heuristic.setExpansionPenaltyFactor(1);
+			// heuristic.setNodeRefinementPenalty(0);
+			// heuristic.setGainBonusFactor(0.1);
+
+			CELOE alg = new CELOE(lp, closedWorldReasoner);
+			alg.setOperator(op);
+			// alg.setHeuristic(heuristic);
+			alg.setLearningProblem(lp);
+			alg.setWriteSearchTree(true);
+			alg.setSearchTreeFile("log/search-tree.log");
+			alg.setReplaceSearchTree(true);
+			alg.setNoisePercentage(75);
+			alg.setMaxNrOfResults(15);
+
+			// alg.setMaxExecutionTimeInSeconds(3600);
+			// alg.setMaxDepth(3);
+			// alg.setUseMinimizer(false);
+			// alg.setReuseExistingDescription(true);
+			// alg.setExpandAccuracy100Nodes(true);
+			alg.init();
+			alg.start();
 			reportGenerator.render(classCurie, alg.getCurrentlyBestEvaluatedDescriptions().descendingSet());
 		} catch (Exception e) {
 			reportGenerator.render(classCurie, null);
