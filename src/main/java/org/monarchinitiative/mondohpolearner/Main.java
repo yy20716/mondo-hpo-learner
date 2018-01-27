@@ -12,7 +12,8 @@ import org.apache.log4j.Logger;
 import org.monarchinitiative.mondohpolearner.chart.BarChartGenerator;
 import org.monarchinitiative.mondohpolearner.chart.ScatterChartGenerator;
 import org.monarchinitiative.mondohpolearner.doid.DoidProcessor;
-import org.monarchinitiative.mondohpolearner.mondo.MondoProcessor;
+import org.monarchinitiative.mondohpolearner.mondogo.MondoGoProcessor;
+import org.monarchinitiative.mondohpolearner.mondohpo.MondoHPOProcessor;
 import org.monarchinitiative.mondohpolearner.ncit.NCITProcessor;
 import org.monarchinitiative.mondohpolearner.orpha.OrphanetProcessor;
 
@@ -22,12 +23,18 @@ public class Main {
 	public static final String queryExtractVersion = "src/main/resources/org/monarchinitiative/mondohpolearner/extractVersion.sparql";
 
 	public static void main( String[] args ) {
-		Option mondoOption = Option.builder("m")
-				.longOpt("mondo")
+		Option mondoHpoOption = Option.builder("m")
+				.longOpt("mondohpo")
 				.required(false)
-				.desc("learn class expressions over mondo.owl")
+				.desc("learn class expressions over mondo.owl (using the terms of hpo)")
 				.build();
 
+		Option mondoGoOption = Option.builder("g")
+				.longOpt("mondogo")
+				.required(false)
+				.desc("learn class expressions over mondo.owl (using the terms of go)")
+				.build();
+		
 		Option doidOption = Option.builder("d")
 				.longOpt("doid")
 				.required(false)
@@ -53,7 +60,8 @@ public class Main {
 				.build();
 
 		Options options = new Options();
-		options.addOption(mondoOption);
+		options.addOption(mondoHpoOption);
+		options.addOption(mondoGoOption);
 		options.addOption(doidOption);
 		options.addOption(orphaOption);
 		options.addOption(ncitOption);
@@ -65,8 +73,12 @@ public class Main {
 			long startTime = System.currentTimeMillis();
 
 			if (cmdLine.hasOption("m")) {
-				MondoProcessor mpr = new MondoProcessor();
+				MondoHPOProcessor mpr = new MondoHPOProcessor();
 				mpr.run();
+			}
+			else if (cmdLine.hasOption("g")) {
+				MondoGoProcessor mgp = new MondoGoProcessor();
+				mgp.run();
 			} 
 			else if (cmdLine.hasOption("d")) {
 				DoidProcessor mpr = new DoidProcessor();

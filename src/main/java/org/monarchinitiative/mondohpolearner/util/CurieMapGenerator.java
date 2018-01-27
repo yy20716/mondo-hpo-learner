@@ -6,12 +6,12 @@ import java.io.InputStream;
 import java.util.Map;
 
 import org.apache.log4j.Logger;
-import org.monarchinitiative.mondohpolearner.mondo.MondoPreprocessor;
+import org.monarchinitiative.mondohpolearner.mondohpo.MondoHPOPreprocessor;
 import org.yaml.snakeyaml.Yaml;
 
 /* read curie_map.yaml and pur the k-v entries into curieMap, which will be used as a parameter of */
 public class CurieMapGenerator {
-	private static final Logger logger = Logger.getLogger(MondoPreprocessor.class.getName());
+	private static final Logger logger = Logger.getLogger(MondoHPOPreprocessor.class.getName());
 	
 	@SuppressWarnings("unchecked")
 	public Map<String, String> generate() {

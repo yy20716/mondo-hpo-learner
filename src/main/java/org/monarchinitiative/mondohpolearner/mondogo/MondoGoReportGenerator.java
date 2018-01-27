@@ -1,11 +1,10 @@
-package org.monarchinitiative.mondohpolearner.ncit;
+package org.monarchinitiative.mondohpolearner.mondogo;
 
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.PrintWriter;
 import java.util.List;
-import java.util.Map;
 import java.util.Optional;
 import java.util.Set;
 
@@ -20,27 +19,24 @@ import org.dllearner.core.Score;
 import org.monarchinitiative.mondohpolearner.Main;
 import org.monarchinitiative.mondohpolearner.common.Processor;
 import org.monarchinitiative.mondohpolearner.common.ReportGenerator;
+import org.monarchinitiative.mondohpolearner.util.QueryExecutor;
 import org.semanticweb.owlapi.model.OWLClass;
 import org.semanticweb.owlapi.model.OWLClassExpression;
-
-import com.google.common.collect.Multimap;
 
 import net.steppschuh.markdowngenerator.list.UnorderedList;
 import net.steppschuh.markdowngenerator.text.emphasis.BoldText;
 import net.steppschuh.markdowngenerator.text.heading.Heading;
 
-public class NCITReportGenerator extends ReportGenerator {
-	private static final Logger logger = Logger.getLogger(NCITReportGenerator.class.getName());
-	public Multimap<Resource, Resource> classSomeClassRsrcMap;
-	public Map<Resource, Resource> classEquivClassRsrcMap;
+public class MondoGoReportGenerator extends ReportGenerator {
+	private static final Logger logger = Logger.getLogger(MondoGoReportGenerator.class.getName());
 
-	public NCITReportGenerator() {
+	public MondoGoReportGenerator() {
 		super();
 	}
-
-	@Override 
+	
+	/* pre-compute all labels (rdfs:label)for doid classes */ 
 	public void precomputeLabels() {
-		/* 1. extract versionIRIs from doid ontology, 
+		/* 1. extract versionIRIs from ontology, 
 		 * e.g., <http://purl.obolibrary.org/obo/doid/releases/2017-11-10/doid.owl> 
 		 * We assume that there will be only one version URI in datasets.*/
 		ResultSet versionResultSet = queryExecutor.executeSelect(Main.queryExtractVersion);
@@ -50,7 +46,7 @@ public class NCITReportGenerator extends ReportGenerator {
 			version = versionRsrc.getURI().split("/")[6];
 		}
 
-		/* 2. extract class labels from doid.owl */
+		/* 2. extract class labels from mondo.owl */
 		ResultSet labelResultSet = queryExecutor.executeSelect(Main.queryComputeEntityLabel);
 		while (labelResultSet.hasNext()) {
 			QuerySolution binding = labelResultSet.nextSolution();
@@ -58,8 +54,16 @@ public class NCITReportGenerator extends ReportGenerator {
 			Literal label = (Literal) binding.get("label");
 			entityLabelMap.put(classRsrc.toString(), label.toString());
 		}
+
+		/* 3. extract class labels from go.owl */
+		ResultSet hpResultSet = QueryExecutor.executeSelectOnce("go.owl", Main.queryComputeEntityLabel);
+		while (hpResultSet.hasNext()) {
+			QuerySolution binding = hpResultSet.nextSolution();
+			Resource classRsrc = (Resource)binding.get("class");
+			Literal label = (Literal) binding.get("label");
+			entityLabelMap.put(classRsrc.toString(), label.toString());
+		}
 	}
-	
 
 	/* render and write a report file */
 	@SuppressWarnings("unchecked")

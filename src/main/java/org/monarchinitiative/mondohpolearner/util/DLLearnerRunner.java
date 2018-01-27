@@ -50,31 +50,12 @@ public class DLLearnerRunner implements Callable<Void> {
 
 			PosOnlyLP lp = new PosOnlyLP(closedWorldReasoner);
 			lp.setPositiveExamples(posExamples);
-
-			/*
-			PosNegLP lp = new PosNegLPStandard(closedWorldReasoner);
-			lp.setPositiveExamples(posExamples);
-			Set<OWLIndividual> negSet = Sets.newHashSet();
-			negSet.add(new OWLNamedIndividualImpl(IRI.create("http://a.com/GO0017145")));
-			negSet.add(new OWLNamedIndividualImpl(IRI.create("http://a.com/GO0005634")));
-			negSet.add(new OWLNamedIndividualImpl(IRI.create("http://a.com/GO0000791")));
-			negSet.add(new OWLNamedIndividualImpl(IRI.create("http://a.com/BFO0000002")));
-			negSet.add(new OWLNamedIndividualImpl(IRI.create("http://a.com/CARO0000003")));
-			negSet.add(new OWLNamedIndividualImpl(IRI.create("http://a.com/NCBITaxon1")));
-			negSet.add(new OWLNamedIndividualImpl(IRI.create("http://a.com/ENVO01000254")));
-			negSet.add(new OWLNamedIndividualImpl(IRI.create("http://a.com/PATO0001993")));
-			negSet.add(new OWLNamedIndividualImpl(IRI.create("http://a.com/PR000000001")));
-			negSet.add(new OWLNamedIndividualImpl(IRI.create("http://a.com/PR000018263")));
-			negSet.add(new OWLNamedIndividualImpl(IRI.create("http://a.com/RO0002577")));
-			negSet.add(new OWLNamedIndividualImpl(IRI.create("http://a.com/NBO0000347")));
-			lp.setNegativeExamples(negSet);
-			 */
 			lp.init();
 
 			RhoDRDown op = new RhoDRDown();
 			op.setReasoner(closedWorldReasoner);
 			op.setUseNegation(false);
-			// op.setDropDisjuncts(true);
+			op.setDropDisjuncts(true);
 			/*
 			op.setUseHasSelf(false);
 			op.setUseInverse(false);
