@@ -121,7 +121,7 @@ public class Processor {
 			int subClassSize = classSubClassMap.get(classCurie).size();
 			if (subClassSize < 2) continue;
 
-			Set<OWLIndividual> paramSet = new HashSet<>(classParamMap.get(classCurie));
+			Set<OWLIndividual> paramSet = new HashSet<>(classParamMap.get(classCurie));			
 			DLLearnerRunner runner = new DLLearnerRunner (closedWorldReasoner, reportGenerator, classCurie, paramSet);
 			exe.submit(runner);
 		}

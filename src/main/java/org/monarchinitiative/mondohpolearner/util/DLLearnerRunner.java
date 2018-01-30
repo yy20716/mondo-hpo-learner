@@ -46,7 +46,7 @@ public class DLLearnerRunner implements Callable<Void> {
 	@Override
 	public Void call() throws Exception {
 		try {
-			logger.info("Processing " + classCurie + "...");
+			logger.info("Processing " + classCurie + " where params are " + posExamples);
 
 			PosOnlyLP lp = new PosOnlyLP(closedWorldReasoner);
 			lp.setPositiveExamples(posExamples);

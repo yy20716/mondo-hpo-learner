@@ -86,11 +86,25 @@ public class MondoGoPreprocessor extends Preprocessor {
 			goModel.removeAll(null, RDFS.subPropertyOf, null);
 
 			for (String mondoClass : mondoGoMap.keySet()) {
+				Collection<String> goClasses = mondoGoMap.get(mondoClass);
+
+				for (String goClass: goClasses) {
+					String[] curieSplitArr = goClass.split(":");
+					Resource dumSubRsrc = goModel.createResource("http://a.com/" + curieSplitArr[0] + curieSplitArr[1]);
+					Resource dumSubClass = ResourceFactory.createResource(curieUtil.getIri(goClass).get());
+					goModel.add(dumSubRsrc, RDF.type, dumSubClass);
+					classEqEntityMap.put(mondoClass, dumSubRsrc.getURI());
+					classSubClassMap.put(mondoClass, goClass);
+				}
+			}
+			/*
+			for (String mondoClass : mondoGoMap.keySet()) {
 				Collection<String> mondoSubClasses = mondoClassSubClassMap.get(mondoClass); 
 
 				for (String mondoSubClass: mondoSubClasses) {
 					Collection<String> goClasses = mondoGoMap.get(mondoSubClass);
 
+					// try #1
 					for (String goClass: goClasses) {
 						String[] curieSplitArr = goClass.split(":");
 						Resource dumSubRsrc = goModel.createResource("http://a.com/" + curieSplitArr[0] + curieSplitArr[1]);
@@ -100,7 +114,7 @@ public class MondoGoPreprocessor extends Preprocessor {
 						classSubClassMap.put(mondoClass, goClass);
 					}
 					
-					/*
+					// try #2
 					for (String goClass: goClasses) {
 						Collection<String> goSubClasses = goClassSubClassMap.get(goClass);
 						goSubClasses.add(goClass);
@@ -114,11 +128,10 @@ public class MondoGoPreprocessor extends Preprocessor {
 							classSubClassMap.put(mondoClass, goSubClass);
 						}	
 					}
-					*/
-					
 				}
 			}
-
+			*/
+			
 			for (String eachClass : classEqEntityMap.keySet()) {
 				Collection<String> eqEntitySet = classEqEntityMap.get(eachClass);
 				for (String eqEntity: eqEntitySet) {
