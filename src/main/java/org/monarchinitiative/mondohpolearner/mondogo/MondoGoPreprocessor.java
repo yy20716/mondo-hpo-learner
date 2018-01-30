@@ -86,7 +86,7 @@ public class MondoGoPreprocessor extends Preprocessor {
 			goModel.removeAll(null, RDFS.subPropertyOf, null);
 
 			for (String mondoClass : mondoClassSubClassMap.keySet()) {
-				if (mondoClass.contains("18466") != true) continue;
+				if (mondoClass.contains("MONDO") != true) continue;
 				
 				Collection<String> mondoSubClasses = mondoClassSubClassMap.get(mondoClass); 
 				classSubClassMap.putAll(mondoClass, mondoSubClasses);
