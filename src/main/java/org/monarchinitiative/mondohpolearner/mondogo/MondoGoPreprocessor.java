@@ -85,9 +85,12 @@ public class MondoGoPreprocessor extends Preprocessor {
 			goModel.removeAll(null, RDFS.comment, null);
 			goModel.removeAll(null, RDFS.subPropertyOf, null);
 
+			// try #3: 
 			for (String mondoClass : mondoGoMap.keySet()) {
 				Collection<String> goClasses = mondoGoMap.get(mondoClass);
-
+				Collection<String> mondoSubClasses = mondoClassSubClassMap.get(mondoClass); 
+				if (mondoSubClasses.size() < 2) continue;
+				
 				for (String goClass: goClasses) {
 					String[] curieSplitArr = goClass.split(":");
 					Resource dumSubRsrc = goModel.createResource("http://a.com/" + curieSplitArr[0] + curieSplitArr[1]);
