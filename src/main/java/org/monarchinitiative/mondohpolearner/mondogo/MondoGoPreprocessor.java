@@ -97,7 +97,11 @@ public class MondoGoPreprocessor extends Preprocessor {
 		
 					for (String goClass: goClasses) {
 						Collection<String> goSubClasses = goClassSubClassMap.get(goClass);
+
 						for (String goSubClass: goSubClasses) {
+							Collection<String> goSubSubClasses = goClassSubClassMap.get(goSubClass);
+							if (goSubSubClasses != null && goSubSubClasses.size() > 0) continue;
+							
 							String[] curieSplitArr = goSubClass.split(":");
 							Resource dumSubRsrc = goModel.createResource("http://a.com/" + curieSplitArr[0] + curieSplitArr[1]);
 							Resource dumSubClass = ResourceFactory.createResource(curieUtil.getIri(goSubClass).get());
