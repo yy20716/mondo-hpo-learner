@@ -85,55 +85,23 @@ public class MondoGoPreprocessor extends Preprocessor {
 			goModel.removeAll(null, RDFS.comment, null);
 			goModel.removeAll(null, RDFS.subPropertyOf, null);
 
-			// try #3: 
-			for (String mondoClass : mondoGoMap.keySet()) {
-				Collection<String> goClasses = mondoGoMap.get(mondoClass);
+			for (String mondoClass : mondoClassSubClassMap.keySet()) {
 				Collection<String> mondoSubClasses = mondoClassSubClassMap.get(mondoClass); 
-				if (mondoSubClasses.size() < 2) continue;
+				classSubClassMap.putAll(mondoClass, mondoSubClasses);
 				
-				for (String goClass: goClasses) {
-					String[] curieSplitArr = goClass.split(":");
-					Resource dumSubRsrc = goModel.createResource("http://a.com/" + curieSplitArr[0] + curieSplitArr[1]);
-					Resource dumSubClass = ResourceFactory.createResource(curieUtil.getIri(goClass).get());
-					goModel.add(dumSubRsrc, RDF.type, dumSubClass);
-					classEqEntityMap.put(mondoClass, dumSubRsrc.getURI());
-					classSubClassMap.put(mondoClass, goClass);
-				}
-			}
-			/*
-			for (String mondoClass : mondoGoMap.keySet()) {
-				Collection<String> mondoSubClasses = mondoClassSubClassMap.get(mondoClass); 
-
 				for (String mondoSubClass: mondoSubClasses) {
 					Collection<String> goClasses = mondoGoMap.get(mondoSubClass);
-
-					// try #1
+					if (goClasses == null) continue;
+					
 					for (String goClass: goClasses) {
 						String[] curieSplitArr = goClass.split(":");
 						Resource dumSubRsrc = goModel.createResource("http://a.com/" + curieSplitArr[0] + curieSplitArr[1]);
 						Resource dumSubClass = ResourceFactory.createResource(curieUtil.getIri(goClass).get());
 						goModel.add(dumSubRsrc, RDF.type, dumSubClass);
 						classEqEntityMap.put(mondoClass, dumSubRsrc.getURI());
-						classSubClassMap.put(mondoClass, goClass);
-					}
-					
-					// try #2
-					for (String goClass: goClasses) {
-						Collection<String> goSubClasses = goClassSubClassMap.get(goClass);
-						goSubClasses.add(goClass);
-
-						for (String goSubClass: goSubClasses) {
-							String[] curieSplitArr = goSubClass.split(":");
-							Resource dumSubRsrc = goModel.createResource("http://a.com/" + curieSplitArr[0] + curieSplitArr[1]);
-							Resource dumSubClass = ResourceFactory.createResource(curieUtil.getIri(goSubClass).get());
-							goModel.add(dumSubRsrc, RDF.type, dumSubClass);
-							classEqEntityMap.put(mondoClass, dumSubRsrc.getURI());
-							classSubClassMap.put(mondoClass, goSubClass);
-						}	
 					}
 				}
 			}
-			*/
 			
 			for (String eachClass : classEqEntityMap.keySet()) {
 				Collection<String> eqEntitySet = classEqEntityMap.get(eachClass);
@@ -142,11 +110,9 @@ public class MondoGoPreprocessor extends Preprocessor {
 				}
 			}
 
-			/*
 			for (String eachClass : classParamMap.keySet()) {
 				logger.info(eachClass + "," + classParamMap.get(eachClass));
 			}
-			*/
 			
 			inputStreamReader.close();
 			File file = new File(Processor.hpofilewithAbox);
@@ -162,7 +128,6 @@ public class MondoGoPreprocessor extends Preprocessor {
 		ResultSet resultSet = QueryExecutor.executeSelectOnce (ontologyPath, Processor.queryExtractSubclasses);
 		while (resultSet.hasNext()) {
 			QuerySolution binding = resultSet.nextSolution();
-			// logger.info(binding);
 
 			Resource classRsrc = (Resource)binding.get("class");
 			Resource subClassRsrc = (Resource)binding.get("subclass");
