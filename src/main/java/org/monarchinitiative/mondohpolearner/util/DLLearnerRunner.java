@@ -88,8 +88,8 @@ public class DLLearnerRunner implements Callable<Void> {
 			alg.setReplaceSearchTree(true);
 			alg.setNoisePercentage(75);
 			alg.setMaxNrOfResults(15);
-
-			// alg.setMaxExecutionTimeInSeconds(3600);
+			alg.setMaxExecutionTimeInSeconds(600);
+			
 			// alg.setMaxDepth(3);
 			// alg.setUseMinimizer(false);
 			// alg.setReuseExistingDescription(true);
