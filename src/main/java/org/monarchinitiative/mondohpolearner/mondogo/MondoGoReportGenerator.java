@@ -37,7 +37,7 @@ import net.steppschuh.markdowngenerator.text.heading.Heading;
 
 public class MondoGoReportGenerator extends ReportGenerator {
 	private static final Logger logger = Logger.getLogger(MondoGoReportGenerator.class.getName());
-	public Multimap<String, String> goClassSubClassMap = Multimaps.newSetMultimap(new LinkedHashMap<>(), HashSet::new);
+	public Multimap<String, String> mondoClassSubClassMap = Multimaps.newSetMultimap(new LinkedHashMap<>(), HashSet::new);
 	public Multimap<String, String> mondoGoMap = Multimaps.newSetMultimap(new LinkedHashMap<>(), HashSet::new);
 
 	public MondoGoReportGenerator() {
@@ -94,11 +94,11 @@ public class MondoGoReportGenerator extends ReportGenerator {
 			sb.append(new BoldText("Subclasses:") + " " + generateAnnoClassListStr(classSubclassMap.get(classCurie))).append(newLineChar).append(newLineChar);
 
 			Collection<String> allGoClasses = Sets.newHashSet();
-			Collection<String> goClasses = mondoGoMap.get(classCurie);
-			for (String goClass: goClasses) {
-				Collection <String> goSubClasses = goClassSubClassMap.get(goClass);
-				for (String goSubClass: goSubClasses) {
-					allGoClasses.add(goSubClass);
+			Collection <String> mondoSubClasses = mondoClassSubClassMap.get(classCurie);
+			for (String mondoSubClass: mondoSubClasses) {
+				Collection<String> goClasses = mondoGoMap.get(mondoSubClass);	
+				for (String goClass: goClasses) {
+					allGoClasses.add(goClass);
 				}
 			}
 			String annotatedGoClassStr = generateAnnoClassListStr(allGoClasses);

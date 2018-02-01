@@ -21,7 +21,7 @@ public class MondoGoProcessor extends Processor {
 		pp = new MondoGoPreprocessor ();
 		reportGenerator = new MondoGoReportGenerator ();
 		
-		((MondoGoReportGenerator) reportGenerator).goClassSubClassMap = ((MondoGoPreprocessor) pp).goClassSubClassMap;
+		((MondoGoReportGenerator) reportGenerator).mondoClassSubClassMap = ((MondoGoPreprocessor) pp).mondoClassSubClassMap;
 		((MondoGoReportGenerator) reportGenerator).mondoGoMap = ((MondoGoPreprocessor) pp).mondoGoMap;
 	}
 }

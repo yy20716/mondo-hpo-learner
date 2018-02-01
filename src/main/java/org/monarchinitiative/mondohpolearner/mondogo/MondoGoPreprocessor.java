@@ -104,20 +104,6 @@ public class MondoGoPreprocessor extends Preprocessor {
 						Resource dumSubClass = ResourceFactory.createResource(curieUtil.getIri(goClass).get());
 						goModel.add(dumSubRsrc, RDF.type, dumSubClass);
 						classEqEntityMap.put(mondoClass, dumSubRsrc.getURI());
-						/*
-						Collection<String> goSubClasses = goClassSubClassMap.get(goClass);
-
-						for (String goSubClass: goSubClasses) {
-							Collection<String> goSubSubClasses = goClassSubClassMap.get(goSubClass);
-							if (goSubSubClasses != null && goSubSubClasses.size() > 0) continue;
-							
-							String[] curieSplitArr = goSubClass.split(":");
-							Resource dumSubRsrc = goModel.createResource("http://a.com/" + curieSplitArr[0] + curieSplitArr[1]);
-							Resource dumSubClass = ResourceFactory.createResource(curieUtil.getIri(goSubClass).get());
-							goModel.add(dumSubRsrc, RDF.type, dumSubClass);
-							classEqEntityMap.put(mondoClass, dumSubRsrc.getURI());
-						}
-						*/
 					}
 				}
 			}
