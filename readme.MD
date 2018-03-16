@@ -44,12 +44,11 @@ The execution of this program will generate the HTML files that show mappings be
 
 ## Results
 We uploaded the list of class expressions learned as follows:
- - [MONDO classes expressed with HPO terms](https://github.com/yy20716/mondo-hpo-learner/blob/master/mondohpo_report/index.html).
- - [MONDO classes expressed with GO terms](https://github.com/yy20716/mondo-hpo-learner/blob/master/mondohpo_report/index.md).
-
- - [DO classes expressed with HPO terms](https://github.com/yy20716/mondo-hpo-learner/blob/master/doid_report/index.html).
- - [Orphanet classes expressed with HPO terms](https://github.com/yy20716/mondo-hpo-learner/blob/master/orpha_report/index.html).
- - [NCIT classes expressed with NCIT terms](https://github.com/yy20716/mondo-hpo-learner/blob/master/ncit_report/index.html) (Note: it only contains classes under neoplasm branches of NCIT).
+ - [MONDO classes expressed with HPO terms](https://github.com/yy20716/mondo-hpo-learner/blob/master/mondohpo_report/index.md).
+ - [MONDO classes expressed with GO terms](https://github.com/yy20716/mondo-hpo-learner/blob/master/mondogo_report/index.md).
+ - [DO classes expressed with HPO terms](https://github.com/yy20716/mondo-hpo-learner/blob/master/doid_report/index.md).
+ - [Orphanet classes expressed with HPO terms](https://github.com/yy20716/mondo-hpo-learner/blob/master/orpha_report/index.md).
+ - [NCIT classes expressed with NCIT terms](https://github.com/yy20716/mondo-hpo-learner/blob/master/ncit_report/index.md) (Note: it only contains classes under neoplasm branches of NCIT).
   
 ## Contributors
 - [Chris Mungall](https://github.com/cmungall)
