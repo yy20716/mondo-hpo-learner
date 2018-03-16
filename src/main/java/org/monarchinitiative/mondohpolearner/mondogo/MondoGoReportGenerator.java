@@ -77,7 +77,7 @@ public class MondoGoReportGenerator extends ReportGenerator {
 
 	/* render and write a report file */
 	@SuppressWarnings("unchecked")
-	public void render(String classCurie, Set<? extends EvaluatedDescription> learnedExprs) {
+	public void render(String classCurie, @SuppressWarnings("rawtypes") Set<? extends EvaluatedDescription> learnedExprs) {
 		StringBuilder sb = new StringBuilder();
 		logger.info("Rendering a report file...");
 		try{
@@ -111,24 +111,26 @@ public class MondoGoReportGenerator extends ReportGenerator {
 			} else {
 				for(EvaluatedDescription<? extends Score> ed : learnedExprs) {
 					OWLClassExpression description = ed.getDescription();
-					Set<OWLClass> hpClasses = description.getClassesInSignature();
-					String hpClassExprStr =  renderer.render(description);
+					Set<OWLClass> goClasses = description.getClassesInSignature();
+					String goClassExprStr =  renderer.render(description);
 
-					for (OWLClass hpClass: hpClasses) {
-						String hpClassStr = hpClass.toString();
-						String hpClassCurie = hpClassStr.replace("_", ":");
-						Optional<String> hpClassIRIOpt = curieUtil.getIri(hpClassCurie);
+					for (OWLClass goClass: goClasses) {
+						String goClassStr = goClass.toString();
+						if (goClassStr.contains("Thing")) continue;
+						
+						String goClassCurie = goClassStr.replace("_", ":");
+						Optional<String> goClassIRIOpt = curieUtil.getIri(goClassCurie);
 
-						if (hpClassIRIOpt.isPresent()) {
-							String hpClassLabel = entityLabelMap.get(hpClassIRIOpt.get());
-							hpClassExprStr = hpClassExprStr.replace(hpClassStr, annoCuriewithLink(hpClassCurie) + " (" + hpClassLabel + ")");	
+						if (goClassIRIOpt.isPresent()) {
+							String goClassLabel = entityLabelMap.get(goClassIRIOpt.get());
+							goClassExprStr = goClassExprStr.replace(goClassStr, annoCuriewithLink(goClassCurie) + " (" + goClassLabel + ")");	
 						} else {
-							hpClassExprStr = hpClassExprStr.replace(hpClassStr, hpClassCurie);
+							goClassExprStr = goClassExprStr.replace(goClassStr, goClassCurie);
 						}
 					}
 
-					hpClassExprStr = hpClassExprStr + " " + dfPercent.format(ed.getAccuracy());
-					resultList.add(hpClassExprStr);
+					goClassExprStr = goClassExprStr + " " + dfPercent.format(ed.getAccuracy());
+					resultList.add(goClassExprStr);
 				}	
 			}
 

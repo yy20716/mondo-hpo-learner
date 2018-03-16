@@ -62,7 +62,7 @@ public class NCITReportGenerator extends ReportGenerator {
 	
 
 	/* render and write a report file */
-	@SuppressWarnings("unchecked")
+	@SuppressWarnings({"unchecked", "rawtypes"})
 	public void render(String classCurie, Set<? extends EvaluatedDescription> learnedExprs) {
 		StringBuilder sb = new StringBuilder();
 		logger.info("Rendering a report file...");
@@ -91,6 +91,8 @@ public class NCITReportGenerator extends ReportGenerator {
 
 					for (OWLClass hpClass: hpClasses) {
 						String hpClassStr = hpClass.toString();
+						if (hpClassStr.contains("Thing")) continue;
+						
 						String hpClassCurie = hpClassStr.replace("_", ":");
 						Optional<String> hpClassIRIOpt = curieUtil.getIri(hpClassCurie);
 

@@ -5,26 +5,11 @@ import java.util.concurrent.Callable;
 
 import org.apache.log4j.Logger;
 import org.dllearner.algorithms.celoe.CELOE;
-import org.dllearner.algorithms.celoe.OEHeuristicRuntime;
-import org.dllearner.algorithms.ocel.OCEL;
-import org.dllearner.learningproblems.PosNegLP;
-import org.dllearner.learningproblems.PosNegLPStandard;
 import org.dllearner.learningproblems.PosOnlyLP;
 import org.dllearner.reasoning.ClosedWorldReasoner;
 import org.dllearner.refinementoperators.RhoDRDown;
-import org.dllearner.utilities.owl.OWLClassExpressionLengthMetric;
 import org.monarchinitiative.mondohpolearner.common.ReportGenerator;
-import org.semanticweb.owlapi.model.IRI;
-import org.semanticweb.owlapi.model.OWLClassExpression;
 import org.semanticweb.owlapi.model.OWLIndividual;
-import org.semanticweb.owlapi.model.OWLObjectProperty;
-
-import com.google.common.collect.Sets;
-
-import uk.ac.manchester.cs.owl.owlapi.OWLClassImpl;
-import uk.ac.manchester.cs.owl.owlapi.OWLIndividualImpl;
-import uk.ac.manchester.cs.owl.owlapi.OWLNamedIndividualImpl;
-import uk.ac.manchester.cs.owl.owlapi.OWLObjectPropertyImpl;
 
 public class DLLearnerRunner implements Callable<Void> {
 	private static final Logger logger = Logger.getLogger(DLLearnerRunner.class.getName());
@@ -74,11 +59,13 @@ public class DLLearnerRunner implements Callable<Void> {
 			op.init();
 			*/
 			
-			// OEHeuristicRuntime heuristic = new OEHeuristicRuntime();
-			// heuristic.setExpansionPenaltyFactor(1);
-			// heuristic.setNodeRefinementPenalty(0);
-			// heuristic.setGainBonusFactor(0.1);
-
+			/*
+			OEHeuristicRuntime heuristic = new OEHeuristicRuntime();
+			heuristic.setExpansionPenaltyFactor(1);
+			heuristic.setNodeRefinementPenalty(0);
+			heuristic.setGainBonusFactor(0.1);
+			*/
+			
 			CELOE alg = new CELOE(lp, closedWorldReasoner);
 			alg.setOperator(op);
 			// alg.setHeuristic(heuristic);
@@ -86,14 +73,19 @@ public class DLLearnerRunner implements Callable<Void> {
 			alg.setWriteSearchTree(true);
 			alg.setSearchTreeFile("log/search-tree.log");
 			alg.setReplaceSearchTree(true);
-			alg.setNoisePercentage(75);
+			alg.setNoisePercentage(100);
 			alg.setMaxNrOfResults(15);
-			alg.setMaxExecutionTimeInSeconds(600);
 			
-			// alg.setMaxDepth(3);
-			// alg.setUseMinimizer(false);
-			// alg.setReuseExistingDescription(true);
-			// alg.setExpandAccuracy100Nodes(true);
+			/* Uncomment this option if you want to set the maximum execution time
+			alg.setMaxExecutionTimeInSeconds(600);
+			*/
+			
+			/*
+			alg.setMaxDepth(3);
+			alg.setUseMinimizer(false);
+			alg.setReuseExistingDescription(true);
+			alg.setExpandAccuracy100Nodes(true);
+			*/
 			alg.init();
 			alg.start();
 			reportGenerator.render(classCurie, alg.getCurrentlyBestEvaluatedDescriptions().descendingSet());

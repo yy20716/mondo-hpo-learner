@@ -228,6 +228,8 @@ public class ReportGenerator {
 
 					for (OWLClass hpClass: hpClasses) {
 						String hpClassStr = hpClass.toString();
+						if (hpClassStr.contains("Thing")) continue;
+						
 						String hpClassCurie = hpClassStr.replace("_", ":");
 						Optional<String> hpClassIRIOpt = curieUtil.getIri(hpClassCurie);
 

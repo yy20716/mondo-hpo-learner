@@ -2,11 +2,9 @@ package org.monarchinitiative.mondohpolearner.orpha;
 
 import java.io.File;
 
-import org.apache.log4j.Logger;
 import org.monarchinitiative.mondohpolearner.common.Processor;
 
 public class OrphanetProcessor extends Processor{
-	private static final Logger logger = Logger.getLogger(OrphanetProcessor.class.getName()); 
 
 	public OrphanetProcessor() {
 		super();
